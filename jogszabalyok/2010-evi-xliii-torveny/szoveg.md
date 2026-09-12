@@ -222,7 +222,9 @@ hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) b
 
 #### 25. §
 
-25/A. § A miniszterelnök havi illetményének összege megegyezik az Országgyűlés elnöke – az Országgyűlésről szóló 2012. évi XXXVI. törvény szerinti – tiszteletdíjának összegével.
+25/A. § (1) A miniszterelnök havi illetményének összege – amennyiben a miniszterelnök országgyűlési képviselői megbízatást is betölt – megegyezik az Országgyűlésről szóló 2012. évi XXXVI. törvény 104. § (1) bekezdése szerinti országgyűlési képviselői tiszteletdíj összegének 1,91-szeresével.
+
+(2) Amennyiben a miniszterelnök országgyűlési képviselői megbízatást nem tölt be, havi illetményének összege megegyezik az Országgyűlésről szóló 2012. évi XXXVI. törvény 104. § (1) bekezdése szerinti országgyűlési képviselői tiszteletdíj összegének 2,91-szeresével.
 
 25/B. § A miniszterelnök havi illetményének összegét a 25/A. § alapján minden év július 1-napjával meg kell állapítani, amire a miniszterelnök a következő év június 30. napjáig jogosult.
 
@@ -447,6 +449,8 @@ hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, a (2) b
 92. § E törvénynek az Európai Unió Tanácsa 2024. második félévi magyar elnökségével kapcsolatos feladatok ellátására irányuló jogviszonyról, valamint egyes kapcsolódó rendelkezésekről szóló 2023. évi IX. törvénnyel megállapított 25/B. §-a és 52. §-a alapján az illetményt és a díjazást első alkalommal 2024. július 1. napjával kell megállapítani.
 
 92/A. § Az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvénnyel megállapított 13. § (11) és (12) bekezdését az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+92/B. § E törvénynek a megye és a kormánymegbízott elnevezés alkalmazásával összefüggő egyes törvények módosításáról szóló 2026. évi XLIX. törvénnyel (a továbbiakban: Módtv.2.) megállapított 25/A. §-a szerinti illetményt első alkalommal a Módtv.2. hatálybalépését követő hónap első napjával kell megállapítani.
 
 ### Az Európai Unió jogi aktusainak való megfelelés
 
