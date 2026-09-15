@@ -2669,6 +2669,11 @@
       "datum": "2026-09-01",
       "verzio": 98,
       "sha": "6f86bbaa20f134d6dbbb713d03cf3c9aa57f4561"
+    },
+    {
+      "datum": "2026-09-15",
+      "verzio": 105,
+      "sha": "6cb77fe803c08514136c418523885c7a36fab6f5"
     }
   ],
   "1995-evi-cxvii-torveny-szja": [
@@ -67572,6 +67577,11 @@
       "datum": "2026-07-15",
       "verzio": 62,
       "sha": "2f316f4f009e1d96d26caf0cc1272fdd5f48f744"
+    },
+    {
+      "datum": "2026-09-12",
+      "verzio": 63,
+      "sha": "c9d910dae62d0395fe9d10bd7142ed4d8eb4b461"
     }
   ],
   "2010-evi-xliv-torveny": [
