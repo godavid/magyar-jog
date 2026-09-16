@@ -1,5 +1,5 @@
 # Napi delta — az aznap hatályba lépő új időállapotok commitolása.
-# Ez a fájl a magyar-jogtar adat-repo .github/workflows/ könyvtárában él;
+# Ez a fájl a magyar-jog adat-repo .github/workflows/ könyvtárában él;
 # a feldolgozó kód a godavid/gitjog repóból jön. Titok nem kell: a beépített
 # GITHUB_TOKEN commitol (contents: write) és riaszt issue-val (issues: write).
 name: Napi delta
@@ -48,11 +48,11 @@ jobs:
 
       - name: Függőségek
         working-directory: kod
-        run: pnpm install --frozen-lockfile --filter @nyilt-jogtar/pipeline
+        run: pnpm install --frozen-lockfile --filter @gitjog/pipeline
 
       - name: Delta futtatása
         working-directory: kod
-        run: pnpm --filter @nyilt-jogtar/pipeline delta
+        run: pnpm --filter @gitjog/pipeline delta
         env:
           NYILT_ADAT_REPO_DIR: ${{ github.workspace }}/adat
           NYILT_CACHE_DIR: ${{ runner.temp }}/njt-cache
