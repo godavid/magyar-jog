@@ -1,11 +1,11 @@
-# Magyar Jogtár — a magyar jogrendszer git-natív verziókövetése
+# GitJog — a magyar jogrendszer git-natív verziókövetése
 
 > **Hungarian legislation as a git repository.** 4,300+ acts in consolidated
 > Markdown; one commit = one point-in-time version (the commit date is the date of
 > entry into force), so `git diff` is literally the amendment. Updated daily.
 > Public domain (CC0) — but **not an authentic source of law**, see
 > [DISCLAIMER.md](DISCLAIMER.md). Browse it at
-> [jogtar.remenyfarm.hu](https://jogtar.remenyfarm.hu).
+> [gitjog.remenyfarm.hu](https://gitjog.remenyfarm.hu).
 
 Ez a repó a magyar törvények **konszolidált szövegét** tartalmazza Markdown
 formátumban, úgy, hogy **a git history maga a jogtörténet**:
@@ -38,7 +38,7 @@ index/allapotok.json            # időállapot → commit SHA térkép (a webold
 Egyetlen szöveg letöltéséhez nem kell klónozni:
 
 ```
-https://raw.githubusercontent.com/godavid/magyar-jogtar/main/jogszabalyok/<slug>/szoveg.md
+https://raw.githubusercontent.com/godavid/magyar-jog/main/jogszabalyok/<slug>/szoveg.md
 ```
 
 ## ⚠️ Nem hiteles jogforrás
@@ -53,7 +53,7 @@ szöveg** — a hiteles jogforrás a njt.jog.gov.hu és a Magyar Közlöny. Rés
 A repót napi automatikus futás (GitHub Actions) tartja karban: az aznap hatályba
 lépő új időállapotokat commitolja. A feldolgozó kód nyílt:
 [godavid/gitjog](https://github.com/godavid/gitjog). Weboldal:
-[jogtar.remenyfarm.hu](https://jogtar.remenyfarm.hu).
+[gitjog.remenyfarm.hu](https://gitjog.remenyfarm.hu).
 
 ## Licenc
 
