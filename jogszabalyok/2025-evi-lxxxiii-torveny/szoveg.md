@@ -340,7 +340,7 @@ lép.
 
 (5) A 24. §, a 26. § és a 3. melléklet 2026. július 1-jén lép hatályba.
 
-(6) A 66. §–70. §, a 71. § e) pontja, a 85. §, a 86. §, a 100. §, a 101. § és a 113. § 2026. október 1-jén lép hatályba.
+(6) A 66–70. §, a 71. § e) pontja, a 85. §, a 86. §, a 100. §, a 101. § és a 113. § 2028. január 1-jén lép hatályba.
 
 #### 28. Az Európai Unió jogának való megfelelés
 

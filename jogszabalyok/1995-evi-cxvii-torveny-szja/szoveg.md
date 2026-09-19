@@ -3888,7 +3888,7 @@ kerül sor;
 
 7.24. a munkába járással összefüggő terhek csökkentését célzó támogatásokról, valamint a munkaerő-toborzás támogatásáról szóló kormányrendelet szerinti lakhatási támogatás, a foglalkoztatást elősegítő szolgáltatásokról és támogatásokról szóló kormányrendelet szerint az álláskereső részére nyújtható mobilitási támogatás a kifizetés időpontjától függetlenül;
 
-7.25.
+7.25. a dízelüzemű személygépkocsit használó magánszemélyek támogatásáról szóló kormányrendelet szerinti dízeltámogatás;
 
 7.26. a bizalmi vagyonkezelési jogviszony alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyon
 

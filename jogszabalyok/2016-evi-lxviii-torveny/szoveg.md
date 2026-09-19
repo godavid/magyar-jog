@@ -2716,6 +2716,10 @@ kell kiskereskedelmi eladási árnak tekinteni.
 
 (43) A 2026. évben a 110. § (1) bekezdés a)–c) pontja szerinti adómértékek 110. § (4) bekezdése szerinti valorizációja július 1-jétől alkalmazandó. A 2027. évben a 110. § (4) bekezdése tekintetében a tárgyévet megelőző évi adó mértéke alatt a 2026. július 1-jétől alkalmazandó adó mértékét kell érteni.
 
+(44) A 117. § (1) bekezdésétől eltérően a mezőgazdasági termelő az e rendelkezés hatálybalépésének napjától 2026. december 31-ig beszerzett gázolaj teljes megfizetett adóját visszaigényelheti a 117. § (1) bekezdésében megjelölt mennyiségig. Az előbbiek szerint megállapított adó-visszaigénylés mértékét az állami adó- és vámhatóság az üzemanyag-áremelkedésre tekintettel nyújtott támogatásokkal összefüggő intézkedésekről és kapcsolódó törvények módosításáról szóló 2026. évi L. törvény kihirdetését követő 5 munkanapon belül, majd a 117. § (1) bekezdésében megjelölt határidőkig teszi közzé a Magyar Közlönyben és az internetes honlapján.
+
+(45) A 2027. évben a 145. § (1a) bekezdése tekintetében a tárgyévet megelőző évi adó mértéke alatt a 2026. november 1-jétől alkalmazandó adó mértékét kell érteni.
+
 151. § A 2021. január 1-jét megelőzően előállított magánfőzött párlatra az előállításkor hatályos szabályokat kell alkalmazni.
 
 #### 102. Az Európai Unió jogának való megfelelés
