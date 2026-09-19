@@ -20,14 +20,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 3. § Az Alkotmánybíróság székhelye Budapest.
 
-4. § (1) Az Alkotmánybíróság költségvetése a központi költségvetés szerkezeti rendjében önálló fejezet. Az Alkotmánybíróság a költségvetésére vonatkozó javaslatát és a költségvetésének végrehajtásáról szóló beszámolóját maga állítja össze, és azt a Kormány változtatás nélkül terjeszti be a központi költségvetésről, illetve az annak végrehajtásáról szóló törvényjavaslat részeként az Országgyűlésnek.
-
-(2) Az Alkotmánybíróság költségvetését – ezen belül a személyi kiadások előirányzatát – úgy kell megállapítani, hogy az ne legyen kevesebb az előző évi központi költségvetésben megállapított összegnél azzal, hogy a személyi juttatások előirányzatának összegét – az egyéb előirányzatok csökkentése nélkül – korrigálni kell
-
-- a) az év közben biztosított többletforrások összességével, illetve
-- b) a költségvetési év során bekövetkező – a kúriai bírók személyi juttatásaira irányadó jogszabályból eredő – illetménynövekedés eléréséhez szükséges költségvetési forrás mértékével.
-
-(3) A (2) bekezdést kell alkalmazni az egyéb működési kiadások előirányzatán belül a munkaadókat terhelő járulékok és szociális hozzájárulási adó előirányzata összegének meghatározása tekintetében is.
+4. § Az Alkotmánybíróság költségvetése a központi költségvetés szerkezeti rendjében önálló fejezet. Az Alkotmánybíróság a költségvetésére vonatkozó javaslatát és a költségvetésének végrehajtásáról szóló beszámolóját maga állítja össze, és azt a Kormány változtatás nélkül terjeszti be a központi költségvetésről, illetve az annak végrehajtásáról szóló törvényjavaslat részeként az Országgyűlésnek. Az Alkotmánybíróság költségvetését úgy kell megállapítani, hogy ne legyen kevesebb az előző évi központi költségvetésben megállapított összegnél.
 
 #### 3. Az Alkotmánybíróság tagjának jogállása
 
@@ -39,9 +32,9 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 - b) 45. életévét betöltötte, de 70. életévét még nem töltötte be, és
 - c) kiemelkedő tudású elméleti jogász (egyetemi tanár vagy a Magyar Tudományos Akadémia doktora), vagy legalább húszévi, jogi területen folytatott szakmai gyakorlattal rendelkezik.
 
-(2)
+(2) Az (1) bekezdésben meghatározott jogi szakmai gyakorlatot olyan munkakörben kell eltölteni, amely betöltésének feltétele a jogász végzettség.
 
-(3) Az Alkotmánybíróság tagjának megbízatási ideje tizenkét év. Az Alkotmánybíróság tagja nem választható újra.
+(3)
 
 (4) Az Alkotmánybíróságnak nem lehet tagja az, aki a megválasztása napját megelőző négy éven belül a Kormány tagja, valamely párt vezető tisztségviselője volt, vagy politikai és szakmai felsővezetői tisztséget töltött be.
 
@@ -101,7 +94,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 15. § (1) Az Alkotmánybíróságban betöltött tagság megszűnik
 
-- a)
+- a) a hetvenedik életév betöltésével, valamint
 - b) a megbízatási időtartam leteltével.
 
 (2) Az Alkotmánybíróságban betöltött tagság megszűnik továbbá
@@ -138,7 +131,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 - b) neki felróható okból egy évig nem vesz részt az Alkotmánybíróság munkájában, vagy
 - c) a vagyonnyilatkozat-tételi kötelezettségét szándékosan elmulasztja, vagy a vagyonnyilatkozatában lényeges adatot, tényt szándékosan valótlanul közöl.
 
-(6) Az Alkotmánybíróság tagja megbízatásának megszűnését a 15. § (1) bekezdés b) pontja esetében – a megbízatási idő lejártának napjával – és a 15. § (2) bekezdés a)–b) pontja esetében az elnök állapítja meg, és a teljes ülésen bejelenti. A 15. § (2) bekezdés c)–f) pontja esetén az Alkotmánybíróság teljes ülése hoz határozatot, amelyet az Alkotmánybíróság Határozatai hivatalos lapban közzé kell tenni.
+(6) Az Alkotmánybíróság tagja megbízatásának megszűnését a 15. § (1) bekezdés a) és b) pontja esetében – a hetvenedik életév betöltésének, illetve a megbízatási idő lejártának napjával – és a 15. § (2) bekezdés a)–b) pontja esetében az elnök állapítja meg, és a teljes ülésen bejelenti. A 15. § (2) bekezdés c)–f) pontja esetén az Alkotmánybíróság teljes ülése hoz határozatot, amelyet a Magyar Közlönyben közzé kell tenni.
 
 #### 4. Az Alkotmánybíróság elnöke és elnökhelyettese
 
@@ -159,12 +152,45 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (2) Az elnök az Alkotmánybíróság mint központi költségvetési fejezet tekintetében a fejezetet irányító szerv vezetője.
 
+17/A. § (1) Az Alkotmánybíróság tagjának az Alkotmánybíróság elnöke tisztségére való megválasztását pályázat előzi meg. A pályázatot
+
+- a) a 18. § (1) bekezdés a) pontja szerinti esetben az Alkotmánybíróság elnöke elnöki megbízatásának várható megszűnését megelőző kilencven napon belül, vagy
+- b) a 18. § (1) bekezdés b) vagy c) pontja szerinti esetben vagy ha a (3) bekezdés szerint kiírt pályázat vagy az (5) és (6) bekezdés szerint lefolytatott szavazás eredménytelenül zárult, az Alkotmánybíróság elnöke elnöki megbízatásának megszűnését vagy a pályázat eredménytelen lezárulását követő legfeljebb tizenöt napon belül
+
+kell kiírni.
+
+(2) A pályázati kiírást a főtitkár készíti elő, a teljes ülés fogadja el és teszi közzé. A pályázati kiírásban a pályázat benyújtására legalább tizenöt, de legfeljebb harminc napot kell biztosítani. A pályázati kiírásról, illetve a pályázat benyújtásának lehetőségéről a főtitkár az Alkotmánybíróság tagjait haladéktalanul tájékoztatja, továbbá intézkedik a pályázati kiírásnak az Alkotmánybíróság honlapján történő nyilvános közzétételéről.
+
+(3) A pályázatot az Alkotmánybíróság főtitkárához zárt borítékban kell benyújtani. A főtitkár a pályázati határidő lejártát követő napon a beérkezett borítékot felbontja, valamint valamennyi beérkezett pályázatot – másolati formában – az Alkotmánybíróság tagjai számára rendelkezésre bocsátja. Ha a rendelkezésre álló idő alatt egyetlen pályázat sem érkezett, a kiírt pályázatot eredménytelennek kell tekinteni.
+
+(4) Az Alkotmánybíróság teljes ülése az Alkotmánybíróság elnökét – a pályázati határidő lejártát követő naptól számított – legfeljebb nyolc napon belül titkos szavazással (az e § alkalmazásában a továbbiakban: szavazás) választja meg.
+
+(5) Az Alkotmánybíróság elnökének megválasztásához – az Alkotmánybíróság teljes ülésén megtartott szavazáson – az Alkotmánybíróság tagjainak több mint felének a szavazata szükséges.
+
+(6) Ha az (5) bekezdés szerinti szavazás eredménytelen volt, a szavazást az elnök eredményes megválasztásáig, de legfeljebb három alkalommal meg kell ismételni, azzal, hogy a megismételt szavazások során
+
+- a) szavazategyenlőség hiányában az első szavazáson legmagasabb számú szavazatot kapott jelöltre és az első szavazáson második legmagasabb számú szavazatot kapott jelöltre,
+- b) első helyen kialakult szavazategyenlőség esetén az első szavazáson legmagasabb számú szavazatot kapott jelöltekre, vagy
+- c) második helyen kialakult szavazategyenlőség esetén az első szavazáson legmagasabb számú szavazatot kapott jelöltre és az első szavazáson második legmagasabb számú szavazatot kapott jelöltekre
+
+lehet érvényesen szavazni.
+
+(7) Ha az Alkotmánybíróság teljes ülése az Alkotmánybíróság elnökét az (5) és (6) bekezdés szerinti nem választja meg, a pályázati eljárást eredménytelennek kell tekinteni.
+
+(8) Az elnök elnöki megbízatása
+
+- a) a korábbi elnök elnöki megbízatása megszűnésével, vagy
+- b) – feltéve, hogy az elnök elnöki megbízatása már megszűnt – a megválasztásával
+
+kezdődik meg.
+
 18. § (1) Az elnök elnöki megbízatása megszűnik
 
-- a) az Alkotmánybíróságban betöltött tagság megszűnésével,
-- b) lemondással.
+- a) a megbízatási idő leteltével,
+- b) az Alkotmánybíróságban betöltött tagság megszűnésével,
+- c) lemondással.
 
-(2) Az elnök az elnöki megbízatásról való lemondást az Országgyűlés elnökével írásban közli. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni, a megbízatás a lemondás benyújtásának a napjával szűnik meg. Az elnöki megbízatásról való lemondás az elnök Alkotmánybíróságban betöltött tagságát nem érinti.
+(2) Az elnök az elnöki megbízatásról való lemondást a főtitkárral írásban közli. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni, a megbízatás a lemondás benyújtásának a napjával szűnik meg. Az elnöki megbízatásról való lemondás az elnök Alkotmánybíróságban betöltött tagságát nem érinti.
 
 19. § (1) Az elnök a Kúria elnökét megillető juttatásokra, valamint a Kúria elnökét megillető illetmény 120%-ára jogosult.
 
@@ -218,7 +244,7 @@ Az Országgyűlés a demokratikus jogállam, az alkotmányos rend és az Alaptö
 
 (4) Az elnökhelyettes az elnökhelyettesi megbízatásról való lemondást az elnökkel írásban közli. A lemondás érvényességéhez elfogadó nyilatkozat nem szükséges. A lemondást nem kell indokolni, a megbízatás a lemondás benyújtásának a napjával szűnik meg. Az elnökhelyettesi megbízatásról való lemondás az elnökhelyettes Alkotmánybíróságban betöltött tagságát nem érinti.
 
-(5) Az elnökhelyettes az elnök akadályoztatása esetén az elnök jogkörében eljárva helyettesíti az elnököt, valamint ellátja mindazokat a feladatokat, amellyel az elnök megbízza. Ha az elnök megbízatása megszűnt, jogkörét az elnökhelyettes, az elnök és az elnökhelyettes együttes akadályoztatása esetén a 17. § (1) bekezdés b)–f) pontjában foglalt hatásköröket az Alkotmánybíróság életkorban legidősebb tagja gyakorolja.
+(5) Az elnökhelyettes az elnök akadályoztatása esetén az elnök jogkörében eljárva helyettesíti az elnököt, valamint ellátja mindazokat a feladatokat, amellyel az elnök megbízza. Ha az elnök megbízatása megszűnt, jogkörét az elnökhelyettes, az elnök és az elnökhelyettes együttes akadályoztatása esetén a 17. § (1) bekezdés b)–f), valamint j) pontjában foglalt hatásköröket az Alkotmánybíróság életkorban legidősebb tagja gyakorolja.
 
 #### 5. Az Alkotmánybíróság hivatali szervezete
 
@@ -374,15 +400,9 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (5) Az Alkotmánybíróság e §-ban meghatározott jogkörében a teljes ülés jelenlévő tagjai kétharmadának egyetértésével hozza meg döntését.
 
-#### 13/A. A köztársasági elnök átmeneti akadályoztatásának tényét megállapító határozat vizsgálata
+#### 13/A.
 
-35/A. § (1) Az Alkotmánybíróság az Országgyűlés Alaptörvény 14. cikk (2) bekezdése alapján meghozott, a köztársasági elnök átmeneti akadályoztatásának tényét megállapító határozatát az Alaptörvénnyel való összhangja és törvényessége tekintetében hivatalból előzetesen vizsgálja. Az Országgyűlés elnöke a határozatot az elfogadása napján megküldi az Alkotmánybíróság részére.
-
-(2) Az (1) bekezdésben meghatározott eljárásban az Alkotmánybíróság a törvényesség tekintetében különösen azt vizsgálja, hogy az Országgyűlés határozata – a köztársasági elnök jogállásáról és javadalmazásáról szóló 2011. évi CX. törvény 5/A. §-ában foglaltakra tekintettel – megfelelően rendelkezik-e arról, hogy az átmeneti akadályoztatás ténye a köztársasági elnöknek az átmeneti akadályoztatása megszűnéséről szóló írásbeli nyilatkozatával, a nyilatkozatban meghatározott – a nyilatkozattétel időpontjánál nem korábbi − időpontban megszűnik.
-
-(3) Az Alkotmánybíróság az eljárást az Országgyűlés határozatának meghozatalától számított három munkanapon belül folytatja le. Az elnök gondoskodik az ügynek az e határidő betartását szolgáló időben történő napirendre vételéről.
-
-(4) Az Országgyűlés elnöke és jegyzői az (1) bekezdés szerinti határozatot csak akkor írják alá, ha az Alkotmánybíróság az Országgyűlés határozatát helybenhagyja, ellenkező esetben a határozat közzétételére nem kerül sor.
+#### 35/A. §
 
 #### 14. A hatásköri összeütközés feloldása
 
@@ -450,10 +470,7 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (4) Az Alkotmánybíróság a 33. §-ban és a 33/A. §-ban meghatározott hatáskörében az Országgyűlés határozatát helybenhagyja, vagy az Országgyűlés határozatának megsemmisítése mellett az Országgyűlést új határozat meghozatalára hívja fel.
 
-(5) Az Alkotmánybíróság a 35/A. §-ban meghatározott hatáskörében eljárva
-
-- a) az Országgyűlés határozatát helybenhagyja, vagy
-- b) megállapítja, hogy az Országgyűlés határozata alaptörvény-ellenes vagy nem felel meg a 35/A. § (2) bekezdésében foglaltaknak.
+(5)
 
 42. § (1) Ha az Alkotmánybíróság olyan jogszabály nemzetközi szerződésbe ütközését állapítja meg, amely a nemzetközi szerződést kihirdető jogszabállyal az Alaptörvény alapján nem lehet ellentétes, a nemzetközi szerződéssel ellentétes jogszabályt teljesen vagy részben megsemmisíti.
 
@@ -467,11 +484,11 @@ indítványa alapján elvi véleményt nyilvánít.
 
 (4) Az Alkotmánybíróság a bírói döntés megsemmisítése esetén megsemmisítheti a döntéssel felülvizsgált más bírósági vagy hatósági döntéseket is.
 
-44. § (1) Az Alkotmánybíróság határozatait, végzéseit, teljes ülési állásfoglalásait, valamint minősített adatot nem tartalmazó normatív határozatait az Alkotmánybíróság Határozatai hivatalos lapban kell közzétenni.
+44. § (1) Az Alkotmánybíróságnak az Alaptörvény, az Alaptörvény módosítása és a jogszabály vagy jogszabályi rendelkezés megsemmisítéséről, a jogszabály hatálybalépésének ideiglenes felfüggesztéséről, az Országgyűlés népszavazás elrendelésével összefüggő határozatának vizsgálatáról, a köztársasági elnök tisztségtől való megfosztásáról, valamint az Alaptörvény értelmezéséről szóló határozatát a Magyar Közlönyben közzé kell tenni. Az Alkotmánybíróság elrendelheti más határozatának vagy végzésének a Magyar Közlönyben való közzétételét is.
 
 (2) Az Alkotmánybíróság határozatai az Alkotmánybíróság Hivatalának honlapján digitális formában, bárki számára, személyazonosítás nélkül, korlátozástól mentesen, díjmentesen hozzáférhetőek. A határozatok közzétételére a bíróságok szervezetéről és igazgatásáról szóló törvény bírósági határozatok nyilvánosságára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-45. § (1) A megsemmisített jogszabály vagy jogszabályi rendelkezés az Alkotmánybíróság megsemmisítésről szóló határozatának az Alkotmánybíróság Határozatai hivatalos lapban való közzétételét követő napon hatályát veszti, és e naptól nem alkalmazható, a kihirdetett, de hatályba nem lépett jogszabály pedig nem lép hatályba.
+45. § (1) A megsemmisített jogszabály vagy jogszabályi rendelkezés az Alkotmánybíróság megsemmisítésről szóló határozatának a Magyar Közlönyben való közzétételét követő napon hatályát veszti, és e naptól nem alkalmazható, a kihirdetett, de hatályba nem lépett jogszabály pedig nem lép hatályba.
 
 (1a) Az Alkotmánybíróság az Alaptörvény 24. cikk (6) bekezdés b) pontja szerinti esetben az Alaptörvényt vagy az Alaptörvény módosítását a kihirdetésére visszamenőleges hatállyal semmisíti meg.
 
@@ -517,11 +534,11 @@ indítványa alapján elvi véleményt nyilvánít.
 
 - a) az elnök,
 - b) az elnök akadályoztatása esetén az elnökhelyettes, vagy
-- c) az elnök és az elnökhelyettes együttes akadályoztatása esetén az Alkotmánybíróság elnök által kijelölt tagja
+- c) az elnök és az elnökhelyettes együttes akadályoztatása esetén az Alkotmánybíróság életkorban legidősebb tagja
 
 jelen van.
 
-(4a) A (4) bekezdés c) pontja szerinti esetben az Alkotmánybíróság elnök által kijelölt tagja eseti jelleggel az elnök jogkörében eljárva összehívja és vezeti a teljes ülést.
+(4a) A (4) bekezdés c) pontja szerinti esetben az Alkotmánybíróság életkorban legidősebb tagja eseti jelleggel az elnök jogkörében eljárva összehívja és vezeti a teljes ülést.
 
 (5) Ha e törvény másként nem rendelkezik, a teljes ülés döntéseit nyílt szavazással, szótöbbséggel, tartózkodó szavazat nélkül hozza meg. Az Alkotmánybíróság tagja a döntésben köteles részt venni. Szavazategyenlőség esetén az elnök szavazata dönt.
 
@@ -553,21 +570,21 @@ jelen van.
 
 (2) Az Alkotmánybíróság teljes ülésén dönt
 
-- a) a 23. §-ban, a 23/A. §-ban, a 24/A. §-ban, a 35. §-ban, a 35/A. §-ban és a 38. §-ban meghatározott eljárásban,
+- a) a 23. §-ban, a 23/A. §-ban, a 24/A. §-ban, a 35. §-ban és a 38. §-ban meghatározott eljárásban,
 - b) alaptörvény-ellenes vagy nemzetközi szerződésbe ütköző törvény megsemmisítéséről, valamint a tanács által érdemben vizsgált ügyben törvény megsemmisítéséről,
 - c) az Alkotmánybíróság ügyrendjének, valamint szervezeti és működési szabályzatának megalkotásáról,
 - d) az Alkotmánybíróság tagja
   - da) mentelmi jogának felfüggesztéséről,
   - db) összeférhetetlenségének megállapításáról, valamint az összeférhetetlenség alapján tagsága megszűnésének megállapításáról,
   - dc) megbízatás alóli felmentéséről, valamint kizárásáról az Alkotmánybíróság tagjai közül,
-- e) az elnökhelyettes és a főtitkár megválasztásáról, valamint
+- e) az elnök, az elnökhelyettes és a főtitkár megválasztásáról, valamint
 - f) minden olyan ügyben, amelyben a teljes ülés döntését az ügy társadalmi vagy alkotmányjogi jelentősége, bonyolultsága, az alkotmányos joggyakorlat egységének megőrzése, illetve egyéb fontos ok indokolja.
 
 (3) Az indítvány teljes ülés általi elbírálását az elnök saját kezdeményezésére vagy az Alkotmánybíróság öt tagja javaslatára, továbbá a 49. § (6) bekezdése alapján rendeli el.
 
 #### 19. Az eljárás megindítása
 
-51. § (1) Az Alkotmánybíróság – ha e törvény eltérően nem rendelkezik – az Alaptörvény, valamint e törvény szerint arra jogosult indítványa alapján jár el.
+51. § (1) Az Alkotmánybíróság az Alaptörvény, valamint e törvény szerint arra jogosult indítványa alapján jár el.
 
 (2)
 
@@ -653,7 +670,7 @@ jelen van.
 
 57. § (1) Az Alkotmánybíróság az indítványok érdemében a rendelkezésre álló iratok alapján, illetve az (1b)–(1c) bekezdés szerinti esetben a jogszabály megalkotója, a törvény kezdeményezője vagy ezek képviselőjének meghallgatása, illetve véleménye megismerése után dönt.
 
-(1a) Az Alkotmánybíróság honlapján közzé kell tenni, ha törvénnyel, kormányrendelettel vagy más, a személyek széles körét érintő jogszabállyal összefüggésben a 23–26. §-ban vagy a 32. §-ban foglalt hatáskörben eljárás indult. Az Alkotmánybíróság a 23–24. §-ban és a 32. §-ban foglalt hatáskörében indult eljárások esetén –, valamint ha a 25–26. § alapján indult eljárásokban az indítványozó hozzájárult – az indítványt közzéteszi, egyéb esetben az indítványban foglalt alkotmányossági kérelem lényegét az 52. § (1) bekezdés c)–e) pontját illetően – a személyes adatok törlése mellett – nyilvánosságra hozza.
+(1a) Az Alkotmánybíróság honlapján közzé kell tenni, ha törvénnyel, kormányrendelettel vagy más, a személyek széles körét érintő jogszabállyal összefüggésben a 23–26. §-ban vagy a 32. §-ban foglalt hatáskörben eljárás indult. Az Alkotmánybíróság a 23–25. §-ban és a 32. §-ban foglalt hatáskörében indult eljárások esetén –, valamint ha a 26. § alapján indult eljárásokban az indítványozó hozzájárult – az indítványt a közérdekből nyilvános adatnak nem minősülő személyes adatok kivételével közzéteszi, egyéb esetben az indítványban foglalt alkotmányossági kérelem lényegét az 52. § (1) bekezdés c)–e) pontját illetően – a személyes adatok törlése mellett – nyilvánosságra hozza.
 
 (1b) Ha a jogszabály megalkotója, illetve a törvény kezdeményezője – figyelemmel arra is, hogy az ügy a személyek széles körét érinti-e – az üggyel kapcsolatos álláspontjáról az Alkotmánybíróságot tájékoztatni kívánja, véleményét az (1a) bekezdés szerinti közzétételtől számított 30 napon belül – soron kívüli eljárás esetén 15, illetve az Alaptörvény 6. cikk (8) bekezdése szerinti eljárásban 5 napon belül – megküldi az Alkotmánybíróságnak. A jogszabály megalkotója és a törvény kezdeményezője megállapodás alapján közös véleményt is kialakíthat.
 
@@ -750,7 +767,7 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 
 67. § Az Alkotmánybíróság előtt folyamatban lévő eljárásokban a polgári perrendtartásról szóló törvény anyanyelv használatára vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
-68. § A 23–24. § és a 32–33. § szerinti eljárásban az Alkotmánybíróság a részére megküldött indítványokat elektronikus formában, bárki számára, személyazonosítás nélkül, korlátozásmentesen nyilvánosságra hozza. A 25–27. § szerinti eljárásban az Alkotmánybíróság az indítványokat az indítványozó hozzájárulása esetén nyilvánosságra hozza.
+68. § A 23–25. § és a 32–33. § szerinti eljárásban az Alkotmánybíróság a részére megküldött indítványokat – a közérdekből nyilvános adatnak nem minősülő személyes adatok kivételével – elektronikus formában, bárki számára, személyazonosítás nélkül, korlátozásmentesen nyilvánosságra hozza. A 26–27. § szerinti eljárásban az Alkotmánybíróság az indítványokat az indítványozó hozzájárulása esetén nyilvánosságra hozza.
 
 68/A. § Különleges jogrend idején
 
@@ -783,7 +800,7 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 
 70. § (1) Az Alkotmánybíróság eljárására vonatkozó részletes szabályokat az Alkotmánybíróság ügyrendje állapítja meg.
 
-(2) Az Alkotmánybíróság teljes ülése az Alkotmánybíróságról szóló törvény és az Ügyrend egységes értelmezése, valamint az Alkotmánybíróság egységes joggyakorlatának kialakítása érdekében iránymutató jellegű teljes ülési állásfoglalást ad ki. A teljes ülési állásfoglalást az Alkotmánybíróság Határozatai hivatalos lapban közzé kell tenni.
+(2) Az Alkotmánybíróság teljes ülése az Alkotmánybíróságról szóló törvény és az Ügyrend egységes értelmezése, valamint az Alkotmánybíróság egységes joggyakorlatának kialakítása érdekében iránymutató jellegű teljes ülési állásfoglalást ad ki. A teljes ülési állásfoglalást a Magyar Közlönyben közzé kell tenni.
 
 71. § (1) E törvény hatálybalépésével minden olyan folyamatban lévő eljárás megszűnik, amely tartalma szerint jogszabály alkotmányellenességének a 24. § (1) bekezdésében meghatározott utólagos vizsgálatára irányul, és amelyet nem az Alaptörvény 24. cikk (2) bekezdés e) pontjában meghatározott indítványozó terjesztett elő.
 
@@ -830,5 +847,7 @@ indokolt, és a bíróság az 53. § (4) bekezdése alapján a döntés végreha
 (3) Ha a közszolgálati munkaszerződés megkötésére az (1) bekezdés szerinti határidőben a köztisztviselőnek felróható okból, vagy annak ellenére nem kerül sor, hogy a közszolgálati munkaszerződés tervezete a 2025. december 31-én fennálló kinevezés lényeges tartalmi elemeihez képest a köztisztviselő számára hátrányos eltérést nem állapít meg, a köztisztviselő közszolgálati jogviszonya a lemondásra vonatkozó szabályok szerint szűnik meg azzal, hogy a lemondás közlése napjának 2026. január 31-ét kell tekinteni.
 
 (4) A köztisztviselőt – ha a (3) bekezdés szerinti eset nem áll fenn – a közszolgálati munkaszerződés tervezetének vele való közlésétől számított öt munkanapon belül írásban benyújtott kérelmére – a különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény 29. § (8) bekezdésének alkalmazásával, a kinevezésmódosítást megelőző illetménye alatt a 2025. december 31-én irányadó illetményét értve – fel kell menteni.
+
+74/E. § Ha az Alkotmánybíróság elnökének megbízatása az Alaptörvény tizenhetedik módosításának hatálybalépését követően szűnik meg, az Alkotmánybíróság főtitkára a 17/A. § (1) bekezdése szerinti pályázati kiírást első alkalommal a Magyarország Alaptörvényének tizenhetedik módosításával összefüggésben az Alkotmánybíróság működését érintő egyes törvények módosításáról szóló 2026. évi LII. törvény hatálybalépését követően harminc napon belül írja ki.
 
 75. § Ahol e törvény közjogi szervezetszabályozó eszközt említ, azon az állami irányítás egyéb jogi eszközét, ahol törvényt említ, azon a törvényerejű rendeletet is érteni kell.

@@ -432,12 +432,12 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 28/A. § A Magyar Közlöny a 26. § (1) bekezdésében foglaltak mellett tartalmazza
 
-- a)
+- a) az Alkotmánybíróság azon határozatait és végzéseit, amelyeknek a Magyar Közlönyben való közzétételét törvény vagy az Alkotmánybíróság elrendelte, valamint az Alkotmánybíróság teljes ülési állásfoglalásait,
 - b) a jogegységi határozatokat, valamint a Kúria azon határozatait, amelyeknek a Magyar Közlönyben való közzétételét törvény felhatalmazása alapján a Kúria elrendelte,
 - c)
 - d) a minősített adatot tartalmazó, valamint az érintetteknek közvetlenül megküldött határozatok kivételével az Országgyűlés, a köztársasági elnök, a Kormány, a miniszterelnök és a Nemzeti Választási Bizottság nem normatív határozatait,
 - e) a Kormány tagjainak azon nem normatív határozatait, amelyeknek hivatalos lapban való közzétételét jogszabály elrendeli, és
-- f) az Országgyűlés, a Kormány és más testületi központi államigazgatási szerv és a Költségvetési Tanács minősített adatot nem tartalmazó normatív határozatait.
+- f) az Országgyűlés, a Kormány és más testületi központi államigazgatási szerv, az Alkotmánybíróság és a Költségvetési Tanács minősített adatot nem tartalmazó normatív határozatait.
 
 28/B. § (1) A Magyar Közlöny mellékletét képező Hivatalos Értesítő tartalmazza
 
@@ -465,11 +465,7 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 (5) Az (1) bekezdés szerint kiadott hivatalos lap az azt kiadó szerv honlapjáról nem távolítható el. A szerv megszűnése esetén a közzététel kötelezettsége a szerv jogutódját terheli.
 
-28/D. § (1) Az Alkotmánybíróság Határozatai hivatalos lapban kell közzétenni az Alkotmánybíróságról szóló 2011. évi CLI. törvény 44. § (1) bekezdése szerinti jogi aktusokat.
-
-(2) Az Alkotmánybíróság Határozatai hivatalos lapot az Alkotmánybíróság honlapján elektronikus dokumentumként való közzététellel kell kiadni, amelynek szövegét hitelesnek kell tekinteni.
-
-(3) Az Alkotmánybíróság Határozatai hivatalos lap közzétett számai az Alkotmánybíróság honlapjáról nem távolíthatóak el, azok archiválására az elektronikus archiválásról szóló jogszabály rendelkezéseit kell alkalmazni.
+#### 28/D. §
 
 #### 15. Nemzeti Jogszabálytár
 
@@ -560,7 +556,7 @@ minősül.
 
 #### 19.
 
-#### 38. §
+38. § Az Alkotmánybíróság Határozatai mint hivatalos lapnak a Magyarország Alaptörvényének tizenhetedik módosításával összefüggésben az Alkotmánybíróság működését érintő egyes törvények módosításáról szóló 2026. évi LII. törvény hatálybalépését megelőzően közzétett számainak nyilvánosságát az Alkotmánybíróság honlapján továbbra is biztosítani kell, ahonnan azok nem távolíthatóak el, és archiválásukra az elektronikus archiválásról szóló jogszabály rendelkezéseit kell alkalmazni.
 
 #### 39. §
 
