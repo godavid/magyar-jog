@@ -42720,6 +42720,11 @@
       "datum": "2026-07-13",
       "verzio": 22,
       "sha": "ebd52917d58857a24b3fe5881b294c2e7d152492"
+    },
+    {
+      "datum": "2026-09-19",
+      "verzio": 23,
+      "sha": "7c67f58039a4a133e601dc36a99eda7b1ba2d45e"
     }
   ],
   "2003-evi-iv-torveny": [
@@ -69846,6 +69851,11 @@
       "datum": "2026-07-29",
       "verzio": 21,
       "sha": "b6206e52e237e6b3ae2b371ccdda5513fc9ffbdc"
+    },
+    {
+      "datum": "2026-09-19",
+      "verzio": 23,
+      "sha": "7c67f58039a4a133e601dc36a99eda7b1ba2d45e"
     }
   ],
   "2010-evi-cxxxi-torveny": [
@@ -73956,6 +73966,11 @@
       "datum": "2026-06-29",
       "verzio": 15,
       "sha": "340a3e6079ca47f81aed9c89a3423c17f36d34c5"
+    },
+    {
+      "datum": "2026-09-19",
+      "verzio": 16,
+      "sha": "7c67f58039a4a133e601dc36a99eda7b1ba2d45e"
     }
   ],
   "2011-evi-cxi-torveny": [
@@ -75341,6 +75356,11 @@
       "datum": "2026-08-26",
       "verzio": 24,
       "sha": "12e7e605be50869df18ed33586d49185b36b965c"
+    },
+    {
+      "datum": "2026-09-19",
+      "verzio": 26,
+      "sha": "7c67f58039a4a133e601dc36a99eda7b1ba2d45e"
     }
   ],
   "2011-evi-clii-torveny": [
