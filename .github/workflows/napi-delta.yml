@@ -48,7 +48,9 @@ jobs:
 
       - name: Függőségek
         working-directory: kod
-        run: pnpm install --frozen-lockfile --filter @gitjog/pipeline
+        # A `...` a workspace-függőségek (@gitjog/szoveg) saját csomagjait is
+        # telepíti — nélküle a keresőindex-szinkron `diff` nélkül hasal el.
+        run: pnpm install --frozen-lockfile --filter "@gitjog/pipeline..."
 
       - name: Delta futtatása
         working-directory: kod
