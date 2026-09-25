@@ -250,15 +250,15 @@ tartalmazza.
 - a) szakmai és képesítő vizsgáztatási tevékenységét engedély birtokában folytatja-e, valamint a valóságnak megfelelnek-e az engedéllyel rendelkező akkreditált szakképzési vizsgaközpontok nyilvántartásában szereplő adatai, valamint
 - b) szakmai és képesítő vizsgáztatási tevékenysége megfelel-e az e törvényben és a felhatalmazása alapján kiadott jogszabályban meghatározott feltételeknek.
 
-(2) Az (1) bekezdés szerinti ellenőrzést a nyilvántartásba vételt követően egy éven belül a befejezett szakmai vagy képesítő vizsgákon részt vett vizsgázói létszám alapján az öt legmagasabb vizsgázói létszámú képzési terület tekintetében legalább egy szakmai és egy képesítő vizsga vonatkozásában el kell végezni.
+(2)
 
-(3) Amennyiben az akkreditált szakképzési vizsgaközpont szakmai és képesítő vizsgáztatási tevékenységére vonatkozó engedélye új képzési területek egységes osztályozási rendszere szerinti tevékenységgel bővül, az (1) bekezdés szerinti ellenőrzést az új képzési területek egységes osztályozási rendszere nyilvántartásba vételét követően egy éven belül az új képzési területek egységes osztályozási rendszere szerinti legalább egy szakmai és egy képesítő vizsga tekintetében el kell végezni.
+(3)
 
-(4) A (2) és (3) bekezdés szerinti ellenőrzést követően az (1) bekezdés szerinti ellenőrzést legalább háromévente kell elvégezni.
+(4) Az (1) bekezdés szerinti ellenőrzést a nyilvántartásba vételt követően három éven belül, majd ezt követően legalább háromévente kell elvégezni.
 
-(5) Az (1)–(3) bekezdés szerinti ellenőrzés során a szakképzési államigazgatási szerv, valamint az ellenőrzésbe bevont szakértő az ellenőrzött időszakban szervezett szakmai vagy képesítő vizsgán részt vehet, minden vizsgadokumentumot megtekinthet, azonban a vizsgázótól nem kérdezhet és a vizsga lefolytatását hozzászólással nem befolyásolhatja.
+(5) Az (1) bekezdés szerinti ellenőrzés során a szakképzési államigazgatási szerv, valamint az ellenőrzésbe bevont szakértő az ellenőrzött időszakban szervezett szakmai vagy képesítő vizsgán részt vehet, minden vizsgadokumentumot megtekinthet, azonban a vizsgázótól nem kérdezhet és a vizsga lefolytatását hozzászólással nem befolyásolhatja.
 
-(6) Az (1)–(3) bekezdés szerinti ellenőrzés eredményeként a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 6. §-a szerinti figyelmeztetés szankció nem alkalmazható.
+(6) Az (1) bekezdés szerinti ellenőrzés eredményeként a közigazgatási szabályszegések szankcióiról szóló 2017. évi CXXV. törvény 6. §-a szerinti figyelmeztetés szankció nem alkalmazható.
 
 (6a) Az akkreditált szakképzési vizsgaközpont ellenőrzésére irányuló eljárásban az ügyintézési határidő 160 nap.
 
@@ -1798,7 +1798,7 @@ A szakképzési közokirat külföldön történő felhasználásához – ha ne
 - 12. a honvédségi szakképző intézményre, a rendvédelmi szakképző intézményre és a nemzetbiztonsági szakképző intézményre vonatkozó sajátos szabályokat,
 - 13. a fenntartó feladatait és irányítási hatásköreit, valamint a nemzetiségi önkormányzat által alapított szakképző intézménnyel kapcsolatosan az érintett nemzetiségi önkormányzat egyetértése vagy véleményének kikérése esetköreit,
 - 14. az intézményvezető megbízási feltételeit és a megbízással kapcsolatos eljárást,
-- 15. a szakképző intézmény alkalmazottjának végzettségi és szakképzettségi, illetve gyakorlati követelményeit, munkaidő-beosztásának és szabadsága kiadásának részletes szabályait,
+- 15. a szakképző intézmény alkalmazottjának végzettségi és szakképzettségi, illetve gyakorlati követelményeit, munkaidő-beosztásának és szabadsága kiadásának részletes szabályait, havi alapbére kötelező legkisebb összegét,
 - 16. az oktató kötelességének részletes szabályait és továbbképzési kötelezettsége teljesítésének rendjét,
 - 17. az oktatói testület és a szakmai munkaközösség döntési jogköreit,
 - 18. a tanulói jogviszony létesítésének, szünetelésének és megszüntetésének feltételeit,
@@ -1886,12 +1886,12 @@ kell kifutó jelleggel megszervezni.
 
 (8) Ágazati alapoktatást és ágazati alapvizsgát a 2020/2021. tanévtől a változással érintett legalacsonyabb évfolyamon kezdve felmenő rendszerben kell megszervezni.
 
-(9) A szakképző intézmény, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézmény által szervezett szakmai oktatáshoz kapcsolódó szakmai vizsga 2026. december 31-éig
+(9) A szakképző intézmény, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézmény által szervezett szakmai oktatáshoz kapcsolódó szakmai vizsga 2027. december 31-éig
 
 - a) az állam által fenntartott szakképző intézményben, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményben, valamint
 - b) az együttműködési megállapodással rendelkező fenntartó által fenntartott szakképző intézményben és szakképzési alapfeladatot ellátó többcélú köznevelési intézményben az együttműködési megállapodásban meghatározott ágazatban
 
-is megszervezhető azzal, hogy akkreditált szakképzési vizsgaközpont alatt a szakmai vizsgát szervező szakképző intézményt, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményt kell érteni. A 2026. december 31-éig a szakmai vizsgát szervező szakképző intézményben, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
+is megszervezhető azzal, hogy akkreditált szakképzési vizsgaközpont alatt a szakmai vizsgát szervező szakképző intézményt, illetve szakképzési alapfeladatot ellátó többcélú köznevelési intézményt kell érteni. A 2027. december 31-éig a szakmai vizsgát szervező szakképző intézményben, illetve a szakképzési alapfeladatot ellátó többcélú köznevelési intézményben szervezett szakmai vizsga lefolytatásával kapcsolatos jogszabálysértés megállapítására és jogkövetkezményeinek alkalmazására a régi Szkt. e törvény hatálybalépését megelőző napon hatályos 17. §-át kell alkalmazni azzal, hogy a hivatal helyett a szakképzésért felelős miniszter jár el.
 
 (9a)
 
@@ -1969,13 +1969,19 @@ A bizonyítványban, oklevélben vagy az oktatási, családügyi, kulturális t�
 
 (2) Az (1) bekezdés hatálya alá tartozó vizsgaközpontot az (1) bekezdés szerint lefolytatott eljárásban kiadott engedély véglegessé válásáig az akkreditáló szerv által kiadott szakmai és képesítő vizsgáztatási tevékenység folytatására feljogosító okiratban foglalt, a képzési területen szereplő valamennyi szakma és szakképesítés tekintetében szakmai és képesítő vizsgáztatási tevékenység folytatására engedéllyel rendelkező akkreditált szakképzési vizsgaközpontnak kell tekinteni.
 
-(3) Az (1) bekezdés szerint lefolytatott eljárásban kiadott engedély alapján nyilvántartásba vett akkreditált szakképzési vizsgaközpont esetében a 14/D. § (1) bekezdése szerinti ellenőrzést – a 14/D. § (2) bekezdésében foglaltaktól eltérően – a szakképzési államigazgatási szerv által történt nyilvántartásba vételt követően három éven belül szükséges elvégezni, ezt követően a 14/D. § (4) bekezdésében meghatározott gyakorisággal.
+(3)
 
 #### 128/C. § [Átmeneti rendelkezések a digitális bizonyítvány bevezetéséhez kapcsolódóan]
 
 (1) E törvénynek az egyes felsőoktatási, családügyi és kulturális tárgyú törvények módosításáról szóló 2024. évi LXXVI. törvénnyel (a továbbiakban: MódTv3.) megállapított 63. § (3)–(8) bekezdésében foglaltakat első alkalommal a tanulmányaikat szakképző intézményben a 2025/2026. tanévben megkezdők esetében, majd ezt követően minden tanévben felmenő rendszerben kell alkalmazni.
 
 (2) A tanulmányaikat szakképző intézményben a 2025/2026. tanévet megelőzően megkezdettek esetében a bizonyítványok kiállítására a MódTv3. hatálybalépését megelőző napon hatályos szabályokat kell alkalmazni.
+
+#### 128/D. § [Átmeneti rendelkezések a főigazgató feladatkörének bővülésére tekintettel]
+
+(1) A főigazgatói megbízatással rendelkező főigazgatók, valamint kancellári megbízatással rendelkező kancellárok megbízatása 2026. december 31-én a törvény erejénél fogva megszűnik.
+
+(2) A szakképzésért felelős miniszter – agrárszakképző intézmény esetében a 27. § (1) bekezdés a) pontja szerinti fenntartó – gondoskodik a főigazgatói megbízatások 2027. január 1-jétől történő betöltéséhez szükséges pályázatok legkésőbb e § hatályba lépését követő napon történő meghirdetéséről. E pályázati kiírások vonatkozásában e törvény 2027. január 1-jétől hatályos, valamint az e törvény végrehajtására kiadott kormányrendelet főigazgatókra, valamint főigazgatói pályázatokra vonatkozó, 2027. január 1-jétől hatályos rendelkezéseit kell alkalmazni.
 
 ### XXIV. Fejezet — A TÖRVÉNY HIVATALOS RÖVID MEGJELÖLÉSE
 
