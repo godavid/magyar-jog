@@ -38,7 +38,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 (2) A gondnokoltak nyilvántartásában az érintettre vonatkozóan szereplő alábbi adatokat a cselekvőképesség fennállásának vizsgálata céljából konkrét ügyben közvetlen hozzáféréssel jogosult megismerni és kezelni:
 
-- a) az ügyészség és a nyomozó hatóság a büntetőeljárás lefolytatása céljából, valamint a büntetés-végrehajtási szervezet és a rendőrség a fogvatartott gondnokának értesítése céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–f) pontjában szereplő adatokat,
+- a) az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság a büntetőeljárás lefolytatása céljából, valamint a büntetés-végrehajtási szervezet és a rendőrség a fogvatartott gondnokának értesítése céljából a 3. § (1) bekezdés a) pont aa–ae) alpontjában és b)–f) pontjában szereplő adatokat,
 - b) a rendőrség a 3. § (1) bekezdés a) pont aa)–ae) alpontjában és b)–f) pontjában szereplő adatokat
   - ba) a fegyverengedély-ügyi és a személy- és vagyonvédelmi, valamint magánnyomozói tevékenység végzésével összefüggő hatósági engedélyezési feladatok ellátása céljából,
   - bb) a polgári célú pirotechnikai tevékenységek hatósági engedélyezésével és ellenőrzésével összefüggő feladatok ellátása céljából,
@@ -151,7 +151,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 
 (2) A bíróság az érintettre vonatkozóan polgári peres és nemperes eljárás, közigazgatási peres, nemperes és egyéb közigazgatási bírósági eljárás vagy büntetőeljárás lefolytatása céljából az előzetes jognyilatkozatok nyilvántartásában kezelt adatok teljes körét közvetlen hozzáféréssel jogosult megismerni és kezelni.
 
-(3) Ha törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította, akkor az ügyészség, nyomozó hatóság, nemzetbiztonsági szolgálat az előzetes jognyilatkozatok nyilvántartásából a konkrét ügy megjelölése mellett egyedi adatkérés útján jogosult az adatot megismerni és kezelni. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
+(3) Ha törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította, akkor az ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó hatóság, nemzetbiztonsági szolgálat az előzetes jognyilatkozatok nyilvántartásából a konkrét ügy megjelölése mellett egyedi adatkérés útján jogosult az adatot megismerni és kezelni. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
 
 #### 4. A nyilvántartások közös szabályai
 
@@ -180,7 +180,7 @@ a gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról
 (4) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
 - a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- b) a bíróság, az ügyészség és a nyomozó hatóság,
+- b) a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 - c) a nemzetbiztonsági szolgálatok.
 
 (5) Az adattovábbítási nyilvántartás adatait az adattovábbítástól számított öt évig meg kell őrizni.

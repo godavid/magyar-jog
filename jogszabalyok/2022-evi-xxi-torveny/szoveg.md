@@ -611,7 +611,7 @@ adatok.
 
 46. § A 38. és 39. §-ban foglaltakon kívül egészségügyi ellátóhálózaton kívüli adattovábbításnak minősül
 
-- a) büntetőügyben a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági, illetve közigazgatási peres ügyben a bíróság, az ügyészség, a közigazgatási hatóság, az igazságügyi szakértő adatkérésének teljesítése,
+- a) büntetőügyben a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó hatóság, az előkészítő eljárást folytató szerv, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági, illetve közigazgatási peres ügyben a bíróság, az ügyészség, a közigazgatási hatóság, az igazságügyi szakértő adatkérésének teljesítése,
 - b) szabálysértési eljárás során az eljárást lefolytató szervek adatkérésének teljesítése,
 - c) a nemzetbiztonsági szolgálatok részére, törvényben meghatározott feladataik ellátása érdekében történő adatátadás,
 - d) a légi-, vasúti és víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatát végző közlekedésbiztonsági szerv adatkérésének teljesítése,
@@ -708,7 +708,7 @@ részére az egyes nyilvántartásokban kezelhető adatok esetében adattovább�
 - b) a teljesítményértékelést, minősítést végző vezető,
 - c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv,
 - d) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
-- e) az egészségügyi állomány tagja ellen indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+- e) az egészségügyi állomány tagja ellen indult büntetőeljárásban a bíróság, az ügyészség, az NVVH és a nyomozó hatóság,
 - f) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül,
 - g) az állami adó- és vámhatóság, a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv, az üzemi baleseteket kivizsgáló szerv és a munkavédelmi szerv.
 
@@ -1535,7 +1535,7 @@ tájékoztatja.
 
 (7) A szükséges eljárás megindításához és lefolytatásához elengedhetetlen adatok és információk biztosítása céljából – ha az eljárás megindítását megalapozó cselekmény elkövetésére utaló adat vagy információ a (3) bekezdés szerinti időtartamon belül merül fel – a katonai rendészeti feladatokat ellátó honvédségi szervezet az (5) bekezdés alapján rögzített adatok kezelésének határidejét legfeljebb 30 nappal meghosszabbíthatja. Ha ezen időtartamon belül nem indul eljárás, amelyben a felvételek felhasználhatók, az adatokat haladéktalanul törölni kell.
 
-(8) A (3) bekezdésben meghatározott határidőn belül a rögzített felvételből a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági feladatainak ellátása céljából a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, a nemzetbiztonsági szolgálat, a terrorizmust elhárító szerv, valamint jogainak gyakorlása érdekében az érintett igényelhet adatot.
+(8) A (3) bekezdésben meghatározott határidőn belül a rögzített felvételből a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági feladatainak ellátása céljából a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, a nemzetbiztonsági szolgálat, a terrorizmust elhárító szerv, valamint jogainak gyakorlása érdekében az érintett igényelhet adatot.
 
 (9) A katonai rendészeti feladatokat ellátó honvédségi szervezet a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 
@@ -1942,7 +1942,7 @@ kezeli.
 
 (4) Az (1) bekezdés szerinti adatkezelő a műveleti feladatellátás során keletkezett adatokat a keletkezésüktől számított 30 évig kezeli.
 
-(5) Az (1) bekezdés szerinti adatkezelő a Hvt. 48. alcímében meghatározott feladatok hatékony végrehajtása érdekében az e § alapján kezelt adatokat a rendőrség, a hivatásos katasztrófavédelmi szerv, a bíróság, az ügyészség, a nemzetbiztonsági szolgálatok, valamint Magyarország kiberterének védelmére kijelölt vagy abban közreműködő állami szervek részére jogosult továbbítani.
+(5) Az (1) bekezdés szerinti adatkezelő a Hvt. 48. alcímében meghatározott feladatok hatékony végrehajtása érdekében az e § alapján kezelt adatokat a rendőrség, a hivatásos katasztrófavédelmi szerv, a bíróság, az ügyészség, az NVVH, a nemzetbiztonsági szolgálatok, valamint Magyarország kiberterének védelmére kijelölt vagy abban közreműködő állami szervek részére jogosult továbbítani.
 
 ### V. Fejezet — A HONVÉDELMI ÁGAZATBAN HASZNÁLT IGAZOLVÁNYOKKAL KAPCSOLATOS ADATKEZELÉS
 

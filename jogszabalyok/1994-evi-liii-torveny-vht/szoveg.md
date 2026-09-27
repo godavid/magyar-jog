@@ -114,7 +114,7 @@ a bírósági végrehajtásról
 13. § (1) A végrehajtható okiratot akkor lehet kiállítani, ha a végrehajtandó határozat
 
 - a) kötelezést (marasztalást) tartalmaz,
-- b) jogerős, végleges vagy előzetesen végrehajtható, valamint az ügyészség, illetve a nyomozó hatóság határozata további jogorvoslattal nem támadható, és
+- b) jogerős, végleges vagy előzetesen végrehajtható, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), illetve a nyomozó hatóság határozata további jogorvoslattal nem támadható, és
 - c) a teljesítési határidő letelt.
 
 (2) A bíróság által jóváhagyott egyezség alapján akkor is végrehajtható okiratot lehet kiállítani, ha a jóváhagyó végzést megfellebbezték. Ez a rendelkezés a közjegyző által jóváhagyott — a bírósági egyezséggel azonos hatályú — egyezségre is irányadó.
@@ -158,7 +158,7 @@ a bírósági végrehajtásról
 - h) a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve a 1347/2003/EK rendelet hatályon kívül helyezéséről szóló, a Tanács 2201/2003/EK rendeletének (a továbbiakban: 2201/2003/EK tanácsi rendelet) 42. cikke szerint kiállított igazolással ellátott külföldi határozat (bírósági egyezség) alapján a kötelezett, vagy a gyermek szokásos tartózkodási helye szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - i) az európai fizetési meghagyásos eljárás létrehozásáról szóló 1896/2006/EK európai parlamenti és tanácsi rendelet (a továbbiakban: 1896/2006/EK rendelet) szerint végrehajthatónak nyilvánított európai fizetési meghagyás alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság; ha az európai fizetési meghagyást a magyar közjegyző bocsátotta ki, az európai fizetési meghagyást kibocsátó közjegyző,
 - j) a 861/2007/EK rendelet szerint kis értékű követelések európai eljárásában hozott ítélet alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, illetve közvetlen kereskedelmi képviselete esetén a fióktelep, illetőleg a képviselet helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
-- k) az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti járásbíróság, az ügyészség, a nyomozó hatóság és a szabálysértési hatóság igazságügyi szakértői díj megfizetéséről szóló határozata alapján.
+- k) az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti járásbíróság, az ügyészség, az NVVH, a nyomozó hatóság és a szabálysértési hatóság igazságügyi szakértői díj megfizetéséről szóló határozata alapján.
 - l) a 4/2009/EK tanácsi rendelet szerinti tartási ügyben, a 2007. november 23-án elfogadott, a tartási kötelezettségekre alkalmazandó jogról szóló hágai jegyzőkönyv (a továbbiakban: hágai jegyzőkönyv) hatálya alá tartozó tagállamokban hozott bírósági határozat (perbeli egyezség) alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye – szerinti törvényszék székhelyén működő járásbíróság, Budapesten a Budai Központi Kerületi Bíróság,
 - m) a szabálysértési hatóság, illetve a bíróság szabálysértéssel okozott kár értékének megfizetésére kötelező határozata alapján a sértett lakóhelye vagy tartózkodási helye szerint illetékes járásbíróság,
 - n) az 1215/2012/EU rendelet 53. cikke alapján kiállított tanúsítvánnyal ellátott külföldi határozat alapján az adós lakóhelye, székhelye – ezek hiányában az adós végrehajtás alá vonható vagyontárgyának helye, külföldi székhelyű vállalkozás magyarországi fióktelepe, közvetlen kereskedelmi képviselete esetén a fióktelep, illetve a képviselet belföldi cégnyilvántartásba bejegyzett székhelye, az európai gazdasági egyesülés belföldi telephelye – szerinti törvényszék székhelyén működő járásbíróság, Pest vármegyében a Budakörnyéki Járásbíróság, Budapesten a Budai Központi Kerületi Bíróság.
@@ -477,7 +477,7 @@ KÖZÖS SZABÁLYAI
 
 (4) A végrehajtó a tanú és a zárgondnok lakóhelyét – kérelmére – nem tünteti fel a jegyzőkönyvben, hanem a lakóhelyet feljegyzi, és a feljegyzést az iratok között zárt borítékban helyezi el, arról csak a bíróság és a büntetőügyben eljáró hatóság részére ad felvilágosítást.
 
-(5) A végrehajtó az eljárási cselekményről a jegyzőkönyvön kívül indokolt esetben kép- és hangfelvételt is készíthet. A végrehajtó a felvételeket az iratoktól elkülönítve, az ügy irattárba helyezésétől számított 5 évig tárolja, ezt követően azokat megsemmisíti. A felvételeket a végrehajtó csak a bíróság és a büntetőügyben eljáró bíróság, ügyészség, nyomozó hatóság részére adhatja ki, és részükre teheti lehetővé a felvételekbe való betekintést.
+(5) A végrehajtó az eljárási cselekményről a jegyzőkönyvön kívül indokolt esetben kép- és hangfelvételt is készíthet. A végrehajtó a felvételeket az iratoktól elkülönítve, az ügy irattárba helyezésétől számított 5 évig tárolja, ezt követően azokat megsemmisíti. A felvételeket a végrehajtó csak a bíróság és a büntetőügyben eljáró bíróság, ügyészség, az NVVH, nyomozó hatóság részére adhatja ki, és részükre teheti lehetővé a felvételekbe való betekintést.
 
 ### Végrehajtási iratok elektronikus kézbesítési rendszere
 
@@ -755,7 +755,7 @@ szereplő adatok alapján ellenőrizheti.
 
 (7) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi a végrehajtó hivatali elektronikus aláírásához tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a bizalmi szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
 
-(8) A végrehajtó a nyilvántartásnak az ellenőrzés során megismert, elektronikus formában lévő adatairól papír alapú másolatot készíthet, amelyet a végrehajtási ügy iratai között zártan helyez el, és azt csak a bíróság, az ügyészség, a büntetőügyben eljáró hatóság, valamint a végrehajtó tevékenységének ellenőrzésére a 230. § szerint jogosult Kar hivatali szerve részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést. Az adatokat tartalmazó iratokat a végrehajtó a végrehajtási iratok irattárba helyezésétől számított öt évig tárolja, azt követően gondoskodik a megsemmisítésükről.
+(8) A végrehajtó a nyilvántartásnak az ellenőrzés során megismert, elektronikus formában lévő adatairól papír alapú másolatot készíthet, amelyet a végrehajtási ügy iratai között zártan helyez el, és azt csak a bíróság, az ügyészség, az NVVH, a büntetőügyben eljáró hatóság, valamint a végrehajtó tevékenységének ellenőrzésére a 230. § szerint jogosult Kar hivatali szerve részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést. Az adatokat tartalmazó iratokat a végrehajtó a végrehajtási iratok irattárba helyezésétől számított öt évig tárolja, azt követően gondoskodik a megsemmisítésükről.
 
 (9) Ha az ellenőrzés során a végrehajtó azt állapítja meg, hogy az igazolvány elvesztését, ellopását, megsemmisülését bejelentették és megtalálásának vagy megkerülésének ténye nincs nyilvántartva, az igazolvány jogosulatlan felhasználásának megakadályozása céljából az igazolvány felhasználásának tényéről haladéktalanul értesíti az intézkedésének helye szerint illetékes rendőrkapitányságot és az átvett igazolványt részére megküldi vagy átadja. A bejelentési kötelezettség teljesítése nem minősül a végrehajtói titoktartási kötelezettség megsértésének.
 
@@ -888,7 +888,7 @@ alapján függeszti fel, pénzkövetelés végrehajtása esetén a felfüggeszt�
 
 56. § (1) A végrehajtást elrendelő bíróság végzéssel megszünteti vagy korlátozza a végrehajtást, ha
 
-- a) közokirat alapján megállapította, hogy a végrehajtandó határozatot jogerős határozat, illetve büntetőeljárásban a bíróság véglegessé vált határozata, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozata hatályon kívül helyezte, megváltoztatta, illetve a végrehajtandó határozat hatályát vesztette, vagy
+- a) közokirat alapján megállapította, hogy a végrehajtandó határozatot jogerős határozat, illetve büntetőeljárásban a bíróság véglegessé vált határozata, valamint az ügyészség, az NVVH, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozata hatályon kívül helyezte, megváltoztatta, illetve a végrehajtandó határozat hatályát vesztette, vagy
 - b) jogerős bírósági határozat alapján megállapította, hogy a végrehajtási záradékkal ellátott okiratba foglalt végrehajtani kívánt követelés vagy az annak alapjául szolgáló jogviszony egészben vagy részben érvényesen nem jött létre.
 
 (2) A bíróság a végrehajtás korlátozásáról – ha az elbíráláshoz szükséges tények nem állapíthatóak meg – a felek meghallgatása, a végrehajtó megnyilatkoztatása vagy egyéb bizonyítás felvétele után határoz.
@@ -3850,7 +3850,7 @@ a végrehajtói szolgálata szünetel.
 
 (4) A Kar hivatali szerve a végrehajtási ügyek nyilvántartásából az adatigénylésre jogosult részére szolgáltathat adatokat.
 
-(5) A végrehajtási ügyek nyilvántartásából annak a közigazgatási hatóságnak, közigazgatási szervnek, bíróságnak, bírósági végrehajtónak, ügyészségnek, nyomozó hatóságnak, terrorizmust elhárító szervnek, nemzetbiztonsági szolgálatnak, továbbá a végrehajtó tevékenységének szakmai felügyeletét ellátó szervnek továbbítható adat, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
+(5) A végrehajtási ügyek nyilvántartásából annak a közigazgatási hatóságnak, közigazgatási szervnek, bíróságnak, bírósági végrehajtónak, ügyészségnek, az NVVH-nak, nyomozó hatóságnak, terrorizmust elhárító szervnek, nemzetbiztonsági szolgálatnak, továbbá a végrehajtó tevékenységének szakmai felügyeletét ellátó szervnek továbbítható adat, amely minden egyes igényelt adat tekintetében a törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat kezelésére. Az adatigénylőnek a kérelemben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
 
 (6) A Kar hivatali szerve írásbeli kérelemre tanúsítványt állít ki
 
@@ -3871,7 +3871,7 @@ a végrehajtói szolgálata szünetel.
 - c) a végrehajtási ügyek nyilvántartásából történő adatigénylés teljesítéséről az adatigénylő, az adattovábbítás időpontja, az ahhoz megadott adatok és a szolgáltatott adatok megjelölésével,
 - d) a naplóból történt adatszolgáltatásról a szolgáltatott adatok körének, az adatigénylő nevének és címének, az adatigénylésben feltüntetett adatigénylési jogalapnak, valamint az adatszolgáltatás időpontjának, továbbá az adatszolgáltatást végző azonosító adatainak feltüntetésével.
 
-(11) Ha a büntetőeljárásban eljáró bíróság, ügyészség és nyomozó hatóság, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, a Kar hivatali szerve nem tájékoztathatja az érintettet az adattovábbításról.
+(11) Ha a büntetőeljárásban eljáró bíróság, ügyészség, az NVVH és nyomozó hatóság, a nemzetbiztonsági szolgálat, továbbá a törvényben titkos információgyűjtésre felhatalmazott szerv adatigénylése azt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekekre hivatkozással – kifejezetten tartalmazza, a Kar hivatali szerve nem tájékoztathatja az érintettet az adattovábbításról.
 
 (12) A napló adatait azok keletkezésétől számított 10 évig kell megőrizni, és biztosítani kell az azok megismeréséhez szükséges technikai eszközöket. A napló adatait a Kar hivatali szerve az (5) bekezdés szerint eljárva továbbíthatja.
 
@@ -3911,7 +3911,7 @@ kérhetnek adatszolgáltatást.
 
 (2) A napló adatait azok keletkezésétől számított 10 évig kell megőrizni, és biztosítani kell az azok megismeréséhez szükséges technikai eszközöket.
 
-(3) A napló adatairól megkeresésre annak a bíróságnak, ügyészségnek, nyomozó hatóságnak, terrorizmust elhárító szervnek, nemzetbiztonsági szolgálatnak, továbbá a végrehajtó tevékenységének felügyeletét ellátó szervnek továbbítható adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
+(3) A napló adatairól megkeresésre annak a bíróságnak, ügyészségnek, az NVVH-nak, nyomozó hatóságnak, terrorizmust elhárító szervnek, nemzetbiztonsági szolgálatnak, továbbá a végrehajtó tevékenységének felügyeletét ellátó szervnek továbbítható adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult.
 
 (4) A Kar hivatali szerve a felhasználók számára az interneten közzéteszi a kézbesítési rendszer működésének és felhasználóként történő igénybevételének technikai feltételeit (felhasználási szabályzat); a felhasználási szabályzatot a Hatóság elnöke hagyja jóvá.
 
@@ -4457,13 +4457,13 @@ kérhetnek adatszolgáltatást.
 
 (2) A büntetőeljárás jogerős befejezéséig a fegyelmi bíróság a fegyelmi eljárást felfüggesztheti.
 
-(3) A büntetőügyben eljáró bíróság, ügyészség, nyomozó hatóság a végrehajtóval, a végrehajtó-helyettessel és a végrehajtójelölttel szemben indított büntetőeljárásról, illetve személyi szabadságot érintő bírói engedélyes kényszerintézkedésről értesíti a törvényszék elnökét, a Hatóság elnökét és a Kar hivatali szervének vezetőjét, az eljárást befejező határozatot pedig kézbesíti részükre.
+(3) A büntetőügyben eljáró bíróság, ügyészség, az NVVH, nyomozó hatóság a végrehajtóval, a végrehajtó-helyettessel és a végrehajtójelölttel szemben indított büntetőeljárásról, illetve személyi szabadságot érintő bírói engedélyes kényszerintézkedésről értesíti a törvényszék elnökét, a Hatóság elnökét és a Kar hivatali szervének vezetőjét, az eljárást befejező határozatot pedig kézbesíti részükre.
 
 ### Új eljárás kezdeményezése
 
 294. § (1) A jogerős fegyelmi határozat meghozatala után az eljárás alá vont személy, a törvényszék elnöke, továbbá a Hatóság elnöke és a Kar hivatali szervének vezetője új eljárást kezdeményezhet, ha
 
-- a) olyan tényre vagy bizonyítékra, illetve olyan jogerős bírósági vagy véglegessé vált hatósági határozatra, illetve büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatára, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatára hivatkozik, amelyet a fegyelmi bíróság nem bírált el, feltéve, hogy az a fegyelmi határozatra lényeges hatással lett volna,
+- a) olyan tényre vagy bizonyítékra, illetve olyan jogerős bírósági vagy véglegessé vált hatósági határozatra, illetve büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatára, valamint az ügyészség, az NVVH, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatára hivatkozik, amelyet a fegyelmi bíróság nem bírált el, feltéve, hogy az a fegyelmi határozatra lényeges hatással lett volna,
 - b) az alapügyben a fegyelmi bíróság valamelyik tagja a kötelességét a Büntető Törvénykönyvbe ütköző módon megszegte.
 
 (2) Az eljárás alá vont személy terhére új eljárás kezdeményezésének csak az elévülési időn belül (269. §) és csak akkor van helye, ha az eljárás alá vont személy még szolgálatban van.
@@ -4560,7 +4560,7 @@ a szolgálati viszonyban álló személyekkel szemben
 - a) megállapította, hogy a lakóingatlan kiürítésére kötelezett vagy az ő jogán a lakóingatlanban lakó személy az ingatlan tulajdonjogának, használati jogának megszerzése, vagy az ehhez szükséges vagyonnak vagy támogatásnak a megszerzése érdekében bűncselekményt követett el, és az elkövetőnek az elítéléshez fűződő hátrányos jogkövetkezmények alóli mentesülése óta még három év nem telt el, vagy
 - b) a lakóingatlan kiürítésére kötelezett vagy az ő jogán a lakóingatlanban lakó személy által elkövetett bűncselekmény miatt a kiürítendő ingatlanra elkobzást vagy vagyonelkobzást rendelt el, a végrehajtást foganatosító bíróság végzéssel a kiürítés foganatosítására utasítja a végrehajtót; a kiürítési kötelezettség a kötelezettnek az ingatlanban önálló jogcímen lakó hozzátartozójára is kiterjed.
 
-(7) A végrehajtó a (6) bekezdésben foglalt döntés meghozatala érdekében bármely fél, érdekelt vagy az ügyészség erre irányuló, a bűncselekményt elkövető személy személyazonosító adatait is tartalmazó indítványára keresi meg a bíróságot.
+(7) A végrehajtó a (6) bekezdésben foglalt döntés meghozatala érdekében bármely fél, érdekelt vagy az ügyészség, illetve az NVVH erre irányuló, a bűncselekményt elkövető személy személyazonosító adatait is tartalmazó indítványára keresi meg a bíróságot.
 
 (8) A bíróság adatigényléssel fordul a bűnügyi nyilvántartó szervhez annak megállapítása érdekében, hogy az indítványban megjelölt személlyel szemben hoztak-e büntetőügyben határozatot, a büntetőügyben eljárt bíróságot pedig megkeresi annak közlése érdekében, hogy hozott-e a (6) bekezdés a) vagy b) pontja szerinti határozatot. A bíróság a beszerzett személyes adatokat a végzés jogerőre emelkedéséig kezeli.
 
@@ -4635,7 +4635,7 @@ a lakóingatlan kiürítését – a (3) bekezdésben foglalt kivétellel – a 
 (3a) A (3) bekezdés szerinti követelésekkel összefüggő, az állami adó- és vámhatóságnak át nem adott és meg nem szüntetett végrehajtási ügyekben a törvényszék kezdeményezi
 
 - a) az egyszerűsített felülvizsgálati eljárás lefolytatását a büntetőügyben eljárt bíróságnál, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása előtt meghalt vagy megszűnt,
-- b) a vagyonelvonásra irányuló eljárás lefolytatását az ügyészségnél, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása után, a végrehajtás befejezése előtt meghalt vagy megszűnt.
+- b) a vagyonelvonásra irányuló eljárás lefolytatását az ügyészségnél vagy az NVVH-nál, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása után, a végrehajtás befejezése előtt meghalt vagy megszűnt.
 
 (3b) Ha a (3a) bekezdés szerinti eljárásokban a követelés új kötelezettjének személye a büntetőeljárásban hozott végleges határozattal megállapításra kerül, az illetékes törvényszék e határozatra hivatkozással átadja az ügyet az állami adó- és vámhatóság részére, hogy az új kötelezettel szemben foganatosítsa a szükséges végrehajtási cselekményeket és intézkedéseket az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény rendelkezései alapján. Ha a (3a) bekezdés szerinti eljárásokban a követelés új kötelezettje nem állapítható meg, az illetékes törvényszék a végrehajtás megszüntetéséről végzéssel rendelkezik.
 

@@ -552,7 +552,7 @@ alapján folytatható.
 
 36. § (1) Az ügyvéd kirendelés esetén kirendelt védőként, eseti gondnokként, eseti gyámként, ügygondnokként (a továbbiakban együtt: kirendelt ügyvéd) jár el.
 
-(2) A kirendelt ügyvéd köteles az ügyben eljárni, a hatóság, a nyomozó hatóság, az ügyészség, a közjegyző és a bíróság (e fejezetben a továbbiakban együtt: hatóság) idézésének eleget tenni, továbbá a terhelttel, illetve ha az ügy természete lehetővé teszi, a képviselt személlyel a kapcsolatot késedelem nélkül felvenni.
+(2) A kirendelt ügyvéd köteles az ügyben eljárni, a hatóság, a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a közjegyző és a bíróság (e fejezetben a továbbiakban együtt: hatóság) idézésének eleget tenni, továbbá a terhelttel, illetve ha az ügy természete lehetővé teszi, a képviselt személlyel a kapcsolatot késedelem nélkül felvenni.
 
 (3) A területi kamara köteles a kirendelések teljesítése érdekében pihenő- és munkaszüneti napokon ügyvédi ügyeletet biztosítani.
 
@@ -1969,9 +1969,9 @@ szerzett tudomást, és a tudomásszerzéstől számítva az okot haladéktalanu
 
 #### 62. Az eljárás felfüggesztése
 
-140. § (1) A fegyelmi eljárást fel lehet függeszteni az eljárás alá vont személy elleni büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig.
+140. § (1) A fegyelmi eljárást fel lehet függeszteni az eljárás alá vont személy elleni büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig.
 
-(2) A büntetőeljárást folytató bíróság, ügyészség vagy nyomozó hatóság az ügyvédi tevékenységet gyakorló személy elleni büntetőeljárásról, a vádemelésről és a büntetőeljárás befejezéséről tájékoztatja a területi kamara elnökét.
+(2) A büntetőeljárást folytató bíróság, ügyészség, NVVH vagy nyomozó hatóság az ügyvédi tevékenységet gyakorló személy elleni büntetőeljárásról, a vádemelésről és a büntetőeljárás befejezéséről tájékoztatja a területi kamara elnökét.
 
 (3) Ha a fegyelmi eljárás lefolytatása olyan előzetes kérdés elbírálásától függ, amelynek tárgyában az eljárás más hatóság hatáskörébe tartozik, a fegyelmi eljárást ennek az eljárásnak a jogerős befejezéséig fel lehet függeszteni.
 
@@ -2058,7 +2058,7 @@ való adatigénylés útján ellenőrzi.
 
 (5) A kérelmező az 58. § (2) bekezdés a) és b) pontja és a 67. § (2) bekezdés a) és b) pontja szerinti feltételek fennállását az általa ellátott ügyek számára és jellegére vonatkozó iratokkal, nyelvvizsgával, illetve a területi kamara előtti személyes meghallgatáson igazolja.
 
-147. § Ha a kérelmező ellen – közvádra üldözendő – szándékos bűncselekmény elkövetése miatt indult büntetőeljárás, az ügyvédi kamara az eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti.
+147. § Ha a kérelmező ellen – közvádra üldözendő – szándékos bűncselekmény elkövetése miatt indult büntetőeljárás, az ügyvédi kamara az eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti.
 
 #### 68. Az ügyvédi kamarai tagság megszűnése és megszüntetése
 
@@ -2559,7 +2559,7 @@ való adatigénylés útján ellenőrzi.
 
 (4) Ha a kérelmező más területi kamara működési területén fiókirodát kíván fenntartani, az eljáró területi kamara, abban a kérdésben, hogy a fiókiroda megfelel-e az e törvényben, valamint a kamarai szabályzatban meghatározott feltételeknek, a fiókiroda címe szerint illetékes területi kamarát szakhatóságként keresi meg.
 
-(5) Ha a kérelmező ellen – közvádra üldözendő – szándékos bűncselekmény elkövetése miatt indult büntetőeljárás, a kamara az eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti.
+(5) Ha a kérelmező ellen – közvádra üldözendő – szándékos bűncselekmény elkövetése miatt indult büntetőeljárás, a kamara az eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti.
 
 #### 80. Az európai közösségi jogász és az alkalmazott európai közösségi jogász nyilvántartásba-vételi eljárásának sajátos szabályai
 

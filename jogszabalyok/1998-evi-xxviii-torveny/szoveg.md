@@ -497,7 +497,7 @@ teszi szükségessé.
 (8) Jogszabályban meghatározott közfeladat ellátása érdekében az ebnyilvántartás működtetője az ebnyilvántartáshoz
 
 - a) hozzáférést biztosít a települési, fővárosban a fővárosi kerületi és a fővárosi önkormányzat részére,
-- b) hozzáférést biztosíthat bíróság, ügyészség, nyomozó hatóság és más közigazgatási szerv részére.
+- b) hozzáférést biztosíthat bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó hatóság és más közigazgatási szerv részére.
 
 (9) Az ebnyilvántartásban szereplő adatok tulajdonjogot nem igazolnak.
 

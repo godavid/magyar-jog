@@ -1065,7 +1065,7 @@ is nyilvántartja.
 
 (4b)
 
-(5) A (2)–(3) bekezdésben foglalt adatok – az e törvényben meghatározottak szerint, a személyes adatok védelmére vonatkozó célhoz kötöttség megtartásával – továbbíthatók a fenntartónak, a kifizetőhelynek, a bíróságnak, rendőrségnek, ügyészségnek, a közneveléssel összefüggő igazgatási tevékenységet végző közigazgatási szervnek, a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak, a nemzetbiztonsági szolgálatnak.
+(5) A (2)–(3) bekezdésben foglalt adatok – az e törvényben meghatározottak szerint, a személyes adatok védelmére vonatkozó célhoz kötöttség megtartásával – továbbíthatók a fenntartónak, a kifizetőhelynek, a bíróságnak, rendőrségnek, ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a közneveléssel összefüggő igazgatási tevékenységet végző közigazgatási szervnek, a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak, a nemzetbiztonsági szolgálatnak.
 
 (6)
 

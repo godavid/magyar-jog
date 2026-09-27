@@ -540,7 +540,7 @@ halászat, vagy más hasznos víziállat forgalmazási célú gyűjtése kizár�
 (6) Az (1) bekezdés szerinti nyilvántartásból
 
 - a) jogának vagy jogos érdekének érvényesítése, illetve jogszabályban meghatározott feladatai elvégzése érdekében természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
-- b) jogszabályban meghatározott feladataik ellátásához szükséges mértékben a bíróság, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, továbbá a közigazgatási és szabálysértési hatóságok
+- b) jogszabályban meghatározott feladataik ellátásához szükséges mértékben a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, továbbá a közigazgatási és szabálysértési hatóságok
 
 igényelhetnek adatot.
 
@@ -650,7 +650,7 @@ kivételével.
 
 (10) Állami horgászokmány nem adható annak a személynek – a halgazdálkodási hatóság bírságot kiszabó határozatában megállapított eltiltás időtartamára –, akivel szemben halvédelmi bírságot szabtak ki. A halgazdálkodási hatóság által megállapított eltiltás lejártát követően állami horgászokmány vagy halászati engedély csak akkor adható ki, amennyiben az igénylő a halvédelmi bírságot megfizette.
 
-(11) A halgazdálkodási hatóság a feljogosított személynek a hivatásos halőr intézkedésével összefüggésben átadott állami horgászokmányát – a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési eljárás végleges, illetve jogerős befejezéséig, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig –
+(11) A halgazdálkodási hatóság a feljogosított személynek a hivatásos halőr intézkedésével összefüggésben átadott állami horgászokmányát – a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési eljárás végleges, illetve jogerős befejezéséig, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig –
 
 - a) papíralapú horgászokmány esetében visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja;
 - b) elektronikus horgászokmány esetében a horgászszövetség bevonásával inaktiválja, és azt az eljárás eredményétől függően újra aktiválja vagy érvényteleníti.
@@ -746,7 +746,7 @@ együtt jogosít halászatra vagy horgászatra.
 
 (4a) A horgászszövetség nyilvántartja és honlapján közzéteszi a horgászszervezetek által kiadható területi jegyek jogosultsági típusait.
 
-(5) A halgazdálkodásra jogosult a feljogosított személytől a hivatásos halőr intézkedésével összefüggésben átadott területi jegyet a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési eljárás végleges, illetve jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja.
+(5) A halgazdálkodásra jogosult a feljogosított személytől a hivatásos halőr intézkedésével összefüggésben átadott területi jegyet a halvédelmi bírság kiszabása iránt kezdeményezett hatósági, a halászattal, horgászattal, továbbá hal fogásával összefüggésben lefolytatott szabálysértési eljárás végleges, illetve jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig visszatarthatja, és azt az eljárás eredményétől függően visszaadja vagy visszavonja.
 
 (5a) A halgazdálkodásra jogosult a helyi horgászrendben meghatározott szabályokat bizonyítottan megsértőtől a helyi horgászrendben előzetesen meghatározott időtartamra, de legfeljebb öt évre a területi jegy kiadását megtagadhatja.
 

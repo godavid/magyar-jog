@@ -1653,7 +1653,7 @@ kell érteni.
 
 124. § (1) A biztosító a biztosítási szerződési feltételekben köteles meghatározni, hogy a biztosítási esemény bekövetkezése esetén milyen szolgáltatásokat és költségeket milyen okiratok bemutatása ellenében teljesít.
 
-(2) A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett biztosítási esemény tekintetében indult szabálysértési eljárás jogerős befejezéséhez, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséhez, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalához nem kötheti.
+(2) A biztosító a szolgáltatása teljesítésének esedékességét csak olyan okirat bemutatásától teheti függővé, amely a biztosítási esemény bekövetkezésének igazolásához, illetve a teljesítendő szolgáltatás mértékének meghatározásához szükséges, a biztosítási szolgáltatás teljesítésének esedékességét a bejelentett biztosítási esemény tekintetében indult szabálysértési eljárás jogerős befejezéséhez, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséhez, valamint az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalához nem kötheti.
 
 #### 48/A. A megtakarítási jellegű életbiztosítások különös szabályai
 
@@ -1866,7 +1866,7 @@ céljából a nemi hovatartozásra vonatkozó, illetve azzal összefüggő adato
 138. § (1) A biztosítási titok megtartásának kötelezettsége nem áll fenn
 
 - a) a feladatkörében eljáró Felügyelettel,
-- b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal, az ügyészséggel, valamint a szabálysértési hatósági jogkörében eljáró rendőrséggel és a Nemzeti Adó- és Vámhivatallal,
+- b) az előkészítő eljárást folytató szervvel, a nyomozó hatósággal, az ügyészséggel, az NVVH-val, valamint a szabálysértési hatósági jogkörében eljáró rendőrséggel és a Nemzeti Adó- és Vámhivatallal,
 - c) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, a csődeljárásban eljáró vagyonfelügyelővel, a felszámolási eljárásban eljáró ideiglenes vagyonfelügyelővel, rendkívüli vagyonfelügyelővel, felszámolóval, a természetes személyek adósságrendezési eljárásában eljáró főhitelezővel, Családi Csődvédelmi Szolgálattal, családi vagyonfelügyelővel, bírósággal
 - d) a hagyatéki ügyben eljáró közjegyzővel, továbbá az általa kirendelt szakértővel,
 - e) a (2) bekezdésben foglalt esetekben az adóhatósággal,
@@ -1902,7 +1902,7 @@ szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy
 
 (5) A biztosítási titoktartási kötelezettség az eljárás keretén kívül az (1) bekezdésben meghatározott szervek alkalmazottaira is kiterjed.
 
-(6) A biztosító vagy a viszontbiztosító a nemzetbiztonsági szolgálat, az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, továbbá a bíróság adatkérésére, illetve írásbeli megkeresésére akkor is köteles haladéktalanul, írásban tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet
+(6) A biztosító vagy a viszontbiztosító a nemzetbiztonsági szolgálat, az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, az NVVH, továbbá a bíróság adatkérésére, illetve írásbeli megkeresésére akkor is köteles haladéktalanul, írásban tájékoztatást adni, ha adat merül fel arra, hogy a biztosítási ügylet
 
 - a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvényben foglaltak szerinti kábítószerrel visszaéléssel, új pszichoaktív anyaggal visszaéléssel, terrorcselekménnyel, robbanóanyaggal vagy robbantószerrel visszaéléssel, lőfegyverrel vagy lőszerrel visszaéléssel, pénzmosással, bűnszövetségben vagy bűnszervezetben elkövetett bűncselekménnyel,
 - b) a Btk.-ban 2025. június 15-ig hatályban volt új pszichoaktív anyaggal visszaéléssel, vagy
@@ -1910,7 +1910,7 @@ szemben, ha az a)–j), n), s), t) és u) pontban megjelölt szerv vagy személy
 
 van összefüggésben.
 
-(6a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a biztosító vagy a viszontbiztosító az ügyészség engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a biztosító vagy viszontbiztosító az ügyészségnek az ügyfélre vagy a biztosítási szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+(6a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a biztosító vagy a viszontbiztosító az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a biztosító vagy viszontbiztosító az ügyészségnek vagy az NVVH-nak az ügyfélre vagy a biztosítási szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, biztosítási titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 (7) A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a biztosító vagy a viszontbiztosító az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
@@ -1923,7 +1923,7 @@ van összefüggésben.
 - a) a magyar bűnüldöző szerv – nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – írásban kér biztosítási titoknak minősülő adatot,
 - b) a pénzügyi információs egységként működő hatóság a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvényben meghatározott feladatkörében eljárva vagy külföldi pénzügyi információs egység írásbeli megkeresésének teljesítése céljából írásban kér biztosítási titoknak minősülő adatot, valamint ha a biztosító vagy a viszontbiztosító csoportszinten meghatározott pénzmosás és terrorizmus-finanszírozás elleni politikához és eljáráshoz kapcsolódó kötelezettségét teljesíti.
 
-139/A. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a biztosító vagy a viszontbiztosító a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
+139/A. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a biztosító vagy a viszontbiztosító a nyomozó hatósággal, az ügyészséggel és az NVVH-val együttműködési megállapodást köthet.
 
 140. § (1) Nem jelenti a biztosítási titok sérelmét a biztosító és a viszontbiztosító által a harmadik országbeli biztosítóhoz, viszontbiztosítóhoz vagy harmadik országbeli adatfeldolgozó szervezethez történő adattovábbítás abban az esetben:
 
@@ -1987,7 +1987,7 @@ szemben.
 
 (4) A 144. §-ban előírt titoktartási kötelezettség nem áll fenn
 
-- a) a nyomozó hatósággal és ügyészséggel,
+- a) a nyomozó hatósággal, az ügyészséggel és az NVVH-val,
 - b) büntetőügyben, polgári peres vagy nemperes eljárásban, közigazgatási perben eljáró bírósággal, a bíróság által kirendelt szakértővel, továbbá a végrehajtási ügyben eljáró önálló bírósági végrehajtóval, valamint az önkormányzati adósságrendezési eljárás keretében a bírósággal szemben.
 
 (5) Nem jelenti az üzleti titok sérelmét a Felügyelet által a biztosítókról és a viszontbiztosítókról egyedi azonosításra alkalmas adatok szolgáltatása a jogalkotás megalapozása és hatásvizsgálatok elvégzése céljából a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter részére.

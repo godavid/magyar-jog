@@ -110,7 +110,7 @@ haladéktalanul törli.
 
 7/A. § (1) A felügyelet a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja. A felügyeletnek biztosítani kell továbbá, hogy a felvételen szereplő személy – a felvétel törlésének időpontjáig – megtekinthesse a róla készült felvételt.
 
-(2) A rögzített felvételt a felügyelő a 7. § (6) bekezdésében foglalt felhasználási célból – bizonyítási eszközként – a szabálysértési eljárásra jogosult szerv, illetve büntetőeljárásban a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv megkeresésére vagy adatkérésére továbbíthatja. A megkeresésben vagy adatkérésben meg kell jelölni az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt.
+(2) A rögzített felvételt a felügyelő a 7. § (6) bekezdésében foglalt felhasználási célból – bizonyítási eszközként – a szabálysértési eljárásra jogosult szerv, illetve büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, az előkészítő eljárást folytató szerv megkeresésére vagy adatkérésére továbbíthatja. A megkeresésben vagy adatkérésben meg kell jelölni az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt.
 
 (3) Közigazgatási hatósági eljárásban az eljáró hatóság megkeresésére a (2) bekezdés szerint rögzített felvétel továbbítható, ha a megkereső hatóság a megkeresésben az eljárás tárgyát, ügyszámát és a rögzített felvétellel bizonyítandó tényt megjelöli.
 

@@ -47,7 +47,9 @@ a nemzetközi bűnügyi jogsegélyről
 
 9. § Ha a jogsegély iránti megkeresésnek helyt adnak, az útlevél-, vízum-, deviza- és vámjogszabályok rendelkezései nem képezhetik akadályát a személyek ki- és beutazásának, valamint a tárgyak átadásának és átvételének.
 
-10. § E törvény eltérő rendelkezésének hiányában a Büntető Törvénykönyvről szóló 2012. évi C. törvényt (a továbbiakban: Btk.) és a büntetőeljárásról szóló 2017. évi XC. törvényt (a továbbiakban: Be.) a nemzetközi bűnügyi jogsegélyforgalomban is megfelelően alkalmazni kell.
+10. § (1) E törvény eltérő rendelkezésének hiányában a Büntető Törvénykönyvről szóló 2012. évi C. törvényt (a továbbiakban: Btk.) és a büntetőeljárásról szóló 2017. évi XC. törvényt (a továbbiakban: Be.) a nemzetközi bűnügyi jogsegélyforgalomban is megfelelően alkalmazni kell.
+
+(2) E törvény alkalmazásában a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) eljárása során ügyészség alatt az NVVH-t, legfőbb ügyész alatt az NVVH törvény szerint kijelölt vezetőjét, ügyész alatt az NVVH tagját kell érteni.
 
 10/A. § E törvény alkalmazása során az elektronikus kapcsolattartás szabályait azzal az eltéréssel kell alkalmazni, hogy az eljáró bíróság vagy ügyészség az ügyiratot papíralapon küldi meg a legfőbb ügyésznek, illetve a miniszternek, ha az ügyiratot külföldi állam részére továbbítani kell.
 

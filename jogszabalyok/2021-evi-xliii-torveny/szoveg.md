@@ -66,7 +66,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 - 1. Európai Unió: az Európai Unió és az Európai Gazdasági Térség;
 - 2. felügyeletet ellátó szerv: a Pmt. 5. §-ában meghatározott szerv;
 - 3. harmadik ország: az Európai Unión kívüli állam;
-- 4. harmadik személy: az e törvény szerinti nyilvántartó szervtől, a hatóságtól, az ügyészségtől, a bíróságtól, a felügyeletet ellátó szervtől, a szolgáltatótól, valamint az adatszolgáltatótól eltérő személy;
+- 4. harmadik személy: az e törvény szerinti nyilvántartó szervtől, a hatóságtól, az ügyészségtől, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivataltól (a továbbiakban: NVVH), a bíróságtól, a felügyeletet ellátó szervtől, a szolgáltatótól, valamint az adatszolgáltatótól eltérő személy;
 - 5. hatóság: a pénzügyi információs egységként működő hatóság, a nyomozó hatóság, az általános rendőri feladatok ellátására létrehozott szerv, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a rendőrség terrorizmust elhárító szerve, továbbá az állami adó- és vámhatóság;
 - 6. központi bankszámla- és széfnyilvántartás: a fizetésiszámla- és a széfszolgáltatási szerződések adataira vonatkozó nyilvántartás;
 - 7. központi nyilvántartások: a tényleges tulajdonosi nyilvántartás és a központi bankszámla- és széfnyilvántartás;
@@ -124,9 +124,9 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 5. Hozzáférés a tényleges tulajdonosi nyilvántartásban tárolt adatokhoz
 
-8. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az érintett adatszolgáltatók értesítése nélkül, haladéktalanul és ingyenesen, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.), illetve annak végrehajtási rendelete szerinti automatikus információátadásra vonatkozó követelményei alapján és a nyilvántartó szerv által meghatározott módon betekinthet a tényleges tulajdonosi nyilvántartásban tárolt valamennyi adatba, ideértve a 10–11. § szerinti jelzések alapján rögzített adatokat, a módosított korábbi adatokat, az adatbenyújtás és az adatváltoztatás időpontjára vonatkozó adatokat, valamint az adatbenyújtó és adatot változtató intézményre vonatkozó adatokat.
+8. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv az érintett adatszolgáltatók értesítése nélkül, haladéktalanul és ingyenesen, a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.), illetve annak végrehajtási rendelete szerinti automatikus információátadásra vonatkozó követelményei alapján és a nyilvántartó szerv által meghatározott módon betekinthet a tényleges tulajdonosi nyilvántartásban tárolt valamennyi adatba, ideértve a 10–11. § szerinti jelzések alapján rögzített adatokat, a módosított korábbi adatokat, az adatbenyújtás és az adatváltoztatás időpontjára vonatkozó adatokat, valamint az adatbenyújtó és adatot változtató intézményre vonatkozó adatokat.
 
-(2) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdés alapján megismert adatokat kiadhatja
+(2) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv az (1) bekezdés alapján megismert adatokat kiadhatja
 
 - a) más európai uniós tagállam hatóságának, ügyészségének, bíróságának, felügyeletet ellátó szervének,
 - b) a Bűnügyi Együttműködés Európai Uniós Ügynökségének (Europol) és az Európai Csalás Elleni Hivatalnak (OLAF), valamint
@@ -175,9 +175,9 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 6. Eltérések jelzése
 
-10. § (1) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv jelezheti a nyilvántartó szervnek, ha a tényleges tulajdonosi viszonyokat érintő érdemi eltérést észlel az általuk ismert és a tényleges tulajdonosi nyilvántartásban rögzített tényleges tulajdonosi adatok között.
+10. § (1) A hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv jelezheti a nyilvántartó szervnek, ha a tényleges tulajdonosi viszonyokat érintő érdemi eltérést észlel az általuk ismert és a tényleges tulajdonosi nyilvántartásban rögzített tényleges tulajdonosi adatok között.
 
-(2) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdésben meghatározott jelzésben közli az általa ismert tényleges tulajdonosi adatokat, amennyiben azok rendelkezésre állnak.
+(2) A hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv az (1) bekezdésben meghatározott jelzésben közli az általa ismert tényleges tulajdonosi adatokat, amennyiben azok rendelkezésre állnak.
 
 11. § (1) Ha a szolgáltató – a számlavezető kivételével – a Pmt. 7–10. §-ában foglalt ügyfél-átvilágítás keretében vagy azt követően, a Pmt. 9. § szerinti intézkedések elvégzése vagy a Pmt. 12. § (1) és (2) bekezdésében előírt adatellenőrzési kötelezettségek teljesítése során a tényleges tulajdonosi nyilvántartásban tárolt adatoktól a tényleges tulajdonosi viszonyokat érintő érdemben eltérő adatot rögzít, ezt 5 munkanapon belül jelzi a nyilvántartó szervnek.
 
@@ -185,7 +185,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 (3) A szolgáltató az (1) bekezdésben meghatározott jelzést követően ugyanarra a tényleges tulajdonosi adatra vonatkozó eltérésről 30 napon belül nem küldhet jelzést.
 
-12. § (1) A 10. § (1) bekezdése alapján jelzett eltérés 2 ponttal, a 11. § (1) bekezdése alapján jelzett eltérés 1 ponttal csökkenti a TT index értékét. A nyilvántartó szerv a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 10. § (1) bekezdése és a szolgáltató által a 11. § (1) bekezdése alapján jelzett eltérést, a jelzett tényleges tulajdonosi adatot – a nyilvántartott adatok változatlan fenntartása mellett –, valamint a TT index módosított értékét rögzíti.
+12. § (1) A 10. § (1) bekezdése alapján jelzett eltérés 2 ponttal, a 11. § (1) bekezdése alapján jelzett eltérés 1 ponttal csökkenti a TT index értékét. A nyilvántartó szerv a hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv által a 10. § (1) bekezdése és a szolgáltató által a 11. § (1) bekezdése alapján jelzett eltérést, a jelzett tényleges tulajdonosi adatot – a nyilvántartott adatok változatlan fenntartása mellett –, valamint a TT index módosított értékét rögzíti.
 
 (2) Ha a TT index értéke az (1) bekezdésben meghatározott eltérések jelzése következtében
 
@@ -274,9 +274,9 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 #### 11. Adathozzáférés
 
-20. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv a központi bankszámla- és széfnyilvántartásban tárolt valamennyi adatba korlátozás nélkül, az érintett adatszolgáltatók értesítése nélkül, a Dáptv. illetve annak végrehajtási rendelete szerinti automatikus információátadásra vonatkozó követelményei alapján és a nyilvántartó szerv által meghatározott módon, ingyenesen betekinthet.
+20. § (1) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv a központi bankszámla- és széfnyilvántartásban tárolt valamennyi adatba korlátozás nélkül, az érintett adatszolgáltatók értesítése nélkül, a Dáptv. illetve annak végrehajtási rendelete szerinti automatikus információátadásra vonatkozó követelményei alapján és a nyilvántartó szerv által meghatározott módon, ingyenesen betekinthet.
 
-(2) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv az (1) bekezdés alapján megismert adatokat kiadhatja
+(2) Jogszabályban meghatározott feladatainak ellátása érdekében a hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv az (1) bekezdés alapján megismert adatokat kiadhatja
 
 - a) más európai uniós tagállam hatóságának, ügyészségének, bíróságának, felügyeletet ellátó szervének,
 - b) a Bűnügyi Együttműködés Európai Uniós Ügynökségének (Europol) és az Európai Csalás Elleni Hivatalnak (OLAF), valamint
@@ -298,8 +298,8 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 21/A. § (1) A nyilvántartó szerv
 
-- a) a hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 8. § (1) bekezdése szerint, továbbá az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium által a 8. § (2a) bekezdése szerint
-- b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, a bíróság és a felügyeletet ellátó szerv által a 20. § (1) bekezdése szerint,
+- a) a hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv által a 8. § (1) bekezdése szerint, továbbá az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium által a 8. § (2a) bekezdése szerint
+- b) a hatóság, az önkormányzati adóhatóság, a gazdasági kamarák, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv által a 20. § (1) bekezdése szerint,
 - c) a 8. § (3)–(7) bekezdése szerint, valamint
 - d) a 8. § (2b) bekezdése szerint
 
@@ -336,7 +336,7 @@ végzett adathozzáféréseket naplózza.
 
 (4) A nyilvántartó szerv adatvédelmi tisztviselője az (1) bekezdés szerinti napló megfelelő vezetését rendszeresen, de legalább félévente ellenőrzi. Az ellenőrzés eredményét az adatvédelmi tisztviselő dokumentálja, valamint e dokumentációt a (6) bekezdés szerinti időtartamig megőrzi.
 
-(5) Az (1) bekezdés szerinti naplóhoz kizárólag a törvényben meghatározott feladatkörében, az adathozzáférés jogszerűsége ellenőrzése céljából eljáró bíróság, nyomozó hatóság, ügyészség, illetve közigazgatási hatóság férhet hozzá.
+(5) Az (1) bekezdés szerinti naplóhoz kizárólag a törvényben meghatározott feladatkörében, az adathozzáférés jogszerűsége ellenőrzése céljából eljáró bíróság, nyomozó hatóság, ügyészség, az NVVH, illetve közigazgatási hatóság férhet hozzá.
 
 (6) A nyilvántartó szerv az (1) és (2) bekezdésben meghatározott nyilvántartásban rögzített adatokat öt évvel keletkezésük után törli, kivéve, ha az adott adatok tekintetében már megkezdett ellenőrzési eljárás a naplóbejegyzés további kezelését indokolja. Ha az adott naplóbejegyzés törlésére a folyamatban levő ellenőrzésre figyelemmel nem került sor, a törlést az ellenőrzési eljárás lezárultát követően kell végrehajtani.
 
@@ -344,7 +344,7 @@ végzett adathozzáféréseket naplózza.
 
 #### 12/B. Az adathozzáféréshez szükséges regisztrálás
 
-21/B. § (1) A hatóság, az ügyészség, a bíróság és a felügyeletet ellátó szerv a 8. §-ban és a 20. §-ban, az önkormányzati adóhatóság és a gazdasági kamarák a 20. §-ban, az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium és a szolgáltató a 8. §-ban meghatározott adathozzáférés érdekében regisztrálnak a nyilvántartó szervnél.
+21/B. § (1) A hatóság, az ügyészség, az NVVH, a bíróság és a felügyeletet ellátó szerv a 8. §-ban és a 20. §-ban, az önkormányzati adóhatóság és a gazdasági kamarák a 20. §-ban, az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium és a szolgáltató a 8. §-ban meghatározott adathozzáférés érdekében regisztrálnak a nyilvántartó szervnél.
 
 (2) A regisztráció során az adathozzáférést igénylő természetes személy közli
 
@@ -364,7 +364,7 @@ végzett adathozzáféréseket naplózza.
 
 (5) A (3) bekezdés d) pontja alapján a regisztráció kezdeményezésére jogosult lehet
 
-- a) a 8. § (1) bekezdése szerinti hatóságok, ügyészség, bíróság, felügyeletet ellátó szervek, továbbá az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium és a 20. § (1) bekezdése szerinti önkormányzati adóhatóság és a gazdasági kamarák regisztráció kezdeményezésére kijelölt tagja, képviselője,
+- a) a 8. § (1) bekezdése szerinti hatóságok, ügyészség, az NVVH, bíróság, felügyeletet ellátó szervek, továbbá az európai uniós források felhasználásával kapcsolatos irányító hatósági vagy közreműködő szervezeti feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium és a 20. § (1) bekezdése szerinti önkormányzati adóhatóság és a gazdasági kamarák regisztráció kezdeményezésére kijelölt tagja, képviselője,
 - b) a 8. § (3) bekezdése szerinti szolgáltató törvényes képviselője és az általa eljárásra meghatalmazott harmadik személy.
 
 (6) Sikeres regisztráció esetén a regisztráció kezdeményezésére jogosult személy a nyilvántartó szerv által meghatározott módon kijelölheti azt az (1) bekezdésben meghatározott szervezettel szolgálati viszonyban, munkaviszonyban vagy más munkavégzésre irányuló jogviszonyban álló természetes személyt, aki a szervezet nevében hozzáféréssel rendelkezhet a 4. § (1) bekezdése, a 18. § (1) bekezdése és a 19. § (1) bekezdése szerinti nyilvántartásokhoz. A kijelölés során a regisztráció kezdeményezésére jogosult személy megadja a hozzáférésre jogosult természetes személy (2) bekezdésben meghatározott adatait.

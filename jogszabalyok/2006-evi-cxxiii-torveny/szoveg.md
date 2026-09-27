@@ -4,17 +4,17 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 ### A törvény hatálya
 
-1. § Ezt a törvényt azokban az ügyekben kell alkalmazni, amelyekben a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) alapján az ügyészség a közvetítői eljárást – a büntetőeljárást felfüggesztése mellett vagy anélkül – elrendelte.
+1. § Ezt a törvényt azokban az ügyekben kell alkalmazni, amelyekben a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) alapján az ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) a közvetítői eljárást – a büntetőeljárást felfüggesztése mellett vagy anélkül – elrendelte.
 
 ### A közvetítői eljárás fogalma és célja
 
-2. § (1) A közvetítői eljárás a bűncselekmény elkövetésével kiváltott konfliktust kezelő eljárás, amelynek célja, hogy a büntetőeljárást lefolytató nyomozó hatóságtól, illetve ügyésztől független közvetítő bevonásával – a sértett és a terhelt közötti konfliktus rendezésének megoldását tartalmazó, a bűncselekmény következményeinek jóvátételét és a terhelt jövőbeni jogkövető magatartását elősegítő – írásbeli megállapodás jöjjön létre.
+2. § (1) A közvetítői eljárás a bűncselekmény elkövetésével kiváltott konfliktust kezelő eljárás, amelynek célja, hogy a büntetőeljárást lefolytató nyomozó hatóságtól, ügyészségtől, illetve NVVH-tól független közvetítő bevonásával – a sértett és a terhelt közötti konfliktus rendezésének megoldását tartalmazó, a bűncselekmény következményeinek jóvátételét és a terhelt jövőbeni jogkövető magatartását elősegítő – írásbeli megállapodás jöjjön létre.
 
 (2) A közvetítői eljárásban arra kell törekedni, hogy a sértett és a terhelt között megállapodás jöjjön létre.
 
 ### A közvetítő
 
-3. § (1) A közvetítői eljárást a büntetőügyben eljáró ügyészség székhelye szerint illetékes pártfogó felügyelői szolgálat közvetítői tevékenységet végző pártfogó felügyelője, vagy a pártfogó felügyelői szolgálatként kijelölt szervvel – pályázat útján – közvetítői tevékenység végzésére szerződésben álló ügyvéd (a továbbiakban együtt: közvetítő) folytatja le.
+3. § (1) A közvetítői eljárást a büntetőügyben eljáró ügyészség, illetve NVVH székhelye szerint illetékes pártfogó felügyelői szolgálat közvetítői tevékenységet végző pártfogó felügyelője, vagy a pártfogó felügyelői szolgálatként kijelölt szervvel – pályázat útján – közvetítői tevékenység végzésére szerződésben álló ügyvéd (a továbbiakban együtt: közvetítő) folytatja le.
 
 (2) Ha a büntetőeljárás vagy a közvetítői eljárás adatai ezt indokolják, egy ügyben több közvetítő is kijelölhető. Ez esetben a vezető közvetítőként kijelölt közvetítő teljesíti az e törvényben előírt feladatokat.
 
@@ -24,9 +24,9 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 - a) az eljárás ügyiratait – a törvényben meghatározott kivételekkel – megismerheti,
 - b) a terhelttől és a sértettől felvilágosítást kérhet,
-- c) az ügyészségtől újabb ügyiratokat és felvilágosítást kérhet.
+- c) az ügyészségtől, illetve az NVVH-tól újabb ügyiratokat és felvilágosítást kérhet.
 
-(5) Az ügyészség a közvetítői eljárás elrendeléséről szóló határozat kézbesítésével egyidejűleg a közvetítő rendelkezésére bocsátja – az e törvényben meghatározott feladatai ellátásához szükséges mértékben és időtartamban – az ügyiratokat. A büntetőeljárásban részt vevő személynek a Be. 99. §-a alapján zártan kezelt személyes adatait a közvetítő a feladatának teljesítéséhez elengedhetetlenül szükséges mértékben ismerheti meg.
+(5) Az ügyészség, illetve az NVVH a közvetítői eljárás elrendeléséről szóló határozat kézbesítésével egyidejűleg a közvetítő rendelkezésére bocsátja – az e törvényben meghatározott feladatai ellátásához szükséges mértékben és időtartamban – az ügyiratokat. A büntetőeljárásban részt vevő személynek a Be. 99. §-a alapján zártan kezelt személyes adatait a közvetítő a feladatának teljesítéséhez elengedhetetlenül szükséges mértékben ismerheti meg.
 
 (6) A közvetítőt – ha törvény másként nem rendelkezik – titoktartási kötelezettség terheli minden olyan tényre, adatra és körülményre vonatkozóan, amelyről közvetítői tevékenységével összefüggésben szerzett tudomást. A közvetítő titoktartási kötelezettsége a közvetítői tevékenység megszűnése után is fennáll.
 
@@ -35,7 +35,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 4. § (1) Közvetítőként nem járhat el,
 
 - a) aki a büntetőeljárásban terheltként, védőként, továbbá sértettként, feljelentőként vagy ezek segítőjeként vesz vagy vett részt, valamint ezeknek a Büntető Törvénykönyvről szóló 2012. évi C. törvény 459. § (1) bekezdés 14. pontjában meghatározott hozzátartozója (a továbbiakban: hozzátartozó),
-- b) aki a büntetőeljárásban bíróként, ügyészként vagy a nyomozó hatóság nyomozási tevékenységet ellátó állományának tagjaként járt el, valamint ezek hozzátartozója,
+- b) aki a büntetőeljárásban bíróként, ügyészként, az NVVH tagjaként vagy a nyomozó hatóság nyomozási tevékenységet ellátó állományának tagjaként járt el, valamint ezek hozzátartozója,
 - c) aki a büntetőeljárásban tanúként, a tanú segítőjeként, szakértőként, illetve szaktanácsadóként vesz vagy vett részt,
 - d) az a pártfogó felügyelő, aki pártfogó felügyelőként a terhelt vagy a sértett ügyében három éven belül eljárt, vagy bármelyikük folyamatban lévő ügyében eljár, kivéve a közvetítői eljárás elrendeléséről szóló határozat meghozatala előtt kért pártfogó felügyelői véleményt készítő pártfogó felügyelőt,
 - e) az az ügyvéd, aki a terhelt vagy a sértett ügyében három éven belül eljárt, vagy bármelyikük folyamatban lévő ügyében eljár,
@@ -43,13 +43,13 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 (2) A közvetítő a vele szemben felmerült kizárási okot köteles a pártfogó felügyelői szolgálat vezetőjének haladéktalanul bejelenteni.
 
-(3) A kizárási okot az ügyészség, a sértett és a terhelt is bejelentheti és indítványozhatja a közvetítő kizárását.
+(3) A kizárási okot az ügyészség, az NVVH, a sértett és a terhelt is bejelentheti és indítványozhatja a közvetítő kizárását.
 
 (4) A (3) bekezdésben megjelölt személy az (1) bekezdés f) pontjában szabályozott kizárási okot a meghallgatás megkezdése után csak akkor érvényesítheti, ha valószínűsíti, hogy a bejelentés alapjául szolgáló tényről a meghallgatás megkezdése után szerzett tudomást, és azt három napon belül bejelenti.
 
 5. § (1) A pártfogó felügyelői szolgálat vezetője a közvetítő kizárásáról, és szükség esetén új közvetítő kijelöléséről a tudomásszerzést követően három napon belül határoz.
 
-(2) A kizárást kimondó határozat ellen jogorvoslatnak nincs helye, a kizárás megtagadása ellen a sértett és a terhelt az ügyészséghez panasszal élhet.
+(2) A kizárást kimondó határozat ellen jogorvoslatnak nincs helye, a kizárás megtagadása ellen a sértett és a terhelt az ügyészséghez, illetve az NVVH-hoz panasszal élhet.
 
 (3) A kizárásra vonatkozó bejelentés elintézéséig a közvetítő az ügyben nem járhat el.
 
@@ -60,7 +60,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 ### A közvetítői eljárás megindításának alapja
 
-6. § A közvetítői eljárás az ügyészség közvetítői eljárás elrendeléséről szóló határozatával indul meg.
+6. § A közvetítői eljárás az ügyészség, illetve az NVVH közvetítői eljárás elrendeléséről szóló határozatával indul meg.
 
 ### Az eljárás általános szabályai
 
@@ -88,7 +88,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 (3a) A sértett, a terhelt megismerheti a közvetítői megbeszélésről készült feljegyzést, valamint a másik fél által benyújtott ügyiratot. A megismerés jogát a közvetítő az ügyirat megtekintésének, erre irányuló külön indítvány vagy hozzájárulás esetén az ügyirat tartalmáról felvilágosítás adásával, tájékoztatás nyújtásával vagy a félnek saját részre történő másolat vagy felvétel készítésének lehetővé tételével biztosítja.
 
-(4) Ha a közvetítői eljárás során a közvetítő az ügyészség hatáskörébe tartozó intézkedés vagy eljárási cselekmény elvégzésének szükségességét észleli, erről az ügyészséget tájékoztatja.
+(4) Ha a közvetítői eljárás során a közvetítő az ügyészség, illetve az NVVH hatáskörébe tartozó intézkedés vagy eljárási cselekmény elvégzésének szükségességét észleli, erről az ügyészséget, illetve az NVVH-t tájékoztatja.
 
 ### A közvetítői megbeszélés előkészítése
 
@@ -98,7 +98,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 ### A közvetítői megbeszélés kitűzése
 
-9. § (1) A közvetítő a közvetítői eljárás elrendeléséről szóló ügyészségi határozatnak a pártfogó felügyelői szolgálathoz, illetve, ha közvetítőként ügyvéd jár el, a hozzá történt érkezésétől számított
+9. § (1) A közvetítő a közvetítői eljárás elrendeléséről szóló ügyészségi, illetve az NVVH által meghozott határozatnak a pártfogó felügyelői szolgálathoz, illetve, ha közvetítőként ügyvéd jár el, a hozzá történt érkezésétől számított
 
 - a) tizenöt napon belül kitűzi az első közvetítői megbeszélés időpontját, ha a büntetőeljárás felfüggesztésre került,
 - b) tizenöt napon belül megkezdi a 8/A. § szerinti előkészítő folyamatot, ha a büntetőeljárás felfüggesztésére nem került sor.
@@ -107,7 +107,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 (3) Az első közvetítői megbeszélésre történő értesítésben a sértettet és a terheltet röviden tájékoztatni kell a közvetítői eljárás lényegéről, jogkövetkezményeiről, valamint jogaikról és kötelezettségeikről. A közvetítői megbeszélésről a törvényes képviselőt, illetve a meghatalmazott képviselőt és a védőt is értesíteni kell.
 
-(4) A közvetítői eljárást úgy kell megszervezni, hogy azt az első közvetítői megbeszéléstől számított három hónapon belül be lehessen fejezni, és ha a büntetőeljárás felfüggesztésre került, akkor a jelentés, továbbá a megállapodásról szóló okirat a felfüggesztés határidejének letelte előtt megérkezzen az ügyészséghez.
+(4) A közvetítői eljárást úgy kell megszervezni, hogy azt az első közvetítői megbeszéléstől számított három hónapon belül be lehessen fejezni, és ha a büntetőeljárás felfüggesztésre került, akkor a jelentés, továbbá a megállapodásról szóló okirat a felfüggesztés határidejének letelte előtt megérkezzen az ügyészséghez, illetve az NVVH-hoz.
 
 10. § (1) Ha a sértett vagy a terhelt a szabályszerűen kézbesített értesítés ellenére nem jelenik meg, a közvetítő – szükség esetén az értesített személy megkeresésével – tisztázza a távolmaradás körülményeit, továbbá azt, hogy a közvetítői eljárás lefolytatásának – a hozzájárulás visszavonása miatt – nincs-e akadálya. Ha a közvetítői eljárás lefolytatásának nincs akadálya, a közvetítő a megbeszélésre újabb időpontot tűz ki.
 
@@ -115,7 +115,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 (3) Az értesítésre, a kézbesítésre és az igazolásra a Be. rendelkezéseit megfelelően alkalmazni kell azzal, hogy két hónapon túl igazolási kérelmet nem lehet előterjeszteni és hirdetményi kézbesítés nem alkalmazható, továbbá ha az értesítés egyszerűsített kézbesítés útján történt, és az értesítés átvétele vagy tudomásulvétele nem igazolható, a (2) bekezdésben meghatározott következmények nem alkalmazhatók.
 
-(4) Az igazolási kérelemről a közvetítő határoz. Az igazolási kérelemnek helyt adó határozat ellen jogorvoslatnak nincs helye, az igazolási kérelem elutasítása ellen a kérelem előterjesztője és képviselője az ügyészséghez panasszal élhet.
+(4) Az igazolási kérelemről a közvetítő határoz. Az igazolási kérelemnek helyt adó határozat ellen jogorvoslatnak nincs helye, az igazolási kérelem elutasítása ellen a kérelem előterjesztője és képviselője az ügyészséghez, illetve az NVVH-hoz panasszal élhet.
 
 10/A. § (1) Az eljárásban a Be. elektronikus kapcsolattartásra vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
@@ -174,7 +174,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 (2) A feljegyzésben fel kell tüntetni
 
 - a) pártfogó felügyelő közvetítő esetén a közvetítői eljárást végző pártfogó felügyelői szolgálat megnevezését, ügyvéd közvetítő esetén a közvetítői tevékenység végzésére kötött szerződés számát, az ügy számát és a terhelt nevét,
-- b) az ügyészség megnevezését és ügyszámát,
+- b) az ügyészség, illetve az NVVH megnevezését és ügyszámát,
 - c) a közvetítői megbeszélés helyét, megkezdésének és befejezésének időpontját,
 - d) az eljáró közvetítő, a sértett, a terhelt, a segítők, illetve a közvetítői megbeszélésen részt vett más személyek nevét,
 - e) a telekommunikációs eszköz használatának tényét, indokát és módját, továbbá annak a személynek a megjelölését, akinek a jelenlétét telekommunikációs eszköz útján biztosítják.
@@ -194,7 +194,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 (3) A megállapodásban vállalt kötelezettségek más jogait és jogos érdekeit nem sérthetik, a kötelezettségeknek meg kell felelniük a jogszabályoknak, és nem ütközhetnek a jó erkölcsbe.
 
-(4) A közvetítő a sértett és terhelt között létrejött – az (1)–(3) bekezdésben írtaknak megfelelő – megállapodásról okiratot állít ki, amelyet a sértett és a terhelt is aláír. A közvetítő az okiratot haladéktalanul kézbesíti a sértettnek, a terheltnek, és az ügyészségnek. A megállapodásról kiállított okirat közokirat.
+(4) A közvetítő a sértett és terhelt között létrejött – az (1)–(3) bekezdésben írtaknak megfelelő – megállapodásról okiratot állít ki, amelyet a sértett és a terhelt is aláír. A közvetítő az okiratot haladéktalanul kézbesíti a sértettnek, a terheltnek, és az ügyészségnek, illetve az NVVH-nak. A megállapodásról kiállított okirat közokirat.
 
 (5) A közvetítői eljárásban keletkezett iratok abban a büntetőeljárásban, amelyben a közvetítői eljárásra sor került, bizonyítékként nem használhatók fel, kivéve a megállapodást tartalmazó okiratot és a közvetítő jelentését.
 
@@ -209,7 +209,7 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 
 ### A megállapodás felülvizsgálata és hatályon kívül helyezése
 
-14/A. § Ha az ügyészség hatályon kívül helyezi a közvetítői eljárásban létrejött megállapodást, a közvetítő a már teljesített kötelezettségekre is figyelemmel, a szükséges terjedelemben ismét lefolytatja a közvetítői eljárást.
+14/A. § Ha az ügyészség, illetve az NVVH hatályon kívül helyezi a közvetítői eljárásban létrejött megállapodást, a közvetítő a már teljesített kötelezettségekre is figyelemmel, a szükséges terjedelemben ismét lefolytatja a közvetítői eljárást.
 
 ### A közvetítői eljárás befejezése
 
@@ -224,22 +224,22 @@ a büntető ügyekben alkalmazható közvetítői tevékenységről
 - g) a terhelt nyilatkozatából vagy magatartásából egyértelműen megállapítható, hogy a Be. 412. § (2) bekezdés a), b) pontjában vagy c) pont ca) alpontjában írt feltételek nem állnak fenn,
 - h) az első közvetítői megbeszéléstől számított három hónap eredménytelenül eltelt.
 
-(1a) Ha az ügyészség a büntetőeljárást nem függeszti fel, az (1) bekezdés a) és b) pontja nem alkalmazható. Ebben az esetben a közvetítői eljárás azon a napon fejeződik be, amikor a létrejött megállapodásról kiállított okiratot a sértett és a terhelt aláírta.
+(1a) Ha az ügyészség, illetve az NVVH a büntetőeljárást nem függeszti fel, az (1) bekezdés a) és b) pontja nem alkalmazható. Ebben az esetben a közvetítői eljárás azon a napon fejeződik be, amikor a létrejött megállapodásról kiállított okiratot a sértett és a terhelt aláírta.
 
 (2) A büntetőeljárás felfüggesztése esetén a megállapodás teljesítését a közvetítő ellenőrzi.
 
-(3) A büntetőeljárás felfüggesztése esetén, ha a terhelt a megállapodásban vállalt kötelezettségeinek teljesítését megkezdte, de a közvetítői eljárás a büntetőeljárás felfüggesztésének eredeti tartama alatt nem fejezhető be, a közvetítő tájékoztatja az ügyészséget a befejezés várható idejéről.
+(3) A büntetőeljárás felfüggesztése esetén, ha a terhelt a megállapodásban vállalt kötelezettségeinek teljesítését megkezdte, de a közvetítői eljárás a büntetőeljárás felfüggesztésének eredeti tartama alatt nem fejezhető be, a közvetítő tájékoztatja az ügyészséget, illetve az NVVH-t a befejezés várható idejéről.
 
-(4) Ha az ügyészség a büntetőeljárást nem függeszti fel, a terhelt a megállapodásban vállalhatja, hogy a megállapodás teljesítését igazolja a bíróságnak, az ügyészségnek vagy a nyomozó hatóságnak.
+(4) Ha az ügyészség, illetve az NVVH a büntetőeljárást nem függeszti fel, a terhelt a megállapodásban vállalhatja, hogy a megállapodás teljesítését igazolja a bíróságnak, az ügyészségnek, illetve az NVVH-nak vagy a nyomozó hatóságnak.
 
 ### A jelentés
 
-16. § (1) A közvetítői eljárás befejezését követő tizenöt napon belül a közvetítő a közvetítői eljárásról jelentést készít, amelyet az eljárás befejezésére alapot adó okirattal együtt megküld az ügyészségnek, és ezzel egyidejűleg a megküldés tényéről írásban tájékoztatja a sértettet és a terheltet.
+16. § (1) A közvetítői eljárás befejezését követő tizenöt napon belül a közvetítő a közvetítői eljárásról jelentést készít, amelyet az eljárás befejezésére alapot adó okirattal együtt megküld az ügyészségnek, illetve az NVVH-nak, és ezzel egyidejűleg a megküldés tényéről írásban tájékoztatja a sértettet és a terheltet.
 
 (2) A jelentés tartalmazza
 
 - a) pártfogó felügyelő közvetítő esetén a közvetítői eljárást végző pártfogó felügyelői szolgálat megnevezését, ügyvéd közvetítő esetén a közvetítői tevékenység végzésére kötött szerződés számát, az ügy számát, a terhelt és a sértett nevét,
-- b) az ügyészség megnevezését és ügyszámát,
+- b) az ügyészség, illetve az NVVH megnevezését és ügyszámát,
 - c) a közvetítő eljárás megindulásának és befejezésének időpontját,
 - d) a közvetítői eljárás eredményét és
 - e) a közvetítő nevét.

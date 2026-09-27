@@ -257,6 +257,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 
 - a) az Állami Számvevőszék, ellenőrzési tevékenységének a végzéséhez;
 - b) az adópolitikáért felelős miniszter, az adóztatás ellenőrzésével, felügyeletével összefüggésben.
+- c) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH).
 
 (2) Az adóazonosító jel kezelésére törvényben meghatározott feladatkörében eljárva jogosult
 
@@ -412,7 +413,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - 13. a bűnügyi nyilvántartó szerv feladatai ellátásához;
 - 14. a körözést elrendelő, a körözési eljárást lefolytató és a körözési nyilvántartást vezető szerv a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvényben meghatározott feladatai ellátásához;
 - 15. a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
-- 16. az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
+- 16. az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
 - 17. a közúti közlekedési nyilvántartást vezető szerv és a közlekedési igazgatási hatóság a nyilvántartási és közlekedési igazgatási eljáráshoz;
 - 18. a lakáscélú állami támogatás nyilvántartását vezető és ellenőrzést végző kincstár, lakáscélú állami támogatások ügyében eljáró szerv, valamint a lakáscélú állami támogatásokért felelős miniszter feladatai ellátásához;
 - 19. a szabálysértési hatóság, valamint a szabálysértési nyilvántartó szerv az eljárás alá vont személy személyazonosságának ellenőrzéséhez;
@@ -457,8 +458,8 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - 6. a választójoggal nem rendelkezők nyilvántartását vezető szerv, az európai polgári kezdeményezést, a népszavazás-kezdeményezést aláírók adatai hitelesítéséhez, a választások lebonyolításához a választási szervnek és a bíróságnak teljesített adatszolgáltatáskor;
 - 7. a polgármester (főpolgármester) a népiülnök-választási eljárásban, a választójoggal nem rendelkezők nyilvántartását vezető szervtől történő adatszolgáltatás igényléséhez;
 - 8. a választójoggal nem rendelkezők nyilvántartását vezető szerv a népiülnök-választási eljáráshoz a polgármesternek (főpolgármesternek) teljesített adatszolgáltatáskor;
-- 9. az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
-- 10. a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, az ellenőrzött anyagokkal és kábítószer-prekurzorokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
+- 9. az idegenrendészeti szervek, a törvényben meghatározott feladataik ellátásához egymás között, valamint a bíróság, ügyészség, az NVVH, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
+- 10. a polgári kézilőfegyverekkel, lőszerekkel, gáz- és riasztófegyverekkel, ipari célokat szolgáló robbantóanyagokkal, pirotechnikai termékek gyártásával, forgalmazásával, az ellenőrzött anyagokkal és kábítószer-prekurzorokkal kapcsolatos engedélyezési és nyilvántartási eljárást lefolytató rendőrségi szervek egymás között, valamint a bíróság, ügyészség, az NVVH, nyomozó hatóság, előkészítő eljárást folytató szerv részére;
 - 11. a 32. § 7. pontjában felsorolt szervek egymás között az ott meghatározott feladataik ellátásához;
 - 12. a külképviseleti hatóság, a hatáskörébe utalt ügyek intézése keretében a hatáskörrel rendelkező hazai hatóságnak;
 - 13. a nyilvántartási szerv és az elektronikus anyakönyvbe bejegyzés teljesítésére jogosult személy az anyakönyvi eljárásról szóló törvényben meghatározott adattovábbítás teljesítése céljából, ha az adattovábbítást a személyi azonosító átvételére feljogosított adatkérő részére teljesíti;
@@ -466,7 +467,7 @@ ha az adatszolgáltatás igénylésére az adatkezelő törvény felhatalmazása
 - 15. a jelöltajánlást gyűjtő szerv és személy, az ajánlásoknak vagy aláírásgyűjtő íveknek a választási szervhez történő továbbításakor;
 - 16. a bíróság, a nemzetbiztonsági szolgálatok, a rájuk vonatkozó törvényekben meghatározott feladataik ellátásához;
 - 17. az útlevélhatóság és az eljárásában közreműködő hatóság a személyiadat- és lakcímnyilvántartásból történő adatszolgáltatás igényléséhez;
-- 18. az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
+- 18. az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárásról szóló törvényben meghatározott feladatai ellátása érdekében;
 - 19. az érintett előzetes, írásbeli hozzájárulása szerint a továbbításra feljogosított adatkezelő;
 - 20. feladatai ellátásához a választási szerv és a választási munkacsoport egymás között, illetve a bíróságnak, a választási eljárással összefüggő kifogások elbírálásához;
 - 21. a szabálysértési nyilvántartó szerv a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez;

@@ -285,7 +285,7 @@ jelöli ki és utasítja az eljárás lefolytatására.
 
 (3) A perben személyesen vagy meghatalmazottja útján az járhat el, aki a polgári perrendtartás szabályai szerint perbeli cselekvőképességgel rendelkezik vagy a megelőző eljárásban személyesen eljárhatott.
 
-(4) A perképességre egyebekben, valamint az ügyész, a támogató, a tolmács és a fordító részvételére a polgári perrendtartás szabályait kell alkalmazni.
+(4) A perképességre egyebekben, valamint az ügyész, a támogató, a tolmács és a fordító részvételére, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) képviseletére a polgári perrendtartás szabályait kell alkalmazni.
 
 #### 17. § [Felperes]
 
@@ -297,7 +297,7 @@ A per megindítására jogosult
 - d) törvényben vagy kormányrendeletben meghatározott ügyekben az a civil szervezet, amely a nyilvántartásba vett tevékenységét valamely alapvető jog védelme vagy valamilyen közérdek érvényre juttatása érdekében a közigazgatási tevékenység által érintett földrajzi területen legalább egy éve folytatja, ha a közigazgatási tevékenység nyilvántartásba vett tevékenységét érinti,
 - e) törvényben meghatározott esetben az általa képviselt tagság, illetve csoport jogos érdekeinek közvetlen sérelme vagy veszélyeztetése esetén azon érdek-képviseleti szervezet vagy köztestület is, amelynek nyilvántartott vagy alapító okiratában rögzített tevékenységét a közigazgatási tevékenység érinti,
 - f) a törvényességi felügyeletet vagy törvényességi ellenőrzést gyakorló szerv vagy az ügyész, ha általános hatályú rendelkezés megsemmisítését indítványozza.
-- g) a feladat- és hatáskörében eljáró Integritás Hatóság.
+- g) a feladat- és hatáskörében eljáró Integritás Hatóság vagy NVVH.
 
 #### 18. § [Alperes]
 
@@ -634,7 +634,7 @@ bírálja el.
 
 (4) A keresetlevelet a bíróságnál kell benyújtani, ha a közszolgálati jogviszonnyal kapcsolatos jogvita tárgya nem a Közszolgálati Döntőbizottság határozatának jogszerűsége.
 
-(5) Az ügyészség, illetve a törvényességi felügyeletet gyakorló szerv a keresetlevelet a bíróságnál nyújtja be.
+(5) Az ügyészség, az NVVH, illetve a törvényességi felügyeletet gyakorló szerv a keresetlevelet a bíróságnál nyújtja be.
 
 (6) A keresetlevelet a bíróságnál kell benyújtani, ha a törvény által megengedett keresethalmazat esetén azt egyszerre kellene a közigazgatási szervnél és a bíróságnál is benyújtani. A keresetlevelet határidőben benyújtottnak kell tekinteni, ha azt a felperes – határidőn belül – tévesen a közigazgatási szervnél vagy a jogorvoslati szervnél nyújtja be.
 
@@ -1149,7 +1149,7 @@ Ha a folytatólagos tárgyaláson az eljáró tanács tagjainak személyében v�
 
 (3) Ha a bíróság az eljárást az (1) bekezdés b) pontja alapján szünteti meg, a perindítás joghatásai fennmaradnak, ha a felperes a megszüntető végzés jogerőre emelkedésétől számított nyolc napon belül a keresetlevelet szabályszerűen újra benyújtja. E határidő elmulasztása esetén igazolásnak helye nincs.
 
-(4) Ha az eljárás megszüntetésének az (1) bekezdés c)–e) vagy g) pontja alapján lenne helye, és a bíróság hivatalbóli vizsgálatot vagy bizonyítást rendelt el, a bíróság az eljárás megszüntetése előtt az ügyészséget a keresetlevél és a védirat megküldésével perbelépésre hívhatja fel, egyidejűleg tájékoztatja a hivatalbóli vizsgálat elrendelésének körülményeiről. Ha az ügyészség a felhívásban meghatározott határidőn belül nem lép be a perbe, a bíróság az eljárást megszünteti. A perbelépésre megállapított határidő elmulasztása miatt igazolásnak nincs helye.
+(4) Ha az eljárás megszüntetésének az (1) bekezdés c)–e) vagy g) pontja alapján lenne helye, és a bíróság hivatalbóli vizsgálatot vagy bizonyítást rendelt el, a bíróság az eljárás megszüntetése előtt az ügyészséget, az NVVH-t a keresetlevél és a védirat megküldésével perbelépésre hívhatja fel, egyidejűleg tájékoztatja a hivatalbóli vizsgálat elrendelésének körülményeiről. Ha az ügyészség, az NVVH a felhívásban meghatározott határidőn belül nem lép be a perbe, a bíróság az eljárást megszünteti. A perbelépésre megállapított határidő elmulasztása miatt igazolásnak nincs helye.
 
 (5) Az eljárást megszüntető végzés ellen fellebbezésnek van helye.
 
@@ -1718,7 +1718,7 @@ A közigazgatási szerv közigazgatási cselekmény megvalósítására vonatkoz
 
 - a) az ügyfél, illetve az, akinek jogát a mulasztás közvetlenül érinti,
 - b) a köztestület feletti törvényességi ellenőrzési jogkörén kívül eljáró ügyészség, továbbá a helyi, illetve a nemzetiségi önkormányzat felett törvényességi felügyeletet gyakorló szerv, ha a felhívásában megállapított határidő eredménytelenül telt el.
-- c) a feladat- és hatáskörében eljáró Integritás Hatóság.
+- c) a feladat- és hatáskörében eljáró Integritás Hatóság vagy NVVH.
 
 (2) A keresetlevelet a mulasztás orvoslását szolgáló közigazgatási eljárás eredménytelenségéről való tudomásszerzéstől vagy a jogorvoslati szerv mulasztása esetén az intézkedésére nyitva álló határidő elteltétől számított kilencven napon belül, de legkésőbb a közigazgatási cselekmény megvalósítására irányadó határidő leteltétől számított egy éven belül kell a bíróságnál benyújtani. Jogorvoslati szerv hiányában a keresetlevelet a közigazgatási cselekmény megvalósítására nyitva álló határidő leteltétől számított egy éven belül kell a bíróságnál benyújtani.
 

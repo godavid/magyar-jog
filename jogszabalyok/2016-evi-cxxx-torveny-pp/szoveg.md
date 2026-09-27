@@ -598,7 +598,7 @@ Ha a felperes a pert nem az ellen indította meg, akivel szemben az igény érv�
 
 #### 52. § [Felperesi perbelépés a pertárs jogán]
 
-(1) Az, akinek igénye érvényesítése céljából jogszabályban erre feljogosított személy vagy szervezet (a továbbiakban együtt: perindításra feljogosított személy), illetve az ügyész pert indított, a perbe történő belépése esetén a perben félként vesz részt.
+(1) Az, akinek igénye érvényesítése céljából jogszabályban erre feljogosított személy vagy szervezet (a továbbiakban együtt: perindításra feljogosított személy), illetve az ügyész vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) pert indított, a perbe történő belépése esetén a perben félként vesz részt.
 
 (2) A más által indított perbe az, aki a per megindítására
 
@@ -607,7 +607,9 @@ Ha a felperes a pert nem az ellen indította meg, akivel szemben az igény érv�
 
 a felperes pertársaként a perbe beléphet.
 
-(3) Ha az (1) és a (2) bekezdés szerinti pertársak perbeli cselekményei vagy előadásai egymástól eltérnek – a 37. § b) pontjára tekintettel történő perbelépés esetét kivéve –, a bíróság azokat a per egyéb adatait is figyelembe véve bírálja el.
+(2a) Az NVVH a más által indított perbe – ha a per megindítására önállóan is jogosult lett volna – a felperes oldalán a perfelvételt lezáró végzés meghozataláig a perbe beléphet.
+
+(3) Ha az (1)–(2a) bekezdés szerinti pertársak perbeli cselekményei vagy előadásai egymástól eltérnek – a 37. § b) pontjára tekintettel történő perbelépés esetét kivéve –, a bíróság azokat a per egyéb adatait is figyelembe véve bírálja el.
 
 #### 53. § [További alperes perbevonása]
 
@@ -826,8 +828,9 @@ tájékoztatja.
 - a) az ügyvédet és az ügyvédi irodát,
 - b) a kamarai jogtanácsost, az ügyvédi tevékenységről szóló törvényben meghatározott körben,
 - c) a jogi személy bíróság képviseletére jogosult bírót és bírósági titkárt,
-- d) a Legfőbb Ügyészség képviseletére jogosult ügyészt, valamint
-- e) törvényben meghatározott egyéb személyeket.
+- d) a Legfőbb Ügyészség képviseletére jogosult ügyészt,
+- e) az NVVH képviseletére jogosult jogtanácsost, valamint beosztott ügyészt, valamint
+- f) törvényben meghatározott egyéb személyeket.
 
 (2) Ha a jogi képviselet kötelező – törvény eltérő rendelkezése hiányában –
 
@@ -979,11 +982,11 @@ A bíróság által jóváhagyott egyezség megkötése esetén a felek megálla
 
 (2) Az egyéb pertársak a perköltséget a perbeli érdekeltségük arányában, ha azonban a pertársak perbeli érdekeltsége között nincs jelentős eltérés, akkor egyenlő arányban térítik meg. A perköltség azon részét, amely kizárólag a pertársak egyikének vagy egy részének perbeli cselekménye folytán merült fel, a többi pertárs nem köteles megtéríteni.
 
-#### 88. § [A perköltség viselése az ügyész és a perindításra feljogosított személy perindítása, fellépése esetén]
+#### 88. § [A perköltség viselése az ügyész, az NVVH és a perindításra feljogosított személy perindítása, fellépése esetén]
 
-(1) Az ügyész, valamint a perindításra feljogosított személy és a perben érvényesített jog jogosultja közül a perköltséget az téríti meg, aki a pert megindította. Ha a pert megindítónak és a perben érvényesített jog jogosultjának eljárási cselekményei nem voltak összhangban, a perköltségrészt az téríti meg, akinek a cselekménye folytán a perköltségrész felmerült.
+(1) Az ügyész, az NVVH, valamint a perindításra feljogosított személy és a perben érvényesített jog jogosultja közül a perköltséget az téríti meg, aki a pert megindította. Ha a pert megindítónak és a perben érvényesített jog jogosultjának eljárási cselekményei nem voltak összhangban, a perköltségrészt az téríti meg, akinek a cselekménye folytán a perköltségrész felmerült.
 
-(2) Az ügyész, valamint a perindításra feljogosított személy helyett a perköltséget – jogszabályban meghatározott módon – az állam téríti meg.
+(2) Az ügyész, az NVVH, valamint a perindításra feljogosított személy helyett a perköltséget – jogszabályban meghatározott módon – az állam téríti meg.
 
 #### 89. § [A perköltség viselése az ügygondnok ellen megindított per esetén]
 
@@ -1136,7 +1139,7 @@ a meg nem fizetett illeték és az állam által előlegezett költség megfizet
 
 (2) Ha az eljárás szünetelés folytán megszűnik, a meg nem fizetett illetéket és az állam által előlegezett költséget a megfizetés alól mentességet biztosító költségkedvezmény hiányában a felperes fizeti meg.
 
-(3) Az ügyész, valamint a perindításra feljogosított személy a meg nem fizetett illeték és az állam által előlegezett költség megfizetésére nem köteles.
+(3) Az ügyész, az NVVH, valamint a perindításra feljogosított személy a meg nem fizetett illeték és az állam által előlegezett költség megfizetésére nem köteles.
 
 (4) Ha jogszabály értelmében a keresetet ügygondnok ellen kell megindítani, az ügygondnok a meg nem fizetett illeték és állam által előlegezett költség megfizetésére, a fél pedig az ügygondnok állam által előlegezett díjának a megfizetésére nem köteles.
 
@@ -1429,7 +1432,7 @@ A különélő házastárs által tartás iránt indított pert, valamint a kül
 (1) Ha a per eldöntése olyan kérdés előzetes elbírálásától függ, amelynek tárgyában az eljárás büntetőbíróság vagy közigazgatási hatóság hatáskörébe tartozik, a bíróság az írásbeli ellenkérelem – vagy annak hiányában beszámítás – előterjesztését követően a peres eljárást
 
 - a) a közigazgatási hatósági eljárás jogerős vagy végleges befejezéséig,
-- b) a büntetőeljárás jogerős vagy végleges befejezéséig, valamint az ügyészség, nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig
+- b) a büntetőeljárás jogerős vagy végleges befejezéséig, valamint az ügyészség, az NVVH vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának meghozataláig
 
 felfüggesztheti. Ha ez az eljárás még megindítva nincs, a bíróság az eljárás megindítására harmincnapos határidőt tűz. Ha a határidő eredménytelenül telik le, a peres eljárást folytatni kell.
 
@@ -1929,13 +1932,13 @@ az írásbeli jegyzőkönyv kijavítását, kiegészítését kérhetik.
 
 #### 162. § [Az iratbetekintésre jogosultak köre, az iratbetekintés jogának terjedelme, a személyes adatok kezelésének időtartama és terjedelme]
 
-(1) A felek, valamint azok képviselői, a szakértő és az ügyész a per iratait – a határozatok tervezeteinek és az esetleges különvéleménynek a kivételével – a per bármely szakaszában külön engedély nélkül megtekinthetik és azokról maguknak másolatokat vagy kivonatokat készíthetnek.
+(1) A felek, valamint azok képviselői, a szakértő és az ügyész, illetve az NVVH képviseletére jogosult jogtanácsos, valamint beosztott ügyész a per iratait – a határozatok tervezeteinek és az esetleges különvéleménynek a kivételével – a per bármely szakaszában külön engedély nélkül megtekinthetik és azokról maguknak másolatokat vagy kivonatokat készíthetnek.
 
 (2) A beavatkozó és annak képviselője a per iratainak megtekintésére, valamint azokról másolat vagy kivonat készítésére a beavatkozást engedélyező határozat meghozatalát követően jogosult.
 
 (3) Az (1) és (2) bekezdésben meg nem határozott más perbeli személyek a per iratait a rájuk vonatkozó részben tekinthetik meg, és azokról maguknak másolatot vagy kivonatot készíthetnek.
 
-(4) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére – törvényben meghatározott feladataik ellátásához szükséges mértékben – a bíróság a per iratait vagy azok másolatát vagy kivonatát megküldi, illetve azokba betekintést engedélyez.
+(4) Bíróság, ügyészség, az NVVH, közjegyző, bírósági végrehajtó, nyomozó hatóság vagy közigazgatási hatóság megkeresésére – törvényben meghatározott feladataik ellátásához szükséges mértékben – a bíróság a per iratait vagy azok másolatát vagy kivonatát megküldi, illetve azokba betekintést engedélyez.
 
 (5) Az (1)–(4) bekezdésben meghatározott személyeken és szerveken kívül – a bírák jogállásáról és javadalmazásáról szóló törvényben szabályozott tájékoztatás kivételével – az eljárásról felvilágosítás annak adható, akinek az eljárás lefolytatásához, illetve annak eredményéhez jogi érdeke fűződik. Az eljáró bíróság elnöke – az ehhez fűződő jogi érdek igazolása után – engedélyezi az iratok megtekintését, az azokról való másolat vagy kivonat készítését, illetve a szükséges felvilágosítás megadását.
 
@@ -1945,7 +1948,7 @@ az írásbeli jegyzőkönyv kijavítását, kiegészítését kérhetik.
 
 (1) A 162. §-ban foglaltaktól eltérően, az olyan tárgyalásról készült jegyzőkönyvet, amelyről a nyilvánosságot minősített adat megőrzése érdekében zárták ki, illetve a minősített adatot tartalmazó egyéb okiratot lemásolni vagy arról kivonatot készíteni nem lehet. Ilyen ügyben az iratok megtekintésének is csak a minősítő által kiadott engedély alapján, a minősített adat védelméről szóló törvényben meghatározott szabályok szerint, a bíróság elnöke által megállapított feltételek mellett van helye.
 
-(2) A felek, az ügyész és a perben részt vevő egyéb személyek, valamint azok képviselői az eljárás során az üzleti titkot, hivatásbeli titkot vagy törvényben meghatározott, az (1) bekezdésben nem említett más titkot tartalmazó iratok esetén – a titok megtartásának kötelezettségét tartalmazó, írásba foglalt nyilatkozat megtétele mellett –, az eljáró bíró által megállapított rendben és szabályok szerint gyakorolhatják az iratbetekintési és másolatkészítési jogot. Ha azonban a titoktartás alóli felmentés megadására jogosult a 322. § (2) bekezdése alapján határidőben úgy nyilatkozott, hogy az üzleti titkot, hivatásbeli titkot vagy törvényben meghatározott más titkot tartalmazó irat megismeréséhez nem járul hozzá, a bíróságon, a jegyzőkönyvvezetőn, illetve a leírón kívül az irat e titkot tartalmazó részét más nem tekintheti meg, azt lemásolni vagy arról kivonatot készíteni nem lehet.
+(2) A felek, az ügyész, az NVVH képviseletére jogosult jogtanácsos, valamint beosztott ügyész és a perben részt vevő egyéb személyek, valamint azok képviselői az eljárás során az üzleti titkot, hivatásbeli titkot vagy törvényben meghatározott, az (1) bekezdésben nem említett más titkot tartalmazó iratok esetén – a titok megtartásának kötelezettségét tartalmazó, írásba foglalt nyilatkozat megtétele mellett –, az eljáró bíró által megállapított rendben és szabályok szerint gyakorolhatják az iratbetekintési és másolatkészítési jogot. Ha azonban a titoktartás alóli felmentés megadására jogosult a 322. § (2) bekezdése alapján határidőben úgy nyilatkozott, hogy az üzleti titkot, hivatásbeli titkot vagy törvényben meghatározott más titkot tartalmazó irat megismeréséhez nem járul hozzá, a bíróságon, a jegyzőkönyvvezetőn, illetve a leírón kívül az irat e titkot tartalmazó részét más nem tekintheti meg, azt lemásolni vagy arról kivonatot készíteni nem lehet.
 
 (3) Ha a per tárgyát annak eldöntése képezi, hogy az okirat tartalma közérdekű adatnak minősül-e, az eljárás során ezt az okiratot megismerni nem lehet, és az az eljárás jogerős befejezése után is csak a per eldöntéséhez képest tekinthető meg, illetve másolható le. E rendelkezést a bíróságra, a jegyzőkönyvvezetőre, illetve a leíróra és arra a perbeli személyre, aki az iratot benyújtotta, nem kell alkalmazni.
 
@@ -2802,7 +2805,7 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (3) A bíróság tagjairól, a jegyzőkönyvvezetőről és az ügyészről, valamint törvény eltérő rendelkezése hiányában az állami vagy helyi önkormányzati feladatot, illetve jogszabályban meghatározott egyéb közfeladatot ellátó, e feladatkörében eljáró személyről hozzájárulása nélkül készíthető kép- és hangfelvétel.
 
-(4) Az ügyész kivételével a felekről és más perbeli személyekről, ezek képviselőiről, továbbá a tanúról, szakértőről, és szemletárgy birtokosáról csak kifejezett hozzájárulásuk esetén készíthető kép- és hangfelvétel, valamint a természetes személy fél teljes neve csak hozzájárulásával tüntethető fel médiatartalomban. Szükség esetén a bíróság e személyeket a hozzájárulásról nyilatkoztatja; ennek megtörténtét, valamint a nyilatkozat tartalmát a jegyzőkönyvben fel kell tüntetni.
+(4) Az ügyész, illetve az NVVH képviseletére jogosult jogtanácsos, valamint beosztott ügyész kivételével a felekről és más perbeli személyekről, ezek képviselőiről, továbbá a tanúról, szakértőről, és szemletárgy birtokosáról csak kifejezett hozzájárulásuk esetén készíthető kép- és hangfelvétel, valamint a természetes személy fél teljes neve csak hozzájárulásával tüntethető fel médiatartalomban. Szükség esetén a bíróság e személyeket a hozzájárulásról nyilatkoztatja; ennek megtörténtét, valamint a nyilatkozat tartalmát a jegyzőkönyvben fel kell tüntetni.
 
 (5) Az e §-ban foglaltak betartásáról és a (4) bekezdésben említett személyek személyiségi jogainak védelméről a tárgyaláson az elnök a rendfenntartás keretében gondoskodik.
 
@@ -3434,7 +3437,7 @@ Ha a bizonyításfelvétel során a fél és más perbeli személy, a tanú, val
 
 (3) Különösen indokolt esetben a tanúbizonyítási indítványban elegendő a tanú neve helyett egyéb megjelölést alkalmazni; az így megjelölt tanú nevét is a külön lapon kell bejelenteni.
 
-(4) A külön lapot a bíróság az iratok között elkülönítve, zártan kezeli, annak tartalmát csak a bíróság, a jegyzőkönyvvezető, illetve a leíró és az ügyész jogosult megismerni. A bíróság biztosítja, hogy az adatokat bejelentő fél és az ügyész kivételével a felek és egyéb perbeli személyek számára a tanú személyi adatai az eljárás egyéb adataiból se válhassanak megismerhetővé.
+(4) A külön lapot a bíróság az iratok között elkülönítve, zártan kezeli, annak tartalmát csak a bíróság, a jegyzőkönyvvezető, illetve a leíró és az ügyész, valamint az NVVH jogosult megismerni. A bíróság biztosítja, hogy az adatokat bejelentő fél és az ügyész, illetve az NVVH kivételével a felek és egyéb perbeli személyek számára a tanú személyi adatai az eljárás egyéb adataiból se válhassanak megismerhetővé.
 
 (5) Ha a fél az (1)–(3) bekezdésben írt szabályok megszegésével terjeszti elő tanúbizonyítási indítványát, és a tanú az erről történő tudomásszerzéstől számított tizenöt napon belül ezt kifogásolja, a bíróság az adat bejelentőjét pénzbírsággal sújtja. Az adatbejelentéstől számított hat hónap eltelte után ezzel kapcsolatos kifogást előterjeszteni nem lehet. Ha a kifogás elkésett, azt a bíróság hivatalból elutasítja, a kifogást elutasító határozat ellen külön fellebbezésnek van helye.
 
@@ -3520,11 +3523,11 @@ A fél törvényes képviselőjét tanúként meghallgatni nem lehet, kivéve, h
 
 #### 293. § [A tanú adatainak zártan kezelése a meghallgatás során és azt követően]
 
-(1) A tanút a meghallgatása megkezdése előtt nyilatkoztatni kell arról, hogy kívánja-e a nevének kivételével – a 285. § (3) bekezdésében meghatározott esetben a nevét is – a 284. § (1) és (2) bekezdésében, valamint a 294. § (1) bekezdésében meghatározott személyi adatainak zártan kezelését. Ha a tanú ezt kéri, a bíróság zártan kezeli azon adatait, amelyeket a tanút megidézni kérő fél ellenfele – az ügyészt ide nem értve – még nem ismerhetett meg.
+(1) A tanút a meghallgatása megkezdése előtt nyilatkoztatni kell arról, hogy kívánja-e a nevének kivételével – a 285. § (3) bekezdésében meghatározott esetben a nevét is – a 284. § (1) és (2) bekezdésében, valamint a 294. § (1) bekezdésében meghatározott személyi adatainak zártan kezelését. Ha a tanú ezt kéri, a bíróság zártan kezeli azon adatait, amelyeket a tanút megidézni kérő fél ellenfele – az ügyészt, illetve az NVVH-t ide nem értve – még nem ismerhetett meg.
 
 (2) Ha a tanú a bíróság felhívására a személyi adatainak zártan kezelését nem kéri, illetve külön felhívás nélkül is úgy nyilatkozik, hogy személyi adatainak zártan kezelését nem kívánja, a bíróság a tanú személyi adatainak zártan kezelését megszünteti; ez korlátozódhat a tanú neve zártan kezelésének megszüntetésére.
 
-(3) Ha az eljárás során a bíróság megállapítja, hogy a tanút megidézni kérő fél ellenfele – az ügyészt ide nem értve – a tanú személyi adatait ismeri, a bíróság a tanú személyi adatainak zártan kezelését megszünteti.
+(3) Ha az eljárás során a bíróság megállapítja, hogy a tanút megidézni kérő fél ellenfele – az ügyészt, illetve az NVVH-t ide nem értve – a tanú személyi adatait ismeri, a bíróság a tanú személyi adatainak zártan kezelését megszünteti.
 
 (4) A tanú személyi adatainak zártan történő kezelése tárgyában a meghallgatást foganatosító bíróság a felek meghallgatása nélkül dönt, külön határozatot hoznia azonban nem kell, a jegyzőkönyvben elegendő az (1)–(3) bekezdésben foglaltak megtörténtét rögzíteni.
 
@@ -4523,7 +4526,7 @@ A fellebbezésben és a másodfokú eljárás során – a másodfokú határoza
 
 #### 377. § [A fellebbezési tárgyalás kitűzése]
 
-(1) Ha a fellebbezés tárgyaláson kívül nem bírálható el, a másodfokú tanács elnöke a tárgyalásra határnapot tűz ki és arra idézi a feleket, továbbá azokat, akik a határozat ellen fellebbezéssel éltek. Az ellenérdekű félnek és a fellebbezéssel érintett pertársnak az idézéssel együtt – ha ez korábban még nem történt meg – meg kell küldeni a fellebbezést is. Ha az elsőfokú eljárásban az ügyész részt vett, a tárgyalásra az illetékes ügyészt meg kell idézni.
+(1) Ha a fellebbezés tárgyaláson kívül nem bírálható el, a másodfokú tanács elnöke a tárgyalásra határnapot tűz ki és arra idézi a feleket, továbbá azokat, akik a határozat ellen fellebbezéssel éltek. Az ellenérdekű félnek és a fellebbezéssel érintett pertársnak az idézéssel együtt – ha ez korábban még nem történt meg – meg kell küldeni a fellebbezést is. Ha az elsőfokú eljárásban az ügyész, illetve az NVVH részt vett, a tárgyalásra az illetékes ügyészt, illetve az NVVH-t meg kell idézni.
 
 (2) Ha az ügy körülményei ezt nem zárják ki, a tárgyalást úgy kell kitűzni, hogy a tárgyalás az iratoknak vagy az ellenfél tárgyalás tartását kérő nyilatkozatának a másodfokú bírósághoz történő beérkezését követő négy hónapon belül megtartható legyen. A tárgyalást úgy kell kitűzni, hogy a fellebbezésnek az ellenfél részére történő kézbesítése a tárgyalás napját legalább tizenöt nappal megelőzze.
 
@@ -4677,7 +4680,7 @@ A jogerős ítélet és az ítélet hatályával rendelkező határozatok ellen 
 
 (1) A perújítási kérelem előterjesztésének határideje hat hónap; ezt a határidőt a megtámadott ítélet jogerőre emelkedésétől, ha pedig a perújítás okáról a fél csak később szerzett tudomást, vagy csak később jutott abba a helyzetbe, hogy perújítással élhessen, ettől az időponttól kell számítani. A tudomásszerzés időpontját elegendő valószínűvé tenni.
 
-(2) Az ügyész – ha az eljárásban nem vett részt – az alatt a határidő alatt terjeszthet elő perújítási kérelmet, amely a kérelem előterjesztésére a felek részére is rendelkezésre áll.
+(2) Az ügyész, illetve az NVVH – ha az eljárásban nem vett részt – az alatt a határidő alatt terjeszthet elő perújítási kérelmet, amely a kérelem előterjesztésére a felek részére is rendelkezésre áll.
 
 (3) Az ítélet jogerőre emelkedésétől számított öt év elteltével – a (4) bekezdésben meghatározott esetet kivéve – perújításnak helye nincs; e határidő elmulasztása miatt igazolással élni nem lehet.
 
@@ -6754,7 +6757,7 @@ terjeszti elő – ha e törvény másként nem rendelkezik –, a bíróság a 
 
 #### 619. § [Az elektronikus formátumban rendelkezésre álló irat továbbítása]
 
-(1) Az 50. alcímben foglalt jogosultságok gyakorlása érdekében a fél, az ügyész és a perben részt vevő egyéb személy, valamint azok képviselője írásban vagy a tárgyaláson kérheti, hogy a részére kiadható iratot elektronikus formában az általa megjelölt elektronikus levélcímre továbbítsa a bíróság, ha az irat
+(1) Az 50. alcímben foglalt jogosultságok gyakorlása érdekében a fél, az ügyész, az NVVH és a perben részt vevő egyéb személy, valamint azok képviselője írásban vagy a tárgyaláson kérheti, hogy a részére kiadható iratot elektronikus formában az általa megjelölt elektronikus levélcímre továbbítsa a bíróság, ha az irat
 
 - a) elektronikus formában,
 - b) elektronikus okiratként vagy

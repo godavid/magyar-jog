@@ -2691,7 +2691,7 @@ való információ-megosztásra.
   - ab) kormányzati ellenőrzési szervvel,
   - ac) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel szemben, és
 - b) az eljárás alapját képező ügyre vonatkozóan a feladatkörében eljáró
-  - ba) nyomozó hatósággal, ügyészséggel és banktitok, értékpapírtitok, fizetési titok esetén az előkészítő eljárást folytató szervvel szemben,
+  - ba) nyomozó hatósággal, ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal és banktitok, értékpapírtitok, fizetési titok esetén az előkészítő eljárást folytató szervvel szemben,
   - bb) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal szemben,
   - bc) a törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel szemben.
 

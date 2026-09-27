@@ -145,7 +145,7 @@ nincs helye.
 
 (2) Az önálló bírósági végrehajtó konkrét ügyben a bírósági végrehajtási cselekményekkel kapcsolatos feladatai ellátása érdekében az általános meghatalmazás fennállásának vizsgálata céljából közvetlen hozzáféréssel jogosult a 3. § (1) bekezdés a) és b) pontjában, c) pont ca), cc), ce) és cf) alpontjában, d) pont da) és db) alpontjában, valamint e)–h) pontjában szereplő adatokat megismerni és kezelni.
 
-(3) Az ügyészség, nyomozó hatóság, nemzetbiztonsági szolgálat, az alapvető jogok biztosa, valamint az ügyvédi tevékenységet gyakorlókról nyilvántartást vezető ügyvédi kamara – törvényben meghatározott feladatai ellátása érdekében – a nyilvántartásból a konkrét ügy megjelölése mellett egyedi adatkérés útján jogosult az adatot megismerni és kezelni. Az adatigénylőnek meg kell jelölnie eljárásának az ügyszámát és tárgyát, valamint az igényelt adatok megismeréséhez fűződő érdeket.
+(3) Az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, nemzetbiztonsági szolgálat, az alapvető jogok biztosa, valamint az ügyvédi tevékenységet gyakorlókról nyilvántartást vezető ügyvédi kamara – törvényben meghatározott feladatai ellátása érdekében – a nyilvántartásból a konkrét ügy megjelölése mellett egyedi adatkérés útján jogosult az adatot megismerni és kezelni. Az adatigénylőnek meg kell jelölnie eljárásának az ügyszámát és tárgyát, valamint az igényelt adatok megismeréséhez fűződő érdeket.
 
 (4) A nyilvántartás rá vonatkozó adatairól írásbeli kérelemre – értve ez alatt az elektronikus úton benyújtott kérelmet is – felvilágosítást kaphat a nyilvántartásba bejegyzett meghatalmazó és meghatalmazott.
 
@@ -165,12 +165,12 @@ nincs helye.
 
 (2) Az adattovábbítási nyilvántartást az OBH elnöke vezeti.
 
-(3) Az adattovábbítási nyilvántartásból az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság a nemzetbiztonság, a bűnmegelőzés vagy a bűnüldözés érdekében a nyomozó hatóság, az ügyészség, valamint a nemzetbiztonsági szolgálatok részére történt adatszolgáltatás esetén korlátozható vagy kizárható.
+(3) Az adattovábbítási nyilvántartásból az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság a nemzetbiztonság, a bűnmegelőzés vagy a bűnüldözés érdekében a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, valamint a nemzetbiztonsági szolgálatok részére történt adatszolgáltatás esetén korlátozható vagy kizárható.
 
 (4) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
 - a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- b) a bíróság, az ügyészség és a nyomozó hatóság, valamint
+- b) a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság, valamint
 - c) a nemzetbiztonsági szolgálatok.
 
 (5) Az adattovábbítási nyilvántartás adatait az adattovábbítástól számított öt évig meg kell őrizni.

@@ -338,8 +338,10 @@ szándékos bűncselekmény miatt kiszabott, ötévi vagy azt meghaladó végreh
 
 (6) Akivel szemben
 
-- a) a (4) bekezdés b) pontjában meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy
-- b) külföldön az illetékes hatóság vádat emelt olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nem tölthet be vezető állású személyként tisztséget, illetve tisztségéből fel kell függeszteni.
+- a) a (4) bekezdés b) pontjában meghatározott bűncselekmény miatt az ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vádat emelt, vagy
+- b) külföldön az illetékes hatóság vádat emelt olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő,
+
+a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nem tölthet be vezető állású személyként tisztséget, illetve tisztségéből fel kell függeszteni.
 
 (7) A vezető állású személyek mindenkor az ilyen tisztséget betöltő személytől általában elvárható gondossággal, a tagok, a járadékosok és a foglalkoztatói nyugdíjszolgáltató intézmény érdekeinek elsődlegessége alapján kötelesek eljárni. A vezető állású személyek a polgári jog általános szabályai szerint felelnek a foglalkoztatói nyugdíjszolgáltató intézménnyel szemben a jogszabályok, az alapszabály, a közgyűlés által hozott határozatok, belső szabályzatok, illetve kötelezettségeik felróható megszegésével a foglalkoztatói nyugdíjszolgáltató intézménynek okozott károkért.
 

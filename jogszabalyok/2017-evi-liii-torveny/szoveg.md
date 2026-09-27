@@ -889,7 +889,7 @@ alapján indul meg.
 
 (2) A központi és területi államigazgatási szerv, helyi önkormányzat, a bíróság és az 5. §-ban meghatározott felügyeletet ellátó szerv köteles a pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében kért (1) bekezdésben meghatározott adatot, titkot a pénzügyi információs egység rendelkezésére bocsátani.
 
-44. § (1) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni nyomozó hatóság, ügyészség, nemzetbiztonsági szolgálat, rendőrségről szóló törvényben meghatározott, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv által kezelt adatot.
+44. § (1) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni nyomozó hatóság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nemzetbiztonsági szolgálat, rendőrségről szóló törvényben meghatározott, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv által kezelt adatot.
 
 (2) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében adat szolgáltatását kérheti az (1) bekezdésben meghatározott szervtől, amelynek átadását a megkeresett szerv – a (4) bekezdésben meghatározott eset kivételével – nem tagadhatja meg.
 
@@ -973,7 +973,7 @@ alapján indul meg.
 48. § (1) A pénzügyi információs egység az operatív elemzése eredményét kizárólag a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint bűncselekmények megelőzésének, felderítésének, nyomozásának elősegítése, továbbá az európai uniós költségvetési források felhasználása ellenőrzésének az elősegítése céljából továbbíthatja:
 
 - a) a nyomozó hatóság;
-- b) az ügyészség;
+- b) az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal;
 - c) a bíróság;
 - d) a nemzetbiztonsági szolgálat;
 - e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv
@@ -1093,7 +1093,7 @@ részére.
 
 (4) A szolgáltató az 56. §-ban, illetve az (1)–(3) bekezdésben meghatározott adatot, okiratot, illetve azok másolatát a megőrzési határidőt követően haladéktalanul köteles törölni, illetve megsemmisíteni.
 
-58. § (1) A szolgáltató az 56. § (2) bekezdésétől, illetve az 57. § (1)–(3) bekezdésétől eltérően az ott meghatározott adatokat, okiratot az 5. §-ban meghatározott felügyeletet ellátó szerv, a pénzügyi információs egység, a nyomozó hatóság, az ügyészség és a bíróság megkeresésére a megkeresésben meghatározott ideig, legfeljebb az üzleti kapcsolat megszűnésétől, illetve az ügyleti megbízás teljesítésétől számított tíz évig köteles megőrizni.
+58. § (1) A szolgáltató az 56. § (2) bekezdésétől, illetve az 57. § (1)–(3) bekezdésétől eltérően az ott meghatározott adatokat, okiratot az 5. §-ban meghatározott felügyeletet ellátó szerv, a pénzügyi információs egység, a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a bíróság megkeresésére a megkeresésben meghatározott ideig, legfeljebb az üzleti kapcsolat megszűnésétől, illetve az ügyleti megbízás teljesítésétől számított tíz évig köteles megőrizni.
 
 (2) Az adatmegőrzési időtartam (1) bekezdésben meghatározott megkeresés alapján történő meghosszabbítására kizárólag abban az esetben van lehetőség, ha az ott meghatározott adatra, okiratra folyamatban lévő vagy a jövőben megindítandó eljárás lefolytatása érdekében van szükség.
 
@@ -1101,7 +1101,7 @@ részére.
 
 (4) A pénzügyi információs egység és az 5. §-ban meghatározott felügyeletet ellátó szerv az e törvény alapján tudomására jutott adatot, okiratot a tudomásra jutásától, illetve a birtokába kerülésétől számított tíz évig köteles megőrizni.
 
-59. § (1) A pénzügyi információs egység – együttműködve az 5. §-ban meghatározott felügyeletet ellátó hatóságokkal, a nyomozó hatóságokkal, a Legfőbb Ügyészséggel és az Országos Bírósági Hivatallal – köteles olyan statisztikát vezetni, amely alkalmas arra, hogy a pénzmosás és a terrorizmus finanszírozása elleni küzdelmet szolgáló hazai rendszer hatékonysága nyomon követhető legyen.
+59. § (1) A pénzügyi információs egység – együttműködve az 5. §-ban meghatározott felügyeletet ellátó hatóságokkal, a nyomozó hatóságokkal, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, a Legfőbb Ügyészséggel és az Országos Bírósági Hivatallal – köteles olyan statisztikát vezetni, amely alkalmas arra, hogy a pénzmosás és a terrorizmus finanszírozása elleni küzdelmet szolgáló hazai rendszer hatékonysága nyomon követhető legyen.
 
 (2) Az (1) bekezdésben meghatározott statisztika tartalmazza:
 
@@ -1119,7 +1119,7 @@ részére.
 - j) az 5. §-ban meghatározott felügyeletet ellátó szerv az e törvény szerinti felügyeleti tevékenységének gyakorlásához, valamint a pénzügyi információs egység 38–53. §-ban meghatározott feladatai ellátásához biztosított foglalkoztatottak számát;
 - k) a helyszíni és helyszínen kívüli vizsgálatok számát, továbbá a felügyeleti eljárások, az 5. §-ban meghatározott felügyeletet ellátó szerv által alkalmazott intézkedések és igazgatási intézkedések révén azonosított jogsértések számát;
 
-(3) A nyomozó hatóság a (2) bekezdés f) és h) pontjában, a Legfőbb Ügyészség a (2) bekezdés f) pontjában, g) pont ga) alpontjában és h) pontjában meghatározott adatot, az Országos Bírósági Hivatal a jogerős vagy véglegessé vált bírósági határozatoknak a (2) bekezdés c) pontjában meghatározott elrendelt zárlatok számára, az elrendelt zárlat alá vont pénzeszköz vagy gazdasági erőforrás forintban meghatározott értékére vonatkozó adatait és a (2) bekezdés g) pont gb) alpontjában meghatározott adatait, valamint az 5. §-ban meghatározott felügyeletet ellátó szerv a (2) bekezdés i)–k) pontjában meghatározott adatokat negyedévente megküldi a pénzügyi információs egységnek. Az adatközlést a nyomozó hatóság, a Legfőbb Ügyészség, az Országos Bírósági Hivatal és az 5. §-ban meghatározott felügyeletet ellátó szerv elektronikus úton is teljesítheti.
+(3) A nyomozó hatóság és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a (2) bekezdés f) és h) pontjában, a Legfőbb Ügyészség a (2) bekezdés f) pontjában, g) pont ga) alpontjában és h) pontjában meghatározott adatot, az Országos Bírósági Hivatal a jogerős vagy véglegessé vált bírósági határozatoknak a (2) bekezdés c) pontjában meghatározott elrendelt zárlatok számára, az elrendelt zárlat alá vont pénzeszköz vagy gazdasági erőforrás forintban meghatározott értékére vonatkozó adatait és a (2) bekezdés g) pont gb) alpontjában meghatározott adatait, valamint az 5. §-ban meghatározott felügyeletet ellátó szerv a (2) bekezdés i)–k) pontjában meghatározott adatokat negyedévente megküldi a pénzügyi információs egységnek. Az adatközlést a nyomozó hatóság, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a Legfőbb Ügyészség, az Országos Bírósági Hivatal és az 5. §-ban meghatározott felügyeletet ellátó szerv elektronikus úton is teljesítheti.
 
 (4) A (2) bekezdés – i) pontjában meghatározott adatokat szakma szerinti bontásban kell nyilvántartani.
 
@@ -1316,7 +1316,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (7) Az (1) bekezdés h) pontja szerint kiszabott pénzbírságot a közléstől számított harminc napon belül kell megfizetni. A szolgáltató kérelmére a felügyeletet ellátó szerv a pénzfizetési kötelezettség teljesítésére halasztást, illetve részletekben történő teljesítést (a továbbiakban: fizetési kedvezmény) is megállapíthat. A pénzbírság megfizetésére kötelezett szolgáltató a határozat közlésétől számított öt napon belül benyújtott kérelmében kérheti a fizetési kedvezmény engedélyezését abban az esetben, ha rajta kívül álló ok lehetetlenné teszi a határidőre való teljesítést, vagy az számára aránytalan nehézséget jelentene. A feltételek meglétét a szolgáltatónak hitelt érdemlően, dokumentumokkal alátámasztva igazolnia kell.
 
-70. § (1) Az 5. §-ban meghatározott felügyeletet ellátó szervek a felügyeleti tevékenység gyakorlása során szorosan együttműködnek egymással, a pénzügyi információs egységgel, a nyomozó hatósággal, az ügyészséggel és a bírósággal, valamint a más tagállambeli vagy harmadik országbeli felügyeletet ellátó szervekkel.
+70. § (1) Az 5. §-ban meghatározott felügyeletet ellátó szervek a felügyeleti tevékenység gyakorlása során szorosan együttműködnek egymással, a pénzügyi információs egységgel, a nyomozó hatósággal, az ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal és a bírósággal, valamint a más tagállambeli vagy harmadik országbeli felügyeletet ellátó szervekkel.
 
 (2) A Felügyelet (1) bekezdés szerinti együttműködése a Hpt.-ben, valamint az 575/2013/EU rendeletben meghatározott feladatok szempontjából lényeges információk megosztására is kiterjed.
 
@@ -1377,7 +1377,7 @@ belső ellenőrző és információs rendszerek működéséről.
 
 (2) Az (1) bekezdésben meghatározott személyek az e törvény szerinti kötelezettségeik teljesítése során tudomásukra jutó szakmai titkot csak összefoglaló vagy összesített formában fedhetik fel olyan módon, amelyből az egyes hitelintézeteket és pénzügyi szolgáltatókat nem lehet azonosítani.
 
-(3) A szakmai titok megtartásának kötelezettsége nem áll fenn a büntetőeljárás során a Felügyelettel, az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel szemben.
+(3) A szakmai titok megtartásának kötelezettsége nem áll fenn a büntetőeljárás során a Felügyelettel, az ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel szemben.
 
 (4) Az (1) és (2) bekezdésben meghatározottaktól eltérően a Felügyelet információcserét folytathat az Európai Unió más tagállamain belül a hitelintézetek és pénzügyi szolgáltatók felügyeletét ellátó szervekkel, beleértve az Európai Központi Bankot is.
 

@@ -6,7 +6,9 @@ az Európai Unió tagállamaival folytatott bűnügyi együttműködésről
 
 1. § E törvényt a büntetőügyekben az Európai Unió más tagállamával (a továbbiakban: tagállam) folytatott együttműködés, valamint az európai elfogatóparancs alapján folytatott átadási eljárás során kell alkalmazni. Ha az együttműködés nemzetközi szerződésen alapul, a törvény alkalmazásának feltétele, hogy a végrehajtó tagállam a nemzetközi szerződés kötelező hatályát elismerte.
 
-2. § A tagállamokkal e törvény alapján folytatott eljárásokban a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvényt (a továbbiakban: Nbjt.) – így különösen az Nbjt. 14. § (1) és (1a) bekezdésében foglaltakat is –, a Büntető Törvénykönyvről szóló 2012. évi C. törvényt (a továbbiakban: Btk.) és a büntetőeljárásról szóló 2017. évi XC. törvényt (a továbbiakban: Be.) az e törvényben foglalt eltérésekkel kell alkalmazni.
+2. § (1) A tagállamokkal e törvény alapján folytatott eljárásokban a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvényt (a továbbiakban: Nbjt.) – így különösen az Nbjt. 14. § (1) és (1a) bekezdésében foglaltakat is –, a Büntető Törvénykönyvről szóló 2012. évi C. törvényt (a továbbiakban: Btk.) és a büntetőeljárásról szóló 2017. évi XC. törvényt (a továbbiakban: Be.) az e törvényben foglalt eltérésekkel kell alkalmazni.
+
+(2) E törvény alkalmazásában a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) eljárása során ügyészség alatt az NVVH-t, legfőbb ügyész alatt az NVVH törvény szerint kijelölt vezetőjét, ügyész alatt az NVVH tagját kell érteni.
 
 2/A. § (1) Ha e törvény kivételt nem tesz, a jogosult – írásbeli indítványra – a kapcsolódó eljárás bármely szakaszában betekinthet az indítvány benyújtásáig keletkezett, az igazságügyért felelős miniszter (a továbbiakban: miniszter) kezelésében lévő ügyiratokba. A miniszter az ügyiratok megtekintésének határnapjáról haladéktalanul értesíti a jogosultat.
 

@@ -1284,7 +1284,7 @@ alapján azonosítja a jogosultat.
 
 97. § (1) A földhasználati nyilvántartásból törölt adatokat, valamint a törlésre vonatkozó határozat számát, amelynek alapján a törlés alapjául szolgáló okirat az okirattárból visszakereshető, a földhasználati nyilvántartási adatbázisban kell tárolni. A törölt adatokat a törlést követően tíz évig a föld használatának átengedésével kapcsolatos jogügyletek, a földhasználót terhelő kötelezettségek vizsgálata, valamint a földhasználót megillető támogatások igénybevételének ellenőrzése céljából meg kell őrizni.
 
-(2) Az (1) bekezdés szerinti törölt adat átadására az ott meghatározott adatkezelési célból, törvény által meghatározott esetben a bíróság, az ügyészség, a nyomozó hatóság, az adóhatóság, a mezőgazdasági igazgatási szerv és a Nemzeti Kifizető Ügynökség részére kerülhet sor.
+(2) Az (1) bekezdés szerinti törölt adat átadására az ott meghatározott adatkezelési célból, törvény által meghatározott esetben a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, az adóhatóság, a mezőgazdasági igazgatási szerv és a Nemzeti Kifizető Ügynökség részére kerülhet sor.
 
 (3) A földhasználati nyilvántartás okirattárában lévő okiratokra, valamint a törölt adatok állományára a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló törvény rendelkezései megfelelően alkalmazandóak.
 
@@ -1338,7 +1338,7 @@ elektronikus dokumentumként elektronikusan feldolgozható formában adatot szol
 - a) a hatóság megkeresésére annak hivatalból indított eljárásához,
 - b) a kisajátítási eljáráshoz,
 - c) a közérdekű bejelentés, az elkülönített visszaélés-bejelentési rendszerben, valamint a közérdekű bejelentések védett elektronikus rendszerében megtett visszaélés-bejelentés és a panasz elbírálásához,
-- d) bíróság, ügyészség, nyomozó hatóság, közjegyző és bírósági végrehajtó részére jogszabályban meghatározott feladatai ellátásához,
+- d) bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó hatóság, közjegyző és bírósági végrehajtó részére jogszabályban meghatározott feladatai ellátásához,
 - e) mezőgazdasági igazgatási szerv részére a (4) bekezdés c) pontjában meghatározott feladatai ellátásához.
 - f) a Hktv. 40. § (2) bekezdés b), d) és e) pontjában meghatározott feladatok ellátásához a hegybíró részére.
 

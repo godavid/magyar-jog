@@ -1802,7 +1802,7 @@ vonatkozik.
 
 (4) Nem jogosult a díjra annak a vállalkozásnak a vezető tisztségviselője, tagja, felügyelő-bizottságának tagja, alkalmazottja vagy megbízottja, amely korábban ugyanazon magatartás miatt a 78/A. § szerinti, bírság mellőzése vagy csökkentése iránti kérelmet nyújtott be.
 
-(5) Nem jár díj a bűncselekménnyel vagy szabálysértéssel szerzett bizonyíték után. Ha a büntetőeljárás vagy a szabálysértési eljárás a díj kifizetése előtt megindul, a díj kifizetését a szabálysértési eljárás jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig fel kell függeszteni. Ha a bűncselekmény vagy szabálysértés elkövetésének jogerős megállapítására a díj kifizetése után kerül sor, a jutalmat vissza kell fizetni a Gazdasági Versenyhivatal számára.
+(5) Nem jár díj a bűncselekménnyel vagy szabálysértéssel szerzett bizonyíték után. Ha a büntetőeljárás vagy a szabálysértési eljárás a díj kifizetése előtt megindul, a díj kifizetését a szabálysértési eljárás jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig fel kell függeszteni. Ha a bűncselekmény vagy szabálysértés elkövetésének jogerős megállapítására a díj kifizetése után kerül sor, a jutalmat vissza kell fizetni a Gazdasági Versenyhivatal számára.
 
 (5a) Nem jár díj, ha a bizonyíték megszerzése a Gazdasági Versenyhivatal által előírt jogszerű együttműködés megsértésével történt.
 
@@ -2337,7 +2337,7 @@ jogszerűsége tárgyában.
 
 (2) Az (1) bekezdésben nem említett bizonyítékok közül csak az uniós versenyhatóságnak a versenyjogi jogsértéssel szembeni eljárását lezáró döntés meghozatalát követően rendelhető el az uniós versenyhatóság eljárásának ügyiratában szereplő valamely irat vagy egyéb bizonyíték feltárása, kivéve az olyan iratot vagy más bizonyítékot, amely már az uniós versenyhatóság eljárásától függetlenül létezett vagy jött létre.
 
-(3) Nem rendelhető el a bizonyítékok feltárása a nyomozás befejezésig a büntetőeljárás során keletkezett ügyiratokra, ideértve a bíróság, az ügyészség, a nyomozó hatóság vagy az előkészítő eljárást folytató szerv által beszerzett, illetve a büntetőeljárásban részt vevő személyek által benyújtott, valamint csatolt iratot is.
+(3) Nem rendelhető el a bizonyítékok feltárása a nyomozás befejezésig a büntetőeljárás során keletkezett ügyiratokra, ideértve a bíróság, az ügyészség, az NVVH, a nyomozó hatóság vagy az előkészítő eljárást folytató szerv által beszerzett, illetve a büntetőeljárásban részt vevő személyek által benyújtott, valamint csatolt iratot is.
 
 (4) A bizonyítékfeltárás tekintetében az engedékenységi nyilatkozattal, egyezségi nyilatkozattal azonosan kell kezelni az Európai Unió vagy más tagállam joga alapján valamely uniós versenyhatóság előtt versenyjogi jogsértés miatt folyó eljárásban benyújtott, az engedékenységi nyilatkozattal, illetve az egyezségi nyilatkozattal azonos célú vagy funkciójában hasonló rendeltetést betöltő, az adott uniós versenyhatóság által ilyenként kezelt iratot.
 

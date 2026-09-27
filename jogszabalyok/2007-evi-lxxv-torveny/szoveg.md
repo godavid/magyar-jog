@@ -287,7 +287,7 @@ feltéve, hogy a jogszabályi kötelezettségen alapuló könyvvizsgálói tevé
 
 9/K. § (1) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti eljárást felfüggeszti, ha tudomására jut, hogy a kérelmező ellen közvádra üldözendő bűncselekmény elkövetése miatt indult eljárás.
 
-(2) A felfüggesztés a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tart.
+(2) A felfüggesztés a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tart.
 
 9/L. § (1) A közfelügyeleti hatóság a 9/G. § (1) bekezdés szerinti igazolást visszavonja, amennyiben a természetes személy nem felel meg a 9/G. § (1) bekezdésében vagy a 9/J. § (1) bekezdésében meghatározott feltételeknek, vagy a kamarai tagsága megszűnik.
 
@@ -1722,7 +1722,7 @@ szerezte.
 - c) fegyelmi eljárásokban első fokon eljár,
 - d) szükség szerint, de évente legalább egyszer beszámol tevékenységéről az elnökségnek.
 
-(2) Nem lehet a fegyelmi bizottság tagja, aki ellen fegyelmi vagy büntetőeljárás van folyamatban, a fegyelmi eljárás jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig.
+(2) Nem lehet a fegyelmi bizottság tagja, aki ellen fegyelmi vagy büntetőeljárás van folyamatban, a fegyelmi eljárás jogerős befejezéséig, illetve a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig.
 
 (3) Ha fegyelmi vagy büntetőeljárás során a fegyelmi bizottság tagjának felelősségét jogerősen megállapították, a fegyelmi bizottsági tagsága megszűnik.
 

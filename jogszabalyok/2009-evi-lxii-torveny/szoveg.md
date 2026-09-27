@@ -804,6 +804,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - m) a 46. § (2) bekezdésében foglalt adatok tekintetében – az Egészségbiztosítási Alapot, illetve a Nyugdíjbiztosítási Alapot megillető megtérítési követelések érvényesítése céljából – az egészségbiztosítási szerv és a nyugdíjbiztosítási szerv, a káresemény időpontja szerinti adatokra vonatkozóan;
 - n) a 46. § (2) bekezdés a), d) és e) pontjában foglalt adatok tekintetében – jogának vagy jogos érdekének érvényesítése céljából, indokolt körben – bármely természetes személy, illetve jogi személy, egyéni vállalkozó, egyéni cég a felhasználás céljának és jogalapjának igazolása mellett;
 - o) a 46. § (2) bekezdés e) pontjában meghatározott adatok tekintetében – a gépjármű hatósági jelzése alapján – a biztosítási kockázatviselés fennállásának tényére vonatkozóan a közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvényben (a továbbiakban: Kknyt.) meghatározott járműéletút-adatszolgáltatás céljából a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv.
+- p) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése vagy büntetőeljárás lefolytatása céljából – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan.
 
 (2) A kötvénynyilvántartó szerv az (1) bekezdés a)–e), g)–m) és o) pontjában szereplő adatigénylők részére az adatszolgáltatást elektronikus úton – a kötvénynyilvántartó szerv és az adatigénylő közötti, jogszabályban előírt elektronikus kommunikációs kapcsolaton, illetve az erre a célra szolgáló internetes felületen keresztül – teljesíti.
 
@@ -841,7 +842,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 
 (2) A kötvénynyilvántartásból nem vagy csak részlegesen szolgáltatható adat, ha az arra jogosult az adatszolgáltatást az állam külső és belső biztonsága, így különösen honvédelmi, nemzetbiztonsági, bűnmegelőzési, bűnüldözési érdekből törvény rendelkezése alapján korlátozta vagy megtiltotta. A korlátozásról, tiltásról, illetve azok feloldásáról a nyilvántartó szervet értesíteni kell.
 
-(3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kötvénynyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.
+(3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó hatóság, előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kötvénynyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.
 
 50/A. § A kötvénynyilvántartó szerv által hozott elsőfokú döntéssel szemben nincs helye fellebbezésnek.
 
@@ -922,6 +923,7 @@ a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időp
 - j) a (4a) bekezdésben foglalt adatokat – a károk kezelése és rendezése céljából – a károkozó gépjármű üzemben tartójának biztosítója, a Kártalanítási Számla kezelője;
 - k) a (4) bekezdés b)–c) és f) pontjában, továbbá a (4a) bekezdésben meghatározott adatokat elektronikus úton – a Kknyt. járműéletút-adatszolgáltatás céljából – a Kknyt.-ben meghatározott központi közúti közlekedési nyilvántartó szerv
 - l) a (4) bekezdésben meghatározott adatokat az e-kárbejelentő rendszer működtetése céljából a MABISZ
+- m) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése vagy büntetőeljárás lefolytatása céljából – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal
 
 részére.
 
@@ -955,7 +957,7 @@ részére.
 
 (2) A kártörténeti nyilvántartásból nem vagy csak részlegesen szolgáltatható adat, ha az arra jogosult az adatszolgáltatást az állam külső és belső biztonsága, így különösen honvédelmi, nemzetbiztonsági, bűnmegelőzési, bűnüldözési érdekből törvény rendelkezése alapján korlátozta vagy megtiltotta. A korlátozásról, tiltásról, illetve azok feloldásáról a nyilvántartó szervet értesíteni kell.
 
-(3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kárnyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.
+(3) A (2) bekezdésben foglaltakat nem lehet alkalmazni, ha az érintett személy a személyes adatainak kezeléséről kér tájékoztatást. Abban az esetben, ha a büntetőeljárásban eljáró bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó hatóság, előkészítő eljárást folytató szerv, a nemzetbiztonsági szolgálat, vagy külön törvény szerint titkos információgyűjtésre felhatalmazott szerv adatigénylése ezt – bűnüldözési, bűnmegelőzési vagy nemzetbiztonsági érdekre hivatkozással – kifejezetten tartalmazza, a kárnyilvántartó szerv nem tájékoztathatja az érintettet a személyes adataival kapcsolatos adattovábbításról.
 
 ### Az Információs Központ feladatai
 

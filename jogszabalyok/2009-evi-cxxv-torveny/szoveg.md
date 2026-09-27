@@ -137,7 +137,7 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 (8) A hatósági bizonyítványban foglalt adatokat a Névjegyzéket vezető hatóság az ellenőrzés lefolytatásáig, vagy ha az ellenőrzés alapján a jelnyelvi tolmács adatainak a Névjegyzékből való törlésére kerül sor, a törlési eljárás végleges döntéssel történő befejezéséig kezelheti.
 
-(9) A Névjegyzéket vezető hatóság az adatokat a Névjegyzékből való törlést követő 5 évig kezeli, ezt követően az adatokat törli. A Névjegyzékből való törlést követően a Névjegyzéket vezető hatóság – adatigénylésre – a bíróságnak, az ügyészségnek és a nyomozó hatóságnak szolgáltat adatot.
+(9) A Névjegyzéket vezető hatóság az adatokat a Névjegyzékből való törlést követő 5 évig kezeli, ezt követően az adatokat törli. A Névjegyzékből való törlést követően a Névjegyzéket vezető hatóság – adatigénylésre – a bíróságnak, az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak és a nyomozó hatóságnak szolgáltat adatot.
 
 (10)
 
@@ -178,7 +178,7 @@ során csak az folytathat, aki büntetlen előéletű, a tolmácsolási tevéken
 
 (10) A hatósági bizonyítványban foglalt adatokat a Jelnyelvoktatói Névjegyzéket vezető hatóság az ellenőrzés lefolytatásáig, vagy ha az ellenőrzés alapján a jelnyelvoktató adatainak a Jelnyelvoktatói Névjegyzékből való törlésére kerül sor, a törlési eljárás végleges döntéssel történő befejezéséig kezelheti.
 
-(11) A Jelnyelvoktatói Névjegyzéket vezető hatóság az adatokat a Jelnyelvoktatói Névjegyzékből való törlést követő 5 évig kezeli, ezt követően az adatokat törli. A Jelnyelvoktatói Névjegyzékből való törlést követően a Jelnyelvoktatói Névjegyzéket vezető hatóság – adatigénylésre – a bíróságnak, az ügyészségnek és a nyomozó hatóságnak szolgáltat adatot.
+(11) A Jelnyelvoktatói Névjegyzéket vezető hatóság az adatokat a Jelnyelvoktatói Névjegyzékből való törlést követő 5 évig kezeli, ezt követően az adatokat törli. A Jelnyelvoktatói Névjegyzékből való törlést követően a Jelnyelvoktatói Névjegyzéket vezető hatóság – adatigénylésre – a bíróságnak, az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak és a nyomozó hatóságnak szolgáltat adatot.
 
 ### Titoktartási kötelezettség
 

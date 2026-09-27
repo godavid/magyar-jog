@@ -1567,7 +1567,7 @@ amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésk
   - ba) az eljárás alá vont személy az (1) bekezdés a) pontja alá nem tartozó bűncselekmény miatt büntetőeljárás – kivéve a magánvádas és a pótmagánvádas eljárást – hatálya alatt áll,
   - bb) a fegyelmi eljárás tárgyát képező kötelezettségszegés súlya és jellege a szolgálattól való távoltartást indokolja.
 
-(2) A büntetőügyben eljáró nyomozó hatóság, illetve ügyészség a közjegyző, a közjegyzőhelyettes és a közjegyzőjelölt
+(2) A büntetőügyben eljáró nyomozó hatóság, ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) a közjegyző, a közjegyzőhelyettes és a közjegyzőjelölt
 
 - a) ellen indított büntetőeljárásról, illetve
 - b) letartóztatásáról, előzetes kényszergyógykezeléséről vagy olyan bűnügyi felügyelet elrendeléséről, amelynek során a bíróság a terhelt számára előírta, hogy meghatározott területet, illetve lakást, egyéb helyiséget, intézményt vagy ahhoz tartozó bekerített helyet engedély nélkül nem hagyhat el, illetve ezen kényszerintézkedések megszüntetéséről
@@ -1586,7 +1586,7 @@ amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésk
 
 (7) Az ideiglenes intézkedést az országos elnök, illetve a fegyelmi bíróság megszünteti
 
-- a) büntetőeljárás esetén annak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a határozatnak az országos elnökhöz történt megérkezését követő 15 napon belül,
+- a) büntetőeljárás esetén annak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a határozatnak az országos elnökhöz történt megérkezését követő 15 napon belül,
 - b) gondnokság alá helyezés iránti eljárás jogerős lezárását követően a határozat országos elnökhöz történt megérkezését követő 15 napon belül,
 - c) a fegyelmi eljárás jogerős lezárásával egyidejűleg.
 
@@ -1612,9 +1612,9 @@ amely feltételek bekövetkezését az országos elnök ideiglenes intézkedésk
 
 105. § (1) A fegyelmi bíróságot bűncselekmény gyanúja esetén feljelentési kötelezettség terheli.
 
-(2) A büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig a fegyelmi eljárást fel kell függeszteni.
+(2) A büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig a fegyelmi eljárást fel kell függeszteni.
 
-(3) A bíróság jogerős ügydöntő határozatát vagy véglegessé vált nem ügydöntő végzését, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozatát kézbesíteni kell a területi elnökség, az országos elnök, a törvényszék elnöke, a vizsgálóbiztos és a miniszter képviselője részére.
+(3) A bíróság jogerős ügydöntő határozatát vagy véglegessé vált nem ügydöntő végzését, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozatát kézbesíteni kell a területi elnökség, az országos elnök, a törvényszék elnöke, a vizsgálóbiztos és a miniszter képviselője részére.
 
 ### Új eljárás kezdeményezése
 
@@ -1812,7 +1812,7 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 - a) a személyazonosítással érintett személy személyazonosság megállapításához adatot nem szolgáltatott,
 - b) ha a nyilvántartás adatai nem egyeznek meg a rendelkezésre bocsátott adatokkal vagy az igazolvány érvénytelen és a személyazonosság igazolása az (1) bekezdésben írt más módon sem lehetséges.
 
-(7) A közjegyző az ellenőrzés során megismert adatokat megőrizheti. A közjegyző az adatokat vagy jogszabály szerint őrzi meg, vagy az azt tartalmazó iratot az iratokhoz csatolja és elkülönítve zártan kezeli; az adatokat az ügy irattárba helyezésétől számított 5 évig tárolhatja, ezt követően megsemmisíti. Az adatokat a közjegyző csak a bíróság, az ügyészség, a nyomozó hatóság és a közjegyző tevékenységét ellenőrző területi kamara, illetve országos kamara részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést.
+(7) A közjegyző az ellenőrzés során megismert adatokat megőrizheti. A közjegyző az adatokat vagy jogszabály szerint őrzi meg, vagy az azt tartalmazó iratot az iratokhoz csatolja és elkülönítve zártan kezeli; az adatokat az ügy irattárba helyezésétől számított 5 évig tárolhatja, ezt követően megsemmisíti. Az adatokat a közjegyző csak a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és a közjegyző tevékenységét ellenőrző területi kamara, illetve országos kamara részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést.
 
 (8) Ha az ellenőrzés során a közjegyző azt állapítja meg, hogy az igazolvány elvesztését, ellopását vagy megsemmisülését bejelentették és megtalálásának vagy megkerülésének ténye nincs nyilvántartva, az igazolvány jogosulatlan felhasználásának megakadályozása céljából haladéktalanul értesíti az illetékes rendőrkapitányságot. A közjegyző bejelentési kötelezettségének teljesítése nem tekinthető a titoktartási kötelezettsége megsértésének.
 

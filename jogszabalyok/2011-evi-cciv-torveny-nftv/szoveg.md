@@ -1371,7 +1371,7 @@ esetében.
 
 52/A. § (1) A felsőoktatási intézmény az általa vagy jogelődje által kiállított oklevelet az oklevél kiállításától számított öt éven belül visszavonja, ha az oklevelet jogellenesen szerezték meg. A visszavonásra egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha az oklevél kiállítását bűncselekmény befolyásolta, és a bűncselekmény elkövetését a bíróság jogerős ügydöntő határozata megállapította, vagy az ügyészség a büntetőeljárást azért szüntette meg, mert a feltételes ügyészi felfüggesztés tartama eredményesen telt el, az intézmény az oklevelet időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha az oklevél kiállítását bűncselekmény befolyásolta, és a bűncselekmény elkövetését a bíróság jogerős ügydöntő határozata megállapította, vagy ha az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a büntetőeljárást azért szüntette meg, mert a feltételes ügyészi felfüggesztés tartama eredményesen telt el, az intézmény az oklevelet időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (3) A visszavont, megsemmisített oklevelet a felsőoktatási intézmény bevonja. A visszavont, érvénytelenített oklevelet kiállító felsőoktatási intézmény és szükség szerint jogutódjának nevét, az oklevél sorszámát, az érvénytelenítés időpontját és okát az oktatási hivatal honlapján közzé kell tenni.
 
@@ -1379,7 +1379,7 @@ esetében.
 
 (5) Ha az oklevelet kiállító felsőoktatási intézmény jogutód nélkül szűnt meg az (1) és (2) bekezdés szerinti eljárásban az oktatási hivatal jár el.
 
-(6) A (2) bekezdés szerinti jogerős, illetve további jogorvoslattal nem támadható határozatot hozó bíróság vagy ügyészség a határozatról haladéktalanul értesíti az oklevél kibocsátóját, valamint az oktatási hivatalt.
+(6) A (2) bekezdés szerinti jogerős, illetve további jogorvoslattal nem támadható határozatot hozó bíróság, ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a határozatról haladéktalanul értesíti az oklevél kibocsátóját, valamint az oktatási hivatalt.
 
 (7) Az (1)–(6) bekezdés rendelkezéseit megfelelő módon az oklevélmellékletre is alkalmazni kell.
 
@@ -1736,7 +1736,7 @@ kapcsolatos ügyekben.
 
 (6) A közösségi felsőoktatási képzési központ működésének felülvizsgálatára és a diákotthon működési feltételeinek felülvizsgálatára az (5) bekezdés b) pontjában foglalt határidőt kell alkalmazni.
 
-(7) Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
+(7) Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
 
 (8) Az oktatási hivatal 67. § (3) bekezdés c), e) és f) pontja szerinti eljárásában első fokon hozott döntésével szemben – kormányrendeletben meghatározott hatósághoz – fellebbezésnek van helye.
 
@@ -2778,7 +2778,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 107/A. § (1) A 107. § (3) bekezdése szerinti államilag elismert nyelvvizsga-bizonyítványt a kiállításától számított öt éven belül – kormányrendeletben meghatározott eljárásban – a kiállító vizsgaközpont határozattal visszavonja, ha megállapítja, hogy a kiállítás feltételei nem álltak fenn. A visszavont nyelvvizsga-bizonyítványt az oktatási hivatalnak kell megküldeni, amely gondoskodik annak megsemmisítéséről. A visszavonásra egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
-(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha a nyelvvizsga-bizonyítvány kiállítását bűncselekmény befolyásolta, és a bűncselekmény elkövetését a bíróság jogerős ügydöntő határozata megállapította, vagy az ügyészség a büntetőeljárást azért szüntette meg, mert a feltételes ügyészi felfüggesztés tartama eredményesen telt el, a kiállító vizsgaközpont a nyelvvizsga-bizonyítványt időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. Ha a kiállító vizsgaközpont jogutód nélkül megszűnt, a nyelvvizsga-bizonyítványt az oktatási hivatal semmisíti meg. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
+(2) Az (1) bekezdésben foglalt rendelkezéstől eltérően, ha a nyelvvizsga-bizonyítvány kiállítását bűncselekmény befolyásolta, és a bűncselekmény elkövetését a bíróság jogerős ügydöntő határozata megállapította, vagy ha az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a büntetőeljárást azért szüntette meg, mert a feltételes ügyészi felfüggesztés tartama eredményesen telt el, a kiállító vizsgaközpont a nyelvvizsga-bizonyítványt időbeli korlátozás nélkül megsemmisíti, ha az jóhiszeműen szerzett és gyakorolt jogot nem érint. Ha a kiállító vizsgaközpont jogutód nélkül megszűnt, a nyelvvizsga-bizonyítványt az oktatási hivatal semmisíti meg. A megsemmisítésre egyebekben az általános közigazgatási rendtartásról szóló törvény rendelkezéseit kell megfelelően alkalmazni.
 
 (3)
 
@@ -2786,7 +2786,7 @@ foglalt eltérésekkel együtt kell alkalmazni.
 
 (5) Ha a nyelvvizsga-bizonyítványt kiállító vizsgaközpont jogutód nélkül szűnt meg, az (1) és (2) bekezdés szerinti eljárásban az oktatási hivatal jár el.
 
-(6) A (2) bekezdés szerinti jogerős, illetve további jogorvoslattal nem támadható határozatot hozó bíróság vagy ügyészség a határozatról haladéktalanul értesíti a nyelvvizsga-bizonyítvány kibocsátóját, valamint az oktatási hivatalt.
+(6) A (2) bekezdés szerinti jogerős, illetve további jogorvoslattal nem támadható határozatot hozó bíróság, ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a határozatról haladéktalanul értesíti a nyelvvizsga-bizonyítvány kibocsátóját, valamint az oktatási hivatalt.
 
 (7) A vizsgaközpont által hozott döntés ellen fellebbezésnek van helye.
 
@@ -3653,7 +3653,7 @@ g) a személyiadat- és lakcímnyilvántartásból kikerülés időpontja és ok
 
 4. Az adattovábbítás feltételei
 
-Az 1. pontban felsorolt adatok – az 1. cm) pont szerinti adatok kivételével – továbbíthatók: a fenntartónak valamennyi adat, a fenntartói jogok gyakorlásához szükséges mértékben; a társadalombiztosítási, illetmény és munkabér vagy más juttatás kifizetőhelyének minden olyan adat, amely az illetmény, munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges; a felsőoktatási információs rendszer működéséért felelős szervnek minden olyan adat, amelyet e törvény szerint a felsőoktatási információs rendszer kezelhet; a MAB-nak minden olyan adat, amely ahhoz szükséges, hogy megállapíthassa a felsőoktatási intézmény működéséhez szükséges feltételek meglétét; a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adatok; a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak a foglalkoztatással összefüggő adatok, a nemzetbiztonsági szolgálatnak a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben (a továbbiakban: Nbtv.) meghatározott feladatok ellátásához szükséges valamennyi adat; az oktatói munka hallgatói véleményezése eredményeit a felsőoktatási intézménnyel hallgatói, foglalkoztatási jogviszonyban állók számára az intézményi szabályzatban meghatározott módon; valamint az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Avtv2.) 28. § alapján a felsőoktatási intézményhez intézett adat-megismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (2) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
+Az 1. pontban felsorolt adatok – az 1. cm) pont szerinti adatok kivételével – továbbíthatók: a fenntartónak valamennyi adat, a fenntartói jogok gyakorlásához szükséges mértékben; a társadalombiztosítási, illetmény és munkabér vagy más juttatás kifizetőhelyének minden olyan adat, amely az illetmény, munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges; a felsőoktatási információs rendszer működéséért felelős szervnek minden olyan adat, amelyet e törvény szerint a felsőoktatási információs rendszer kezelhet; a MAB-nak minden olyan adat, amely ahhoz szükséges, hogy megállapíthassa a felsőoktatási intézmény működéséhez szükséges feltételek meglétét; a bíróságnak, rendőrségnek, ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adatok; a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak a foglalkoztatással összefüggő adatok, a nemzetbiztonsági szolgálatnak a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben (a továbbiakban: Nbtv.) meghatározott feladatok ellátásához szükséges valamennyi adat; az oktatói munka hallgatói véleményezése eredményeit a felsőoktatási intézménnyel hallgatói, foglalkoztatási jogviszonyban állók számára az intézményi szabályzatban meghatározott módon; valamint az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény (a továbbiakban: Avtv2.) 28. § alapján a felsőoktatási intézményhez intézett adat-megismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (2) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
 
 5. A gazdasági tanács tagja esetén a cm) pontban foglaltak igazolására, az adatkezelés rendjére a 25. § (5)–(8) bekezdést kell megfelelően alkalmazni.
 
@@ -3729,7 +3729,7 @@ k) a személyiadat- és lakcímnyilvántartásból kikerülés időpontja és ok
 
 a) a fenntartónak valamennyi adat, a fenntartói irányítással összefüggő feladatok ellátásához;
 
-b) a bíróságnak, a rendőrségnek, az ügyészségnek, a bírósági végrehajtónak, az államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat;
+b) a bíróságnak, a rendőrségnek, az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a bírósági végrehajtónak, az államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat;
 
 c) a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat;
 
@@ -3813,7 +3813,7 @@ A felsőoktatási intézmény fenntartója az I/A. 4. és I/B. 4. pont alapján 
 
 2. Az adatkezelés időtartama: az adattovábbítástól számított öt évig.
 
-3. Az 1. pontban felsorolt adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak (a foglalkoztatással összefüggő adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); a Diákhitel Központnak (a hallgatói hitel jogszerű folyósításával és a tanulmányok folytatásával összefüggő adatok); az Avtv2. 28. §-a alapján a fenntartóhoz intézett adatmegismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (3) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
+3. Az 1. pontban felsorolt adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak (a foglalkoztatással összefüggő adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); a Diákhitel Központnak (a hallgatói hitel jogszerű folyósításával és a tanulmányok folytatásával összefüggő adatok); az Avtv2. 28. §-a alapján a fenntartóhoz intézett adatmegismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (3) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
 
 V.
 
@@ -3871,6 +3871,6 @@ vonatkozó személyes adatokat.
 - 2. Az 1. pontban megjelölt adatok kezelésére jogosult: a felsőoktatási intézmény.
 - 3. Az adatkezelés célja: a 18. § (1) bekezdés szerint.
 - 4. Az adatkezelés időtartama: a rendezvény kezdetétől számított 5 év.
-- 5. Az 1. pontban felsorolt adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak (a foglalkoztatással összefüggő adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); az Avtv2. 28. §-a alapján a fenntartóhoz intézett adatmegismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (3) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
+- 5. Az 1. pontban felsorolt adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a munkavégzésre vonatkozó rendelkezések ellenőrzésére jogosultaknak (a foglalkoztatással összefüggő adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); az Avtv2. 28. §-a alapján a fenntartóhoz intézett adatmegismerési kérelem teljesítése céljából a kérelmezőnek az Avtv2. 26. § (3) bekezdése szerinti közérdekből nyilvános adatnak minősülő adatok.
 
 ### 7. melléklet a 2011. évi CCIV. törvényhez

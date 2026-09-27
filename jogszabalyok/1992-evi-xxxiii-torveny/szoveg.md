@@ -1349,7 +1349,7 @@ magasabb fizetési fokozatba kell besorolni.
 - c) feladatkörének keretei között a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló szerv,
 - d)
 - e) munkaügyi, polgári jogi, közigazgatási per kapcsán a bíróság,
-- f) a közalkalmazott ellen indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+- f) a közalkalmazott ellen indult büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 - g) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül,
 - h) az adóhatóság, a nyugdíjbiztosítási igazgatási szerv és az egészségbiztosítási szerv, az üzemi baleseteket kivizsgáló szerv és a munkavédelmi szerv
 

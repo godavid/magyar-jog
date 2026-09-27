@@ -2853,7 +2853,7 @@ tevékenység.
 - b) nem bizonyítható a részesedésszerzéshez felhasznált pénzeszközök eredetének törvényessége, vagy a pénzeszközök tulajdonosaként megjelölt személy adatainak valódisága, illetve
 - c) természetes személy esetén a 357. § (1) bekezdésben foglalt kizáró ok áll fenn.
 
-(3) Ha az engedély megtagadására okot adó körülmény nem áll fenn, de a jogi személy kérelmező minősített befolyással rendelkező természetes személy tulajdonosával, vezető tisztségviselőjével szemben vagy a természetes személy kérelmezővel szemben a 357. § (3) bekezdése szerinti bűncselekmények miatt büntetőeljárás van folyamatban, a Felügyelet az engedélyezési eljárást felfüggeszti a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig. A Felügyelet az eljárást ezt követően folytatja.
+(3) Ha az engedély megtagadására okot adó körülmény nem áll fenn, de a jogi személy kérelmező minősített befolyással rendelkező természetes személy tulajdonosával, vezető tisztségviselőjével szemben vagy a természetes személy kérelmezővel szemben a 357. § (3) bekezdése szerinti bűncselekmények miatt büntetőeljárás van folyamatban, a Felügyelet az engedélyezési eljárást felfüggeszti a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig. A Felügyelet az eljárást ezt követően folytatja.
 
 (4) Az (1)–(2) bekezdésben meghatározott tény, illetőleg körülmény ellenőrzése érdekében a Felügyelet az (1)–(2) bekezdésben felsorolt személyektől törvény felhatalmazása alapján kezelhető adatot, illetve tájékoztatást kérhet.
 
@@ -3626,7 +3626,7 @@ MEGSZŰNÉSE
 
 (5) Befektetési alapkezelő, kockázati tőkealap-kezelő, tőzsde, központi értéktár, központi szerződő fél jogutód nélküli megszűnése esetén a megszűnt szervezet által kezelt üzleti, illetőleg értékpapírtitkot tartalmazó irat a keletkezésétől számított hatvan év múlva a levéltári kutatások céljára felhasználható.
 
-371/A. § A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a tőzsde, a központi értéktár és a központi szerződő fél az ügyészség engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a tőzsde, a központi értéktár és a központi szerződő fél az ügyészségnek az ügyfélre vagy az értékpapír-szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+371/A. § A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a tőzsde, a központi értéktár és a központi szerződő fél az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a tőzsde, a központi értéktár és a központi szerződő fél az ügyészségnek vagy az NVVH-nak az ügyfélre vagy az értékpapír-szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 372. § Nem jelenti az értékpapírtitok, üzleti titok sérelmét a központi értéktári, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti végzése érdekében szükséges, a központi értéktár, a központi szerződő fél, valamint az elszámolóházi tevékenységet végző szervezet közötti adattovábbítás.
 
@@ -3642,7 +3642,7 @@ MEGSZŰNÉSE
 
 374/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében
 
-- a) a tőzsde, a központi értéktár és a központi szerződő fél a nyomozó hatósággal vagy az ügyészséggel
+- a) a tőzsde, a központi értéktár és a központi szerződő fél a nyomozó hatósággal, az ügyészséggel és az NVVH-val,
 - b) a központi szerződő fél az adóhatósággal
 
 együttműködési megállapodást köthet.

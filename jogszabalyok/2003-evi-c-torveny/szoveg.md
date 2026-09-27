@@ -1867,7 +1867,7 @@ nem kell alkalmazni.
 
 ### Együttműködési megállapodás megkötése
 
-92/D. § A törvényben meghatározott feladatok hatékony teljesítése érdekében az elektronikus hírközlési szolgáltatók egymás között, az ügyészséggel, illetve a nyomozó hatósággal együttműködési megállapodást köthetnek.
+92/D. § A törvényben meghatározott feladatok hatékony teljesítése érdekében az elektronikus hírközlési szolgáltatók egymás között, az ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH), illetve a nyomozó hatósággal együttműködési megállapodást köthetnek.
 
 ### Űrszegmens használat
 
@@ -3178,7 +3178,7 @@ valamint az elektronikus hírközlés nemzetközi szervezetei számára
 
 154. § (1) A szolgáltató a szolgáltatási tevékenységével kapcsolatban tudomására jutott személyes adatot az Európai Unió általános adatvédelmi rendelete, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezéseinek megfelelően, az e törvényben foglalt kiegészítésekkel kezeli.
 
-(2) Ha az adott előfizető esetében értelmezhető, a szolgáltató az adatkérésre törvény alapján jogosult bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, közigazgatási szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásához, a kérelmükre történő adatszolgáltatás érdekében, valamint az előfizetői szolgáltatás nyújtása körében kezeli az előfizető azonosításához szükséges alábbi adatokat:
+(2) Ha az adott előfizető esetében értelmezhető, a szolgáltató az adatkérésre törvény alapján jogosult bíróság, ügyészség, az NVVH, nyomozó hatóság, előkészítő eljárást folytató szerv, közigazgatási szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásához, a kérelmükre történő adatszolgáltatás érdekében, valamint az előfizetői szolgáltatás nyújtása körében kezeli az előfizető azonosításához szükséges alábbi adatokat:
 
 - a) az előfizető neve, lakóhelye, tartózkodási helye, vagy székhelye;
 - b) az előfizető számlázási címe, pénzforgalmi számlaszáma;
@@ -3239,7 +3239,7 @@ valamint az elektronikus hírközlés nemzetközi szervezetei számára
 
 (15a) Az előfizető és a felhasználó számára a (14) bekezdés szerinti hozzájárulás megadása esetén biztosítani kell a lehetőséget, hogy a hálózathoz való minden egyes csatlakozás alkalmával, illetve minden egyes továbbítás esetén egyszerű módon és díjmentesen ideiglenesen letilthassa a (14) bekezdés szerinti adatok kezelését.
 
-(16) Az elektronikus hírközlési szolgáltató az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, kérelemre köteles megállapítani és részükre továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
+(16) Az elektronikus hírközlési szolgáltató az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, az NVVH, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, kérelemre köteles megállapítani és részükre továbbítani a felhasználóval és az előfizetővel kapcsolatos, a forgalmi adatokon kívüli helymeghatározási adatokat.
 
 (17) Az elektronikus hírközlési szolgáltató az ismeretlen helyen tartózkodó személy hollétének megállapítása – ennek keretében kapcsolatrendszerének, feltételezhető tartózkodási helyének megismerése – céljából a körözési eljárást lefolytató szerv megkeresésére köteles megállapítani és részére továbbítani a felhasználóval és az előfizetővel kapcsolatos hívásforgalmi, helymeghatározási és előfizetői adatokat.
 
@@ -3251,7 +3251,7 @@ valamint az elektronikus hírközlés nemzetközi szervezetei számára
 
 157. § (1) Az elektronikus hírközlési szolgáltató az elektronikus hírközlési szolgáltatás teljesítése után – a (2) bekezdésben, valamint a 159/A. § (1) bekezdésében foglaltak kivételével – törli vagy anonimizálja az előfizetőkre és a felhasználókra vonatkozó személyes adatokat, amelyeket a szolgáltatás nyújtása során kezel.
 
-(2) Az elektronikus hírközlési szolgáltató az adatkérésre törvény alapján jogosult bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv, közigazgatási szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásához, a kérelmükre történő adatszolgáltatás érdekében, valamint az előfizetői szolgáltatás nyújtásával összefüggésben – amennyiben az adott előfizető esetében értelmezhető – kezeli az előfizető részére történő számlázás és a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése körében keletkezett alábbi adatokat:
+(2) Az elektronikus hírközlési szolgáltató az adatkérésre törvény alapján jogosult bíróság, ügyészség, az NVVH, nyomozó hatóság, előkészítő eljárást folytató szerv, közigazgatási szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásához, a kérelmükre történő adatszolgáltatás érdekében, valamint az előfizetői szolgáltatás nyújtásával összefüggésben – amennyiben az adott előfizető esetében értelmezhető – kezeli az előfizető részére történő számlázás és a kapcsolódó díjak beszedése, valamint az előfizetői szerződések figyelemmel kísérése körében keletkezett alábbi adatokat:
 
 - a) a 154. § (2) bekezdés a)–e) pontjában foglalt adatok;
 - b) az előfizetői állomás száma vagy egyéb azonosítója;
@@ -3292,7 +3292,7 @@ valamint az elektronikus hírközlés nemzetközi szervezetei számára
 - d)
 - e)
 
-(10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
+(10) Az elektronikus hírközlési szolgáltató – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, az NVVH, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából – kérelemre köteles átadni vagy hozzáférhetővé tenni a (2) bekezdés alapján az elektronikus hírközlési szolgáltatónál rendelkezésre álló adatokat.
 
 (10a) Az elektronikus hírközlési szolgáltató – a Központi Statisztikai Hivatal (a továbbiakban: KSH) törvényben meghatározott feladatai ellátásának körében a természetes személy előfizetőkkel való telefonos kapcsolatfelvétellel megvalósuló statisztikai adatgyűjtés biztosítása céljából – a KSH kérelmére köteles átadni vagy hozzáférhetővé tenni a kérelemben megjelölt természetes személyek körére vonatkozóan
 
@@ -3346,7 +3346,7 @@ vonatkozó adatokat.
 
 ### Bűnüldözési, nemzetbiztonsági és honvédelmi célú adatmegőrzési kötelezettség
 
-159/A. § (1) Az elektronikus hírközlő hálózat üzemeltetője, illetve az elektronikus hírközlési szolgáltatás szolgáltatója – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, a kijelölt honvédelmi szervezet, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, a kérelmükre történő adatszolgáltatás érdekében – megőrzi az elektronikus hírközlési szolgáltatás előfizető, illetve felhasználó általi igénybevételével kapcsolatos, az érintett elektronikus hírközlési szolgáltatás nyújtásával összefüggésben a szolgáltató által előállított vagy kezelt alábbi adatokat:
+159/A. § (1) Az elektronikus hírközlő hálózat üzemeltetője, illetve az elektronikus hírközlési szolgáltatás szolgáltatója – az adatkérésre külön törvény szerint jogosult bíróság, ügyészség, az NVVH, nyomozó hatóság, illetve az előkészítő eljárást folytató szerv, a kijelölt honvédelmi szervezet, valamint nemzetbiztonsági szolgálat törvényben meghatározott feladatai ellátásának biztosítása céljából, a kérelmükre történő adatszolgáltatás érdekében – megőrzi az elektronikus hírközlési szolgáltatás előfizető, illetve felhasználó általi igénybevételével kapcsolatos, az érintett elektronikus hírközlési szolgáltatás nyújtásával összefüggésben a szolgáltató által előállított vagy kezelt alábbi adatokat:
 
 - a) helyhez kötött telefon- vagy mobil rádiótelefon szolgáltatás, internet hozzáférési szolgáltatás, internetes telefon-, internetes levelezési szolgáltatás, illetve ezek kombinációja esetén az előfizető egyedi előfizetői szerződésben rögzített személyes adatai;
 - b) helyhez kötött telefon- vagy mobil rádiótelefon szolgáltatás, internet hozzáférési szolgáltatás, internetes telefon-, internetes levelezési szolgáltatás, illetve ezek kombinációja esetén az előfizetői, felhasználói végberendezés vagy előfizetői hozzáférési pont hívószáma vagy egyéb, az előfizető, felhasználó egyedi azonosításához szükséges – az előfizetői szerződésben rögzített, vagy az elektronikus hírközlési szolgáltató által egyéb módon az előfizetőhöz, felhasználóhoz rendelt – állandó műszaki-technikai azonosítók;
@@ -3386,8 +3386,8 @@ vonatkozó adatokat.
 
 (3) A Hatóság az (1) bekezdésben meghatározott feladat végrehajtása érdekében működteti a központi elektronikus hozzáférhetetlenné tételi határozatok, végzések és az Szjtv. 36/K. § (1) bekezdése vagy az Fgytv. 48/E. §-a szerinti értesítések adatbázisát (a továbbiakban: KEHTA), és a működtetés céljából feldolgozza az oda bevitt adatokat. A KEHTA adatai nem nyilvánosak, azokba
 
-- a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyészség, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,
-- b) a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel esetén a külön törvényben meghatározott hatóság, a bíróság, az ügyészség, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai
+- a) a bíróság által elrendelt ideiglenes vagy végleges hozzáférhetetlenné tétel esetén a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai,
+- b) a külön törvényben meghatározott hatóság által elrendelt hozzáférhetetlenné tétel esetén a külön törvényben meghatározott hatóság, a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az Országgyűlés illetékes bizottságának a tagjai
 
 tekinthetnek be.
 

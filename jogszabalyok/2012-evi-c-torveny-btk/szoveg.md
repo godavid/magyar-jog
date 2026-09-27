@@ -48,7 +48,7 @@ a következő törvényt alkotja:
   - ac) a XIII. vagy a XIV. Fejezetben meghatározott bűncselekmény, vagy egyéb olyan bűncselekmény, amelynek üldözését törvényben kihirdetett nemzetközi szerződés írja elő,
 - b) a magyar állampolgár, a magyar jog alapján létrejött jogi személy és jogi személyiséggel nem rendelkező egyéb jogalany sérelmére nem magyar állampolgár által külföldön elkövetett olyan cselekményre is, amely a magyar törvény szerint büntetendő.
 
-(3) A (2) bekezdésben meghatározott esetekben a büntetőeljárás megindítását a legfőbb ügyész rendeli el.
+(3) A (2) bekezdésben meghatározott esetekben a büntetőeljárás megindítását a legfőbb ügyész vagy a hatáskörébe tartozó ügyben a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője rendeli el.
 
 ### III. Fejezet — A BÜNTETŐJOGI FELELŐSSÉG
 
@@ -245,7 +245,7 @@ történő jogtalan behatolás, vagy
 - c) olyan bűncselekmény esetén, amely kizárólag kötelesség teljesítésének elmulasztásával valósul meg, az a nap, amikor az elkövető még az e törvényben megállapított következmény nélkül eleget tehetne kötelességének,
 - d) olyan bűncselekmény esetén, amely jogellenes állapot fenntartásában áll, az a nap, amikor ez az állapot megszűnik.
 
-28. § (1) Az elévülést félbeszakítja a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, illetve nemzetközi vonatkozású ügyekben az igazságügyért felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A félbeszakítás napján az elévülés határideje ismét elkezdődik.
+28. § (1) Az elévülést félbeszakítja a bíróságnak, az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a nyomozó hatóságnak, illetve nemzetközi vonatkozású ügyekben az igazságügyért felelős miniszternek vagy a külföldi hatóságnak az elkövető ellen a bűncselekmény miatt foganatosított büntetőeljárási cselekménye. A félbeszakítás napján az elévülés határideje ismét elkezdődik.
 
 (1a) Ha az erős felindulásban elkövetett emberölés, a háromévi szabadságvesztésnél súlyosabban büntetendő szándékos súlyos testi sértés, az emberrablás, az emberkereskedelem és kényszermunka, a személyi szabadság megsértése, illetve – a 26. § (3) bekezdés c) pontjában foglalt kivétellel – a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmény sértettje a bűncselekmény elkövetésekor a tizennyolcadik életévét még nem töltötte be, az elévülés határidejébe nem számít be az a tartam, amíg a huszonegyedik életévét be nem tölti vagy be nem töltötte volna.
 
@@ -673,7 +673,7 @@ csak tízévi vagy azt meghaladó tartamú szabadságvesztés kiszabása esetén
 
 64. § (1) Megrovásban kell részesíteni azt, akinek cselekménye az elbíráláskor már nem veszélyes, vagy olyan csekély fokban veszélyes a társadalomra, hogy az e törvény szerint alkalmazható legkisebb büntetés kiszabása vagy más intézkedés alkalmazása – ide nem értve az elkobzást, a vagyonelkobzást, az elektronikus adat végleges hozzáférhetetlenné tételét és a tárhelyszolgáltatás megszüntetését – szükségtelen.
 
-(2) A megrovással a bíróság vagy az ügyészség helytelenítését fejezi ki a jogellenes cselekmény miatt, és felszólítja az elkövetőt, hogy a jövőben tartózkodjon bűncselekmény elkövetésétől.
+(2) A megrovással a bíróság, az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal helytelenítését fejezi ki a jogellenes cselekmény miatt, és felszólítja az elkövetőt, hogy a jövőben tartózkodjon bűncselekmény elkövetésétől.
 
 ### A próbára bocsátás
 
@@ -758,7 +758,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 - b) a pártfogó felügyelővel rendszeres kapcsolatot tartani, és
 - c) a pártfogó felügyelő részére az ellenőrzéshez szükséges felvilágosítást megadni.
 
-(2) A bíróság, illetve feltételes ügyészi felfüggesztés esetén az ügyészség a határozatában a pártfogó felügyelet céljának elősegítése érdekében külön magatartási szabályként kötelezettségeket és tilalmakat írhat elő. A bíróság, illetve az ügyészség elrendelheti, hogy a pártfogolt
+(2) A bíróság, illetve feltételes ügyészi felfüggesztés esetén az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a határozatában a pártfogó felügyelet céljának elősegítése érdekében külön magatartási szabályként kötelezettségeket és tilalmakat írhat elő. A bíróság, az ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elrendelheti, hogy a pártfogolt
 
 - a) a bűncselekmény elkövetésében részt vett, meghatározott személlyel ne tartson kapcsolatot,
 - b) a bűncselekmény sértettjétől, valamint a sértettre tekintettel annak hozzátartozójától vagy más személytől (e § alkalmazásában a továbbiakban együtt: érintett személy), az érintett személy lakásától vagy életvitelszerű tartózkodására szolgáló más ingatlantól – ideértve a gyermekjóléti és gyermekvédelmi intézményeket is –, munkahelyétől, az érintett személy által rendszeresen látogatott intézményektől vagy egyéb helytől, különösen nevelési, nevelési-oktatási vagy gyógykezelés céljából látogatott egészségügyi intézménytől, vallásgyakorlása során látogatott épülettől tartsa távol magát,
@@ -771,7 +771,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 - i) vegyen részt a pártfogó felügyelő által szervezett csoportos foglalkozáson vagy a pártfogó felügyelői szolgálat közösségi foglalkoztatójának programja szerinti más foglalkozáson.
 - j) meghatározott, az internet elérésével végezhető tevékenységtől tartózkodjon vagy azt korlátozottan végezzen.
 
-(3) A bíróság, illetve az ügyészség a (2) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedése esélyeinek növelésére.
+(3) A bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a (2) bekezdésben felsorolt magatartási szabályokon kívül más magatartási szabályokat is előírhat, különös tekintettel a bűncselekmény jellegére, az okozott kárra és az elkövető társadalmi beilleszkedése esélyeinek növelésére.
 
 (4) A 69. § (2) bekezdés c) és d) pontja szerinti elkövetővel szemben a (2) bekezdés b) pontja szerinti külön magatartási szabályt a sértett vagy a sértettre tekintettel annak hozzátartozója védelme érdekében el kell rendelni. A 69. § (2) bekezdés c) pontja szerinti esetben a bíróság e szabály megtartásának ellenőrzésére – kivéve, ha alkalmazásának műszaki feltételei nem adottak – a kötelezett mozgását nyomon követő technikai eszköz alkalmazását rendeli el.
 
@@ -779,7 +779,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 (6) A (2) bekezdés b) pontja szerinti távoltartás elrendelése nem zárja ki, hogy az elkövető – ha kapcsolattartásra jogosult – a kiskorú gyermekével felügyelt kapcsolattartás keretében kapcsolatot tartson.
 
-(7) A (2) bekezdés j) pontja szerinti magtartási szabály esetén a bíróság vagy az ügyészség az elkövetett bűncselekménnyel összefüggésben meghatározza, hogy az elkövető az interneten végezhető mely tevékenységektől köteles tartózkodni, továbbá meghatározhatja, hogy az elkövető
+(7) A (2) bekezdés j) pontja szerinti magtartási szabály esetén a bíróság, az ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal az elkövetett bűncselekménnyel összefüggésben meghatározza, hogy az elkövető az interneten végezhető mely tevékenységektől köteles tartózkodni, továbbá meghatározhatja, hogy az elkövető
 
 - a) az internetet mely eszközén keresztül érheti el,
 - b) az internet elérésével végzett tevékenységét hogyan szükséges igazolnia,
@@ -970,7 +970,7 @@ szabadságvesztést lehet kiszabni.
 
 83. § (1) A büntetőeljárásról szóló 2017. évi XC. törvény XCIX. Fejezete szerinti eljárásban az egyezség (a továbbiakban: egyezség) jóváhagyása esetén a büntetés kiszabásakor a 82. § (2) bekezdésében meghatározott enyhébb büntetési tételek alsó határát kell alapul venni.
 
-(2) Ha az egyezség jóváhagyására olyan terhelt esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a büntetést a 82. § (2) bekezdés soron következő pontja alapján is ki lehet szabni.
+(2) Ha az egyezség jóváhagyására olyan terhelt esetében kerül sor, aki az ügy, illetve más büntetőügy bizonyításához hozzájárulva az ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, illetve a nyomozó hatósággal jelentős mértékben együttműködött, a büntetést a 82. § (2) bekezdés soron következő pontja alapján is ki lehet szabni.
 
 (3)
 
@@ -2825,7 +2825,7 @@ büntetendő.
 
 (1a) Az (1) bekezdés szerint büntetendő, aki az ellene folytatott büntetőeljárás hatálya alatt
 
-- a) azt követően, hogy vele a bíróság, az ügyészség vagy a nyomozó hatóság a büntetőeljárásról szóló 2017. évi XC. törvény 51/A. §-a szerinti önkényes kapcsolatfelvétellel szembeni védelemről szóló határozatot közölt, vagy
+- a) azt követően, hogy vele a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság a büntetőeljárásról szóló 2017. évi XC. törvény 51/A. §-a szerinti önkényes kapcsolatfelvétellel szembeni védelemről szóló határozatot közölt, vagy
 - b) a vele szemben elrendelt távoltartás magatartási szabályainak megszegésével
 
 a sértettel kapcsolatot teremt abból a célból, hogy a sértettet megfélemlítse vagy a magánéletébe, illetve mindennapi életvitelébe önkényesen beavatkozzon.
@@ -6370,7 +6370,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 - 6. felfegyverkezve követi el a bűncselekményt, aki az ellenállás leküzdése vagy megakadályozása érdekében az élet kioltására alkalmas eszközt tart magánál;
 - 7. fenyegetés: eltérő rendelkezés hiányában súlyos hátrány kilátásba helyezése, amely alkalmas arra, hogy a megfenyegetettben komoly félelmet keltsen;
 - 8. gazdálkodó szervezet: a polgári perrendtartás szerinti gazdálkodó szervezeten kívül az a szervezet is, amelynek gazdálkodó tevékenységével összefüggő polgári jogi kapcsolataira a polgári perrendtartás szerint a gazdálkodó szervezetre vonatkozó rendelkezéseket kell alkalmazni;
-- 9. hatóság a bíróság és az ügyészség is;
+- 9. hatóság a bíróság, az ügyészség és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal is;
 - 10. háború:
   - a) a háború áldozatainak védelmére vonatkozóan Genfben, az 1949. évi augusztus hó 12. napján kelt nemzetközi egyezmények közös 2. és 3. Cikkében, valamint ezen egyezmények I. Kiegészítő Jegyzőkönyve 1. Cikkének 4. bekezdésében meghatározott helyzetek,
   - b) az a) pontban említett egyezmények II. Kiegészítő Jegyzőkönyvének 1. Cikkében meghatározott helyzetek,
@@ -6388,7 +6388,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - h) az önálló bírósági végrehajtó, az önálló bírósági végrehajtó-helyettes és a végrehajtói kézbesítésre felhatalmazott önálló bírósági végrehajtó jelölt,
   - i) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja,
   - j) a Magyar Honvédség állományilletékes parancsnoka, és az úszólétesítmény vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
-  - k) az Alkotmánybíróságnál, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+  - k) az Alkotmánybíróságnál, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
   - l) a választási bizottság tagja;
 - 12. közfeladatot ellátó személy:
   - a) a szolgálati feladatot teljesítő honvéd,

@@ -170,11 +170,11 @@ kell megtenni.
 
 - a) a bíróság a büntetőeljárás lefolytatása, büntetés és intézkedés végrehajtása, továbbá polgári perben a tényállás megállapítása céljából,
 - b) a rendőrség a bűncselekmények és szabálysértések felderítése céljából,
-- c) a nyomozó hatóság és az ügyészség büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
+- c) a nyomozó hatóság és az ügyészség, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatok jogszabályban meghatározott feladataik ellátásához.
 - e) a hivatásos katasztrófavédelmi szerv, a tűzvédelmi hatóság, az iparbiztonsági hatóság, a vízügyi és vízvédelmi hatóság a hatósági tevékenysége ellátásához.
 
-(3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja családi és utónevét, születési helyét és idejét és elektronikus elérhetőségét, valamint lakcímét a bíróság, az ügyészség, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai ellátása érdekében.
+(3) Adatigényléssel jogosult átvenni az egyéni vállalkozónak a nyilvános nyilvántartásban nem szereplő adatai közül az egyéni vállalkozó anyja családi és utónevét, születési helyét és idejét és elektronikus elérhetőségét, valamint lakcímét a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a közjegyző, a bírósági végrehajtó, a gazdasági vagy szakmai kamara, valamint a közigazgatási szerv közfeladatai, valamint a jogi képviselő jogi képviselettel kapcsolatos feladatai ellátása érdekében.
 
 (4) A nyilvántartást vezető szerv és a Közreműködő Szerv kérelemre adatszolgáltatást teljesít és hatósági bizonyítványt állít ki.
 

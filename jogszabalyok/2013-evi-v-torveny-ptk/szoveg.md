@@ -8461,7 +8461,7 @@ Az elektronikus utat biztosító fél köteles megfelelő eszközökkel biztosí
 
 (3) Ha e törvény eltérően nem rendelkezik, a szerződés semmisségére az hivatkozhat és a szerződés semmisségével kapcsolatos peres eljárást az indíthat, akinek ehhez jogi érdeke fűződik vagy akit erre törvény feljogosít.
 
-(4) Közérdekben okozott sérelem megszüntetése érdekében és uzsorás szerződés esetén az ügyész keresetet indíthat a szerződés semmisségének megállapítása vagy a semmisség jogkövetkezményeinek alkalmazása iránt.
+(4) Közérdekben okozott sérelem megszüntetése érdekében és uzsorás szerződés esetén az ügyész, illetve közérdekben okozott sérelem megszüntetése érdekében a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal keresetet indíthat a szerződés semmisségének megállapítása vagy a semmisség jogkövetkezményeinek alkalmazása iránt.
 
 #### 6:89. § [Megtámadás]
 

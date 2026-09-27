@@ -375,7 +375,7 @@ ismerheti meg. A felsorolt szervezetek személyes adatot csak feladataik ellát�
 
 (2) A nyilvántartásban szereplő adatokat a szükséges mértékben, az eljárás tárgyát képező ügyre vonatkozóan, törvényben vagy törvény felhatalmazása alapján megalkotott jogszabályban meghatározott feladatai ellátása érdekében
 
-- a) a feladatkörében eljáró ügyészség, továbbá a büntetőeljárás során a nyomozó hatóság,
+- a) a feladatkörében eljáró ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), továbbá a büntetőeljárás során a nyomozó hatóság,
 - b) a büntető-, valamint polgári ügyben a bíróság,
 - c) a bírósági végrehajtás során a bírósági végrehajtó,
 - d) a közigazgatási ügyben a közigazgatási hatóság, és
@@ -491,7 +491,7 @@ szemben. A felsorolt szervezetek személyes adatot csak feladataik ellátásáho
 
 (2) A titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a törvényben vagy törvény felhatalmazása alapján megalkotott jogszabályban meghatározott feladatai ellátása érdekében
 
-- a) a feladatkörében eljáró ügyészséggel, továbbá a büntetőeljárás során a nyomozó hatósággal,
+- a) a feladatkörében eljáró ügyészséggel, NVVH-val, továbbá a büntetőeljárás során a nyomozó hatósággal,
 - b) a büntető-, polgári, valamint közigazgatási ügyben a bírósággal,
 - c) a bírósági végrehajtás során a bírósági végrehajtóval,
 - d) a közigazgatási ügyben a közigazgatási hatósággal és

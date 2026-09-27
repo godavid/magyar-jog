@@ -188,6 +188,7 @@ az általa vezetett nyilvántartásból közvetlenül közli a központi szervve
 - g) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben eljáró hatóság, valamint
 - h) jogának vagy jogos érdekének érvényesítése érdekében a magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 - i) az 1. § (1) bekezdés c)–l) pontjában meghatározott rendészeti feladatokat ellátó személy, az adott területen más az 1. § (1) bekezdés c)–l) pontjában meghatározott rendészeti feladatokat ellátó személy jogszerű tevékenységének az ellenőrzése céljából.
+- j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal jogszabályban meghatározott feladatai ellátása céljából.
 
 10. § (1) A rendészeti feladatokat ellátó személy a feladatai ellátása során mindig köteles szolgálati igazolványát magánál tartani.
 

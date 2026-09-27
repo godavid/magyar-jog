@@ -160,7 +160,7 @@ kapcsolatos feladatokat.
 - a) a büntetőeljárásról szóló törvény által hatáskörébe utalt bűncselekmények vonatkozásában
   - aa) végzi a bűncselekmények megelőzését, amelynek során figyelemmel kíséri Magyarország bűnügyi helyzetét, feltárja a bűncselekmények elkövetésének kockázatait, a bűncselekmények elkövetésére irányuló törekvéseket, továbbá megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a bűnözéshez kapcsolódó, a bűncselekmények megelőzése, illetve megakadályozása céljából szükséges információkat,
   - ab) nyomozó hatósági jogkört gyakorol, a büntetőeljárásról szóló törvényben meghatározottak szerint végzi a bűncselekmények felderítését, valamint a bűncselekményből származó vagyon visszaszerzését,
-- b) ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
+- b) ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
 
 (8) A NAV rendészeti és igazgatási jogkörében
 
@@ -746,7 +746,7 @@ használható fel.
 
 (5) Ha a felvétel felhasználására a (3) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
 
-36/P. § (1) A 36/O. § (4) bekezdésében meghatározott határidőn belül a 36/O. § (1) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóságok, a nemzetbiztonsági szolgálatok, a rendőrség terrorizmust elhárító szerve, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+36/P. § (1) A 36/O. § (4) bekezdésében meghatározott határidőn belül a 36/O. § (1) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóságok, a nemzetbiztonsági szolgálatok, a rendőrség terrorizmust elhárító szerve, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
 
 (2) A NAV a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 
@@ -754,7 +754,7 @@ használható fel.
 
 (4) A (3) bekezdés szerinti kérelem benyújtására a felvétel rögzítésétől számított, a 36/O. § (4) bekezdésében meghatározottak szerinti 30 napon belül, a jog vagy jogos érdek valószínűsítésével van lehetőség.
 
-(5) Bíróság, ügyészség, nyomozó hatóság, előkészítő eljárást folytató szerv vagy más hatóság megkeresésére vagy adatkérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított 30 napon belül nem kerül sor megkeresésre vagy adatkérésre, a rögzített felvételt haladéktalanul törölni kell.
+(5) Bíróság, ügyészség, az NVVH, nyomozó hatóság, előkészítő eljárást folytató szerv vagy más hatóság megkeresésére vagy adatkérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (3) bekezdés szerinti kérelem benyújtásától számított 30 napon belül nem kerül sor megkeresésre vagy adatkérésre, a rögzített felvételt haladéktalanul törölni kell.
 
 36/R. § A pénzügyőr a bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény 39. §-ában meghatározott dolgot a jogosultnak vagy az eljáró hatóságnak történő átadásig, de legfeljebb hét munkanapra átvételi elismervény ellenében ideiglenesen elveheti.
 
@@ -1038,7 +1038,7 @@ szükségesek.
 
 (2) Az e törvényben meghatározott feladatok ellátása érdekében a NAV – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet az (1) bekezdés hatálya alá tartozó szervezeteknél.
 
-(3) A NAV nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Sándor-palotánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
+(3) A NAV nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az NVVH-nál, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Sándor-palotánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
 
 (4) A foglalkoztatás pénzügyi nyomozói jellegével kapcsolatos speciális szabályokat a titkos együttműködési megállapodásban kell rögzíteni.
 
@@ -1250,6 +1250,8 @@ egyértelmű azonosítására szolgáló adatokat.
 
 65/H. § (1) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül kezdeményezi a büntetőeljárás megindítását.
 
+(1a) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján a Be. 817/A. § (1) bekezdése szerinti, közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül az NVVH-nál kezdeményezi a büntetőeljárás megindítását.
+
 (2) Ha a bírói engedélyhez kötött eszköz alkalmazását nem maga a titkos információgyűjtést folytató szerv hajtotta végre, az (1) bekezdésben meghatározott határidőt attól a naptól kell számítani, amikor a titkos információgyűjtésnek az (1) bekezdés szerint felhasználni kívánt eredményét tartalmazó adathordozó, irat vagy annak kivonata a titkos információgyűjtést folytató szervhez megérkezett.
 
 (3) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a Be. 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három napon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.
@@ -1317,7 +1319,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 
 - a) állampolgár bejelentése, kérelme, valamint feljelentés, panasz,
 - b) DNS- és ujjnyomat minta elemzése,
-- c) bíróság, ügyészség, nyomozó hatóság, más hatóság vagy egyéb szerv értesítése,
+- c) bíróság, ügyészség, az NVVH, nyomozó hatóság, más hatóság vagy egyéb szerv értesítése,
 - d) törvény alapján más szervek által vagy külföldről továbbított adatok átvétele,
 - e) titkos információgyűjtés,
 - f) a jogszerűen, nyilvánosságra hozatal céljából készített és nyilvánosságra hozott adatállományban, név- és címjegyzékben – így különösen telefonkönyv, szaknévsor, statisztikai névjegyzék – szereplő adat,
@@ -1337,7 +1339,7 @@ ADATÁTADÁSRA ÉS ÁTVÉTELRE VONATKOZÓ EGYES SZABÁLYOK
 - 10. a központi idegenrendészeti nyilvántartásból,
 - 11. a menekültügyi nyilvántartásból,
 - 12. a személyszállítást végző légi fuvarozóknak a légi közlekedésről szóló törvény alapján kezelt adatokat tartalmazó adatbázisából,
-- 13. az ügyészség büntetőeljárási szakterületének ügyviteli nyilvántartásából,
+- 13. az ügyészség és az NVVH büntetőeljárási szakterületének ügyviteli nyilvántartásából,
 - 14. a bíróságok által vezetett nyilvántartásokból (cégnyilvántartás, társadalmi szervezetek és alapítványok nyilvántartása, gondnokoltak névjegyzéke),
 - 15. a bírósági ügyviteli nyilvántartásból,
 - 16. az ingatlan-nyilvántartásból,
@@ -1466,7 +1468,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 (2) A NAV bűnüldözési célú adatkezelési rendszereiben szereplő adatokról az (1) bekezdésben foglaltakon kívül, törvényben meghatározott feladataik teljesítése érdekében, a cél megjelölésével adatszolgáltatást kérhet:
 
 - a) a bíróság,
-- b) az ügyészség,
+- b) az ügyészség és az NVVH,
 - c) más nyomozó hatóság és az általános rendőrségi feladatot ellátó szerv, mint előkészítő eljárást folytató szerv,
 - d) a nemzetbiztonsági szolgálatok,
 - e) a külpolitikáért felelős miniszter által irányított minisztérium illetékes szerve,
@@ -1497,7 +1499,7 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - e) a felügyeleti és adatszolgáltató rendszer törvényben vagy kormányrendeletben meghatározott adatait.
 - f) a Központi Bűnjelnyilvántartó Rendszer működtetése során a bűnjelnyilvántartásban szereplő személyes adatokat.
 
-(1a) A belépő személyek és a belépési adatbázis adatai bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés vagy adatkérés alapján a bíróságnak, ügyészségnek, nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
+(1a) A belépő személyek és a belépési adatbázis adatai bűncselekmény vagy szabálysértés gyanújának észlelése esetén, továbbá megkeresés vagy adatkérés alapján a bíróságnak, ügyészségnek, az NVVH-nak, nyomozó hatóságnak, valamint a szabálysértés miatt eljáró hatóságnak és a szabálysértés miatt előkészítő eljárást folytató szervnek adhatók át.
 
 (2) Az (1) bekezdés b–c) pontjának rendelkezései nem alkalmazandók az elővezetés, az igazoltatás és az ellenőrzési eljárás zavartalanságának biztosítása, továbbá a helyszín, helyiség, jármű átvizsgálása, rakomány ellenőrzésének Air. szerinti szabályai alapján tett intézkedésekre.
 

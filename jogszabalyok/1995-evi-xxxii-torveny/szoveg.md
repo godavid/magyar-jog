@@ -600,7 +600,7 @@ kivéve, ha a megbízott szabadalmi ügyvivői iroda vagy szabadalmi ügyvivői 
 
 (5) A felfüggesztés tartama alatt az eljárás alá vont szabadalmi ügyvivővel szemben folytatott eljárásbeli jogok és kötelezettségek kivételével a kamarai tagságból, illetve a kamarai nyilvántartásba vételből fakadó jogok és kötelezettségek szünetelnek.
 
-24/F. § (1) Ha a fegyelmi eljárás alá vont szabadalmi ügyvivő cselekménye miatt büntetőeljárás is indult, a fegyelmi eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig fel lehet függeszteni.
+24/F. § (1) Ha a fegyelmi eljárás alá vont szabadalmi ügyvivő cselekménye miatt büntetőeljárás is indult, a fegyelmi eljárást a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, illetve az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig fel lehet függeszteni.
 
 (2)
 

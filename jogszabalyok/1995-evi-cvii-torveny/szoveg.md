@@ -553,6 +553,7 @@ való összekapcsolása során felhasználható.
 - d) a rendőrség, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 - e) a nemzetbiztonsági szolgálatok,
 - f) a Nemzeti Adatvédelmi és Információszabadság Hatóság
+- g) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal
 
 részére.
 

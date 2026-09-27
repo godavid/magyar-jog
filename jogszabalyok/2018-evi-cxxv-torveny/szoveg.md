@@ -3521,7 +3521,7 @@ köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a k�
 
 (18) A kormánytisztviselő a leltárfelvétel során, illetve a leltárfelvétel után a leltározással kapcsolatban észrevételt tehet.
 
-(19) A leltárhiányért fennálló felelősség megállapítására a (26) bekezdésben foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, vagy az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának a kézbesítését követő nappal kezdődik. A határidő eltelte után a (13) bekezdés szerint felelős kormánytisztviselőt kártérítésre nem lehet kötelezni.
+(19) A leltárhiányért fennálló felelősség megállapítására a (26) bekezdésben foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, vagy az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának a kézbesítését követő nappal kezdődik. A határidő eltelte után a (13) bekezdés szerint felelős kormánytisztviselőt kártérítésre nem lehet kötelezni.
 
 (20) Ha a kárt többen együttesen okozták, azt vétkességük arányában, ha ez nem állapítható meg, közrehatásuk arányában viselik. A kárt a kormánytisztviselők egyenlő arányban viselik, ha a vétkesség vagy a közrehatás arányát nem lehet megállapítani.
 
@@ -3883,7 +3883,7 @@ tárgyában.
 - d) a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló;
 - e) a fegyelmi eljárást lefolytató testület vagy személy;
 - f) közszolgálati jogvita kapcsán az eljáró bíróság, a Közszolgálati Döntőbizottság;
-- g) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság;
+- g) törvényben meghatározott célból, feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság;
 - h) törvényességi ellenőrzési feladatkörében eljárva az ügyész;
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke;
 - j) a személyzeti, munkaügyi és illetményszámfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, a 3. melléklet I/A., I/B., II., IV., V., VII., VIII. és X. pontjában foglalt adatkörökből a kormánytisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából;
@@ -3932,7 +3932,7 @@ adatait.
 - d) saját adatai tekintetében az adatbázisban szereplő személy,
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
 - f) közszolgálati jogvita kapcsán a Közszolgálati Döntőbizottság, az eljáró bíróság,
-- g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a kormányzati szolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+- g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a kormányzati szolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 - h) az ügyészi törvényességi feladatkörében eljárva az ügyész,
 - i) az etikai ügyben eljáró szerv vagy személy, valamint
 - j) az MKK elnöke a 77. § (3) bekezdés f)–g) pontjában meghatározott hatáskör gyakorlása céljából.

@@ -600,7 +600,7 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenys�
 
 23. § (1) A következő szervek adatkérésére vagy írásbeli megkeresésére a kezelést végző orvos, valamint az egészségbiztosítási szerv az érintett egészségügyi és a megkereső vagy adatszolgáltatást kérő szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső vagy adatszolgáltatást kérő szervnek. A megkeresésben vagy adatkérésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat, ideértve azon adatokat is, amelyek az egészségügyi szolgáltató által felvett látlelet alapján állnak rendelkezésre. A megkereső vagy adatszolgáltatást kérő szervek a következők lehetnek:
 
-- a) büntetőügyben a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági ügyben a közigazgatási hatóság, az ügyészség a bíróság, az igazságügyi szakértő,
+- a) büntetőügyben a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó hatóság, az előkészítő eljárást folytató szerv, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági ügyben a közigazgatási hatóság, az ügyészség a bíróság, az igazságügyi szakértő,
 - b) szabálysértési eljárás során az eljárást lefolytató szervek,
 - c) hadköteles személy esetén a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
 - d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
@@ -612,11 +612,11 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenys�
 
 (2) A megkeresésben vagy adatkérésben az adatkezelés pontos célját és a kért adatok körét meg kell jelölni.
 
-(3) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény 262. § (3) bekezdésében meghatározottak szerinti adatkérés esetén a kezelést végző orvos az ügyészség engedélye nélkül is köteles az általa kezelt egészségügyi és személyazonosító adatokra vonatkozó adatkérést teljesíteni.
+(3) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény 262. § (3) bekezdésében meghatározottak szerinti adatkérés esetén a kezelést végző orvos az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt egészségügyi és személyazonosító adatokra vonatkozó adatkérést teljesíteni.
 
 (4) Ha az egészségügyi adatokra a halottvizsgálat során soron kívül van szükség,
 
-- a) büntetőügyben az ügyészség, a nyomozó hatóság, valamint az előkészítő eljárást folytató szerv halasztást nem tűrő esetben,
+- a) büntetőügyben az ügyészség, az NVVH, a nyomozó hatóság, valamint az előkészítő eljárást folytató szerv halasztást nem tűrő esetben,
 - b) a rendkívüli halállal kapcsolatos hatósági eljárás során a bűncselekményre utaló adat kizárása érdekében az eljáró hatóság
 
 az (1) bekezdés szerinti megkeresést vagy adatkérést rövid úton is előterjesztheti, a kezelőorvos a megkeresést vagy adatkérést soron kívül teljesíti.

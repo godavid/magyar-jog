@@ -68,7 +68,7 @@ során kell alkalmazni.
 - 12a. kézbesítési cím: az elítélt vagy az egyéb jogcímen fogvatartott, továbbá a pártfogó felügyelet külön magatartási szabályának végrehajtásával összefüggésben a sértett vagy az egyéb érintett által megjelölt, a lakcímétől, értesítési címétől, tényleges tartózkodási helyétől eltérő, a postai úton történő kapcsolattartásra szolgáló cím;
 - 13. munkáltatás: a reintegrációs tevékenység azon formája, amikor az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető munkavégzése szervezetten, rendszeresen, haszon- vagy bevételszerzési céllal, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) által szabályozott munkaviszonytól eltérő, jogszabályban meghatározott feltételekkel és díjazás ellenében történik, az így létrejövő munkáltatási jogviszony alanyai munkáltatóként a bv. intézet, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság vagy a bv. szerv szerződése és az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető hozzájárulása alapján más gazdálkodó szervezet, valamint munkavégzőként – a reintegrációs őrizetben lévő elítélt kivételével – az elítélt, a kényszerintézkedés hatálya alatt álló személy vagy a szabálysértési elzárásra kötelezett elkövető;
 - 14. munkaterápiás foglalkoztatás: a reintegrációs tevékenység azon formája, amikor elsősorban a kényszergyógykezelt, az előzetes kényszergyógykezelt és a gyógyító-reintegráló csoportba helyezett, valamint a megváltozott munkaképességű vagy egyébként az egészségi állapota miatt a munkáltatásban részt venni nem képes elítélt foglalkoztatása szervezetten, rendszeresen, e törvényben meghatározott feltételekkel és térítési díj ellenében, büntetés-végrehajtási jogviszony keretében történik,
-- 14a. rendelkezési jogkör gyakorlója: a letartóztatással összefüggésben a bíróságnak a tárgyalás előkészítése során hozott határozatáig az ügyészség, ezt követően a bíróság; a szabadságvesztés végrehajtása esetén az elítélttel szemben szabadságvesztéssel fenyegetett bűncselekmény miatt indult büntetőeljárással összefüggésben az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van,
+- 14a. rendelkezési jogkör gyakorlója: a letartóztatással összefüggésben a bíróságnak a tárgyalás előkészítése során hozott határozatáig az ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), ezt követően a bíróság; a szabadságvesztés végrehajtása esetén az elítélttel szemben szabadságvesztéssel fenyegetett bűncselekmény miatt indult büntetőeljárással összefüggésben az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, vagy az NVVH, ha a büntetőeljárás előtte van folyamatban,
 - 14b. rendfokozat: a honvéd és a polgári nemzetbiztonsági szolgálat hivatásos állományú tagja esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat,
 - 14c. tényleges tartózkodási hely: lakcím hiányában vagy a lakcímtől eltérően az az ingatlan, ahol az elítélt vagy az egyéb jogcímen fogvatartott ténylegesen tartózkodik, továbbá közérdekű munka vagy pártfogó felügyelet végrehajtása szempontjából az elítélt munkahelye,
 - 15. védő: a Be. szerinti védő, valamint a büntetések és az intézkedések végrehajtása alatt az elítélt vagy az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében eljáró ügyvéd,
@@ -79,17 +79,17 @@ során kell alkalmazni.
 
 4. § (1) Büntetés, intézkedés és a szabálysértési elzárás – a (2) bekezdésben meghatározott kivételekkel – csak a bíróság jogerős vagy véglegessé vált határozata alapján, jogszabályban meghatározott módon hajtható végre. Kényszerintézkedés – az őrizet kivételével –, továbbá a rendbírság helyébe lépő elzárás a bíróság határozata alapján, jogszabályban meghatározott módon hajtható végre.
 
-(2) Megrovás az ügydöntő határozat jogerőre emelkedésének bevárása nélkül és az ügyészség határozata alapján is végrehajtható. A feltételes ügyészi felfüggesztés mellett elrendelt pártfogó felügyelet az ügyészség határozata alapján hajtható végre. Őrizetbe vételnek az ügyészség és a nyomozó hatóság határozata alapján is helye van.
+(2) Megrovás az ügydöntő határozat jogerőre emelkedésének bevárása nélkül és az ügyészség, illetve az NVVH határozata alapján is végrehajtható. A feltételes ügyészi felfüggesztés mellett elrendelt pártfogó felügyelet az ügyészség, illetve az NVVH határozata alapján hajtható végre. Őrizetbe vételnek az ügyészség, az NVVH és a nyomozó hatóság határozata alapján is helye van.
 
-(3) A büntetés és az intézkedés, továbbá – az őrizet kivételével – a kényszerintézkedés és a rendbírság helyébe lépő elzárás végrehajtását a bíróság rendeli el. Az őrizet foganatosítása iránt az azt elrendelő bíróság, ügyészség, nyomozó hatóság intézkedik. A szabálysértési elzárás végrehajtása iránt a Szabs. tv.-ben kijelölt szabálysértési hatóság intézkedik.
+(3) A büntetés és az intézkedés, továbbá – az őrizet kivételével – a kényszerintézkedés és a rendbírság helyébe lépő elzárás végrehajtását a bíróság rendeli el. Az őrizet foganatosítása iránt az azt elrendelő bíróság, ügyészség, NVVH vagy nyomozó hatóság intézkedik. A szabálysértési elzárás végrehajtása iránt a Szabs. tv.-ben kijelölt szabálysértési hatóság intézkedik.
 
-(4) A büntetés, az intézkedés és a kényszerintézkedés végrehajtásának foganatosítása, illetve a kényszerintézkedés megszüntetése esetén a terhelt szabadon bocsátása érdekében a bíróság a 34/A. § szerint értesítőlapot állít ki. Ha a kényszerintézkedés megszüntetéséről az ügyészség határoz, a terhelt szabadon bocsátása végett határozatát eredeti aláírással, vagy minősített elektronikus aláírással ellátva küldi meg a kényszerintézkedést foganatosító szervnek.
+(4) A büntetés, az intézkedés és a kényszerintézkedés végrehajtásának foganatosítása, illetve a kényszerintézkedés megszüntetése esetén a terhelt szabadon bocsátása érdekében a bíróság a 34/A. § szerint értesítőlapot állít ki. Ha a kényszerintézkedés megszüntetéséről az ügyészség, illetve az NVVH határoz, a terhelt szabadon bocsátása végett határozatát eredeti aláírással, vagy minősített elektronikus aláírással ellátva küldi meg a kényszerintézkedést foganatosító szervnek.
 
 ### Az állam feladatai a végrehajtásban
 
 5. § (1) A büntetés, az intézkedés, a kényszerintézkedés és a szabálysértési elzárás végrehajtása, valamint az utógondozás az állam feladata. Az elítélttel és az egyéb jogcímen fogvatartottal szemben a törvényben meghatározott joghátrányok az ügydöntő határozatban, illetve az egyéb határozatban foglaltak szerint – az ott meghatározott tartamban és tartalommal – érvényesíthetők.
 
-(2) A büntetés, az intézkedés, a kényszerintézkedés és a szabálysértési elzárás végrehajtását az állam a bíróság, a Nemzeti Adó- és Vámhivatal, az ügyészség, a végrehajtásért felelős szervek, a rendőrség, valamint az e törvényben meghatározott más szervek útján teljesíti. A végrehajtásban – törvényben meghatározottak szerint – más szervek és szervezetek is közreműködnek.
+(2) A büntetés, az intézkedés, a kényszerintézkedés és a szabálysértési elzárás végrehajtását az állam a bíróság, a Nemzeti Adó- és Vámhivatal, az ügyészség, az NVVH, a végrehajtásért felelős szervek, a rendőrség, valamint az e törvényben meghatározott más szervek útján teljesíti. A végrehajtásban – törvényben meghatározottak szerint – más szervek és szervezetek is közreműködnek.
 
 (3) A végrehajtásért felelős szerv a jogszabályok keretei között együttműködik az oktatási intézményekkel, valamint a fogvatartás körülményeinek a figyelemmel kísérésére, a szabadulás után a társadalomba való beilleszkedés elősegítésére, a karitatív tevékenység végzésére, továbbá az egyéb büntetés-végrehajtási feladatok segítésére alakult civil szervezetekkel és az ilyen tevékenységet ellátó vallási közösségekkel. Ha az ilyen szervezet tagja vagy a megbízásából eljáró személy a végrehajtásért felelős szerv rendjére és biztonságára vonatkozó jogszabályokat, vagy a végrehajtásért felelős szervvel kötött megállapodásban foglaltakat megszegi, a végrehajtásért felelős szerv az együttműködést megszüntetheti.
 
@@ -124,7 +124,7 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 
 ### Alapvető jogok
 
-9. § (1) Az elítélt és az egyéb jogcímen fogvatartott az Alaptörvényben meghatározott alapvető jogait, valamint egyéb jogait és kötelezettségeit – a törvényben, a bíróság ügydöntő határozatában, valamint a bíróság és az ügyészség egyéb határozatában meghatározott korlátozásokkal vagy tilalmakkal – a büntetés-végrehajtás rendjével összhangban gyakorolja, illetve teljesíti.
+9. § (1) Az elítélt és az egyéb jogcímen fogvatartott az Alaptörvényben meghatározott alapvető jogait, valamint egyéb jogait és kötelezettségeit – a törvényben, a bíróság ügydöntő határozatában, valamint a bíróság és az ügyészség, illetve az NVVH egyéb határozatában meghatározott korlátozásokkal vagy tilalmakkal – a büntetés-végrehajtás rendjével összhangban gyakorolja, illetve teljesíti.
 
 (2) A jogkorlátozás során az adott cél elérésére alkalmas legenyhébb eszközt kell alkalmazni.
 
@@ -246,13 +246,13 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 - e) a kényszergyógykezelt elbocsátásáról, engedély nélküli eltávozásáról, illetve adaptációs szabadságra bocsátásáról, valamint
 - f) javítóintézeti nevelés esetén a fiatalkorú ideiglenes vagy végleges elbocsátásáról, a javítóintézet engedély nélküli elhagyásáról, illetve a javítóintézeti nevelés félbeszakításáról.
 
-(2) A kérelmet a büntetőügyben eljáró vagy eljárt bíróságnál, letartóztatott, illetve előzetes kényszergyógykezelt esetén a büntetőügyben eljáró ügyészségnél kell benyújtani, és abban meg kell jelölni, hogy milyen lakcímre vagy értesítési címre kéri a kérelmező az értesítést. A kérelem a bírósághoz vagy az ügyészséghez történő bejelentéssel visszavonható.
+(2) A kérelmet a büntetőügyben eljáró vagy eljárt bíróságnál, letartóztatott, illetve előzetes kényszergyógykezelt esetén a büntetőügyben eljáró ügyészségnél, illetve NVVH-nál kell benyújtani, és abban meg kell jelölni, hogy milyen lakcímre vagy értesítési címre kéri a kérelmező az értesítést. A kérelem a bírósághoz vagy az ügyészséghez, illetve az NVVH-hoz történő bejelentéssel visszavonható.
 
-(3) A letartóztatást, az előzetes kényszergyógykezelést, a végrehajtandó szabadságvesztést, az elzárást vagy a kényszergyógykezelést foganatosító bv. intézet a bíróság vagy az ügyészség értesítése alapján a kérelmet a fogvatartotti nyilvántartásban rögzíti, és a végrehajtandó szabadságvesztésre ítélt végleges szabadon bocsátásáról a szabadulás előtt egy hónappal, minden más esetben az értesítési kötelezettséget megalapozó esemény bekövetkezését követően haladéktalanul tájékoztatja a Büntetés-végrehajtás Országos Parancsnokságát (a továbbiakban: BVOP), amely haladéktalanul értesítést küld a sértett, illetve a Be. 52. § (1) bekezdése alapján a sértett jogait gyakorló személy részére az elítélt vagy az egyéb jogcímen fogvatartott szabadon bocsátásának időpontjáról vagy szökéséről.
+(3) A letartóztatást, az előzetes kényszergyógykezelést, a végrehajtandó szabadságvesztést, az elzárást vagy a kényszergyógykezelést foganatosító bv. intézet a bíróság vagy az ügyészség, illetve az NVVH értesítése alapján a kérelmet a fogvatartotti nyilvántartásban rögzíti, és a végrehajtandó szabadságvesztésre ítélt végleges szabadon bocsátásáról a szabadulás előtt egy hónappal, minden más esetben az értesítési kötelezettséget megalapozó esemény bekövetkezését követően haladéktalanul tájékoztatja a Büntetés-végrehajtás Országos Parancsnokságát (a továbbiakban: BVOP), amely haladéktalanul értesítést küld a sértett, illetve a Be. 52. § (1) bekezdése alapján a sértett jogait gyakorló személy részére az elítélt vagy az egyéb jogcímen fogvatartott szabadon bocsátásának időpontjáról vagy szökéséről.
 
-(4) A fiatalkorú letartóztatását foganatosító, illetve a javítóintézeti nevelést végrehajtó javítóintézet a bíróság vagy az ügyészség értesítése alapján a kérelmet a fiatalkorúak nyilvántartásában rögzíti, és a fiatalkorú végleges elbocsátásáról az elbocsátás előtt egy hónappal, minden más esetben az értesítési kötelezettséget megalapozó esemény bekövetkezését követően haladéktalanul tájékoztatja a sértett által megadott lakcím szerint illetékes rendőri szervet, amely haladéktalanul értesítést küld a sértett, illetve a Be. 52. § (1) bekezdése alapján a sértett jogait gyakorló személy részére a fiatalkorú szabadon bocsátásának időpontjáról vagy szökéséről.
+(4) A fiatalkorú letartóztatását foganatosító, illetve a javítóintézeti nevelést végrehajtó javítóintézet a bíróság vagy az ügyészség, illetve az NVVH értesítése alapján a kérelmet a fiatalkorúak nyilvántartásában rögzíti, és a fiatalkorú végleges elbocsátásáról az elbocsátás előtt egy hónappal, minden más esetben az értesítési kötelezettséget megalapozó esemény bekövetkezését követően haladéktalanul tájékoztatja a sértett által megadott lakcím szerint illetékes rendőri szervet, amely haladéktalanul értesítést küld a sértett, illetve a Be. 52. § (1) bekezdése alapján a sértett jogait gyakorló személy részére a fiatalkorú szabadon bocsátásának időpontjáról vagy szökéséről.
 
-(5) A bíróság, az ügyészség, a BVOP, a bv. intézet és a javítóintézet a kérelmező kérelmét, nevét és lakcímét zártan kezeli és biztosítja, hogy ezek az adatok ne jussanak az elítélt vagy az egyéb jogcímen fogvatartott tudomására.
+(5) A bíróság, az ügyészség, az NVVH, a BVOP, a bv. intézet és a javítóintézet a kérelmező kérelmét, nevét és lakcímét zártan kezeli és biztosítja, hogy ezek az adatok ne jussanak az elítélt vagy az egyéb jogcímen fogvatartott tudomására.
 
 ### A végrehajtás rendje
 
@@ -284,15 +284,15 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 
 ### A megkeresés és az adatkérés
 
-17. § (1) A büntetés, az intézkedés és a szabálysértési elzárás végrehajtása, továbbá az elítélt, illetve egyéb jogcímen fogvatartott kérelmének elbírálása érdekében a büntetés-végrehajtási bíró, az ügyészség, a végrehajtásért felelős szerv, valamint az igazságügyért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter és a büntetés-végrehajtásért felelős miniszter megkereséssel élhet, állami és helyi önkormányzati szervet, hatóságot, köztestületet, gazdálkodó szervezetet, alapítványt, közalapítványt és egyesületet kereshet meg tájékoztatás adása, adatszolgáltatás, adat továbbítás, illetve iratok rendelkezésre bocsátása végett, és ennek a teljesítésére legalább nyolc, legfeljebb harmincnapos határidőt állapíthat meg.
+17. § (1) A büntetés, az intézkedés és a szabálysértési elzárás végrehajtása, továbbá az elítélt, illetve egyéb jogcímen fogvatartott kérelmének elbírálása érdekében a büntetőügyben eljáró vagy eljárt bíróság, a büntetés-végrehajtási bíró, az ügyészség, az NVVH, a végrehajtásért felelős szerv, valamint az igazságügyért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter és a büntetés-végrehajtásért felelős miniszter megkereséssel élhet, állami és helyi önkormányzati szervet, hatóságot, köztestületet, gazdálkodó szervezetet, alapítványt, közalapítványt és egyesületet kereshet meg tájékoztatás adása, adatszolgáltatás, adat továbbítás, illetve iratok rendelkezésre bocsátása végett, és ennek a teljesítésére legalább nyolc, legfeljebb harmincnapos határidőt állapíthat meg.
 
 (2) Ha a megkeresés személyes adatok közlésére vonatkozik, az csak annyi és olyan személyes adatra vonatkozhat, amely a megkeresés céljának megvalósításához elengedhetetlenül szükséges. A megkeresésben az adatkezelés pontos célját és a kért adatok körét meg kell jelölni.
 
 (3) Az (1) bekezdés alapján megkeresett szerv köteles a tájékoztatást, az adatszolgáltatást – amely magában foglalja különösen az adat feldolgozását –, illetve az adat továbbítást térítésmentesen teljesíteni. A megkeresett a megállapított határidő alatt – ha törvény másképp nem rendelkezik – köteles a megkeresést teljesíteni, vagy a teljesítés akadályát közölni.
 
-(4) Ha a megkeresett szerv, szervezet a megkeresést a megadott határidőn belül nem teljesíti, vagy a megkeresés teljesítését jogosulatlanul megtagadja, a büntetés-végrehajtási bíró, illetve az ügyészség rendbírságot szabhat ki. A rendbírság kiszabására és végrehajthatóságára a Be. 127. § (1)–(3) és (6)–(9) bekezdését kell alkalmazni. A rendbírság kiszabása ellen bejelentett jogorvoslatnak halasztó hatálya van. A rendbírság kiszabását a végrehajtásért felelős szerv kezdeményezheti a büntetés-végrehajtási bírónál, feltételes ügyészi felfüggesztés esetén az ügyészségnél.
+(4) Ha a megkeresett szerv, szervezet a megkeresést a megadott határidőn belül nem teljesíti, vagy a megkeresés teljesítését jogosulatlanul megtagadja, a büntetőügyben eljáró vagy eljárt bíróság, a büntetés-végrehajtási bíró, illetve az ügyészség és az NVVH rendbírságot szabhat ki. A rendbírság kiszabására és végrehajthatóságára a Be. 127. § (1)–(3) és (6)–(9) bekezdését kell alkalmazni. A rendbírság kiszabása ellen bejelentett jogorvoslatnak halasztó hatálya van. A rendbírság kiszabását a végrehajtásért felelős szerv kezdeményezheti a büntetés-végrehajtási bírónál, feltételes ügyészi felfüggesztés esetén az ügyészségnél, illetve az NVVH-nál.
 
-(5) Ha ez feladatának ellátásához szükséges, a büntetés-végrehajtási bíró, az ügyészség, az igazságügyért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a büntetés-végrehajtásért felelős miniszter és a végrehajtásért felelős szerv egymástól, illetve a büntetőügyben eljáró vagy eljárt bíróságtól, ügyészségtől vagy nyomozó hatóságtól, továbbá a szabálysértési ügyben eljárt bíróságtól, szabálysértési hatóságtól is kérhet adatokat, iratokat és felvilágosítást.
+(5) Ha ez feladatának ellátásához szükséges, a büntetőügyben eljáró vagy eljárt bíróság, a büntetés-végrehajtási bíró, az ügyészség, az NVVH, az igazságügyért felelős miniszter, a gyermekek és az ifjúság védelméért felelős miniszter, a büntetés-végrehajtásért felelős miniszter és a végrehajtásért felelős szerv egymástól, illetve a büntetőügyben eljáró vagy eljárt bíróságtól, ügyészségtől, az NVVH-tól vagy nyomozó hatóságtól, továbbá a szabálysértési ügyben eljárt bíróságtól, szabálysértési hatóságtól is kérhet adatokat, iratokat és felvilágosítást.
 
 (6) Halasztás, részletfizetés elbírálása érdekében és a kegyelmi eljárásban a bíróság a Be. adatkérésre vonatkozó rendelkezései szerint adatszolgáltatást kérhet.
 
@@ -306,7 +306,7 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 
 (3) Ha a büntetőeljárás során az elítélttel papíralapon történt a kapcsolattartás, részére az idézést vagy a felhívást papíralapon kell kézbesíteni.
 
-(3a) A bíróság, az ügyészség, a végrehajtásért felelős szerv, valamint feladatkörében eljárva az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, illetve a gyermekek és az ifjúság védelméért felelős miniszter papíralapú kapcsolattartás esetén – kivéve, ha a címzett fogva van – a hivatalos iratot a címzett elektronikus levelezési címére vagy más elektronikus elérhetőségére – idézés vagy értesítés esetén ideértve a hangkapcsolatot biztosító elektronikus eszközre küldött szöveges üzenetet is – kézbesítheti, ha az érintett ez irányú kérelmében az elérhetőségét bejelenti. Ez esetben közölni kell azt az elektronikus vagy hangkapcsolatot biztosító elérhetőséget, amelyen a címzett a hivatalos irat hitelességét ellenőrizni tudja, illetve a kézbesítésről a nyilatkozatát megteheti.
+(3a) A bíróság, az ügyészség, az NVVH, a végrehajtásért felelős szerv, valamint feladatkörében eljárva az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, illetve a gyermekek és az ifjúság védelméért felelős miniszter papíralapú kapcsolattartás esetén – kivéve, ha a címzett fogva van – a hivatalos iratot a címzett elektronikus levelezési címére vagy más elektronikus elérhetőségére – idézés vagy értesítés esetén ideértve a hangkapcsolatot biztosító elektronikus eszközre küldött szöveges üzenetet is – kézbesítheti, ha az érintett ez irányú kérelmében az elérhetőségét bejelenti. Ez esetben közölni kell azt az elektronikus vagy hangkapcsolatot biztosító elérhetőséget, amelyen a címzett a hivatalos irat hitelességét ellenőrizni tudja, illetve a kézbesítésről a nyilatkozatát megteheti.
 
 (3b) A (3a) bekezdésben meghatározott esetben e törvény eltérő rendelkezése hiányában a kézbesítés szabályszerű, ha a hivatalos irat címzett részére történő kézbesítéséről a címzett igazolható módon – ideértve a kizárólag hangkapcsolatot biztosító elektronikus úton történő rögzített szóbeli nyilatkozattételt is – nyilatkozik. A hivatalos iratot a nyilatkozattétel napján kézbesítettnek kell tekinteni.
 
@@ -315,13 +315,13 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 (4) A szabályszerű kézbesítésre, a kézbesítési fikcióra és a kézbesítési kifogásra a Be. szabályait kell megfelelően alkalmazni azzal, hogy a végrehajtásért felelős szerv határozattal dönt az eljárásában benyújtott kézbesítési kifogásról, és annak elutasítása esetén
 
 - a) bírósági felülvizsgálati kérelem nyújtható be a végrehajtásért felelős szerv székhelye szerint illetékes büntetés-végrehajtási bíróhoz, vagy
-- b) a feltételes ügyészi felfüggesztés mellett alkalmazott pártfogó felügyelet végrehajtása körében a Be. 369. § (1) bekezdése szerinti panasz nyújtható be az ügyészséghez.
+- b) a feltételes ügyészi felfüggesztés mellett alkalmazott pártfogó felügyelet végrehajtása körében a Be. 369. § (1) bekezdése szerinti panasz nyújtható be az ügyészséghez, illetve az NVVH-hoz.
 
 ### A határidő és a határnap megállapítása és számítása
 
-17/B. § (1) A határidőt és a határnapot – e törvény által meghatározott keretek között – a bíróság, az ügyészség, a végrehajtásért felelős szerv, valamint feladatkörében eljárva az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, illetve a gyermekek és az ifjúság védelméért felelős miniszter állapítja meg.
+17/B. § (1) A határidőt és a határnapot – e törvény által meghatározott keretek között – a bíróság, az ügyészség, az NVVH, a végrehajtásért felelős szerv, valamint feladatkörében eljárva az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, illetve a gyermekek és az ifjúság védelméért felelős miniszter állapítja meg.
 
-(2) Egyebekben a határidő megállapítására és számítására a Be. 137. § (2)–(5) bekezdését megfelelően alkalmazni kell azzal, hogy a beadványt határidőben benyújtottnak kell tekinteni, ha azt legkésőbb a határidő utolsó napján az eljáró bíróság, ügyészség, végrehajtásért felelős szerv, illetve a feladatkör szerinti minisztérium címére ajánlott küldeményként postára adták.
+(2) Egyebekben a határidő megállapítására és számítására a Be. 137. § (2)–(5) bekezdését megfelelően alkalmazni kell azzal, hogy a beadványt határidőben benyújtottnak kell tekinteni, ha azt legkésőbb a határidő utolsó napján az eljáró bíróság, ügyészség, az NVVH, a végrehajtásért felelős szerv, illetve a feladatkör szerinti minisztérium címére ajánlott küldeményként postára adták.
 
 ### A mulasztás következményei és az igazolás
 
@@ -332,11 +332,11 @@ is köteles a (3) bekezdésben meghatározottak szerint bejelenteni.
 
 nem jelenik meg, elővezetése rendelhető el.
 
-(2) A büntetés és az intézkedés esetén az elővezetésre a Be. 118. §-át kell alkalmazni azzal, hogy – e törvény eltérő rendelkezése hiányában – az elővezetés elrendelésére a bíróság, a BVOP, a feltételes ügyészi felfüggesztés esetén az ügyészség jogosult.
+(2) A büntetés és az intézkedés esetén az elővezetésre a Be. 118. §-át kell alkalmazni azzal, hogy – e törvény eltérő rendelkezése hiányában – az elővezetés elrendelésére a bíróság, a BVOP, a feltételes ügyészi felfüggesztés esetén az ügyészség, illetve az NVVH jogosult.
 
 (3) A határidő vagy a határnap önhibán kívüli elmulasztása esetén igazolásnak van helye, az igazolási kérelem előterjesztésére és elbírálására a Be. 139. és 140. §-át kell megfelelően alkalmazni.
 
-(4) Ha a bíróság, az ügyészség, a végrehajtásért felelős szerv, valamint feladatkörében eljárva az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, illetve a gyermekek és az ifjúság védelméért felelős miniszter az igazolásnak helyt ad, az igazolást kérő által pótolt cselekményt olyannak kell tekinteni, mintha azt az elmulasztott határidőn belül teljesítette volna.
+(4) Ha a bíróság, az ügyészség, az NVVH, a végrehajtásért felelős szerv, valamint feladatkörében eljárva az igazságügyért felelős miniszter, a büntetés-végrehajtásért felelős miniszter, illetve a gyermekek és az ifjúság védelméért felelős miniszter az igazolásnak helyt ad, az igazolást kérő által pótolt cselekményt olyannak kell tekinteni, mintha azt az elmulasztott határidőn belül teljesítette volna.
 
 (5) Ha a büntetés vagy az intézkedés megkezdésére szóló felhívás teljesítésének elmulasztása az elítélt kórházi gyógykezelésére tekintettel nem pótolható, az igazolási kérelmet – az elítélt eltérő nyilatkozata hiányában – halasztás, illetve félbeszakítás iránti kérelemnek is kell tekinteni.
 
@@ -484,7 +484,7 @@ hajtható végre.
 
 (3) Az iratokról a végrehajtásért felelős szerv a kérelem előterjesztésétől számított nyolc munkanapon belül másolatot ad ki. Az iratban fel kell jegyezni, vagy a fogvatartotti nyilvántartásban, illetve a belső elektronikus ügykezelő rendszerben rögzíteni kell, hogy mely iratról, mely időpontban, kinek a részére, hány példányban készült másolat. Ha az irat elektronikus okiratként, papíralapú okirat elektronikus másolataként vagy elektronikus formában rendelkezésre áll, a megismerésére jogosult kérheti a másolat elektronikus úton vagy elektronikus adathordozón való kiadását.
 
-(3a) Az irat akkor áll elektronikus formában rendelkezésre, ha a bíróság, az ügyészség, illetve a végrehajtásért felelős szerv a papíralapú iratot információs rendszer alkalmazásával szerkesztette meg.
+(3a) Az irat akkor áll elektronikus formában rendelkezésre, ha a bíróság, az ügyészség, az NVVH, illetve a végrehajtásért felelős szerv a papíralapú iratot információs rendszer alkalmazásával szerkesztette meg.
 
 (4) Nem terjed ki a megismerés joga
 
@@ -506,7 +506,7 @@ hajtható végre.
 
 ### Az elektronikus kapcsolattartás szabályai
 
-26/A. § A büntetés-végrehajtási ügyben, a fogvatartással kapcsolatos ügyben, valamint a büntetőügyben eljáró bíróságnak és ügyészségnek a végrehajtás érdekében megtett intézkedése során – a 121. § (1) bekezdés g) pontjában és a 353. § e) pontjában foglalt kivétellel – az elektronikus kapcsolattartásra a Be. szabályai az irányadóak.
+26/A. § A büntetés-végrehajtási ügyben, a fogvatartással kapcsolatos ügyben, valamint a büntetőügyben eljáró bíróságnak és ügyészségnek, illetve az NVVH-nak a végrehajtás érdekében megtett intézkedése során – a 121. § (1) bekezdés g) pontjában és a 353. § e) pontjában foglalt kivétellel – az elektronikus kapcsolattartásra a Be. szabályai az irányadóak.
 
 ### Védelmi Programban való részvétellel kapcsolatos rendelkezések
 
@@ -614,13 +614,13 @@ szabadságvesztés végrehajthatósága.
 
 31/A. § Kiutasítás végrehajtása esetén a más büntetőügyben kiszabott elzárás, közérdekű munka és pénzbüntetés – ideértve a közérdekű munka vagy a pénzbüntetés helyébe lépő szabadságvesztést is – nem hajtható végre.
 
-### III. Fejezet — A BÍRÓSÁG ÉS AZ ÜGYÉSZSÉG FELADATAI A VÉGREHAJTÁSBAN
+### III. Fejezet — A BÍRÓSÁG ÉS AZ ÜGYÉSZSÉG, VALAMINT AZ NVVH FELADATAI A VÉGREHAJTÁSBAN
 
-### A büntetőügyben eljáró bíróság és ügyészség feladatai
+### A büntetőügyben eljáró bíróság és ügyészség, valamint az NVVH feladatai
 
 32. § (1) A büntetés vagy az intézkedés végrehajtása iránt az a bíróság intézkedik, amelynek eljárása során az végrehajthatóvá válik. A szükséges intézkedéseket az e törvényben és a büntetőügyekben hozott határozatok végrehajtása során a bíróságokra háruló feladatokat megállapító jogszabályban foglaltak szerint az egyesbíró vagy a tanács elnöke (a továbbiakban együtt: a tanács elnöke) teszi meg.
 
-(2) A feltételes ügyészi felfüggesztés során elrendelt pártfogó felügyelet, valamint az ügyészség által alkalmazott megrovás végrehajtása céljából az ügyészség intézkedik.
+(2) A feltételes ügyészi felfüggesztés során elrendelt pártfogó felügyelet, valamint az ügyészség vagy az NVVH által alkalmazott megrovás végrehajtása céljából az ügyészség, illetve az NVVH intézkedik.
 
 (3) A tanács elnöke – e törvény eltérő rendelkezése hiányában – az ügydöntő határozat jogerőre emelkedését követő három munkanapon belül intézkedik az értesítőlap kiállítása és megküldése iránt.
 
@@ -630,7 +630,7 @@ szabadságvesztés végrehajthatósága.
 
 (6) A kényszerintézkedés elrendeléséről, meghosszabbításáról, fenntartásáról vagy megszüntetéséről szóló végzés végrehajthatósága esetén a tanács elnöke haladéktalanul intézkedik a foganatosítás, illetve a szabadlábra helyezés céljából az értesítőlap azonnali kiállítása, átadása, illetőleg megküldése iránt. A tanács elnöke az értesítőlapra bírói rendelvényt vezet. Kényszerintézkedés megszüntetése esetén, ha a terhelt előállítására nem került sor, a tanács elnöke azonnal intézkedik a szabadlábra helyezés iránt a fogvatartást foganatosító szervnél.
 
-(7) Ha a kényszerintézkedést az ügyészség rendeli el vagy szünteti meg, akkor haladéktalanul intézkedik a foganatosítás, illetve a szabadlábra helyezés iránt.
+(7) Ha a kényszerintézkedést az ügyészség vagy az NVVH rendeli el vagy szünteti meg, akkor haladéktalanul intézkedik a foganatosítás, illetve a szabadlábra helyezés iránt.
 
 33. § (1) Ha a bíróság az értesítőlap alapjául szolgáló határozatot kijavítja, újabb értesítőlapot kiállítani nem kell. A tanács elnöke a kijavítást elrendelő határozatot nyomban megküldi annak a végrehajtásért felelős szervnek, illetve a törvényszék büntetés-végrehajtási csoportjának (a továbbiakban: bv. csoport), amelynek az értesítőlapot már megküldte, és szükség esetén a végrehajtás függőben tartása iránt intézkedik. Ha a kijavítást elrendelő határozat véglegessé vált, a bíróság a véglegessé válási záradékkal ellátott határozatát megküldi a végrehajtásért felelős szervnek, illetve a bv. csoportnak.
 
@@ -821,13 +821,13 @@ a bíróság a kiutasítás végrehajtása érdekében elrendeli az elítéltnek
 
 44. § (1) A halasztás és a részletfizetés iránti kérelemnek nincs halasztó hatálya.
 
-(2) A kérelemről, ha azt a terhelt az ügydöntő határozat jogerőre emelkedését követően nyomban előterjesztette – a jelen lévő ügyész nyilatkozatát követően –, az ügydöntő határozatot hozó bíróság dönt, a határozatát indokolni köteles.
+(2) A kérelemről, ha azt a terhelt az ügydöntő határozat jogerőre emelkedését követően nyomban előterjesztette – a jelen lévő ügyész, illetve az NVVH tagjának nyilatkozatát követően –, az ügydöntő határozatot hozó bíróság dönt, a határozatát indokolni köteles.
 
 (3) A terhelt később előterjesztett kérelmének elbírálására a Be. XCIV. Fejezete szerinti egyszerűsített felülvizsgálat szabályait kell értelemszerűen alkalmazni azzal, hogy a bíróság nem ügydöntő végzéssel határoz. Ha a bíróság az ügyiratok alapján dönt, a kérelemről bírósági titkár is határozhat.
 
 (4) A pénzbüntetés tekintetében a halasztás vagy a részletfizetés engedélyezése tárgyában hozott határozat ellen nincs helye fellebbezésnek.
 
-(5) A szabadságvesztés, az elzárás, a közérdekű munka és a javítóintézeti nevelés végrehajtásának elhalasztása tárgyában hozott határozat ellen az ügyészség, az elítélt, a törvényes képviselő és a védő, a rendbírság helyébe lépő elzárás végrehajtásának elhalasztása tárgyában hozott határozat ellen az ügyészség és a rendbírsággal sújtott személy fellebbezhet. Ha a halasztást a (2) bekezdés alapján a másodfokú bíróság engedélyezte, a fellebbezés elbírálására a Be. 614. §-a megfelelően irányadó.
+(5) A szabadságvesztés, az elzárás, a közérdekű munka és a javítóintézeti nevelés végrehajtásának elhalasztása tárgyában hozott határozat ellen az ügyészség, illetve az NVVH, az elítélt, a törvényes képviselő és a védő, a rendbírság helyébe lépő elzárás végrehajtásának elhalasztása tárgyában hozott határozat ellen az ügyészség, illetve az NVVH és a rendbírsággal sújtott személy fellebbezhet. Ha a halasztást a (2) bekezdés alapján a másodfokú bíróság engedélyezte, a fellebbezés elbírálására a Be. 614. §-a megfelelően irányadó.
 
 (5a) A kiutasítás végrehajtásának elhalasztása tárgyában hozott határozat ellen nincs helye fellebbezésnek.
 
@@ -841,13 +841,13 @@ a bíróság a kiutasítás végrehajtása érdekében elrendeli az elítéltnek
 
 (2) Ha az egyik ügyben katonai büntetőeljárás volt folyamatban, az a bíróság jár el, amely a katonai büntetőeljárást lefolytatta, kivéve, ha a katonai büntetőeljárás hatályát a Be. 696. § (3) bekezdése alapozta meg.
 
-(3) A kérelem elbírálására a Be. XCIV. Fejezete szerinti egyszerűsített felülvizsgálat szabályait kell értelemszerűen alkalmazni. A bíróság a kérelem elbírálása előtt beszerzi az ügyészség nyilatkozatát. Ha az utólagos bírósági mentesítésre irányuló kérelem felfüggesztett szabadságvesztéshez fűződő hátrányos jogkövetkezmények alóli mentesítésre irányul és az elítélt pártfogó felügyelet alatt áll, a bíróság összefoglaló jelentés elkészítését rendeli el a pártfogó felügyelet végrehajtásának tapasztalatairól.
+(3) A kérelem elbírálására a Be. XCIV. Fejezete szerinti egyszerűsített felülvizsgálat szabályait kell értelemszerűen alkalmazni. A bíróság a kérelem elbírálása előtt beszerzi az ügyészség, illetve az NVVH nyilatkozatát. Ha az utólagos bírósági mentesítésre irányuló kérelem felfüggesztett szabadságvesztéshez fűződő hátrányos jogkövetkezmények alóli mentesítésre irányul és az elítélt pártfogó felügyelet alatt áll, a bíróság összefoglaló jelentés elkészítését rendeli el a pártfogó felügyelet végrehajtásának tapasztalatairól.
 
 (4) Ha a mentesítés törvényi előfeltételei hiányoznak, a bíróság a kérelmet elutasítja, egyébként érdemben elbírálja.
 
-(4a) A bíróság mentesítést engedélyező végzése ellen az ügyészség által benyújtott fellebbezésnek halasztó hatálya van.
+(4a) A bíróság mentesítést engedélyező végzése ellen az ügyészség, illetve az NVVH által benyújtott fellebbezésnek halasztó hatálya van.
 
-(5) A bíróság a mentesítést kimondó határozat hatályon kívül helyezéséről az ügyészség indítványára vagy hivatalból utólag határoz, ha
+(5) A bíróság a mentesítést kimondó határozat hatályon kívül helyezéséről az ügyészség, illetve az NVVH indítványára vagy hivatalból utólag határoz, ha
 
 - a) a mentesítés hatályát vesztette [Btk. 101. § (4) bekezdés és 102. § (2) bekezdés], vagy
 - b) utóbb megállapítják, hogy a mentesítésnek törvényi akadálya volt.
@@ -957,7 +957,7 @@ a bíróság a kiutasítás végrehajtása érdekében elrendeli az elítéltnek
 (5) A Kegyelmi Bizottság tagjává nem jelölhető ki olyan bíró, aki
 
 - a) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben vagy a szabadságvesztés végrehajtása során bíróként eljárt,
-- b) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben vagy a szabadságvesztés végrehajtása során ügyészként eljárt,
+- b) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben vagy a szabadságvesztés végrehajtása során ügyészként, illetve az NVVH tagjaként eljárt,
 - c) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügyben a nyomozó hatóság tagjaként eljárt,
 - d) az elítélt hozzátartozója,
 - e) a kötelező kegyelmi eljárás alapjául szolgáló büntetőügy sértettje vagy a sértett hozzátartozója.
@@ -1831,11 +1831,11 @@ történik.
 
 ### IV. Fejezet — AZ ADATKEZELÉSRE VONATKOZÓ RENDELKEZÉSEK
 
-76. § (1) E törvényben meghatározott feladatai teljesítése céljából a bíróság, az ügyészség és a végrehajtásért felelős szerv a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtására vonatkozó adatokat, továbbá a végrehajtással összefüggésben az elítéltre vagy az egyéb jogcímen fogvatartottra vonatkozó személyes adatokat kezeli.
+76. § (1) E törvényben meghatározott feladatai teljesítése céljából a bíróság, az ügyészség, illetve az NVVH és a végrehajtásért felelős szerv a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtására vonatkozó adatokat, továbbá a végrehajtással összefüggésben az elítéltre vagy az egyéb jogcímen fogvatartottra vonatkozó személyes adatokat kezeli.
 
 (2) Az (1) bekezdés szerinti adatkezelés kiterjed
 
-- a) a büntetőügyben eljáró bíróság, ügyészség megnevezésére, határozatának számára és keltére, jogerőre emelkedésének napjára, a kiszabott büntetés, alkalmazott intézkedés nemére, tartamára és mértékére, az előírt magatartási szabályra vagy kötelezettségre, a bűncselekmény Btk. szerinti megnevezésére és minősítésére, az elkövetői minőségre, valamint a bűnismétlésre vonatkozó adatokra, kényszerintézkedés esetén az eljáró bíróság, ügyészség megnevezésére és az ügyszámra, az ezzel kapcsolatos valamennyi határozat keltére, jogerőre emelkedésének napjára, továbbá a kényszerintézkedés tartamára,
+- a) a büntetőügyben eljáró bíróság, ügyészség, illetve az NVVH megnevezésére, határozatának számára és keltére, jogerőre emelkedésének napjára, a kiszabott büntetés, alkalmazott intézkedés nemére, tartamára és mértékére, az előírt magatartási szabályra vagy kötelezettségre, a bűncselekmény Btk. szerinti megnevezésére és minősítésére, az elkövetői minőségre, valamint a bűnismétlésre vonatkozó adatokra, kényszerintézkedés esetén az eljáró bíróság, ügyészség, illetve az NVVH megnevezésére és az ügyszámra, az ezzel kapcsolatos valamennyi határozat keltére, jogerőre emelkedésének napjára, továbbá a kényszerintézkedés tartamára,
 - b) az elítélt, vagy az egyéb jogcímen fogvatartott természetes személyazonosító adataira, nemére, állampolgárságára, – hontalan személy esetén – a hontalansága tényére, lakcímére, értesítési címére, tényleges tartózkodási helyére, kézbesítési címére, elektronikus kapcsolattartásra szolgáló elérhetőségére, elektronikus levelezési címére, hangkapcsolatot biztosító vagy más elektronikus elérhetőségére, katona elítélt esetén annak rendfokozatára, címzetes rendfokozatára, valamint állományilletékes alakulata vagy testülete megnevezésére és címére,
 - c) az elítélt vagy a kényszerintézkedés hatálya alatt álló családi állapotára, iskolai végzettségére és szakképzettségére, a kényszergyógykezelt családi állapotára,
 - d) az elítélt vagy az egyéb jogcímen fogvatartott törvényes képviselőjének, meghatalmazott vagy kirendelt védőjének, jogi eljárásban eljáró képviselőjének, valamint a kényszergyógykezelt házastársának, továbbá nem magyar állampolgárságú fogvatartott esetén az állampolgársága szerinti diplomáciai vagy konzuli képviselet eljáró tagjának családi és utónevére, továbbá – ha azokat megadja – a levelezési címére, telefonszámára, illetve e-mail címére,
@@ -2671,7 +2671,7 @@ idézik.
 
 (2) Az (1) bekezdés a) pontja esetén az elítéltet nem kell előállítani, ha törvény lehetőséget ad arra, hogy a terhelt nyilatkozzon jelenléti szándékáról, és az elítélt nemleges nyilatkozatot tesz.
 
-(2a) A bv. intézet az elítéltet kérelmére előállítja, ha a büntetőügyben az ügyiratok Be. 100. §-a és a 352. §-a szerinti megismerési jogának biztosítása érdekében – a bíróság, az ügyészség vagy a nyomozó hatóság az előállítás elrendelésével – annak helyéről és időpontjáról az elítéltet értesíti.
+(2a) A bv. intézet az elítéltet kérelmére előállítja, ha a büntetőügyben az ügyiratok Be. 100. §-a és a 352. §-a szerinti megismerési jogának biztosítása érdekében – a bíróság, az ügyészség, illetve az NVVH vagy a nyomozó hatóság az előállítás elrendelésével – annak helyéről és időpontjáról az elítéltet értesíti.
 
 (3) A bv. intézet az elítéltet kérelmére előállítja, ha a büntetőügyekben alkalmazandó közvetítői tevékenységet végző közvetítő sértettként, terheltként vagy ezek törvényes képviselőjeként a közvetítői megbeszélés vagy a megállapodás aláírásának helyéről és időpontjáról értesíti.
 
@@ -2692,13 +2692,13 @@ idézik.
 
 az elítélt az idézésben megjelölt munkanapokon a bíróság székhelye szerinti vármegyében lévő rendőrségi fogdán elhelyezhető.
 
-114. § (1) A nyomozó hatóság az elítéltet az ügyészség engedélye alapján – a bv. intézettel való előzetes egyeztetés szerint – az intézetben kihallgathatja, illetve ha az elítéltek ugyanabban az intézetben vannak fogva tartva, a nyomozó hatóság a szembesítést az intézetben is végrehajthatja, továbbá biztosíthatja a Be. 352. § (1) bekezdése szerinti ügyirat megismerés jogát. A nyomozó hatóság az elítélt intézetben lévő érték- vagy tárgyletétjéből lefoglalhat. Az ügyészség más eljárási cselekmények intézetben történő elvégzésére is engedélyt adhat. Az elítélt részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő védőnek és törvényes képviselőnek a bv. intézetbe történő belépését engedélyezni kell.
+114. § (1) A nyomozó hatóság az elítéltet az ügyészség, illetve az NVVH engedélye alapján – a bv. intézettel való előzetes egyeztetés szerint – az intézetben kihallgathatja, illetve ha az elítéltek ugyanabban az intézetben vannak fogva tartva, a nyomozó hatóság a szembesítést az intézetben is végrehajthatja, továbbá biztosíthatja a Be. 352. § (1) bekezdése szerinti ügyirat megismerés jogát. A nyomozó hatóság az elítélt intézetben lévő érték- vagy tárgyletétjéből lefoglalhat. Az ügyészség, illetve az NVVH más eljárási cselekmények intézetben történő elvégzésére is engedélyt adhat. Az elítélt részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő védőnek és törvényes képviselőnek a bv. intézetbe történő belépését engedélyezni kell.
 
 (2) Az elítéltet az intézetben a hatósági ügyben eljáró más szerv a bv. intézettel való előzetes egyeztetés alapján hallgathatja ki.
 
-(3) Az elítéltet az illetékes ügyészség, illetve a nyomozó hatóságnak az illetékes ügyészség engedélyét is tartalmazó írásbeli megkeresésére a biztonsági osztályvezető adja ki, eljárási cselekmények lefolytatása, továbbá a Bnytv.-ben meghatározott bűnügyi nyilvántartási adat mintavétele céljából.
+(3) Az elítéltet az illetékes ügyészség vagy az NVVH, illetve a nyomozó hatóságnak az illetékes ügyészség vagy az NVVH engedélyét is tartalmazó írásbeli megkeresésére a biztonsági osztályvezető adja ki, eljárási cselekmények lefolytatása, továbbá a Bnytv.-ben meghatározott bűnügyi nyilvántartási adat mintavétele céljából.
 
-(4) Ha az elítélt kiadása a rendőrségi fogdán történő elhelyezéssel jár, úgy azt az illetékes ügyészség legfeljebb hatvan napra engedélyezheti. A határozattal szemben panasznak nincs helye.
+(4) Ha az elítélt kiadása a rendőrségi fogdán történő elhelyezéssel jár, úgy azt az illetékes ügyészség, illetve az NVVH legfeljebb hatvan napra engedélyezheti. A határozattal szemben panasznak nincs helye.
 
 (4a) A 113. § (8) bekezdésében meghatározott célból az elítélt rendőrségi fogdán történő elhelyezéssel járó kiadása külön engedélyező határozat nélkül, a bv. intézet parancsnokának és a fogda parancsnokának előzetes egyeztetése alapján végrehajtható. Az elítéltet a fogdán történő elhelyezéséről előzetesen tájékoztatni kell. Az elítélt e célból történő kiadása esetén az elítéltet hétvégére, valamint a munkaszüneti napra a bv. intézetbe vissza kell szállítani.
 
@@ -2725,7 +2725,7 @@ az elítélt az idézésben megjelölt munkanapokon a bíróság székhelye szer
 
 dönt.
 
-(2) Kivételesen engedélyezhető a szabadságvesztés félbeszakítása, ha az elítélt ellen szabadságvesztéssel büntetendő bűncselekmény miatt újabb büntetőeljárás van folyamatban. Ebben az esetben az eljárás szakaszától függően az ügyészség vagy a bíróság véleményét be kell szerezni.
+(2) Kivételesen engedélyezhető a szabadságvesztés félbeszakítása, ha az elítélt ellen szabadságvesztéssel büntetendő bűncselekmény miatt újabb büntetőeljárás van folyamatban. Ebben az esetben az eljárás szakaszától függően az ügyészség, illetve az NVVH vagy a bíróság véleményét be kell szerezni.
 
 (3) Nem engedélyezhető a szabadságvesztés félbeszakítása, ha a bíróság az életfogytig tartó szabadságvesztést kimondó ügydöntő határozatban a feltételes szabadságra bocsátás lehetőségét kizárta.
 
@@ -2880,11 +2880,11 @@ e törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 (7) A bv. intézet elősegíti a vallási közösségek szociális, karitatív, gondozói tevékenységét és az elítéltnek a szabadulásra való felkészítéséhez nyújtott szolgálatait.
 
-127. § (1) Az elítélt az ellene folyamatban lévő büntetőeljárás során a bíróság, az ügyészség vagy a nyomozó hatóság által elektronikus adathordozón átadott ügyiratokba vagy kiadott másolatba, illetve az ellene folyamatban volt büntetőeljárásban keletkezett ügyiratokról elektronikus adathordozón kiadott másolatba a büntetés-végrehajtási szervezet által biztosított számítástechnikai eszköz igénybevételével jogosult betekinteni. Az ügyiratokba való betekintést – kellő időben előterjesztett kérelemre – a védővel való személyes kapcsolattartás során is biztosítani kell.
+127. § (1) Az elítélt az ellene folyamatban lévő büntetőeljárás során a bíróság, az ügyészség, illetve az NVVH vagy a nyomozó hatóság által elektronikus adathordozón átadott ügyiratokba vagy kiadott másolatba, illetve az ellene folyamatban volt büntetőeljárásban keletkezett ügyiratokról elektronikus adathordozón kiadott másolatba a büntetés-végrehajtási szervezet által biztosított számítástechnikai eszköz igénybevételével jogosult betekinteni. Az ügyiratokba való betekintést – kellő időben előterjesztett kérelemre – a védővel való személyes kapcsolattartás során is biztosítani kell.
 
 (2) Az elítélt köteles az (1) bekezdésben meghatározott, valamint a büntetés-végrehajtási ügyben keletkezett iratokon kívüli egyéb iratai másolásának, nyomtatásának és továbbításának költségét megtéríteni.
 
-(3) A bíróság, az ügyészség és a nyomozó hatóság a Be. 100. §-a és 352. §-a szerint az ügyiratok megismerését az ügyiratok megküldésével a bv. intézetben is lehetővé teheti, vagy a bíróság és az ügyészség ennek érdekében a terhelt előállítását rendelheti el. A nyomozó hatóság részéről kért előállítás az ügyészség hozzájárulásával történhet.
+(3) A bíróság, az ügyészség, illetve az NVVH és a nyomozó hatóság a Be. 100. §-a és 352. §-a szerint az ügyiratok megismerését az ügyiratok megküldésével a bv. intézetben is lehetővé teheti, vagy a bíróság és az ügyészség, illetve az NVVH ennek érdekében a terhelt előállítását rendelheti el. A nyomozó hatóság részéről kért előállítás az ügyészség, illetve az NVVH hozzájárulásával történhet.
 
 (4) Az elítélt a vele szemben folyamatban lévő vagy folyamatban volt büntetőeljárás során keletkezett ügyiratokról készült másolatot magánál tarthatja, vagy ha azok terjedelme a zárka rendeltetésszerű használatát akadályozná, valamint az elektronikus adathordozón kiadott másolatot a zárkán kívül rendelkezésre bocsátott tárolóhelyiségben tarthatja.
 
@@ -3398,7 +3398,7 @@ korlátozható.
 
 166. § (1) A 165. § (2) bekezdés l)–n) pontja nem engedélyezhető, ha az elítélt
 
-- a) ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
+- a) ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, vagy az NVVH, amennyiben a büntetőeljárás előtte van folyamatban, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
 - b) a magatartási szabályokat ismételten vagy súlyosan megszegte.
 
 (2) A látogató bv. intézeten kívüli fogadása, a jutalom kimaradás és a jutalom eltávozás időtartama a szabadságvesztésbe beszámít. A jutalom kimaradásra és a jutalom eltávozásra egyebekben a kimaradás és az eltávozás szabályait kell alkalmazni.
@@ -3508,7 +3508,7 @@ miatt kiszabott fegyelmi fenyítés.
 
 (2) Az elítélt kapcsolattartása az e törvényben meghatározottak szerint, a bv. intézet rendje és a fogvatartás biztonsága érdekében ellenőrizhető. A bv. intézet rendje és a fogvatartás biztonsága érdekében, vagy egészségügyi okból a kapcsolattartás korlátozásának is helye lehet.
 
-(3) Ha a szabadságvesztés foganatba vételére tekintettel szüntette meg a bíróság vagy az ügyészség az elítélttel szemben más büntetőügyben elrendelt letartóztatást, akkor a rendelkezési jogkör gyakorlójának ilyen irányú rendelkezése esetén az elítélt kapcsolattartása vagy elkülönítése tekintetében korábban hozott korlátozó intézkedéseit be kell tartani.
+(3) Ha a szabadságvesztés foganatba vételére tekintettel szüntette meg a bíróság vagy az ügyészség, illetve az NVVH az elítélttel szemben más büntetőügyben elrendelt letartóztatást, akkor a rendelkezési jogkör gyakorlójának ilyen irányú rendelkezése esetén az elítélt kapcsolattartása vagy elkülönítése tekintetében korábban hozott korlátozó intézkedéseit be kell tartani.
 
 (4) Az elítélttel szemben folyamatban lévő büntetőeljárás adataira figyelemmel a Be. 276. § (2) bekezdésében meghatározott célból a rendelkezési jogkör gyakorlója
 
@@ -3745,7 +3745,7 @@ jogosult.
 
 - a) a 178. § (2) bekezdésében, 179. § (1) bekezdésében, illetve 180. § (1) bekezdésében meghatározott időtartam még nem telt el, vagy az elítélt kategória-besorolása annak lehetőségét kizárja,
 - b) a rendelkezési jogkör gyakorlója a folyamatban lévő büntetőeljárás eredményessége érdekében a kapcsolattartást korlátozta, továbbá ha a 172. § (3) bekezdése alapján a rendelkezési jogkör gyakorlójának korábban meghozott intézkedését alkalmazni kell,
-- c) az elítélt ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
+- c) az elítélt ellen szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, vagy az NVVH, amennyiben a büntetőeljárás előtte van folyamatban, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa,
 - d) az elítélt erőszakos többszörös visszaeső,
 - e) az elítélt kockázatértékelése alapján a visszaesési vagy fogvatartási kockázata magas,
 - f) az elítéltet a korábbi távolléte alatt elkövetett bűncselekmény miatt végrehajtandó szabadságvesztésre ítélték, az ügydöntő határozat jogerőre emelkedésétől számított legalább három évig,
@@ -4888,7 +4888,7 @@ szabályai vonatkoznak azzal, hogy a kreditrendszer nem alkalmazandó. Az elzár
 - i) naponta legalább egy óra szabad levegőn tartózkodásra jogosult,
 - j) a bv. intézetben, illetve annak felügyeleti szerveinél és a büntetés-végrehajtástól független szervhez közérdekű bejelentés, visszaélés-bejelentés, panasz, kérelem és jognyilatkozat előterjesztésére jogosult.
 
-(2) Az elzárásra ítélt részére kimaradás nem engedélyezhető, ha ellene szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa.
+(2) Az elzárásra ítélt részére kimaradás nem engedélyezhető, ha ellene szabadságvesztéssel fenyegetett bűncselekmény miatt újabb büntetőeljárás van folyamatban, és az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, vagy az NVVH, amennyiben a büntetőeljárás előtte van folyamatban, a büntetőeljárás eredményének veszélyeztetése okán nem járult hozzá ahhoz, hogy az elítélt a bv. intézetet őrzés nélkül elhagyhassa.
 
 (3) Ha az elzárás tartama a húsz napot meghaladja, az elzárásra ítélt kérelmet nyújthat be a kimaradás összevontan történő kiadása érekében. Összevontan legfeljebb huszonnégy óra kimaradás engedélyezhető.
 
@@ -5303,7 +5303,7 @@ vonatkozó szabályokat kell alkalmazni.
 
 297. § (1) A foglalkozástól eltiltás végrehajtása annak a szervnek a feladata, amely a foglalkozástól eltiltással érintett foglalkozás kapcsán, jogszabály alapján kötelező nyilvántartási vagy engedélyezési tevékenységet végez. A büntetés-végrehajtási bíró felhívása alapján a nyilvántartást vezető szerv a foglalkozástól eltiltásra vonatkozó adatokat bejegyzi a nyilvántartásba, és gondoskodik arról, hogy az elítélt az eltiltás tartama alatt ne végezhessen olyan tevékenységet, amelytől a bíróság eltiltotta.
 
-(1a) Ha a Be. 111. §-a alapján a bíróság, az ügyészség vagy a nyomozó hatóság a törvényben meghatározott, kötelező munkáltatói intézkedés alkalmazása érdekében tájékoztatta a terhelt munkáltatóját, a büntetés-végrehajtási bíró a foglalkozástól eltiltás végrehajtása végett felhívást küld a munkáltatónak.
+(1a) Ha a Be. 111. §-a alapján a bíróság, az ügyészség, illetve az NVVH vagy a nyomozó hatóság a törvényben meghatározott, kötelező munkáltatói intézkedés alkalmazása érdekében tájékoztatta a terhelt munkáltatóját, a büntetés-végrehajtási bíró a foglalkozástól eltiltás végrehajtása végett felhívást küld a munkáltatónak.
 
 (1b) Ha a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 55. §-a alapján a foglalkozástól eltiltásról más tagállam hatóságát tájékoztatni kell, és nincs olyan nyilvántartást vezető szerv, amelyet az (1) bekezdés alapján a büntetés-végrehajtási bíró felhívott, a tájékoztatási kötelezettséget a büntetés-végrehajtási bíró felhívása alapján a jogszabályban erre kijelölt szerv teljesíti.
 
@@ -5421,7 +5421,7 @@ kell végrehajtani.
 
 kell megküldeni.
 
-(3) Belföldi kitüntetés: a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvényben nevesített, vagy annak felhatalmazásán alapuló, a Kormány, a miniszterelnök, a köztársasági elnök, az Országgyűlés elnöke, a Magyar Nemzeti Bank elnöke, a legfőbb ügyész, az állampolgári jogok országgyűlési biztosa, az Országos Bírói Tanács, az Alkotmánybíróság elnöke és az Állami Számvevőszék elnöke, valamint miniszter által alapított kitüntetés, vagy a Kossuth-díjról és a Széchenyi-díjról szóló törvényben meghatározott díj.
+(3) Belföldi kitüntetés: a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvényben nevesített, vagy annak felhatalmazásán alapuló, a Kormány, a miniszterelnök, a köztársasági elnök, az Országgyűlés elnöke, a Magyar Nemzeti Bank elnöke, a legfőbb ügyész, az alapvető jogok biztosa, az NVVH elnöke, az Országos Bírói Tanács, az Alkotmánybíróság elnöke és az Állami Számvevőszék elnöke, valamint miniszter által alapított kitüntetés, vagy a Kossuth-díjról és a Széchenyi-díjról szóló törvényben meghatározott díj.
 
 ### XVIII. Fejezet — A KATONAI MELLÉKBÜNTETÉSEK VÉGREHAJTÁSA
 
@@ -5437,9 +5437,9 @@ kell megküldeni.
 
 ### XIX. Fejezet — A MEGROVÁS VÉGREHAJTÁSA
 
-307. § (1) Ha a terhelt a határozat kihirdetésekor jelen van, a megrovást az egyesbíró vagy a tanács elnöke az ügydöntő határozat jogerőre emelkedésének bevárása nélkül, valamint az ügyész szóban foganatosítja, egyéb esetben a megrovás végrehajtása a határozat kézbesítésével történik.
+307. § (1) Ha a terhelt a határozat kihirdetésekor jelen van, a megrovást az egyesbíró vagy a tanács elnöke az ügydöntő határozat jogerőre emelkedésének bevárása nélkül, valamint az ügyész, illetve az NVVH tagja szóban foganatosítja, egyéb esetben a megrovás végrehajtása a határozat kézbesítésével történik.
 
-(2) Nem magyar állampolgár terhelt esetén az ügyészség a nyomozó hatóságot is megbízhatja a megrovás foganatosításával, a határozat szóban is lefordítható.
+(2) Nem magyar állampolgár terhelt esetén az ügyészség, illetve az NVVH a nyomozó hatóságot is megbízhatja a megrovás foganatosításával, a határozat szóban is lefordítható.
 
 ### XX. Fejezet — A PRÓBÁRA BOCSÁTÁS VÉGREHAJTÁSA
 
@@ -5560,9 +5560,9 @@ kezdődik.
 - c) próbára bocsátás próbaideje alatt,
 - d) jóvátételi munka elrendelése mellett
 
-a magatartási szabályokat megszegi, a pártfogó felügyelő a b), c) és d) pontokban foglalt, a büntetés-végrehajtási pártfogó felügyelő pedig az a) pontban foglalt esetben javaslatot készít, amelyhez mellékeli a rendelkezésre álló bizonyítékokat, vagy a rendőrség jelentését, és azt megküldi az ügyészségnek.
+a magatartási szabályokat megszegi, a pártfogó felügyelő a b), c) és d) pontokban foglalt, a büntetés-végrehajtási pártfogó felügyelő pedig az a) pontban foglalt esetben javaslatot készít, amelyhez mellékeli a rendelkezésre álló bizonyítékokat, vagy a rendőrség jelentését, és azt megküldi az ügyészségnek, illetve a c) és d) pontban foglalt esetben, ha az NVVH járt el, az NVVH-nak.
 
-(2) Ha az ügyészség a tényállást nem látja tisztázottnak, a tényállás felderítése érdekében a nyomozó hatóságot keresi meg, vagy a pártfogótól vagy a büntetés-végrehajtási pártfogótól további bizonyítási eszközök megjelölését kéri.
+(2) Ha az ügyészség, illetve az NVVH a tényállást nem látja tisztázottnak, a tényállás felderítése érdekében a nyomozó hatóságot keresi meg, vagy a pártfogótól vagy a büntetés-végrehajtási pártfogótól további bizonyítási eszközök megjelölését kéri.
 
 (3) Ha a magatartási szabályok – (1) bekezdés szerinti – megszegése miatt
 
@@ -5571,7 +5571,7 @@ a magatartási szabályokat megszegi, a pártfogó felügyelő a b), c) és d) p
 - c) a Btk. 65. § (4) bekezdése szerint a próbaidő meghosszabbításának vagy a Btk. 66. § (1) bekezdés c) pontja szerint a próbára bocsátás megszüntetésének, vagy
 - d) a Btk. 68. § (2) bekezdése szerint a jóvátételi munka helyett büntetés kiszabásának
 
-lehet helye, azt az ügyészség az a)–b) pontban meghatározott esetben a büntetés-végrehajtási bírónál, a c)–d) pontban meghatározott esetben az alapügyben elsőfokon eljárt bíróságnál indítványozza. Kisebb súlyú szabályszegés esetén az ügyészség a külön magatartási szabályok megváltoztatását is indítványozhatja.
+lehet helye, azt az a) és b) pontban meghatározott esetben az ügyészség a büntetés-végrehajtási bírónál, a c) és d) pontban meghatározott esetben az ügyészség, illetve az NVVH az alapügyben elsőfokon eljárt bíróságnál indítványozza. Kisebb súlyú szabályszegés esetén az ügyészség a külön magatartási szabályok megváltoztatását is indítványozhatja.
 
 ### A fiatalkorúakra vonatkozó rendelkezések
 
@@ -5610,24 +5610,24 @@ lehet helye, azt az ügyészség az a)–b) pontban meghatározott esetben a bü
 
 ### A pártfogó felügyelet végrehajtása a feltételes ügyészi felfüggesztés esetén
 
-317. § (1) Feltételes ügyészi felfüggesztés esetén az ügyészség által elrendelt pártfogó felügyelet végrehajtására a 310–314. § rendelkezéseit értelemszerűen kell alkalmazni az alábbi eltérésekkel.
+317. § (1) Feltételes ügyészi felfüggesztés esetén az ügyészség, illetve az NVVH által elrendelt pártfogó felügyelet végrehajtására a 310–314. § rendelkezéseit értelemszerűen kell alkalmazni az alábbi eltérésekkel.
 
-(2) A pártfogó felügyelő az ügyészség határozata alapján jár el. A külön magatartási szabály módosítására vagy mellőzésére az ügyészség jogosult.
+(2) A pártfogó felügyelő az ügyészség, illetve az NVVH határozata alapján jár el. A külön magatartási szabály módosítására vagy mellőzésére az ügyészség, illetve az NVVH jogosult.
 
-(3) A feltételes ügyészi felfüggesztés esetén a pártfogó felügyelet tartama az elrendelő ügyészségi határozat meghozatalának napjával kezdődik.
+(3) A feltételes ügyészi felfüggesztés esetén a pártfogó felügyelet tartama az elrendelő határozat meghozatalának napjával kezdődik.
 
 (4) A feltételes ügyészi felfüggesztés esetén elrendelt pártfogó felügyelet megszűnik, ha
 
 - a) a feltételes ügyészi felfüggesztés tartama letelt,
-- b) az ügyészség az eljárást megszünteti (Be. 398. §) vagy a feltételes ügyészi felfüggesztést elrendelő határozatát hatályon kívül helyezi [Be. 366. § (3) bekezdés],
-- c) az ügyészség az eljárás folytatását rendeli el [Be. 420. § (2) bekezdés], illetve vádat emel [Be. 421. § (1) bekezdés],
-- d) az ügyészség azt a pártfogó felügyelő javaslatára a Btk. 70. § (3) bekezdése alapján megszünteti.
+- b) az ügyészség, illetve az NVVH az eljárást megszünteti (Be. 398. §) vagy a feltételes ügyészi felfüggesztést elrendelő határozatát hatályon kívül helyezi [Be. 366. § (3) bekezdés],
+- c) az ügyészség, illetve az NVVH az eljárás folytatását rendeli el [Be. 420. § (2) bekezdés], illetve vádat emel [Be. 421. § (1) bekezdés],
+- d) az ügyészség, illetve az NVVH azt a pártfogó felügyelő javaslatára a Btk. 70. § (3) bekezdése alapján megszünteti.
 
-(5) Ha a Btk. Különös Része a terheltnek az eljárás megindulását követő magatartását büntethetőséget megszüntető okként szabályozza, és a feltételes ügyészi felfüggesztést az ügyészség a büntethetőség megszűnését eredményező magatartás várható teljesítése érdekében rendelte el, a pártfogó felügyelő nem készít egyéni pártfogó felügyelői tervet, a kapcsolattartásra a pártfogó felügyelő által meghatározott módon és rendszerességgel – de legalább kéthavonként – kerül sor. Ez esetben továbbá a pártfogó felügyelő – az ügyészség felhívására, illetve jogszabályban meghatározottak szerint – ellenőrzi a büntethetőség megszűnését eredményező magatartás teljesítését.
+(5) Ha a Btk. Különös Része a terheltnek az eljárás megindulását követő magatartását büntethetőséget megszüntető okként szabályozza, és a feltételes ügyészi felfüggesztést az ügyészség, illetve az NVVH a büntethetőség megszűnését eredményező magatartás várható teljesítése érdekében rendelte el, a pártfogó felügyelő nem készít egyéni pártfogó felügyelői tervet, a kapcsolattartásra a pártfogó felügyelő által meghatározott módon és rendszerességgel – de legalább kéthavonként – kerül sor. Ez esetben továbbá a pártfogó felügyelő – az ügyészség felhívására, illetve jogszabályban meghatározottak szerint – ellenőrzi a büntethetőség megszűnését eredményező magatartás teljesítését.
 
-(6) A pártfogolt köteles az ügyészség határozatában előírt egyéb kötelezettséget megtartani.
+(6) A pártfogolt köteles az ügyészség, illetve az NVVH határozatában előírt egyéb kötelezettséget megtartani.
 
-(7) Ha a pártfogolt az ügyészség által előírt külön magatartási szabályokat vagy az e törvényben előírt magatartási szabályokat súlyosan megszegi vagy az előírt kötelezettséget nem teljesíti, a pártfogó felügyelő az ügyészséghez fordul.
+(7) Ha a pártfogolt az ügyészség, illetve az NVVH által előírt külön magatartási szabályokat vagy az e törvényben előírt magatartási szabályokat súlyosan megszegi vagy az előírt kötelezettséget nem teljesíti, a pártfogó felügyelő az ügyészséghez, illetve az NVVH-hoz fordul.
 
 ### XXIII. Fejezet — AZ ELKOBZÁS VÉGREHAJTÁSA
 
@@ -5887,7 +5887,7 @@ terhelik.
 
 ### Előállítás
 
-340. § Ha bíróság vagy az ügyészség a beteg előállítása iránt intézkedik, az IMEI főigazgató főorvosa a beteg egészségi állapota alapján dönt az előállításról. Ha a beteg előállítása nem teljesíthető, az elrendelőt erről haladéktalanul értesíteni kell.
+340. § Ha bíróság vagy az ügyészség, illetve az NVVH a beteg előállítása iránt intézkedik, az IMEI főigazgató főorvosa a beteg egészségi állapota alapján dönt az előállításról. Ha a beteg előállítása nem teljesíthető, az elrendelőt erről haladéktalanul értesíteni kell.
 
 ### Elbocsátás az IMEI-ből
 
@@ -6497,7 +6497,7 @@ a javítóintézet utógondozó részleget működtet.
 
 (2) A kényszerintézkedés lejárta, megszűnése vagy megszüntetése esetén a terhelt szabadon bocsátása iránt haladéktalanul intézkedni kell.
 
-(3) Ha a határozat vagy az értesítőlap kézbesítése nem a bíróság, az ügyészség, a nyomozó hatóság kézbesítője vagy biztonságos kézbesítési szolgáltatás útján történt, akkor a kényszerintézkedés meghosszabbításáról, felülvizsgálatáról és megszüntetéséről szóló határozatot és értesítőlapot, valamint az eljárás megszüntetése esetén az erről szóló határozatot telefax útján is meg kell küldeni a kényszerintézkedést foganatosító végrehajtásért felelős szervnek, és azt telefonon is meg kell erősíteni.
+(3) Ha a határozat vagy az értesítőlap kézbesítése nem a bíróság, az ügyészség, illetve az NVVH, a nyomozó hatóság kézbesítője vagy biztonságos kézbesítési szolgáltatás útján történt, akkor a kényszerintézkedés meghosszabbításáról, felülvizsgálatáról és megszüntetéséről szóló határozatot és értesítőlapot, valamint az eljárás megszüntetése esetén az erről szóló határozatot telefax útján is meg kell küldeni a kényszerintézkedést foganatosító végrehajtásért felelős szervnek, és azt telefonon is meg kell erősíteni.
 
 (4) Az egyes kényszerintézkedések végrehajtása során a (3) bekezdés alapján megküldött határozatot és értesítést a telefax beérkezésének napján kell kézbesítettnek tekinteni.
 
@@ -6521,7 +6521,7 @@ a javítóintézet utógondozó részleget működtet.
 
 (3) A végrehajtásért felelős szerv a letartóztatottat
 
-- a) az ügyészi rendelvény és a letartóztatást elrendelő bírói végzés, vagy
+- a) az ügyészi, illetve az NVVH tagja által kiadott rendelvény és a letartóztatást elrendelő bírói végzés, vagy
 - b) a bíróság végzése szerint kiállított értesítőlap
 
 alapján fogadja be.
@@ -6551,9 +6551,9 @@ alapján fogadja be.
 
 (3b) A bíróság a (3) és (3a) bekezdésben meghatározott kérdésekben egy határozattal is meghozhatja a döntést.
 
-(3c) A bíróság az ügyészség indítványára a 109. § (1) bekezdésében meghatározott feltétel fennállása esetén a letartóztatottat három hónapra a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére helyezheti, amelyet az ügyészség indítványára alkalmanként további három hónappal meghosszabbíthat. A részlegre helyezés vagy annak meghosszabbítása indítványozása érdekében a bv. intézet tehet javaslatot az ügyészségnek.
+(3c) A bíróság az ügyészség, illetve az NVVH indítványára a 109. § (1) bekezdésében meghatározott feltétel fennállása esetén a letartóztatottat három hónapra a fogvatartás biztonságára különös veszélyt jelentő elítéltek részlegére helyezheti, amelyet az ügyészség, illetve az NVVH indítványára alkalmanként további három hónappal meghosszabbíthat. A részlegre helyezés vagy annak meghosszabbítása indítványozása érdekében a bv. intézet tehet javaslatot az ügyészségnek, illetve az NVVH-nak.
 
-(4) A (2)–(3a) és (3c) bekezdés esetén a fogva tartó intézet vezetője értesíti az ügyészséget, ha a letartóztatás végrehajtási helyének megváltoztatását indokoltnak tartja.
+(4) A (2)–(3a) és (3c) bekezdés esetén a fogva tartó intézet vezetője értesíti az ügyészséget, illetve az NVVH-t, ha a letartóztatás végrehajtási helyének megváltoztatását indokoltnak tartja.
 
 (5) A letartóztatott befogadására a bv. intézetben kerül sor.
 
@@ -6584,11 +6584,11 @@ haladéktalanul határoz.
 
 (2) A 173. § (1) bekezdés a) pontjában foglalt kapcsolattartási forma ellenőrzését, ha ezt a maga számára fenntartotta, a rendelkezési jogkör gyakorlója végzi; ebből a célból az intézet megküldi a levelet a rendelkezési jogkör gyakorlójának. A 174. § (2) bekezdésében foglalt határidőt a rendelkezési jogkör gyakorlójának döntésétől kell számítani.
 
-(2a) Az ügyészség, ha a büntetőügy jellege ezt indokolja, a rendelkezési jogkör gyakorlását a letartóztatottnak a hozzátartozóján kívüli más személlyel való kapcsolattartása engedélyezéséről való döntés tekintetében, valamint ha a 173. § (1) bekezdés a) pontja szerinti kapcsolattartás ellenőrzését a maga számára fenntartotta, az ellenőrzést a büntetőügyben eljáró nyomozó hatóságra átruházhatja.
+(2a) Az ügyészség, illetve az NVVH, ha a büntetőügy jellege ezt indokolja, a rendelkezési jogkör gyakorlását a letartóztatottnak a hozzátartozóján kívüli más személlyel való kapcsolattartása engedélyezéséről való döntés tekintetében, valamint ha a 173. § (1) bekezdés a) pontja szerinti kapcsolattartás ellenőrzését a maga számára fenntartotta, az ellenőrzést a büntetőügyben eljáró nyomozó hatóságra átruházhatja.
 
 (3) Ha a letartóztatottat – egészségi állapotára figyelemmel – bv. egészségügyi intézetben vagy gyógyintézetben kell elhelyezni, erről a rendelkezési jogkör gyakorlóját legkésőbb az elhelyezés megváltoztatásával egy időben értesíteni kell. Ha az elhelyezés megváltoztatására orvosilag indokolt sürgős esetben kerül sor, a rendelkezési jogkör gyakorlóját utólag haladéktalanul értesíteni kell. A rendelkezési jogkör gyakorlójának (1) bekezdés szerinti rendelkezését ebben az esetben is be kell tartani.
 
-(4) Ha a bírói értesítőlap vagy az ügyészi rendelvény a letartóztatás végrehajtására vonatkozó valamely kérdésben nem tartalmaz rendelkezést, az intézet a rendelkezési jogkör gyakorlóját haladéktalanul értesíti a döntés szükségességéről. A rendelkezési jogkör gyakorlójának döntéséig az intézet a letartóztatást a 392. § (2) és (5) bekezdése szerinti általános szabályok alkalmazásával hajtja végre.
+(4) Ha a bírói értesítőlap vagy az ügyészi, illetve az NVVH tagja által kiadott rendelvény a letartóztatás végrehajtására vonatkozó valamely kérdésben nem tartalmaz rendelkezést, az intézet a rendelkezési jogkör gyakorlóját haladéktalanul értesíti a döntés szükségességéről. A rendelkezési jogkör gyakorlójának döntéséig az intézet a letartóztatást a 392. § (2) és (5) bekezdése szerinti általános szabályok alkalmazásával hajtja végre.
 
 (5) A fogva tartó intézet haladéktalanul értesíti a rendelkezési jogkör gyakorlóját, ha
 
@@ -6680,7 +6680,7 @@ haladéktalanul határoz.
 
 (4) Ha szabadságvesztés végrehajtása alatt a letartóztatás tartama nem jár le, vagy azt nem szüntetik meg, a szabadságvesztés lejárta után a letartóztatás végrehajtását folyamatosan folytatni kell.
 
-(5) Ha az a büntetőügy, amelyben az intézet által megszakított letartóztatást elrendelték, még jogerősen nem fejeződött be, az intézet a szabadságvesztés végrehajtásának befejezése előtt harminc nappal megkeresi a bíróságot, vagy a vádemelés előtt az ügyészséget a letartóztatás kérdésében való döntés érdekében.
+(5) Ha az a büntetőügy, amelyben az intézet által megszakított letartóztatást elrendelték, még jogerősen nem fejeződött be, az intézet a szabadságvesztés végrehajtásának befejezése előtt harminc nappal megkeresi a bíróságot, vagy a vádemelés előtt az ügyészséget, illetve az NVVH-t a letartóztatás kérdésében való döntés érdekében.
 
 ### A letartóztatott jogai és kötelezettségei
 
@@ -6727,7 +6727,7 @@ haladéktalanul határoz.
 397. § A letartóztatott köteles
 
 - a) a fogva tartó intézet rendjét betartani,
-- b) a letartóztatást a bíróság vagy az ügyészség döntése alapján a fogva tartó intézetben tölteni,
+- b) a letartóztatást a bíróság vagy az ügyészség, illetve az NVVH döntése alapján a fogva tartó intézetben tölteni,
 - c) az önként vállalt és kérelmére kijelölt munkát ismereteinek és képességeinek megfelelően, fegyelmezetten, a munkahelyi és munkaköri szabályoknak megfelelően elvégezni, a munkavégzéssel kapcsolatos előírásokat megtartani,
 - d) ha a c) pont szerint munkát végez, jogszabályban meghatározottak szerint forma-, illetve munkaruhát viselni,
 - e) munkadíjából, illetve a letéti pénzéből a tartására fordított költségekhez hozzájárulni,
@@ -6765,7 +6765,7 @@ haladéktalanul határoz.
 
 401. § (1) A letartóztatottat – a rendelkezési jogkör gyakorlójának intézkedése alapján – a fogva tartó intézet a büntetőügy ügyiratainak megismeréséhez való jog gyakorlása érdekében előállítja. Az ügyiratok fogva tartó intézetben történő megismerésére felügyelet mellett kerülhet sor.
 
-(2) A letartóztatott jogosult az ellene folyamatban lévő büntetőeljárás során a bíróság, az ügyészség vagy a nyomozó hatóság által elektronikus eszközön átadott ügyiratokba vagy kiadott másolatba történő betekintéshez a fogva tartó intézet által biztosított számítástechnikai eszközt igénybe venni. Az ügyiratokba való betekintést – kellő időben előterjesztett kérelemre – a védővel való személyes kapcsolattartás során is biztosítani kell.
+(2) A letartóztatott jogosult az ellene folyamatban lévő büntetőeljárás során a bíróság, az ügyészség, illetve az NVVH vagy a nyomozó hatóság által elektronikus eszközön átadott ügyiratokba vagy kiadott másolatba történő betekintéshez a fogva tartó intézet által biztosított számítástechnikai eszközt igénybe venni. Az ügyiratokba való betekintést – kellő időben előterjesztett kérelemre – a védővel való személyes kapcsolattartás során is biztosítani kell.
 
 ### A kapcsolattartás közös szabályai
 
@@ -6816,11 +6816,11 @@ vehet részt.
 
 (3) A letartóztatott nyilatkozattétele vagy nyilatkozatának közzététele a bv. intézet rendje és biztonsága, valamint a büntetőeljárás eredményessége érdekében korlátozható.
 
-(4) Az országos parancsnok a 124. § (2) bekezdése szerinti kérelem benyújtásától számított három munkanapon belül javaslatot készít arról, hogy a nyilatkozattétel a (3) bekezdésben meghatározott érdekek valamelyikét sérti vagy veszélyezteti-e, és azt a kérelemmel együtt megküldi a vádemelés előtt az ügyészségnek, a vádemelés után a bíróságnak.
+(4) Az országos parancsnok a 124. § (2) bekezdése szerinti kérelem benyújtásától számított három munkanapon belül javaslatot készít arról, hogy a nyilatkozattétel a (3) bekezdésben meghatározott érdekek valamelyikét sérti vagy veszélyezteti-e, és azt a kérelemmel együtt megküldi a vádemelés előtt az ügyészségnek, illetve az NVVH-nak, a vádemelés után a bíróságnak.
 
 (5) A kérelemről az iratoknak a hozzá érkezésétől számított három munkanapon belül az iratok alapján
 
-- a) a vádemelés előtt az ügyészség határozattal,
+- a) a vádemelés előtt az ügyészség, illetve az NVVH határozattal,
 - b) a vádemelés után a bíróság végzéssel
 
 határoz.
@@ -6828,7 +6828,7 @@ határoz.
 (6) A határozat kézbesítésétől számított öt munkanapon belül
 
 - a) a nyilatkozattétel megtagadásáról szóló határozat ellen, az (5) bekezdés a) pontja esetén a Be. 374. § (2) bekezdése szerint felülbírálati indítványt terjeszthet elő, az (5) bekezdés b) pontja esetén fellebbezést nyújthat be a letartóztatott és a védője,
-- b) az (5) bekezdés b) pontja esetén, a nyilatkozattételt engedélyező határozat ellen az ügyészség fellebbezést nyújthat be.
+- b) az (5) bekezdés b) pontja esetén, a nyilatkozattételt engedélyező határozat ellen az ügyészség, illetve az NVVH fellebbezést nyújthat be.
 
 A felülbírálati indítványt, illetve a fellebbezést az iratokkal együtt haladéktalanul fel kell terjeszteni.
 
@@ -6839,9 +6839,9 @@ A felülbírálati indítványt, illetve a fellebbezést az iratokkal együtt ha
 
 bírálja el.
 
-(8) Ha az országos parancsnok a (3) bekezdés alapján a közzététel megtagadására lát okot, akkor erről a 125. § (2) bekezdése szerinti kérelem benyújtásától számított három munkanapon belül javaslatot tesz, és azt a kérelemmel és a közlésre szánt anyaggal együtt megküldi a vádemelés előtt az ügyészségnek, a vádemelés után a bíróságnak. Az ügyészség vagy a bíróság eljárására az (5)–(7) bekezdést kell alkalmazni.
+(8) Ha az országos parancsnok a (3) bekezdés alapján a közzététel megtagadására lát okot, akkor erről a 125. § (2) bekezdése szerinti kérelem benyújtásától számított három munkanapon belül javaslatot tesz, és azt a kérelemmel és a közlésre szánt anyaggal együtt megküldi a vádemelés előtt az ügyészségnek, illetve az NVVH-nak, a vádemelés után a bíróságnak. Az ügyészség, illetve az NVVH vagy a bíróság eljárására az (5)–(7) bekezdést kell alkalmazni.
 
-(9) Az ügyészség és a bíróság eljárására egyebekben a Be. szabályait kell alkalmazni.
+(9) Az ügyészség, illetve az NVVH és a bíróság eljárására egyebekben a Be. szabályait kell alkalmazni.
 
 (10) E § alkalmazásában a bv. intézet rendje és biztonsága alatt a fogva tartó intézet rendjét és biztonságát kell érteni.
 
@@ -7027,7 +7027,7 @@ között.
 (2) A katona letartóztatásának végrehajtására egyebekben a 386–387. és a 390–412. §-ban foglaltakat kell megfelelően alkalmazni azzal, hogy
 
 - a) a letartóztatás végrehajtása során a különböző állománycsoportú katonákat egymástól el kell különíteni,
-- b) a katona a bíróság, az ügyészség vagy más hatóság elé állításkor egyenruhát visel,
+- b) a katona a bíróság, az ügyészség, illetve az NVVH vagy más hatóság elé állításkor egyenruhát visel,
 - c) katona esetén a befogadásról és szabadításról értesíteni kell a munkáltatói jogkört gyakorló parancsnokot is.
 
 ### A nemzetközi bűnügyi együttműködéssel összefüggésben kényszerintézkedés hatálya alatt álló személy fogvatartása
@@ -7057,7 +7057,7 @@ között.
 
 (7) A rendelkezési jogkör gyakorlójának rendelkezését az elkülönítés, a fokozott őrzés, a kapcsolattartás tekintetében az előzetes kényszergyógykezelés végrehajtása során meg kell tartani. Ha az IMEI a rendelkezési jogkörbe tartozó döntés szükségességét észleli, erről a rendelkezési jogkör gyakorlóját haladéktalanul értesíti.
 
-425. § Az előzetes kényszergyógykezelés indokoltságának időszakos felülvizsgálata esetén a kórrajzkivonatot a felülvizsgálat indítványozására köteles ügyészségnek kell megküldeni az előzetes kényszergyógykezelés határidejének lejártát megelőző legalább tizenöt nappal.
+425. § Az előzetes kényszergyógykezelés indokoltságának időszakos felülvizsgálata esetén a kórrajzkivonatot a felülvizsgálat indítványozására köteles ügyészségnek, illetve az NVVH-nak kell megküldeni az előzetes kényszergyógykezelés határidejének lejártát megelőző legalább tizenöt nappal.
 
 426. § (1) Ha az előzetes kényszergyógykezelésre befogadott nem kóros elmeállapotú, az IMEI főigazgató főorvos haladéktalanul javaslatot tesz az előzetes kényszergyógykezelés megszüntetésére. A megszüntetésre jogosult intézkedéséig az IMEI – a rendelkezési jogkör gyakorlójának rendelkezése szerint – gondoskodik az őrzésről és a felügyeletről.
 
@@ -7066,7 +7066,7 @@ között.
 - a) ha az előzetes kényszergyógykezelés tartama eltelt és a felülvizsgálatra nem került sor, a lejárat napjával,
 - b) az eljárás megszüntetése esetén, az erről szóló határozat kézbesítésének a napjával.
 
-(3) Ha az ügyészség vagy a bíróság az előzetes kényszergyógykezelést megszünteti, a beteget – megfelelő igazolással ellátva – azon a napon kell elbocsátani, amelyen a kényszerintézkedés megszüntetéséről szóló értesítőlap az IMEI-be megérkezik.
+(3) Ha az ügyészség, illetve az NVVH vagy a bíróság az előzetes kényszergyógykezelést megszünteti, a beteget – megfelelő igazolással ellátva – azon a napon kell elbocsátani, amelyen a kényszerintézkedés megszüntetéséről szóló értesítőlap az IMEI-be megérkezik.
 
 (4) Ha az előzetes kényszergyógykezelés megszüntetésekor a terhelt letartóztatását rendelték el, szabadságvesztésre, elzárásra ítélték, haladéktalanul intézkedni kell a bv. intézetbe történő átszállítása iránt. Ha a beteg fekvőbeteg-gyógyintézeti ápolásra szorul, úgy az IMEI megfelelő osztályán kell gyógykezelését folytatni, vagy a BVEK megfelelő osztályára kell átszállítani. Részletes kórrajz-kivonatát a büntetés-végrehajtási egészségügyi anyagához csatolni kell.
 
@@ -7104,18 +7104,18 @@ felelős.
 
 (9) E fejezet alkalmazásában büntetés-végrehajtási őr alatt a fogdaőrt kell érteni.
 
-428. § (1) A fogda az őrizetbe vett személyt a bíróság, az ügyészség vagy a nyomozó hatóság határozata szerint a fogvatartásért felelős által kiállított rendelvény alapján fogadja be.
+428. § (1) A fogda az őrizetbe vett személyt a bíróság, az ügyészség, illetve az NVVH vagy a nyomozó hatóság határozata szerint a fogvatartásért felelős által kiállított rendelvény alapján fogadja be.
 
 (2) A fogda az őrizetbe vett személy befogadásáról
 
-- a) az őrizetet elrendelő bíróságot, ügyészséget vagy nyomozó hatóságot,
+- a) az őrizetet elrendelő bíróságot, ügyészséget, NVVH-t vagy nyomozó hatóságot,
 - b) katona esetén a munkáltatói jogkört gyakorló parancsnokot
 
 értesíti.
 
 (3) A fogda az őrizet Be. 274. § (3) bekezdése és 725. § (2) bekezdése szerinti határidejének lejártát, valamint a 38. § (5) bekezdése szerinti büntetés-végrehajtási őrizet határidejének lejártát – a Be. 274. § (5) bekezdése alapján az őrizet elrendelését megelőző hatósági fogvatartás beszámításával – nap, óra és perc megjelöléssel tartja nyilván.
 
-429. § (1) Az őrizetet elrendelő bíróság, ügyészség vagy nyomozó hatóság vezetője (az őrizet végrehajtása tekintetében a továbbiakban: a rendelkezési jogkör gyakorlója) dönt az őrizetbe vett személy
+429. § (1) Az őrizetet elrendelő bíróság, ügyészség, NVVH vagy nyomozó hatóság vezetője (az őrizet végrehajtása tekintetében a továbbiakban: a rendelkezési jogkör gyakorlója) dönt az őrizetbe vett személy
 
 - a) fokozott őrzéséről,
 - b) elkülönítéséről az ugyanabban az eljárásban letartóztatottaktól vagy őrizetbe vett személyektől,
@@ -7139,7 +7139,7 @@ felelős.
 
 (2) Ha a bíróság az őrizetbe vett személy letartóztatására vonatkozó indítványt elutasítja, az erről szóló végzés átadása után az őrizetbe vett személyt helyben szabadítani kell, de – kérelmére – az ülésről a fogdába visszaszállítható, ha a szabadulási igazolás kiadása és az elszámolás még aznap elvégezhető.
 
-(3) Az őrizetbe vett személy szabadításáról – a (2) bekezdés szerinti eset kivételével – az őrizetet elrendelő, vagy az azt megszüntető bíróságot, ügyészséget vagy nyomozó hatóságot kell értesíteni. Katona esetén a szabadításról értesíteni kell a munkáltatói jogkört gyakorló parancsnokot is.
+(3) Az őrizetbe vett személy szabadításáról – a (2) bekezdés szerinti eset kivételével – az őrizetet elrendelő, vagy az azt megszüntető bíróságot, ügyészséget, NVVH-t vagy nyomozó hatóságot kell értesíteni. Katona esetén a szabadításról értesíteni kell a munkáltatói jogkört gyakorló parancsnokot is.
 
 ### XXXII. Fejezet — A RENDBÍRSÁG HELYÉBE LÉPŐ ELZÁRÁS VÉGREHAJTÁSA
 

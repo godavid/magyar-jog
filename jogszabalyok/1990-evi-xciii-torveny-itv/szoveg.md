@@ -1047,7 +1047,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 (3)
 
-(4) Nem kell illetéket fizetni az eljárásnak abban a szakaszában, amelyben az ügyészség a vád képviseletét átvette.
+(4) Nem kell illetéket fizetni az eljárásnak abban a szakaszában, amelyben az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a vád képviseletét átvette.
 
 (5) Ha az illetéket az indítvány előterjesztésekor nem vagy hiányosan fizetik meg, az illetékfizetésre kötelezett személyt fel kell hívni, hogy azt 8 napon belül pótolja és figyelmeztetni kell az illeték meg nem fizetésének a büntetőeljárásról szóló törvényben meghatározott következményeire.
 
@@ -1476,7 +1476,7 @@ megfizetése
   - kb) az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy ugyanannak a hatóságnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, és törvény nem biztosít lehetőséget az eljárás felfüggesztésére;
 - l) ha a hatóság arról rendelkezik, hogy a kérelmező ügyfél mentesül az eljárási költségek megfizetése alól;
 - m) ha magánvádas eljárásban
-  - ma) a jogerős ügydöntő határozat meghozatalának időpontjában az ügyészség képviselte a vádat,
+  - ma) a jogerős ügydöntő határozat meghozatalának időpontjában az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal képviselte a vádat,
   - mb) a bíróság az eljárást a személyes meghallgatás megkezdése előtt vagy a személyes meghallgatás alapján megszünteti,
   - mc) a magánvádló a vádat legkésőbb az elsőfokú bíróság ügydöntő határozatának meghozataláig ejti,
   - md) a bíróság a vádlott bűnösségét megállapítja vagy az eljárást büntethetőséget megszüntető okból vagy vádelejtés miatt megszünteti, vagy

@@ -166,7 +166,7 @@ jár el;
 
 (5) E törvény alkalmazásában törvényes képviselőnek minősül a Polgári Törvénykönyvről szóló törvény szerinti szervezeti képviselő is.
 
-## MÁSODIK RÉSZ — A BÍRÓSÁG, AZ ÜGYÉSZSÉG ÉS A NYOMOZÓ HATÓSÁG
+## MÁSODIK RÉSZ — A BÍRÓSÁG, AZ ÜGYÉSZSÉG, A NEMZETI VAGYONVISSZASZERZÉSI ÉS VAGYONVÉDELMI HIVATAL ÉS A NYOMOZÓ HATÓSÁG
 
 ### III. Fejezet — A BÍRÓSÁG
 
@@ -214,7 +214,7 @@ jár el;
 
 14. § (1) Bíróként nem járhat el,
 
-- a) aki az ügyben ügyészként vagy a nyomozó hatóság tagjaként járt el, valamint az ügyben eljárt vagy eljáró ügyésznek vagy a nyomozó hatóság tagjának a hozzátartozója,
+- a) aki az ügyben ügyészként, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) tagjaként vagy a nyomozó hatóság tagjaként járt el, valamint az ügyben eljárt vagy eljáró ügyésznek, az NVVH tagjának vagy a nyomozó hatóság tagjának a hozzátartozója,
 - b) aki az ügyben terheltként, bűncselekmény elkövetésével megalapozottan gyanúsítható személyként, védőként, sértettként, vagyoni érdekeltként, feljelentőként vagy e személyek segítőjeként vesz vagy vett részt, valamint e személyek hozzátartozója,
 - c) aki az ügyben tanúként, szakértőként, vagy szaktanácsadóként vesz vagy vett részt,
 - d) aki az üggyel összefüggésben titkos információgyűjtés engedélyezéséről döntött, tekintet nélkül arra, hogy az így szerzett adatokat a büntetőeljárásban felhasználták-e,
@@ -382,7 +382,7 @@ merült fel.
 
 ### Az ügyészség feladata
 
-25. § (1) Az ügyészség a közvádló.
+25. § (1) Az ügyészség közvádló.
 
 (2) Az ügyészség nyomoz, felügyeli a felderítés törvényességét, valamint irányítja a vizsgálatot.
 
@@ -419,7 +419,7 @@ merült fel.
 
 (4) Az ügyészség irányítási és felügyeleti jogkörét, illetve a nyomozó hatóság eljárásának önállóságát nem érinti, ha a nyomozás során egyes eljárási cselekményeket az ügyészség maga végez.
 
-(5) Az ügyészség bármely ügyben magához vonhatja a nyomozást.
+(5) Az ügyészség bármely ügyben magához vonhatja a nyomozást, kivéve, ha az NVVH határozatot hozott az ügy saját hatáskörbe vonásáról.
 
 (6) Az ügyész azokat a jogokat gyakorolja, amelyek azt az ügyészséget illetik, ahol az ügyész működik. Eljárási cselekmény elvégzését kizárólag az eljáró ügyész felettes ügyésze tilthatja meg.
 
@@ -478,7 +478,7 @@ merült fel.
 
 ### A kizárólagos ügyészségi nyomozás
 
-30. § Kizárólag az ügyészség végzi a nyomozást a következő bűncselekmények miatt:
+30. § Ha e törvény eltérően nem rendelkezik, kizárólag az ügyészség végzi a nyomozást a következő bűncselekmények miatt:
 
 - a) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény,
 - b) a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja által elkövetett bűncselekmény,
@@ -491,6 +491,82 @@ merült fel.
 - f) a hivatali vesztegetés, a hivatali vesztegetés elfogadása, a vesztegetés bírósági vagy hatósági eljárásban, a vesztegetés elfogadása bírósági vagy hatósági eljárásban, a Btk. 298. § (1), (1a) és (3) bekezdése szerinti hivatalos személy vagy külföldi hivatalos személy vonatkozásában elkövetett befolyás vásárlása, a Btk. 299. § (1), (2) és (5) bekezdése szerinti hivatalos személy vagy külföldi hivatalos személy vonatkozásában elkövetett befolyással üzérkedés és a korrupciós bűncselekmény feljelentésének elmulasztása,
 - g) a nemzetközi bíróság előtt elkövetett igazságszolgáltatás elleni bűncselekmény,
 - h) az emberiesség elleni bűncselekmények büntetendőségéről és elévülésének kizárásáról, valamint a kommunista diktatúrában elkövetett egyes bűncselekmények üldözéséről szóló törvényben meghatározott kommunista bűncselekmények, valamint a nemzetközi jog szerint el nem évülő bűncselekmények.
+
+### IV/A. Fejezet — AZ NVVH
+
+### Az NVVH feladata
+
+30/A. § (1) Az NVVH a hatáskörébe tartozó ügyben közvádló.
+
+(2) Az NVVH a hatáskörébe tartozó ügyben nyomoz, felügyeli a felderítés törvényességét, valamint irányítja a vizsgálatot.
+
+(3) Az NVVH a hatáskörébe tartozó ügyben előkészítő eljárást végez és a más szerv által végzett előkészítő eljárásban ellátja az e törvényben meghatározott feladatait.
+
+(4) Az NVVH tekintetében az NVVH törvény szerint kijelölt vezetője gyakorolja a felettes ügyészségnek
+
+- a) az ügyészség felügyeleti és irányítási jogkörének gyakorlása feletti felügyeletére vonatkozó jogokat,
+- b) az ügyészség nyomozása feletti felügyeletére és irányítására vonatkozó jogokat, valamint
+- c) az e törvényben a felettes ügyészségre vonatkozó egyéb jogokat.
+
+### Az NVVH jogai
+
+30/B. § (1) Az NVVH a 30/F. § szerinti hatáskörében – az e törvényben meghatározott eltérésekkel, külön rendelkezés hiányában is – gyakorolja az ügyészség jogait és teljesíti kötelezettségeit.
+
+(2) E törvény alkalmazásában az NVVH eljárása során ügyészség alatt az NVVH-t, ügyész alatt az NVVH tagját kell érteni.
+
+(3) Az NVVH tagja azokat a jogokat gyakorolja, amelyek az NVVH-t illetik.
+
+(4) Az e törvényben az ügyészség vezetőjére előírt jogokat és kötelezettségeket az NVVH tekintetében az NVVH törvény szerint kijelölt vezetője gyakorolja. A 31. § (8) és (9) bekezdése alkalmazásának nincs helye az NVVH törvény szerint kijelölt vezetője írásbeli álláspontjával szemben.
+
+(5) Az e törvényben nem szabályozott jogviszonyokban az NVVH törvény szerinti tevékenységére az NVVH eljárása során megfelelően alkalmazni kell azokat a szabályokat, amelyek az ügyészség büntetőjogi tevékenységére, valamint ha a nyomozást az NVVH végzi, akkor a nyomozó hatóság tevékenységére vonatkoznak. E szabályok alkalmazása során figyelemmel kell lenni az NVVH-ra vonatkozó törvényi eltérésekre, az NVVH törvényben meghatározott feladat- és hatáskörére, valamint az adott eljárás jellegére.
+
+(6) Az (5) bekezdés alkalmazásában az NVVH eljárása során, ha jogszabály ügyészséget, ügyészt, felettes ügyészséget vagy ügyészség vezetőjét említi, azon – az NVVH adott feladatköréhez és eljárási szerepéhez igazodóan, az NVVH-ra vonatkozó törvényi eltérések figyelembevételével – az NVVH-t, az NVVH eljáró tagját, illetve az NVVH törvény szerint kijelölt vezetőjét kell érteni.
+
+30/C. § (1) Az NVVH a hatáskörébe tartozó ügyben a vádemelés előtt határozatot hozhat az ügy saját hatáskörbe vonásáról, különösen, ha az ügyben a rendelkezésre álló adatok alapján feltételezhető, hogy ezzel a bűncselekménnyel összefüggésben szerzett, közvagyonból származó vagyon visszaszerzése és az állam büntetőjogi igényének érvényesítése hatékonyabban látható el.
+
+(2) Az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozatát közölni kell az eljáró ügyészséggel, nyomozó hatósággal, előkészítő eljárást lefolytató szervvel, továbbá a terhelttel, a bűncselekmény elkövetésével megalapozottan gyanúsítható személlyel, a sértettel, a feljelentővel, a magánindítvány előterjesztőjével és a védővel.
+
+(3) Az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozata ellen nincs helye jogorvoslatnak és nem érinti az ügyészségen kívüli büntetőeljárást lefolytató szervek vagy büntetőeljárásban részt vevő személyek jogait és kötelezettségeit, valamint a folyamatban lévő határidőket.
+
+(4) Az ügyészség – e törvényben meghatározott kivételekkel – nem gyakorolhatja e törvényben meghatározott hatáskörét az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozata meghozatalát követően. Ha az eljárási cselekmény elvégzésével járó késedelem az eljárási cselekmény eredményességét veszélyeztetné, akkor az ügyészség köteles elvégezni az olyan eljárási cselekményt, amelyre az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozata hiányában jogosult lenne, köteles azonban erről az NVVH-t haladéktalanul tájékoztatni.
+
+### Az NVVH tagjának kizárása
+
+30/D. § (1) Az NVVH tagjaként nem járhat el,
+
+- a) aki az ügyben bíróként járt el, valamint az ügyben eljárt vagy eljáró bíró hozzátartozója,
+- b) aki az ügyben terheltként, bűncselekmény elkövetésével megalapozottan gyanúsítható személyként, védőként, sértettként, vagyoni érdekeltként, feljelentőként vagy e személyek segítőjeként vesz vagy vett részt, valamint e személyek hozzátartozója,
+- c) aki az ügyben tanúként, a tanú segítőjeként, szakértőként vagy szaktanácsadóként vesz vagy vett részt,
+- d) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
+
+(2) Az (1) bekezdésben meghatározott kizárási ok kizárólag az NVVH ügyben eljáró tagjával szemben jelenthető be.
+
+(3) A perújítási eljárásból ki van zárva az NVVH azon tagja, aki az alapügyben a nyomozást teljesítette, egyes eljárási cselekményeket végzett, vádat emelt, illetve a vádat képviselte.
+
+(4) Nem kizárási ok, ha az NVVH tagja a hivatali hatáskörében tudomására jutott bűncselekmény miatt feljelentést tett.
+
+(5) Az (1) bekezdés d) pontja esetén önmagában nem kizárási ok, ha az NVVH tagja a sérelmére a büntetőeljárásban részt vevő személy által az eljárása alatt, illetve emiatt elkövetett bűncselekmény miatt feljelentést tett.
+
+(6) Nem járhat el az ügyben az NVVH, ha az NVVH eljáró, törvény szerint kijelölt vezetőjével szemben az (1) bekezdésben meghatározott kizárási ok merült fel.
+
+30/E. § (1) Ha az NVVH tagja a kizárási okot nem maga jelentette be, a bejelentés elintézéséig az ügyben korlátozás nélkül eljárhat.
+
+(2) Az NVVH tagjának kizárásáról az NVVH törvény szerint kijelölt vezetője határoz. Az NVVH eljáró, törvény szerint kijelölt vezetőjét vagy az őt is érintő kizárási okról
+
+- a) a vádemelés előtt az NVVH törvény szerint kijelölt vezetője indítványára a bíróság a felülbírálati indítvány elbírálására vonatkozó szabályok megfelelő alkalmazásával, vagy
+- b) a vádemelés után a 19–22. § alapján hatáskörrel és illetékességgel rendelkező bíróság hivatalból vagy indítványra határoz.
+
+(3) Az NVVH tagjának kizárására egyebekben a 28. § (1)–(5) és (7) bekezdését kell alkalmazni. A kizárásnak helyt adó határozat ellen, valamint a vádemelés után a kizárást megtagadó határozat ellen jogorvoslatnak nincs helye.
+
+### Az NVVH hatásköre és illetékessége
+
+30/F. § (1) Az NVVH országos illetékességgel jár el a 817/A. § (1) bekezdésében meghatározott közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmények miatt, ha határozatot hozott az ügy saját hatáskörbe vonásáról. Az NVVH a nyomozás elrendelésével egyidejűleg az ügy saját hatáskörbe vonásáról is rendelkezik.
+
+(2) Az NVVH hatásköre kiterjed a terhelt által elkövetett valamennyi bűncselekményre, ha ezek közül valamelyik az (1) bekezdésben meghatározott bűncselekmény és az elkülönítés nem lehetséges.
+
+(3) Több terhelt esetén akkor van helye az NVVH eljárásának, ha a terheltek valamelyikének bűncselekménye az (1) bekezdésben meghatározott bűncselekmény, és az eljárás elkülönítése – tekintettel a tényállás szoros összefüggésére – nem lehetséges.
+
+(4) Az NVVH az ügy saját hatáskörbe vonásáról szóló határozatot akkor helyezheti hatályon kívül, ha a cselekmény nem minősül a 817/A. § (1) bekezdésében meghatározott közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekménynek.
 
 ### V. Fejezet — A NYOMOZÓ HATÓSÁG
 
@@ -1673,7 +1749,7 @@ biztosítja.
 
 (9) A bíróság, az ügyészség és a nyomozó hatóság – e törvény eltérő rendelkezésének hiányában – az indítvány előterjesztésétől számított tizenöt napon belül biztosítja az eljárás (2) bekezdés szerint meghatározott ügyiratai közül azoknak a megismerését, amelyek vonatkozásában a megismerést nem korlátozta.
 
-101. § (1) Bíróság, ügyészség, közjegyző, bírósági végrehajtó, állami adó- és vámhatóság, pártfogó felügyelő, megelőző pártfogó felügyelő, nyomozó hatóság, büntetés-végrehajtási szerv, közigazgatási hatóság, kormányzati ellenőrzési szerv, az Integritás Hatóság, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, a rendőrség terrorizmust elhárító szerve, a katona terhelt állományilletékes parancsnoka a törvényben meghatározott feladata ellátásához szükséges mértékben és időtartamban megismerheti az eljárás ügyiratait. A megismerési jog a nyomozás befejezéséig az eljárás érdekeire figyelemmel korlátozható. A megismerés korlátozása ellen nincs helye jogorvoslatnak.
+101. § (1) Bíróság, ügyészség, az NVVH, közjegyző, bírósági végrehajtó, állami adó- és vámhatóság, pártfogó felügyelő, megelőző pártfogó felügyelő, nyomozó hatóság, büntetés-végrehajtási szerv, közigazgatási hatóság, kormányzati ellenőrzési szerv, az Integritás Hatóság, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, a rendőrség terrorizmust elhárító szerve, a katona terhelt állományilletékes parancsnoka a törvényben meghatározott feladata ellátásához szükséges mértékben és időtartamban megismerheti az eljárás ügyiratait. A megismerési jog a nyomozás befejezéséig az eljárás érdekeire figyelemmel korlátozható. A megismerés korlátozása ellen nincs helye jogorvoslatnak.
 
 (2) Törvénnyel kihirdetett nemzetközi szerződéssel vagy európai uniós jogi aktussal létrehozott szerv, a szerv ilyen jogforrásban meghatározott feladatainak ellátásához szükséges mértékben és időtartamban az (1) bekezdésben foglaltak szerint ismerheti meg az eljárás ügyiratait.
 
@@ -2359,6 +2435,8 @@ történő utasítását.
 (3) A járásbíróság mulasztásával szemben előterjesztett kifogást a törvényszék három hivatásos bíróból álló tanácsa, a törvényszék mulasztásával szemben előterjesztett kifogást az ítélőtábla három hivatásos bíróból álló tanácsa, az ítélőtábla mulasztásával szemben előterjesztett kifogást a Kúria három hivatásos bíróból álló tanácsa, a Kúria mulasztásával szemben előterjesztett kifogást a Kúria másik tanácsa az ügyiratok felterjesztésétől számított tizenöt napon belül tanácsülésen bírálja el.
 
 (4) Az ügyészség mulasztásával szemben előterjesztett kifogást a felettes ügyészség, a Legfőbb Ügyészség mulasztásával szemben előterjesztett kifogást a legfőbb ügyész, a nyomozó hatóság mulasztásával szemben előterjesztett kifogást az ügyészség az ügyiratok felterjesztésétől számított tizenöt napon belül bírálja el.
+
+(4a) Az NVVH törvény szerint kijelölt vezetője mulasztásával szemben előterjesztett kifogást a bíróság a felülbírálatra vonatkozó rendelkezések alkalmazásával bírálja el.
 
 (5) Ha a kifogást elbíráló bíróság, vagy ügyészség a kifogásban foglaltaknak helyt ad, a mulasztó bíróságot, ügyészséget, vagy nyomozó hatóságot határidő tűzésével a 143. § (1) bekezdés a) pontjában foglalt esetben az ügy továbbviteléhez szükséges intézkedés megtételére, a 143. § (1) bekezdés b) pontjában foglalt esetben az adott ügyben leghatékonyabb intézkedés foganatosítására hívja fel. A kifogást elbíráló bíróság a felhívásban – a 143. § (1) bekezdés a) pontjában foglalt esetet kivéve – az eljáró bíróságot meghatározott eljárási cselekmény elvégzésére nem utasíthatja.
 
@@ -5279,6 +5357,8 @@ fejezi be.
 
 (3) Az ügyészségi nyomozás során az ügyészség és a nemzetbiztonsági szolgálatok együttműködését a legfőbb ügyész és a nemzetbiztonsági szolgálatok főigazgatói megállapodásban határozzák meg.
 
+(4) Azokra az eljárásokra nézve, amelyekben az ügyészségi nyomozásra vonatkozó rendelkezéseket az NVVH által folytatott nyomozás során kell alkalmazni, a nemzetbiztonsági szolgálatok főigazgatóival az NVVH törvény szerint kijelölt vezetője köthet megállapodást.
+
 ### Áttétel
 
 350. § (1) Ha az ügyészségnek, illetve a nyomozó hatóságnak az ügy elintézésére nincs hatásköre vagy illetékessége, az ügyet átteszi a hatáskörrel, illetve illetékességgel rendelkező ügyészséghez vagy nyomozó hatósághoz.
@@ -5631,7 +5711,7 @@ készítését.
 
 (3) A panaszt annak előterjesztője mindaddig visszavonhatja, amíg azt érdemben el nem bírálták. A visszavont panaszt újból előterjeszteni nem lehet.
 
-(4) A Legfőbb Ügyészség határozata ellen nincs helye panasznak.
+(4) A Legfőbb Ügyészség és – ha e törvény eltérően nem rendelkezik – az NVVH törvény szerint kijelölt vezetőjének a határozata ellen nincs helye panasznak.
 
 370. § (1) A határozatot hozó ügyészség vagy nyomozó hatóság a panaszt annak érkezését követő nyolc napon belül megvizsgálja, és ha azt alaposnak tartja, a határozatot hatályon kívül helyezi, vagy megváltoztatja.
 
@@ -5723,7 +5803,7 @@ elrendelését sérelmezte,
 
 (2) Nyomozást az ügyészség vagy a nyomozó hatóság rendel el.
 
-(3) Az ügyészség vagy a nyomozó hatóság tájékoztatja a sértettet a nyomozás elrendeléséről, ha a sértett személye és elérhetősége ismert. A nyomozó hatóság az általa elrendelt nyomozásról huszonnégy órán belül tájékoztatja az ügyészséget.
+(3) Az ügyészség vagy a nyomozó hatóság tájékoztatja a sértettet a nyomozás elrendeléséről, ha a sértett személye és elérhetősége ismert. A nyomozó hatóság az általa elrendelt nyomozásról huszonnégy órán belül tájékoztatja az ügyészséget. Az ügyészség vagy a nyomozó hatóság a 817/A. § (1) bekezdésében meghatározott közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt általa elrendelt nyomozásról huszonnégy órán belül tájékoztatja az NVVH-t.
 
 (4) Késedelmet nem tűrő esetben bármely nyomozó hatóság végezhet eljárási cselekményt, köteles azonban erről a hatáskörrel és illetékességgel rendelkező nyomozó hatóságot haladéktalanul tájékoztatni.
 
@@ -5772,6 +5852,8 @@ elrendelését sérelmezte,
 (2) A feljelentés kiegészítése során az ügyészség, illetve a nyomozó hatóság a 267. § szerinti adatgyűjtést végezhet, a feljelentőtől felvilágosítás adását, iratok és adatok rendelkezésre bocsátását, valamint a kár, vagyoni hátrány, adóbevétel-csökkenés, vámbevétel-csökkenés vagy a bűncselekmény elkövetési értékének közlését kérheti. Ennek során az ügyészség, illetve a nyomozó hatóság – ha azt korábban nem tette meg – figyelmezteti a feljelentőt a hamis vád és a hatóság félrevezetésének következményeire.
 
 (3) Ha a büntetőeljárás megindítását a 4. § (9) bekezdése vagy a Btk. 3. § (3) bekezdése alapján a legfőbb ügyész jogosult elrendelni, az ügyészség, illetve a nyomozó hatóság a feljelentés kiegészítése során gondoskodik a legfőbb ügyész döntésének beszerzéséről.
+
+(3a) Ha az NVVH az ügy saját hatáskörbe vonásáról határozott, a (3) bekezdés alkalmazása során az NVVH törvény szerint kijelölt vezetőjének a döntését kell beszerezni.
 
 (4) A feljelentés kiegészítésének határideje egy hónap.
 
@@ -8424,6 +8506,8 @@ a későbbiekben nem terjesztheti ki.
 
 (2) Az ügyészség fellebbezését az ügyiratok felterjesztése után a másodfokú bíróság mellett működő ügyészség vonhatja vissza. Ha az ügyészség a fellebbezést visszavonja, és más nem fellebbezett, az ügyiratokat a nyilatkozatával együtt visszaküldi az elsőfokú bíróságnak.
 
+(2a) Az NVVH fellebbezését az ügyiratok felterjesztése után az NVVH törvény szerint kijelölt vezetője visszavonhatja.
+
 (3) A vádlott javára más által bejelentett fellebbezést a fellebbező csak a vádlott hozzájárulásával vonhatja vissza. Ez a rendelkezés nem vonatkozik az ügyészség fellebbezésére.
 
 (4) A visszavont fellebbezést nem lehet újból előterjeszteni.
@@ -8432,11 +8516,11 @@ a későbbiekben nem terjesztheti ki.
 
 588. § (1) A törvényben kizárt, az arra nem jogosulttól származó vagy az elkésett fellebbezést az elsőfokú bíróság elutasítja. Az ismételten ilyen módon előterjesztett fellebbezést a bíróság érdemi indokolás nélkül utasítja el.
 
-(2) Ha a fellebbezési határidő valamennyi jogosultra lejárt, az egyesbíró vagy az elsőfokú bíróság tanácsának elnöke az ügyiratokat – a másodfokú bíróság mellett működő ügyészség útján – az ügydöntő határozat írásba foglalását követően haladéktalanul felterjeszti a másodfokú bírósághoz.
+(2) Ha a fellebbezési határidő valamennyi jogosultra lejárt, az egyesbíró vagy az elsőfokú bíróság tanácsának elnöke az ügyiratokat – a másodfokú bíróság mellett működő ügyészség vagy az NVVH törvény szerint kijelölt vezetője útján – az ügydöntő határozat írásba foglalását követően haladéktalanul felterjeszti a másodfokú bírósághoz.
 
 (3) Ha olyan eljárási szabálysértésre alapítottak fellebbezést, amelynek a körülményei az ügyiratokból nem tűnnek ki, az egyesbíró vagy a tanács elnöke erről a felterjesztésben felvilágosítást ad.
 
-(4) A másodfokú bíróság mellett működő ügyészség az ügyiratokat az indítványával egy hónapon belül, különösen bonyolult vagy nagy terjedelmű ügyben két hónapon belül megküldi a másodfokú bíróságnak. Kivételes esetben az ügyészség vezetője a határidőt további egy hónappal meghosszabbíthatja.
+(4) A másodfokú bíróság mellett működő ügyészség vagy az NVVH fellebbezése esetén az NVVH az ügyiratokat az indítványával egy hónapon belül, különösen bonyolult vagy nagy terjedelmű ügyben két hónapon belül megküldi a másodfokú bíróságnak. Kivételes esetben az ügyészség vezetője vagy az NVVH törvény szerint kijelölt vezetője a határidőt további egy hónappal meghosszabbíthatja.
 
 ## TIZENÖTÖDIK RÉSZ — A MÁSODFOKÚ BÍRÓSÁGI ELJÁRÁS
 
@@ -8568,7 +8652,7 @@ eredményezi.
 
 - a) intézkedik – szükség esetén – a hiányok pótlása, az ügyiratok kiegészítése, új ügyiratok beszerzése vagy az elsőfokú bíróságtól felvilágosítás megszerzése iránt,
 - b) az ügyiratokat visszaküldi az elsőfokú bíróságnak, ha a fellebbezéseket visszavonták,
-- c) a vádlottnak és a védőnek kézbesíti a más által bejelentett fellebbezést és a másodfokú bíróság mellett működő ügyészség indítványát,
+- c) a vádlottnak és a védőnek kézbesíti a más által bejelentett fellebbezést és a másodfokú bíróság mellett működő ügyészség vagy az NVVH fellebbezése esetén az NVVH törvény szerint kijelölt vezetője indítványát,
 - d) a vádlott vagy a védő fellebbezésének indokolását megküldi a másodfokú bíróság mellett működő ügyészségnek, ha azt a másodfokú bíróság előtt terjesztették elő és közvetlenül még nem küldték meg neki,
 - e) vizsgálja, hogy a másodfokú eljárásban kötelező-e az ügyész és a védő jelenléte,
 - f) vizsgálja, szükséges-e személyi szabadságot érintő bírói engedélyes kényszerintézkedéssel kapcsolatban határozni.
@@ -8678,7 +8762,7 @@ eredményezi.
 - b) a bíróságnak az (1) bekezdésben meghatározott döntését,
 - c) az 561. § (2) bekezdés b) pontjában meghatározott személyes adatot abban az esetben, ha az megváltozott.
 
-(4) A határozat indokolása tartalmazza az elsőfokú bíróság ítélete rendelkező részének és a másodfokú bíróság mellett működő ügyészség indítványának lényegét, azt, hogy ki, miért fellebbezett, és kifejti a bíróság döntésének indokait, szükség esetén az 561. § (3) bekezdés b)–g) pontjában, az 564. § (4) bekezdés a), illetve b) pontjában, az 566. § (4) bekezdésében vagy az 567. § (5) bekezdésében meghatározottak feltüntetésével.
+(4) A határozat indokolása tartalmazza az elsőfokú bíróság ítélete rendelkező részének és a másodfokú bíróság mellett működő ügyészség vagy az NVVH fellebbezése esetén az NVVH törvény szerint kijelölt vezetője indítványának lényegét, azt, hogy ki, miért fellebbezett, és kifejti a bíróság döntésének indokait, szükség esetén az 561. § (3) bekezdés b)–g) pontjában, az 564. § (4) bekezdés a), illetve b) pontjában, az 566. § (4) bekezdésében vagy az 567. § (5) bekezdésében meghatározottak feltüntetésével.
 
 ### Az elsőfokú bíróság ítéletének helybenhagyása
 
@@ -9099,6 +9183,8 @@ tanácsülésen bírálja el.
 
 terjeszthet elő perújítási indítványt.
 
+(2a) Ha az alapügyben az NVVH az ügy saját hatáskörbe vonásáról határozatot hozott, a perújítási indítványt az ügyészség helyett az NVVH terjesztheti elő.
+
 (3) A terhelt és a védő a 637. § (1) bekezdés g) pontjára alapított perújítási indítványt attól a naptól számított egy hónapon belül terjesztheti elő, amelyen a terhelt az alapügyet befejező ügydöntő határozat jogerőre emelkedéséről tudomást szerzett. A büntetés végrehajtása érdekében kibocsátott elfogatóparancs esetén a terhelt tudomásszerzésének az ítéletnek a terhelt büntetés-végrehajtási intézetbe történt befogadását követő kézbesítését kell tekinteni.
 
 (4) A perújítási indítványban meg kell jelölni az alapügyet, amely ellen a perújítás irányul, az indítvány okát, valamint a perújítás alapjául szolgáló tényeket és azok bizonyítékait. A 637. § (1) bekezdés g) pontjára alapított perújítási indítványban valószínűsíteni kell az alapügyet befejező ügydöntő határozat jogerőre emelkedéséről való tudomásszerzés időpontját is.
@@ -9314,9 +9400,15 @@ hozta meg.
 
 terjeszthet elő felülvizsgálati indítványt.
 
+(2a) Ha az alapügyben az NVVH az ügy saját hatáskörbe vonásáról határozatot hozott, a felülvizsgálati indítványt az ügyészség helyett az NVVH terjesztheti elő.
+
 (3) A 649. § (3)–(5) bekezdésében meghatározott esetben a legfőbb ügyész hivatalból előterjeszti a felülvizsgálati indítványt.
 
+(3a) A (3) bekezdés szerinti esetben az NVVH nem terjeszthet elő felülvizsgálati indítványt.
+
 (4) Ha valamely hatóság vagy hivatalos személy a hivatali hatáskörében azt észleli, hogy a terhelt sérelmére felülvizsgálati eljárás alapjául szolgáló törvénysértés történt, köteles erről a legfőbb ügyészt tájékoztatni.
+
+(5) Ha az alapügyben az NVVH az ügy saját hatáskörbe vonásáról határozott, a legfőbb ügyész a felülvizsgálati eljárás alapjául szolgáló törvénysértésről tájékoztatja az NVVH-t.
 
 652. § (1) A felülvizsgálati indítványban meg kell jelölni azt a határozatot, amely ellen a felülvizsgálati indítvány irányul, valamint az indítvány előterjesztésének okát és célját. A 649. § (6) bekezdése esetén meg kell jelölni a Kúria Bírósági Határozatok Gyűjteményében közzétett határozatát és annak azt a részét, amelytől a felülvizsgálattal támadott ügydöntő határozat eltér.
 
@@ -9340,7 +9432,7 @@ terjeszthet elő felülvizsgálati indítványt.
 
 (3) A bíróság a felülvizsgálati indítványt az alapügy ügyirataival együtt egy hónapon belül felterjeszti a Kúriához.
 
-(4) A legfőbb ügyész a felülvizsgálati indítványát – az alapügy ügyirataival együtt – közvetlenül a Kúriánál terjeszti elő.
+(4) A legfőbb ügyész vagy az NVVH törvény szerint kijelölt vezetője a felülvizsgálati indítványát – az alapügy ügyirataival együtt – közvetlenül a Kúriánál terjeszti elő.
 
 654. § (1) A felülvizsgálati indítvány a Kúria határozathozatal céljából tartott tanácsüléséig visszavonható.
 
@@ -9379,6 +9471,8 @@ terjeszthet elő felülvizsgálati indítványt.
 
 657. § (1) Ha a felülvizsgálati indítvány elutasításának nincs helye, és az alapügyben a vádat az ügyészség képviselte, a Kúria az indítványt az alapügy ügyirataival együtt nyilatkozattétel érdekében megküldi a Legfőbb Ügyészségnek.
 
+(1a) Ha a felülvizsgálati indítvány elutasításának nincs helye, és az alapügyben a vádat az NVVH képviselte, a Kúria az indítványt az alapügy ügyirataival együtt nyilatkozattétel érdekében megküldi az NVVH-nak.
+
 (2) Az ügyészség az alapügy ügyiratait a nyilatkozatával együtt egy hónapon belül, különösen bonyolult vagy nagy terjedelmű ügyben két hónapon belül visszaküldi a Kúriának.
 
 (3) A Kúria megküldi az ügyészség nyilatkozatát a felülvizsgálati indítvány előterjesztőjének. A terhelt és a védő részére meg kell küldeni a más által benyújtott felülvizsgálati indítványt, és az arra tett ügyészségi nyilatkozatot.
@@ -9413,6 +9507,8 @@ terjeszthet elő felülvizsgálati indítványt.
 - b) ezt a tanács elnöke egyéb okból szükségesnek tartja.
 
 661. § (1) A nyilvános ülésen a védő, valamint ha a vádat az ügyészség képviselte, a legfőbb ügyész vagy képviselőjének jelenléte kötelező.
+
+(1a) Ha a vádat az NVVH képviselte, a nyilvános ülésen az NVVH törvény szerint kijelölt vezetőjének vagy az NVVH képviselőjének a jelenléte kötelező.
 
 (2) A nyilvános ülésről a terheltet és a 651. § (2) bekezdés d)–f) pontjában felsorolt jogosultakat értesíteni kell.
 
@@ -9470,6 +9566,8 @@ terjeszthet elő felülvizsgálati indítványt.
 666. § A törvényesség érdekében bejelentett jogorvoslat esetén a XC. Fejezet rendelkezéseit az e Fejezetben meghatározott eltérésekkel kell alkalmazni.
 
 667. § (1) A legfőbb ügyész a törvényesség érdekében jogorvoslatot jelenthet be a bíróság törvénysértő jogerős ügydöntő határozata és végleges nem ügydöntő végzése ellen.
+
+(1a) Az NVVH nem jelenthet be törvényesség érdekében jogorvoslatot. Ha az alapügyben a vádat az NVVH képviselte, a törvényesség érdekében jogorvoslatot a legfőbb ügyész jelentheti be.
 
 (2) Nincs helye a jogorvoslat bejelentésének, ha
 
@@ -9613,6 +9711,8 @@ terjeszthet elő felülvizsgálati indítványt.
 ### XCV. Fejezet — A FIATALKORÚ ELLENI BÜNTETŐELJÁRÁS
 
 676. § A fiatalkorú elleni büntetőeljárásban e törvény rendelkezéseit az e Fejezetben foglalt eltérésekkel kell alkalmazni.
+
+676/A. § A fiatalkorú elleni büntetőeljárásban az NVVH nem határozhat az ügy saját hatáskörbe vonásáról.
 
 ### A fiatalkorú elleni büntetőeljárás célja
 
@@ -9889,6 +9989,8 @@ esetén.
 
 700. § (1) A katonai büntetőeljárásban az ügyészség feladatát a legfőbb ügyész által kijelölt ügyészség látja el. A katonai büntetőeljárásban katonai ügyész, illetve a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyész jár el.
 
+(1a) A katonai büntetőeljárásban az NVVH az ügyészség feladatát elláthatja. A katonai büntetőeljárásban az NVVH tagja is eljárhat.
+
 (2) Az ügyészség végzi a nyomozást
 
 - a) a katona által elkövetett
@@ -10074,7 +10176,7 @@ tartja szükségesnek.
 
 719. § (1) A törvényben meghatározott mentelmi joggal rendelkező személyt gyanúsítottként kihallgatni, vele szemben kényszerintézkedést alkalmazni és vádat emelni csak a mentelmi jog felfüggesztését követően lehet. A mentelmi joggal rendelkező személy tettenérése esetén vele szemben e törvény szerinti kényszerintézkedés alkalmazható.
 
-(2) Ha a büntetőeljárásban adat merül fel arra, hogy a mentelmi joggal rendelkező személy gyanúsítotti kihallgatásának, vele szemben kényszerintézkedés alkalmazásának vagy vádemelésnek van helye, indítványozni kell a mentelmi jog felfüggesztésére jogosult döntését. A mentelmi jog felfüggesztése iránti indítványt a vádemelés előtt a legfőbb ügyész, azután, valamint magánvádas és pótmagánvádas ügyben a bíróság terjeszti elő. Tettenérés esetén az indítványt haladéktalanul elő kell terjeszteni.
+(2) Ha a büntetőeljárásban adat merül fel arra, hogy a mentelmi joggal rendelkező személy gyanúsítotti kihallgatásának, vele szemben kényszerintézkedés alkalmazásának vagy vádemelésnek van helye, indítványozni kell a mentelmi jog felfüggesztésére jogosult döntését. A mentelmi jog felfüggesztése iránti indítványt a vádemelés előtt a legfőbb ügyész, valamint – ha az NVVH az ügy saját hatáskörbe vonásáról határozott – az NVVH törvény szerint kijelölt vezetője, azután, valamint magánvádas és pótmagánvádas ügyben a bíróság terjeszti elő. Tettenérés esetén az indítványt haladéktalanul elő kell terjeszteni.
 
 (3) Az indítvány benyújtásával egyidejűleg a büntetőeljárást fel kell függeszteni.
 
@@ -12661,6 +12763,8 @@ az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési �
 876/D. § Ha az elsőfokú bíróság gazdálkodással összefüggő kiemelt bűncselekmény miatt a 13. § (3) bekezdése alapján járt el három hivatásos bíróból álló tanácsban, a büntetőjogi tárgyú és ehhez kapcsolódóan egyéb törvények módosításáról szóló 2023. évi XCVII. törvény 1–9. alcíme hatálybalépését követően a tanács elnökének döntése alapján egyesbíróként, vagy változatlan összetételű tanácsban jár el.
 
 876/E. § E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel (a továbbiakban: 2024. évi XXX. törvény) megállapított 861. §-át és 862. §-át a 2024. évi XXX. törvény hatálybalépésekor folyamatban lévő kegyelmi eljárásokban is alkalmazni kell azzal, hogy a köztársasági elnök kegyelmi döntésről szóló, miniszteri ellenjegyzési jog gyakorlása érdekében megküldött határozata – amennyiben a miniszteri ellenjegyzési jog gyakorlására 2024. június 30-ig nem került sor – 2024. július 1-jén válik érvényessé.
+
+876/F. § A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény e törvény módosítására vonatkozó rendelkezései hatálybalépésének időpontjában a 817/A. § (1) bekezdésében meghatározott közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt folyamatban levő nyomozás esetén az ügyészség vagy a nyomozó hatóság a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény e törvény módosítására vonatkozó rendelkezései hatálybalépésének időpontjától számított hat hónapon belül tájékoztatja az NVVH-t a nyomozás állásáról.
 
 ### Sarkalatossági záradék
 

@@ -1210,7 +1210,7 @@ illetménynek megfelelő összeg.
 - a) a rendfokozatot érintő fegyelmi fenyítés, vagy bírósági ítélet hatálya alatt áll vagy
 - b) ellene büntető-, fegyelmi vagy érdemtelenségi eljárás van folyamatban.
 
-(4) Ha a nemzetbiztonsági állomány tagját a (3) bekezdés b) pontja miatt nem léptették elő rendfokozatban és az eljárás nem végződött rendfokozatot érintő büntetés, fenyítés kiszabásával, a szolgálati viszony megszüntetésével, lefokozással vagy az érdemtelenség megállapításával, a nemzetbiztonsági állomány tagja büntetőeljárás esetén a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor vagy a fegyelmi, érdemtelenségi eljárás jogerős befejezésekor léptethető elő, a várakozási idő leteltének időpontjára visszamenőleges hatállyal.
+(4) Ha a nemzetbiztonsági állomány tagját a (3) bekezdés b) pontja miatt nem léptették elő rendfokozatban és az eljárás nem végződött rendfokozatot érintő büntetés, fenyítés kiszabásával, a szolgálati viszony megszüntetésével, lefokozással vagy az érdemtelenség megállapításával, a nemzetbiztonsági állomány tagja büntetőeljárás esetén a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor vagy a fegyelmi, érdemtelenségi eljárás jogerős befejezésekor léptethető elő, a várakozási idő leteltének időpontjára visszamenőleges hatállyal.
 
 81. § (1) A nemzetbiztonsági állomány – nem vezetői beosztást betöltő – tagja soron kívül eggyel magasabb rendfokozatba előléptethető vagy kinevezhető, ha
 
@@ -1621,7 +1621,7 @@ időtartamban teljesített rendkívüli szolgálatteljesítés esetén. Az a)–
 - e) a jogszabály szerinti örökbefogadás előkészítése időszakában – az örökbe fogadható gyermekkel történő személyes találkozás céljából – évente legfeljebb 10 munkanapra,
 - f) a szoptató anya a szoptatás első 6 hónapjában naponta kétszer 1 órára, a 9. hónap végéig naponta 1 órára, ikrek esetében az ikrek számának megfelelő mértékben,
 - g) a véradás miatt távol töltött teljes időtartamra, legalább 4 órára,
-- h) bíróság, ügyészség, nyomozó hatóság vagy más hatóság idézésére, értesítésére, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
+- h) bíróság, ügyészség, NVVH, nyomozó hatóság vagy más hatóság idézésére, értesítésére, vagy az eljárásban való személyes részvételhez szükséges időtartamra,
 - i) – ha továbbfoglalkoztatására sor kerül – az egészségi vagy pszichológiai alkalmatlanság megállapításától a más szolgálati beosztásba helyezés vagy nemzetbiztonsági alkalmazotti jogviszonyba történő áthelyezés időpontjáig,
 - j) a nemzetbiztonsági egészségkárosodási ellátásra jogosultság tárgyában hozott döntés meghozataláig,
 - k) különös méltánylást érdemlő személyi, családi vagy elháríthatatlan ok miatt indokolt távollét időtartamára,
@@ -2372,7 +2372,7 @@ időtartamát.
 
 (4) A munkáltatói jogkör gyakorlójának és a személyügyi szervnek az alkalmasság minősítésére, „Alkalmatlan” minősítés esetén annak okaira, „Korlátozással alkalmas” minősítés esetén a korlátozás fajtájára, valamint az elrendelt, az alkalmasság visszanyerését célzó támogató intézkedésekre vonatkozó adat továbbítható. Ha az alkalmassági vizsgálatot a munkáltatói jogkör gyakorlója kezdeményezi, akkor az alkalmassági vizsgálat megindulása előtt tudomására jutott egészségügyi, pszichológiai adatot is kezeli, és az egészségügyi valamint a pszichológiai adatot az eljárásban részt vevő orvos és pszichológus részére továbbíthatja.
 
-(5) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, a büntetőeljárásról szóló törvény szerinti előkészítő eljárásban az előkészítő eljárást folytató szerv, valamint büntetőeljárásban az eljáró bíróság, ügyészség vagy nyomozó hatóság részére,
+(5) A (2) bekezdésben meghatározott adat szolgálati viszonnyal összefüggő jogvitában, a büntetőeljárásról szóló törvény szerinti előkészítő eljárásban az előkészítő eljárást folytató szerv, valamint büntetőeljárásban az eljáró bíróság, ügyészség, NVVH vagy nyomozó hatóság részére,
 
 - a) megkeresése vagy adatkérése alapján, továbbá
 - b) hivatalból – a tényállás tisztázásához szükséges mértékig –
@@ -2447,7 +2447,7 @@ továbbítható.
 - e) a polgári nemzetbiztonsági szolgálat, valamint a miniszter által vezetett minisztériumnak a nemzetbiztonsági állomány tagjainak szolgálati viszonyával kapcsolatos feladatokat ellátó személyügyi szervének vezetője és az arra feljogosított beosztottja, valamint a fegyelmi ügyben eljáró személy,
 - f) a teljesítményértékelést végző személy,
 - g) a törvényességi ellenőrzéssel megbízott személy,
-- h) a bíróság, az ügyészség, a nyomozó hatóság és a büntetőeljárásról szóló törvény szerinti előkészítő eljárásban az előkészítő eljárást folytató szerv,
+- h) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és a büntetőeljárásról szóló törvény szerinti előkészítő eljárásban az előkészítő eljárást folytató szerv,
 - i) az illetményszámfejtést végző szerv az illetményszámfejtéshez szükséges mértékig.
 
 177. § A személyügyi alapnyilvántartást kezelő a honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény 19. § 3. pontjában és 20. § (1) bekezdés d) pontjában foglaltak szerint adatot szolgáltat a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek részére a hadkötelesek nyilvántartásának vezetése céljából.
@@ -2492,7 +2492,7 @@ időtartamát.
 
 (3) A büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 710. §-ában meghatározott esetben a nemzetbiztonsági állomány azon tagjának, aki a büntető jogszabályok alkalmazása szempontjából a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 127. § (1) bekezdése alapján katonának tekintendő, katonai vétségét fegyelmi eljárásban kell elbírálni.
 
-(4) Ha a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész, illetve a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyész határozata ellen nem jelentettek be panaszt, – a Be. 710. §-ának szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni, és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
+(4) Ha a folyamatban lévő fegyelmi eljárás tárgyát képező cselekmény katonai vétséget is megvalósít, és a katonai ügyész, a katonai büntetőeljárásban eljáró NVVH tag, illetve a legfőbb ügyész által katonai büntetőeljárásra kijelölt ügyész határozata ellen nem jelentettek be panaszt, – a Be. 710. §-ának szabályaira figyelemmel – a fegyelmi eljárást a katonai vétség tárgyában kell továbbfolytatni, és az érdemi döntést meghozni. Ebben az esetben a büntetőeljárás során végrehajtott eljárási cselekményeket a fegyelmi eljárásban nem kell megismételni.
 
 181. § (1) A fenyítés célja a szolgálati rend és fegyelem védelme, az eljárás alá vont személynek és másoknak a fegyelemsértéstől való visszatartása.
 
@@ -2708,7 +2708,7 @@ gyakorolhatja.
 
 (4) A raktáros a leltározással kapcsolatban a leltárfelvétel során és azt követően is észrevételt tehet.
 
-(5) A leltárhiányért való felelősséget a leltárfelvétel befejezését követő 60 napon belül el kell bírálni, és a határozatot a raktárossal írásban közölni kell. Büntetőeljárás esetén a határidő a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának kézbesítését követő nappal kezdődik. A határidő eltelte után a raktárost kártérítésre nem lehet kötelezni.
+(5) A leltárhiányért való felelősséget a leltárfelvétel befejezését követő 60 napon belül el kell bírálni, és a határozatot a raktárossal írásban közölni kell. Büntetőeljárás esetén a határidő a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, az NVVH, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának kézbesítését követő nappal kezdődik. A határidő eltelte után a raktárost kártérítésre nem lehet kötelezni.
 
 203. § (1) A leltárhiány a kezelésre átvett anyagban, áruban, leltári készletben ismeretlen okból keletkezett, a természetes mennyiségi csökkenés és a kezeléssel járó veszteség mértékét meghaladó hiány.
 
@@ -3401,7 +3401,7 @@ A nemzetbiztonsági állomány tagjának esküjeÉn ............................
 - 11.1. folyamatban levő fegyelmi eljárások adatai,
 - 11.2. hatályos fenyítés neme, hatálya, mentesülés időpontja,
 - 11.3. korábbi fenyítések neme, mentesülés időpontja,
-- 11.4. folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának adatai,
+- 11.4. folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, az NVVH, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának adatai,
 - 11.5. kártérítési kötelezettség mértéke, a teljesítésre vonatkozó adatok,
 - 11.6. a személyiségi jogsértés miatt alkalmazott szankciók, a sérelemdíj mértéke, a teljesítésre vonatkozó adatok.
 - 12. A szolgálati nyugdíjasokra vonatkozó adatok

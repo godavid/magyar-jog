@@ -480,7 +480,7 @@ ellátva kell csatolni.
 
 - a) betekinthet az anyakönyvbe, az anyakönyvi alapiratokba, és ezekről másolatot kérhet;
 - b) adatot kérhet és betekinthet a személyiadat- és lakcímnyilvántartásba, az idegenrendészeti nyilvántartásba, a menekültügyi nyilvántartásba, az útiokmány-nyilvántartásba, az ingatlan-nyilvántartásba, valamint a honosítási eljárásban a 4. § (1) bekezdés c) és d) pontjában meghatározott feltételek fennállásának ellenőrzéséhez szükséges, a kérelmező tekintetében lefolytatott idegenrendészeti és menekültügyi eljárások irataiban foglalt, a kérelmezőre vonatkozó adatokba;
-- c) adatot kérhet a rendőrségi, a bűntettesek és a büntetőeljárás alatt állók nyilvántartásából, valamint az ügyészségtől és a bíróságtól;
+- c) adatot kérhet a rendőrségi, a bűntettesek és a büntetőeljárás alatt állók nyilvántartásából, valamint az ügyészségtől, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivataltól és a bíróságtól;
 - d) véleményt kérhet a jegyzőtől, a járási hivataltól, a konzultól, a gyámhatóságtól, az idegenrendészeti hatóságtól és a menekültügyi hatóságtól, továbbá véleményt kér a rendőrségtől és a feladat- és hatáskörrel rendelkező nemzetbiztonsági szolgálattól.
 
 (3a) A (3) bekezdés d) pontja szerinti véleményező szervek a kérelmezőt meghallgathatják.

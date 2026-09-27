@@ -377,7 +377,7 @@ a felsőoktatási intézményben nappali képzésben folytatott – legfeljebb a
 
 (2) A szolgálati idő számításánál nem lehet figyelembe venni a letartóztatás, a szabadságvesztés tartamát. E rendelkezéstől eltérően szolgálati időként kell figyelembe venni
 
-- a) a letartóztatás idejét, ha a letartóztatottat jogerősen felmentették, vagy a bíróság jogerős vagy végleges határozatában, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatában a büntetőeljárást megszüntette,
+- a) a letartóztatás idejét, ha a letartóztatottat jogerősen felmentették, vagy a bíróság jogerős vagy végleges határozatában, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatában a büntetőeljárást megszüntette,
 - b) a szabadságvesztés idejét, ha az elítéltet a bíróság utóbb jogerősen felmentette.
 
 (3) A saját jogú nyugellátás mellett folytatott keresőtevékenység időtartama szolgálati időként nem vehető figyelembe.
@@ -1074,7 +1074,7 @@ szerinti adatok igénylésére jogosult.
 
 szerinti adatok lekérdezésére jogosult.
 
-(4) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
+(4) A bíróság, az ügyészség, az NVVH, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok a rájuk vonatkozó törvényekben meghatározott célból és feltételek teljesülése esetén a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
 (5) A (2) bekezdés szerinti adatok statisztikai célra felhasználtatók és statisztikai célú felhasználásra – személyazonosításra alkalmatlan módon – átadhatók.
 

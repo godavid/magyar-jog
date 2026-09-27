@@ -2928,9 +2928,9 @@ a szerződéskötést követő harminc napon belül írásban értesíti a Felü
 - a) a 2013. június 30-ig hatályban volt 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, a XVII. és XVIII. fejezetében vagy
 - b) a Btk. XXVII. vagy XXXV–XLIII. Fejezetében
 
-meghatározott bűncselekmény miatt az ügyészség vádat emelt, illetve külföldön vagyon elleni vagy gazdasági bűncselekmény miatt az illetékes hatóság vádat emelt, ezt a tényt a vádemelésről való tudomásszerzését követően haladéktalanul bejelenti a Felügyeletnek. A bejelentéshez mellékelni kell a vádemelésről szóló okiratot és a vádemelés alapjául szolgáló cselekmény leírását.
+meghatározott bűncselekmény miatt az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vádat emelt, illetve külföldön vagyon elleni vagy gazdasági bűncselekmény miatt az illetékes hatóság vádat emelt, ezt a tényt a vádemelésről való tudomásszerzését követően haladéktalanul bejelenti a Felügyeletnek. A bejelentéshez mellékelni kell a vádemelésről szóló okiratot és a vádemelés alapjául szolgáló cselekmény leírását.
 
-(7) Ha az ügyészség vádat emelt vagy az illetékes hatóság külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt emelt vádat, amely a magyar jog szerint is büntetendő, a Felügyelet a (6) bekezdés szerinti bejelentés alapján mérlegeli, hogy a vezető állású személy ellen emelt vád alkalmas-e a pénzügyi intézmény iránti bizalom vagy a pénzügyi közvetítőrendszer iránti közbizalom megingatására.
+(7) Ha az ügyészség vagy az NVVH vádat emelt, vagy az illetékes hatóság külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt emelt vádat, amely a magyar jog szerint is büntetendő, a Felügyelet a (6) bekezdés szerinti bejelentés alapján mérlegeli, hogy a vezető állású személy ellen emelt vád alkalmas-e a pénzügyi intézmény iránti bizalom vagy a pénzügyi közvetítőrendszer iránti közbizalom megingatására.
 
 (8) Amennyiben a Felügyelet a (7) bekezdés szerinti mérlegelési jogkörében úgy ítéli meg, hogy a (6) bekezdésben említett vádemeléssel érintett cselekmény a pénzügyi intézmény iránti bizalom vagy a pénzügyi közvetítőrendszer iránti közbizalom megingatására alkalmas, a kinevezésre, illetve a megválasztásra irányuló engedélyt a büntetőeljárás befejezéséig felfüggeszti.
 
@@ -3312,7 +3312,7 @@ szemben.
 
 (4) A (2) bekezdésben előírt titoktartási kötelezettség az eljárás alapját képező ügyre vonatkozóan nem áll fenn a feladatkörében eljáró
 
-- a) nyomozó hatósággal, ügyészséggel szemben,
+- a) nyomozó hatósággal, ügyészséggel vagy az NVVH-val szemben,
 - b) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal szemben,
 - c) a törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel szemben.
 
@@ -3371,10 +3371,10 @@ e szervek írásbeli megkeresése alapján, ha teljesülnek a (7b) bekezdésben 
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
-- a) a feladatkörében eljáró MNB-vel, OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a hitelintézetek integrációja feladatkörében eljáró integrációs üzleti irányító szervezetével, kötelező intézményvédelmi szervezettel, valamint az Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+- a) a feladatkörében eljáró MNB-vel, OBA-val, betét- és intézményvédelmi alappal, a Szhitv. alapján a hitelintézetek integrációja feladatkörében eljáró integrációs üzleti irányító szervezetével, kötelező intézményvédelmi szervezettel, valamint az Állami Számvevőszékkel, Gazdasági Versenyhivatallal, a Pénzügyi Békéltető Testülettel, az önkéntes intézményvédelmi és betétbiztosítási alapokkal, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF), az NVVH-val,
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, az Európai Unió tagállamának eljáró hatóságával (ideértve a külföldi eljárásban közreműködő végrendeleti végrehajtót vagy kirendelt hagyatéki gondnokot is), valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, illetve végelszámolóval,
-- d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
+- d) a büntetőeljárás során az ügyészséggel, az NVVH-val, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
 - e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 - f) a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 - g) a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
@@ -3407,7 +3407,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve
 
 (4) Az adatkérésben, illetve az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és – a nemzetbiztonsági szolgálatok kivételével – az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet helyszíni ellenőrzést folytat.
 
-(4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény rendőrség és a Nemzeti Adó- és Vámhivatal titkos információgyűjtés folytatására feljogosított szerve, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.
+(4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény rendőrség és a Nemzeti Adó- és Vámhivatal titkos információgyűjtés folytatására feljogosított szerve, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.
 
 (4b) A pénzügyi intézmény a büntetőeljárásról szóló törvényben meghatározott fizetési műveletek megfigyelésének elrendelése esetén az elrendelésről szóló határozatban megjelölt adatokat az abban meghatározott módon és határidőben köteles rögzíteni és továbbítani.
 
@@ -3423,7 +3423,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve
 
 (9) Az adóhatóság a FATCA-törvényből, valamint a pénzügyi számlákkal kapcsolatos egyéb adatszolgáltatási kötelezettség teljesítése céljából az Aktv. 43/B. és 43/C., továbbá 43/H. §-a szerinti adatszolgáltatás során is jogosult banktitokhoz jutni.
 
-162. § (1) A pénzügyi intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul, de legkésőbb kettő munkanapon belül kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
+162. § (1) A pénzügyi intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, az NVVH és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul, de legkésőbb kettő munkanapon belül kiszolgáltatja a kért adatot a nála vezetett bankszámláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a bankszámla vagy az ügylet
 
 - a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–179. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §), tudatmódosító anyaggal visszaéléssel (Btk. 184. §) vagy új pszichoaktív anyaggal visszaéléssel (1978. évi IV. törvény 283/B. §, illetve Btk. 2025. június 15-ig hatályban volt 184–184/C. §),
 - b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318–318/A. §) vagy háborús uszítással (Btk. 331. §),
@@ -3440,9 +3440,9 @@ van összefüggésben.
 
 (3) A pénzügyi intézmény a megkeresések teljesítése során a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával jár el.
 
-(4) Ha a pénzügyi intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség vagy a bíróság adatkérésére, illetve írásbeli megkeresésére határidőn belül az adatszolgáltatást nem teljesíti és a mulasztását a megkereső szerv felé írásban sem menti ki, a megkereső szerv erről tájékoztatja a Felügyeletet.
+(4) Ha a pénzügyi intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, az NVVH vagy a bíróság adatkérésére, illetve írásbeli megkeresésére határidőn belül az adatszolgáltatást nem teljesíti és a mulasztását a megkereső szerv felé írásban sem menti ki, a megkereső szerv erről tájékoztatja a Felügyeletet.
 
-(5) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a pénzügyi intézmény az ügyészség engedélye nélkül is köteles az általa kezelt, banktitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a pénzügyi intézmény az ügyészségnek az ügyfélre vagy a fizetési számlára vonatkozó külön engedélye nélkül is köteles az általa kezelt, banktitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+(5) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a pénzügyi intézmény az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt, banktitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a pénzügyi intézmény az ügyészségnek vagy az NVVH-nak az ügyfélre vagy a fizetési számlára vonatkozó külön engedélye nélkül is köteles az általa kezelt, banktitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 163. § (1) A 161. § (2) bekezdés d), f), g) és o) pontja, a 161. § (3) bekezdés e)–g) pontja, a 162. §, valamint az 164. § p) pontja alapján történő adatátadásról a pénzügyi intézmény az érintett ügyfelet nem tájékoztathatja. Ebben az esetben az érintett személy személyes adataihoz való hozzáférési jogának gyakorlása iránti kérelme esetén olyan tájékoztatást kell adni, amelyből nem derül ki, hogy a személyes adatainak továbbítására milyen célból került sor.
 
@@ -3514,7 +3514,7 @@ kapcsolatos tevékenységet végeznek, és az adatkezelés e tevékenységekhez 
 
 (7) A hitelintézet, a 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság és az ellenőrző befolyása alatt működő pénzügyi intézmény, valamint az (5) bekezdés szerinti vállalkozás az ügyféllel kötendő szerződés megkötését megelőzően köteles az ügyfél részére az e §-ban foglalt közös adatkezelés érdekében történő kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy az adatai e §-ban foglalt kezelésének lehetőségét a (4) bekezdésben meghatározottak szerinti kifejezett nyilatkozatával bármikor korlátozhatja vagy megtilthatja.
 
-164/C. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a pénzügyi intézmény a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
+164/C. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a pénzügyi intézmény a nyomozó hatósággal, az ügyészséggel, illetve az NVVH-val együttműködési megállapodást köthet.
 
 164/C. § Nem jelenti a banktitok sérelmét a fizetési rendszerben részt vevő hitelintézet által a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszerébe történő, valamint a fizetési rendszert működtető pénzügyi vállalkozás központi visszaélésszűrő rendszeréből a fizetési rendszerben részt vevő hitelintézet, valamint a nyomozó hatóság részére, a fizetési műveletekkel kapcsolatos visszaélési kockázatok meghatározása, valamint az ezen fizetési műveletekkel kapcsolatos visszaélések felderítésének és megelőzésének támogatása céljából történő, jogszabályban előírt adattovábbítás.
 

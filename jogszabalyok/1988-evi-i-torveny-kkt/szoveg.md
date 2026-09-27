@@ -1061,7 +1061,7 @@ követő hat hónapig kezeli.
 
 - a) a 20. § (11) bekezdésében, valamint a 21. § (4) bekezdésében meghatározott ellenőrző hatóságok a hatáskörükbe tartozó ügyeket érintően,
 - b) a rendőrség,
-- c) az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
+- c) az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 - d) a bíróság.
 
 (2) Az (1) bekezdésben felsoroltakon kívül a közigazgatási bírságnyilvántartásból adatigénylésre jogosult az is, akit a hatáskörébe tartozó feladat ellátása érdekében törvény feljogosít a közigazgatási bírságnyilvántartás adatainak megismerésére.
@@ -1098,12 +1098,12 @@ követő hat hónapig kezeli.
 
 (4) A szolgáltatott adatok nem képezik az adattovábbítási nyilvántartás részét.
 
-(5) Az adattovábbítási nyilvántartásból az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság a nemzetbiztonság, a bűnmegelőzés vagy a bűnüldözés érdekében a rendőrség és a nemzetbiztonsági szolgálatok, valamint a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv részére történt adatszolgáltatás esetén korlátozható vagy kizárható.
+(5) Az adattovábbítási nyilvántartásból az érintett jogosult megismerni, hogy adatszolgáltatás alanya volt-e. Ez a jogosultság a nemzetbiztonság, a bűnmegelőzés vagy a bűnüldözés érdekében a rendőrség és a nemzetbiztonsági szolgálatok, valamint a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv részére történt adatszolgáltatás esetén korlátozható vagy kizárható.
 
 (6) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
 - a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- b) büntetőeljárás során a bíróság, az ügyészség, a nyomozó hatóság, illetve az előkészítő eljárást folytató szerv,
+- b) büntetőeljárás során a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, illetve az előkészítő eljárást folytató szerv,
 - c) az adattovábbításban érintett szabálysértési hatóság vezetője,
 - d) a nemzetbiztonsági szolgálatok.
 
@@ -1195,7 +1195,7 @@ követő hat hónapig kezeli.
 
 - a) a bíróság, a közigazgatási bírsággal kapcsolatos közigazgatási per lefolytatása céljából,
 - b) az ügyészség, az ügyész közigazgatási eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
-- c) a bíróság, az ügyészség és a nyomozó hatóság büntetőeljárás lefolytatása érdekében,
+- c) a bíróság, az ügyészség, az NVVH és a nyomozó hatóság büntetőeljárás lefolytatása érdekében,
 - d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellátása érdekében,
 - e) a szervezett bűnözés elleni fellépés koordinációjáért felelős szerv az elemző-értékelő tevékenysége céljából,
 - f) a terrorizmust elhárító szerv.
@@ -1280,7 +1280,7 @@ kapcsolatos hatósági ellenőrzések eredménye és a rendelkezésre álló egy
 
 (5) A kockázatértékelő rendszerből igényelheti
 
-- a) a bíróság, az ügyészség, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat,
+- a) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat,
 - b) a közlekedési hatóságok, valamint a 20. § (11) bekezdés a) pont aa) és ac) alpontja, b) pont ba) és bb) alpontja, c)–h) pontja, a (11a) és a (11b) bekezdése szerinti, a közúti járművek közlekedésének ellenőrzésére jogosult szervezetek az e törvényben megjelölt feladataik ellátásához szükséges adatokat,
 - c) a vállalkozás a kockázati profiljával kapcsolatban kezelt adatokat.
 
@@ -1961,7 +1961,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (3) A használati díj nem tartalmazhat sem közvetett, sem közvetlen megkülönböztetést, így különösen tilos a diszkrimináció a gépjárművek nemzetisége vagy a gépjárművek tulajdonosának (üzemben tartójának) nemzetisége, illetve letelepedési országa, valamint a járművek nyilvántartásba vételi helye, illetve a közlekedési tevékenység kiindulási pontja vagy rendeltetési helye alapján.
 
-(3a) Az útdíjszolgáltatási gazdasági társaság a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok, továbbá a Nemzeti Adó- és Vámhivatal jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az adat rögzítését követő három évig kezeli a díjfizetés ellenében használható gyorsforgalmi útszakaszokat használati díj megfizetése ellenében igénybe vevő gépjárművek forgalmi rendszámát, valamint az úthasználat helyét és idejét.
+(3a) Az útdíjszolgáltatási gazdasági társaság a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok, továbbá a Nemzeti Adó- és Vámhivatal jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az adat rögzítését követő három évig kezeli a díjfizetés ellenében használható gyorsforgalmi útszakaszokat használati díj megfizetése ellenében igénybe vevő gépjárművek forgalmi rendszámát, valamint az úthasználat helyét és idejét.
 
 (4) A használati díj beszedésére jogosult szervezetek a használati díj megfizetésének elmulasztása esetén a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendelet szerinti pótdíj behajtása céljából, továbbá a (8) bekezdésben meghatározott szervezetek a díjfizetés ellenőrzése és a hatáskörükbe tartozó pótdíjkövetelés, vagy a pótdíjkülönbözetre vonatkozó követelés behajtására irányuló eljárás megindítása céljából az adat rögzítésétől a követelés elévülésének vagy az (5) bekezdésben meghatározott jogvesztő határidő eredménytelen elteltének időpontjáig jogosultak kezelni
 
@@ -2031,7 +2031,7 @@ használható fel.
 
 (6) Akinek jogát vagy jogos érdekét a felvétel érinti, a rögzítéstől számított 30 napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy a felvételt a közút kezelője ne semmisítse meg vagy ne törölje.
 
-(7) A rögzített felvételt a közút kezelője a (4) bekezdésben meghatározott felhasználási célból az eljárásra jogosult szerv, hatóság, illetve büntetőeljárásban a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv megkeresésére vagy adatkérésére továbbítja. Ha a megkeresésre attól számított 72 órán belül, hogy a megsemmisítés vagy törlés mellőzését a (6) bekezdés alapján kérték, nem kerül sor és az (5) bekezdésben meghatározott határidő letelt, a felvételt törölni kell.
+(7) A rögzített felvételt a közút kezelője a (4) bekezdésben meghatározott felhasználási célból az eljárásra jogosult szerv, hatóság, illetve büntetőeljárásban a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv megkeresésére vagy adatkérésére továbbítja. Ha a megkeresésre attól számított 72 órán belül, hogy a megsemmisítés vagy törlés mellőzését a (6) bekezdés alapján kérték, nem kerül sor és az (5) bekezdésben meghatározott határidő letelt, a felvételt törölni kell.
 
 (8) A közút kezelője a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 

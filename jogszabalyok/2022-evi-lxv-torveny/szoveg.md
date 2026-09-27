@@ -189,7 +189,7 @@ tekintetében.
 (6) Az adatkezelő tájékoztatja a támogatási titokról – közfeladatának ellátásához szükséges mértékben –:
 
 - a) a bíróságot;
-- b) az ügyészséget;
+- b) az ügyészséget és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt;
 - c) a nyomozó hatóságot;
 - d) az illetékes nemzetbiztonsági szerv által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
 - e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervezetet, az Európai Csalás Elleni Hivatalt (OLAF), a tanúsító szervet, az állami adó- és vámhatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;

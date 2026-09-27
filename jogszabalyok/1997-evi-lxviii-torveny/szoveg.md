@@ -57,7 +57,7 @@ is alkalmazni kell.
 
 #### 4/A. §
 
-5. § (1) Az igazságügyi szakértő a feladatkörébe tartozó ügyekben a bíróság, az ügyészség, a rendőrség, illetve jogszabályban meghatározott más hatóság kirendelésére, továbbá megbízás alapján szakvéleményt ad.
+5. § (1) Az igazságügyi szakértő a feladatkörébe tartozó ügyekben a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a rendőrség, illetve jogszabályban meghatározott más hatóság kirendelésére, továbbá megbízás alapján szakvéleményt ad.
 
 (2) A szakértő gyakornok az igazságügyi szakértői kinevezéshez szükséges elméleti és gyakorlati ismeretek megszerzése érdekében – az igazságügyi szakértő szakmai felügyeletével – közreműködik a szakvélemény előkészítésében.
 
@@ -1011,7 +1011,7 @@ okozta.
 
 (2) Nem kell megtéríteni a kárnak azt a részét, amely a munkáltató közrehatása következtében keletkezett.
 
-82. § (1) Az igazságügyi alkalmazott kártérítési felelősségéről, illetve sérelemdíj megfizetésére kötelezéséről a munkáltató a kár, illetve a személyiségi jogsértés tudomására jutásától számított 60 napon belül határozattal dönt. Ha a károkozóval, illetve a jogsértővel szemben a kárigénnyel, illetve a személyiségi jogsértéssel összefüggően büntetőeljárás indult, a határidő a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor veszi kezdetét.
+82. § (1) Az igazságügyi alkalmazott kártérítési felelősségéről, illetve sérelemdíj megfizetésére kötelezéséről a munkáltató a kár, illetve a személyiségi jogsértés tudomására jutásától számított 60 napon belül határozattal dönt. Ha a károkozóval, illetve a jogsértővel szemben a kárigénnyel, illetve a személyiségi jogsértéssel összefüggően büntetőeljárás indult, a határidő a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor veszi kezdetét.
 
 (2) A kártérítési, illetve a sérelemdíj megfizetése iránti eljárásra a fegyelmi eljárás szabályait megfelelően alkalmazni kell.
 

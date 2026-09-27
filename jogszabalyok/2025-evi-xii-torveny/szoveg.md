@@ -137,7 +137,7 @@ a nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő h
 - a) a 2013. június 30-ig hatályban volt a Büntető Törvénykönyvről szóló 1978. évi IV. törvény XV. fejezetének VII. és VIII. címében, XVII. és XVIII. fejezetében, vagy
 - b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény XXVII. Fejezetében vagy XXXV–XLIII. Fejezetében
 
-meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig vezető állású személyként nem foglalkoztatható, és az ilyen feladatok általa történő ellátását a hitelgondozó felfüggeszti.
+meghatározott bűncselekmény miatt az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vádat emelt, vagy külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig vezető állású személyként nem foglalkoztatható, és az ilyen feladatok általa történő ellátását a hitelgondozó felfüggeszti.
 
 (3) A foglalkoztatási jogviszony létesítését, az engedély kiadását vagy meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt a büntetlen előélet mint foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezeli.
 

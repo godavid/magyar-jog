@@ -2498,7 +2498,7 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 
 (2) A munkáltatói jogkör gyakorlója megrovás fegyelmi büntetést fegyelmi eljárás lefolytatása nélkül is kiszabhat, amennyiben a tényállás megítélése egyszerű és a kötelezettségszegést a kormánytisztviselő elismeri.
 
-(3) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az anélkül fejeződött be, hogy megállapították volna a kormánytisztviselő felelősségét, a három hónapos határidőt szabálysértési eljárásban az eljárás befejezéséről szóló jogerős határozat, illetve büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának államigazgatási szerv részére történő közlésétől, a hároméves határidőt szabálysértési eljárásban az eljárás jogerős befejezésétől, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
+(3) Ha a kötelezettségszegés miatt büntető- vagy szabálysértési eljárás indult és az anélkül fejeződött be, hogy megállapították volna a kormánytisztviselő felelősségét, a három hónapos határidőt szabálysértési eljárásban az eljárás befejezéséről szóló jogerős határozat, illetve büntetőeljárásban a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának államigazgatási szerv részére történő közlésétől, a hároméves határidőt szabálysértési eljárásban az eljárás jogerős befejezésétől, illetve büntetőeljárásban a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
 
 (4) Külföldön elkövetett kötelezettségszegés esetén a határidőket a belföldre történő visszaérkezéstől kell számítani.
 
@@ -2567,7 +2567,7 @@ Az időtartam elteltével a fegyelmi büntetést minden nyilvántartásból tör
 
 (7) A kormánytisztviselő a leltárfelvétel során, illetve a leltárfelvétel után a leltározással kapcsolatban észrevételt tehet.
 
-(8) A leltárhiányért fennálló felelősség megállapítására a 165. §-ban foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, vagy az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának a kézbesítését követő nappal kezdődik. A határidő eltelte után a leltárhiányért kinevezési okirata alapján felelős kormánytisztviselőt kártérítésre nem lehet kötelezni.
+(8) A leltárhiányért fennálló felelősség megállapítására a 165. §-ban foglaltak az irányadók azzal az eltéréssel, hogy a felelősséget a leltárfelvétel befejezését követő hatvan napon belül el kell bírálni. Büntetőeljárás esetén e határidő harminc nap és a bíróság büntetőeljárást befejező jogerős vagy véglegessé vált határozatának, vagy az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatának a kézbesítését követő nappal kezdődik. A határidő eltelte után a leltárhiányért kinevezési okirata alapján felelős kormánytisztviselőt kártérítésre nem lehet kötelezni.
 
 163. § (1) Ha a kárt többen együttesen okozták, vétkességük arányában, ha ez nem állapítható meg, közrehatásuk arányában viselik. A kárt a kormánytisztviselők egyenlő arányban viselik, ha a vétkesség vagy a közrehatás arányát nem lehet megállapítani.
 
@@ -2725,7 +2725,7 @@ Ha a sérelemmel összefüggésben több és egymástól eltérő időpontban es
 - d) a törvényességi ellenőrzést végző vagy törvényességi felügyeletet gyakorló,
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
 - f) közszolgálati jogvita kapcsán az eljáró bíróság,
-- g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+- g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 - h) törvényességi ellenőrzési feladatkörében eljárva az ügyész,
 - i) a személyes adatok kezelésével összefüggésben a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 - j) a személyzeti, munkaügyi és illetmény-számfejtési feladatokat ellátó szerv e feladattal megbízott munkatársa feladatkörén belül, e törvény 2. mellékletének I/A., I/B., II., IV., V., VII., VIII. és X. pontokban foglalt adatkörökből a kormánytisztviselő illetményének számfejtése, illetve annak ellenőrzése céljából,
@@ -2766,7 +2766,7 @@ terjed ki.
 - d) saját adatai tekintetében az adatbázisban szereplő személy,
 - e) a fegyelmi eljárást lefolytató testület vagy személy,
 - f) közszolgálati jogvita kapcsán az eljáró bíróság,
-- g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a bíróság, az ügyészség és a nyomozó hatóság,
+- g) feladatkörükben eljárva a nemzetbiztonsági szolgálatok, valamint a közszolgálati jogviszonnyal összefüggésben indult büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság,
 - h) az ügyészi törvényességi feladatkörében eljárva az ügyész.
 
 (6) A személyügyi központ által vezetett nyilvántartásból kormányrendeletben meghatározott módon – személy azonosítására alkalmas adatokat nem tartalmazó – adatszolgáltatás végezhető.

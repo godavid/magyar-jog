@@ -745,7 +745,7 @@ hasznosítására.
 
 ### Nyilvánosság
 
-53. § (1) A szabadalmi bejelentés közzétételéig csak a bejelentő, a képviselő, a szakértő, illetve a szakvélemény adására felkért szerv, valamint – ha ez törvényben meghatározott feladataik ellátásához szükséges – a bíróság, az ügyészség vagy a nyomozó hatóság tekintheti meg az iratokat. A feltaláló az iratokat megtekintheti akkor is, ha nem ő az igényjogosult. A közzétételt követően a szabadalmi bejelentés iratait – a (2) bekezdésben foglalt kivételekkel – bárki megtekintheti.
+53. § (1) A szabadalmi bejelentés közzétételéig csak a bejelentő, a képviselő, a szakértő, illetve a szakvélemény adására felkért szerv, valamint – ha ez törvényben meghatározott feladataik ellátásához szükséges – a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy a nyomozó hatóság tekintheti meg az iratokat. A feltaláló az iratokat megtekintheti akkor is, ha nem ő az igényjogosult. A közzétételt követően a szabadalmi bejelentés iratait – a (2) bekezdésben foglalt kivételekkel – bárki megtekintheti.
 
 (1a)
 
@@ -755,7 +755,7 @@ hasznosítására.
 - b) a feltaláló megnevezését tartalmazó iratok, ha a feltaláló nevének nyilvánosságra hozatalát mellőzni kérte,
 - c) a szabadalmi lajstromban fel nem tüntetett és a hatósági tájékoztatás során nem közölt személyes adatok, kivéve, ha megtekinthetővé tételükhöz az érintett kifejezetten hozzájárult, vagy ha az Ákr. rendelkezései szerint harmadik személy a személyes adatot tartalmazó iratba betekinthet.
 
-(3) A megtekinthető iratokról a Szellemi Tulajdon Nemzeti Hivatala – ha azokat nem bíróság, ügyészség vagy nyomozó hatóság kéri, díjfizetés ellenében – másolatot ad.
+(3) A megtekinthető iratokról a Szellemi Tulajdon Nemzeti Hivatala – ha azokat nem bíróság, ügyészség, az NVVH vagy nyomozó hatóság kéri, díjfizetés ellenében – másolatot ad.
 
 (4) Szabadalmi ügyekben az eljárás csak akkor nyilvános, ha abban ellenérdekű fél is részt vesz.
 

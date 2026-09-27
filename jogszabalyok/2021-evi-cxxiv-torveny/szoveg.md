@@ -276,7 +276,7 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban, a belső
 
 (5) A bíróság az (1)–(3) bekezdésben foglaltakon túl, hivatalból vizsgálja, hogy a társaság cégjegyzéke a Ctv. 26. § (1) bekezdés k) pontja szerinti adatot tartalmaz-e.
 
-(6) Ha az ügyészség arról tájékoztatta a bíróságot, hogy a társaság tevékenységével kapcsolatban vagy vagyonát érintő büntetőeljárás során vádat emeltek, a bíróság tájékoztatást kérhet az eljáró bíróságtól.
+(6) Ha az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) arról tájékoztatta a bíróságot, hogy a társaság tevékenységével kapcsolatban vagy vagyonát érintő büntetőeljárás során vádat emeltek, a bíróság tájékoztatást kérhet az eljáró bíróságtól.
 
 (7) A hatóság a tájékoztatását olyan tartalommal adja meg, amely nem veszélyezteti a társasággal szemben folyamatban levő eljárásának eredményességét.
 
@@ -300,7 +300,7 @@ Az Országgyűlés az Európai Unió társasági jogával összhangban, a belső
 
 (2) Ha a bíróság a rendelkezésre álló adatok alapján azt állapítja meg, hogy a határokon átnyúló átalakulás elhatározása bűncselekményt valósíthat meg, feljelentést tesz, és azzal együtt megküldi a nyomozó hatóságnak a tanúsítvány kiadása iránti kérelmet és a 19. § szerinti vizsgálat során érkezett tájékoztatásokat.
 
-(3) Ha az (1) és (2) bekezdés szerinti feljelentés, vagy a büntetőügyben eljáró hatóság hivatalból történő észlelése alapján a határokon átnyúló átalakulás elhatározásával összefüggésben nyomozás elrendelésére került sor, a nyomozást elrendelő ügyészség vagy nyomozó hatóság a büntetőeljárás elrendelésétől számított 5 munkanapon belül értesíti a bíróságot, továbbá a nyomozás elrendelésétől számított 45 napon belül tájékoztatást nyújt a 19. § (3) bekezdésében meghatározottakról.
+(3) Ha az (1) és (2) bekezdés szerinti feljelentés, vagy a büntetőügyben eljáró hatóság hivatalból történő észlelése alapján a határokon átnyúló átalakulás elhatározásával összefüggésben nyomozás elrendelésére került sor, a nyomozást elrendelő ügyészség, NVVH vagy nyomozó hatóság a büntetőeljárás elrendelésétől számított 5 munkanapon belül értesíti a bíróságot, továbbá a nyomozás elrendelésétől számított 45 napon belül tájékoztatást nyújt a 19. § (3) bekezdésében meghatározottakról.
 
 (4) Ha a 21. § (5) bekezdése szerint meghosszabbított határidő alatt a kérelem elbírálásához szükséges minden adat nem áll rendelkezésre, a bíróság a kérelem elbírálásának határidejét végzésével ismételten, legfeljebb 180 nappal meghosszabbítja, amelyben megjelöli a határidő-hosszabbítás okát is. A végzést a társaságnak meg kell küldeni. A végzéssel szemben fellebbezésnek nincs helye. A bíróság legkésőbb az e bekezdés szerint meghosszabbított határidő utolsó napján a rendelkezésre álló adatok alapján köteles dönteni a tanúsítvány kiadása iránti kérelemről.
 

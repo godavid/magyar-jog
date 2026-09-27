@@ -728,7 +728,7 @@ A b) pont szerinti esetben az információ felhasználása nem járhat a bírós
 (9) Az állami adó- és vámhatóság az elektronikus adat ideiglenes hozzáférhetetlenné tételét megszünteti, ha:
 
 - a) annak elrendelésének oka megszűnt;
-- b) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés során került elrendelésre vagy annak végrehajtása a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, a külön törvényben meghatározott hatóság, illetve az NMHH tájékoztatása alapján van folyamatban; vagy
+- b) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés során került elrendelésre vagy annak végrehajtása a büntetőügyben eljáró bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság, a külön törvényben meghatározott hatóság, illetve az NMHH tájékoztatása alapján van folyamatban; vagy
 - c) az NMHH az Eht. 159/B. § (5) bekezdése alapján jelzi, hogy a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott tartalommal kétséges lehet.
 
 (10) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét az állami adó- és vámhatóság 365 napra rendeli el, az ideiglenes hozzáférhetetlenné tételre vonatkozó kötelezettség az elrendelést követő 365 nap elteltével megszűnik.

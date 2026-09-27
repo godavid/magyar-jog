@@ -1072,7 +1072,7 @@ folytatja le.
 (4) A fegyelmi tanács elnökeként és tagjaként nem járhat el
 
 - a) a panaszos, az eljárás alá vont személy és azok hozzátartozója,
-- b) aki jogerős fegyelmi büntetés hatálya alatt áll, vagy aki ellen büntetőeljárás van folyamatban, ennek a bíróság jogerős vagy véglegessé vált határozatával, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatával való befejezéséig, vagy ha az elítélt a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesült,
+- b) aki jogerős fegyelmi büntetés hatálya alatt áll, vagy aki ellen büntetőeljárás van folyamatban, ennek a bíróság jogerős vagy véglegessé vált határozatával, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatával való befejezéséig, vagy ha az elítélt a büntetett előélethez fűződő hátrányos jogkövetkezmények alól nem mentesült,
 - c) akinek a tanúkénti meghallgatása az eljárásban szükségessé válhat,
 - d) a területi kamara elnöke, alelnöke, elnökségi tagja,
 - e) a másodfokú eljárásban az, aki az elsőfokú eljárásban eljárt,
@@ -1101,9 +1101,9 @@ folytatja le.
 
 (4) Az etikai-fegyelmi eljárás megindításának nincs helye, ha azt az etikai-fegyelmi bizottság a kötelezettségszegésről szóló panasz beérkezésétől, hivatalból megindított eljárás esetén a jegyzőkönyv felvételétől számított hat hónapon belül nem indította meg vagy a cselekmény elkövetésétől számított három év eltelt.
 
-(5) Ha a cselekmény miatt büntetőeljárás indult, és az nem végződött felmentéssel, a hat hónapos határidőt a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, valamint további jogorvoslattal nem támadható határozatának az etikai-fegyelmi bizottság tudomására kerülésétől kell számítani.
+(5) Ha a cselekmény miatt büntetőeljárás indult, és az nem végződött felmentéssel, a hat hónapos határidőt a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, valamint további jogorvoslattal nem támadható határozatának az etikai-fegyelmi bizottság tudomására kerülésétől kell számítani.
 
-(6) A hároméves határidőt a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, valamint további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
+(6) A hároméves határidőt a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésétől, valamint az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztéséről szóló, valamint további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalától kell számítani.
 
 (7) Az etikai-fegyelmi eljárást annak megindításától számított 90 napon belül be kell fejezni.
 
@@ -1138,7 +1138,7 @@ folytatja le.
 
 #### 48. § [Az ideiglenes intézkedés]
 
-(1) Ha az eljárás alá vont személlyel szemben szándékos vagy olyan gondatlan bűncselekmény elkövetése miatt emelt vádat az ügyészség, amelynek büntetési tétele háromévi szabadságvesztésnél súlyosabb, a fegyelmi tanács ideiglenes intézkedéssel az eljárás alá vont személy kamarai tagságát azonnali hatállyal felfüggeszti és a tevékenységének végzésére való jogosultságának felfüggesztését kezdeményezi a névjegyzéket vezető szervnél.
+(1) Ha az eljárás alá vont személlyel szemben szándékos vagy olyan gondatlan bűncselekmény elkövetése miatt emelt vádat az ügyészség vagy az NVVH, amelynek büntetési tétele háromévi szabadságvesztésnél súlyosabb, a fegyelmi tanács ideiglenes intézkedéssel az eljárás alá vont személy kamarai tagságát azonnali hatállyal felfüggeszti és a tevékenységének végzésére való jogosultságának felfüggesztését kezdeményezi a névjegyzéket vezető szervnél.
 
 (2) A felfüggesztésről szóló határozatot 5 napon belül az eljárás alá vont személlyel közölni kell, aki a határozat ellen 8 napon belül fellebbezést terjeszthet elő.
 

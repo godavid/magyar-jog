@@ -324,7 +324,7 @@ meghatározott körülményre vonatkozó adatokat átveszi és az átvételtől 
 
 6. § (1) Az 5. § (2) bekezdésében meghatározott adatok – a 21/C. § (2) bekezdésében foglalt kivétellel – az alábbi szervezeteknek továbbíthatók:
 
-- a) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv;
+- a) a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság és az előkészítő eljárást folytató szerv;
 - b) a nemzetbiztonsági szolgálatok, valamint a vámhatóság a törvényben meghatározott feladataik ellátásához;
 - c) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, illetve nemzetközi szerződésben, egyéb nemzetközi kötelezettségvállalásban foglaltak szerint;
 - d) az Országgyűlési Őrség személyvédelmi és létesítménybiztosítási feladatainak ellátásához;

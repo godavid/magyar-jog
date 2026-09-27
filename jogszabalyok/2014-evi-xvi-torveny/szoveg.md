@@ -3485,7 +3485,7 @@ szemben.
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn a hatáskörében eljáró,
 
-- a) nyomozó hatósággal és a feladatkörében eljáró ügyészséggel,
+- a) nyomozó hatósággal és a feladatkörében eljáró ügyészséggel, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH),
 - b) büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá csőd-, illetve felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 - c) az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (a továbbiakban: OLAF)
 
@@ -3513,7 +3513,7 @@ szemben.
 - b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, a központi szerződő féllel, a központi értéktárral, a Kormány által kijelölt kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző OLAF-fal,
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 - d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, végrehajtóval, illetve végelszámolóval,
-- e) a büntetőeljárás során az előkészítő eljárást folytató szervvel és a nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel,
+- e) a büntetőeljárás során az előkészítő eljárást folytató szervvel és a nyomozó hatósággal, valamint a hatáskörében eljáró ügyészséggel és az NVVH-val,
 - f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 - g) külön törvényben meghatározott feltételek teljesülése esetén a titkos információgyűjtésre felhatalmazott szervvel,
 - h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
@@ -3546,7 +3546,7 @@ szemben, e szerveknek a befektetési alapkezelőhöz intézett adatkérése, ill
 
 (8) Befektetési alapkezelő jogutód nélküli megszűnése esetén az általuk kezelt értékpapírtitkot tartalmazó irat a keletkezésétől számított 60 év múlva a levéltári kutatások céljára felhasználható.
 
-200. § (1) A befektetési alapkezelő az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
+200. § (1) A befektetési alapkezelő az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, az NVVH és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
 
 - a) kábítószerrel való visszaéléssel,
 - b) terrorcselekménnyel,
@@ -3559,7 +3559,7 @@ szemben, e szerveknek a befektetési alapkezelőhöz intézett adatkérése, ill
 
 van összefüggésben.
 
-(1a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a befektetési alapkezelő az ügyészség engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a befektetési alapkezelő az ügyészségnek az ügyfélre vagy az értékpapír-szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+(1a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a befektetési alapkezelő az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a befektetési alapkezelő az ügyészségnek vagy az NVVH-nak az ügyfélre vagy az értékpapír-szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 (2) A 199. § (1) bekezdés e), g) és h) pontjai, valamint az e § (1) bekezdésében foglaltak szerint történő adatátadásról az érintett ügyfél nem tájékoztatható.
 
@@ -3569,7 +3569,7 @@ van összefüggésben.
 
 (3) A hitelintézet, valamint a Hpt. 15/A. § szerinti külön jóváhagyást kapott pénzügyi holding társaság Hpt. szerinti ellenőrző befolyása alatt működő ABAK és ÁÉKBV-alapkezelő az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
 
-200/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a befektetési alapkezelő a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
+200/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a befektetési alapkezelő a nyomozó hatósággal, az ügyészséggel és az NVVH-val együttműködési megállapodást köthet.
 
 ## NYOLCADIK RÉSZ — ZÁRÓ RENDELKEZÉSEK
 

@@ -241,7 +241,7 @@ különös elszámolási szabályok alkalmazandóak.
 
 (5) Nyugszik a tartozás végrehajtásához való jog elévülése a végrehajtási eljárás felfüggesztésének, illetve a 16. § (1) bekezdés c), d) és e) pontja szerinti szünetelésének, az adós vagyonára a büntetőeljárásban elrendelt lefoglalásnak vagy zár alá vételnek, továbbá törvényben biztosított fizetési kedvezménynek vagy feltételhez kötött adómentességnek, valamint a szerkezetátalakítási eljárásban elrendelt moratórium, valamint a bíróság által jóváhagyott szerkezetátalakítási terv végrehajtásának időtartama alatt. Az 52. § (5) bekezdése szerinti jelzálogjog bejegyzése az elévülés nyugvása szempontjából a végrehajtási eljárás felfüggesztésével esik egy tekintet alá.
 
-(6) Az adó végrehajtásához való jog elévülése az Art. szerint az adómegállapításhoz való jog elévülésének meghosszabbodását eredményező bűncselekmények miatt indult büntetőeljárás esetében a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nyugszik.
+(6) Az adó végrehajtásához való jog elévülése az Art. szerint az adómegállapításhoz való jog elévülésének meghosszabbodását eredményező bűncselekmények miatt indult büntetőeljárás esetében a büntetőeljárás kezdő időpontjától a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nyugszik.
 
 (7) Ha a gazdálkodó szervezet, a polgári jogi társaság adótartozásának a tag (részvényes), vezető tisztségviselő által történő megfizetésére kötelezését meg kell előznie a korlátlan felelősség megállapítása iránti polgári peres eljárásnak, a polgári peres eljárás kezdő időpontjától annak jogerős befejezéséig nyugszik a végrehajtáshoz való jog elévülése.
 
@@ -321,8 +321,8 @@ végzés ellen.
 - 9. a bíróság pénzbírságról, teljesítési bírságról, rendbírságról – kivéve, ha a végrehajtási eljárásban kiszabott rendbírság behajtását a Vht. 45/A. § (5) bekezdése alapján az önálló bírósági végrehajtó végzi – szóló értesítése esetén a behajtást kérő megkeresése,
 - 10. a büntetőeljárásról szóló törvény alapján
   - a) elrendelt elővezetés költségének,
-  - b) az ügyészség, illetve a nyomozó hatóság által kiszabott rendbírságnak,
-  - c) a bíróság, az ügyészség, illetve a nyomozó hatóság által a bűnügyi költségnek
+  - b) az ügyészség, az NVVH, illetve a nyomozó hatóság által kiszabott rendbírságnak,
+  - c) a bíróság, az ügyészség, az NVVH, illetve a nyomozó hatóság által a bűnügyi költségnek
 
 a megállapításáról szóló értesítés esetén a behajtást kérő megkeresése,
 
@@ -736,7 +736,7 @@ kell értékesíteni.
 - e) az elárverezett ingóság megnevezését, becsértékét és az árverési vételárat, és
 - f) az árverési vevő nevét, nem természetes személy árverési vevő esetén a szervezet megnevezését és székhelyét.
 
-(2) A végrehajtó a természetes személy árverési vevő lakóhelyét, illetve személyazonosításra szolgáló okmányának számát feljegyzi, és a feljegyzést zárt borítékban helyezi el, arról csak a bíróság, az ügyészség, a nyomozó hatóság és az ingóságot nyilvántartó hatóság részére adhat felvilágosítást.
+(2) A végrehajtó a természetes személy árverési vevő lakóhelyét, illetve személyazonosításra szolgáló okmányának számát feljegyzi, és a feljegyzést zárt borítékban helyezi el, arról csak a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az ingóságot nyilvántartó hatóság részére adhat felvilágosítást.
 
 (3)
 
@@ -1361,15 +1361,15 @@ az adóhatóság a végrehajtást a 124/A. § d) pontja szerint végzéssel megs
 
 (5) A (4) bekezdés szerint kell eljárni akkor is, ha a másik tagállamban vagy külföldi államban elrendelt vagyonelkobzásra vonatkozó határozat végrehajtása nemzeti kulturális örökséghez tartozó ingatlanra történik.
 
-(6) Ha a vagyonelkobzás végrehajtása nem vezetett eredményre végrehajtás alá vonható vagyontárgy hiánya vagy a lefoglalt vagyontárgy sikertelen értékesítése miatt, az állami adó- és vámhatóság értesíti az ügyészséget a büntetőeljárásról szóló törvény szerinti vagyonelvonásra irányuló eljárás lefolytatása érdekében.
+(6) Ha a vagyonelkobzás végrehajtása nem vezetett eredményre végrehajtás alá vonható vagyontárgy hiánya vagy a lefoglalt vagyontárgy sikertelen értékesítése miatt, az állami adó- és vámhatóság értesíti az ügyészséget, illetve az NVVH-t a büntetőeljárásról szóló törvény szerinti vagyonelvonásra irányuló eljárás lefolytatása érdekében.
 
 (7) Ha felszámolási eljárásban bejelentett hitelezői követelés zár alá vételére került sor, majd ezt követően a hitelezői igényre nem pénzösszegben kifejezett vagyonelkobzást rendelnek el, és a felszámolási eljárás alatt, vagy annak befejezésekor a vagyonfelosztás során a zár alá vétel tárgya helyébe meghatározott vagyontárgy vagy annak egy része lépett, az állami adó- és vámhatóság a vagyonelemet annak az adósnak adja vissza, akivel szemben a hitelezői követelés érvényesítésre került. Amennyiben az adós jogutód nélkül megszűnt, az állami adó- és vámhatóság vagyonrendezési eljárást kezdeményez.
 
 (8) Ha a pénzösszegben kifejezett vagyonelkobzás, vagy a jogi személlyel szemben kiszabott pénzbírság alacsonyabb összegre vonatkozik, mint az ezek biztosítása érdekében elrendelt zár alá vétel, az állami adó- és vámhatóság a különbözetként fennmaradó vagyonra a felszámolás befejezése és az adós jogutód nélküli megszüntetése tárgyában hozott végzés jogerőre emelkedése után a cégbíróságnál vagyonrendezési eljárást kezdeményez.
 
-(9) A 29. § (1) bekezdés 6., 10., 11., 16., 17. pontja szerinti követelések végrehajtására irányuló eljárásokban az állami adó- és vámhatóság kezdeményezi a vagyonelvonásra irányuló eljárás lefolytatását az ügyészségnél, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása után, a végrehajtás befejezése előtt meghalt vagy megszűnt. Az állami adó- és vámhatóság a vagyonelvonásra irányuló eljárást kezdeményező iratában tételesen felsorolja a végrehajtás alá vont, még nem értékesített vagyontárgyakat.
+(9) A 29. § (1) bekezdés 6., 10., 11., 16., 17. pontja szerinti követelések végrehajtására irányuló eljárásokban az állami adó- és vámhatóság kezdeményezi a vagyonelvonásra irányuló eljárás lefolytatását az ügyészségnél, illetve az NVVH-nál, ha a kötelezett a büntetőeljárásban az alapügyben hozott határozat jogerőre emelkedése vagy véglegessé válása után, a végrehajtás befejezése előtt meghalt vagy megszűnt. Az állami adó- és vámhatóság a vagyonelvonásra irányuló eljárást kezdeményező iratában tételesen felsorolja a végrehajtás alá vont, még nem értékesített vagyontárgyakat.
 
-(10) A vagyonelvonásra irányuló eljárás eredményéről a megkeresett törvényszék, illetve amennyiben a kezdeményezés alapján nem tartja indokoltnak az eljárás megindítását, az ügyészség értesíti a kezdeményező állami adó- és vámhatóságot.
+(10) A vagyonelvonásra irányuló eljárás eredményéről a megkeresett törvényszék, illetve amennyiben a kezdeményezés alapján nem tartja indokoltnak az eljárás megindítását, az ügyészség, illetve az NVVH értesíti a kezdeményező állami adó- és vámhatóságot.
 
 (11) Az állami adó- és vámhatóság a (9) bekezdés szerinti esetben az eredeti adóssal szemben folytatott végrehajtást megszünteti, ha
 
@@ -1419,9 +1419,9 @@ az állami adó- és vámhatóság felhívja az MNV Zrt.-t a végrehajtási köl
 
 (8) A zárgondnokot a kirendelő végzésben tájékoztatni kell arról, hogy köteles az ingatlant a rendes gazdálkodás szerint kezelni, gazdálkodásáról és az ingatlan jövedelméről az állami adó- és vámhatóságnak elszámolni, valamint az ingatlan tiszta jövedelmét az ilyen jogcímen előírt kötelezettségekre befizetett összegek fogadására és kezelésére elkülönített számlára befizetni.
 
-(9) A bíróság vagy az ügyészség büntetőeljárásban zár alá vett vagyon megváltásának elfogadásáról rendelkező, végrehajthatóvá vált határozatának kézhezvételét követően az állami adó- és vámhatóság felhívja az adóst a megváltás összegének megfizetésére. A megváltás összegének megfizetése esetén az állami adó- és vámhatóság erről haladéktalanul tájékoztatja a megváltásról rendelkező bíróságot vagy ügyészséget.
+(9) A bíróság vagy az ügyészség, illetve az NVVH büntetőeljárásban zár alá vett vagyon megváltásának elfogadásáról rendelkező, végrehajthatóvá vált határozatának kézhezvételét követően az állami adó- és vámhatóság felhívja az adóst a megváltás összegének megfizetésére. A megváltás összegének megfizetése esetén az állami adó- és vámhatóság erről haladéktalanul tájékoztatja a megváltásról rendelkező bíróságot vagy ügyészséget, illetve az NVVH-t.
 
-(10) Az állami adó- és vámhatóság a büntetőeljárásban elrendelt zár alá vétel feloldásáról rendelkező, a bíróság jogerős vagy véglegessé vált, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható határozatának kézhezvétele után haladéktalanul intézkedik a büntetőeljárásban elrendelt zár alá vétel törlése iránt.
+(10) Az állami adó- és vámhatóság a büntetőeljárásban elrendelt zár alá vétel feloldásáról rendelkező, a bíróság jogerős vagy véglegessé vált, illetve az ügyészség, az NVVH vagy a nyomozó hatóság további jogorvoslattal nem támadható határozatának kézhezvétele után haladéktalanul intézkedik a büntetőeljárásban elrendelt zár alá vétel törlése iránt.
 
 125/F. § (1) Az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedés végrehajtása során az állami adó- és vámhatóság a vagyonelkobzás biztosítására elrendelt büntetőeljárásban elrendelt zár alá vétel szabályai szerint jár el azzal, hogy jövedelem-letiltásnak is helye van, valamint a zárgondnoknak az adós jogi személy vagyonából származó jövedelmet – a felmerült költségek levonása után – az adós pénzforgalmi számláján kell elhelyeznie.
 

@@ -1083,7 +1083,7 @@ beutazására és tartózkodására – a II. Cikk 3–5. pontja szerinti státu
 - b) akit Magyarország befogadottként ismert el;
 - c) törvényben foglaltak alapján azt a harmadik országbeli állampolgárt, aki a menekültügyi hatóságtól menekültkénti elismerését kérte, vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért;
 - d) azt a harmadik országbeli állampolgárt, aki Magyarország területén született és azt követően a magyar jog szerint érte felelős személy felügyelete nélkül maradt, illetve a kísérő nélküli kiskorút;
-- e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből a bíróság, az ügyészség, a rendvédelmi szerv, a nemzetbiztonsági szolgálat, továbbá a Nemzeti Adó- és Vámhivatal nyomozó hatósága indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon –együttműködik;
+- e) jelentős bűnüldözési vagy nemzetbiztonsági érdekből a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a rendvédelmi szerv, a nemzetbiztonsági szolgálat, továbbá a Nemzeti Adó- és Vámhivatal nyomozó hatósága indítványára azt a harmadik országbeli állampolgárt, illetve rá tekintettel más harmadik országbeli állampolgárt, aki bűncselekmény felderítése érdekében a hatóságokkal – a bizonyítást jelentősen elősegítő módon –együttműködik;
 - f) a bíróság indítványára azt a harmadik országbeli állampolgárt, akit különösen kizsákmányoló foglalkoztatási feltételek mellett, illetve azt a kiskorú, harmadik országbeli állampolgárt, akit érvényes tartózkodási engedély vagy más, tartózkodásra jogosító engedély nélkül foglalkoztattak.
 
 (2) A humanitárius célból kiadott tartózkodási engedély érvényességi ideje
@@ -1748,7 +1748,7 @@ csak az (1) bekezdésben foglalt szempontok mérlegelésével utasítható ki, a
 
 (10) E § rendelkezéseit a különleges bánásmódot igénylő személyek vonatkozásában a helyzetükből fakadó sajátos szükségleteik figyelembevételével kell alkalmazni.
 
-114. § A harmadik országbeli állampolgár kitoloncolásának nem akadálya a folyamatban lévő büntetőeljárás vagy szabálysértési eljárás. A kitoloncolás foganatosítható, kivéve, ha a büntetőügyben eljáró bíró vagy – a vádemelést megelőzően – az ügyész tájékoztatása szerint
+114. § A harmadik országbeli állampolgár kitoloncolásának nem akadálya a folyamatban lévő büntetőeljárás vagy szabálysértési eljárás. A kitoloncolás foganatosítható, kivéve, ha a büntetőügyben eljáró bíró vagy – a vádemelést megelőzően – az ügyész vagy az NVVH tájékoztatása szerint
 
 - a) a büntetőeljárás a kiutasított harmadik országbeli állampolgár terhelt távollétében nem folytatható le,
 - b) külföldre utazási korlátozás elrendelésére került sor a harmadik országbeli állampolgár terhelttel szemben, vagy
@@ -1904,13 +1904,13 @@ rendeli el.
 
 #### 75. Külföldre utazási korlátozás
 
-127. § (1) Az idegenrendészeti hatóság külföldre utazási korlátozást rendel el azzal a harmadik országbeli állampolgárral szemben, akinek úti okmánya visszatartása érdekében a bíróság, illetve az ügyészség az idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette.
+127. § (1) Az idegenrendészeti hatóság külföldre utazási korlátozást rendel el azzal a harmadik országbeli állampolgárral szemben, akinek úti okmánya visszatartása érdekében a bíróság, illetve az ügyészség vagy az NVVH az idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette.
 
 (2) Az (1) bekezdés szerinti értesítés alapján az idegenrendészeti hatóság a külföldre utazási korlátozást elrendelő határozatában a harmadik országbeli állampolgár úti okmányát visszatartja.
 
 (3) A határozat ellen nincs helye jogorvoslatnak.
 
-(4) Az idegenrendészeti hatóság a bíróság, az ügyészség, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján, vagy ha egyéb módon a tudomására jut, hogy a harmadik országbeli állampolgár már nem áll a külföldre utazásról szóló törvény szerinti külföldre utazási korlátozás hatálya alatt, a külföldre utazási korlátozást haladéktalanul törli és a harmadik országbeli állampolgár visszatartott úti okmányát visszaadja.
+(4) Az idegenrendészeti hatóság a bíróság, az ügyészség, az NVVH, illetve a nyomozó hatóság külföldre utazási korlátozás feloldása érdekében megküldött értesítése alapján, vagy ha egyéb módon a tudomására jut, hogy a harmadik országbeli állampolgár már nem áll a külföldre utazásról szóló törvény szerinti külföldre utazási korlátozás hatálya alatt, a külföldre utazási korlátozást haladéktalanul törli és a harmadik országbeli állampolgár visszatartott úti okmányát visszaadja.
 
 #### 76. A kijelölt helyen való tartózkodás elrendelése
 
@@ -2384,7 +2384,7 @@ rendelkezik, jogszabályban meghatározott előzetes megállapodás megkötésé
 
 (2) Az úti okmány a kiállítástól számított egy évig érvényes.
 
-158. § Ha az idegenrendészeti hatóság által kiadott úti okmánnyal rendelkező harmadik országbeli állampolgár vagy a Magyarország területén élő hontalan úti okmánya visszatartása érdekében a bíróság, illetve az ügyészség az idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette, az idegenrendészeti hatóság az úti okmányt visszavonja.
+158. § Ha az idegenrendészeti hatóság által kiadott úti okmánnyal rendelkező harmadik országbeli állampolgár vagy a Magyarország területén élő hontalan úti okmánya visszatartása érdekében a bíróság, illetve az ügyészség vagy az NVVH az idegenrendészeti hatóságot a külföldre utazásról szóló törvény alapján értesítette, az idegenrendészeti hatóság az úti okmányt visszavonja.
 
 ## KILENCEDIK RÉSZ — AZ IDEGENRENDÉSZETI ELJÁRÁS
 

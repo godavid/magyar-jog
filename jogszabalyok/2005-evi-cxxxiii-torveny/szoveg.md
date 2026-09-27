@@ -174,7 +174,7 @@ bevonása és elvétele
 
 - a) visszavonja, ha kiadásának a 6. § (2) bekezdése, vagy a 6. § (3) bekezdés a) vagy b) pontja szerinti feltétele már nem áll fenn,
 - b) hat hónapra bevonja, ha az igazolvány jogosultja e törvény szabályait – a 65. §-ban foglaltak szerint – súlyosan megsértette,
-- c) a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig bevonja
+- c) a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig bevonja
   - ca) a 6. § (3) bekezdés c) pontja vagy
   - cb) az Erfesztv. 5. § (2) bekezdés e) pontja
 
@@ -182,7 +182,7 @@ szerinti esetben.
 
 (3) A (2) bekezdés b) pontjában meghatározott idő elteltével a rendőrség az igazolványt a jogosultnak visszaadja, kivéve, ha az igazolvány visszavonásának vagy bevonásának más oka áll fenn.
 
-(4) A (2) bekezdés c) pontjában foglalt esetben a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a rendőrség az igazolványt a jogosultnak visszaadja, ha az igazolvány kiadása megtagadásának
+(4) A (2) bekezdés c) pontjában foglalt esetben a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezését, vagy az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalát követően a rendőrség az igazolványt a jogosultnak visszaadja, ha az igazolvány kiadása megtagadásának
 
 - a) a 6. § (2) bekezdése szerinti oka,
 - b) a 6. § (3) bekezdés a) vagy b) pontja szerinti oka vagy
@@ -792,7 +792,7 @@ is felhasználható.
 
 (2) A rendőrség haladéktalanul, de legkésőbb a tudomásra jutástól számított nyolc napon belül a szabad mozgás és tartózkodás jogával rendelkező személy 70. § (2) bekezdése szerinti engedélyét hat hónapra felfüggeszti, ha e törvény szabályait – a 65. §-ban foglaltak szerint – súlyosan megsértette.
 
-(3) A rendőrség haladéktalanul, de legkésőbb a tudomására jutástól számított nyolc napon belül a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi tevékenységének gyakorlását a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti, ha a szabad mozgás és tartózkodás jogával rendelkező személlyel szemben kétévi vagy ennél hosszabb tartamú szabadságvesztéssel büntetendő szándékos bűncselekmény miatt büntetőeljárás indul.
+(3) A rendőrség haladéktalanul, de legkésőbb a tudomására jutástól számított nyolc napon belül a szabad mozgás és tartózkodás jogával rendelkező személy magyarországi tevékenységének gyakorlását a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig felfüggeszti, ha a szabad mozgás és tartózkodás jogával rendelkező személlyel szemben kétévi vagy ennél hosszabb tartamú szabadságvesztéssel büntetendő szándékos bűncselekmény miatt büntetőeljárás indul.
 
 (4) A (3) bekezdésben foglalt esetben, amennyiben a büntetőeljárás büntetés kiszabása, vagy intézkedés alkalmazása nélkül zárult, a rendőrség a felfüggesztést megszünteti, amennyiben a büntetőeljárás büntetés kiszabásával vagy intézkedés alkalmazásával zárult, az engedélyt visszavonja.
 
@@ -854,7 +854,7 @@ előzetesen rögzíti (a továbbiakban: előzetes rögzítés).
 - a) a Rendőrségről szóló törvény szerinti terrorizmust elhárító szerv,
 - b) a Rendőrségről szóló törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott bűnmegelőzési célból folytatott titkos információgyűjtést végző szerv,
 - c) a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárásban az előkészítő eljárást folytató szerv,
-- d) a büntetőeljárásról szóló törvény alapján folytatott büntetőeljárás során a nyomozó hatóság, az ügyészség és a bíróság, valamint
+- d) a büntetőeljárásról szóló törvény alapján folytatott büntetőeljárás során a nyomozó hatóság, az ügyészség, az NVVH és a bíróság, valamint
 - e) a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló törvény szerinti körözési eljárást lefolytató szerv
 
 részére, annak írásos megkeresésére adhatja át.

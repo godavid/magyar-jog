@@ -529,7 +529,7 @@ A NYILVÁNTARTÁSBÓL
 
 19. § (1) A nyilvántartásból igényelheti(k):
 
-- a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és ezek adatfeldolgozója a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
+- a) a bíróság, a bírósági végrehajtó, a közjegyző, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, az előkészítő eljárást folytató szerv, az állami adó- és vámhatóság, a nemzetbiztonsági szolgálat, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, valamint belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és ezek adatfeldolgozója a törvényben meghatározott feladataik ellátásához szükséges adatokat, iratokat;
 - b) a közúti közlekedési ügyekben, valamint a közúti közlekedési igazgatási ügyekben eljáró hatóságok a jogszabályban meghatározott feladataik ellátásához szükséges adatokat és iratokat;
 - c) a rendőrség a közbiztonsági ellenőrzéshez és határrendészeti feladatai ellátásához szükséges adatokat;
 - d) a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek a hadkötelesek nyilvántartásához a 8. § (1) bekezdés a) pont aa), ab), af) alpontjában, valamint a b) pont ba) és bc) alpontjában meghatározott adatokat és a járművezető egészségi és pályaalkalmassági adatait, valamint a Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok és a Nemzeti Adó- és Vámhivatal vámszerve vagy nyomozó hatósága részére biztosított technikai eszközökkel kapcsolatos szolgáltatás elrendelése céljából a 9. § (1)–(1b) bekezdésében, valamint a 9. § (2) bekezdés a) pontjában meghatározott adatokat;
@@ -718,7 +718,7 @@ statisztikai célra továbbíthatja.
 - a) a közrend és a közbiztonság fenntartásával összefüggő feladatai ellátása, valamint a bűncselekmények megelőzése céljából a rendőrség,
 - b) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési eljárások lefolytatása céljából a szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
 - c) a közúti közlekedés szabályainak megsértésével összefüggő közigazgatási bírságolási eljárás során a rendőrség, a katasztrófavédelmi hatóság, az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíj ellenőrzésre feljogosított szervezet, valamint az úthasználati díj ellenőrzésére kijelölt szervezet,
-- d) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, valamint
+- d) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság és az előkészítő eljárást folytató szerv, valamint
 - e) a hatáskörébe tartozó bűnüldözési és felderítési feladatok ellátása céljából a törvényben meghatározott szervek.
 
 (4) A közvetlen adathozzáférés útján történő automatizált keresés csak a teljes forgalmi rendszám vagy a teljes alvázszám megadását követően teljesíthető.
@@ -736,7 +736,7 @@ statisztikai célra továbbíthatja.
 (2) Az (1) bekezdés szerinti automatizált keresést rendelhet el
 
 - a) a közúti közlekedés szabályainak megsértésével összefüggő közlekedésrendészeti szabálysértési eljárások lefolytatása céljából az e szabálysértési ügyekben eljáró szabálysértési hatóság vagy a bíróság,
-- b) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv valamint
+- b) a bűncselekmények felderítése és a büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság és az előkészítő eljárást folytató szerv valamint
 - c) a közúti közlekedésről szóló 1988. évi I. törvény 20. és 21. §-ában meghatározott közigazgatási bírságot kiszabó hatóság.
 
 (3) A nyilvántartó az automatizált keresés eredményéről az elrendelő hatóságot haladéktalanul értesíti.
@@ -800,7 +800,7 @@ statisztikai célra továbbíthatja.
 
 (3) Az érintett személy az adattovábbítási nyilvántartásból – törvény eltérő rendelkezése hiányában – jogosult megismerni, hogy mely adatszolgáltatások alanya volt.
 
-(4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet a Nemzeti Adatvédelmi és Információszabadság Hatóság, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a bíróság, az ügyészség, a nyomozó hatóság, az előkészítő eljárást folytató szerv és törvényben feljogosított szerv.
+(4) Az adattovábbítási nyilvántartásba – ha törvény eltérően nem rendelkezik – feladatkörében betekinthet, abból adatot kérhet a Nemzeti Adatvédelmi és Információszabadság Hatóság, a közlekedésrendészetért felelős miniszter, az általa ellenőrzésre kijelölt köztisztviselő, a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság, az előkészítő eljárást folytató szerv és törvényben feljogosított szerv.
 
 (5) Az e törvény 27/A–27/C. §-a alapján teljesített adatátvételről és adattovábbításról, a találatról és annak hiányáról nyilvántartást kell vezetni, amely tartalmazza:
 

@@ -165,7 +165,7 @@ kivéve, ha a végrehajtásra az állami adó és vámhatóság megkeresése meg
 
 (6) A foglalkoztatás-felügyeleti hatóság más szerv és természetes személy részére adatot csak törvényben meghatározott módon szolgáltathat.
 
-(7) A bíróság, az ügyészség, a bűnüldözési és a büntetés-végrehajtási szerv, valamint a nemzetbiztonsági szolgálat – feladata ellátása érdekében, a rá vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén – e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosult.
+(7) A bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bűnüldözési és a büntetés-végrehajtási szerv, valamint a nemzetbiztonsági szolgálat – feladata ellátása érdekében, a rá vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén – e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosult.
 
 (8) A munkavédelmi hatóság az (1) bekezdés szerinti nyilvántartásba – az ellenőrzéséhez szükséges mértékben – betekinthet.
 

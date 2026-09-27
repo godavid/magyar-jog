@@ -500,7 +500,7 @@ vizsgálja.
 - 9. az EDR biztosítása érdekében az EDR szolgáltatást nyújtó kormányzati célú hírközlési szolgáltatónak,
 - 10. nemzetbiztonsági, valamint terrorelhárítási érdekből, a feladatellátásért felelős szerv részére,
 - 11. polgári védelmi kötelezettség megállapítása esetén a települési önkormányzat polgármesterének a kritikus munkakörben foglalkoztatott személyek státuszának igazolása céljából,
-- 12. a bíróság, az ügyészség és a nyomozó hatóság részére eljárási cselekmény lefolytatása céljából,
+- 12. a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság részére eljárási cselekmény lefolytatása céljából,
 - 13. a kritikus szervezet számára a kőolaj- és földgázellátási válsághelyzet, valamint a villamosenergia-rendszer jelentős zavara és villamosenergia-ellátási válsághelyzetre való felkészülés érdekében elvégzett korlátozási besoroláshoz szükséges adatok igazolása céljából,
 - 14. a víziközmű-szolgáltató részére, a közműves ivóvíz-szolgáltatás felfüggesztése vagy korlátozása alóli mentesség igazolása céljából,
 - 15. az általános rendőrségi feladatok ellátására létrehozott szerv részére a közrend védelme és a közbiztonság fenntartása céljából.

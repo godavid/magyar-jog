@@ -376,7 +376,7 @@ kapcsolatos hatósági eljárásokban a hatáskörgyakorlási jogot átruházza.
 
 feladatokat.
 
-(2) Az MNB készpénzszakértői feladatai ellátása során, a szakértői vizsgálat alapján hamisnak minősített fizetőeszközökkel összefüggésben indított büntetőeljárásban történő felhasználás céljából – az adott büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek vagy a nyomozó hatóságnak további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig – jogosult a hamisgyanús fizetőeszközök természetes személy befizetőjének vagy birtokosának családi és utónevét, lakcímét, azonosító okmányának megnevezését és számát kezelni, és ennek keretében az említett adatokat a pénzhamisítási ügyekben a büntetőeljárás során eljáró szervek részére továbbítani. Ha az MNB vagy a (3) bekezdés szerinti szervezet azt állapítja meg, hogy a fizetőeszköz nem hamis, az MNB a tudomására jutott személyes adatokat a készpénzszakértői vizsgálat lezárását követően haladéktalanul törli.
+(2) Az MNB készpénzszakértői feladatai ellátása során, a szakértői vizsgálat alapján hamisnak minősített fizetőeszközökkel összefüggésben indított büntetőeljárásban történő felhasználás céljából – az adott büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, valamint az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy a nyomozó hatóságnak további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig – jogosult a hamisgyanús fizetőeszközök természetes személy befizetőjének vagy birtokosának családi és utónevét, lakcímét, azonosító okmányának megnevezését és számát kezelni, és ennek keretében az említett adatokat a pénzhamisítási ügyekben a büntetőeljárás során eljáró szervek részére továbbítani. Ha az MNB vagy a (3) bekezdés szerinti szervezet azt állapítja meg, hogy a fizetőeszköz nem hamis, az MNB a tudomására jutott személyes adatokat a készpénzszakértői vizsgálat lezárását követően haladéktalanul törli.
 
 (3) A hamisgyanús magyar és külföldi fizetőeszközöket – ideértve az euróban denominált fizetőeszközt is – szakértői vizsgálat céljából az MNB részére meg kell küldeni, vagy az MNB által végzett szakértői vizsgálatra történő továbbítás céljából az MNB elnökének rendeletében meghatározott szervezet részére át kell adni.
 
@@ -2047,7 +2047,7 @@ számított 5 évig kezelheti.
 
 (6) Az elektronikus adat ideiglenes hozzáférhetetlenné tételét az MNB – a 49/D. § (5) bekezdésében foglaltakon kívül – abban az esetben is megszünteti, ha
 
-- a) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés került elrendelésre vagy annak végrehajtása van folyamatban a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, a külön törvényben meghatározott hatóság, illetve az NMHH tájékoztatása alapján; vagy
+- a) elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés került elrendelésre vagy annak végrehajtása van folyamatban a büntetőügyben eljáró bíróság, ügyészség, NVVH vagy nyomozó hatóság, a külön törvényben meghatározott hatóság, illetve az NMHH tájékoztatása alapján; vagy
 - b) az NMHH az Eht. 159/B. § (5) bekezdése alapján jelzi, hogy a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott tartalommal kétséges lehet.
 
 (7) Az MNB a befektetők érdekeinek hatékony védelme érdekében a honlapján közzéteszi az elektronikus adat ideiglenes hozzáférhetetlenné tételének elrendelésével érintett honlapok elnevezését.
@@ -2106,7 +2106,7 @@ terjedhet.
 
 (2) Az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő biztosítási intézkedés fenntartásának indokoltságát a véglegessé válásától számított 365 nap múlva felülvizsgálja és dönt annak megszüntetéséről vagy – ha a befektetők érdekeinek megóvása szükségessé teszi – egy ízben annak további 365 napra történő hatályban tartásáról.
 
-(3) Ha az MNB által folytatott piacfelügyeleti eljárásban vizsgált tevékenység kapcsán büntetőeljárás van folyamatban, az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő biztosítási intézkedés meghozatalával, valamint megszüntetésével egyidejűleg értesíti a büntetőügyben eljáró bíróságot, ügyészséget vagy nyomozó hatóságot, ha megítélése szerint a befektetők érdekeinek megóvása megalapozza az elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve az elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés alkalmazhatóságát.
+(3) Ha az MNB által folytatott piacfelügyeleti eljárásban vizsgált tevékenység kapcsán büntetőeljárás van folyamatban, az MNB az elektronikus adat ideiglenes hozzáférhetetlenné tételét elrendelő biztosítási intézkedés meghozatalával, valamint megszüntetésével egyidejűleg értesíti a büntetőügyben eljáró bíróságot, ügyészséget, az NVVH-t vagy nyomozó hatóságot, ha megítélése szerint a befektetők érdekeinek megóvása megalapozza az elektronikus adat ideiglenes hozzáférhetetlenné tétele büntetőjogi kényszerintézkedés, illetve az elektronikus adat végleges hozzáférhetetlenné tétele büntetőjogi intézkedés alkalmazhatóságát.
 
 (4) Az elektronikus adat ideiglenes hozzáférhetetlenné tételének biztosítási intézkedésként történő alkalmazására egyebekben a 91/A. § (2)–(8) bekezdésében foglaltak az irányadók.
 
@@ -2989,7 +2989,7 @@ részére forintban és külföldi pénznemben bankszámlát vezetni.
 
 (3) Az MNB a 4. § (1) és (7) bekezdésében meghatározott feladata ellátása során a Bszt. szerinti befektetési szolgáltatási tevékenységet kiegészítő szolgáltatásként pénzügyi eszköz letéti őrzését és nyilvántartását láthatja el, ehhez kapcsolódóan ügyfélszámlát vezethet, továbbá letétet kezelhet és ehhez kapcsolódóan értékpapírszámlát vezethet, valamint nyomdai úton előállított értékpapír esetén azt nyilvántarthatja és ügyfélszámlát vezethet.
 
-(4) Az MNB az előkészítő eljárást folytató szerv, a nyomozó hatóság és az ügyészség tevékenységének támogatása céljából, a monetáris finanszírozás 146. § szerinti tilalmának betartásával jogosult forint és külföldi bankjegyeket biztosítani e szervek részére a büntetőeljárás lefolytatásához.
+(4) Az MNB az előkészítő eljárást folytató szerv, a nyomozó hatóság, az NVVH és az ügyészség tevékenységének támogatása céljából, a monetáris finanszírozás 146. § szerinti tilalmának betartásával jogosult forint és külföldi bankjegyeket biztosítani e szervek részére a büntetőeljárás lefolytatásához.
 
 (5) Az MNB a monetáris politika végrehajtásával, devizatartalék kezelésével, bankszámlavezetéssel, fizetési rendszer működtetésével kapcsolatos, valamint a készpénzforgalmazási tevékenysége során a Dáptv. rendelkezéseit a magas vagy jelentős biztonsági osztályba sorolt, zárt célú elektronikus információs rendszereken kívül nyújtott digitális szolgáltatására alkalmazza.
 

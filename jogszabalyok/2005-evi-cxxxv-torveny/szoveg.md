@@ -169,29 +169,29 @@ nyújt a sérelem rendezéséhez.
 
 ### Igazolás
 
-11. § (1) A büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság a támogatás igénybevételéhez, valamint az eltulajdonított személyazonosító igazolvány díjmentes kiállítása érdekében igazolást állít ki az áldozat vagy az áldozatsegítő szolgálat kérelme alapján. Az igazolás tartalmazza
+11. § (1) A büntetőeljárásban eljáró bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), nyomozó hatóság a támogatás igénybevételéhez, valamint az eltulajdonított személyazonosító igazolvány díjmentes kiállítása érdekében igazolást állít ki az áldozat vagy az áldozatsegítő szolgálat kérelme alapján. Az igazolás tartalmazza
 
 - a) az áldozat 10. § (3) bekezdésének a) pontja szerinti adatait,
 - b) a büntetőeljárás tárgyát képező cselekményre vonatkozó adatokat (a tényállás és annak Btk. szerinti minősítése),
-- c) a büntetőeljárásra vonatkozó adatokat (az eljáró bíróság, ügyészség, nyomozó hatóság megnevezése, ügyszám, vádemelés megtörténte, feltételes ügyészi felfüggesztés alkalmazása, a kérelmező eljárásjogi helyzete, az ügyben volt-e/van-e folyamatban közvetítői eljárás).
+- c) a büntetőeljárásra vonatkozó adatokat (az eljáró bíróság, ügyészség, NVVH, nyomozó hatóság megnevezése, ügyszám, vádemelés megtörténte, feltételes ügyészi felfüggesztés alkalmazása, a kérelmező eljárásjogi helyzete, az ügyben volt-e/van-e folyamatban közvetítői eljárás).
 
-(1a) Ha a kárenyhítés iránti kérelmet a bűncselekmény sértettjének halálára tekintettel a 6. § (1) bekezdés b)–d) pontja szerinti személy nyújtja be, a bűncselekmény sértettjének halálát az eljáró bíróság, ügyészség, nyomozó hatóság az (1) bekezdés szerinti igazolásban igazolja.
+(1a) Ha a kárenyhítés iránti kérelmet a bűncselekmény sértettjének halálára tekintettel a 6. § (1) bekezdés b)–d) pontja szerinti személy nyújtja be, a bűncselekmény sértettjének halálát az eljáró bíróság, ügyészség, NVVH vagy nyomozó hatóság az (1) bekezdés szerinti igazolásban igazolja.
 
 (2) Ha az áldozat ellen a 8. § h) pontjában megjelölt bűncselekmény miatt, a kárenyhítésre okot adó bűncselekménnyel összefüggésben büntetőeljárás indult, az igazolás ennek tényét is rögzíti.
 
-(3) A bíróság, az ügyészség, illetve a nyomozó hatóság köteles az igazolást a kérelem kézhezvételét követő munkanapon a hivatali idő végéig kiállítani.
+(3) A bíróság, az ügyészség, az NVVH, illetve a nyomozó hatóság köteles az igazolást a kérelem kézhezvételét követő munkanapon a hivatali idő végéig kiállítani.
 
 (4) Az igazolás hatályát veszti, ha
 
-- a) az igazolásban szereplő cselekmény miatt indított büntetőeljárásban az eljáró bíróság, ügyészség, nyomozó hatóság a feljelentést bűncselekmény vagy bűncselekmény gyanújának hiánya miatt elutasítja, vagy a bíróság eljárást megszüntető jogerős vagy véglegessé vált, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatot hoz,
+- a) az igazolásban szereplő cselekmény miatt indított büntetőeljárásban az eljáró bíróság, ügyészség, NVVH, nyomozó hatóság a feljelentést bűncselekmény vagy bűncselekmény gyanújának hiánya miatt elutasítja, vagy a bíróság eljárást megszüntető jogerős vagy véglegessé vált, illetve az ügyészség, az NVVH vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatot hoz,
 - b) az igazolásban szereplő cselekmény miatt indult szabálysértési eljárásban az eljáró hatóság a szabálysértési eljárást a Szabs. tv. 83. § (1) bekezdés a), f) vagy g) pontjai alapján megszünteti, vagy
 - c) az áldozat kérelmére került kiállításra és azt az áldozat a támogatás iránti kérelmének mellékleteként a kiállítást követő 15 napon túl nyújtja be az áldozatsegítő szolgálathoz.
 
-(5) A büntetőeljárás befejezéséről határozatot hozó bíróság, ügyészség, nyomozó hatóság – ha az ügyben korábban igazolást állítottak ki – 3 napon belül tájékoztatja az áldozatsegítő szolgálatot az eljárás eredményéről.
+(5) A büntetőeljárás befejezéséről határozatot hozó bíróság, ügyészség, NVVH, nyomozó hatóság – ha az ügyben korábban igazolást állítottak ki – 3 napon belül tájékoztatja az áldozatsegítő szolgálatot az eljárás eredményéről.
 
 (5a) Az (5) bekezdés szerinti tájékoztatás tartalmazza
 
-- a) a bíróság, ügyészség, nyomozó hatóság megnevezését, határozatának számát, keltét, a bíróság határozata jogerőre emelkedésének vagy véglegessé válásának napját, illetve az ügyészségi, nyomozó hatósági határozat esetén azt a napot, amelyet követően az további jogorvoslattal nem támadható,
+- a) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság megnevezését, határozatának számát, keltét, a bíróság határozata jogerőre emelkedésének vagy véglegessé válásának napját, illetve az ügyészség, az NVVH, valamint a nyomozó hatóság határozata esetén azt a napot, amelyet követően az további jogorvoslattal nem támadható,
 - b) a támogatás igénybevételéhez kiállított igazolás számát és az abban szereplő áldozat 10. § (3) bekezdés a) pontja szerinti adatait,
 - c) a büntetőeljárásra vonatkozó adatok közül
   - ca)
@@ -217,7 +217,7 @@ nyújt a sérelem rendezéséhez.
 - a) az adóhatóság az adótitokról,
 - b) a pénzügyi intézmény a banktitokról,
 - c) a kezelést végző orvos az orvosi titokról,
-- d) a bíróság, az ügyészség és a nyomozó hatóság a büntetőeljárás állásáról,
+- d) a bíróság, az ügyészség, az NVVH és a nyomozó hatóság a büntetőeljárás állásáról,
 - e) a szabálysértési hatóság, illetve a bíróság a szabálysértési eljárás állásáról,
 - f) tájékoztatja az áldozatsegítő szolgálatot.
 
@@ -234,7 +234,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 15. § (1) Az áldozat a támogatás iránti kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 5 évig köteles visszatéríteni a pénzben nyújtott támogatást, ha
 
-- a) az e törvény szerinti támogatás iránti kérelmet az áldozat bűncselekmény áldozataként nyújtotta be és az eljáró bíróság jogerős ügydöntő határozatában vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatában megállapította, hogy a támogatás alapjául szolgáló cselekmény nem bűncselekmény,
+- a) az e törvény szerinti támogatás iránti kérelmet az áldozat bűncselekmény áldozataként nyújtotta be és az eljáró bíróság jogerős ügydöntő határozatában vagy az ügyészség, az NVVH vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozatában megállapította, hogy a támogatás alapjául szolgáló cselekmény nem bűncselekmény,
 - b) az áldozat a támogatás iránti ügyében valótlan adatot szolgáltatott,
 - c) a kár vagy a rendkívüli kiadás más forrásból részben vagy egészben megtérült, de legfeljebb a megtérülés mértékéig,
 - d) a támogatás igénybevételét kizáró ok a támogatást követően következett be,
@@ -276,7 +276,7 @@ meghatározott feltételek vizsgálatát kell érteni.
 
 (3) Az áldozatsegítő szolgálat a nyilvántartásban rögzített adatokat az áldozatsegítő szolgálathoz fordulás napjától vagy a kérelem előterjesztésétől számított 10 évig tartja nyilván és kezeli.
 
-(4) Az áldozatsegítő szolgálat a nyilvántartás adatairól megkeresésre vagy adatkérésre tájékoztatást ad a büntető-, szabálysértési, közigazgatási vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyészség vagy nyomozó hatóság, a szabálysértési ügyben eljáró szabálysértési hatóság, valamint a jogi segítő számára.
+(4) Az áldozatsegítő szolgálat a nyilvántartás adatairól megkeresésre vagy adatkérésre tájékoztatást ad a büntető-, szabálysértési, közigazgatási vagy polgári ügyben eljáró bíróság, a büntetőügyben eljáró ügyészség, az NVVH vagy nyomozó hatóság, a szabálysértési ügyben eljáró szabálysértési hatóság, valamint a jogi segítő számára.
 
 (5) Az áldozatsegítő szolgálat a gyermekek veszélyeztetettségének megelőzése, megszüntetése céljából a nyilvántartásban szereplő adatokról, az áldozattá válás körülményeire, illetve a kiskorú veszélyeztetettségére utaló adatokról a gyermekjóléti szolgálatoknak, illetve az eljáró gyámhatóságnak tájékoztatást ad.
 
@@ -387,7 +387,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 (3) Érzelmi segítség egyéni és csoportos formában is nyújtható.
 
-26/C. § Az áldozatsegítő szolgálat az eset összes körülményének mérlegelése után az azt igénylő, a magyar nyelvet nem ismerő vagy fogyatékossága miatt jelnyelvi tolmácsolásra szoruló áldozatnak tolmácsolási, fordítási segítséget biztosíthat az e törvényben meghatározott áldozati jogok érvényesülése érdekében, ideértve az áldozat más eljárásban való részvétele érdekében szükséges tolmácsolási, fordítási segítséget. A fordítás és tolmácsolás költségét az áldozatsegítő szolgálat viseli. Ha a fordítás és a tolmácsolás költsége az áldozat büntetőeljárásban való részvételére tekintettel merült fel, az áldozatsegítő szolgálat intézkedik annak érdekében is, hogy az áldozat büntetőeljárásban való részvételére tekintettel felmerült fordítási és tolmácsolási díjat és költséget – a bűnügyi költségként való kezelés érdekében – a büntetőeljárást lefolytató bíróság, ügyészség, vagy nyomozó hatóság felvegye a költségjegyzékbe.
+26/C. § Az áldozatsegítő szolgálat az eset összes körülményének mérlegelése után az azt igénylő, a magyar nyelvet nem ismerő vagy fogyatékossága miatt jelnyelvi tolmácsolásra szoruló áldozatnak tolmácsolási, fordítási segítséget biztosíthat az e törvényben meghatározott áldozati jogok érvényesülése érdekében, ideértve az áldozat más eljárásban való részvétele érdekében szükséges tolmácsolási, fordítási segítséget. A fordítás és tolmácsolás költségét az áldozatsegítő szolgálat viseli. Ha a fordítás és a tolmácsolás költsége az áldozat büntetőeljárásban való részvételére tekintettel merült fel, az áldozatsegítő szolgálat intézkedik annak érdekében is, hogy az áldozat büntetőeljárásban való részvételére tekintettel felmerült fordítási és tolmácsolási díjat és költséget – a bűnügyi költségként való kezelés érdekében – a büntetőeljárást lefolytató bíróság, ügyészség, az NVVH vagy nyomozó hatóság felvegye a költségjegyzékbe.
 
 ### Azonnali pénzügyi segély
 
@@ -456,7 +456,7 @@ formáiról, a jogosultság feltételeiről, az igénylés módjáról, valamint
 
 33. § (1) Az áldozat 8 napon belül köteles bejelenteni, ha
 
-- a) a 8. § c)–e) és h) pontja szerinti kizáró okok valamelyikét bíróság jogerős ügydöntő határozata vagy az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható határozata megállapítja,
+- a) a 8. § c)–e) és h) pontja szerinti kizáró okok valamelyikét bíróság jogerős ügydöntő határozata vagy az ügyészség, az NVVH vagy a nyomozó hatóság további jogorvoslattal nem támadható határozata megállapítja,
 - b) a bűncselekménnyel összefüggésben felmerült kár az elkövetőtől vagy más forrásból megtérült.
 
 (2) A bejelentési kötelezettség az áldozatot a kárenyhítési kérelmet érdemben elbíráló határozat véglegessé válását vagy jogerőre emelkedését követő 3 évig terheli.
@@ -523,11 +523,11 @@ kísérése
 
 ### Együttműködés és kapcsolattartás
 
-43. § (1) Az áldozatsegítő szolgálat feladatai ellátása során együttműködik és kapcsolatot tart a rendőrség áldozatvédelmi hálózatával, a bírósággal, az ügyészséggel, a nyomozó hatósággal a menekültügyi hatósággal, az idegenrendészeti hatósággal, a konzuli szolgálattal, a helyi és nemzetiségi önkormányzatokkal, az egészségügyi intézményekkel, az ifjúságvédelmi szervezetekkel, a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi intézményekkel, a családsegítő szolgálatokkal, az alap- és szakellátást nyújtó szociális szolgáltatókkal és intézményekkel, a köznevelési intézményekkel, a szakképző intézményekkel, a polgárőrséggel, a civil szervezetekkel és a vallási közösségekkel.
+43. § (1) Az áldozatsegítő szolgálat feladatai ellátása során együttműködik és kapcsolatot tart a rendőrség áldozatvédelmi hálózatával, a bírósággal, az ügyészséggel, az NVVH-val, a nyomozó hatósággal, a menekültügyi hatósággal, az idegenrendészeti hatósággal, a konzuli szolgálattal, a helyi és nemzetiségi önkormányzatokkal, az egészségügyi intézményekkel, az ifjúságvédelmi szervezetekkel, a személyes gondoskodást nyújtó gyermekjóléti és gyermekvédelmi intézményekkel, a családsegítő szolgálatokkal, az alap- és szakellátást nyújtó szociális szolgáltatókkal és intézményekkel, a köznevelési intézményekkel, a szakképző intézményekkel, a polgárőrséggel, a civil szervezetekkel és a vallási közösségekkel.
 
 (2) Az áldozatsegítő szolgálat abban az esetben, ha munkája során kiskorú veszélyeztetettségéről szerez tudomást, haladéktalanul jelzi azt a kiskorú tényleges tartózkodási helye szerint illetékes gyermekjóléti szolgálatnak. A kiskorút súlyosan veszélyeztető ok fennállása esetén az áldozatsegítő szolgálat a jelzéssel egyidejűleg hatósági eljárást kezdeményez. Ha az áldozatsegítő szolgálat hozzátartozók közötti erőszak veszélyét észleli, köteles jelzést tenni a családvédelmi koordinációért felelős szervnek.
 
-(3) Az áldozatsegítő szolgálat a 24. § (3) bekezdése szerinti tájékoztatás megtörténtét követően – a büntetőeljárásban eljáró bíróság, ügyészség, nyomozó hatóság egyidejű értesítése mellett – haladéktalanul kezdeményezi az idegenrendészeti hatóságnál a harmadik országbeli állampolgár ideiglenes tartózkodásra jogosító igazolással történő ellátását.
+(3) Az áldozatsegítő szolgálat a 24. § (3) bekezdése szerinti tájékoztatás megtörténtét követően – a büntetőeljárásban eljáró bíróság, ügyészség, NVVH, nyomozó hatóság egyidejű értesítése mellett – haladéktalanul kezdeményezi az idegenrendészeti hatóságnál a harmadik országbeli állampolgár ideiglenes tartózkodásra jogosító igazolással történő ellátását.
 
 ### Az áldozatok közvetlen elérése
 

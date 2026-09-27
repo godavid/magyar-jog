@@ -46,7 +46,7 @@ E törvény célja, hogy védelmet nyújtson a büntetőeljárásban résztvevő
 
 3. § Megállapodás a 2. §-ban meghatározottak személyére tekintettel azok hozzátartozójával, továbbá – kivételesen – más személlyel is köthető, ha azt a fenyegetett helyzetben lévő személy vagy az érintett méltányolható helyzete indokolja és a védelem céljával összeegyeztethető.
 
-4. § (1) A megállapodás megkötésének kezdeményezését a fenyegetett helyzetben lévő személy indítványozhatja, illetve a megállapodás megkötését – hivatalból, a fenyegetett helyzetben lévő személy hozzájárulásával – az 5. § (1) és (2) bekezdésében meghatározott bíróság, ügyészség vagy nyomozó hatóság önállóan is kezdeményezheti.
+4. § (1) A megállapodás megkötésének kezdeményezését a fenyegetett helyzetben lévő személy indítványozhatja, illetve a megállapodás megkötését – hivatalból, a fenyegetett helyzetben lévő személy hozzájárulásával – az 5. § (1) és (2) bekezdésében meghatározott bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy nyomozó hatóság önállóan is kezdeményezheti.
 
 (2) A fenyegetett helyzetben lévő személy a megállapodás megkötésének kezdeményezése iránti indítványát a büntetőeljárás alatt, valamint azt követően a megállapodás megkötésének kezdeményezésére az 5. § (1)–(2a) bekezdésében meghatározott jogosultnál terjesztheti elő.
 
@@ -56,9 +56,9 @@ E törvény célja, hogy védelmet nyújtson a büntetőeljárásban résztvevő
 
 (5) A megállapodás megkötéséig – a sürgősségi intézkedés alkalmazásának kivételével – a fenyegetett helyzetben lévő személy biztonságáért a kezdeményező szerv felel.
 
-5. § (1) A megállapodás megkötését a büntetőeljárást folytató bíróság, ügyészség vagy az ügyészség egyetértésével a nyomozó hatóság kezdeményezheti.
+5. § (1) A megállapodás megkötését a büntetőeljárást folytató bíróság, ügyészség, NVVH vagy az ügyészség, illetve az NVVH egyetértésével a nyomozó hatóság kezdeményezheti.
 
-(2) A büntetőeljárás befejezését követően az (1) bekezdésben meghatározott megállapodás megkötését az a nyomozó hatóság kezdeményezheti, amely előtt a büntetőeljárás folyt. A büntetés-végrehajtási intézetben fogvatartott esetében a megállapodás megkötését a büntetés-végrehajtási intézet, az ügyészség, illetve a büntetés-végrehajtási bíró is kezdeményezheti.
+(2) A büntetőeljárás befejezését követően az (1) bekezdésben meghatározott megállapodás megkötését az a nyomozó hatóság kezdeményezheti, amely előtt a büntetőeljárás folyt. A büntetés-végrehajtási intézetben fogvatartott esetében a megállapodás megkötését a büntetés-végrehajtási intézet, az ügyészség, az NVVH, illetve a büntetés-végrehajtási bíró is kezdeményezheti.
 
 (2a) Fedett nyomozó esetén a megállapodás megkötését a fedett nyomozót foglalkoztató szerv vezetője kezdeményezheti az eljáró vagy eljárt nyomozó hatóság vezetőjének egyetértésével.
 
@@ -195,7 +195,7 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 22. § (1) Ha a személyazonosság megváltoztatását elrendelték, az érintett eredeti személyazonosító adataira az adatzárlatot haladéktalanul el kell rendelni.
 
-(2) A Szolgálat – az érintett biztonsága érdekében – a személyére vonatkozó adatok szolgáltatását megtagadhatja, kivéve, ha az adatszolgáltatást a védelem elrendelésére okot adó büntetőeljárás során az azt folytató nyomozó hatóság, bíróság vagy ügyészség igényli.
+(2) A Szolgálat – az érintett biztonsága érdekében – a személyére vonatkozó adatok szolgáltatását megtagadhatja, kivéve, ha az adatszolgáltatást a védelem elrendelésére okot adó büntetőeljárás során az azt folytató nyomozó hatóság, bíróság, ügyészség vagy NVVH igényli.
 
 (3) A Szolgálat az adatzárlat megszüntetéséről – a 21. §-ban foglalt intézkedések megszüntetése érdekében – haladéktalanul értesíti az azt végrehajtó adatkezelő szervet.
 
@@ -219,7 +219,7 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 
 ### A személyazonosság megváltoztatásával kapcsolatos szabályok
 
-24. § (1) Ha az érintett biztonsága a 16. § (1) bekezdés a)–e) pontjaiban meghatározott óvintézkedések bevezetésével nem biztosítható, a Szolgálat a személyazonosság megváltoztatását az országos rendőrfőkapitány engedélyével kezdeményezi. A Szolgálat a személyazonosság megváltoztatását a legfőbb ügyész által kijelölt ügyész előzetes jóváhagyásával rendeli el.
+24. § (1) Ha az érintett biztonsága a 16. § (1) bekezdés a)–e) pontjaiban meghatározott óvintézkedések bevezetésével nem biztosítható, a Szolgálat a személyazonosság megváltoztatását az országos rendőrfőkapitány engedélyével kezdeményezi. A Szolgálat a személyazonosság megváltoztatását a legfőbb ügyész által kijelölt ügyész vagy az NVVH törvény szerint kijelölt vezetőjének előzetes jóváhagyásával rendeli el.
 
 (2) A személyazonosság megváltoztatására irányuló intézkedés a védelem alatt álló valamennyi személyes adatára kiterjedhet; annak keretében az eredeti személyazonosító adatot rögzítő közokirat helyébe – részben vagy egészben, ideiglenesen vagy véglegesen – megváltoztatott tartalmú adatot tartalmazó olyan okirat állítható ki, amely alkalmas az új személyazonosság bizonyítására (új okirat). Az új okiratban rögzített, megváltoztatott tartalmú adatok nem egyezhetnek meg más természetes személy ugyanolyan, a két személy azonosságát kifejező adataival.
 
@@ -394,7 +394,7 @@ a jogosult – az érintett hozzájárulásával, az akadály megszűnéséig, a
 - a) a Programba felvett személy személyazonosító adatait, valamint a tartózkodási helyére, a személyazonosság megváltoztatásának tényére vonatkozó, továbbá e törvényben foglalt rendelkezések végrehajtása során keletkezett adatokat, illetve
 - b) az 1. számú melléklet szerinti adatokat.
 
-(2) A bíróság, az ügyészség, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szerv és a nemzetbiztonsági szolgálatok a – törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
+(2) A bíróság, az ügyészség, az NVVH, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szerv és a nemzetbiztonsági szolgálatok a – törvényben meghatározott feladataik ellátására, az ott meghatározott körben – a Szolgálattól adatok igénylésére jogosultak.
 
 (3) A Szolgálat adatközlése nem sértheti a védelem érdekeit. Az érintett védelme érdekében az átadott adat felhasználására vonatkozóan a Szolgálat korlátokat határozhat meg.
 

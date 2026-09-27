@@ -239,7 +239,7 @@ tart.
   - ac) azt önkéntes tartalékos katonai szolgálat teljesítése céljából veszik igénybe,
 - b) az igazolatlan távollét időtartama alatt,
 - c) a munkavégzési (szolgálatteljesítési) kötelezettség alóli mentesítés ideje alatt, kivéve, ha a munkavégzés alóli mentesítés idejére a munkaviszonyra vonatkozó szabály szerint átlagkereset jár, vagy munkabér (illetmény), átlagkereset (távolléti díj), táppénzfizetés történt,
-- d) a letartóztatás tartama alatt, kivéve, ha a letartóztatottat jogerősen felmentették, vagy a bíróság jogerős vagy végleges határozatában, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatában a büntetőeljárást megszüntette; továbbá a szabadságvesztés tartama alatt, kivéve, ha az elítéltet utóbb a bíróság jogerősen felmentette (ide nem értve a fogvatartott által a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény szabályai szerint létesített, a 6. § szerint biztosítási kötelezettséggel járó jogviszonyt),
+- d) a letartóztatás tartama alatt, kivéve, ha a letartóztatottat jogerősen felmentették, vagy a bíróság jogerős vagy végleges határozatában, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatában a büntetőeljárást megszüntette; továbbá a szabadságvesztés tartama alatt, kivéve, ha az elítéltet utóbb a bíróság jogerősen felmentette (ide nem értve a fogvatartott által a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló törvény szabályai szerint létesített, a 6. § szerint biztosítási kötelezettséggel járó jogviszonyt),
 - e) az ügyvédi tevékenység szünetelésének ideje alatt, a közjegyző, a szabadalmi ügyvivő kamarai tagságának szüneteltetése alatt,
 - f) az egyéni vállalkozói tevékenység szünetelésének ideje alatt,
 - g) az állategészségügyi szolgáltató tevékenységet végző állatorvos tevékenységének szünetelése alatt,
@@ -814,7 +814,7 @@ továbbá a fenti adatok változásáról, azok időpontjáról, nyilvántartás
 
 (2) Az igazgatási szerv, valamint a társadalombiztosítási feladatokat ellátó foglalkoztatók és egyéb szervek nem társadalombiztosítási szerv és természetes személy részére adatot csak törvény, illetve törvény felhatalmazása alapján a felhasználás céljának és jogalapjának egyidejű megjelölése mellett jogszabályban meghatározott módon szolgáltatnak.
 
-(3) A bíróság, az ügyészség, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok feladataik ellátása érdekében a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
+(3) A bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bűnüldözés és a büntetés-végrehajtás szervei, valamint a nemzetbiztonsági szolgálatok feladataik ellátása érdekében a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének igénylésére jogosultak.
 
 (4)
 

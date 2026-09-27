@@ -4044,7 +4044,7 @@ jogerős határozat vele történő közlésétől számított egy éven belül 
 
 213. § A halottból transzplantáció céljára eltávolított, de fel nem használt szerveket, szöveteket kórszövettani vizsgálatnak kell alávetni.
 
-214. § Szerv- és szövetátültetés céljára – jogszabály eltérő rendelkezése hiányában, a 211. §-ban foglalt keretek között – bűncselekmény áldozatából is sor kerülhet szerv és szövet eltávolítására, amennyiben a bíróság, az ügyészség, illetve a nyomozó hatóság ahhoz előzetesen írásban hozzájárulását adta. Ebben az esetben a beavatkozás során okozott elváltozásokat részletesen dokumentálni kell.
+214. § Szerv- és szövetátültetés céljára – jogszabály eltérő rendelkezése hiányában, a 211. §-ban foglalt keretek között – bűncselekmény áldozatából is sor kerülhet szerv és szövet eltávolítására, amennyiben a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság ahhoz előzetesen írásban hozzájárulását adta. Ebben az esetben a beavatkozás során okozott elváltozásokat részletesen dokumentálni kell.
 
 ### Szerv és szövet beültetése
 
@@ -4617,7 +4617,7 @@ dönt.
 
 235. § (1) Az egészségügyi szakértő a tevékenységét kirendelés, jogszabályban előírt feladat vagy megbízás keretében végzi.
 
-(2) Az egészségügyi dolgozó, ha a rendőrség, az ügyészség vagy a bíróság szakértőnek kirendeli, e kirendelésnek köteles eleget tenni. Ez alól csak jogszabályban megállapított esetben lehet kérelemre felmentést adni.
+(2) Az egészségügyi dolgozó, ha a rendőrség, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a bíróság szakértőnek kirendeli, e kirendelésnek köteles eleget tenni. Ez alól csak jogszabályban megállapított esetben lehet kérelemre felmentést adni.
 
 236. § (1) Az egészségügyi szakértő nem adhat szakvéleményt abban az ügyben, amelyben saját maga vagy közeli hozzátartozója érintett, illetőleg ha tőle bármely egyéb okból az ügy tárgyilagos megítélése nem várható (elfogultság).
 

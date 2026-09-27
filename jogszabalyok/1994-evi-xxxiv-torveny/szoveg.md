@@ -86,7 +86,7 @@ Az Országgyűlés az Alaptörvénynek és Magyarország nemzetközi jogi kötel
 3/B. § (1) A hozzáférhetetlenné tételt, illetve az ideiglenes hozzáférhetetlenné tételt a rendőrség megszünteti, ha
 
 - a) az elrendelés oka megszűnt,
-- b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelésre került vagy végrehajtása van folyamatban, vagy
+- b) a büntetőügyben eljáró bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelésre került vagy végrehajtása van folyamatban, vagy
 - c) a rendelkezés elektronikus hírközlési szolgáltatók általi végrehajtása a megadott adattartalommal kétséges lehet.
 
 (2) A megszüntető döntésre a 3. § (2)–(4) bekezdésében foglaltakat kell alkalmazni.
@@ -1597,7 +1597,7 @@ szükségesek.
 
 (2) Az e törvényben meghatározott feladatok ellátása érdekében a rendőrség – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet az (1) bekezdés hatálya alá tartozó szervezeteknél.
 
-(3) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Sándor-palotánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
+(3) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az NVVH-nál, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Sándor-palotánál, az Országgyűlés Hivatalánál.
 
 (4) A foglalkoztatás rendőri jellegével kapcsolatos speciális szabályokat a titkos együttműködési megállapodásban kell rögzíteni.
 
@@ -1819,9 +1819,11 @@ egyértelmű azonosítására szolgáló adatokat.
 
 75/I. § (1) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül kezdeményezi a büntetőeljárás megindítását.
 
+(1a) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 817/A. § (1) bekezdése szerinti, közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül az NVVH-nál kezdeményezi a büntetőeljárás megindítását.
+
 (2) Ha a bírói engedélyhez kötött eszköz alkalmazását nem maga a titkos információgyűjtést folytató szerv hajtotta végre, az (1) bekezdésben meghatározott határidőt attól a naptól kell számítani, amikor a titkos információgyűjtésnek az (1) bekezdés szerint felhasználni kívánt eredményét tartalmazó adathordozó, irat vagy annak kivonata a titkos információgyűjtést folytató szervhez megérkezett.
 
-(3) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három napon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.
+(3) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a Be. 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három napon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.
 
 ### A titkos információgyűjtéssel és a leplezett eszközök alkalmazásával kapcsolatos sajátos gazdálkodási szabályok
 
@@ -2192,8 +2194,9 @@ bűnüldözési adatállományban kezelheti.
 - c) a nemzetbiztonsági szolgálatok,
 - d) a Nemzeti Adó- és Vámhivatal nyomozó hatósága,
 - e) a honvédelmi igazgatás szervei,
-- f) a büntetés-végrehajtás szerve, továbbá
-- g) az igazságügyért felelős minisztérium nemzetközi bűnügyi együttműködésért felelős szerve
+- f) a büntetés-végrehajtás szerve,
+- g) az igazságügyért felelős minisztérium nemzetközi bűnügyi együttműködésért felelős szerve, továbbá
+- h) az NVVH
 
 részére.
 
@@ -2305,7 +2308,7 @@ részére.
 - a) Magyarország államhatárát nem határátkelőhelyen vagy határátlépési ponton lépték át, vagy
 - b) személyazonosságukat hitelt érdemlően nem tudják igazolni.
 
-(2) A rendőrség az (1) és (1a) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
+(2) A rendőrség az (1) és (1a) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, az NVVH-nak, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
 
 (2a) A rendőrség (1) bekezdésben meghatározott nyilvántartásából az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság – a huzamos tartózkodás jogszerűségének ellenőrzése céljából – a konkrét cél megjelölésével átveheti.
 
@@ -2328,7 +2331,7 @@ részére.
 
 - a) – ha e cselekmények megelőzésére, felderítésére feladat- és hatáskörrel rendelkezik – a nemzetbiztonsági szolgálatok, a rendőrség, a Nemzeti Adó- és Vámhivatal,
 - b) a büntetőeljárásról szóló törvény szerinti előkészítő eljárást folytató szerv,
-- c) a büntetőügyben eljáró nyomozó hatóság, ügyészség és bíróság
+- c) a büntetőügyben eljáró nyomozó hatóság, ügyészség, az NVVH és bíróság
 
 az Európai Határregisztrációs Rendszerből adatot igényelhet a központi hozzáférési ponthoz benyújtott, indokolással ellátott kérelem útján.
 
@@ -2341,7 +2344,7 @@ az Európai Határregisztrációs Rendszerből adatot igényelhet a központi ho
 - c) a Magyarország területére történő beutazási határátkelőhelyet,
 - d) a tervezett indulási és a célállomásra történő érkezési időt.
 
-(3) A rendőrség a (2) bekezdésben felsorolt adatokat a határforgalom-ellenőrzés végrehajtásának céljából nyilvántartja. A nyilvántartott adatot az utas beléptetését vagy beléptetésének megtagadását követően, de legkésőbb az adatok átvételétől számított huszonnégy órán belül törli, kivéve, ha arra határrendészeti feladatainak végrehajtásához, illetve büntető- vagy szabálysértési eljárás lefolytatásához szüksége van. A határrendészeti feladat végrehajtását követően, illetve a szabálysértési eljárás jogerős befejezésekor, valamint a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor a nyilvántartott adatot haladéktalanul törölni kell.
+(3) A rendőrség a (2) bekezdésben felsorolt adatokat a határforgalom-ellenőrzés végrehajtásának céljából nyilvántartja. A nyilvántartott adatot az utas beléptetését vagy beléptetésének megtagadását követően, de legkésőbb az adatok átvételétől számított huszonnégy órán belül törli, kivéve, ha arra határrendészeti feladatainak végrehajtásához, illetve büntető- vagy szabálysértési eljárás lefolytatásához szüksége van. A határrendészeti feladat végrehajtását követően, illetve a szabálysértési eljárás jogerős befejezésekor, valamint a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezésekor, illetve az ügyészség, az NVVH vagy a nyomozó hatóság további jogorvoslattal nem támadható eljárást megszüntető határozata meghozatalakor a nyilvántartott adatot haladéktalanul törölni kell.
 
 (3a) A rendőrség (3) bekezdésben meghatározott nyilvántartásából a (2) bekezdésben meghatározott adatokat az utasadat-információs egység – a nemzetbiztonsági szolgálatokról szóló törvény szerint terrorista és súlyos bűncselekménynek minősülő bűncselekményre vonatkozó információ feltárása esetén, ha az utasadatok kockázatelemzésére vonatkozó törvényi feltételek teljesülnek –, valamint a Nemzeti Információs Központ – elemzés-értékelés, továbbá hírigény teljesítése céljából – a konkrét cél megjelölésével átveheti.
 
@@ -2402,7 +2405,7 @@ a rendőrség a gyorsított átléptetésre való jogosultság a)–d) pontban m
 
 (6) A (2) bekezdés szerinti személy határforgalom-ellenőrzése során a 91/K. §-ban foglaltaktól az (EU) 2016/399 európai parlamenti és tanácsi rendelettel összhangban lehet eltérni.
 
-(7) A rendőrség a (2) bekezdés szerinti adatállományból adatot szolgáltat törvényben meghatározott feladata teljesítése érdekében a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
+(7) A rendőrség a (2) bekezdés szerinti adatállományból adatot szolgáltat törvényben meghatározott feladata teljesítése érdekében a bíróságnak, az ügyészségnek, az NVVH-nak, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
 
 (8) A határ menti ingázó foglalkoztatója az általa foglalkoztatott határ menti ingázó személy (2) bekezdés a)–h) pontja szerinti adatait előzetes tájékoztatásként átadhatja a rendőrség részére, amelyben tájékoztatást nyújthat arról is, hogy az érintett személy a (2) bekezdés szerinti adatállományba való felvétel iránti kérelmét a határátlépés során jelezni fogja. A rendőrség az előzetes tájékoztatás keretében kapott adatokat az átadástól számított 60 napig kezeli.
 
@@ -2416,7 +2419,7 @@ a rendőrség a gyorsított átléptetésre való jogosultság a)–d) pontban m
 
 (10) A rendőrség a (9) bekezdés szerinti adatokat a kérelem rögzítésétől számított 180 napig kezeli.
 
-(11) A rendőrség a (9) bekezdés szerinti adatállományból adatot szolgáltat törvényben meghatározott feladatai teljesítése érdekében a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
+(11) A rendőrség a (9) bekezdés szerinti adatállományból adatot szolgáltat törvényben meghatározott feladatai teljesítése érdekében a bíróságnak, az ügyészségnek, az NVVH-nak, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, a nemzetbiztonsági szolgálatoknak, továbbá az állami adó- és vámhatóságnak.
 
 91/O. § (1) A rendőrség a határellenőrzési feladatok folyamatos ellátása érdekében elektronikus úton technikai másolatot vehet át az alábbi nyilvántartásokból:
 

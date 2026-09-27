@@ -387,7 +387,7 @@ látja el.
 
 (2) Az adatrögzítő berendezések által rögzített adatok, információk visszanyerése, kiolvasása iránt a vizsgálóbizottság intézkedik. Amennyiben a vizsgálóbizottság nem rendelkezik ehhez megfelelő eszközzel vagy berendezéssel, abban az esetben olyan más, hazai vagy külföldi szervezethez fordulhat, amely a vizsgálat elvégzéséhez szükséges feltételeket biztosítja.
 
-(3) Az (1) bekezdés szerinti adatokat, információkat – figyelemmel a 18. § (6) bekezdésére – a bíróság, az ügyészség vagy a nyomozó hatóság megismerheti.
+(3) Az (1) bekezdés szerinti adatokat, információkat – figyelemmel a 18. § (6) bekezdésére – a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság megismerheti.
 
 (4) A járművekben lévő adatrögzítőket – beleértve a hangrögzítőket is – a közlekedésbiztonsági szerv a szakmai kivizsgálás eredményessége érdekében abban az esetben is lefoglalhatja, illetve elrendelheti azok adattartalmának letöltését, ha ezzel a jármű újbóli üzembe helyezését késlelteti.
 
@@ -397,11 +397,11 @@ látja el.
 
 (2) A közlekedésbiztonsági szerv az őrizetébe került bizonyítékokat erre alkalmas módon berendezett, elkülönített és az illetéktelenek elől elzárt helyen őrzi meg, és a megőrzés során gondoskodik a bizonyítékok azonosíthatóságáról és megváltoztathatatlanságáról.
 
-(3) A bíróság, az ügyészség, a nyomozó hatóság és a szabálysértési hatóság által lefoglalt bizonyítékoknak a vizsgálóbizottság által szükségesnek ítélt vizsgálata iránt – az érintett hatóságokkal egyeztetett módon – a vizsgálóbizottság vezetője intézkedik.
+(3) A bíróság, az ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság és a szabálysértési hatóság által lefoglalt bizonyítékoknak a vizsgálóbizottság által szükségesnek ítélt vizsgálata iránt – az érintett hatóságokkal egyeztetett módon – a vizsgálóbizottság vezetője intézkedik.
 
 (4) A közlekedési esemény szakmai vizsgálata során átvett vagy lefoglalt bármely járművet, berendezést és egyéb dolgot, ha arra a vizsgálat lefolytatásához már nincs szükség, át kell adni
 
-- a) a további vizsgálatot végző bíróság, ügyészség, nyomozó hatóság vagy más hatóság részére, ha e szerv vagy hatóság azt szükségesnek tartja,
+- a) a további vizsgálatot végző bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó hatóság vagy más hatóság részére, ha e szerv vagy hatóság azt szükségesnek tartja,
 - b) egyéb esetben a tulajdonosának, üzemben tartójának vagy az általuk kijelölt szervezet, személy részére, illetve amennyiben ezek nem ismertek, annak, akitől az lefoglalásra került.
 
 (5) Ha a jogosult a dolgot megfelelő határidő alatt felszólításra nem szállítja el, a közlekedésbiztonsági szerv – állami légijármű, honvédelmi, nemzetbiztonsági és rendvédelmi célú vasúti jármű vagy úszólétesítmény kivételével – értékesítés és felhasználás tekintetében a jogalap nélküli birtoklás szabályai szerint jár el (Ptk. 5:12. §). Állami légijármű, honvédelmi és rendvédelmi célú vasúti jármű vagy úszólétesítmény tekintetében az üzemben tartó a jármű, berendezés és egyéb dolog átvételéről köteles intézkedni.

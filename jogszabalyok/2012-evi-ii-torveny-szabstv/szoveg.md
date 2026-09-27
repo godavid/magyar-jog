@@ -56,7 +56,7 @@ A társadalmi együttélés általánosan elfogadott szabályait sértő vagy ve
 
 (3) Ha a szabálysértés jogellenes állapot előidézésével, illetve fenntartásával vagy kötelesség teljesítésének elmulasztásával valósul meg, az elévülési határidő mindaddig nem kezdődik el, amíg ez az állapot fennáll, illetve amíg a kötelesség jogszerűen teljesíthető lett volna.
 
-(4) Ha az elkövetéstől számított hat hónapon belül a cselekmény miatt büntetőeljárás indul, de a nyomozó hatóság, az ügyészség vagy a bíróság a szabálysértési eljárás lefolytatása céljából az ügyet átteszi a szabálysértési hatósághoz vagy a szabálysértés miatt eljáró bírósághoz, az (1) bekezdés szerinti elévülés az áttételt elrendelő határozatnak a szabálysértési hatósághoz, illetve a szabálysértés miatt eljáró bírósághoz érkezése napjával újrakezdődik.
+(4) Ha az elkövetéstől számított hat hónapon belül a cselekmény miatt büntetőeljárás indul, de a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy a bíróság a szabálysértési eljárás lefolytatása céljából az ügyet átteszi a szabálysértési hatósághoz vagy a szabálysértés miatt eljáró bírósághoz, az (1) bekezdés szerinti elévülés az áttételt elrendelő határozatnak a szabálysértési hatósághoz, illetve a szabálysértés miatt eljáró bírósághoz érkezése napjával újrakezdődik.
 
 (5) A szabálysértés miatt az eljárás alá vont személy ellen a szabálysértési hatóság, a fegyelmi jogkör gyakorlója, az ügyészség és a bíróság által foganatosított eljárási cselekmények az elévülést félbeszakítják. A félbeszakítás napjával az elévülési idő újrakezdődik.
 
@@ -2751,7 +2751,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
   - ge) hozzáférési jogosultságának terjedelmét és körét, keletkezésének és törlésének tényét és időpontját,
   - gf) egyedi azonosítóit.
 
-(3) Az adatkezelés jogszerűségének ellenőrzése céljából a szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatok teljes körét a szabálysértési nyilvántartó szerv, a törvényességi felügyeletet ellátó ügyész, az Alkotmányvédelmi Hivatal, a büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv közvetlen adathozzáféréssel történő adatátvétellel jogosult átvenni.
+(3) Az adatkezelés jogszerűségének ellenőrzése céljából a szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatok teljes körét a szabálysértési nyilvántartó szerv, a törvényességi felügyeletet ellátó ügyész, az Alkotmányvédelmi Hivatal, a büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv közvetlen adathozzáféréssel történő adatátvétellel jogosult átvenni.
 
 (4) A szabálysértési nyilvántartási rendszer használatára jogosultak nyilvántartásában kezelt adatokat a jogosultság törlésétől számított öt évig kell megőrizni.
 
@@ -2788,7 +2788,7 @@ eredményeként a jogerős határozat megváltoztatására, vagy hatályon kív�
 - b) az ügyészség, az ügyész szabálysértési eljárásban történő részvételével összefüggő feladatok ellátása érdekében,
 - c) a rendőrség, az e törvényben foglalt feladatai ellátása, valamint a törvényben meghatározott engedélyezési, illetve a fegyver jogszerű használatához előírt feltételek kiskorú számára történő igazolására vagy ellenőrzésére irányuló eljárás során az engedély kiadásához, illetve a fegyver jogszerű használatához előírt feltételek megállapítása és ellenőrzése céljából,
 - d) a szabálysértési hatóság, illetve a helyszíni bírság kiszabására jogosult szerv vagy személy, az állami foglalkoztatási szerv, a büntetés-végrehajtási szerv, valamint a szabálysértési szabályozásért felelős miniszter a szabálysértési méltányossági eljárás során az e törvényben foglalt feladataik ellátása céljából,
-- e) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából,
+- e) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából,
 - f) a nemzetbiztonsági szolgálatok, nemzetbiztonsági ellenőrzés, egyszerűsített nemzetbiztonsági ellenőrzés, belső biztonsági és bűnmegelőzési célú ellenőrzés, kifogástalan életvitel ellenőrzés, illetve megbízhatósági vizsgálat lefolytatása céljából,
 - g) a legfőbb ügyész, illetve az igazságügyért felelős miniszter a kegyelmi eljárás lefolytatása céljából, valamint
 - h) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve törvényben meghatározott feladatai ellátása érdekében.
@@ -2929,7 +2929,7 @@ kell közölni.
 (5) Az adattovábbítási nyilvántartásból adatigénylésre jogosult az érintetten kívül
 
 - a) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- b) büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
+- b) büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv,
 - c) az adattovábbításban érintett szabálysértési hatóság vezetője,
 - d) a nemzetbiztonsági szolgálatok,
 - e)

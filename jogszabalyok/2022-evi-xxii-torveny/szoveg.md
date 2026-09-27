@@ -149,8 +149,9 @@ a területi közigazgatás működésével kapcsolatos egyes kérdésekről, val
 - b) nyomozó hatóságnak bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - c) ügyészségnek közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) nemzetbiztonsági szolgálatnak felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
-- e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából, valamint
-- f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából
+- e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
+- f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából,
+- g) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából
 
 erre irányuló megkeresés alapján adja át.
 
@@ -247,8 +248,9 @@ az ügyfelet.
 - d) nemzetbiztonsági szolgálatnak felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 - f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából,
-- g) a szabálysértési hatóságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint szabálysértési eljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából, valamint
+- g) a szabálysértési hatóságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint szabálysértési eljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - h) a Nemzeti Adatvédelmi és Információszabadság Hatóságnak a személyes adatok védelméhez való jog érvényesülésének ellenőrzésével és annak elősegítésével összefüggő feladat- és hatáskörének gyakorlása céljából,
+- i) NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 
 erre irányuló megkeresés alapján adja át.
 
@@ -282,7 +284,7 @@ erre irányuló megkeresés alapján adja át.
 (7) A (2) bekezdés szerint naplózott adatok kizárólag törvényben meghatározott feladatkörében eljáró
 
 - a) bíróságnak az előtte folyamatban lévő eljárás lefolytatása,
-- b) ügyészségnek és nyomozó hatóságnak a büntetőeljárás lefolytatása,
+- b) ügyészségnek, NVVH-nak és nyomozó hatóságnak a büntetőeljárás lefolytatása,
 - c) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése,
 - d) egyéb, erre törvény alapján jogosult hatóságnak az előtte folyamatban lévő eljárás tényállásának feltárása
 
@@ -411,8 +413,9 @@ biztosító elektronikus felületet (a továbbiakban: Hazaváró Portál) műkö
 - d) nemzetbiztonsági szolgálatnak felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 - f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából,
-- g) szabálysértési hatóságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint szabálysértési eljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából, valamint
+- g) szabálysértési hatóságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint szabálysértési eljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - h) Nemzeti Adatvédelmi és Információszabadság Hatóságnak a személyes adatok védelméhez való jog érvényesülésének ellenőrzésével és annak elősegítésével összefüggő feladat- és hatáskörének gyakorlása céljából,
+- i) NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 
 erre irányuló megkeresés alapján adja át.
 

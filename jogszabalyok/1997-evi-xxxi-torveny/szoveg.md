@@ -2746,7 +2746,7 @@ felülvizsgálja a családi pótlék szüneteltetésének szükségességét.
 
 72. § (1) Ha a gyermek
 
-- a) felügyelet nélkül marad, vagy testi, értelmi, érzelmi és erkölcsi fejlődését családi környezete vagy önmaga súlyosan veszélyezteti, és emiatt azonnali elhelyezése szükséges, a gyámhatóság, valamint a rendőrség, az idegenrendészeti hatóság, a menekültügyi hatóság, az ügyészség, a bíróság, a büntetés-végrehajtási intézet parancsnoksága (a továbbiakban: beutaló szerv) a gyermeket azonnal végrehajtható határozatával ideiglenesen
+- a) felügyelet nélkül marad, vagy testi, értelmi, érzelmi és erkölcsi fejlődését családi környezete vagy önmaga súlyosan veszélyezteti, és emiatt azonnali elhelyezése szükséges, a gyámhatóság, valamint a rendőrség, az idegenrendészeti hatóság, a menekültügyi hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a bíróság, a büntetés-végrehajtási intézet parancsnoksága (a továbbiakban: beutaló szerv) a gyermeket azonnal végrehajtható határozatával ideiglenesen
   - aa) a nevelésére alkalmas, azt vállaló különélő szülőnél, más hozzátartozónál, illetve személynél helyezi el, vagy
   - ab) ha az aa) alpontban foglaltak alkalmazására nincs lehetőség, 1. a tizenkettedik életévét be nem töltött gyermek esetén minden esetben a legközelebbi ideiglenes hatállyal elhelyezett gyermekek ellátását is biztosító nevelőszülőnél helyezi el, kivéve, ha egészségi vagy személyiségállapota, ön- és közveszélyes magatartása ezt nem teszi lehetővé vagy más okból szükséges az intézményes elhelyezés biztosítása, 2. a tizenkettedik életévét betöltött gyermek esetén lehetőség szerint a legközelebbi ideiglenes hatállyal elhelyezett gyermekek ellátását is biztosító nevelőszülőnél, vagy ha erre nincs lehetőség vagy azt a gyermek egészségi vagy személyiségállapota, ön- és közveszélyes magatartása indokolja vagy más okból szükséges az intézményes elhelyezés biztosítása, – az ideiglenes hatályú elhelyezés biztosítására is kijelölt – gyermekotthonban, gyermekotthon speciális csoportjában, speciális lakásotthonban, fogyatékos személyek vagy pszichiátriai betegek otthonában, vagy az Szt. 75. §-a szerinti támogatott lakhatásban; vagy
 - b) érdekében áll az anya letartóztatásának elrendelése esetén az anyával történő együttes elhelyezése, a letartóztatás elrendeléséről szóló határozat meghozatalakor a bíróság a gyermeket ideiglenesen, az anya fogvatartásának helye szerint a büntetés-végrehajtási intézet anya-gyermek részlegén vagy a javítóintézet fiatalkorú és gyermeke együttes elhelyezését biztosító részlegén helyezi el.
@@ -3534,7 +3534,7 @@ kell törölni.
 - e) az ellátásra köteles helyi önkormányzat és az állam fenntartói feladatait ellátó szerv ellátásszervezési feladataik ellátása céljából,
 - f) a kincstár és az állami támogatást megállapító, folyósító vagy ellenőrző más szerv az állami támogatás megállapítása és ellenőrzése céljából,
 - g) a minisztérium és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztérium az ágazati irányítási tevékenység ellátása céljából,
-- h) a rendőrség, a nyomozó hatóság, az ügyészség, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
+- h) a rendőrség, a nyomozó hatóság, az ügyészség, az NVVH, a bíróság és az igazságügyi szakértő bűnüldözés és bűnmegelőzés, illetve bírósági eljárás lefolytatása céljából.
 
 (8)
 
@@ -4168,7 +4168,7 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 - a) a gyermekvédelmi és gyámügyi igazgatási eljárás során az eljárása alá vont ügyfélre ismert természetes személyazonosító adatainak közlésével, az ügyfélre vonatkozó a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény 11. §-a (1) bekezdésének a)–e), g)–h), k) és m) pontja szerinti adatai tekintetében egyedi adatszolgáltatást kérhet a jogosultság megállapításához, illetve a hatósági intézkedések megtételéhez a polgárok személyi adatait és lakcímét nyilvántartó szervtől, amely adatokat a hatáskört gyakorló szerv az eljárása befejezéséig kezelhet azzal, hogy az átvett adatokat a hatáskört gyakorló szerv nem továbbíthatja,
 - b) a gyámsággal és a gondnoksággal kapcsolatos ügyekben, valamint a kiskorúak vagyoni ügyeiben – vagyoni érdekei védelmében – a gyámság, gondnokság alatt álló, illetve a kiskorú személy valamennyi ingatlanára vonatkozóan a tulajdoni lapon szereplő adatokról adatszolgáltatást kérhet az ingatlanügyi hatóságtól.
 
-(6) A személyes adatok felhasználására a miniszter, a gyermek- és ifjúságpolitikáért felelős miniszter, a helyi önkormányzat, a gyermekvédelmi és gyámügyi igazgatási hatáskört, illetve szociális hatáskört gyakorló szerv, a személyes gondoskodást nyújtó személy és intézmény, köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény, az ügyészség, a nyomozó hatóság, az ingatlan-nyilvántartási szerv, valamint pénzintézet, külföldi hatóság és bíróság jogosult e törvényben meghatározott módon és mértékben.
+(6) A személyes adatok felhasználására a miniszter, a gyermek- és ifjúságpolitikáért felelős miniszter, a helyi önkormányzat, a gyermekvédelmi és gyámügyi igazgatási hatáskört, illetve szociális hatáskört gyakorló szerv, a személyes gondoskodást nyújtó személy és intézmény, köznevelési intézmény, szakképző intézmény és felsőoktatási intézmény, az ügyészség, az NVVH, a nyomozó hatóság, az ingatlan-nyilvántartási szerv, valamint pénzintézet, külföldi hatóság és bíróság jogosult e törvényben meghatározott módon és mértékben.
 
 (7)
 
@@ -4303,7 +4303,7 @@ vonatkozó adatokat kezelhet.
 
 (6c) A Gyermekeink védelmében elnevezésű informatikai rendszerbe bekerülő (2) bekezdés a)–c) pontja és az (5) bekezdés szerinti személyek azonosítása, adatainak ellenőrzése céljából a kincstár a Tbj. 57. § (1) bekezdése szerinti nyilvántartásából átadja a Gyermekeink védelmében elnevezésű informatikai rendszer számára a Tbj. 57. § (2) bekezdés a)–i) és o) pontja szerinti adatokat.
 
-(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, rendőrség, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő és az anyakönyvvezető jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
+(6d) A törvényben meghatározott feladata teljesítése érdekében a feladatkörében eljáró bíróság, ügyészség, az NVVH, rendőrség, pártfogó felügyelői szolgálat és büntetés-végrehajtási intézet, valamint a védőnő és az anyakönyvvezető jogosult a Központi Kormányzati Szolgáltatás Busz szolgáltatás igénybevételével közvetlen adatigényléssel megismerni a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrendszeréből, hogy
 
 - a) az az adott gyermekre tartalmaz-e adatot,
 - b) ha az adott gyermekre tartalmaz adatot, akkor ki a gyermek törvényes képviselője, és ha van rá adat,
@@ -4455,7 +4455,7 @@ vonatkozó adatokat kezelhet.
 (2) A gyermek személyazonosító adatai, továbbá az egészségi állapotára és vagyoni viszonyaira vonatkozó adatok továbbíthatók
 
 - a) a szociális hatáskört gyakorló szervnek a szociális ellátás megállapítása,
-- b) a rendőrségnek, a nyomozó hatóságnak, az ügyészségnek, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
+- b) a rendőrségnek, a nyomozó hatóságnak, az ügyészségnek, az NVVH-nak, a bíróságnak, az igazságügyi szakértőnek a bűnüldözés és bűnmegelőzés, valamint bírósági eljárás lefolytatása, továbbá a pártfogó felügyelőnek a büntetőeljárásról szóló törvény szerinti környezettanulmány, pártfogó felügyelői vélemény és összefoglaló pártfogó felügyelői vélemény elkészítése,
 - c) a külföldi hatóságnak, illetve bíróságnak családi jogállás, gyermektartás, kapcsolattartás, gyámság, örökbefogadás, a gyermek érdekében tett ideiglenes intézkedés, valamint a gyermek jogellenes külföldre vitelének megszüntetése céljából,
 - d) a minisztériumnak és a gyermek- és ifjúságpolitikáért felelős miniszter által vezetett minisztériumnak, a gyermekvédelmi ágazati irányítási tevékenység és a külön jogszabályban meghatározott központi hatósági feladatok ellátása
 
@@ -4782,7 +4782,7 @@ a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrends
 
 142/C. § Az eseti gondnokot, illetve eseti gyámot kirendelő hatóság a nyilvántartásba történő bejegyzés céljából a döntését megküldi az Országos Bírósági Hivatal (a továbbiakban: nyilvántartást vezető szerv) részére. A nyilvántartásba az adatokat a nyilvántartást vezető szerv jegyzi be.
 
-142/D. § A nyilvántartást vezető szerv az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett a nyilvántartáshoz ingyenesen közvetlen hozzáférést biztosít.
+142/D. § A nyilvántartást vezető szerv az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv, illetve más közigazgatási szerv, a közjegyző, a bírósági végrehajtó, a felszámoló részére a közfeladataik ellátása érdekében, a közfeladat megjelölése mellett a nyilvántartáshoz ingyenesen közvetlen hozzáférést biztosít.
 
 ### XXII. Fejezet — A gyermekek védelmének főbb finanszírozási szabályai
 
@@ -5742,7 +5742,7 @@ X. Fegyelmi, szabálysértési, kártérítési és személyiségi jogsértésse
 
 1. folyamatban levő fegyelmi eljárások adatai,
 
-2. folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának adatai,
+2. folyamatban levő büntetőeljárás, valamint korábbi büntetőügyben a bíróság jogerős vagy véglegessé vált határozatának, valamint az ügyészség, az NVVH, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozatának adatai,
 
 3. folyamatban levő szabálysértési eljárás, valamint korábbi szabálysértésben a bíróság jogerős vagy véglegessé vált határozatának, valamint a szabálysértési hatóság további jogorvoslattal nem támadható határozatának adatai,
 

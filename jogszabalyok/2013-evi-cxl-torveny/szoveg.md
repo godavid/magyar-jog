@@ -169,7 +169,7 @@ törli.
 
 (7) A nyilvántartásában szereplő (3) bekezdés a)–d) és f) pontja szerinti adatokról a fémkereskedelmi hatóság megkeresésre, illetve adatkérésre tájékoztatja
 
-- a) bíróságot, az ügyészséget vagy a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása,
+- a) bíróságot, az ügyészséget, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt vagy a nyomozó hatóságot, ha a tájékoztatás a büntetőeljárás megindítása vagy lefolytatása,
 - b) a hulladékgazdálkodási hatóságot, ha a tájékoztatás a hulladékgazdálkodási hatósági engedélyezési eljárás lefolytatása, a hulladékgazdálkodási tevékenység ellenőrzése, a hulladékgazdálkodási bírság kiszabása,
 - c) a közlekedési hatóságot, ha a tájékoztatás a hulladékká vált gépjárművekre vonatkozó szabályok megtartásának ellenőrzése
 
@@ -424,7 +424,7 @@ vagy e személyek egy meghatározott csoportja ellenőrzésének lefolytatása c
 
 véglegessé vált határozatban bírságot nem szabott ki,
 
-- b) ha a jogsértéssel összefüggésben indult büntetőeljárásban a bíróság, az ügyészség vagy a nyomozó hatóság lefoglalást rendelt el,
+- b) ha a jogsértéssel összefüggésben indult büntetőeljárásban a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy a nyomozó hatóság lefoglalást rendelt el,
 - c) a szállításra használt, nem a jogsértés elkövetőjének tulajdonában lévő eszközre, ha a tulajdonos írásban nyilatkozik arról, hogy a jogsértés időpontjában nem volt tudomása arról, hogy az eszközt jogsértés céljából használják fel,
 - d) a szállításra, tárolásra, raktározásra és hasznosításra használt, az elkövető tulajdonában lévő eszközre, ha az ügyben hozott végleges határozatban kiszabott bírságot, illetve egyéb költséget az előírt határidőre megfizették vagy arra – elidegenítési és terhelési tilalom bejegyzése mellett – részletfizetést vagy fizetési halasztást engedélyeztek,
 - e) a tárgyi bizonyítási eszközként lefoglalt vagy zár alá vett dologra, ha a tényállás a lefoglalás vagy zár alá vétel fenntartása nélkül is tisztázható,
@@ -442,7 +442,7 @@ véglegessé vált határozatban bírságot nem szabott ki,
 
 (6) A fémkereskedelmi hatóság vagy a bíróság döntése alapján visszaadni rendelt, de természetben már ki nem adható zár alá vett vagy elkobzott dolog esetén az értékesítésből befolyt ellenértéknek a kezelésből, szállításból, tárolásból eredő költséggel csökkentett, a megtérítés időpontjáig eltelt időre számított mindenkori jegybanki alapkamattal növelt összegét kell megtéríteni. A jogosult az ezt meghaladó igényét a polgári jog szabályai szerint érvényesítheti. Ha a zár alá vétel alaptalan volt, a dolog előzetes értékesítéséből befolyt ellenérték a dolog kezeléséből, szállításából, tárolásából eredő költséggel nem csökkenthető.
 
-13. § (1) A zár alá vett anyag, dolog és eszköz – a 12. § (2) bekezdés b) pontja szerinti eset kivételével – annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja, vagy annak, akitől azt a fémkereskedelmi hatóság zár alá vette, feltéve, hogy a jogszerű birtoklás tényét igazolta. A kiadás feltétele, hogy a zár alá vétel megszüntetéséről rendelkező végzés közlésének napját követő nap és a kiadni rendelt anyag, dolog és eszköz kiadásának napja közötti időtartamra eső tárolási, szállítási és rakodási költséget a fémkereskedelmi hatóság részére igazoltan megtérítsék. A fémkereskedelmi hatóság a 10 ezer forintot el nem érő, tárolással kapcsolatban felmerült költséget nem szabja ki. A 12. § (2) bekezdés b) pontja szerinti esetben a zár alá vett anyagot, eszközt, dolgot a lefoglalást elrendelő bíróságnak, ügyészségnek vagy nyomozó hatóságnak kell átadni.
+13. § (1) A zár alá vett anyag, dolog és eszköz – a 12. § (2) bekezdés b) pontja szerinti eset kivételével – annak adható ki, aki a tulajdonjogát minden kétséget kizáróan igazolja, vagy annak, akitől azt a fémkereskedelmi hatóság zár alá vette, feltéve, hogy a jogszerű birtoklás tényét igazolta. A kiadás feltétele, hogy a zár alá vétel megszüntetéséről rendelkező végzés közlésének napját követő nap és a kiadni rendelt anyag, dolog és eszköz kiadásának napja közötti időtartamra eső tárolási, szállítási és rakodási költséget a fémkereskedelmi hatóság részére igazoltan megtérítsék. A fémkereskedelmi hatóság a 10 ezer forintot el nem érő, tárolással kapcsolatban felmerült költséget nem szabja ki. A 12. § (2) bekezdés b) pontja szerinti esetben a zár alá vett anyagot, eszközt, dolgot a lefoglalást elrendelő bíróságnak, ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy nyomozó hatóságnak kell átadni.
 
 (2) Ha a 12. § (2) bekezdés a), c) és d) pontja szerint kiadni rendelt anyagot, eszközt és dolgot a zár alá vétel megszüntetéséről rendelkező végzés közlését követő 60 napon belül a (1) bekezdésben meghatározott személy nem veszi át, azt a fémkereskedelmi hatóság értékesítheti. Az értékesítésből befolyt ellenérték a kiadni rendelt, de át nem vett termék, dolog és eszköz helyébe lép. Az előbbiek szerint kell eljárni abban az esetben is, ha a szállításra használt, nem a törvénysértés elkövetőjének tulajdonában lévő eszköz zár alá vételének a 12. § (2) bekezdés c) pontja szerinti megszüntetéséről rendelkező végzés meghozatalára a nyilatkozattételi felhívás eredménytelen eltelte vagy a felhívás sikertelen kézbesítése miatt nem kerülhet sor.
 

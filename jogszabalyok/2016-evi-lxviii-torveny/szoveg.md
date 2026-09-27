@@ -1908,7 +1908,7 @@ alapulvételével kell meghatározni.
 
 (4) Ha a lefoglalás megszüntetéséről rendelkező végzés közlését követő 3 munkanapon belül nem történt meg a kiadni rendelt dolog átvétele, a kiadás feltétele, hogy a lefoglalás megszüntetéséről rendelkező végzés közlésének napját követő nap és a kiadni rendelt dolog kiadásának napja közötti időtartamra eső, a végrehajtási rendeletben meghatározott mértékű tárolási költséget az állami adó- és vámhatóság részére igazoltan megtérítsék.
 
-(5) Ha a jövedéki kötelezettségszegéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye és ennek érdekében a bíróság, ügyészség vagy nyomozó hatóság az állami adó- és vámhatóságot megkereste, a lefoglalt dolgot a bíróságnak, ügyészségnek vagy nyomozó hatóságnak kell kiadni.
+(5) Ha a jövedéki kötelezettségszegéssel összefüggésben indult büntetőeljárásban lefoglalásnak van helye és ennek érdekében a bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság az állami adó- és vámhatóságot megkereste, a lefoglalt dolgot a bíróságnak, ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy nyomozó hatóságnak kell kiadni.
 
 (5a) Ha a lefoglalt dolog átvételére jogosult személy a hirdetményi közlést követően is ismeretlen, a (6) és (7) bekezdés szerint kell eljárni.
 

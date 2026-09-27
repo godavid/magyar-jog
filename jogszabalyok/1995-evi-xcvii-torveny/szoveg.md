@@ -830,7 +830,7 @@ kezelheti, továbbíthatja, ha az adattovábbítás törvényi feltételei az ad
 - b) a légiközlekedés védelméért felelős szerveknek;
 - c) az idegenrendészeti hatóságnak;
 - d) a vámhatóságnak;
-- e) a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, illetve az előkészítő eljárást folytató szervnek;
+- e) a bíróságnak, az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a nyomozó hatóságnak, illetve az előkészítő eljárást folytató szervnek;
 - f) a nemzetbiztonsági szerveknek;
 - g) ha annak külön törvényben meghatározott feltételei egyébként fennállnak és a személyes adatok megfelelő szintű védelme biztosított, az adat kezelésére feljogosított, a határforgalom-ellenőrzésért, illetve a légiközlekedés és az utasok védelméért, valamint a terrorizmus és a határon átnyúló bűnözés megelőzéséért és az ezek elleni küzdelemért felelős külföldi szerveknek.
 

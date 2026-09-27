@@ -17,11 +17,11 @@ Az Országgyűlés annak érdekében, hogy elősegítse a tulajdonhoz, a vállal
 (2) Hivatalból indult eljáráson e törvény alkalmazásában
 
 - a) a bírósági elrendelésre,
-- b) a közjegyző, a bírósági végrehajtó, az ügyész, a közigazgatási hatóság bejegyzés iránti felhívására (a továbbiakban együtt: hatósági felhívás)
+- b) a közjegyző, a bírósági végrehajtó, az ügyész, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), valamint a közigazgatási hatóság bejegyzés iránti felhívására (a továbbiakban együtt: hatósági felhívás)
 
 indult eljárást is érteni kell.
 
-(3) Az ingatlan-nyilvántartási eljárásban hatóság határozatán a közjegyző és az ügyész határozatát, valamint a bírósági végrehajtó intézkedését is érteni kell.
+(3) Az ingatlan-nyilvántartási eljárásban hatóság határozatán a közjegyző, az ügyész, az NVVH határozatát, valamint a bírósági végrehajtó intézkedését is érteni kell.
 
 (4) Az ingatlan-nyilvántartási eljárásban beadvány a kérelem, a bírósági elrendelés és a hatósági felhívás, valamint az ezekhez tartozó okirat (a továbbiakban együtt: beadvány).
 
@@ -212,7 +212,7 @@ kell nyilvántartani.
 
 (4) A (3) bekezdésben foglaltaktól eltérően, az ingatlan-nyilvántartás vezetését támogató informatikai rendszer fejlesztése esetén az adatfeldolgozási feladatokat a rendszerfejlesztéshez szükséges mértékben az a nem állami tulajdonú gazdálkodó szervezet is elláthatja, amely a rendszerfejlesztést végzi.
 
-(5) Az ingatlan-nyilvántartás vezetését támogató informatikai rendszer használata során az eljáró bíróság, ügyészség vagy hatóság alkalmazottai azonosításához szükséges természetes személyazonosító adatokat át kell adni az ingatlanügyi hatóság részére, amely azokat kizárólag az azonosítás céljából és az eljárás befejezéséig kezeli.
+(5) Az ingatlan-nyilvántartás vezetését támogató informatikai rendszer használata során az eljáró bíróság, ügyészség, az NVVH vagy hatóság alkalmazottai azonosításához szükséges természetes személyazonosító adatokat át kell adni az ingatlanügyi hatóság részére, amely azokat kizárólag az azonosítás céljából és az eljárás befejezéséig kezeli.
 
 ## MÁSODIK RÉSZ — A VÁLTOZÁSOK VEZETÉSÉNEK SZABÁLYAI
 
@@ -800,7 +800,7 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
 69. § (1) Polgári perben a felperes kérelmére, a jogainak megóvása érdekében, ha a polgári perrendtartásról szóló törvény szerinti ideiglenes intézkedés elrendelésének valamely feltétele fennáll, a bíróság – a perbejegyzés elrendelésével egyidejűleg – előzetesen végrehajtható végzéssel elrendeli, hogy a perbejegyzés teljesítését követően érkezett beadványok intézésére irányuló eljárását az ingatlanügyi hatóság a perbejegyzés alapjául szolgáló per jogerős befejezéséig függessze fel. A bíróság a kérelemmel összefüggésben az ideiglenes intézkedésre vonatkozó szabályok szerint jár el.
 
-(2) Büntetőeljárásban a perbejegyzést követően érkezett beadványok intézésére irányuló ingatlan-nyilvántartási eljárások felfüggesztését az eljárás jogerős befejeződéséig az ügyész, a magánvádló, a pótmagánvádló vagy a sértett jogosult kezdeményezni. A bíróság az (1) bekezdésben meghatározottak szerint jár el.
+(2) Büntetőeljárásban a perbejegyzést követően érkezett beadványok intézésére irányuló ingatlan-nyilvántartási eljárások felfüggesztését az eljárás jogerős befejeződéséig az ügyész, az NVVH, a magánvádló, a pótmagánvádló vagy a sértett jogosult kezdeményezni. A bíróság az (1) bekezdésben meghatározottak szerint jár el.
 
 (3) Ha az ingatlanügyi hatóság a 48. § (4) bekezdés a) vagy b) pontja szerint az eljárását felfüggesztette, a bíróság az (1) bekezdés szerinti végzésében a felfüggesztés időtartamát a per jogerős befejezéséig meghosszabbíthatja.
 
@@ -931,7 +931,7 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
 (5) A (4) bekezdés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést a tulajdonos valamennyi ingatlanáról
 
-- a) a bíróság, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a terrorizmust elhárító szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
+- a) a bíróság, az NVVH, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a terrorizmust elhárító szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
 - b) az ügyészség büntetőügyben vagy a közérdekvédelmi feladatai ellátásához,
 - c) a jegyző a hagyatéki leltár elkészítéséhez vagy a közjegyző a hagyatéki eljárás lefolytatásához, illetve az örökhagyó tulajdonában álló magyarországi ingatlan adatainak a külföldi hagyatéki eljárás céljára történő tanúsításához,
 - d) a mezőgazdasági igazgatási szerv, erdészeti hatóság,
@@ -1079,7 +1079,7 @@ biztosítja.
 - 5. a lakástörvény alapján vételi, elővásárlási joggal rendelkező személy részére elidegenített önkormányzati vagy állami tulajdonban álló lakás tulajdonjogának, haszonélvezeti jogának, továbbá az ezzel összefüggő elidegenítési és terhelési tilalomnak, valamint jelzálogjognak az ingatlan-nyilvántartási bejegyzésével vagy törlésével kapcsolatos eljárás;
 - 6. a birtokösszevonási célú földcsere keretében létrejött megállapodáson alapuló tulajdonosváltozás ingatlan-nyilvántartási bejegyzése;
 - 7. a végrehajtási eljárásban az árverés, nyilvános pályázat kitűzése tényének és időpontjának bejegyzésére, valamint az árverés sikertelensége és a pályázat eredménytelensége esetén annak törlésére irányuló eljárás;
-- 8. a közérdekű bejelentés, javaslat és a panasz elbírálására irányuló eljárás, az ügyészi felhívás és ügyészi fellépés tényének bejegyzésére és törlésére irányuló eljárás, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének bejegyzésére és törlésére, továbbá a büntetőeljárás megindításának bejegyzésére és törlésére irányuló eljárás;
+- 8. a közérdekű bejelentés, javaslat és a panasz elbírálására irányuló eljárás, az ügyészi felhívás és ügyészi fellépés tényének bejegyzésére és törlésére irányuló eljárás, valamint a közigazgatási hatóság és a büntetőügyben eljáró bíróság által elrendelt zárlat, az ügyész, a nyomozó hatóság, az NVVH és a büntető ügyben eljáró bíróság által elrendelt zár alá vétel tényének bejegyzésére és törlésére, továbbá a büntetőeljárás megindításának bejegyzésére és törlésére irányuló eljárás;
 - 9. a költségmentesség engedélyezése iránti eljárás;
 - 10. a kárpótlási eljárás, a részaránytulajdonnal kapcsolatos eljárás;
 - 11. a lakóingatlanon alapított zálogjog fedezetével kötött, devizaalapú kölcsönszerződésből származó követelés törvényben rögzített árfolyamon történő végtörlesztése során megszűnt jelzálogjog, végrehajtási jog, továbbá az elidegenítési és terhelési tilalom törlésére irányuló eljárás, valamint a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény és a Nemzeti Eszközkezelő Programban részt vevő természetes személyek otthonteremtésének biztosításáról szóló törvény alapján

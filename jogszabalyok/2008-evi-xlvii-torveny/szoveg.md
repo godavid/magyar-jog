@@ -31,17 +31,39 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
 
 2. § E törvény alkalmazásában:
 
-- a) fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy,
-- b) vállalkozás: aki a kereskedelmi gyakorlat tekintetében önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el,
-- c) termék: áru vagy szolgáltatás, ideértve az ingatlantulajdont, a digitális szolgáltatást és digitális tartalmat, valamint a jogokat és kötelezettségeket is,
-- d) kereskedelmi gyakorlat: a vállalkozásnak, illetve a vállalkozás érdekében vagy javára eljáró személynek a termék fogyasztók részére történő értékesítésével, szolgáltatásával vagy eladásösztönzésével közvetlen kapcsolatban álló magatartása, tevékenysége, mulasztása, reklámja, marketingtevékenysége vagy egyéb kereskedelmi kommunikációja,
-- e) kereskedelmi kommunikáció: a vállalkozás önálló foglalkozásával vagy gazdasági tevékenységével közvetlenül összefüggésben történő információközlés, függetlenül annak megjelenési módjától, eszközétől,
-- f) reklám: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvényben ekként meghatározott fogalom,
-- g) vásárlásra felhívás: kereskedelmi kommunikációban a termék jellemzőinek és árának, illetve díjának feltüntetése az alkalmazott kommunikációs eszköznek megfelelően olyan módon, hogy ezáltal lehetővé válik a fogyasztó számára a termék megvétele, illetve igénybevétele,
-- h) ügyleti döntés: a fogyasztó arra vonatkozó döntése, hogy kössön-e, illetve hogyan és milyen feltételek mellett kössön szerződést, továbbá hogy gyakorolja-e valamely jogát a termékkel kapcsolatban,
-- i) magatartási kódex: olyan – piaci önszabályozás keretében létrehozott – megállapodás vagy szabályegyüttes, amely valamely kereskedelmi gyakorlat vagy tevékenységi ágazat vonatkozásában követendő magatartási szabályokat határoz meg azon vállalkozások számára, amelyek a kódexet magukra nézve kötelezőnek ismerik el (a továbbiakban: magatartási kódexnek való alávetés).
-- j) rangsorolás: a termékek relatív kiemelése a kereskedők által bemutatott, megszervezett vagy közölt módon, tekintet nélkül az ilyen bemutatáshoz, szervezéshez vagy közléshez használt technológiai eszközökre,
-- k) online piac: olyan szolgáltatás, amely a kereskedő által vagy a kereskedő nevében működtetett szoftvert, többek között weboldalt, valamely weboldal egy részét vagy valamely alkalmazást alkalmaz, és amelynek révén a fogyasztók távollevők közötti szerződést köthetnek más kereskedőkkel vagy fogyasztókkal.
+- 1. áru: bármely ingóság és a korlátozott térfogatban vagy meghatározott mennyiségben értékesítésre kínált víz, gáz és villamos energia;
+- 2. digitális elemeket tartalmazó áru: a digitális tartalmat vagy digitális szolgáltatást magában foglaló vagy azzal olyan módon összekapcsolt áru, amely az érintett digitális tartalom vagy digitális szolgáltatás hiányában nem tudná betölteni funkcióját;
+- 3. elismerten kiváló környezetvédelmi teljesítmény: a legmagasabb szintű környezetvédelmi teljesítménynek megfelelő környezetvédelmi teljesítmény, amely eleget tesz
+  - a) a 66/2010/EK európai parlamenti és tanácsi rendeletnek,
+  - b) a tagállamokban elismert nemzeti vagy regionális EN ISO 14024 I. típusú ökocímke rendszereknek, vagy
+  - c) európai uniós jogi aktusnak;
+- 4. fenntarthatósági címke: olyan – állami vagy magánszektorbeli – önkéntes bizalmi jegy, minőségjelzés vagy annak megfelelő jelzés, amely valamely termék, eljárás vagy vállalkozás környezeti vagy társadalmi jellemzők, vagy mindkettő alapján történő megkülönböztetésére és népszerűsítésére irányul, európai uniós jogi aktus vagy jogszabály alapján kötelező címkék kivételével;
+- 5. fogyasztó: az önálló foglalkozásán és gazdasági tevékenységén kívül eső célok érdekében eljáró természetes személy;
+- 6. fogyóeszköz: az áruk olyan alkotórésze, amely rendszeresen elhasználódik, és amelyet ki kell cserélni vagy fel kell tölteni ahhoz, hogy az adott áru rendeltetésszerűen működjön;
+- 7. funkcionalitás: az áru azon képessége, hogy a céljának megfelelő funkciókat betöltse;
+- 8. kereskedelmi gyakorlat: a vállalkozásnak, illetve a vállalkozás érdekében vagy javára eljáró személynek a termék fogyasztók részére történő értékesítésével, szolgáltatásával vagy eladásösztönzésével közvetlen kapcsolatban álló magatartása, tevékenysége, mulasztása, reklámja, marketingtevékenysége vagy egyéb kereskedelmi kommunikációja;
+- 9. kereskedelmi kommunikáció: a vállalkozás önálló foglalkozásával vagy gazdasági tevékenységével közvetlenül összefüggésben történő információközlés, függetlenül annak megjelenési módjától, eszközétől;
+- 10. környezetbarát jellegre vonatkozó állítás: európai uniós jogi aktus vagy jogszabály alapján nem kötelező üzenet vagy ábrázolás bármely formában, amely azt állítja vagy sugallja, hogy egy adott termék, termékkategória, márka vagy vállalkozás
+  - a) kedvezően hat a környezetre,
+  - b) semmilyen hatást nem gyakorol a környezetre,
+  - c) kevésbé ártalmas a környezetre, mint más termékek, termékkategóriák, márkák vagy vállalkozások, vagy
+  - d) környezetre gyakorolt hatása idővel javult;
+- 11. környezetbarát jellegre vonatkozó általános állítás: a környezetbarát jellegre vonatkozó minden olyan, írásos formában vagy szóban, többek között audiovizuális médián keresztül tett állítás, amely nem szerepel a fenntarthatósági címkén, és az állítás részletes kifejtése nem szerepel egyértelműen és jól láthatóan ugyanazon a kommunikációs eszközön;
+- 12. magatartási kódex: olyan – piaci önszabályozás keretében létrehozott – megállapodás vagy szabályegyüttes, amely valamely kereskedelmi gyakorlat vagy tevékenységi ágazat vonatkozásában követendő magatartási szabályokat határoz meg azon vállalkozások számára, amelyek a kódexet magukra nézve kötelezőnek ismerik el;
+- 13. online piac: olyan szolgáltatás, amely a vállalkozás által vagy a vállalkozás nevében működtetett szoftvert, többek között weboldalt, valamely weboldal egy részét vagy valamely alkalmazást alkalmaz, és amelynek révén a fogyasztók távollevők közötti szerződést köthetnek más vállalkozásokkal vagy fogyasztókkal;
+- 14. rangsorolás: a termékek relatív kiemelése a vállalkozások által bemutatott, megszervezett vagy közölt módon, tekintet nélkül az ilyen bemutatáshoz, szervezéshez vagy közléshez használt technológiai eszközökre;
+- 15. reklám: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény szerinti gazdasági reklám;
+- 16. szoftverfrissítés: olyan frissítés, amely szükséges ahhoz, hogy a digitális elemeket tartalmazó áruk, a digitális tartalmak és a digitális szolgáltatások a fogyasztó és vállalkozás közötti, az áruk adásvételére, valamint a digitális tartalom szolgáltatására és digitális szolgáltatások nyújtására irányuló szerződések részletes szabályairól szóló kormányrendelet szerint szerződésszerűek maradjanak, és a funkcionalitást érintő frissítés;
+- 17. tanúsítási rendszer: olyan harmadik fél által biztosított ellenőrzési rendszer, amely tanúsítja egy adott termék, folyamat vagy vállalkozás bizonyos követelményeknek való megfelelését, lehetővé teszi a megfelelő fenntarthatósági címke használatát, és amelynek feltételei, ezen belül követelményei nyilvánosan hozzáférhetők, és megfelelnek az alábbi kritériumoknak:
+  - a) a rendszer átlátható, tisztességes és megkülönböztetéstől mentes feltételek mellett minden olyan vállalkozás számára elérhető, aki hajlandó és képes megfelelni a rendszer követelményeinek;
+  - b) a rendszer követelményeit annak tulajdonosa az érintett szakértőkkel és érdekelt felekkel konzultálva dolgozza ki;
+  - c) a rendszer eljárásokat határoz meg a rendszer követelményeinek való meg nem felelés kezelésére, és meg nem felelés esetén előírja a fenntarthatósági címke vállalkozás általi használatának visszavonását vagy felfüggesztését; valamint
+  - d) annak ellenőrzése, hogy a vállalkozás megfelel-e a rendszer követelményeinek, objektív eljárás révén történik, és azt olyan harmadik fél végzi, akinek kompetenciája és a rendszer tulajdonosától és a vállalkozástól való függetlensége nemzetközi, uniós vagy nemzeti szabványokon és eljárásokon alapul;
+- 18. tartósság: egy termék azon képessége, hogy rendeltetésszerű használat mellett megőrizze a megkövetelt funkcióit és teljesítményét;
+- 19. termék: áru vagy szolgáltatás, ideértve az ingatlantulajdont, a digitális szolgáltatást és digitális tartalmat, valamint a jogokat és kötelezettségeket is;
+- 20. ügyleti döntés: a fogyasztó arra vonatkozó döntése, hogy kössön-e, illetve hogyan és milyen feltételek mellett kössön szerződést, továbbá, hogy gyakorolja-e valamely jogát a termékkel kapcsolatban;
+- 21. vállalkozás: aki a kereskedelmi gyakorlat tekintetében önálló foglalkozásával vagy gazdasági tevékenységével összefüggő célok érdekében jár el;
+- 22. vásárlásra felhívás: kereskedelmi kommunikációban a termék jellemzőinek és árának vagy díjának feltüntetése az alkalmazott kommunikációs eszköznek megfelelően olyan módon, hogy ezáltal lehetővé válik a fogyasztó számára a termék megvétele vagy igénybevétele.
 
 ### A tisztességtelen kereskedelmi gyakorlat tilalma
 
@@ -78,9 +100,10 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
   - bf) alkalmazása, a használatához, fenntartásához szükséges ismeretek,
   - bg) az adott célra való alkalmassága, a használatától várható eredmények, előnyei,
   - bh) veszélyessége, kockázatai,
-  - bi) környezeti hatásai,
-  - bj) az egészségre gyakorolt hatása, vagy
-  - bk) tesztelése, ellenőrzöttsége vagy annak eredménye,
+  - bi) környezeti vagy társadalmi jellemzői,
+  - bj) az egészségre gyakorolt hatása,
+  - bk) tesztelése, ellenőrzöttsége vagy annak eredménye, vagy
+  - bl) körforgásos jellege,
 - c) a termék ára, illetve díja, az ár, illetve díj megállapításának módja, különleges árkedvezmény vagy árelőny megléte,
 - d) a termék igénybevételéhez kapcsolódó adómentesség, adókedvezmény vagy más adóelőny,
 - e) a termékhez kapcsolódóan valamely szolgáltatás, alkatrész, csere vagy javítás szükségessége,
@@ -96,6 +119,8 @@ Az Országgyűlés a fogyasztók érdekeinek védelme, a tisztességes piaci mag
   - ba) a követelmény betartására nem csupán szándéknyilatkozat formájában, hanem igazolható módon kötelezettséget vállalt, és
   - bb) a kereskedelmi gyakorlat keretében utal a kódexnek való alávetettségére,
 - c) az a gyakorlat, melynek keretében egy árut az egyik tagállamban akként forgalmaznak, hogy az megegyezik egy más tagállamban forgalmazott áruval, miközben az utóbbi áru összetételében vagy jellemzőiben jelentős eltérések vannak, kivéve, ha ezt jogszerű és objektív tényezők indokolják,
+- d) a jövőbeli környezetvédelmi teljesítményre vonatkozó, környezetbarát jellegre vonatkozó állítás megfogalmazása anélkül, hogy azt egyértelmű, objektív, nyilvánosan elérhető és ellenőrizhető kötelezettségvállalások kísérnék, amelyeket mérhető és időhöz kötött célokat és a végrehajtása támogatásához szükséges egyéb releváns elemeket tartalmazó részletes és realisztikus végrehajtási tervben határoznak meg, és amelyet független harmadik fél szakértő rendszeresen ellenőriz, akinek megállapításait a fogyasztók rendelkezésére bocsátják;
+- e) olyan előny reklámozása a fogyasztó számára, amely nem releváns, és amelyet nem a termék vagy a vállalkozás valamely jellemzője eredményez,
 
 ha ez valamennyi tényszerű körülmény figyelembevételével a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas.
 
@@ -132,6 +157,8 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 (7) Amikor a fogyasztók lehetőséget kapnak arra, hogy különböző vállalkozások vagy fogyasztók által kínált termékek esetében kulcsszó, kifejezés vagy más lekérdezés alapján végezzenek keresést, függetlenül attól, hogy az ügyletet végül hol kötik meg, jelentősnek minősülnek a keresés eredményeit bemutató oldalról közvetlenül és könnyen elérhető online felület egy külön részén rendelkezésre bocsátott, azokra a fő paraméterekre vonatkozó általános információk, amelyek meghatározzák a fogyasztónak a keresés eredményeként megjelenített termékek rangsorát, valamint jelentősnek minősül e paraméterek más paraméterekkel szembeni relatív fontossága. Ez a bekezdés nem vonatkozik az (EU) 2019/1150 európai parlamenti és tanácsi rendelet 2. cikkének 6. pontjában meghatározott onlinekeresőprogram-szolgáltatókra.
 
 (8) Ha a vállalkozás hozzáférést biztosít a termékek fogyasztói értékeléseihez, az arra vonatkozó információt, hogy a vállalkozás biztosítja-e és hogyan, hogy a közzétett értékelések olyan fogyasztóktól származnak, akik a terméket ténylegesen használták vagy megvásárolták, jelentősnek kell tekinteni.
+
+(9) Ha a vállalkozás olyan szolgáltatást nyújt, amely termékeket hasonlít össze, és információkat nyújt a fogyasztónak a termékek vagy ezek szállítói környezeti vagy társadalmi jellemzőiről vagy körforgásos jelleggel kapcsolatos szempontjairól, az összehasonlítás módszerére, az összehasonlítás tárgyát képező termékekre, azok szállítóira, valamint az információk naprakészen tartása érdekében bevezetett intézkedésekre vonatkozó információk jelentős információknak tekintendők.
 
 8. § (1) Agresszív az a kereskedelmi gyakorlat, amely – figyelembe véve valamennyi tényszerű körülményt – pszichés vagy fizikai nyomásgyakorlással – akár a fogyasztóval szembeni hatalmi helyzet kihasználása, akár a fogyasztó zavarása révén – az adott helyzetben jelentősen korlátozza vagy alkalmas arra, hogy jelentősen korlátozza a fogyasztónak a termékkel kapcsolatos választási vagy magatartási szabadságát, illetve lehetőségét a tájékozott döntés meghozatalára, és ezáltal a fogyasztót olyan ügyleti döntés meghozatalára készteti, amelyet egyébként nem hozott volna meg, vagy erre alkalmas.
 
@@ -495,6 +522,8 @@ az e rendelkezések hatálybalépését követően indított eljárásokban kell
 
 (2) Ez a törvény a 93/13/EGK tanácsi irányelvnek, valamint a 98/6/EK, a 2005/29/EK és a 2011/83/EU európai parlamenti és tanácsi irányelvnek az uniós fogyasztóvédelmi szabályok hatékonyabb végrehajtása és korszerűsítése tekintetében történő módosításáról szóló, 2019. november 27-i (EU) 2019/2161 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
+(2a) Ez a törvény a 2005/29/EK és a 2011/83/EU irányelvnek a fogyasztók zöld átállásban való szerepvállalásának a tisztességtelen gyakorlatokkal szembeni hatékonyabb védelem és a hatékonyabb tájékoztatás révén történő növelése tekintetében történő módosításáról szóló, 2024. február 28-i (EU) 2024/825 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
 (3) A 28. §
 
 - a) (1) bekezdése az (EU) 2017/2394 rendelet 5. cikk (1) bekezdésének és melléklete 9. pontjának,
@@ -544,3 +573,15 @@ a végrehajtásához szükséges rendelkezéseket állapít meg a fogyasztóvéd
 - 33. Rendezvényekre szóló jegyek viszonteladása fogyasztók részére, ha a kereskedő azokat automatizált eszközökkel vásárolta meg, hogy megkerülje az egy személy által megvásárolható jegyek számára vonatkozó korlátozásokat vagy a jegyvásárlásra alkalmazandó bármely más szabályt.
 - 34. Annak állítása, hogy a termék értékelését olyan fogyasztók nyújtották be, akik ténylegesen használták vagy megvásárolták a terméket, anélkül, hogy észszerű és arányos lépésekre kerülne sor annak ellenőrzésére, hogy az értékelések ilyen fogyasztóktól származnak.
 - 35. A termékek népszerűsítése érdekében valótlan fogyasztói értékelések vagy ajánlások benyújtása, illetve más jogi vagy természetes személy megbízása ezzel, vagy fogyasztói értékelések vagy közösségi médiában történő ajánlások valótlan bemutatása.
+- 36. Olyan fenntarthatósági címke feltüntetése, amely nem valamilyen tanúsítási rendszeren alapul, illetve amelyet nem a hatóságok vezettek be.
+- 37. A környezetbarát jellegre vonatkozó általános állítás megfogalmazása, ha a vállalkozás nem képes igazolni az állításra vonatkozó elismerten kiváló környezetvédelmi teljesítményt.
+- 38. A környezetbarát jellegre vonatkozó állítás egész termék vagy a vállalkozás üzleti tevékenységének egésze tekintetében történő alkalmazása, ha az a terméknek csak egy adott aspektusára vagy a vállalkozás tevékenységének egy konkrét műveletére vonatkozik.
+- 39. Annak állítása – a szén-dioxid-kibocsátás ellentételezése alapján –, hogy egy áru az üvegházhatásúgáz-kibocsátás szempontjából semleges, mérsékelt vagy pozitív hatással van a környezetre.
+- 40. Ha a vállalkozás a kínálata megkülönböztető jegyeként mutatja be azokat az európai uniós jogi aktusban vagy jogszabályban előírt követelményeket, amelyek az európai uniós piacon az érintett termékkategóriába tartozó valamennyi termékre vonatkozóan alkalmazandók.
+- 41. Arra vonatkozó információ visszatartása a fogyasztótól, hogy valamely szoftverfrissítés negatív hatással lesz a digitális elemeket tartalmazó áruk működésére, illetve a digitális tartalom vagy a digitális szolgáltatások használatára.
+- 42. A szoftverfrissítés szükségesként való feltüntetése, miközben az csak a funkcionalitási tulajdonságokat javítja.
+- 43. Az áru tartósságát korlátozó tulajdonságot tartalmazó árukkal kapcsolatban annak ellenére folytatott bármely kereskedelmi kommunikáció, hogy a tulajdonságra és annak az áru tartósságára gyakorolt hatására vonatkozó információk a vállalkozás rendelkezésére állnak.
+- 44. Annak valótlan állítása, hogy az áru a szokásos használati feltételek mellett bizonyos szintű tartóssággal rendelkezik a használati idő vagy intenzitás vonatkozásában.
+- 45. Az áruk javíthatóként történő feltüntetése, ha azok nem javíthatók.
+- 46. A fogyasztó arra való ösztönzése, hogy az áru fogyóeszközeit korábban cserélje ki vagy töltse fel, mint ahogy arra műszaki okból szükség lenne.
+- 47. Információ visszatartása azzal kapcsolatban, hogy rontja az áru funkcionalitását, ha olyan fogyóeszközöket, pótalkatrészeket vagy tartozékokat használnak, amelyeket nem az eredeti gyártó szállított, vagy annak valótlan állítása, hogy ilyen károsodás fog bekövetkezni.

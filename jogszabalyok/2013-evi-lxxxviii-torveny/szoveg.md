@@ -287,11 +287,11 @@ kezeli.
 
 8. § (1) Elfogatóparancs, európai elfogatóparancs, nemzetközi elfogatóparancs alapján elrendelt körözési eljárás esetén a 3. § (2) bekezdés a) pont aa)–ad), ag) és aj) alpontjában, b), f), i) és j) pontjában meghatározott adat közérdekből nyilvános adatnak minősül.
 
-(2) A bíróság, ügyészség vagy nyomozó hatóság döntése alapján a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
+(2) A bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy a nyomozó hatóság döntése alapján a 4. § (2) bekezdés a), c) és g) pont ga) és gc) alpontjában meghatározott adat közérdekből nyilvános adat.
 
 (2a) A kulturális javakra elrendelt körözés esetén – a (2) bekezdésben foglaltak kivételével – a 4. § (2) bekezdés a) pont aa), ab), ad) alpontjában és c) pont ca) alpontjában meghatározott adat közérdekből nyilvános adat.
 
-(2b) A gépjárművekre elrendelt körözés esetén – a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével – a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat közérdekből nyilvános adat. A bíróság, az ügyészség vagy a nyomozó hatóság dönthet úgy, hogy a gépjárművekre a büntetőeljárásban elrendelt körözés során a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat bűnüldözési érdekből nem minősül közérdekből nyilvános adatnak.
+(2b) A gépjárművekre elrendelt körözés esetén – a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével – a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat közérdekből nyilvános adat. A bíróság, az ügyészség, az NVVH vagy a nyomozó hatóság dönthet úgy, hogy a gépjárművekre a büntetőeljárásban elrendelt körözés során a 4. § (2) bekezdés a), c), f) és g) pontjában meghatározott adat bűnüldözési érdekből nem minősül közérdekből nyilvános adatnak.
 
 (3) A nyilvántartásban szereplő adatok közül közérdekből nyilvános adatnak minősül
 
@@ -344,7 +344,7 @@ meghatározott adat.
 - h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 - i) a Nemzeti Információs Központ elemzés-értékelés, valamint hírigény teljesítése céljából,
 - j) a Nemzeti Adó- és Vámhivatal vámellenőrzési feladatai ellátása céljából,
-- k) a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából.
+- k) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából.
 - l) az utasadat-információs egység az utasadatok kockázatelemzése céljából.
 
 (2) Az igazságügyért felelős miniszter és az ügyészség a kegyelmi ügyek intézése és a jogsegélykérelem elintézése céljából, továbbá a nemzetközi szerződésekben meghatározott és a viszonossági gyakorlatból eredő feladatai teljesítése céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából, a körözött dolgok nyilvántartásából, valamint az ismeretlen holttestek, holttestrészek nyilvántartásából.
@@ -452,7 +452,7 @@ előírja.
 - a) az adatkezelés jogszerűségének ellenőrzése céljából a nyilvántartó irányításáért felelős szerv,
 - b) a törvényességi felügyelet gyakorlása során az adatkezelés jogszerűségének ellenőrzése céljából az ügyészség,
 - c) a Nemzeti Adatvédelmi és Információszabadság Hatóság,
-- d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv, továbbá
+- d) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv, továbbá
 - e) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
 #### 14/A. Az érintettek jogai és ezek érvényesítése
@@ -717,8 +717,9 @@ felelős.
 - e) a polgári nemzetbiztonsági szolgálatok személyi állományának tagja,
 - f) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó szerv hivatásos állományának tagja vagy a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja,
 - g) honvéd,
+- h) az NVVH személyi állományának tagja,
 
-haladéktalanul tájékoztatni kell a körözés elrendeléséről a körözést elrendelő illetékessége szerinti ügyészséget, valamint az f) pontban meghatározott esetben a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a bűnüldözési feladatai céljából, a g) pontban meghatározott esetben a Katonai Nemzetbiztonsági Szolgálatot a nemzetbiztonsági tevékenysége ellátása céljából.
+haladéktalanul tájékoztatni kell a körözés elrendeléséről a körözést elrendelő illetékessége szerinti ügyészséget, az f) pontban meghatározott esetben a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a bűnüldözési feladatai céljából, a g) pontban meghatározott esetben a Katonai Nemzetbiztonsági Szolgálatot a nemzetbiztonsági tevékenysége ellátása céljából, a h) pontban meghatározott esetben az NVVH elnökét.
 
 (7) A rendőrség – a bírósági végrehajtó felhívására és erre vonatkozó, a körözés elrendelését tartalmazó intézkedésére – lefolytatja a körözési eljárást a bírósági végrehajtásban kötelezett vagy a kiadni rendelt gyermek tartózkodási helyének megállapítása érdekében.
 

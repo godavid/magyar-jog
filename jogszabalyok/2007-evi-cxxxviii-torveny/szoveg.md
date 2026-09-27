@@ -2585,8 +2585,9 @@ személy vagy bármely más személy, aki valamilyen módon birtokába jutott, a
 - f) Gazdasági Versenyhivatallal,
 - g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, kormányzati ellenőrzési szervvel,
 - h) nemzetbiztonsági szolgálattal,
-- i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel és
+- i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel,
 - j) pénzügyi információs egységként működő hatósággal
+- k) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH)
 
 szemben.
 
@@ -2594,7 +2595,7 @@ szemben.
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség az eljárás tárgyát képező ügyre vonatkozóan nem áll fenn
 
-- a) a büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
+- a) a büntetőeljárás során eljáró ügyészséggel, NVVH-val, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
 - b) büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá csőd-, illetve felszámolási eljárás, kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal és
 - c) az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF)
 
@@ -2635,11 +2636,11 @@ szemben.
 
 (3) Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn
 
-- a) a hatáskörében eljáró Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal,
+- a) a hatáskörében eljáró Befektető-védelmi Alappal, Országos Betétbiztosítási Alappal, MNB-vel, Állami Számvevőszékkel, Gazdasági Versenyhivatallal, NVVH-val,
 - b) a jogszabályban meghatározott tevékenységi körében eljáró szabályozott piaccal, multilaterális kereskedési rendszer működtetőjével, központi szerződő féllel, központi értéktárral, az Áht. 63. § (1) bekezdésében meghatározott ellenőrzési jogkörét gyakorló kormányzati ellenőrzési szervvel, valamint az európai uniós támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
 - c) a hagyatéki ügyben eljáró közjegyzővel, valamint a hatáskörében eljáró gyámhatósággal,
 - d) a csődeljárás, felszámolási eljárás, önkormányzatok adósságrendezési eljárása, bírósági végrehajtási eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, végrehajtóval, illetve végelszámolóval,
-- e) a büntetőeljárás során eljáró ügyészséggel, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
+- e) a büntetőeljárás során eljáró ügyészséggel, NVVH-val, nyomozó hatósággal, valamint az előkészítő eljárást folytató szervvel,
 - f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 - g) külön törvényben meghatározott feltételek teljesülése esetén a titkos információgyűjtés folytatására feljogosított szervvel,
 - h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
@@ -2682,9 +2683,9 @@ szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsde
 
 (11) A titoktartási kötelezettség alapján az értékpapírtitok körébe tartozó tény, információ, megoldás vagy adat, az e törvényben meghatározott körön kívül a befektetési vállalkozás, illetve az ügyfél felhatalmazása nélkül nem adható ki harmadik személynek, és feladatkörön kívül nem használható fel.
 
-118/A. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a befektetési vállalkozás vagy az árutőzsdei szolgáltató a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
+118/A. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a befektetési vállalkozás vagy az árutőzsdei szolgáltató a nyomozó hatósággal, az ügyészséggel és az NVVH-val együttműködési megállapodást köthet.
 
-119. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a nemzetbiztonsági szolgálat, az ügyészség, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére vagy írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
+119. § (1) A befektetési vállalkozás, illetőleg az árutőzsdei szolgáltató a nemzetbiztonsági szolgálat, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv adatkérésére vagy írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot az általa lebonyolított ügyletről és a nála vezetett számláról, ha adat merül fel arra, hogy az ügylet vagy a számla
 
 - a) kábítószerrel való visszaéléssel,
 - b) terrorcselekménnyel,
@@ -2697,7 +2698,7 @@ szemben, e szerveknek a befektetési vállalkozáshoz, illetőleg az árutőzsde
 
 van összefüggésben.
 
-(1a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a befektetési vállalkozás vagy árutőzsdei szolgáltató az ügyészség engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató az ügyészségnek az ügyfélre vagy az értékpapír-szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+(1a) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a befektetési vállalkozás vagy árutőzsdei szolgáltató az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a befektetési vállalkozás vagy az árutőzsdei szolgáltató az ügyészségnek vagy az NVVH-nak az ügyfélre vagy az értékpapír-szerződésre vonatkozó külön engedélye nélkül is köteles az általa kezelt, értékpapírtitoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 (2) A 118. § (3) bekezdésének e), g) és h) pontja, valamint az (1) bekezdésben foglaltak szerint történő adatátadásról az érintett ügyfél nem tájékoztatható.
 

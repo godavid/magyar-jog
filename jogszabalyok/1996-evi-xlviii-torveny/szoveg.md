@@ -590,7 +590,7 @@ származik, a közraktár a kár összegének megtérítését a letevőtől kö
 
 23. § (1) A közraktár nem köteles vizsgálni, hogy a letevő tulajdonosa-e az árunak, és nem felel azért, hogy a letevő azonos-e azzal a személlyel, akit a közraktári jegy letevőként megjelöl. Ha a közraktárnak hitelt érdemlő módon tudomására jut, hogy az áru bűncselekményből származik, köteles erről az illetékes hatóságot értesíteni.
 
-(2) A közraktár a bűncselekményből származó árut a bíróság jogerős vagy véglegessé vált határozata, valamint az ügyészség, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozata alapján köteles kiadni a határozatban megjelölt jogosítottnak. A közraktár ebben az esetben a közraktári jegy birtokosának nem tartozik kártérítési felelősséggel.
+(2) A közraktár a bűncselekményből származó árut a bíróság jogerős vagy véglegessé vált határozata, valamint az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve a nyomozó hatóság további jogorvoslattal nem támadható határozata alapján köteles kiadni a határozatban megjelölt jogosítottnak. A közraktár ebben az esetben a közraktári jegy birtokosának nem tartozik kártérítési felelősséggel.
 
 ### A közraktári tevékenységgel kapcsolatos és a közraktári jegyre alapított perek
 

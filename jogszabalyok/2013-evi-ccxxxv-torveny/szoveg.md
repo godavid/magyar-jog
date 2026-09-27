@@ -484,7 +484,7 @@ az egyes fizetési szolgáltatókról
 - a) a 2013. június 30-ig hatályban volt a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) XV. fejezetének VII. és VIII. címében, XVII. és XVIII. fejezetében, vagy
 - b) a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXVII. Fejezetében vagy XXXV–XLIII. Fejezetében
 
-meghatározott bűncselekmény miatt az ügyészség vádat emelt, vagy külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig vezető állású személyként nem foglalkoztatható, és az ilyen feladatok általa történő ellátását az intézmény felfüggeszti.
+meghatározott bűncselekmény miatt az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vádat emelt, vagy külföldön olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő, az illetékes hatóság vádat emelt, a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig vezető állású személyként nem foglalkoztatható, és az ilyen feladatok általa történő ellátását az intézmény felfüggeszti.
 
 (7) A foglalkoztatási jogviszony létesítését, a tevékenységi engedély kiadását, illetve meghosszabbítását megelőzően, valamint a foglalkoztatás ideje alatt az (5) bekezdés c) pontjában meghatározott foglalkoztatási feltétel fennállását a Felügyelet a bűnügyi nyilvántartásból történő adatigényléssel ellenőrizheti. Az így megismert személyes adatokat a Felügyelet az eljárás végleges befejezéséig kezelheti.
 
@@ -883,7 +883,7 @@ rendelkezik.
 - d) Gazdasági Versenyhivatallal,
 - e) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző kormányzati ellenőrzési szervvel,
 - f) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel,
-- g) nyomozó hatósággal, ügyészséggel,
+- g) nyomozó hatósággal, ügyészséggel és az NVVH-val,
 - h) a büntető-, valamint hagyatékkal kapcsolatos polgári ügyben, továbbá a csőd- vagy felszámolási eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 - i) a törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel és
 - j) a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvénnyel (a továbbiakban: FATCA-törvény) összefüggésben az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-a szerinti adatszolgáltatás teljesítése során az adóhatósággal
@@ -909,10 +909,10 @@ szemben.
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a fizetési titok megtartásának kötelezettsége nem áll fenn
 
-- a) a feladatkörében eljáró Magyar Nemzeti Bankkal, Gazdasági Versenyhivatallal, az Állami Számvevőszékkel, a Pénzügyi Békéltető Testülettel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF),
+- a) a feladatkörében eljáró Magyar Nemzeti Bankkal, Gazdasági Versenyhivatallal, az Állami Számvevőszékkel, a Pénzügyi Békéltető Testülettel, az európai támogatások felhasználásának szabályszerűségét ellenőrző Európai Csalásellenes Hivatallal (OLAF), NVVH-val,
 - b) a hagyatéki ügyben eljáró közjegyzővel és jegyzővel, valamint a feladatkörében eljáró gyámhatósággal,
 - c) a csődeljárás, felszámolási eljárás, önkormányzati adósságrendezési eljárás, illetve végelszámolás ügyében eljáró vagyonfelügyelővel, felszámolóval, önkormányzati csődbiztossal, illetve végelszámolóval,
-- d) a büntetőeljárás során az ügyészséggel, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
+- d) a büntetőeljárás során az ügyészséggel, az NVVH-val, a nyomozó hatósággal és az előkészítő eljárást folytató szervvel,
 - e) a büntető-, valamint polgári ügyben, a csőd-, illetve felszámolási eljárás, továbbá a kényszertörlési eljárás, valamint önkormányzati adósságrendezési eljárás keretében a bírósággal,
 - f) a külön törvényben meghatározott feltételek megléte esetén a titkos információgyűjtésre felhatalmazott szervvel,
 - g) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
@@ -950,7 +950,7 @@ szemben e szerveknek a pénzforgalmi intézményhez, elektronikuspénz-kibocsát
 
 (9) A fizetési titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az Európai Unió által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló törvényben meghatározott bejelentési kötelezettségének tesz eleget.
 
-(10) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett fizetési számláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a fizetési számla vagy az ügylet
+(10) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az előkészítő eljárást folytató szerv, a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, az NVVH és a bíróság adatkérésére, illetve írásbeli megkeresésére haladéktalanul kiszolgáltatja a kért adatot a nála vezetett fizetési számláról és az általa lebonyolított ügyletről, ha adat merül fel arra, hogy a fizetési számla vagy az ügylet
 
 - a) kábítószerrel visszaéléssel (1978. évi IV. törvény 282–282/C. §), kábítószer-kereskedelemmel (Btk. 176–177. §), kábítószer birtoklásával (Btk. 178–179. §), kóros szenvedélykeltéssel (Btk. 181. §), kábítószer készítésének elősegítésével (Btk. 182. §), tudatmódosító anyaggal visszaéléssel (Btk. 184. §) vagy új pszichoaktív anyaggal visszaéléssel (1978. évi IV. törvény 283/B. §, Btk. 2025. június 15-ig hatályban volt 184–184/C. §),
 - b) terrorcselekménnyel (1978. évi IV. törvény 261. §, illetve Btk. 314–316/A. §), terrorcselekmény feljelentésének elmulasztásával (Btk. 317. §), terrorizmus finanszírozásával (Btk. 318–318/A. §) vagy háborús uszítással (Btk. 331. §),
@@ -969,7 +969,7 @@ van összefüggésben.
 
 (13) A pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a megkeresések teljesítése során köteles a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával eljárni.
 
-(14) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészség engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészségnek az ügyfélre vagy az általa vezetett fizetési számlára, elektronikuspénz-számlára vonatkozó külön engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
+(14) A Rendőrségről szóló 1994. évi XXXIV. törvény 69. § (3) és (4) bekezdésében, a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 58. § (3) bekezdésében vagy a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 262. § (3)–(5) bekezdésében meghatározottak szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészség vagy az NVVH engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni. A Be. 262/A. §-a szerinti adatkérés esetén a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyészségnek vagy az NVVH-nak az ügyfélre vagy az általa vezetett fizetési számlára, elektronikuspénz-számlára vonatkozó külön engedélye nélkül is köteles az általa kezelt, fizetési titoknak minősülő adatokra vonatkozó adatkérést teljesíteni.
 
 61. § (1) Az 60. § (2) bekezdés d), f), g) és o) pontja és a 60. § (7) és (10) bekezdése szerint történő adatátadásról a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az érintett ügyfelet nem tájékoztathatja.
 
@@ -1018,7 +1018,7 @@ van összefüggésben.
 
 (3) A hitelintézet Hpt. szerinti ellenőrző befolyása alatt működő pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény az ügyféllel kötendő szerződést megelőzően köteles az ügyfél részére a Hpt. 164/B. §-ában foglalt kölcsönös adatátadás lehetőségéről igazolható módon tájékoztatást adni. A tájékoztatásban egyértelműen fel kell hívni az ügyfél figyelmét arra, hogy a személyes adatai e §-ban foglalt kezelésének lehetőségét bármikor korlátozhatja vagy megtilthatja.
 
-64/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást köthet.
+64/B. § A törvényben meghatározott feladatok hatékony teljesítése érdekében a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény a nyomozó hatósággal, az ügyészséggel és az NVVH-val együttműködési megállapodást köthet.
 
 #### 14. Az ügyfelek védelme
 

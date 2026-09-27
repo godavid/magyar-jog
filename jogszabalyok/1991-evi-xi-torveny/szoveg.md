@@ -4,7 +4,9 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 1. § (1) A közegészségügyi (különösen a környezet- és település-, élelmezés- és táplálkozás-, gyermek- és ifjúság-, illetőleg sugáregészségügyi, kémiai biztonsági), a járványügyi, az egészségfejlesztési (egészségvédelmi, egészségnevelési és egészségmegőrzési), az egészségügyi igazgatási tevékenységek irányítása, koordinálása és felügyelete, valamint az egészségügyi ellátás felügyelete (a továbbiakban együtt: népegészségügy) állami feladat, amelyet az egészségügyi államigazgatási szerv lát el.
 
-(2)–(3)
+(2)
+
+(3)
 
 ### Az egészségügyi államigazgatási szerv feladatai
 
@@ -496,7 +498,11 @@ vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészség
 
 (6)
 
-(7)–(9)
+(7)
+
+(8)
+
+(9)
 
 (10) A bírság többszörös jogsértés esetén ismételten is kiszabható.
 
@@ -510,7 +516,7 @@ vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészség
 
 (4) Az egészségügyi bírság összegét az egészségügyi államigazgatási szerv külön jogszabályban megjelölt számlájára kell befizetni
 
-(5) A befolyt összeg – a miniszter jóváhagyásával – az egészségügyi államigazgatási szerv hatósági ellenőrzésének és vizsgálati módszereinek folyamatos fejlesztésére, szakembereinek képzésére, valamint szakfelügyeleti és közegészségügyi-járványügyi tevékenységére használható fel.
+(5)
 
 13/C. § (1) Ha a 4. § (5) bekezdés c) pont ca) alpontja hatálya alá tartozó élelmiszerek forgalomba hozatalával összefüggésben fennálló egészségi ártalom vagy annak gyanúja, illetve az emberi egészség veszélyeztetésének megszüntetésére más hatékony eszköz nem áll rendelkezésre, az egészségügyi államigazgatási szerv
 
@@ -530,7 +536,7 @@ vonatkozó jogszabályi rendelkezésekben foglaltakat megsértették, egészség
 (7) Az ideiglenes hozzáférhetetlenné tételt az egészségügyi államigazgatási szerv a (2) bekezdés szerinti időtartam letelte előtt megszünteti, ha
 
 - a) az elrendelés oka már nem áll fenn,
-- b) a büntetőügyben eljáró bíróság, ügyészség vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban, vagy
+- b) a büntetőügyben eljáró bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság, illetve az NMHH tájékoztatása alapján az elektronikus adattal kapcsolatban elektronikus adat ideiglenes hozzáférhetetlenné tétele kényszerintézkedés, illetve elektronikus adat végleges hozzáférhetetlenné tétele intézkedés elrendelése vagy végrehajtása van folyamatban, vagy
 - c) azt az egészségügyi államigazgatási szerv határozatával szemben kezdeményezett közigazgatási perben eljáró bíróság által biztosított azonnali jogvédelem indokolja.
 
 (8) Az egészségügyi államigazgatási szerv a (3) bekezdése szerinti határozatot megküldi az országos tisztifőorvosnak, aki e § szerinti intézkedés végrehajtásának időtartama alatt honlapján közzéteszi annak a honlapnak az elérhetőségét, amelynek tekintetében az egészségügyi államigazgatási szerv véglegessé vált döntésével ideiglenes hozzáférhetetlenné tételt rendelt el.
@@ -571,7 +577,9 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (2) Az egészségügyi szolgáltatók működésének engedélyezésére, a működési engedély módosítására és visszavonására irányuló eljárásokban a kérelem a kormányablaknál nem terjeszthető elő.
 
-(3)–(4)
+(3)
+
+(4)
 
 (5)
 
@@ -606,7 +614,9 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 15. § (1) Ez a törvény a kihirdetése napján lép hatályba.
 
-(2)–(3)
+(2)
+
+(3)
 
 (4) Felhatalmazást kap a Kormány, hogy rendeletben
 

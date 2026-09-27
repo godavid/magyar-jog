@@ -437,7 +437,7 @@ külön rendelkezések
 (4) Az adatkezelő szerv – ha az adott szerv az adat kezelésére törvény alapján egyébként jogosult – tájékoztatja a nem nyilvános támogatási adatról:
 
 - a) a bíróságot;
-- b) az ügyészséget;
+- b) az ügyészséget, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt;
 - c) a nyomozó hatóságot;
 - d) az illetékes nemzetbiztonsági szerv által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
 - e) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervezetet, az Európai Csalásellenes Hivatalt (OLAF), a tanúsító szervet, az állami adóhatóságot, a vámhatóságot, ha a tájékoztatás az ellenőrzéshez szükséges;
@@ -1560,7 +1560,7 @@ jelzéssel érkezett vissza, az iratot – az ellenkező bizonyításáig – az
 - a) a mezőgazdasági és vidékfejlesztési támogatási szerv joghatósága az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa, nemzetközi szerződés vagy törvény rendelkezése alapján kizárt,
 - b) a döntést a végrehajtásban közreműködő szerv kötelező megkeresése nélkül vagy a végrehajtásban közreműködő szerv állásfoglalásának figyelmen kívül hagyásával hozták meg,
 - c) a döntés tartalmát bűncselekmény befolyásolta, feltéve, hogy a bűncselekmény elkövetését jogerős ügydöntő határozat megállapította vagy ilyen határozat meghozatalát nem a bizonyítottság hiánya zárja ki,
-- d) az ügyészség feltételes ügyészi felfüggesztést alkalmazott és annak tartama eredményesen telt el,
+- d) az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal feltételes ügyészi felfüggesztést alkalmazott és annak tartama eredményesen telt el,
 - e) a bíróság az ügy érdemében már határozott – a bíróság által elrendelt új eljárás kivételével –, vagy
 - f) a megismételt eljárás és a döntéshozatal a bíróság határozatának rendelkező részében és indokolásában foglaltakkal ellentétes.
 

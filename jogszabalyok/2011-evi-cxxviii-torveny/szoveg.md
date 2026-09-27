@@ -842,7 +842,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 (6) Az (1) bekezdésben és a (2) bekezdés d) pontjában foglaltak alapján készített felvételek kizárólag anonimizált formában mutathatóak be oktatási célból vagy hozhatóak nyilvánosságra.
 
-(7) Az (1) és (2) bekezdés alapján készített felvétel egyedi ügyhöz kapcsolódó adatkérés alapján – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, közigazgatási hatósági, valamint nemzetbiztonsági feladatok ellátása céljából – nyomozó hatóság, szabálysértési hatóság, ügyészség, bíróság, nemzetbiztonsági szolgálat, terrorizmust elhárító szerv, közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság részére továbbítható. A felvétel a jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy részére is továbbítható, adatigénylési kérelem alapján.
+(7) Az (1) és (2) bekezdés alapján készített felvétel egyedi ügyhöz kapcsolódó adatkérés alapján – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, közigazgatási hatósági, valamint nemzetbiztonsági feladatok ellátása céljából – nyomozó hatóság, szabálysértési hatóság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, bíróság, nemzetbiztonsági szolgálat, terrorizmust elhárító szerv, közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság részére továbbítható. A felvétel a jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy részére is továbbítható, adatigénylési kérelem alapján.
 
 (8) A felvételt, ha arra az (5) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott célból nincs szükség, harminc napon belül törölni kell.
 
@@ -854,7 +854,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 (12) A (11) bekezdés szerinti kérelem benyújtására a felvétel rögzítésétől számított nyolc napon belül van lehetőség.
 
-(13) Bíróság vagy más hatóság megkeresésére, illetve a büntetőeljárás során a bíróság, az ügyészség és a nyomozó hatóság adatszolgáltatás kérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (11) bekezdés szerinti kérelem benyújtásától számított harminc napon belül nem kerül sor megkeresésre, a rögzített felvételt törölni kell.
+(13) Bíróság vagy más hatóság megkeresésére, illetve a büntetőeljárás során a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a nyomozó hatóság adatszolgáltatás kérésére a rögzített felvételt haladéktalanul meg kell küldeni. Ha a (11) bekezdés szerinti kérelem benyújtásától számított harminc napon belül nem kerül sor megkeresésre, a rögzített felvételt törölni kell.
 
 ### VII/C. Fejezet
 

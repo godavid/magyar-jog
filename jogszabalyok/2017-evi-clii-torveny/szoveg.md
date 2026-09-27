@@ -257,9 +257,9 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 - a) az elrendelésének oka megszűnt,
 - b) a vámhatóság a vámigazgatási eljárást megszüntette,
 - c) a vámigazgatási ügy érdemében döntést hozott, vagy
-- d) a vámjogszabályok megsértésével összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a bíróság, ügyészség, vagy nyomozó hatóság a vámhatóságot megkereste.
+- d) a vámjogszabályok megsértésével összefüggésben indult büntetőeljárásban lefoglalásnak van helye, és ennek érdekében a bíróság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy nyomozó hatóság a vámhatóságot megkereste.
 
-(1a) Az (1) bekezdés d) pontja esetén a lefoglalt árut és eszközt a bíróságnak, ügyészségnek vagy nyomozó hatóságnak kell kiadni.
+(1a) Az (1) bekezdés d) pontja esetén a lefoglalt árut és eszközt a bíróságnak, ügyészségnek, az NVVH-nak vagy nyomozó hatóságnak kell kiadni.
 
 (2) Eltérő rendelkezés hiányában a tényállás tisztázásához a továbbiakban már nem szükséges lefoglalt árut és eszközt a lefoglalás megszüntetéséről rendelkező döntés közlését követő 30 napon belül ki kell adni annak, akitől azt lefoglalták, feltéve, hogy a lefoglalással kapcsolatos költségeket megfizeti. Ha a vámhatóság más szerv hatáskörébe tartozó eljárást kezdeményez, az eljárás lefolytatásához szükséges lefoglalt iratokat és tárgyi bizonyítékokat át kell adni a megkeresett szervnek.
 
@@ -435,7 +435,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 
 - a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ellátása céljából, valamint a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervet, amennyiben nemzetbiztonsági feladatkörében jár el,
 - b) a Rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés folytatása érdekében szükséges,
-- c) az ügyészséget, a nyomozó hatóságot, valamint az előkészítő eljárást folytató szervet, ha tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges,
+- c) az ügyészséget, az NVVH-t, a nyomozó hatóságot, valamint az előkészítő eljárást folytató szervet, ha tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges,
 - d) a bíróságot az igazságszolgáltatási tevékenysége ellátása céljából,
 - e) engedélyezési, ellenőrzési, felügyeleti, nyilvántartási, hitelesítési és piacfelügyeleti feladataik ellátása céljából,
   - ea) a nemzeti külkereskedelmi államigazgatási szervet,
@@ -460,7 +460,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 - h) az egészségügyért felelős minisztert ellenőrzési feladatai ellátása céljából,
 - i) a kereskedelemért felelős minisztert dömping- és szubvencióellenes, piacvédelmi elemzési célokból,
 - j) az igazságügyért felelős minisztert az Európai Unió felé fennálló kötelezettség teljesítése céljából,
-- k) az Állami Számvevőszéket, továbbá a Kormány által kijelölt belső ellenőrzési szervet a hatáskörükbe tartozó ellenőrzések lefolytatása céljából,
+- k) az Állami Számvevőszéket, a Kormány által kijelölt belső ellenőrzési szervet a hatáskörükbe tartozó ellenőrzések lefolytatása céljából, továbbá az NVVH-t a közvagyonvédelmi vizsgálat lefolytatása céljából,
 - l) a Magyar Nemzeti Bankot a fizetési mérleg összeállítása céljából,
 - m) a Központi Statisztikai Hivatalt statisztikai célból,
 - n) a Magyar Energetikai és Közmű-szabályozási Hivatalt az energiastatisztikai adatok összeállítása érdekében, valamint az engedélyesként nyilvántartott gazdálkodók adatairól, hatósági feladatainak ellátása céljából,
@@ -1556,7 +1556,7 @@ Ha a jogsértést vagy mulasztást a bizonylatok, könyvek, nyilvántartások me
 
 - a) a döntés módosítása vagy visszavonása a vámhatóság saját hatáskörében,
 - b) a felügyeleti intézkedés,
-- c) az ügyészségről szóló törvény szerinti ügyészi felhívás és fellépés nyomán indított eljárás.
+- c) az ügyészségről szóló törvény szerinti ügyészi vagy az NVVH általi felhívás és fellépés nyomán indított eljárás.
 
 #### 95. § [Fellebbezés]
 
@@ -1681,9 +1681,11 @@ elsőfokú végzés ellen.
 
 (2) Ha az (1) bekezdés kapcsán a vámhatóság intézkedése előtt fellebbezést vagy keresetlevelet nyújtanak be, akkor a vámhatóság az arra vonatkozó rendelkezések figyelembevételével jár el.
 
-#### 105. § [Ügyészi felhívás és fellépés]
+#### 105. § [Az ügyészi és az NVVH általi felhívás és fellépés]
 
-Ha az ügyész az ügyészségről szóló törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a vámhatóság az ügyész által kifogásolt döntését a vámjogszabályok rendelkezéseinek sérelme nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti).
+(1) Ha az ügyész az ügyészségről szóló törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a vámhatóság az ügyész által kifogásolt döntését a vámjogszabályok rendelkezéseinek sérelme nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti).
+
+(2) Ha az NVVH törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a vámhatóság az NVVH által kifogásolt döntését a vámjogszabályok rendelkezéseinek sérelme nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti).
 
 #### 106. § [Semmisség]
 

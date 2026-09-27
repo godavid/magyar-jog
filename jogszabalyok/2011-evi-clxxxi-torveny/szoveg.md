@@ -1050,7 +1050,7 @@ is.
 
 (2) A napló adatait meg kell őrizni és biztosítani kell, hogy a napló adatok folyamatosan hozzáférhetőek és olvashatóak legyenek, továbbá biztosítani kell az adatok megismeréséhez szükséges technikai eszközöket.
 
-(3) A napló adatairól megkeresésre vagy adatkérésre annak a feladatkörében eljáró bíróságnak, ügyészségnek, nyomozó hatóságnak, nemzetbiztonsági szolgálatnak továbbítható adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben vagy adatkérésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult. Ha annak technikai feltételei fennállnak, az adatigénylő részére az adatokat elektronikus úton, automatizáltan is meg lehet küldeni.
+(3) A napló adatairól megkeresésre vagy adatkérésre annak a feladatkörében eljáró bíróságnak, ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, nyomozó hatóságnak, nemzetbiztonsági szolgálatnak továbbítható adat, amely törvényi rendelkezés megjelölésével igazolja, hogy törvény az ügy elbírálásához, továbbá jogosultság, illetve kötelezettség fennállásának ellenőrzéséhez feljogosította az adat megismerésére. Az adatigénylőnek a megkeresésben vagy adatkérésben meg kell jelölnie annak az eljárásának az ügyszámát és tárgyát, amelyben az igényelt adatok megismerésére törvény alapján jogosult. Ha annak technikai feltételei fennállnak, az adatigénylő részére az adatokat elektronikus úton, automatizáltan is meg lehet küldeni.
 
 77. § Az informatikai rendszer működésében keletkezett üzemzavarról és annak megszűnéséről a bíróságot elektronikus levélben, az üzemzavar idején szolgáltatást igénybe venni kívánó kérelmezőt pedig a szolgáltatás igénybevételének megkísérlésekor elektronikus üzenetben kell, az informatikai rendszer útján értesíti. Az informatikai rendszerben keletkezett üzemzavarról, valamint annak megszűnéséről az erre szolgáló, azonosítás nélkül elérhető internetes felületen is tájékoztatást kell adni.
 
@@ -1249,9 +1249,9 @@ is.
   - ha) annak megállapítását, hogy a jogi személlyel szemben büntetőjogi intézkedés alkalmazásának lehet helye, illetve hogy a jogi személlyel szemben már nem állnak fenn az intézkedés alkalmazásának feltételei,
   - hb) a büntetőeljárás felfüggesztését, megszüntetését és folytatását,
   - hc) a jogi személlyel szemben alkalmazott zár alá vétel elrendelését és annak feloldását,
-  - hd) ha az ügyészség a jogi személlyel szemben intézkedés alkalmazását indítványozta, akkor ennek tényét,
+  - hd) ha az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a jogi személlyel szemben intézkedés alkalmazását indítványozta, akkor ennek tényét,
   - he) az eljárás befejezését, továbbá, ha a bíróság a jogi személlyel szemben büntetőjogi intézkedésként tevékenységének korlátozását rendelte el, a korlátozás időtartamát és azt, hogy a korlátozás a jogi személy mely tevékenységére vagy jogosítványára terjed ki, valamint
-  - hf) a ha)–he) alpontban megjelölt döntést hozó bíróság, ügyészség vagy nyomozó hatóság megnevezését, az ügy számát vagy a határozat számát, keltét és a jogerőre emelkedésének vagy véglegessé válásának napját,
+  - hf) a ha)–he) alpontban megjelölt döntést hozó bíróság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy nyomozó hatóság megnevezését, az ügy számát vagy a határozat számát, keltét és a jogerőre emelkedésének vagy véglegessé válásának napját,
 - i) ha a szervezetet a bíróság megszünteti, vagy megállapítja, hogy a szervezet megszűnt, a határozat számát, jogerőre emelkedésének napját.
 - j) a nyilvános szerkezetátalakítási eljárás kezdő időpontját és befejezését.
 

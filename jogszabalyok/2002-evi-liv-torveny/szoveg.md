@@ -302,7 +302,7 @@ veszélyeztetné.
 
 16/H. § Az Európai Unióról szóló szerződéshez, valamint az Európai Közösséget létrehozó szerződéshez és az Európai Atomenergia-közösséget létrehozó szerződéshez csatolt, a schengeni vívmányoknak az Európai Unió keretébe történő beillesztéséről szóló jegyzőkönyv 6. cikke alapján az Európai Unió Tanácsával kötött, a schengeni vívmányok végrehajtásában, alkalmazásában és fejlesztésében való részvételről szóló megállapodásban részes más állammal történő információcserére a 16/A–16/E. § rendelkezéseit megfelelően alkalmazni kell.
 
-16/I. § A 16/A–16/E. § vonatkozásában bűnüldöző szerv alatt a nyomozást folytató ügyészséget is érteni kell.
+16/I. § A 16/A–16/E. § vonatkozásában bűnüldöző szerv alatt a nyomozást folytató ügyészséget és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt is érteni kell.
 
 #### 17. §
 

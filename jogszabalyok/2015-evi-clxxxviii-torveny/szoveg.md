@@ -163,7 +163,7 @@ eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technik
 (5) Az (1) bekezdés szerinti nyilvántartásban kezelt adatok teljes körét megismerheti
 
 - a) az adatkezelés jogszerűségének ellenőrzése céljából a Nemzeti Adatvédelmi és Információszabadság Hatóság (a továbbiakban: NAIH),
-- b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság,
+- b) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság,
 - c) törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok.
 
 7. § (1) Az arcképelemző tevékenység igénybevételéhez szükséges egyedi azonosítókat az igénybevételre jogosult szerv a központi szervhez benyújtott kérelemben igényli.
@@ -178,11 +178,11 @@ eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technik
 
 #### 6. Az igénybevételre jogosult szervek
 
-9. § (1) A 3. § (3) bekezdés a) pontjában meghatározott célból jogosult az általa folytatott büntetőeljárásban a nyomozó hatóság, az ügyészség és a bíróság a rendelkezésükre álló vagy általuk rögzített arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni a terhelt személyazonosságának megállapítása, valamint ellenőrzése érdekében.
+9. § (1) A 3. § (3) bekezdés a) pontjában meghatározott célból jogosult az általa folytatott büntetőeljárásban a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és a bíróság a rendelkezésükre álló vagy általuk rögzített arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni a terhelt személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 (2) A 3. § (3) bekezdés a) pontjában meghatározott célból jogosult
 
-- a) az általa folytatott büntetőeljárásban az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség a feltételezett elkövetőről,
+- a) az általa folytatott büntetőeljárásban az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a feltételezett elkövetőről,
 - b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 7. § (1) bekezdés c) pontjában meghatározott feladatának ellátása során,
 - c) a terrorizmust elhárító szerv az Rtv. 7/E. § (1) bekezdés a) pontjában foglalt feladatainak ellátása során
 
@@ -459,7 +459,7 @@ személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 
 - a) az adatkezelés jogszerűségének ellenőrzése céljából a központi szerv,
 - b) a NAIH,
-- c) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a nyomozó hatóság,
+- c) az adatokkal való visszaélésre utaló bűncselekmények megelőzése, felderítése, valamint büntetőeljárás lefolytatása céljából a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság,
 - d) külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok, továbbá
 - e) a Tvdt.-ben meghatározott feladatok ellátása érdekében a Tanúvédelmi Szolgálat.
 

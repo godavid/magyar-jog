@@ -285,6 +285,7 @@ a törlési kérelem kézhezvételét, vagy a halál időpontját követő két 
 - c) az ügyészség az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálat a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+- f) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a jogszabályban meghatározott feladatai ellátása céljából.
 
 12/A. § A NEK központi nyilvántartásban kezelt adatokat a Központi Statisztikai Hivatal részére – a hivatalos statisztikáról szóló 2016. évi CLV. törvény (a továbbiakban: Stt.) 28. §-ával összhangban a statisztikai cél előzetes igazolása alapján, az ahhoz szükséges mértékben – statisztikai célra egyedi azonosításra alkalmas módon, térítésmentesen át kell adni és azok a Központi Statisztikai Hivatal által statisztikai célra felhasználhatók. Az átvett adatok körét és az adatátvétel részletszabályait a Stt. 28. §-ában meghatározott együttműködési megállapodásban kell rögzíteni.
 
