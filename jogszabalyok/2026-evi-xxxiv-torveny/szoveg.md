@@ -683,89 +683,181 @@ terjedhet.
 
 67. § A 211. §, a 213. §, a 214. §, a 215. § és a 217. § az Alaptörvény 5. cikk (4) és (7) bekezdése alapján a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadandó házszabályi rendelkezésnek minősül.
 
-#### 19.
+#### 19. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
-#### 68. §
+68. § A közúti közlekedésről szóló 1988. évi I. törvény
 
-#### 20.
+- a) 21/F. § (1) bekezdés c) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó” szöveg,
+- b) 21/J. § (5) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 21/J. § (6) bekezdés b) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- d) 21/K. § (8) bekezdés c) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg,
+- e) 21/M. § (5) bekezdés a) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- f) 33/B. § (3a) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- g) 33/D. § (7) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
 
-#### 69. §
+lép.
 
-#### 21.
+#### 20. Az illetékekről szóló 1990. évi XCIII. törvény módosítása
 
-#### 70. §
+69. § Az illetékekről szóló 1990. évi XCIII. törvény
 
-#### 22.
+- a) 52. § (4) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a” szöveg,
+- b) 80. § (1) bekezdés m) pont ma) alpontjában az „ügyészség képviselte” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal képviselte” szöveg
 
-#### 71. §
+lép.
 
-#### 23.
+#### 21. Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény módosítása
 
-#### 72. §
+70. § Az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 13/C. § (7) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg lép.
 
-#### 24.
+#### 22. A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény módosítása
 
-#### 73. §
+71. § A szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény 36/I. § (1) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg lép.
 
-#### 25.
+#### 23. A közjegyzőkről szóló 1991. évi XLI. törvény módosítása
 
-#### 74. §
+72. § A közjegyzőkről szóló 1991. évi XLI. törvény
 
-#### 26.
+- a) 104. § (2) bekezdés nyitó szövegrészében az „illetve ügyészség a” szövegrész helyébe az „ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) a” szöveg,
+- b) 104. § (7) bekezdés a) pontjában az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- c) 105. § (2) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- d) 105. § (3) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- e) 122. § (7) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
 
-#### 75. §
+lép.
 
-#### 27.
+#### 24. A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény módosítása
 
-#### 76. §
+73. § A csődeljárásról és a felszámolási eljárásról szóló 1991. évi XLIX. törvény
 
-#### 28.
+- a) 6. § (1c) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), illetve” szöveg,
+- b) 49/E. § (5) bekezdésében az „ügyészség, vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- c) 49/G. § (2) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
 
-#### 77. §
+lép.
 
-#### 29.
+#### 25. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény módosítása
 
-#### 78. §
+74. § A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 83/D. § f) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg lép.
 
-#### 30.
+#### 26. A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény módosítása
 
-#### 79. §
+75. § A polgárok személyi adatainak és lakcímének nyilvántartásáról szóló 1992. évi LXVI. törvény
 
-#### 80. §
+- a) 9. § (5) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó” szöveg,
+- b) 24. § (1) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 28/B. § (2) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
 
-#### 81. §
+lép.
 
-#### 82. §
+#### 27. A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény módosítása
 
-#### 83. §
+76. § A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 19. § (1) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg lép.
 
-#### 31.
+#### 28. A magyar állampolgárságról szóló 1993. évi LV. törvény módosítása
 
-#### 84. §
+77. § A magyar állampolgárságról szóló 1993. évi LV. törvény 19. § (3) bekezdés c) pontjában az „ügyészségtől és” szövegrész helyébe az „ügyészségtől, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivataltól és” szöveg lép.
 
-#### 32.
+#### 29. Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény módosítása
 
-#### 85. §
+78. § Az Önkéntes Kölcsönös Biztosító Pénztárakról szóló 1993. évi XCVI. törvény
 
-#### 33.
+- a) 40/B. § (1) bekezdés b) pontjában a „Számvevőszékkel,” szövegrész helyébe a „Számvevőszékkel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH),” szöveg,
+- b) 40/B. § (1) bekezdés d) pontjában az „ügyészséggel, nyomozó” szövegrész helyébe az „ügyészséggel, NVVH-val, nyomozó” szöveg,
+- c) 40/B. § (4) bekezdésében az „ügyészség engedélye” szövegrész helyébe az „ügyészség vagy az NVVH engedélye” szöveg és az „ügyészségnek az” szövegrész helyébe az „ügyészségnek vagy az NVVH-nak az” szöveg,
+- d) 40/B. § (9) bekezdésében a „hatósággal vagy az ügyészséggel együttműködési” szövegrész helyébe a „hatósággal, az ügyészséggel vagy az NVVH-val együttműködési” szöveg
 
-#### 86. §
+lép.
 
-#### 34.
+#### 30. A Rendőrségről szóló 1994. évi XXXIV. törvény módosítása
 
-#### 87. §
+79. § A Rendőrségről szóló 1994. évi XXXIV. törvény 67. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A rendőrség nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az NVVH-nál, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Sándor-palotánál, az Országgyűlés Hivatalánál.”
+
+80. § (1) A Rendőrségről szóló 1994. évi XXXIV. törvény 75/I. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 817/A. § (1) bekezdése szerinti, közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül az NVVH-nál kezdeményezi a büntetőeljárás megindítását.”
+
+(2) A Rendőrségről szóló 1994. évi XXXIV. törvény 75/I. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A bírói engedélyhez kötött eszköz alkalmazásának tényét igazoló, a Be. 257. § (2) bekezdése szerinti igazolás beszerzéséről a titkos információgyűjtést folytató szerv vezetője a büntetőeljárás kezdeményezését megelőzően gondoskodik. A törvényszék elnöke a Be. 257. § (2) bekezdése szerinti igazolást az erre irányuló kérelem érkezésétől számított három napon belül állítja ki, amelyet a titkos információgyűjtést folytató szerv vezetője megküld a büntetőeljárás megindítására jogosult szervnek.”
+
+81. § A Rendőrségről szóló 1994. évi XXXIV. törvény 91/E. § (3) bekezdése a következő h) ponttal egészül ki:
+
+[Az (1)–(2) bekezdésben foglaltakon kívül – törvényben meghatározott feladataik teljesítéséhez – bűnüldözési, nemzetbiztonsági, illetőleg honvédelmi célra bűnüldözési adatok továbbíthatók:]
+
+„h) az NVVH”
+
+(részére.)
+
+82. § A Rendőrségről szóló 1994. évi XXXIV. törvény
+
+- a) 3/B. § (1) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy” szöveg,
+- b) 91/E. § (3) bekezdés g) pontjában a „szerve” szövegrész helyébe a „szerve, továbbá” szöveg,
+- c) 91/L. § (2) bekezdésében az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, az NVVH-nak, a” szöveg,
+- d) 91/L. § (8) bekezdés c) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg,
+- e) 91/M. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- f) 91/N. § (7) bekezdésében az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, az NVVH-nak, a” szöveg,
+- g) 91/N. § (11) bekezdésében az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, az NVVH-nak, a” szöveg
+
+lép.
+
+83. § Hatályát veszti a Rendőrségről szóló 1994. évi XXXIV. törvény 91/E. § (3) bekezdés f) pontjában a „továbbá” szövegrész.
+
+#### 31. A bírósági végrehajtásról szóló 1994. évi LIII. törvény módosítása
+
+84. § A bírósági végrehajtásról szóló 1994. évi LIII. törvény
+
+- a) 13. § (1) bekezdés b) pontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), illetve” szöveg,
+- b) 16. § k) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 35. § (5) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- d) 47/A. § (8) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- e) 56. § (1) bekezdés a) pontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- f) 253/E. § (5) bekezdésében az „ügyészségnek, nyomozó” szövegrész helyébe az „ügyészségnek, az NVVH-nak, nyomozó” szöveg,
+- g) 253/E. § (11) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg,
+- h) 253/G. § (3) bekezdésében az „ügyészségnek, nyomozó” szövegrész helyébe az „ügyészségnek, az NVVH-nak, nyomozó” szöveg,
+- i) 293. § (3) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- j) 294. § (1) bekezdés a) pontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- k) 303. § (7) bekezdésében az „ügyészség erre” szövegrész helyébe az „ügyészség, illetve az NVVH erre” szöveg,
+- l) 304/E. § (3a) bekezdés b) pontjában az „ügyészségnél,” szövegrész helyébe az „ügyészségnél vagy az NVVH-nál,” szöveg
+
+lép.
+
+#### 32. A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény módosítása
+
+85. § A szabadalmi ügyvivőkről szóló 1995. évi XXXII. törvény 24/F. § (1) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg lép.
+
+#### 33. A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény módosítása
+
+86. § A találmányok szabadalmi oltalmáról szóló 1995. évi XXXIII. törvény
+
+- a) 53. § (1) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy” szöveg,
+- b) 53. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg
+
+lép.
+
+#### 34. A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosítása
+
+87. § A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 64/A. § (3) bekezdésében az „a bűnüldözés” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bűnüldözés” szöveg lép.
 
 #### 35. A köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény módosítása
 
 #### 88. §
 
-#### 36.
+#### 36. A légiközlekedésről szóló 1995. évi XCVII. törvény módosítása
 
-#### 89. §
+89. § A légiközlekedésről szóló 1995. évi XCVII. törvény 27/A. § (6) bekezdés e) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a nyomozó” szöveg lép.
 
-#### 37.
+#### 37. A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény módosítása
 
-#### 90. §
+90. § A büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 29. § (1) bekezdése a következő g) ponttal egészül ki:
+
+[Az adatkezelő szerv – a 28/B. § (2) bekezdésében meghatározott adatok kivételével – az általa kezelt adatokat továbbítja, valamint az iratokról teljes körű tájékoztatást ad]
+
+„g) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal”
+
+(részére.)
 
 #### 38. A nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény módosítása
 
@@ -781,253 +873,641 @@ terjedhet.
 
 #### 96. §
 
-#### 39.
+#### 39. A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény módosítása
 
-#### 97. §
+97. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény 20. § (1) bekezdése a következő c) ponttal egészül ki:
 
-#### 98. §
+(Az adóazonosító jel megismerésére törvényben meghatározott feladatkörében eljárva jogosult)
 
-#### 40.
+„c) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH).”
 
-#### 99. §
+98. § A személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény
 
-#### 41.
+- a) 32. § 16. pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- b) 36. § 9. pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- c) 36. § 10. pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- d) 36. § 18. pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
 
-#### 100. §
+lép.
 
-#### 42.
+#### 40. A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény módosítása
 
-#### 101. §
+99. § A nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvény 10. §-a helyébe a következő rendelkezés lép:
 
-#### 43.
+„10. § (1) E törvény eltérő rendelkezésének hiányában a Büntető Törvénykönyvről szóló 2012. évi C. törvényt (a továbbiakban: Btk.) és a büntetőeljárásról szóló 2017. évi XC. törvényt (a továbbiakban: Be.) a nemzetközi bűnügyi jogsegélyforgalomban is megfelelően alkalmazni kell.
 
-#### 102. §
+(2) E törvény alkalmazásában a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) eljárása során ügyészség alatt az NVVH-t, legfőbb ügyész alatt az NVVH törvény szerint kijelölt vezetőjét, ügyész alatt az NVVH tagját kell érteni.”
 
-#### 44.
+#### 41. A közraktározásról szóló 1996. évi XLVIII. törvény módosítása
 
-#### 103. §
+100. § A közraktározásról szóló 1996. évi XLVIII. törvény 23. § (2) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg lép.
 
-#### 45.
+#### 42. A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény módosítása
 
-#### 104. §
+101. § A tisztességtelen piaci magatartás és a versenykorlátozás tilalmáról szóló 1996. évi LVII. törvény
 
-#### 46.
+- a) 79/A. § (5) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy” szöveg,
+- b) 88/N. § (3) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
 
-#### 105. §
+lép.
 
-#### 47.
+#### 43. Az atomenergiáról szóló 1996. évi CXVI. törvény módosítása
 
-#### 106. §
+102. § Az atomenergiáról szóló 1996. évi CXVI. törvény
 
-#### 48.
+- a) 16. § (7) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) és” szöveg,
+- b) 16/A. § (11) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg
 
-#### 107. §
+lép.
 
-#### 49.
+#### 44. A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény módosítása
 
-#### 108. §
+103. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény
 
-#### 50.
+- a) 72. § (1) bekezdés a) pont nyitó szövegrészében az „a bíróság” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a bíróság” szöveg,
+- b) 98. § (7) bekezdés h) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 134. § (6) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- d) 135. § (6d) bekezdés nyitó szövegrészében az „ügyészség, rendőrség” szövegrész helyébe az „ügyészség, az NVVH, rendőrség” szöveg,
+- e) 136. § (2) bekezdés b) pontjában az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, az NVVH-nak, a” szöveg,
+- f) 142/D. §-ában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- g) 1. melléklet X. pont 2. alpontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg
 
-#### 109. §
+lép.
 
-#### 51.
+#### 45. Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény módosítása
 
-#### 110. §
+104. § Az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény
+
+- a) 23. § (1) bekezdés a) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó” szöveg,
+- b) 23. § (3) bekezdésében az „ügyészség engedélye” szövegrész helyébe az „ügyészség vagy az NVVH engedélye” szöveg,
+- c) 23. § (4) bekezdés a) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
+
+lép.
+
+#### 46. Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény módosítása
+
+105. § Az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény
+
+- a) 5. § (1) bekezdésében az „a rendőrség” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a rendőrség” szöveg,
+- b) 82. § (1) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg
+
+lép.
+
+#### 47. A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény módosítása
+
+106. § A társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény
+
+- a) 42. § (2) bekezdés a) pontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), illetve” szöveg,
+- b) 96. § (4) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
+
+lép.
+
+#### 48. A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény módosítása
+
+107. § A magánnyugdíjról és a magánnyugdíjpénztárakról szóló 1997. évi LXXXII. törvény
+
+- a) 79. § (1) bekezdés c) pontjában a „Számvevőszékkel,” szövegrész helyébe a „Számvevőszékkel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH),” szöveg,
+- b) 79. § (1) bekezdés e) pontjában az „ügyészséggel, nyomozó” szövegrész helyébe az „ügyészséggel, NVVH-val, nyomozó” szöveg,
+- c) 79. § (4) bekezdésében az „ügyészség engedélye” szövegrész helyébe az „ügyészség vagy az NVVH engedélye” szöveg és az „ügyészségnek az” szövegrész helyébe az „ügyészségnek vagy az NVVH-nak az” szöveg,
+- d) 79. § (5) bekezdésében a „hatósággal vagy az ügyészséggel együttműködési” szövegrész helyébe a „hatósággal, az ügyészséggel és az NVVH-val együttműködési” szöveg
+
+lép.
+
+#### 49. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
+
+108. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény 79. § (4) bekezdésében az „a bűnüldözés” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bűnüldözés” szöveg lép.
+
+#### 50. Az egészségügyről szóló 1997. évi CLIV. törvény módosítása
+
+109. § Az egészségügyről szóló 1997. évi CLIV. törvény
+
+- a) 214. §-ában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg,
+- b) 235. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg
+
+lép.
+
+#### 51. A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény módosítása
+
+110. § A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény
+
+- a) 6. § (9) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy” szöveg,
+- b) 9/A. § (5) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 9/A. § (6) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- d) 9/B. § (4) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- e) 9/B. § (5) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
+
+lép.
 
 #### 52. A külföldre utazásról szóló 1998. évi XII. törvény módosítása
 
 #### 111. §
 
-#### 53.
+#### 53. A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény módosítása
 
-#### 112. §
+112. § A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény 4. § f) pont fa) alpontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a” szöveg lép.
 
-#### 54.
+#### 54. Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény módosítása
 
-#### 113. §
+113. § Az állatok védelméről és kíméletéről szóló 1998. évi XXVIII. törvény 42/A. § (8) bekezdés b) pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg lép.
 
-#### 55.
+#### 55. A közterület-felügyeletről szóló 1999. évi LXIII. törvény módosítása
 
-#### 114. §
+114. § A közterület-felügyeletről szóló 1999. évi LXIII. törvény 7/A. § (2) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg lép.
 
-#### 56.
+#### 56. A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény módosítása
 
-#### 115. §
+115. § A szervezett bűnözés, valamint az azzal összefüggő egyes jelenségek elleni fellépés szabályairól és az ehhez kapcsolódó törvénymódosításokról szóló 1999. évi LXXV. törvény
 
-#### 57.
+- a) 5. § (1) bekezdés nyitó szövegrészében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó” szöveg,
+- b) 5. § (2) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 6. §-ában az „ügyészségnek, illetve” szövegrész helyébe az „ügyészségnek, az NVVH-nak, illetve” szöveg,
+- d) 7. § (1) bekezdés d) pontjában a „szervek, valamint” szövegrész helyébe a „szervek, az NVVH, valamint” szöveg
 
-#### 116. §
+lép.
 
-#### 58.
+#### 57. A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény módosítása
 
-#### 117. §
+116. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény
 
-#### 59.
+- a) 19. § (1) bekezdés a) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg,
+- b) 27/A. § (3) bekezdés d) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg,
+- c) 27/C. § (2) bekezdés b) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg,
+- d) 32. § (4) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg
 
-#### 118. §
+lép.
 
-#### 60.
+#### 58. A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény módosítása
 
-#### 119. §
+117. § A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény
 
-#### 61.
+- a) 23. § (4) bekezdésében az „ügyészségnek vagy” szövegrészek helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
+- b) 23. § (5) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg
 
-#### 120. §
+lép.
 
-#### 62.
+#### 59. A konzuli védelemről szóló 2001. évi XLVI. törvény módosítása
 
-#### 121. §
+118. § A konzuli védelemről szóló 2001. évi XLVI. törvény 16. § (2) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg lép.
 
-#### 63.
+#### 60. A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény módosítása
 
-#### 122. §
+119. § A szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvény 21. § (6b) bekezdésében az „ügyészség, az” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, az” szöveg lép.
 
-#### 64.
+#### 61. A büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény módosítása
 
-#### 123. §
+120. § A büntetőeljárásban résztvevők, az igazságszolgáltatást segítők Védelmi Programjáról szóló 2001. évi LXXXV. törvény
 
-#### 65.
+- a) 4. § (1) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy” szöveg,
+- b) 5. § (1) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg és az „ügyészség egyetértésével” szövegrész helyébe az „ügyészség, illetve az NVVH egyetértésével” szöveg,
+- c) 5. § (2) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- d) 22. § (2) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy NVVH” szöveg,
+- e) 24. § (1) bekezdésében az „ügyész előzetes” szövegrész helyébe az „ügyész vagy az NVVH törvény szerint kijelölt vezetőjének előzetes” szöveg,
+- f) 38. § (2) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
 
-#### 124. §
+lép.
 
-#### 66.
+#### 62. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény módosítása
 
-#### 125. §
+121. § A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény 11/A. §-ában az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg lép.
 
-#### 67.
+#### 63. A jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény módosítása
 
-#### 126. §
+122. § A jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló 2001. évi CIV. törvény 7. §-a a következő (2a) bekezdéssel egészül ki:
 
-#### 68.
+„(2a) E törvény alkalmazásában a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal eljárása során ügyészség alatt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt, ügyész alatt a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal tagját kell érteni.”
 
-#### 127. §
+#### 64. Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény módosítása
+
+123. § Az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvény 13. § (10) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg lép.
+
+#### 65. A tőkepiacról szóló 2001. évi CXX. törvény módosítása
+
+124. § A tőkepiacról szóló 2001. évi CXX. törvény
+
+- a) 310. § (3) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy” szöveg,
+- b) 371/A. §-ában az „ügyészség engedélye” szövegrész helyébe az „ügyészség vagy az NVVH engedélye” szöveg és az „ügyészségnek az” szövegrész helyébe az „ügyészségnek vagy az NVVH-nak az” szöveg,
+- c) 374/B. § a) pontjában a „vagy az ügyészséggel” szövegrész helyébe az „ , az ügyészséggel és az NVVH-val,” szöveg
+
+lép.
+
+#### 66. A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény módosítása
+
+125. § A bűnüldöző szervek nemzetközi együttműködéséről szóló 2002. évi LIV. törvény 16/I. §-a helyébe a következő rendelkezés lép:
+
+„16/I. § A 16/A–16/E. § vonatkozásában bűnüldöző szerv alatt a nyomozást folytató ügyészséget és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt is érteni kell.”
+
+#### 67. A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény módosítása
+
+126. § A jogi segítségnyújtásról szóló 2003. évi LXXX. törvény
+
+- a) 35. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
+- b) 63. § (2) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
+- c) 63. § (5) bekezdés a) pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg,
+- d) 63. § (6) bekezdésében az „ügyészséget vagy” szövegrész helyébe az „ügyészséget, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt vagy” szöveg,
+- e) 63. § (7) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
+- f) 63. § (9) bekezdésében az „ügyészséget, nyomozó” szövegrész helyébe az „ügyészséget, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt, nyomozó” szöveg,
+- g) 63. § (10) bekezdés a) pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg,
+- h) 63/A. § (5) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg
+
+lép.
+
+#### 68. Az elektronikus hírközlésről szóló 2003. évi C. törvény módosítása
+
+127. § Az elektronikus hírközlésről szóló 2003. évi C. törvény
+
+- a) 92/D. §-ában az „ügyészséggel, illetve” szövegrész helyébe az „ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH), illetve” szöveg,
+- b) 154. § (2) bekezdés nyitó szövegrészében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- c) 156. § (16) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- d) 157. § (2) bekezdés nyitó szövegrészében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- e) 157. § (10) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- f) 159/A. § (1) bekezdés nyitó szövegrészében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- g) 159/B. § (3) bekezdés a) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- h) 159/B. § (3) bekezdés b) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
+
+lép.
 
 #### 69. Az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény módosítása
 
 #### 128. §
 
-#### 70.
+#### 70. A sportról szóló 2004. évi I. törvény módosítása
 
-#### 129. §
+129. § A sportról szóló 2004. évi I. törvény
 
-#### 71.
+- a) 59. § (11) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
+- b) 61. § (7) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
+- c) 62. § (6) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
+- d) 72/B. § (5) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg,
+- e) 74. § (5) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg
 
-#### 130. §
+lép.
 
-#### 72.
+#### 71. A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény módosítása
 
-#### 131. §
+130. § A lőfegyverekről és lőszerekről szóló 2004. évi XXIV. törvény 6. § (1) bekezdés a) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg lép.
+
+#### 72. Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény módosítása
+
+131. § Az európai uniós csatlakozással összefüggő egyes törvénymódosításokról, törvényi rendelkezések hatályon kívül helyezéséről, valamint egyes törvényi rendelkezések megállapításáról szóló 2004. évi XXIX. törvény
+
+- a) 140/C. § (2) bekezdés d) pontjában a „hatóságnak és az ügyészségnek bűncselekmények” szövegrész helyébe a „hatóságnak, az ügyészségnek és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) bűncselekmények” szöveg,
+- b) 140/C. § (2) bekezdés f) pontjában a „Számvevőszéknek és” szövegrész helyébe a „Számvevőszéknek, az NVVH-nak és” szöveg
+
+lép.
 
 #### 73. Az Európai Parlament magyarországi képviselőinek jogállásáról szóló 2004. évi LVII. törvény módosítása
 
 #### 132. §
 
-#### 74.
+#### 74. A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény módosítása
 
-#### 133. §
+133. § A haditechnikai termékek gyártásának és a haditechnikai szolgáltatások nyújtásának engedélyezéséről szóló 2005. évi CIX. törvény 7/A. § (1) bekezdés a) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg lép.
 
-#### 75.
+#### 75. A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény módosítása
 
-#### 134. §
+134. § A személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló 2005. évi CXXXIII. törvény
 
-#### 76.
+- a) 11. § (2) bekezdés c) pont nyitó szövegrészében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy” szöveg,
+- b) 11. § (4) bekezdés nyitó szövegrészében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- c) 71. § (3) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- d) 72/C. § (7) bekezdés d) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg
 
-#### 135. §
+lép.
 
-#### 77.
+#### 76. A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény módosítása
 
-#### 136. §
+135. § A bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló 2005. évi CXXXV. törvény
 
-#### 78.
+- a) 11. § (1) bekezdés nyitó szövegrészében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), nyomozó” szöveg,
+- b) 11. § (1) bekezdés c) pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH, nyomozó” szöveg,
+- c) 11. § (1a) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH vagy nyomozó” szöveg,
+- d) 11. § (3) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- e) 11. § (4) bekezdés a) pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH, nyomozó” szöveg és az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- f) 11. § (5) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH, nyomozó” szöveg,
+- g) 11. § (5a) bekezdés a) pontjában az „ügyészség,” szövegrész helyébe az „az ügyészség, az NVVH, a” szöveg és az „ügyészségi, nyomozó hatósági határozat” szövegrész helyébe az „ügyészség, az NVVH, valamint a nyomozó hatóság határozata” szöveg,
+- h) 13. § (1) bekezdés d) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg,
+- i) 15. § (1) bekezdés a) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- j) 16. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- k) 26/C. §-ában az „ügyészség, vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- l) 33. § (1) bekezdés a) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- m) 43. § (1) bekezdésében az „ügyészséggel, a nyomozó hatósággal a” szövegrész helyébe az „ügyészséggel, az NVVH-val, a nyomozó hatósággal, a” szöveg,
+- n) 43. § (3) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH, nyomozó” szöveg
 
-#### 137. §
+lép.
 
-#### 79.
+#### 77. A kereskedelemről szóló 2005. évi CLXIV. törvény módosítása
 
-#### 138. §
+136. § A kereskedelemről szóló 2005. évi CLXIV. törvény 9/G. § (1) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg lép.
 
-#### 80.
+#### 78. A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény módosítása
 
-#### 139. §
+137. § A vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény
 
-#### 81.
+- a) 82. § (7) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH), a nyomozó” szöveg,
+- b) 84/Q. § (2) bekezdésében az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, az NVVH-nak, a” szöveg
 
-#### 140. §
+lép.
 
-#### 82.
+#### 79. A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény módosítása
 
-#### 141. §
+138. § A légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló 2005. évi CLXXXIV. törvény
 
-#### 83.
+- a) 11/B. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
+- b) 12. § (3) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a” szöveg,
+- c) 12. § (4) bekezdés a) pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg
 
-#### 142. §
+lép.
 
-#### 84.
+#### 80. A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény módosítása
 
-#### 143. §
+139. § A cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény
 
-#### 85.
+- a) 15. § (3) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó” szöveg,
+- b) 26. § (1) bekezdés k) pont kd) alpontjában az „ügyészség a” szövegrész helyébe az „ügyészség vagy az NVVH a” szöveg,
+- c) 26. § (1) bekezdés k) pont kf) alpontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- d) 26. § (4) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- e) 26. § (6) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- f) 57. § (5) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- g) 95. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- h) 95. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- i) 116. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg
 
-#### 144. §
+lép.
 
-#### 86.
+#### 81. Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény módosítása
 
-#### 145. §
+140. § Az egészségügyben működő szakmai kamarákról szóló 2006. évi XCVII. törvény
 
-#### 87.
+- a) 22. § (3) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
+- b) 22. § (5a) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
+- c) 22. § (6) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg
 
-#### 146. §
+lép.
 
-#### 88.
+#### 82. A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény módosítása
 
-#### 147. §
+141. § A büntető ügyekben alkalmazható közvetítői tevékenységről szóló 2006. évi CXXIII. törvény
 
-#### 148. §
+- a) 1. §-ában az „ügyészség a” szövegrész helyébe az „ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) a” szöveg,
+- b) 2. § (1) bekezdésében az „illetve ügyésztől” szövegrész helyébe az „ügyészségtől, illetve NVVH-tól” szöveg,
+- c) 3. § (1) bekezdésében az „ügyészség székhelye” szövegrész helyébe az „ügyészség, illetve NVVH székhelye” szöveg,
+- d) 3. § (4) bekezdés c) pontjában az „ügyészségtől újabb” szövegrész helyébe az „ügyészségtől, illetve az NVVH-tól újabb” szöveg,
+- e) 3. § (5) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség, illetve az NVVH a” szöveg,
+- f) 4. § (1) bekezdés b) pontjában az „ügyészként vagy” szövegrész helyébe az „ügyészként, az NVVH tagjaként vagy” szöveg,
+- g) 4. § (3) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- h) 5. § (2) bekezdésében az „ügyészséghez panasszal” szövegrész helyébe az „ügyészséghez, illetve az NVVH-hoz panasszal” szöveg,
+- i) 6. §-ában az „ügyészség közvetítői” szövegrész helyébe az „ügyészség, illetve az NVVH közvetítői” szöveg,
+- j) 8. § (4) bekezdésében az „ügyészség hatáskörébe” szövegrész helyébe az „ügyészség, illetve az NVVH hatáskörébe” szöveg és az „ügyészséget tájékoztatja” szövegrész helyébe az „ügyészséget, illetve az NVVH-t tájékoztatja” szöveg,
+- k) 9. § (1) bekezdés nyitó szövegrészében az „ügyészségi határozatnak” szövegrész helyébe az „ügyészségi, illetve az NVVH által meghozott határozatnak” szöveg,
+- l) 9. § (4) bekezdésében az „ügyészséghez.” szövegrész helyébe az „ügyészséghez, illetve az NVVH-hoz.” szöveg,
+- m) 10. § (4) bekezdésében az „ügyészséghez panasszal” szövegrész helyébe az „ügyészséghez, illetve az NVVH-hoz panasszal” szöveg,
+- n) 12. § (2) bekezdés b) pontjában az „ügyészség megnevezését” szövegrész helyébe az „ügyészség, illetve az NVVH megnevezését” szöveg,
+- o) 13. § (4) bekezdésében az „ügyészségnek.” szövegrész helyébe az „ügyészségnek, illetve az NVVH-nak.” szöveg,
+- p) 14/A. §-ában az „ügyészség hatályon” szövegrész helyébe az „ügyészség, illetve az NVVH hatályon” szöveg,
+- q) 15. § (1a) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség, illetve az NVVH a” szöveg,
+- r) 15. § (3) bekezdésében az „ügyészséget a” szövegrész helyébe az „ügyészséget, illetve az NVVH-t a” szöveg,
+- s) 15. § (4) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség, illetve az NVVH a” szöveg és az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, illetve az NVVH-nak vagy” szöveg,
+- t) 16. § (1) bekezdésében az „ügyészségnek, és” szövegrész helyébe az „ügyészségnek, illetve az NVVH-nak, és” szöveg,
+- u) 16. § (2) bekezdés b) pontjában az „ügyészség megnevezését” szövegrész helyébe az „ügyészség, illetve az NVVH megnevezését” szöveg
 
-#### 89.
+lép.
 
-#### 149. §
+#### 83. A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény módosítása
 
-#### 150. §
+142. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény
 
-#### 90.
+- a) 38. § (6) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) a” szöveg és az „ügyészség székhelye” szövegrész helyébe az „ügyészség vagy az NVVH székhelye” szöveg,
+- b) 64. § (1) bekezdésében az „ügyészség az” szövegrész helyébe az „ügyészség vagy az NVVH az” szöveg,
+- c) 64. § (4) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg
 
-#### 151. §
+lép.
 
-#### 91.
+#### 84. A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény módosítása
 
-#### 152. §
+143. § A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény
 
-#### 153. §
+- a) 25. § (4) bekezdés b) pontjában az „ügyészséget;” szövegrész helyébe az „ügyészséget, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt;” szöveg,
+- b) 57/E. § (1) bekezdés d) pontjában az „ügyészség feltételes” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal feltételes” szöveg
 
-#### 154. §
+lép.
 
-#### 155. §
+#### 85. A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény módosítása
 
-#### 156. §
+144. § A Magyar Könyvvizsgálói Kamaráról, a könyvvizsgálói tevékenységről, valamint a könyvvizsgálói közfelügyeletről szóló 2007. évi LXXV. törvény
 
-#### 157. §
+- a) 9/K. § (2) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
+- b) 133. § (2) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg
 
-#### 92.
+lép.
 
-#### 158. §
+#### 86. A menedékjogról szóló 2007. évi LXXX. törvény módosítása
 
-#### 93.
+145. § A menedékjogról szóló 2007. évi LXXX. törvény
 
-#### 159. §
+- a) 87. § (1) bekezdés b) pontjában az „ügyészség,” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH),” szöveg,
+- b) 87. § (5) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
 
-#### 160. §
+lép.
 
-#### 161. §
+#### 87. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-#### 94.
+146. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 10. § (6) bekezdése helyébe a következő rendelkezés lép:
 
-#### 162. §
+„(6) Akivel szemben
 
-#### 95.
+- a) a (4) bekezdés b) pontjában meghatározott bűncselekmény miatt az ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vádat emelt, vagy
+- b) külföldön az illetékes hatóság vádat emelt olyan vagyon elleni vagy gazdasági bűncselekmény miatt, amely a magyar jog szerint büntetendő,
 
-#### 163. §
+a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, az NVVH-nak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig nem tölthet be vezető állású személyként tisztséget, illetve tisztségéből fel kell függeszteni.”
+
+#### 88. A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény módosítása
+
+147. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 117. § (2) bekezdése a következő k) ponttal egészül ki:
+
+[Az (1) bekezdésben meghatározott titoktartási kötelezettség nem áll fenn a hatáskörében törvény felhatalmazása alapján eljáró]
+
+„k) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH)”
+
+(szemben.)
+
+148. § A befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény
+
+- a) 117. § (2) bekezdés i) pontjában a „szervvel és” szövegrész helyébe a „szervvel,” szöveg,
+- b) 117. § (3) bekezdés a) pontjában az „ügyészséggel, nyomozó” szövegrész helyébe az „ügyészséggel, NVVH-val, nyomozó” szöveg,
+- c) 118. § (3) bekezdés a) pontjában a „Versenyhivatallal,” szövegrész helyébe a „Versenyhivatallal, NVVH-val,” szöveg,
+- d) 118. § (3) bekezdés e) pontjában az „ügyészséggel, nyomozó” szövegrész helyébe az „ügyészséggel, NVVH-val, nyomozó” szöveg,
+- e) 118/A. §-ában a „nyomozó hatósággal vagy az ügyészséggel együttműködési megállapodást” szövegrész helyébe a „nyomozó hatósággal, az ügyészséggel és az NVVH-val együttműködési megállapodást” szöveg,
+- f) 119. § (1) bekezdés nyitó szövegrészében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- g) 119. § (1a) bekezdésében az „ügyészség engedélye” szövegrész helyébe az „ügyészség vagy az NVVH engedélye” szöveg és az „ügyészségnek az” szövegrész helyébe az „ügyészségnek vagy az NVVH-nak az” szöveg
+
+lép.
+
+#### 89. Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény módosítása
+
+149. § Az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény
+
+- a) 15/C. § (3) bekezdésében az „ügyészségnek, nyomozó” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH), nyomozó” szöveg és az „amely” szövegrész helyébe a „ha” szöveg,
+- b) 27/A. §-ában az „ügyészség, közjegyző” szövegrész helyébe az „ügyészség, az NVVH, közjegyző” szöveg,
+- c) 36/G. § (3) bekezdésében az „ügyészségnek, nyomozó” szövegrész helyébe az „ügyészségnek, az NVVH-nak, nyomozó” szöveg és az „amely” szövegrész helyébe a „ha” szöveg,
+- d) 36/G. § (7) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH, nyomozó” szöveg,
+- e) 36/K. § (2) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- f) 36/K. § (7) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH, nyomozó” szöveg
+
+lép.
+
+150. § Hatályát veszti az egyes közjegyzői nemperes eljárásokról szóló 2008. évi XLV. törvény
+
+- a) 15/C. § (3) bekezdésében az „annak a” szövegrész,
+- b) 36/G. § (3) bekezdésében az „annak a” szövegrész.
+
+#### 90. Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény módosítása
+
+151. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 58/A. § (6) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg lép.
+
+#### 91. A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény módosítása
+
+152. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az érintett arcképmását az a nyomozó hatóság vagy ügyészség küldi meg a bűnügyi nyilvántartó szervnek, amelyik a megalapozott gyanút a gyanúsítottal közölte. Ha a megalapozott gyanút a gyanúsítottal az NVVH közölte, az érintett arcképmását az NVVH küldi meg a bűnügyi nyilvántartó szervnek.”
+
+153. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 24. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A személyazonosító adatokat, valamint a 23. § c)–e) és i) pontjában meghatározott adatokat az a nyomozó hatóság vagy ügyészség közli a bűnügyi nyilvántartó szervvel, amelyik az érintettel szemben eljár. Ha az érintettel szemben az NVVH járt el, az adatokat az NVVH közli a bűnügyi nyilvántartó szervvel.”
+
+154. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 46. §-a helyébe a következő rendelkezés lép:
+
+„46. § A büntetőeljárás alá vont személy ujj- és tenyérnyomatát – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terhelttel szemben a megalapozott gyanút közölte. Ha a terhelttel szemben a megalapozott gyanút az NVVH közölte, a büntetőeljárás alá vont személy ujj- és tenyérnyomatát az NVVH küldi meg a szakértői nyilvántartó szervnek.”
+
+155. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 61. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A DNS-profil meghatározására alkalmas szájnyálkahártya-törletet – a nyilvántartásba vétel kezdeményezésével egyidejűleg – az a nyomozó hatóság vagy ügyészség küldi meg a szakértői nyilvántartó szervnek, amely a terhelttel szemben a megalapozott gyanút közölte. Ha a terhelttel szemben a megalapozott gyanút az NVVH közölte, a DNS-profil meghatározására alkalmas szájnyálkahártya-törletet az NVVH küldi meg a szakértői nyilvántartó szervnek.”
+
+156. § (1) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 85. § (5) és (6) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(5) Ha az ujj- és tenyérnyomat vagy DNS-profil (4) vagy (4a) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomattal vagy DNS-profillal, az egyezés tényéről a szakértői nyilvántartó szerv haladéktalanul értesíti az összehasonlítást elrendelő bűnüldözési feladatot ellátó szervet, előkészítő eljárást folytató szervet, nyomozó hatóságot, ügyészséget, NVVH-t vagy bíróságot. Az értesítés tartalmazza az együttműködő tagállam nyilvántartásaiban kezelt ujj- és tenyérnyomathoz vagy DNS-profilhoz kapcsolódó szakrendszeri azonosító kódot, valamint az érintett együttműködő tagállam megjelölését.
+
+(6) Ha a (4) vagy (4a) bekezdés szerinti összehasonlítás eredményeként a szakértői nyilvántartó szerv azt állapítja meg, hogy a bűnügyi és rendészeti biometrikus adatok nyilvántartásában kezelt ujj- és tenyérnyomattal vagy DNS-profillal azonos ujj- és tenyérnyomat vagy DNS-profil nem található, ennek tényét haladéktalanul közli az összehasonlítást elrendelő bűnüldözési feladatot ellátó szervvel, előkészítő eljárást folytató szervvel, nyomozó hatósággal, ügyészséggel, NVVH-val vagy bírósággal.”
+
+(2) A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény 85. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Ha a DNS-profiloknak a (7) bekezdés szerinti összehasonlítása egyértelmű egyezést eredményez, a szakértői nyilvántartó szerv az egyezés tényéről, az összehasonlítás során az Európai Unió tagállamaitól átvett szakrendszeri azonosító kódról, valamint az érintett együttműködő tagállamról haladéktalanul értesíti az eljárásában a DNS-profil meghatározásának alapjául szolgáló anyagmaradványt rögzítő előkészítő eljárást folytató szervet, nyomozó hatóságot, ügyészséget, NVVH-t vagy bíróságot.”
+
+157. § A bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bíróságai által magyar állampolgárokkal szemben hozott ítéletek nyilvántartásáról, valamint a bűnügyi és rendészeti biometrikus adatok nyilvántartásáról szóló 2009. évi XLVII. törvény
+
+- 1. 4/A. § (1) bekezdés c) pont ca) alpontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), nyomozó” szöveg,
+- 2. 6. § (2) bekezdés a) pontjában az „ügyészség” szövegrész helyébe az „ügyészség vagy az NVVH” szöveg,
+- 3. 6. § (2) bekezdés c) pontjában az „ügyészség a” szövegrész helyébe az „ügyészség vagy az NVVH a” szöveg,
+- 4. 15. § e) pontjában az „ügyészség” szövegrész helyébe az „ügyészség vagy az NVVH” szöveg,
+- 5. 16. § (1) bekezdés d) pontjában az „ügyészség megnevezését” szövegrész helyébe az „ügyészség, illetve NVVH megnevezését” szöveg,
+- 6. 17. § (2) bekezdésében az „ügyészség közli” szövegrész helyébe az „ügyészség, illetve NVVH közli” szöveg,
+- 7. 20. § (1) bekezdés a) pontjában az „ügyészi” szövegrész helyébe az „az ügyészség vagy az NVVH által alkalmazott” szöveg,
+- 8. 22. § (2) bekezdés a) pontjában az „ügyészség átvette-e” szövegrész helyébe az „ügyészség vagy az NVVH átvette-e” szöveg,
+- 9. 22. § (2) bekezdés c) pontjában az „ügyészség a” szövegrész helyébe az „ügyészség vagy az NVVH a” szöveg,
+- 10. 23. § h) pontjában az „ügyészség megnevezését” szövegrész helyébe az „ügyészség vagy az NVVH megnevezését” szöveg,
+- 11. 23. § k) pontjában a „hatóság megnevezését” szövegrész helyébe a „hatóság vagy az NVVH megnevezését” szöveg,
+- 12. 24. § (2) bekezdésében az „ügyészség közli” szövegrész helyébe az „ügyészség vagy az NVVH közli” szöveg,
+- 13. 24. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 14. 24. § (5) bekezdésében az „ügyészség szünteti” szövegrész helyébe az „ügyészség vagy az NVVH szünteti” szöveg és az „ügyészség közli” szövegrész helyébe az „ügyészség vagy NVVH közli” szöveg,
+- 15. 24. § (6) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 16. 24. § (7) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy NVVH” szöveg,
+- 17. 30/D. § (3) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy NVVH” szöveg,
+- 18. 39. § (3) bekezdésében a „hatóság vagy az ügyészség” szövegrész helyébe a „hatóság, az ügyészség vagy az NVVH” szöveg,
+- 19. 41. § b) pontjában a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy NVVH” szöveg,
+- 20. 42. § (1) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy NVVH” szöveg,
+- 21. 42. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 22. 42. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 23. 44. § (2) bekezdés a) pontjában az „ügyészség” szövegrész helyébe az „ügyészség vagy az NVVH” szöveg,
+- 24. 44. § (2) bekezdés c) pontjában az „ügyészség a” szövegrész helyébe az „ügyészség vagy az NVVH a” szöveg,
+- 25. 56. § b) pontjában a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy NVVH” szöveg,
+- 26. 57. § (1) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy NVVH” szöveg,
+- 27. 57. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 28. 57. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 29. 66/A. § (2) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH vagy nyomozó” szöveg,
+- 30. 66/A. § (3) bekezdés a) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 31. 66/B. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 32. 66/C. § (1) bekezdés nyitó szövegrészében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 33. 66/C. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 34. 66/C. § (4) bekezdésében az „ügyészség vagy” szövegrészek helyébe az „ügyészség, NVVH vagy” szöveg,
+- 35. 66/D. § (2) bekezdés nyitó szövegrészében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 36. 66/D. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 37. 66/D. § (5) bekezdésében az „ügyészség vagy” szövegrészek helyébe az „ügyészség, NVVH vagy” szöveg,
+- 38. 66/F. §-ában az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 39. 68. § (1) bekezdés b) pontjában a „hatóság és az ügyészség” szövegrész helyébe a „hatóság, az ügyészség és az NVVH” szöveg,
+- 40. 70/A. § (3) bekezdés b) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- 41. 76/D. § a) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 42. 82. § (4) bekezdés a) pontjában a „hatóság és az ügyészség” szövegrész helyébe a „hatóság, az ügyészség és az NVVH” szöveg,
+- 43. 83. § (1) bekezdés nyitó szövegrészében a „hatóság vagy az ügyészség” szövegrész helyébe a „hatóság, az ügyészség vagy az NVVH” szöveg,
+- 44. 85. § (4) bekezdés nyitó szövegrészében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 45. 85. § (4a) bekezdés a) pontjában a „hatóság vagy az ügyészség” szövegrész helyébe a „hatóság, az ügyészség vagy az NVVH” szöveg,
+- 46. 86/A. § (1) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 47. 86/A. § (2) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, NVVH-nak vagy” szöveg,
+- 48. 86/A. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 49. 86/A. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 50. 86/B. § (1) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, NVVH-nak vagy” szöveg és az „ügyészség kivételével” szövegrész helyébe az „ügyészség és az NVVH kivételével” szöveg,
+- 51. 86/B. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 52. 86/C. § (1) bekezdésében a „vagy bíróságnak,” szövegrész helyébe a „ , bíróságnak vagy az NVVH-nak” szöveg,
+- 53. 86/C. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 54. 86/D. § (1) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 55. 86/D. § (2) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, NVVH-nak vagy” szöveg,
+- 56. 86/D. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 57. 86/D. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- 58. 91. § (1) bekezdés d) pontjában az „ügyészség, a nyomozó” szövegrész helyébe az „ügyészség, az NVVH, a nyomozó” szöveg,
+- 59. 92. § (1) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy az NVVH” szöveg,
+- 60. 93. § (1) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy az NVVH” szöveg,
+- 61. 93. § (3) bekezdésében a „hatóság vagy az ügyészség” szövegrész helyébe a „hatóság, az ügyészség vagy az NVVH” szöveg,
+- 62. 94. § (1) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy az NVVH” szöveg,
+- 63. 94. § (3) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy az NVVH” szöveg,
+- 64. 94. § (5) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy az NVVH” szöveg,
+- 65. 94. § (6) bekezdésében a „hatóságot vagy ügyészséget” szövegrész helyébe a „hatóságot, ügyészséget vagy az NVVH-t” szöveg és a „hatóság vagy ügyészség” szövegrész helyébe a „hatóság, ügyészség vagy az NVVH” szöveg,
+- 66. 94. § (7) bekezdésében a „vagy ügyészséget” szövegrész helyébe az „ , ügyészséget vagy az NVVH-t” szöveg és a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy az NVVH” szöveg,
+- 67. 95. § (3) bekezdés b) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg
+
+lép.
+
+#### 92. A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény módosítása
+
+158. § A fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 57. § (3) bekezdésében az „ügyészségnek, nyomozó” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, nyomozó” szöveg lép.
+
+#### 93. A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény módosítása
+
+159. § A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 47. § (1) bekezdése a következő p) ponttal egészül ki:
+
+(A kötvénynyilvántartásból adatot igényelhet:)
+
+„p) a 46. § (2) bekezdésében foglalt adatok tekintetében – bűncselekmények felderítése vagy büntetőeljárás lefolytatása céljából – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan.”
+
+160. § A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény 51. § (9) bekezdése a következő m) ponttal egészül ki:
+
+(A kárnyilvántartó szerv kérelemre köteles átadni vagy hozzáférhetővé tenni:)
+
+„m) a (4) bekezdésben foglalt adatok tekintetében – bűncselekmények felderítése vagy büntetőeljárás lefolytatása céljából – a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal”
+
+(részére.)
+
+161. § A kötelező gépjármű-felelősségbiztosításról szóló 2009. évi LXII. törvény
+
+- a) 50. § (3) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg,
+- b) 53. § (3) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg
+
+lép.
+
+#### 94. Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény módosítása
+
+162. § Az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvény
+
+- a) 13. § (2) bekezdés c) pontjában az „ügyészség büntetőeljárás” szövegrész helyébe az „ügyészség, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal büntetőeljárás” szöveg,
+- b) 13. § (3) bekezdésében az „a közjegyző” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a közjegyző” szöveg
+
+lép.
+
+#### 95. A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény módosítása
+
+163. § A magyar jelnyelvről és a magyar jelnyelv használatáról szóló 2009. évi CXXV. törvény
+
+- a) 8. § (9) bekezdésében az „ügyészségnek és” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak és” szöveg,
+- b) 8/A. § (11) bekezdésében az „ügyészségnek és” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak és” szöveg
+
+lép.
 
 #### 96. A minősített adat védelméről szóló 2009. évi CLV. törvény módosítása
 
@@ -1037,19 +1517,32 @@ terjedhet.
 
 #### 166. §
 
-#### 97.
+#### 97. Az anyakönyvi eljárásról szóló 2010. évi I. törvény módosítása
 
-#### 167. §
+167. § Az anyakönyvi eljárásról szóló 2010. évi I. törvény 93. § (1) bekezdés c) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg lép.
 
-#### 98.
+#### 98. A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény módosítása
 
-#### 168. §
+168. § A hagyatéki eljárásról szóló 2010. évi XXXVIII. törvény 66. § (3) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg lép.
 
-#### 99.
+#### 99. A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosítása
 
-#### 169. §
+169. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 65/H. §-a a következő (1a) bekezdéssel egészül ki:
 
-#### 170. §
+„(1a) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján a Be. 817/A. § (1) bekezdése szerinti, közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül az NVVH-nál kezdeményezi a büntetőeljárás megindítását.”
+
+170. § A Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény
+
+- a) 13. § (7) bekezdés b) pontjában az „a bíróság” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a bíróság” szöveg,
+- b) 36/P. § (1) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 36/P. § (5) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- d) 56. § (3) bekezdésében az „az Alkotmánybíróságnál” szövegrész helyébe az „az NVVH-nál, az Alkotmánybíróságnál” szöveg,
+- e) 71. § (1) bekezdés c) pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH, nyomozó” szöveg,
+- f) 71. § (2) bekezdés 13. pontjában az „ügyészség büntetőeljárási” szövegrész helyébe az „ügyészség és az NVVH büntetőeljárási” szöveg,
+- g) 76. § (2) bekezdés b) pontjában az „ügyészség,” szövegrész helyébe az „ügyészség és az NVVH,” szöveg,
+- h) 78. § (1a) bekezdésében az „ügyészségnek, nyomozó” szövegrész helyébe az „ügyészségnek, az NVVH-nak, nyomozó” szöveg
+
+lép.
 
 #### 100. A jogalkotásról szóló 2010. évi CXXX. törvény módosítása
 
@@ -1061,17 +1554,33 @@ terjedhet.
 
 #### 173. §
 
-#### 102.
+#### 102. A Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény módosítása
 
-#### 174. §
+174. § A Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló 2011. évi XXXIV. törvény 7. § (3) bekezdése a következő l) ponttal egészül ki:
 
-#### 103.
+(A Magyar Honvédség központi nyilvántartó szerve – erre vonatkozó írásbeli kérelmére – adatot szolgáltat)
 
-#### 175. §
+„l) a 4. § (2) bekezdés a), b), c), e), f) és g) pontjában és a 4. § (5) bekezdésében foglalt adatokról az érintett személyt vagy annak jogos érdekét érintő eljárás lefolytatása érdekében a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal”
 
-#### 104.
+(részére.)
 
-#### 176. §
+#### 103. Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény módosítása
+
+175. § Az Állami Számvevőszékről szóló 2011. évi LXVI. törvény
+
+- a) 27. § (7) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
+- b) 27. § (8) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg
+
+lép.
+
+#### 104. A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény módosítása
+
+176. § A környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény
+
+- a) 2. § 30b. pontjában az „ügyészség határozata” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal határozata” szöveg,
+- b) 34. § (4) bekezdés d) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg
+
+lép.
 
 #### 105. A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény módosítása
 
@@ -1091,13 +1600,18 @@ terjedhet.
 
 #### 182. §
 
-#### 108.
+#### 108. A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény módosítása
 
-#### 183. §
+183. § A katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény
 
-#### 109.
+- a) 79/A. § (7) bekezdésében az „ügyészség, bíróság” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, bíróság” szöveg,
+- b) 79/A. § (13) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg
 
-#### 184. §
+lép.
+
+#### 109. A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény módosítása
+
+184. § A Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény 27. § (2) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó” szöveg lép.
 
 #### 110. Az Alkotmánybíróságról szóló 2011. évi CLI. törvény módosítása
 
@@ -1109,15 +1623,17 @@ terjedhet.
 
 #### 188. §
 
-#### 111.
+#### 111. A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény módosítása
 
-#### 189. §
+189. § A bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény 117. § (1) bekezdés b) pontjában az „ügyészség a” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a” szöveg lép.
 
-#### 112.
+#### 112. Az ügyészségről szóló 2011. évi CLXIII. törvény módosítása
 
-#### 190. §
+190. § Az ügyészségről szóló 2011. évi CLXIII. törvény 25/T. §-a a következő (1a) bekezdéssel egészül ki:
 
-#### 191. §
+„(1a) Ha a bírói engedélyhez kötött eszköz alkalmazása során olyan adat keletkezik, amely alapján a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) 817/A. § (1) bekezdése szerinti, közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt büntetőeljárás megindításának lehet helye, a titkos információgyűjtést folytató szerv vezetője a büntetőeljárásban felhasználni kívánt adat megszerzését követő nyolc napon belül a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál kezdeményezi a büntetőeljárás megindítását.”
+
+191. § Az ügyészségről szóló 2011. évi CLXIII. törvény 25/T. § (3) bekezdésében a „büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.)” szövegrész helyébe a „Be.” szöveg lép.
 
 #### 113. A legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló 2011. évi CLXIV. törvény módosítása
 
@@ -1135,53 +1651,92 @@ terjedhet.
 
 #### 198. §
 
-#### 114.
+#### 114. A polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény módosítása
 
-#### 199. §
+199. § A polgárőrségről és a polgárőri tevékenység szabályairól szóló 2011. évi CLXV. törvény
 
-#### 115.
+- a) 12. § (3) bekezdés b) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó” szöveg,
+- b) 12. § (3a) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó” szöveg,
+- c) 12. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg és az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó” szöveg,
+- d) 22/A. § (6) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg
 
-#### 200. §
+lép.
+
+#### 115. Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény módosítása
+
+200. § Az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 10/E. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg lép.
 
 #### 116. A nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény módosítása
 
 #### 201. §
 
-#### 117.
+#### 117. A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosítása
 
-#### 202. §
+202. § A civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény
 
-#### 118.
+- a) 76. § (3) bekezdésében az „ügyészségnek, nyomozó” szövegrész helyébe az „ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, nyomozó” szöveg,
+- b) 93. § (1) bekezdés h) pont hd) alpontjában az „ügyészség a” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a” szöveg,
+- c) 93. § (1) bekezdés h) pont hf) alpontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg
 
-#### 203. §
+lép.
 
-#### 119.
+#### 118. A nemzeti köznevelésről szóló 2011. évi CXC. törvény módosítása
 
-#### 204. §
+203. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 41. § (5) bekezdésében az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a” szöveg lép.
+
+#### 119. A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény módosítása
+
+204. § A megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 21. § (3) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg lép.
 
 #### 120. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
 #### 205. §
 
-#### 121.
+#### 121. A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény módosítása
 
-#### 206. §
+206. § A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény
+
+- a) 156. § (3) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg és az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
+- b) 162. § (8) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg,
+- c) 180. § (1) bekezdés g) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg,
+- d) 182. § (5) bekezdés g) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg
+
+lép.
 
 #### 122. A Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló 2011. évi CCII. törvény módosítása
 
 #### 207. §
 
-#### 123.
+#### 123. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-#### 208. §
+208. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény
 
-#### 124.
+- a) 52/A. § (2) bekezdésében a „vagy az” szövegrész helyébe a „vagy ha az” szöveg és az „ügyészség a” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a” szöveg,
+- b) 52/A. § (6) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal” szöveg,
+- c) 68. § (7) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
+- d) 107/A. § (2) bekezdésében a „vagy az” szövegrész helyébe a „vagy ha az” szöveg és az „ügyészség a” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a” szöveg,
+- e) 107/A. § (6) bekezdésében a „vagy ügyészség” szövegrész helyébe az „ , ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal” szöveg,
+- f) 3. melléklet I. Fejezet I/A. alcím 4. pontjában az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a” szöveg,
+- g) 3. melléklet I. Fejezet I/B. alcím 4. pont b) alpontjában az „a bírósági” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a bírósági” szöveg,
+- h) 3. melléklet IV. Fejezet 3. pontjában az „a bírósági” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a bírósági” szöveg,
+- i) 6. melléklet 5. pontjában az „a bírósági” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a bírósági” szöveg
 
-#### 209. §
+lép.
 
-#### 125.
+#### 124. A munka törvénykönyvéről szóló 2012. évi I. törvény módosítása
 
-#### 210. §
+209. § A munka törvénykönyvéről szóló 2012. évi I. törvény 188. §-ában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg lép.
+
+#### 125. A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény módosítása
+
+210. § A szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény
+
+- a) 6. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy” szöveg,
+- b) 156/A. § (3) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 157. § (1) bekezdés e) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- d) 165. § (5) bekezdés b) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
+
+lép.
 
 #### 126. Az Országgyűlésről szóló 2012. évi XXXVI. törvény módosítása
 
@@ -1201,115 +1756,338 @@ terjedhet.
 
 #### 218. §
 
-#### 127.
+#### 127. A Büntető Törvénykönyvről szóló 2012. évi C. törvény módosítása
 
-#### 219. §
+219. § A Büntető Törvénykönyvről szóló 2012. évi C. törvény
 
-#### 220. §
+- a) 3. § (3) bekezdésében az „ügyész rendeli” szövegrész helyébe az „ügyész vagy a hatáskörébe tartozó ügyben a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal törvény szerint kijelölt vezetője rendeli” szöveg,
+- b) 28. § (1) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a nyomozó” szöveg,
+- c) 64. § (2) bekezdésében a „bíróság vagy az ügyészség helytelenítését” szövegrész helyébe a „bíróság, az ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal helytelenítését” szöveg,
+- d) 71. § (2) bekezdés nyitó szövegrészében az „ügyészség a” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a” szöveg és az „illetve az ügyészség elrendelheti” szövegrész helyébe az „az ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal elrendelheti” szöveg,
+- e) 71. § (3) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a” szöveg,
+- f) 71. § (7) bekezdés nyitó szövegrészében a „bíróság vagy az ügyészség az” szövegrész helyébe a „bíróság, az ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal az” szöveg,
+- g) 83. § (2) bekezdésében az „ügyészséggel, illetve” szövegrész helyébe az „ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, illetve” szöveg,
+- h) 222. § (1a) bekezdés a) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
+- i) 459. § (1) bekezdés 9. pontjában a „bíróság és az ügyészség is” szövegrész helyébe a „bíróság, az ügyészség és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal is” szöveg,
+- j) 459. § (1) bekezdés 11. pont k) alpontjában a „Számvevőszéknél, bíróságnál” szövegrész helyébe a „Számvevőszéknél, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál, bíróságnál” szöveg
 
-#### 128.
+lép.
 
-#### 221. §
+220. § Hatályát veszti a Büntető Törvénykönyvről szóló 2012. évi C. törvény 71. § (3) bekezdésében az „illetve” szövegrész.
 
-#### 129.
+#### 128. Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény módosítása
 
-#### 222. §
+221. § Az egyes rendészeti feladatokat ellátó személyek tevékenységéről, valamint egyes törvényeknek az iskolakerülés elleni fellépést biztosító módosításáról szóló 2012. évi CXX. törvény 9. § (6) bekezdése a következő j) ponttal egészül ki:
 
-#### 130.
+[Az (1) bekezdésben meghatározott nyilvántartásokból adatot igényelhet]
 
-#### 223. §
+„j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal jogszabályban meghatározott feladatai ellátása céljából.”
 
-#### 131.
+#### 129. A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény módosítása
 
-#### 224. §
+222. § A Magyar Állatorvosi Kamaráról, valamint az állatorvosi szolgáltatói tevékenység végzéséről szóló 2012. évi CXXVII. törvény
 
-#### 132.
+- a) 27. § (1) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg és az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
+- b) 27. § (3) bekezdésében az „ügyészségnek, illetve” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, illetve” szöveg
 
-#### 225. §
+lép.
 
-#### 133.
+#### 130. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
-#### 226. §
+223. § A postai szolgáltatásokról szóló 2012. évi CLIX. törvény 38. §-ában az „ügyészséggel és” szövegrész helyébe az „ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal és” szöveg lép.
 
-#### 134.
+#### 131. Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény módosítása
 
-#### 227. §
+224. § Az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 2. §-a helyébe a következő rendelkezés lép:
 
-#### 135.
+„2. § (1) A tagállamokkal e törvény alapján folytatott eljárásokban a nemzetközi bűnügyi jogsegélyről szóló 1996. évi XXXVIII. törvényt (a továbbiakban: Nbjt.) – így különösen az Nbjt. 14. § (1) és (1a) bekezdésében foglaltakat is –, a Büntető Törvénykönyvről szóló 2012. évi C. törvényt (a továbbiakban: Btk.) és a büntetőeljárásról szóló 2017. évi XC. törvényt (a továbbiakban: Be.) az e törvényben foglalt eltérésekkel kell alkalmazni.
 
-#### 228. §
+(2) E törvény alkalmazásában a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) eljárása során ügyészség alatt az NVVH-t, legfőbb ügyész alatt az NVVH törvény szerint kijelölt vezetőjét, ügyész alatt az NVVH tagját kell érteni.”
 
-#### 136.
+#### 132. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-#### 229. §
+225. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény
 
-#### 230. §
+- a) 3. § (2) bekezdés f) pontjában az „ügyészség” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH)” szöveg,
+- b) 6. § (6) bekezdésében az „a vádemelés után” szövegrész helyébe az „az NVVH, a vádemelés után” szöveg és az „engedélyről a” szövegrész helyébe az „engedélyről, valamint az NVVH engedélyéről a” szöveg,
+- c) 7. § (1) bekezdésében az „ügyészség, valamint” szövegrész helyébe az „ügyészség, az NVVH, valamint” szöveg,
+- d) 8. § (3) bekezdésében az „– és az ügyészség” szövegrész helyébe az „–, az ügyészség és az NVVH” szöveg,
+- e) 12. § (2) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „az ügyészség, az NVVH, illetve” szöveg,
+- f) 19. § (1) bekezdés a) pontjában az „és ügyészség” szövegrész helyébe az „ , ügyészség és NVVH” szöveg,
+- g) 28. § (1) bekezdésében az „ügyészséget.” szövegrész helyébe az „ügyészséget, illetve az NVVH által folytatott eljárást érintő jogsegély esetén az NVVH-t.” szöveg,
+- h) 28. § (4) bekezdésében a „hatóságot és az ügyészt” szövegrész helyébe a „hatóságot, az ügyészt vagy – az NVVH által folytatott eljárást érintő esetben – az NVVH-t” szöveg,
+- i) 36. § (5) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg
 
-#### 231. §
+lép.
 
-#### 137.
+#### 133. A Polgári Törvénykönyvről szóló 2013. évi V. törvény módosítása
 
-#### 232. §
+226. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:88. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-#### 138.
+„(4) Közérdekben okozott sérelem megszüntetése érdekében és uzsorás szerződés esetén az ügyész, illetve közérdekben okozott sérelem megszüntetése érdekében a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal keresetet indíthat a szerződés semmisségének megállapítása vagy a semmisség jogkövetkezményeinek alkalmazása iránt.”
 
-#### 233. §
+#### 134. Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény módosítása
 
-#### 139.
+227. § Az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 21/E. § (9) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg lép.
 
-#### 234. §
+#### 135. Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény módosítása
 
-#### 140.
+228. § Az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló 2013. évi LXVII. törvény
 
-#### 235. §
+- a) 17. § (5) bekezdés c) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg,
+- b) 26. § (10) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg
 
-#### 141.
+lép.
 
-#### 236. §
+#### 136. A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény módosítása
 
-#### 142.
+229. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 20. § (6) bekezdése a következő h) ponttal egészül ki:
 
-#### 237. §
+(Ha a bejelentés szerinti eltűnt személy)
 
-#### 143.
+„h) az NVVH személyi állományának tagja,”
 
-#### 238. §
+[haladéktalanul tájékoztatni kell a körözés elrendeléséről a körözést elrendelő illetékessége szerinti ügyészséget, valamint az f) pontban meghatározott esetben a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet a bűnüldözési feladatai céljából, a g) pontban meghatározott esetben a Katonai Nemzetbiztonsági Szolgálatot a nemzetbiztonsági tevékenysége ellátása céljából.]
 
-#### 144.
+230. § A körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény
 
-#### 239. §
+- a) 8. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy a” szöveg,
+- b) 8. § (2b) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- c) 10. § (1) bekezdés k) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- d) 14. § (4) bekezdés d) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- e) 20. § (6) bekezdés záró szövegrészében a „céljából.” szövegrész helyébe a „céljából, valamint a h) pontban meghatározott esetben az NVVH elnökét.” szöveg
 
-#### 145.
+lép.
 
-#### 240. §
+231. § Hatályát veszti a körözési nyilvántartási rendszerről és a személyek, dolgok felkutatásáról és azonosításáról szóló 2013. évi LXXXVIII. törvény 20. § (6) bekezdés záró szövegrészében a „valamint” szövegrész.
 
-#### 146.
+#### 137. A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény módosítása
 
-#### 241. §
+232. § A halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény
 
-#### 242. §
+- a) 38/A. § (6) bekezdés b) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg,
+- b) 39. § (11) bekezdés nyitó szövegrészében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg,
+- c) 44. § (5) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg
 
-#### 243. §
+lép.
 
-#### 147.
+#### 138. A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény módosítása
 
-#### 244. §
+233. § A szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tárgyú jogszabályok módosításáról szóló 2013. évi CXXXV. törvény 8. § (6) bekezdés c) pontjában az „ügyészség vádat” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vádat” szöveg lép.
 
-#### 148.
+#### 139. A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény módosítása
 
-#### 245. §
+234. § A Magyar Nemzeti Bankról szóló 2013. évi CXXXIX. törvény
 
-#### 149.
+- a) 24. § (2) bekezdésében az „ügyészségnek vagy a” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy a” szöveg,
+- b) 91/A. § (6) bekezdés a) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- c) 93/A. § (3) bekezdésében az „ügyészséget vagy” szövegrész helyébe az „ügyészséget, az NVVH-t vagy” szöveg,
+- d) 159. § (4) bekezdésében a „hatóság és az ügyészség” szövegrész helyébe a „hatóság, az NVVH és az ügyészség” szöveg
 
-#### 246. §
+lép.
 
-#### 150.
+#### 140. A fémkereskedelemről szóló 2013. évi CXL. törvény módosítása
 
-#### 247. §
+235. § A fémkereskedelemről szóló 2013. évi CXL. törvény
 
-#### 151.
+- a) 5. § (7) bekezdés a) pontjában az „ügyészséget vagy” szövegrész helyébe az „ügyészséget, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt vagy” szöveg,
+- b) 12. § (2) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg,
+- c) 13. § (1) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg
 
-#### 248. §
+lép.
+
+#### 141. A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény módosítása
+
+236. § A gondnokoltak és az előzetes jognyilatkozatok nyilvántartásáról szóló 2013. évi CLXXV. törvény
+
+- a) 6. § (2) bekezdés a) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg,
+- b) 17. § (3) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg,
+- c) 23. § (4) bekezdés b) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg
+
+lép.
+
+#### 142. A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosítása
+
+237. § A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény
+
+- a) 97. § (2) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg,
+- b) 99. § (5) bekezdés d) pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nyomozó” szöveg
+
+lép.
+
+#### 143. A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény módosítása
+
+238. § A hitelbiztosítéki nyilvántartásról szóló 2013. évi CCXXI. törvény 26. § (1) bekezdésében az „ügyész” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal” szöveg lép.
+
+#### 144. Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény módosítása
+
+239. § Az egyes fizetési szolgáltatókról szóló 2013. évi CCXXXV. törvény
+
+- a) 29. § (6) bekezdés záró szövegrészében az „ügyészség vádat” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vádat” szöveg,
+- b) 58. § (2) bekezdés g) pontjában az „ügyészséggel,” szövegrész helyébe az „ügyészséggel és az NVVH-val,” szöveg,
+- c) 60. § (2) bekezdés a) pontjában a „Hivatallal (OLAF),” szövegrész helyébe a „Hivatallal (OLAF), NVVH-val,” szöveg,
+- d) 60. § (2) bekezdés d) pontjában az „ügyészséggel, a” szövegrész helyébe az „ügyészséggel, az NVVH-val, a” szöveg,
+- e) 60. § (10) bekezdés nyitó szövegrészében az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg,
+- f) 60. § (14) bekezdésében az „ügyészség engedélye” szövegrész helyébe az „ügyészség vagy az NVVH engedélye” szöveg és az „ügyészségnek az” szövegrész helyébe az „ügyészségnek vagy az NVVH-nak az” szöveg,
+- g) 64/B. §-ában a „hatósággal vagy az ügyészséggel együttműködési” szövegrész helyébe a „hatósággal, az ügyészséggel és az NVVH-val együttműködési” szöveg
+
+lép.
+
+#### 145. A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény módosítása
+
+240. § A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény
+
+- a) 137. § (6) bekezdés záró szövegrészében az „ügyészség vádat” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vádat” szöveg,
+- b) 137. § (7) bekezdésében az „ügyészség vádat” szövegrész helyébe az „ügyészség vagy az NVVH vádat” szöveg és az „emelt vagy” szövegrész helyébe az „emelt, vagy” szöveg,
+- c) 159. § (4) bekezdés a) pontjában az „ügyészséggel szemben” szövegrész helyébe az „ügyészséggel vagy az NVVH-val szemben” szöveg,
+- d) 161. § (2) bekezdés a) pontjában a „Hivatallal (OLAF),” szövegrész helyébe a „Hivatallal (OLAF), az NVVH-val,” szöveg,
+- e) 161. § (2) bekezdés d) pontjában az „ügyészséggel, a” szövegrész helyébe az „ügyészséggel, az NVVH-val, a” szöveg,
+- f) 161. § (4a) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- g) 162. § (1) bekezdés nyitó szövegrészében az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg,
+- h) 162. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- i) 162. § (5) bekezdésében az „ügyészség engedélye” szövegrész helyébe az „ügyészség vagy az NVVH engedélye” szöveg és az „ügyészségnek az” szövegrész helyébe az „ügyészségnek vagy az NVVH-nak az” szöveg,
+- j) 164/C. §-ában a „hatósággal vagy az ügyészséggel együttműködési” szövegrész helyébe a „hatósággal, az ügyészséggel, illetve az NVVH-val együttműködési” szöveg
+
+lép.
+
+#### 146. A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény módosítása
+
+241. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 17. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha a megkeresett szerv, szervezet a megkeresést a megadott határidőn belül nem teljesíti, vagy a megkeresés teljesítését jogosulatlanul megtagadja, a büntetőügyben eljáró vagy eljárt bíróság, a büntetés-végrehajtási bíró, illetve az ügyészség és az NVVH rendbírságot szabhat ki. A rendbírság kiszabására és végrehajthatóságára a Be. 127. § (1)–(3) és (6)–(9) bekezdését kell alkalmazni. A rendbírság kiszabása ellen bejelentett jogorvoslatnak halasztó hatálya van. A rendbírság kiszabását a végrehajtásért felelős szerv kezdeményezheti a büntetés-végrehajtási bírónál, feltételes ügyészi felfüggesztés esetén az ügyészségnél, illetve az NVVH-nál.”
+
+242. § A büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény
+
+- 1. 3. § 14a. pontjában az „ügyészség, ezt” szövegrész helyébe az „ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), ezt” szöveg és a „van,” szövegrész helyébe a „van, vagy az NVVH, ha a büntetőeljárás előtte van folyamatban,” szöveg,
+- 2. 4. § (2) bekezdésében az „ügyészség határozata” szövegrészek helyébe az „ügyészség, illetve az NVVH határozata” szöveg és az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg,
+- 3. 4. § (3) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, NVVH vagy nyomozó” szöveg,
+- 4. 4. § (4) bekezdésében az „ügyészség határoz” szövegrész helyébe az „ügyészség, illetve az NVVH határoz” szöveg,
+- 5. 5. § (2) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- 6. 9. § (1) bekezdésében az „ügyészség egyéb” szövegrész helyébe az „ügyészség, illetve az NVVH egyéb” szöveg,
+- 7. 13. § (2) bekezdésében az „ügyészségnél kell” szövegrész helyébe az „ügyészségnél, illetve NVVH-nál kell” szöveg és az „ügyészséghez történő” szövegrész helyébe az „ügyészséghez, illetve az NVVH-hoz történő” szöveg,
+- 8. 13. § (3) bekezdésében az „ügyészség értesítése” szövegrész helyébe az „ügyészség, illetve az NVVH értesítése” szöveg,
+- 9. 13. § (4) bekezdésében az „ügyészség értesítése” szövegrész helyébe az „ügyészség, illetve az NVVH értesítése” szöveg,
+- 10. 13. § (5) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- 11. 17. § (1) bekezdésében az „a büntetés-végrehajtási” szövegrész helyébe az „a büntetőügyben eljáró vagy eljárt bíróság, a büntetés-végrehajtási” szöveg és az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- 12. 17. § (5) bekezdésében az „a büntetés-végrehajtási” szövegrész helyébe az „a büntetőügyben eljáró vagy eljárt bíróság, a büntetés-végrehajtási” szöveg, az „az igazságügyért” szövegrész helyébe az „az NVVH, az igazságügyért” szöveg és az „ügyészségtől vagy” szövegrész helyébe az „ügyészségtől, az NVVH-tól vagy” szöveg,
+- 13. 17/A. § (3a) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- 14. 17/A. § (4) bekezdés b) pontjában az „ügyészséghez.” szövegrész helyébe az „ügyészséghez, illetve az NVVH-hoz.” szöveg,
+- 15. 17/B. § (1) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- 16. 17/B. § (2) bekezdésében az „ügyészség, végrehajtásért” szövegrész helyébe az „ügyészség, az NVVH, a végrehajtásért” szöveg,
+- 17. 18. § (2) bekezdésében az „ügyészség jogosult” szövegrész helyébe az „ügyészség, illetve az NVVH jogosult” szöveg,
+- 18. 18. § (4) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- 19. 26. § (3a) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- 20. 26/A. §-ában az „ügyészségnek a” szövegrész helyébe az „ügyészségnek, illetve az NVVH-nak a” szöveg,
+- 21. III. Fejezet címében az „ÜGYÉSZSÉG FELADATAI” szövegrész helyébe az „ÜGYÉSZSÉG, VALAMINT AZ NVVH FELADATAI” szöveg,
+- 22. „A büntetőügyben eljáró bíróság és ügyészség feladatai” alcím címében az „ügyészség feladatai” szövegrész helyébe az „ügyészség, valamint az NVVH feladatai” szöveg,
+- 23. 32. § (2) bekezdésében az „ügyészség által” szövegrész helyébe az „ügyészség vagy az NVVH által” szöveg és az „ügyészség intézkedik” szövegrész helyébe az „ügyészség, illetve az NVVH intézkedik” szöveg,
+- 24. 32. § (7) bekezdésében az „ügyészség rendeli” szövegrész helyébe az „ügyészség vagy az NVVH rendeli” szöveg,
+- 25. 44. § (2) bekezdésében az „ügyész nyilatkozatát” szövegrész helyébe az „ügyész, illetve az NVVH tagjának nyilatkozatát” szöveg,
+- 26. 44. § (5) bekezdésében az „ügyészség, az” szövegrész helyébe az „ügyészség, illetve az NVVH, az” szöveg és az „ügyészség és” szövegrész helyébe az „ügyészség, illetve az NVVH és” szöveg,
+- 27. 44/A. § (3) bekezdésében az „ügyészség nyilatkozatát” szövegrész helyébe az „ügyészség, illetve az NVVH nyilatkozatát” szöveg,
+- 28. 44/A. § (4a) bekezdésében az „ügyészség által” szövegrész helyébe az „ügyészség, illetve az NVVH által” szöveg,
+- 29. 44/A. § (5) bekezdés nyitó szövegrészében az „ügyészség indítványára” szövegrész helyébe az „ügyészség, illetve az NVVH indítványára” szöveg,
+- 30. 46/D. § (5) bekezdés b) pontjában az „ügyészként eljárt” szövegrész helyébe az „ügyészként, illetve az NVVH tagjaként eljárt” szöveg,
+- 31. 76. § (1) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, illetve az NVVH és” szöveg,
+- 32. 76. § (2) bekezdés a) pontjában az „ügyészség megnevezésére” szövegrészek helyébe az „ügyészség, illetve az NVVH megnevezésére” szöveg,
+- 33. 113. § (2a) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, illetve az NVVH vagy” szöveg,
+- 34. 114. § (1) bekezdésében az „ügyészség engedélye” szövegrész helyébe az „ügyészség, illetve az NVVH engedélye” szöveg és az „ügyészség más” szövegrész helyébe az „ügyészség, illetve az NVVH más” szöveg,
+- 35. 114. § (3) bekezdésében az „ügyészség,” szövegrész helyébe az „ügyészség vagy az NVVH,” szöveg és az „ügyészség engedélyét” szövegrész helyébe az „ügyészség vagy az NVVH engedélyét” szöveg,
+- 36. 114. § (4) bekezdésében az „ügyészség legfeljebb” szövegrész helyébe az „ügyészség, illetve az NVVH legfeljebb” szöveg,
+- 37. 116. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, illetve az NVVH vagy” szöveg,
+- 38. 127. § (1) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, illetve az NVVH vagy” szöveg,
+- 39. 127. § (3) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, illetve az NVVH és” szöveg, az „ügyészség ennek” szövegrész helyébe az „ügyészség, illetve az NVVH ennek” szöveg és az „ügyészség hozzájárulásával” szövegrész helyébe az „ügyészség, illetve az NVVH hozzájárulásával” szöveg,
+- 40. 166. § (1) bekezdés a) pontjában a „van, a” szövegrész helyébe a „van, vagy az NVVH, amennyiben a büntetőeljárás előtte van folyamatban, a” szöveg,
+- 41. 172. § (3) bekezdésében az „ügyészség az” szövegrész helyébe az „ügyészség, illetve az NVVH az” szöveg,
+- 42. 180/A. § (1) bekezdés c) pontjában a „van, a” szövegrész helyébe a „van, vagy az NVVH, amennyiben a büntetőeljárás előtte van folyamatban, a” szöveg,
+- 43. 275. § (2) bekezdésében a „van, a” szövegrész helyébe a „van, vagy az NVVH, amennyiben a büntetőeljárás előtte van folyamatban, a” szöveg,
+- 44. 297. § (1a) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, illetve az NVVH vagy” szöveg,
+- 45. 305. § (3) bekezdésében az „állampolgári jogok országgyűlési” szövegrész helyébe az „alapvető jogok” szöveg és az „az Országos” szövegrész helyébe az „az NVVH elnöke, az Országos” szöveg,
+- 46. 307. § (1) bekezdésében az „ügyész szóban” szövegrész helyébe az „ügyész, illetve az NVVH tagja szóban” szöveg,
+- 47. 307. § (2) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség, illetve az NVVH a” szöveg,
+- 48. 314. § (1) bekezdés záró szövegrészében az „ügyészségnek.” szövegrész helyébe az „ügyészségnek, illetve a c) és d) pontban foglalt esetben, ha az NVVH járt el, az NVVH-nak.” szöveg,
+- 49. 314. § (2) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség, illetve az NVVH a” szöveg,
+- 50. 314. § (3) bekezdés záró szövegrészében az „azt az ügyészség az a)–b) pontban meghatározott esetben a büntetés-végrehajtási bírónál, a c)–d) pontban meghatározott esetben az alapügyben” szövegrész helyébe az „azt az a) és b) pontban meghatározott esetben az ügyészség a büntetés-végrehajtási bírónál, a c) és d) pontban meghatározott esetben az ügyészség, illetve az NVVH az alapügyben” szöveg,
+- 51. 317. § (1) bekezdésében az „ügyészség által” szövegrész helyébe az „ügyészség, illetve az NVVH által” szöveg,
+- 52. 317. § (2) bekezdésében az „ügyészség határozata” szövegrész helyébe az „ügyészség, illetve az NVVH határozata” szöveg és az „ügyészség jogosult” szövegrész helyébe az „ügyészség, illetve az NVVH jogosult” szöveg,
+- 53. 317. § (4) bekezdés b) pontjában az „ügyészség az” szövegrész helyébe az „ügyészség, illetve az NVVH az” szöveg,
+- 54. 317. § (4) bekezdés c) pontjában az „ügyészség az” szövegrész helyébe az „ügyészség, illetve az NVVH az” szöveg,
+- 55. 317. § (4) bekezdés d) pontjában az „ügyészség azt” szövegrész helyébe az „ügyészség, illetve az NVVH azt” szöveg,
+- 56. 317. § (5) bekezdésében az „ügyészség a” szövegrész helyébe az „ügyészség, illetve az NVVH a” szöveg,
+- 57. 317. § (6) bekezdésében az „ügyészség határozatában” szövegrész helyébe az „ügyészség, illetve az NVVH határozatában” szöveg,
+- 58. 317. § (7) bekezdésében az „ügyészség által” szövegrész helyébe az „ügyészség, illetve az NVVH által” szöveg és az „ügyészséghez fordul” szövegrész helyébe az „ügyészséghez, illetve az NVVH-hoz fordul” szöveg,
+- 59. 340. §-ában az „ügyészség a” szövegrész helyébe az „ügyészség, illetve az NVVH a” szöveg,
+- 60. 385. § (3) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, illetve az NVVH, a” szöveg,
+- 61. 387. § (3) bekezdés a) pontjában az „ügyészi rendelvény” szövegrész helyébe az „ügyészi, illetve az NVVH tagja által kiadott rendelvény” szöveg,
+- 62. 388. § (3c) bekezdésében az „ügyészség indítványára” szövegrészek helyébe az „ügyészség, illetve az NVVH indítványára” szöveg és az „ügyészségnek.” szövegrész helyébe az „ügyészségnek, illetve az NVVH-nak.” szöveg,
+- 63. 388. § (4) bekezdésében az „ügyészséget, ha” szövegrész helyébe az „ügyészséget, illetve az NVVH-t, ha” szöveg,
+- 64. 390. § (2a) bekezdésében az „ügyészség, ha” szövegrész helyébe az „ügyészség, illetve az NVVH, ha” szöveg,
+- 65. 390. § (4) bekezdésében az „ügyészi rendelvény” szövegrész helyébe az „ügyészi, illetve az NVVH tagja által kiadott rendelvény” szöveg,
+- 66. 393. § (5) bekezdésében az „ügyészséget a” szövegrész helyébe az „ügyészséget, illetve az NVVH-t a” szöveg,
+- 67. 397. § b) pontjában az „ügyészség döntése” szövegrész helyébe az „ügyészség, illetve az NVVH döntése” szöveg,
+- 68. 401. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, illetve az NVVH vagy” szöveg,
+- 69. 406. § (4) bekezdésében az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, illetve az NVVH-nak, a” szöveg,
+- 70. 406. § (5) bekezdés a) pontjában az „ügyészség határozattal” szövegrész helyébe az „ügyészség, illetve az NVVH határozattal” szöveg,
+- 71. 406. § (6) bekezdés b) pontjában az „ügyészség fellebbezést” szövegrész helyébe az „ügyészség, illetve az NVVH fellebbezést” szöveg,
+- 72. 406. § (8) bekezdésében az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, illetve az NVVH-nak, a” szöveg és az „ügyészség vagy” szövegrész helyébe az „ügyészség, illetve az NVVH vagy” szöveg,
+- 73. 406. § (9) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, illetve az NVVH és” szöveg,
+- 74. 422. § (2) bekezdés b) pontjában az „ügyészség vagy” szövegrész helyébe az „ügyészség, illetve az NVVH vagy” szöveg,
+- 75. 425. §-ában az „ügyészségnek kell” szövegrész helyébe az „ügyészségnek, illetve az NVVH-nak kell” szöveg,
+- 76. 426. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, illetve az NVVH vagy” szöveg,
+- 77. 428. § (1) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, illetve az NVVH vagy” szöveg,
+- 78. 428. § (2) bekezdés a) pontjában az „ügyészséget vagy” szövegrész helyébe az „ügyészséget, NVVH-t vagy” szöveg,
+- 79. 429. § (1) bekezdés nyitó szövegrészében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- 80. 431. § (3) bekezdésében az „ügyészséget vagy” szövegrész helyébe az „ügyészséget, NVVH-t vagy” szöveg
+
+lép.
+
+243. § Hatályát veszti a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvény 317. § (3) bekezdésében az „ügyészségi” szövegrész.
+
+#### 147. A bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény módosítása
+
+244. § A bizalmi vagyonkezelőkről és tevékenységük szabályairól szóló 2014. évi XV. törvény
+
+- a) 29. § (2) bekezdés a) pontjában az „ügyészség, továbbá” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), továbbá” szöveg,
+- b) 42. § (2) bekezdés a) pontjában az „ügyészséggel, továbbá” szövegrész helyébe az „ügyészséggel, NVVH-val, továbbá” szöveg
+
+lép.
+
+#### 148. A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény módosítása
+
+245. § A kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról szóló 2014. évi XVI. törvény
+
+- a) 197. § (3) bekezdés a) pontjában az „ügyészséggel,” szövegrész helyébe az „ügyészséggel, valamint a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH),” szöveg,
+- b) 199. § (1) bekezdés e) pontjában az „ügyészséggel,” szövegrész helyébe az „ügyészséggel és az NVVH-val,” szöveg,
+- c) 200. § (1) bekezdés nyitó szövegrészében az „ügyészség és” szövegrész helyébe az „ügyészség, az NVVH és” szöveg,
+- d) 200. § (1a) bekezdésében az „ügyészség engedélye” szövegrész helyébe az „ügyészség vagy az NVVH engedélye” szöveg és az „ügyészségnek az” szövegrész helyébe az „ügyészségnek vagy az NVVH-nak az” szöveg,
+- e) 200/B. §-ában a „hatósággal vagy az ügyészséggel együttműködési megállapodást” szövegrész helyébe a „hatósággal, az ügyészséggel és az NVVH-val együttműködési megállapodást” szöveg
+
+lép.
+
+#### 149. A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény módosítása
+
+246. § A pénzügyi közvetítőrendszer egyes szereplőinek biztonságát erősítő intézményrendszer továbbfejlesztéséről szóló 2014. évi XXXVII. törvény 115. § (5) bekezdés b) pont ba) alpontjában az „ügyészséggel és” szövegrész helyébe az „ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal és” szöveg lép.
+
+#### 150. Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény módosítása
+
+247. § Az egységes elektronikuskártya-kibocsátási keretrendszerről szóló 2014. évi LXXXIII. törvény 12. §-a a következő f) ponttal egészül ki:
+
+[A kártya egyedi sorszámának vagy elektronikus egyedi azonosítójának, vagy ennek hiányában a kártyakibocsátó nevének és a kártyafelhasználó nevének megjelölésével az adott kártya 8. § (2) bekezdés b) és c) pontja, valamint 8. § (3) bekezdés b) és c) pontja szerinti adatait ingyenesen jogosult átvenni]
+
+„f) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a jogszabályban meghatározott feladatai ellátása céljából.”
+
+#### 151. A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény módosítása
+
+248. § A biztosítási tevékenységről szóló 2014. évi LXXXVIII. törvény
+
+- a) 124. § (2) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) vagy” szöveg,
+- b) 138. § (1) bekezdés b) pontjában az „ügyészséggel, valamint” szövegrész helyébe az „ügyészséggel, az NVVH-val, valamint” szöveg,
+- c) 138. § (6) bekezdés nyitó szövegrészében az „ügyészség, továbbá” szövegrész helyébe az „ügyészség, az NVVH, továbbá” szöveg,
+- d) 138. § (6a) bekezdésében az „ügyészség engedélye” szövegrész helyébe az „ügyészség vagy az NVVH engedélye” szöveg és az „ügyészségnek az” szövegrész helyébe az „ügyészségnek vagy az NVVH-nak az” szöveg,
+- e) 139/A. §-ában a „hatósággal vagy az ügyészséggel együttműködési” szövegrész helyébe a „hatósággal, az ügyészséggel és az NVVH-val együttműködési” szöveg,
+- f) 145. § (4) bekezdés a) pontjában az „és ügyészséggel” szövegrész helyébe az „ , az ügyészséggel és az NVVH-val” szöveg
+
+lép.
 
 #### 152. A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény módosítása
 
@@ -1321,15 +2099,20 @@ terjedhet.
 
 #### 252. §
 
-#### 153.
+#### 153. A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény módosítása
 
-#### 253. §
+253. § A vasútnak nem minősülő egyéb kötöttpályás közlekedésről szóló 2015. évi CII. törvény 22/A. § (2) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, a nyomozó” szöveg lép.
 
-#### 154.
+#### 154. A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény módosítása
 
-#### 254. §
+254. § A természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény
 
-#### 255. §
+- a) 16. § (4) bekezdésében az „ügyészségnek, nyomozó” szövegrész helyébe az „ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak, nyomozó” szöveg és az „amely” szövegrész helyébe a „ha” szöveg,
+- b) 19. § (6) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg
+
+lép.
+
+255. § Hatályát veszti a természetes személyek adósságrendezéséről szóló 2015. évi CV. törvény 16. § (4) bekezdésében az „annak a” szövegrész.
 
 #### 155. A közbeszerzésekről szóló 2015. évi CXLIII. törvény módosítása
 
@@ -1343,13 +2126,30 @@ terjedhet.
 
 #### 260. §
 
-#### 156.
+#### 156. Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény módosítása
 
-#### 261. §
+261. § Az arcképelemzési nyilvántartásról és az arcképelemző rendszerről szóló 2015. évi CLXXXVIII. törvény
 
-#### 157.
+- a) 6. § (5) bekezdés b) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg,
+- b) 9. § (1) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg,
+- c) 9. § (2) bekezdés a) pontjában az „ügyészség a” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a” szöveg,
+- d) 16. § (3) bekezdés c) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg
 
-#### 262. §
+lép.
+
+#### 157. Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény módosítása
+
+262. § Az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény
+
+- a) 2. § 8. pontjában az „ügyészség, rendőrség” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), rendőrség” szöveg,
+- b) 2. § 9. pontjában a „hatóság által” szövegrész helyébe a „hatóság vagy az NVVH által” szöveg,
+- c) 69. § (1) bekezdés a) pontjában a „vagy” szövegrész helyébe a „vagy az NVVH vagy” szöveg,
+- d) 69. § (2) bekezdésében az „ügyész értesíti” szövegrész helyébe az „ügyész vagy az NVVH értesíti” szöveg,
+- e) 96. § (4) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- f) 118. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- g) 118. § (3) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg
+
+lép.
 
 #### 158. A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény módosítása
 
@@ -1359,17 +2159,48 @@ terjedhet.
 
 #### 265. §
 
-#### 159.
+#### 159. A jövedéki adóról szóló 2016. évi LXVIII. törvény módosítása
 
-#### 266. §
+266. § A jövedéki adóról szóló 2016. évi LXVIII. törvény 102. § (5) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vagy” szöveg és az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy” szöveg lép.
 
-#### 160.
+#### 160. A polgári perrendtartásról szóló 2016. évi CXXX. törvény módosítása
 
-#### 267. §
+267. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 52. §-a a következő (2a) bekezdéssel egészül ki:
 
-#### 268. §
+„(2a) Az NVVH a más által indított perbe – ha a per megindítására önállóan is jogosult lett volna – a felperes oldalán a perfelvételt lezáró végzés meghozataláig a perbe beléphet.”
 
-#### 269. §
+268. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény 75. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A 72. § (1) bekezdésének alkalmazásában jogi képviselőnek kell tekinteni:
+
+- a) az ügyvédet és az ügyvédi irodát,
+- b) a kamarai jogtanácsost, az ügyvédi tevékenységről szóló törvényben meghatározott körben,
+- c) a jogi személy bíróság képviseletére jogosult bírót és bírósági titkárt,
+- d) a Legfőbb Ügyészség képviseletére jogosult ügyészt,
+- e) az NVVH képviseletére jogosult jogtanácsost, valamint beosztott ügyészt, valamint
+- f) törvényben meghatározott egyéb személyeket.”
+
+269. § A polgári perrendtartásról szóló 2016. évi CXXX. törvény
+
+- 1. 52. § (1) bekezdésében az „ügyész pert” szövegrész helyébe az „ügyész vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) pert” szöveg,
+- 2. 52. § (3) bekezdésében az „(1) és a (2) bekezdés” szövegrész helyébe az „(1)–(2a) bekezdés” szöveg,
+- 3. 88. § címében az „ügyész és” szövegrész helyébe az „ügyész, az NVVH és” szöveg,
+- 4. 88. § (1) bekezdésében az „ügyész, valamint” szövegrész helyébe az „ügyész, az NVVH, valamint” szöveg,
+- 5. 88. § (2) bekezdésében az „ügyész, valamint” szövegrész helyébe az „ügyész, az NVVH, valamint” szöveg,
+- 6. 102. § (3) bekezdésében az „ügyész, valamint” szövegrész helyébe az „ügyész, az NVVH, valamint” szöveg,
+- 7. 123. § (1) bekezdés b) pontjában az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, az NVVH vagy a nyomozó” szöveg,
+- 8. 162. § (1) bekezdésében az „ügyész a” szövegrész helyébe az „ügyész, illetve az NVVH képviseletére jogosult jogtanácsos, valamint beosztott ügyész a” szöveg,
+- 9. 162. § (4) bekezdésében az „ügyészség, közjegyző” szövegrész helyébe az „ügyészség, az NVVH, közjegyző” szöveg,
+- 10. 163. § (2) bekezdésében az „ügyész és” szövegrész helyébe az „ügyész, az NVVH képviseletére jogosult jogtanácsos, valamint beosztott ügyész és” szöveg,
+- 11. 232. § (4) bekezdésében az „ügyész kivételével” szövegrész helyébe az „ügyész, illetve az NVVH képviseletére jogosult jogtanácsos, valamint beosztott ügyész kivételével” szöveg,
+- 12. 285. § (4) bekezdésében az „ügyész jogosult” szövegrész helyébe az „ügyész, valamint az NVVH jogosult” szöveg és az „ügyész kivételével” szövegrész helyébe az „ügyész, illetve az NVVH kivételével” szöveg,
+- 13. 293. § (1) bekezdésében az „ügyészt ide” szövegrész helyébe az „ügyészt, illetve az NVVH-t ide” szöveg,
+- 14. 293. § (3) bekezdésében az „ügyészt ide” szövegrész helyébe az „ügyészt, illetve az NVVH-t ide” szöveg,
+- 15. 377. § (1) bekezdésében az „ügyész részt” szövegrész helyébe az „ügyész, illetve az NVVH részt” szöveg és az „ügyészt meg” szövegrész helyébe az „ügyészt, illetve az NVVH-t meg” szöveg,
+- 16. 395. § (2) bekezdésében az „ügyész –” szövegrész helyébe az „ügyész, illetve az NVVH –” szöveg,
+- 17. 619. § (1) bekezdés nyitó szövegrészében az „ügyész és” szövegrész helyébe az „ügyész, az NVVH és” szöveg
+
+lép.
 
 #### 161. Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény módosítása
 
@@ -1381,75 +2212,264 @@ terjedhet.
 
 #### 273. §
 
-#### 162.
+#### 162. A közigazgatási perrendtartásról szóló 2017. évi I. törvény módosítása
 
-#### 274. §
+274. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény 17. § g) pontja helyébe a következő rendelkezés lép:
 
-#### 275. §
+(A per megindítására jogosult)
 
-#### 276. §
+„g) a feladat- és hatáskörében eljáró Integritás Hatóság vagy NVVH.”
 
-#### 163.
+275. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény 128. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-#### 277. §
+(A mulasztási per megindítására jogosult)
 
-#### 164.
+„c) a feladat- és hatáskörében eljáró Integritás Hatóság vagy NVVH.”
 
-#### 278. §
+276. § A közigazgatási perrendtartásról szóló 2017. évi I. törvény
 
-#### 279. §
+- a) 16. § (4) bekezdésében a „részvételére a” szövegrész helyébe a „részvételére, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) képviseletére a” szöveg,
+- b) 41. § (5) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- c) 81. § (4) bekezdésében az „ügyészséget a” szövegrész helyébe az „ügyészséget, az NVVH-t a” szöveg és az „ügyészség a” szövegrész helyébe az „ügyészség, az NVVH a” szöveg
 
-#### 280. §
+lép.
 
-#### 165.
+#### 163. A bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló 2017. évi XLIII. törvény módosítása
 
-#### 281. §
+277. § A bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló 2017. évi XLIII. törvény
 
-#### 166.
+- a) 14. § (3) bekezdésében az „ügyészség, nyomozó” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó” szöveg,
+- b) 17. § (3) bekezdésében az „ügyészség, valamint” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, valamint” szöveg,
+- c) 17. § (4) bekezdés b) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg
 
-#### 282. §
+lép.
 
-#### 283. §
+#### 164. A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény módosítása
 
-#### 284. §
+278. § A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 48. § (1) bekezdés b) pontja helyébe a következő rendelkezés lép:
 
-#### 285. §
+(A pénzügyi információs egység az operatív elemzése eredményét kizárólag a pénzmosás és a terrorizmus finanszírozása elleni küzdelem, valamint bűncselekmények megelőzésének, felderítésének, nyomozásának elősegítése céljából továbbíthatja:)
 
-#### 286. §
+„b) az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal;”
 
-#### 287. §
+(részére.)
 
-#### 288. §
+279. § A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény 59. § (3) bekezdése helyébe a következő rendelkezés lép:
 
-#### 289. §
+„(3) A nyomozó hatóság és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a (2) bekezdés f) és h) pontjában, a Legfőbb Ügyészség a (2) bekezdés f) pontjában, g) pont ga) alpontjában és h) pontjában meghatározott adatot, az Országos Bírósági Hivatal a jogerős vagy véglegessé vált bírósági határozatoknak a (2) bekezdés c) pontjában meghatározott elrendelt zárlatok számára, az elrendelt zárlat alá vont pénzeszköz vagy gazdasági erőforrás forintban meghatározott értékére vonatkozó adatait és a (2) bekezdés g) pont gb) alpontjában meghatározott adatait, valamint az 5. §-ban meghatározott felügyeletet ellátó szerv a (2) bekezdés i)–k) pontjában meghatározott adatokat negyedévente megküldi a pénzügyi információs egységnek. Az adatközlést a nyomozó hatóság, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a Legfőbb Ügyészség, az Országos Bírósági Hivatal és az 5. §-ban meghatározott felügyeletet ellátó szerv elektronikus úton is teljesítheti.”
 
-#### 290. §
+280. § A pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény
 
-#### 291. §
+- a) 44. § (1) bekezdésében az „ügyészség, nemzetbiztonsági” szövegrész helyébe az „ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nemzetbiztonsági” szöveg,
+- b) 58. § (1) bekezdésében az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg,
+- c) 59. § (1) bekezdésében az „a Legfőbb” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, a Legfőbb” szöveg,
+- d) 70. § (1) bekezdésében az „ügyészséggel és” szövegrész helyébe az „ügyészséggel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal és” szöveg,
+- e) 72/A. § (3) bekezdésében az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, a nyomozó” szöveg
 
-#### 292. §
+lép.
 
-#### 293. §
+#### 165. Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény módosítása
 
-#### 294. §
+281. § Az ügyvédi tevékenységről szóló 2017. évi LXXVIII. törvény
 
-#### 295. §
+- a) 36. § (2) bekezdésében az „a közjegyző” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a közjegyző” szöveg,
+- b) 140. § (1) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- c) 140. § (2) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg,
+- d) 147. §-ában az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- e) 175. § (5) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg
 
-#### 296. §
+lép.
 
-#### 297. §
+#### 166. A büntetőeljárásról szóló 2017. évi XC. törvény módosítása
 
-#### 298. §
+282. § A büntetőeljárásról szóló 2017. évi XC. törvény MÁSODIK RÉSZ címe helyébe a következő rendelkezés lép:
 
-#### 299. §
+## „MÁSODIK RÉSZ — A BÍRÓSÁG, AZ ÜGYÉSZSÉG, A NEMZETI VAGYONVISSZASZERZÉSI ÉS VAGYONVÉDELMI HIVATAL ÉS A NYOMOZÓ HATÓSÁG”
 
-#### 300. §
+283. § A büntetőeljárásról szóló 2017. évi XC. törvény 14. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-#### 167.
+(Bíróként nem járhat el,)
 
-#### 301. §
+„a) aki az ügyben ügyészként, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) tagjaként vagy a nyomozó hatóság tagjaként járt el, valamint az ügyben eljárt vagy eljáró ügyésznek, az NVVH tagjának vagy a nyomozó hatóság tagjának a hozzátartozója,”
 
-#### 302. §
+284. § A büntetőeljárásról szóló 2017. évi XC. törvény 25. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ügyészség közvádló.”
+
+285. § A büntetőeljárásról szóló 2017. évi XC. törvény 26. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) Az ügyészség bármely ügyben magához vonhatja a nyomozást, kivéve, ha az NVVH határozatot hozott az ügy saját hatáskörbe vonásáról.”
+
+286. § A büntetőeljárásról szóló 2017. évi XC. törvény a következő fejezettel egészül ki:
+
+### „IV/A. Fejezet — AZ NVVH
+
+### Az NVVH feladata
+
+30/A. § (1) Az NVVH a hatáskörébe tartozó ügyben közvádló.
+
+(2) Az NVVH a hatáskörébe tartozó ügyben nyomoz, felügyeli a felderítés törvényességét, valamint irányítja a vizsgálatot.
+
+(3) Az NVVH a hatáskörébe tartozó ügyben előkészítő eljárást végez és a más szerv által végzett előkészítő eljárásban ellátja az e törvényben meghatározott feladatait.
+
+(4) Az NVVH tekintetében az NVVH törvény szerint kijelölt vezetője gyakorolja a felettes ügyészségnek
+
+- a) az ügyészség felügyeleti és irányítási jogkörének gyakorlása feletti felügyeletére vonatkozó jogokat,
+- b) az ügyészség nyomozása feletti felügyeletére és irányítására vonatkozó jogokat, valamint
+- c) az e törvényben a felettes ügyészségre vonatkozó egyéb jogokat.
+
+### Az NVVH jogai
+
+30/B. § (1) Az NVVH a 30/F. § szerinti hatáskörében – az e törvényben meghatározott eltérésekkel, külön rendelkezés hiányában is – gyakorolja az ügyészség jogait és teljesíti kötelezettségeit.
+
+(2) E törvény alkalmazásában az NVVH eljárása során ügyészség alatt az NVVH-t, ügyész alatt az NVVH tagját kell érteni.
+
+(3) Az NVVH tagja azokat a jogokat gyakorolja, amelyek az NVVH-t illetik.
+
+(4) Az e törvényben az ügyészség vezetőjére előírt jogokat és kötelezettségeket az NVVH tekintetében az NVVH törvény szerint kijelölt vezetője gyakorolja. A 31. § (8) és (9) bekezdése alkalmazásának nincs helye az NVVH törvény szerint kijelölt vezetője írásbeli álláspontjával szemben.
+
+(5) Az e törvényben nem szabályozott jogviszonyokban az NVVH törvény szerinti tevékenységére az NVVH eljárása során megfelelően alkalmazni kell azokat a szabályokat, amelyek az ügyészség büntetőjogi tevékenységére, valamint ha a nyomozást az NVVH végzi, akkor a nyomozó hatóság tevékenységére vonatkoznak. E szabályok alkalmazása során figyelemmel kell lenni az NVVH-ra vonatkozó törvényi eltérésekre, az NVVH törvényben meghatározott feladat- és hatáskörére, valamint az adott eljárás jellegére.
+
+(6) Az (5) bekezdés alkalmazásában az NVVH eljárása során, ha jogszabály ügyészséget, ügyészt, felettes ügyészséget vagy ügyészség vezetőjét említi, azon – az NVVH adott feladatköréhez és eljárási szerepéhez igazodóan, az NVVH-ra vonatkozó törvényi eltérések figyelembevételével – az NVVH-t, az NVVH eljáró tagját, illetve az NVVH törvény szerint kijelölt vezetőjét kell érteni.
+
+30/C. § (1) Az NVVH a hatáskörébe tartozó ügyben a vádemelés előtt határozatot hozhat az ügy saját hatáskörbe vonásáról, különösen, ha az ügyben a rendelkezésre álló adatok alapján feltételezhető, hogy ezzel a bűncselekménnyel összefüggésben szerzett, közvagyonból származó vagyon visszaszerzése és az állam büntetőjogi igényének érvényesítése hatékonyabban látható el.
+
+(2) Az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozatát közölni kell az eljáró ügyészséggel, nyomozó hatósággal, előkészítő eljárást lefolytató szervvel, továbbá a terhelttel, a bűncselekmény elkövetésével megalapozottan gyanúsítható személlyel, a sértettel, a feljelentővel, a magánindítvány előterjesztőjével és a védővel.
+
+(3) Az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozata ellen nincs helye jogorvoslatnak és nem érinti az ügyészségen kívüli büntetőeljárást lefolytató szervek vagy büntetőeljárásban részt vevő személyek jogait és kötelezettségeit, valamint a folyamatban lévő határidőket.
+
+(4) Az ügyészség – e törvényben meghatározott kivételekkel – nem gyakorolhatja e törvényben meghatározott hatáskörét az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozata meghozatalát követően. Ha az eljárási cselekmény elvégzésével járó késedelem az eljárási cselekmény eredményességét veszélyeztetné, akkor az ügyészség köteles elvégezni az olyan eljárási cselekményt, amelyre az NVVH-nak az ügy saját hatáskörbe vonásáról szóló határozata hiányában jogosult lenne, köteles azonban erről az NVVH-t haladéktalanul tájékoztatni.
+
+### Az NVVH tagjának kizárása
+
+30/D. § (1) Az NVVH tagjaként nem járhat el,
+
+- a) aki az ügyben bíróként járt el, valamint az ügyben eljárt vagy eljáró bíró hozzátartozója,
+- b) aki az ügyben terheltként, bűncselekmény elkövetésével megalapozottan gyanúsítható személyként, védőként, sértettként, vagyoni érdekeltként, feljelentőként vagy e személyek segítőjeként vesz vagy vett részt, valamint e személyek hozzátartozója,
+- c) aki az ügyben tanúként, a tanú segítőjeként, szakértőként vagy szaktanácsadóként vesz vagy vett részt,
+- d) akitől az ügy elfogulatlan megítélése egyéb okból nem várható.
+
+(2) Az (1) bekezdésben meghatározott kizárási ok kizárólag az NVVH ügyben eljáró tagjával szemben jelenthető be.
+
+(3) A perújítási eljárásból ki van zárva az NVVH azon tagja, aki az alapügyben a nyomozást teljesítette, egyes eljárási cselekményeket végzett, vádat emelt, illetve a vádat képviselte.
+
+(4) Nem kizárási ok, ha az NVVH tagja a hivatali hatáskörében tudomására jutott bűncselekmény miatt feljelentést tett.
+
+(5) Az (1) bekezdés d) pontja esetén önmagában nem kizárási ok, ha az NVVH tagja a sérelmére a büntetőeljárásban részt vevő személy által az eljárása alatt, illetve emiatt elkövetett bűncselekmény miatt feljelentést tett.
+
+(6) Nem járhat el az ügyben az NVVH, ha az NVVH eljáró, törvény szerint kijelölt vezetőjével szemben az (1) bekezdésben meghatározott kizárási ok merült fel.
+
+30/E. § (1) Ha az NVVH tagja a kizárási okot nem maga jelentette be, a bejelentés elintézéséig az ügyben korlátozás nélkül eljárhat.
+
+(2) Az NVVH tagjának kizárásáról az NVVH törvény szerint kijelölt vezetője határoz. Az NVVH eljáró, törvény szerint kijelölt vezetőjét vagy az őt is érintő kizárási okról
+
+- a) a vádemelés előtt az NVVH törvény szerint kijelölt vezetője indítványára a bíróság a felülbírálati indítvány elbírálására vonatkozó szabályok megfelelő alkalmazásával, vagy
+- b) a vádemelés után a 19–22. § alapján hatáskörrel és illetékességgel rendelkező bíróság hivatalból vagy indítványra határoz.
+
+(3) Az NVVH tagjának kizárására egyebekben a 28. § (1)–(5) és (7) bekezdését kell alkalmazni. A kizárásnak helyt adó határozat ellen, valamint a vádemelés után a kizárást megtagadó határozat ellen jogorvoslatnak nincs helye.
+
+### Az NVVH hatásköre és illetékessége
+
+30/F. § (1) Az NVVH országos illetékességgel jár el a 817/A. § (1) bekezdésében meghatározott közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmények miatt, ha határozatot hozott az ügy saját hatáskörbe vonásáról. Az NVVH a nyomozás elrendelésével egyidejűleg az ügy saját hatáskörbe vonásáról is rendelkezik.
+
+(2) Az NVVH hatásköre kiterjed a terhelt által elkövetett valamennyi bűncselekményre, ha ezek közül valamelyik az (1) bekezdésben meghatározott bűncselekmény és az elkülönítés nem lehetséges.
+
+(3) Több terhelt esetén akkor van helye az NVVH eljárásának, ha a terheltek valamelyikének bűncselekménye az (1) bekezdésben meghatározott bűncselekmény, és az eljárás elkülönítése – tekintettel a tényállás szoros összefüggésére – nem lehetséges.
+
+(4) Az NVVH az ügy saját hatáskörbe vonásáról szóló határozatot akkor helyezheti hatályon kívül, ha a cselekmény nem minősül a 817/A. § (1) bekezdésében meghatározott közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekménynek.”
+
+287. § A büntetőeljárásról szóló 2017. évi XC. törvény 144. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Az NVVH törvény szerint kijelölt vezetője mulasztásával szemben előterjesztett kifogást a bíróság a felülbírálatra vonatkozó rendelkezések alkalmazásával bírálja el.”
+
+288. § A büntetőeljárásról szóló 2017. évi XC. törvény 349. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Azokra az eljárásokra nézve, amelyekben az ügyészségi nyomozásra vonatkozó rendelkezéseket az NVVH által folytatott nyomozás során kell alkalmazni, a nemzetbiztonsági szolgálatok főigazgatóival az NVVH törvény szerint kijelölt vezetője köthet megállapodást.”
+
+289. § A büntetőeljárásról szóló 2017. évi XC. törvény 375. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Az ügyészség vagy a nyomozó hatóság tájékoztatja a sértettet a nyomozás elrendeléséről, ha a sértett személye és elérhetősége ismert. A nyomozó hatóság az általa elrendelt nyomozásról huszonnégy órán belül tájékoztatja az ügyészséget. Az ügyészség vagy a nyomozó hatóság a 817/A. § (1) bekezdésében meghatározott közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt általa elrendelt nyomozásról huszonnégy órán belül tájékoztatja az NVVH-t.”
+
+290. § A büntetőeljárásról szóló 2017. évi XC. törvény 380. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) Ha az NVVH az ügy saját hatáskörbe vonásáról határozott, a (3) bekezdés alkalmazása során az NVVH törvény szerint kijelölt vezetőjének a döntését kell beszerezni.”
+
+291. § A büntetőeljárásról szóló 2017. évi XC. törvény 587. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Az NVVH fellebbezését az ügyiratok felterjesztése után az NVVH törvény szerint kijelölt vezetője visszavonhatja.”
+
+292. § A büntetőeljárásról szóló 2017. évi XC. törvény 639. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Ha az alapügyben az NVVH az ügy saját hatáskörbe vonásáról határozatot hozott, a perújítási indítványt az ügyészség helyett az NVVH terjesztheti elő.”
+
+293. § (1) A büntetőeljárásról szóló 2017. évi XC. törvény 651. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Ha az alapügyben az NVVH az ügy saját hatáskörbe vonásáról határozatot hozott, a felülvizsgálati indítványt az ügyészség helyett az NVVH terjesztheti elő.”
+
+(2) A büntetőeljárásról szóló 2017. évi XC. törvény 651. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A (3) bekezdés szerinti esetben az NVVH nem terjeszthet elő felülvizsgálati indítványt.”
+
+(3) A büntetőeljárásról szóló 2017. évi XC. törvény 651. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) Ha az alapügyben az NVVH az ügy saját hatáskörbe vonásáról határozott, a legfőbb ügyész a felülvizsgálati eljárás alapjául szolgáló törvénysértésről tájékoztatja az NVVH-t.”
+
+294. § A büntetőeljárásról szóló 2017. évi XC. törvény 657. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Ha a felülvizsgálati indítvány elutasításának nincs helye, és az alapügyben a vádat az NVVH képviselte, a Kúria az indítványt az alapügy ügyirataival együtt nyilatkozattétel érdekében megküldi az NVVH-nak.”
+
+295. § A büntetőeljárásról szóló 2017. évi XC. törvény 661. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Ha a vádat az NVVH képviselte, a nyilvános ülésen az NVVH törvény szerint kijelölt vezetőjének vagy az NVVH képviselőjének a jelenléte kötelező.”
+
+296. § A büntetőeljárásról szóló 2017. évi XC. törvény 667. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az NVVH nem jelenthet be törvényesség érdekében jogorvoslatot. Ha az alapügyben a vádat az NVVH képviselte, a törvényesség érdekében jogorvoslatot a legfőbb ügyész jelentheti be.”
+
+297. § A büntetőeljárásról szóló 2017. évi XC. törvény XCV. Fejezete a következő 676/A. §-sal egészül ki:
+
+„676/A. § A fiatalkorú elleni büntetőeljárásban az NVVH nem határozhat az ügy saját hatáskörbe vonásáról.”
+
+298. § A büntetőeljárásról szóló 2017. évi XC. törvény 700. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A katonai büntetőeljárásban az NVVH az ügyészség feladatát elláthatja. A katonai büntetőeljárásban az NVVH tagja is eljárhat.”
+
+299. § A büntetőeljárásról szóló 2017. évi XC. törvény „Átmeneti rendelkezések” alcíme a következő 876/F. §-sal egészül ki:
+
+„876/F. § A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény e törvény módosítására vonatkozó rendelkezései hatálybalépésének időpontjában a 817/A. § (1) bekezdésében meghatározott közhatalom gyakorlásával vagy közvagyon kezelésével kapcsolatos kiemelt bűncselekmény miatt folyamatban levő nyomozás esetén az ügyészség vagy a nyomozó hatóság a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény e törvény módosítására vonatkozó rendelkezései hatálybalépésének időpontjától számított hat hónapon belül tájékoztatja az NVVH-t a nyomozás állásáról.”
+
+300. § A büntetőeljárásról szóló 2017. évi XC. törvény
+
+- a) 30. § nyitó szövegrészében a „Kizárólag” szövegrész helyébe a „Ha e törvény eltérően nem rendelkezik, kizárólag” szöveg,
+- b) 101. § (1) bekezdésében az „ügyészség, közjegyző” szövegrész helyébe az „ügyészség, az NVVH, közjegyző” szöveg,
+- c) 369. § (4) bekezdésében az „Ügyészség határozata” szövegrész helyébe az „Ügyészség és – ha e törvény eltérően nem rendelkezik – az NVVH törvény szerint kijelölt vezetőjének a határozata” szöveg,
+- d) 588. § (2) bekezdésében az „ügyészség útján” szövegrész helyébe az „ügyészség vagy az NVVH törvény szerint kijelölt vezetője útján” szöveg,
+- e) 588. § (4) bekezdésében az „ügyészség az” szövegrész helyébe az „ügyészség vagy az NVVH fellebbezése esetén az NVVH az” szöveg és a „vezetője a” szövegrész helyébe a „vezetője vagy az NVVH törvény szerint kijelölt vezetője a” szöveg,
+- f) 596. § (1) bekezdés c) pontjában az „ügyészség indítványát” szövegrész helyébe az „ügyészség vagy az NVVH fellebbezése esetén az NVVH törvény szerint kijelölt vezetője indítványát” szöveg,
+- g) 604. § (4) bekezdésében az „ügyészség indítványának” szövegrész helyébe az „ügyészség vagy az NVVH fellebbezése esetén az NVVH törvény szerint kijelölt vezetője indítványának” szöveg,
+- h) 653. § (4) bekezdésében az „ügyész a” szövegrész helyébe az „ügyész vagy az NVVH törvény szerint kijelölt vezetője a” szöveg,
+- i) 719. § (2) bekezdésében az „ügyész, azután” szövegrész helyébe az „ügyész, valamint – ha az NVVH az ügy saját hatáskörbe vonásáról határozott – az NVVH törvény szerint kijelölt vezetője, azután” szöveg
+
+lép.
+
+#### 167. Az adózás rendjéről szóló 2017. évi CL. törvény módosítása
+
+301. § Az adózás rendjéről szóló 2017. évi CL. törvény 131. § (14) bekezdése a következő p) ponttal egészül ki:
+
+(Az adóhatóság megkeresésre vagy adatkérésre tájékoztatja az adótitokról)
+
+„p) az NVVH-t, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.”
+
+302. § Az adózás rendjéről szóló 2017. évi CL. törvény
+
+- a) 7. § 31. pont j) alpontjában az „ügyészség, bíróság” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), bíróság” szöveg,
+- b) 67. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH, vagy” szöveg,
+- c) 68/A. § (4) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- d) 68/A. § (5) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- e) 203. § (6) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- f) 274/M. § (3) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg
+
+lép.
 
 #### 168. Az adóigazgatási rendtartásról szóló 2017. évi CLI. törvény módosítása
 
@@ -1469,29 +2489,70 @@ terjedhet.
 
 #### 310. §
 
-#### 169.
+#### 169. Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény módosítása
 
-#### 311. §
+311. § Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény 94. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
 
-#### 312. §
+(Hivatalból indult jogorvoslati eljárások)
 
-#### 313. §
+„c) az ügyészségről szóló törvény szerinti ügyészi vagy az NVVH általi felhívás és fellépés nyomán indított eljárás.”
 
-#### 170.
+312. § Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény 105. §-a helyébe a következő rendelkezés lép:
 
-#### 314. §
+#### „105. § [Az ügyészi és az NVVH általi felhívás és fellépés]
 
-#### 171.
+(1) Ha az ügyész az ügyészségről szóló törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a vámhatóság az ügyész által kifogásolt döntését a vámjogszabályok rendelkezéseinek sérelme nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti).
 
-#### 315. §
+(2) Ha az NVVH törvény alapján felhívással él, vagy sikertelen felhívás esetén fellép, a vámhatóság az NVVH által kifogásolt döntését a vámjogszabályok rendelkezéseinek sérelme nélkül módosíthatja (megváltoztathatja), illetve visszavonhatja (megsemmisítheti).”
 
-#### 172.
+313. § Az uniós vámjog végrehajtásáról szóló 2017. évi CLII. törvény
 
-#### 316. §
+- a) 20. § (1) bekezdés d) pontjában az „ügyészség, vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy” szöveg,
+- b) 20. § (1a) bekezdésében az „ügyészségnek vagy” szövegrész helyébe az „ügyészségnek, az NVVH-nak vagy” szöveg,
+- c) 29. § (1) bekezdés c) pontjában az „ügyészséget, a” szövegrész helyébe az „ügyészséget, az NVVH-t, a” szöveg,
+- d) 29. § (1) bekezdés k) pontjában a „Számvevőszéket, továbbá” szövegrész helyébe a „Számvevőszéket,” szöveg és a „céljából,” szövegrész helyébe a „céljából, továbbá az NVVH-t a közvagyonvédelmi vizsgálat lefolytatása céljából,” szöveg
 
-#### 173.
+lép.
 
-#### 317. §
+#### 170. Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény módosítása
+
+314. § Az adóhatóság által foganatosítandó végrehajtási eljárásokról szóló 2017. évi CLIII. törvény
+
+- a) 19. § (6) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy” szöveg,
+- b) 29. § (1) bekezdés 10. pont b) alpontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- c) 29. § (1) bekezdés 10. pont c) alpontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- d) 67. § (2) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- e) 125/C. § (6) bekezdésében az „ügyészséget a” szövegrész helyébe az „ügyészséget, illetve az NVVH-t a” szöveg,
+- f) 125/C. § (9) bekezdésében az „ügyészségnél, ha” szövegrész helyébe az „ügyészségnél, illetve az NVVH-nál, ha” szöveg,
+- g) 125/C. § (10) bekezdésében az „ügyészség értesíti” szövegrész helyébe az „ügyészség, illetve az NVVH értesíti” szöveg,
+- h) 125/E. § (9) bekezdésében az „ügyészség büntetőeljárásban” szövegrész helyébe az „ügyészség, illetve az NVVH büntetőeljárásban” szöveg és az „ügyészséget.” szövegrész helyébe az „ügyészséget, illetve az NVVH-t.” szöveg,
+- i) 125/E. § (10) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg
+
+lép.
+
+#### 171. A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény módosítása
+
+315. § A honvédelmi alkalmazottak jogállásáról szóló 2018. évi CXIV. törvény 92. § e) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg lép.
+
+#### 172. A kormányzati igazgatásról szóló 2018. évi CXXV. törvény módosítása
+
+316. § A kormányzati igazgatásról szóló 2018. évi CXXV. törvény
+
+- a) 164. § (19) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg,
+- b) 175. § (3) bekezdés g) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg,
+- c) 177. § (3) bekezdés g) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg
+
+lép.
+
+#### 173. A szakképzésről szóló 2019. évi LXXX. törvény módosítása
+
+317. § A szakképzésről szóló 2019. évi LXXX. törvény
+
+- a) 15. § (3) bekezdésében az „ügyészség erre” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) erre” szöveg és az „ügyészség a” szövegrész helyébe az „ügyészség, illetve az NVVH a” szöveg,
+- b) 115. § (2) bekezdés a) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 115. § (3) bekezdésében az „ügyészségnek, a” szövegrész helyébe az „ügyészségnek, az NVVH-nak, a” szöveg
+
+lép.
 
 #### 174. A különleges jogállású szervekről és az általuk foglalkoztatottak jogállásáról szóló 2019. évi CVII. törvény módosítása
 
@@ -1499,13 +2560,18 @@ terjedhet.
 
 #### 319. §
 
-#### 175.
+#### 175. A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény módosítása
 
-#### 320. §
+320. § A társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény
 
-#### 176.
+- a) 16. § d) pontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, illetve” szöveg,
+- b) 60. § (3) bekezdésében az „a bűnüldözés” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bűnüldözés” szöveg
 
-#### 321. §
+lép.
+
+#### 176. Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény módosítása
+
+321. § Az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény 14. § (5) bekezdés e) pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg lép.
 
 #### 177. A Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló 2020. évi CXXX. törvény módosítása
 
@@ -1515,13 +2581,29 @@ terjedhet.
 
 #### 324. §
 
-#### 178.
+#### 178. A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény módosítása
 
-#### 325. §
+325. § A foglalkoztatást elősegítő szolgáltatásokról és támogatásokról, valamint a foglalkoztatás felügyeletéről szóló 2020. évi CXXXV. törvény 11. § (7) bekezdésében az „a bűnüldözési” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a bűnüldözési” szöveg lép.
 
-#### 179.
+#### 179. A pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény módosítása
 
-#### 326. §
+326. § A pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény
+
+- a) 3. § 4. pontjában az „a bíróságtól” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivataltól (a továbbiakban: NVVH), a bíróságtól” szöveg,
+- b) 8. § (1) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- c) 8. § (2) bekezdés nyitó szövegrészében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- d) 10. § (1) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- e) 10. § (2) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- f) 12. § (1) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- g) 20. § (1) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- h) 20. § (2) bekezdés nyitó szövegrészében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- i) 21/A. § (1) bekezdés a) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- j) 21/A. § (1) bekezdés b) pontjában az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- k) 21/A. § (5) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- l) 21/B. § (1) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg,
+- m) 21/B. § (5) bekezdés a) pontjában az „ügyészség, bíróság” szövegrész helyébe az „ügyészség, az NVVH, bíróság” szöveg
+
+lép.
 
 #### 180. A védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény módosítása
 
@@ -1529,39 +2611,86 @@ terjedhet.
 
 #### 328. §
 
-#### 181.
+#### 181. Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény módosítása
 
-#### 329. §
+329. § Az ingatlan-nyilvántartásról szóló 2021. évi C. törvény
 
-#### 182.
+- a) 2. § (2) bekezdés b) pontjában az „a közigazgatási” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), valamint a közigazgatási” szöveg,
+- b) 2. § (3) bekezdésében az „és az ügyész határozatát” szövegrész helyébe az „ , az ügyész, az NVVH határozatát” szöveg,
+- c) 20. § (5) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, az NVVH vagy” szöveg,
+- d) 69. § (2) bekezdésében az „ügyész, a” szövegrész helyébe az „ügyész, az NVVH, a” szöveg,
+- e) 73. § (5) bekezdés a) pontjában a „bíróság, a” szövegrész helyébe a „bíróság, az NVVH, a” szöveg,
+- f) 88. § (5) bekezdés 8. pontjában a „nyomozó hatóság és” szövegrész helyébe a „nyomozó hatóság, az NVVH és” szöveg
 
-#### 330. §
+lép.
+
+#### 182. A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény módosítása
+
+330. § A tőkeegyesítő társaságok határokon átnyúló átalakulásáról, egyesüléséről, szétválásáról és egyéb jogharmonizációs célú törvénymódosításról szóló 2021. évi CXXIV. törvény
+
+- a) 19. § (6) bekezdésében az „ügyészség arról” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) arról” szöveg,
+- b) 22. § (3) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, NVVH vagy” szöveg
+
+lép.
 
 #### 183. A honvédelemről és a Magyar Honvédségről szóló 2021. évi CXL. törvény módosítása
 
 #### 331. §
 
-#### 184.
+#### 184. A honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény módosítása
 
-#### 332. §
+332. § A honvédelmi adatkezelésekről szóló 2022. évi XXI. törvény
 
-#### 185.
+- a) 46. § a) pontjában az „a nyomozó” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó” szöveg,
+- b) 50. § (5) bekezdés e) pontjában az „ügyészség” szövegrész helyébe az „ügyészség, az NVVH” szöveg,
+- c) 86. § (8) bekezdésében az „ügyészség,” szövegrész helyébe az „ügyészség, az NVVH,” szöveg,
+- d) 100/A. § (5) bekezdésében az „ügyészség, a” szövegrész helyébe az „ügyészség, az NVVH, a” szöveg
 
-#### 333. §
+lép.
 
-#### 334. §
+#### 185. A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény módosítása
 
-#### 335. §
+333. § A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 10. § (1) bekezdése a következő g) ponttal egészül ki:
 
-#### 336. §
+(A kormányhivatal a kormányhivatali aláírásminta-nyilvántartásban, valamint az egyes aláírásokhoz kapcsolódó titkosított adatelemekben kezelt személyes adatot a törvényben meghatározott feladatkörében eljáró)
 
-#### 186.
+„g) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából”
 
-#### 337. §
+(erre irányuló megkeresés alapján adja át.)
 
-#### 187.
+334. § A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 13. § (9) bekezdése a következő i) ponttal egészül ki:
 
-#### 338. §
+(Az adatváltozás-kezelési szolgáltató a törzsadat-nyilvántartásában kezelt személyes adatokat a törvényben meghatározott feladatkörében eljáró)
+
+„i) NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,”
+
+(erre irányuló megkeresés alapján adja át.)
+
+335. § A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény 17/D. § (5) bekezdése a következő i) ponttal egészül ki:
+
+(A kijelölt szerv a diaszpóra-magyarsággal történő kapcsolattartást támogató rendszer útján a törzsadat-nyilvántartásában kezelt személyes adatokat a törvényben meghatározott feladatkörében eljáró)
+
+„i) NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,”
+
+(erre irányuló megkeresés alapján adja át.)
+
+336. § A területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény
+
+- a) 10. § (1) bekezdés e) pontjában a „céljából, valamint” szövegrész helyébe a „céljából,” szöveg,
+- b) 10. § (1) bekezdés f) pontjában a „céljából” szövegrész helyébe a „céljából,” szöveg,
+- c) 13. § (9) bekezdés g) pontjában a „céljából, valamint” szövegrész helyébe a „céljából,” szöveg,
+- d) 14. § (7) bekezdés b) pontjában az „ügyészségnek” szövegrész helyébe az „ügyészségnek, NVVH-nak” szöveg,
+- e) 17/D. § (5) bekezdés g) pontjában a „céljából, valamint” szövegrész helyébe a „céljából,” szöveg
+
+lép.
+
+#### 186. Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény módosítása
+
+337. § Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvény 31. § (7) bekezdés b) pontjában az „ügyészségnek és” szövegrész helyébe az „ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak és” szöveg lép.
+
+#### 187. A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény módosítása
+
+338. § A Közös Agrárpolitikából és a nemzeti költségvetésből biztosított agrártámogatások eljárási rendjéről szóló 2022. évi LXV. törvény 16. § (6) bekezdés b) pontjában az „ügyészséget;” szövegrész helyébe az „ügyészséget és a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalt;” szöveg lép.
 
 #### 188. A panaszokról, a közérdekű bejelentésekről, valamint a visszaélések bejelentésével összefüggő szabályokról szóló 2023. évi XXV. törvény módosítása
 
@@ -1569,13 +2698,28 @@ terjedhet.
 
 #### 340. §
 
-#### 189.
+#### 189. A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény módosítása
 
-#### 341. §
+341. § A harmadik országbeli állampolgárok beutazására és tartózkodására vonatkozó általános szabályokról szóló 2023. évi XC. törvény
 
-#### 190.
+- a) 70. § (1) bekezdés e) pontjában az „a rendvédelmi” szövegrész helyébe az „a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a rendvédelmi” szöveg,
+- b) 114. § nyitó szövegrészében az „ügyész tájékoztatása” szövegrész helyébe az „ügyész vagy az NVVH tájékoztatása” szöveg,
+- c) 127. § (1) bekezdésében az „ügyészség az” szövegrész helyébe az „ügyészség vagy az NVVH az” szöveg,
+- d) 127. § (4) bekezdésében az „ügyészség, illetve” szövegrész helyébe az „ügyészség, az NVVH, illetve” szöveg,
+- e) 158. §-ában az „ügyészség az” szövegrész helyébe az „ügyészség vagy az NVVH az” szöveg
 
-#### 342. §
+lép.
+
+#### 190. A magyar építészetről szóló 2023. évi C. törvény módosítása
+
+342. § A magyar építészetről szóló 2023. évi C. törvény
+
+- a) 45. § (4) bekezdés b) pontjában az „ügyészség, illetve” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), illetve” szöveg,
+- b) 46. § (5) bekezdésében az „ügyészségnek” szövegrész helyébe az „ügyészségnek, az NVVH-nak” szöveg,
+- c) 46. § (6) bekezdésében az „ügyészségnek” szövegrész helyébe az „ügyészségnek, az NVVH-nak” szöveg,
+- d) 48. § (1) bekezdésében az „ügyészség,” szövegrész helyébe az „ügyészség vagy az NVVH,” szöveg
+
+lép.
 
 #### 191. A digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény módosítása
 
@@ -1595,17 +2739,27 @@ terjedhet.
 
 #### 349. §
 
-#### 193.
+#### 193. A polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló 2024. évi LXX. törvény módosítása
 
-#### 350. §
+350. § A polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló 2024. évi LXX. törvény
 
-#### 194.
+- a) 80. § (4) bekezdésében az „ügyészség vagy” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH) vagy” szöveg,
+- b) 116. § (1) bekezdés h) pontjában az „ügyészség,” szövegrész helyébe az „ügyészség, NVVH,” szöveg,
+- c) 170. § (5) bekezdés nyitó szövegrészében az „ügyészség” szövegrész helyébe az „ügyészség, NVVH” szöveg,
+- d) 176. § h) pontjában az „ügyészség,” szövegrész helyébe az „ügyészség, az NVVH,” szöveg,
+- e) 180. § (4) bekezdésében az „ügyész, illetve” szövegrész helyébe az „ügyész, a katonai büntetőeljárásban eljáró NVVH tag, illetve” szöveg,
+- f) 202. § (5) bekezdésében az „ügyészség,” szövegrész helyébe az „ügyészség, az NVVH,” szöveg,
+- g) 5. melléklet 11.4. pontjában az „ügyészség,” szövegrész helyébe az „ügyészség, az NVVH,” szöveg
 
-#### 351. §
+lép.
 
-#### 195.
+#### 194. A kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény módosítása
 
-#### 352. §
+351. § A kritikus szervezetek ellenálló képességéről szóló 2024. évi LXXXIV. törvény 23. § (4) bekezdés 12. pontjában az „ügyészség és” szövegrész helyébe az „ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal és” szöveg lép.
+
+#### 195. A nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló 2025. évi XII. törvény módosítása
+
+352. § A nemteljesítő hitelmegállapodások hitelgondozóiról és a nemteljesítő hitelmegállapodások felvásárlóiról szóló 2025. évi XII. törvény 8. § (2) bekezdés záró szövegrészében az „ügyészség vádat” szövegrész helyébe az „ügyészség vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal vádat” szöveg lép.
 
 #### 196.
 
