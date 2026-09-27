@@ -302,6 +302,11 @@
   {
     "datum": "2026-08-12",
     "verzio": 100,
-    "sha": "982d62d7fd757ac855317204ead33881dbe77a36"
+    "sha": "76476076c28d441b5be3282545a70bbfff7800de"
+  },
+  {
+    "datum": "2026-09-27",
+    "verzio": 101,
+    "sha": "6f08c7aad737f6a1eca774ca5e2fc445566feafc"
   }
 ]

@@ -88,5 +88,10 @@
     "datum": "2025-12-13",
     "verzio": 23,
     "sha": "00debf6cfc79ec3eb8912c50f429e3f5f15ded79"
+  },
+  {
+    "datum": "2026-09-27",
+    "verzio": 26,
+    "sha": "6f08c7aad737f6a1eca774ca5e2fc445566feafc"
   }
 ]

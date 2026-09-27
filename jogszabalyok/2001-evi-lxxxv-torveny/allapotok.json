@@ -68,5 +68,10 @@
     "datum": "2024-01-01",
     "verzio": 20,
     "sha": "673b7cdd7b6728406946a365f382772065a003dd"
+  },
+  {
+    "datum": "2026-09-27",
+    "verzio": 21,
+    "sha": "6f08c7aad737f6a1eca774ca5e2fc445566feafc"
   }
 ]

@@ -223,5 +223,10 @@
     "datum": "2025-08-01",
     "verzio": 45,
     "sha": "06216676837cbfc1036e83b7260a629aa91eace0"
+  },
+  {
+    "datum": "2026-09-27",
+    "verzio": 46,
+    "sha": "6f08c7aad737f6a1eca774ca5e2fc445566feafc"
   }
 ]

@@ -73,5 +73,10 @@
     "datum": "2020-01-01",
     "verzio": 15,
     "sha": "4757bb9cdb2f4d14f951d3c6e45e56e3cc5e76d3"
+  },
+  {
+    "datum": "2026-09-27",
+    "verzio": 16,
+    "sha": "6f08c7aad737f6a1eca774ca5e2fc445566feafc"
   }
 ]
