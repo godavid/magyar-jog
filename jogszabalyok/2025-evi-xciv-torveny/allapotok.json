@@ -22,6 +22,11 @@
   {
     "datum": "2026-09-27",
     "verzio": 5,
-    "sha": "6f08c7aad737f6a1eca774ca5e2fc445566feafc"
+    "sha": "c69944ab56f80cfd35a0a0dcf01f2e65d10e6625"
+  },
+  {
+    "datum": "2026-09-28",
+    "verzio": 6,
+    "sha": "edd22d46eb9ce5db44223da1da19909050292b35"
   }
 ]
