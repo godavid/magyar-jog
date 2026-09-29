@@ -144446,6 +144446,16 @@
       "datum": "2026-08-26",
       "verzio": 4,
       "sha": "12e7e605be50869df18ed33586d49185b36b965c"
+    },
+    {
+      "datum": "2026-09-27",
+      "verzio": 5,
+      "sha": "735609884d5ec1275bb7fda3e15a4b97000b9d12"
+    },
+    {
+      "datum": "2026-09-28",
+      "verzio": 6,
+      "sha": "88a3e6eaed042a9ca7ba5c0bce950e17f5a68d50"
     }
   ],
   "2026-evi-xxxii-torveny": [
