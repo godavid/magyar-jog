@@ -29,7 +29,7 @@ a költségtakarékos, rugalmas és gyors adósságrendezést biztosító eljár
 2. § (1) E törvény szerinti szerkezetátalakításban nem lehet adós
 
 - a) az állam,
-- b) helyi, vármegyei és nemzetiségi önkormányzat, önkormányzati társulás,
+- b) helyi, megyei és nemzetiségi önkormányzat, önkormányzati társulás,
 - c) költségvetési szerv,
 - d) az a)–c) pontban nem említett más államháztartási szervezet,
 - e) a Magyar Nemzeti Bank,

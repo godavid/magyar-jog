@@ -114,7 +114,7 @@ a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalma
 (3) A Hatóság
 
 - a) előmozdítja a dohánytermék-kiskereskedelem szervezett működését, szakmai állásfoglalásokat bocsát ki,
-- b) ellenőrzi a dohánytermék-kiskereskedőkkel, valamint a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlását; közreműködik a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésében,
+- b)
 - c) ellátja a dohánytermék-kiskereskedelem engedélyezésével, a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyek közhiteles nyilvántartásával kapcsolatos feladatokat,
 - d) ellátja a dohánytermék-kiskereskedelem hatósági felügyeletével és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésével kapcsolatos feladatokat,
 - e)
@@ -152,7 +152,7 @@ a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalma
 
 7. § (1) A dohánytermék-kiskereskedelmi jogosultság átengedésére vonatkozó nyilvános pályázatra a Ktv.-ben előírt szabályokat az e törvényben foglalt eltéréssel kell alkalmazni.
 
-(2) A nyilvános pályázati felhívást vagy legalább két országos napilapban, vagy a pályázat szerinti településen illetékes fővárosi és vármegyei kormányhivatal honlapján meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább tizenöt nappal megelőzően.
+(2) A nyilvános pályázati felhívást vagy legalább két országos napilapban, vagy a pályázat szerinti településen illetékes fővárosi és megyei kormányhivatal honlapján meg kell hirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napját legalább tizenöt nappal megelőzően.
 
 (3) A pályázati kiírásnak tartalmaznia kell a pályázat elbírálásának szempontjait. A szempontok között érvényt kell szerezni a 13. § (5) bekezdésében foglaltaknak, továbbá előnyben kell részesíteni azt a pályázót, aki
 
@@ -895,7 +895,7 @@ a dohánytermék-kiskereskedő a dohányterméket a 2015. október 31-én hatál
 
 26. § Felhatalmazást kap a Hatóság elnöke, hogy
 
-- a) a dohánytermék-kiskereskedőkkel, a dohány-kiskereskedelmi ellátóval megkötött koncessziós szerződések szerinti koncesszióköteles tevékenység gyakorlásának ellenőrzésére,
+- a)
 - b) a dohánytermék-kiskereskedelemi jogosultság gyakorlására külön feljogosított személyek kötelezettségeinek ellenőrzésére,
 - c) a dohánytermék-kiskereskedelem engedélyezésére, a dohánytermék-kiskereskedelmi tevékenység végzésére jogosító engedéllyel rendelkező személyek közhiteles nyilvántartására,
 - d) a dohánytermék-kiskereskedelem hatósági felügyeletére és a fiatalkorúak különös védelmével kapcsolatos rendelkezések végrehajtásának ellenőrzésére,

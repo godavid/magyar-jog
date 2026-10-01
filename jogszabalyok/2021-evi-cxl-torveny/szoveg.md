@@ -268,7 +268,7 @@ meghatározott feladatokat,
 
 #### 9. A honvédelemben közreműködő szervek
 
-11. § (1) A rendvédelmi szervek, a nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség a jogszabályban meghatározott hatáskörükben, illetékességi területükön
+11. § (1) A rendvédelmi szervek, valamint a nemzetbiztonsági szolgálatok a jogszabályban meghatározott hatáskörükben, illetékességi területükön
 
 - a) ellátják a honvédelem érdekében meghatározott feladataikat,
 - b) ellátják a részükre kijelölt személyek és létesítmények védelmét,
@@ -701,8 +701,8 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 - a) a Honvédség tényleges szolgálatot teljesítő tagjára, munkavállalójára, a honvédelmi alkalmazottra, a honvédelemért felelős miniszter által vezetett minisztériumban kormányzati szolgálati, politikai szolgálati, biztosi jogviszonyban vagy munkaviszonyban állóra,
 - b) a rendvédelmi szervek hivatásos vagy szerződéses állományú tagjára,
 - c) a nemzetbiztonsági szolgálatok hivatásos állományú tagjára,
-- d) a b) pont szerinti szervek munkavállalójára és rendvédelmi igazgatási alkalmazottjára, illetve a c) pont szerinti szerv nemzetbiztonsági alkalmazottjára, valamint
-- e) az Országgyűlési Őrség hivatásos állományú tagjára, köztisztviselőjére és munkavállalójára.
+- d) a b) pont szerinti szervek munkavállalójára és rendvédelmi igazgatási alkalmazottjára, illetve a c) pont szerinti szerv nemzetbiztonsági alkalmazottjára.
+- e)
 
 #### 29. A polgári védelmi kötelezettség fegyveres összeütközések időszakával összefüggő eltérő szabályai
 
@@ -729,7 +729,7 @@ munkakört, valamint az azt betöltő hadkötelest jelölheti ki.
 
 #### 30. A honvédelmi bírság
 
-46. § (1) A fővárosi és a vármegyei kormányhivatal (a továbbiakban együtt: kormányhivatal) – a Kormány rendeletében foglaltak szerint – honvédelmi bírságot szab ki, ha
+46. § (1) A fővárosi és a megyei kormányhivatal (a továbbiakban együtt: kormányhivatal) – a Kormány rendeletében foglaltak szerint – honvédelmi bírságot szab ki, ha
 
 - a) a kötelezett a hadiállapot kihirdetését megelőzően elrendelt járulékos kötelezettségének nem tesz eleget,
 - b) a címzett a behívóparancs, vagy az abban szereplő kötelezettség tudomásul vételét megtagadja,
@@ -881,7 +881,7 @@ illeti meg.
 - a) a Honvédség a rendőrség feladat- és hatáskörét nem vonhatja el,
 - b) a honvéd kizárólag a Kormány rendeletében meghatározott területen – az e törvényben meghatározottak szerint – segítheti a rendőr feladatainak ellátását.
 
-(5) Az 59. § (1) bekezdés j) pontja szerinti feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. E közreműködői feladat akkor rendelhető el, ha a külföldi helyszínre a Honvédség csapatmozgását az erre jogosult engedélyezte, és a terrorizmust elhárító szerv alkalmazása nem elegendő.
+(5) Az 59. § (1) bekezdés j) pontja szerinti feladatról a rendészetért felelős miniszter és a külpolitikáért felelős miniszter kezdeményezésére a Kormány dönt. E közreműködői feladat akkor rendelhető el, ha a külföldi helyszínre a Honvédség csapatmozgását az erre jogosult engedélyezte, és a rendőrség alkalmazása nem elegendő.
 
 (6) Az 59. § (1) bekezdés m) pontja szerinti közreműködés során a honvéd a veszélyhelyzettel, az egészségügyi válsághelyzettel, illetve a befogadással érintett területen az e törvényben meghatározottak szerint segítheti a veszélyhelyzet és az egészségügyi válsághelyzet felszámolásához szükséges feladatok ellátását.
 
@@ -1306,9 +1306,9 @@ a Kormány döntése alapján van lehetőség.
 
 #### 49/A. A Honvédség különleges műveleti erőire vonatkozó szabályok
 
-90/A. § (1) A Kormány 6/B. § (2) bekezdése szerinti döntésének végrehajtása érdekében a Honvédség különleges műveleti erői katonai művelet végrehajtása során a kijelölt műveleti területen a tevékenységüket önállóan, más honvédelmi szervezet közreműködésével, vagy nemzetbiztonsági szolgálattal, illetve a rendőrség terrorizmust elhárító szervével közösen hajtják végre.
+90/A. § (1) A Kormány 6/B. § (2) bekezdése szerinti döntésének végrehajtása érdekében a Honvédség különleges műveleti erői katonai művelet végrehajtása során a kijelölt műveleti területen a tevékenységüket önállóan, más honvédelmi szervezet közreműködésével, vagy nemzetbiztonsági szolgálattal, illetve a rendőrséggel közösen hajtják végre.
 
-(2) A nemzetbiztonsági szolgálattal, illetve a rendőrség terrorizmust elhárító szervével közösen tervezett műveletekre vonatkozó információk megosztása a Honvéd Vezérkar főnöke útján, és az érintett országos parancsnokkal együttesen szabályozott módon valósul meg.
+(2) A nemzetbiztonsági szolgálattal, illetve a rendőrséggel közösen tervezett műveletekre vonatkozó információk megosztása a Honvéd Vezérkar főnöke útján, és az érintett országos parancsnokkal együttesen szabályozott módon valósul meg.
 
 ### XII. Fejezet — FEGYVER ÉS MÁS KÉNYSZERÍTŐ ESZKÖZ HASZNÁLATA
 
@@ -1723,7 +1723,7 @@ alapján sarkalatosnak minősül.
 #### Jegyzék a meghagyásba tartozó munkakörökről és a meghagyásba bevont szervekről
 
 - 1. I. kategória
-- 1.1. a köztársasági elnök, az országgyűlési, európai parlamenti képviselő, főpolgármester, polgármester, önkormányzati képviselő, a vármegyei vagy fővárosi közgyűlés elnöke, tagja,
+- 1.1. a köztársasági elnök, az országgyűlési, európai parlamenti képviselő, főpolgármester, polgármester, önkormányzati képviselő, a megyei vagy fővárosi közgyűlés elnöke, tagja,
 - 1.2. az Alkotmánybíróság elnöke és tagjai,
 - 1.3. az Állami Számvevőszék elnöke és alelnökei,
 - 1.4. a Magyar Nemzeti Bank elnöke és alelnökei,
@@ -1747,11 +1747,11 @@ alapján sarkalatosnak minősül.
 - 2.9. az ügyészségek,
 - 2.9a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 - 2.10. a Kit. szerinti központi kormányzati igazgatási szerv, az önálló szabályozó szerv és az autonóm államigazgatási szerv,
-- 2.11. a fővárosi és vármegyei kormányhivatalok, valamint ezek járási és fővárosi kerületi hivatalai,
-- 2.12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a vármegyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
+- 2.11. a fővárosi és megyei kormányhivatalok, valamint ezek járási és fővárosi kerületi hivatalai,
+- 2.12. a körjegyzőség, a polgármesteri hivatalok (a képviselő-testület hivatala, a megyei jogú város kerületi hivatala, a fővárosi kerületi képviselő-testület hivatala), a megyei közgyűlés hivatala, a főpolgármesteri hivatal (a fővárosi közgyűlés hivatala), az önkormányzati hatósági igazgatási társulások,
 - 2.13. a Médiaszolgáltatás Támogató- és Vagyonkezelő Alap, a Magyar Rádió Zártkörűen Működő Részvénytársaság, a Duna Televízió Zártkörűen Működő Részvénytársaság, a Magyar Távirati Iroda Zártkörűen Működő Részvénytársaság, a Magyar Televízió Zártkörűen Működő Részvénytársaság,
 - 2.14. a honvédelmi szervezetek,
-- 2.15. a rendvédelmi szervek, az Országgyűlési Őrség és a nemzetbiztonsági szolgálatok,
+- 2.15. a rendvédelmi szervek, a nemzetbiztonsági szolgálatok,
 - 2.16. jogszabály, illetve a Kormány tagja által honvédelmi feladat ellátására kijelölt, honvédelemben közreműködő szervek, szervezetek
 - 2.17. az egyházi jogi személyek,
 - 2.18. a lakosság részére alapvető közüzemi szolgáltatást nyújtó szervek.

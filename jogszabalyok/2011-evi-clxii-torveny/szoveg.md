@@ -380,7 +380,7 @@ bírói tanácsa a pályázókat meghallgatja, és a pályázatokat az elért po
 - c) az Állami Számvevőszékre,
 - d) az ügyészségre,
 - e) központi államigazgatási szervhez,
-- f) fővárosi és vármegyei kormányhivatalhoz
+- f) fővárosi és megyei kormányhivatalhoz
 
 beoszthatja.
 
@@ -1723,7 +1723,7 @@ százaléka.
 
 (3) Nem minősül belföldi kiküldetésnek, ha a bíró a feladatait rendszeresen a beosztásáról szóló okiratban szereplő szolgálati helyén vagy a kinevezési okiratában meghatározott szolgálati helyén kívül, de
 
-- a) az ítélőtábla – kivéve a c) pontban meghatározott ítélőtábla – mint szolgálati hely esetében az ítélőtábla székhelye szerinti vármegye területén,
+- a) az ítélőtábla – kivéve a c) pontban meghatározott ítélőtábla – mint szolgálati hely esetében az ítélőtábla székhelye szerinti megye területén,
 - b) a törvényszék – kivéve a c) pontban meghatározott törvényszéket – mint szolgálati hely esetében az érintett törvényszék illetékességi területén,
 - c) a Kúria, a fővárosi székhelyű ítélőtábla, a fővárosi illetékességi területű törvényszék és az OBH mint szolgálati hely esetében Budapest területén
 
@@ -1996,7 +1996,7 @@ jelölik.
 
 (6) A tábornoki rendfokozatú katonai ülnökjelölt, függetlenül attól, hogy hol van a szolgálati helye, több bírósághoz is megválasztható katonai ülnökké.
 
-215. § (1) A járásbíróság ülnökeit a bíróság székhelye szerint illetékes helyi önkormányzat, illetve települési nemzetiségi önkormányzat képviselő-testülete, a törvényszék ülnökeit a vármegyei (fővárosi), illetve megyei jogú városi képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg. A Budapest területén működő járásbíróságok ülnökeit a bíróság illetékességi területe szerinti helyi önkormányzatok és települési nemzetiségi önkormányzatok képviselő-testületei választják meg. Olyan járásbíróság esetén, amelynek székhelye nem az illetékességi területén helyezkedik el, az ülnököket az illetékességi terület szerinti vármegyei képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg.
+215. § (1) A járásbíróság ülnökeit a bíróság székhelye szerint illetékes helyi önkormányzat, illetve települési nemzetiségi önkormányzat képviselő-testülete, a törvényszék ülnökeit a megyei (fővárosi), illetve megyei jogú városi képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg. A Budapest területén működő járásbíróságok ülnökeit a bíróság illetékességi területe szerinti helyi önkormányzatok és települési nemzetiségi önkormányzatok képviselő-testületei választják meg. Olyan járásbíróság esetén, amelynek székhelye nem az illetékességi területén helyezkedik el, az ülnököket az illetékességi terület szerinti megyei képviselő-testület és a területi nemzetiségi önkormányzatok képviselő-testületei választják meg.
 
 (2) A katonai ülnököket a rendfokozatuknak megfelelő állománygyűlésen választják meg.
 

@@ -885,7 +885,7 @@ köteles foglalkoztatni. Ezt követően a foglalkoztatott munkaidejét a kérele
 
 (1) A munkáltatói jogkör gyakorlója a foglalkoztató NAV szerv a szervezetszerű működési területén kívüli munkavégzésre kötelezheti a foglalkoztatottat (kiküldetés). Ennek feltétele, hogy az érintett a kiküldetés időtartama alatt is a munkáltatói jogkör gyakorlója irányítása és utasítása alapján végezze a munkát. A kiküldetés alapján történő munkavégzés időtartama tisztviselők esetén nem haladhatja meg – a munkáltatói jogkör gyakorlója és a tisztviselő eltérő megállapodása hiányában – naptári évenként a negyvennégy munkanapot. Ha a kiküldetés időtartama egy munkanapon belül a négy órát meghaladja, azt egy munkanapként kell számításba venni.
 
-(2) Ha a foglalkoztató NAV szerv szervezetszerű működési területe a főváros vagy annak egyes kerületei, illetve Pest vármegye területére terjed ki, kiküldetésnek – feltéve, hogy az érintett a kiküldetés időtartama alatt is a munkáltatói jogkör gyakorlójának irányítása és utasítása alapján végzi a munkát – az minősül, ha a foglalkoztatottat a munkáltatói jogkör gyakorlója a főváros és Pest vármegye közigazgatási határain kívüli munkavégzésre kötelezi.
+(2) Ha a foglalkoztató NAV szerv szervezetszerű működési területe a főváros vagy annak egyes kerületei, illetve Pest megye területére terjed ki, kiküldetésnek – feltéve, hogy az érintett a kiküldetés időtartama alatt is a munkáltatói jogkör gyakorlójának irányítása és utasítása alapján végzi a munkát – az minősül, ha a foglalkoztatottat a munkáltatói jogkör gyakorlója a főváros és Pest megye közigazgatási határain kívüli munkavégzésre kötelezi.
 
 (3) Ha a foglalkoztató NAV szerv szervezetszerű működési területe az ország egész területére kiterjed, kiküldetésnek – feltéve, hogy az érintett a kiküldetés időtartama alatt is a munkáltatói jogkör gyakorlójának irányítása és utasítása alapján végzi a munkát – az minősül, ha a foglalkoztatottat a munkáltatói jogkör gyakorlója a munkavégzési hely szerinti régió közigazgatási határain kívüli munkavégzésre kötelezi.
 
@@ -1585,7 +1585,7 @@ időtartama alatt.
 - a) országgyűlési vagy európai parlamenti képviselő,
 - b) nemzetiségi szószóló,
 - c) főpolgármester, főpolgármester-helyettes,
-- d) vármegyei közgyűlés elnöke, alelnöke,
+- d) megyei közgyűlés elnöke, alelnöke,
 - e) polgármester, alpolgármester,
 - f) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
 - g) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá

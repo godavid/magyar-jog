@@ -155,7 +155,7 @@ jár el;
 - 11. lakcím: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerinti lakcím;
 - 12. médiatartalom-szolgáltató: a sajtószabadságról és a médiatartalmak alapvető szabályairól szóló törvény szerinti médiatartalom-szolgáltató;
 - 13. nem természetes személy: a polgári perrendtartásról szóló törvényben meghatározott nem természetes személy;
-- 14. rendfokozat: a honvéd esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat;
+- 14. rendfokozat: a honvéd esetében a viselt rendfokozat, a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományának tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat;
 - 15. tényleges tartózkodási hely: az az ingatlan, ahol a büntetőeljárásban részt vevő személy ténylegesen tartózkodik, ideértve a fogva tartás helyét, illetve a nem magyar állampolgár szálláshelyét is.
 
 (2) Ahol e törvény a jogkövetkezményeket a törvényben meghatározott büntetéshez fűzi, ezen a Btk. Különös Részében meghatározott büntetési tételkeret felső határát kell érteni.
@@ -326,7 +326,7 @@ lakcíme vagy tényleges tartózkodási helye található, ha az ügyészség ot
 
 (4) Több terhelt esetében a terheltek egyikére illetékes bíróság a többi terhelttel szemben is eljárhat, ha ez a hatáskörét nem haladja meg. Ha több ilyen bíróság van, a megelőzés alapján kell eljárni.
 
-(5) A törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a vármegye, illetve a főváros területére kiterjedő illetékességgel
+(5) A törvényszék székhelyén lévő járásbíróság, a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel
 
 - 1. a közveszély okozása – kivéve a Btk. 322. § (2) bekezdés b) pontja szerinti közveszély okozását –,
 - 2. a közérdekű üzem működésének megzavarása – kivéve a Btk. 323. § (2) bekezdés c) pontja és (3) bekezdés c) pontja szerinti közérdekű üzem működésének megzavarását –,
@@ -458,7 +458,7 @@ merült fel.
 
 (5) A kizárásra irányuló, nyilvánvalóan alaptalan bejelentés érdemi indokolás nélkül elutasítható, és a bejelentés előterjesztője rendbírsággal sújtható.
 
-(6) A vármegyei főügyészség területén lévő járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárásáról a főügyész határoz. A főügyész, valamint a legfőbb ügyészségi ügyész kizárásáról a legfőbb ügyész határoz. Ha a járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárása iránti bejelentés egyúttal a főügyészt is érinti, a kizárásról a legfőbb ügyész határoz.
+(6) A megyei főügyészség területén lévő járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárásáról a főügyész határoz. A főügyész, valamint a legfőbb ügyészségi ügyész kizárásáról a legfőbb ügyész határoz. Ha a járási ügyészség ügyésze, vezetője, illetve a főügyészségi ügyész kizárása iránti bejelentés egyúttal a főügyészt is érinti, a kizárásról a legfőbb ügyész határoz.
 
 (7) Az ügyészség vezetője a tudomására jutott kizárási ok miatt az ügyész kizárását hivatalból kezdeményezi.
 
@@ -480,9 +480,9 @@ merült fel.
 
 30. § Ha e törvény eltérően nem rendelkezik, kizárólag az ügyészség végzi a nyomozást a következő bűncselekmények miatt:
 
-- a) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény,
+- a) a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett, nem katonai büntetőeljárásra tartozó bűncselekmény,
 - b) a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja által elkövetett bűncselekmény,
-- c) a bíró, az ügyész, a bírósági titkár, az alügyész, a bírósági és ügyészségi fogalmazó, a bírósági ügyintéző és az ügyészségi megbízott, a rendőrség, az Országgyűlési Őrség hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja és a külföldi hivatalos személy ellen elkövetett, a Btk. 160. § (2) bekezdés e) pontja szerinti emberölés, a Btk. 190. § (2) bekezdés e) pontja szerinti emberrablás, hivatalos személy elleni erőszak, a Btk. 365. § (3) bekezdés f) pontja, illetve (4) bekezdés c) pontja szerinti rablás,
+- c) a bíró, az ügyész, a bírósági titkár, az alügyész, a bírósági és ügyészségi fogalmazó, a bírósági ügyintéző és az ügyészségi megbízott, a rendőrség hivatásos állományú tagja, a Nemzeti Adó- és Vámhivatal pénzügyőri munkakört betöltő foglalkoztatottja és a külföldi hivatalos személy ellen elkövetett, a Btk. 160. § (2) bekezdés e) pontja szerinti emberölés, a Btk. 190. § (2) bekezdés e) pontja szerinti emberrablás, hivatalos személy elleni erőszak, a Btk. 365. § (3) bekezdés f) pontja, illetve (4) bekezdés c) pontja szerinti rablás,
 - d) a bíró, az ügyész, a bírósági titkár, az alügyész, a bírósági és ügyészségi fogalmazó, a bírósági ügyintéző és az ügyészségi megbízott által elkövetett bűncselekmény, valamint az ülnöknek az igazságszolgáltatással összefüggésben elkövetett bűncselekménye,
 - e) a mentelmi joggal rendelkező és a nemzetközi jogon alapuló mentességet élvező személy
   - ea) által elkövetett bűncselekmény,
@@ -1749,7 +1749,7 @@ biztosítja.
 
 (9) A bíróság, az ügyészség és a nyomozó hatóság – e törvény eltérő rendelkezésének hiányában – az indítvány előterjesztésétől számított tizenöt napon belül biztosítja az eljárás (2) bekezdés szerint meghatározott ügyiratai közül azoknak a megismerését, amelyek vonatkozásában a megismerést nem korlátozta.
 
-101. § (1) Bíróság, ügyészség, az NVVH, közjegyző, bírósági végrehajtó, állami adó- és vámhatóság, pártfogó felügyelő, megelőző pártfogó felügyelő, nyomozó hatóság, büntetés-végrehajtási szerv, közigazgatási hatóság, kormányzati ellenőrzési szerv, az Integritás Hatóság, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, a rendőrség terrorizmust elhárító szerve, a katona terhelt állományilletékes parancsnoka a törvényben meghatározott feladata ellátásához szükséges mértékben és időtartamban megismerheti az eljárás ügyiratait. A megismerési jog a nyomozás befejezéséig az eljárás érdekeire figyelemmel korlátozható. A megismerés korlátozása ellen nincs helye jogorvoslatnak.
+101. § (1) Bíróság, ügyészség, az NVVH, közjegyző, bírósági végrehajtó, állami adó- és vámhatóság, pártfogó felügyelő, megelőző pártfogó felügyelő, nyomozó hatóság, büntetés-végrehajtási szerv, közigazgatási hatóság, kormányzati ellenőrzési szerv, az Integritás Hatóság, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, a katona terhelt állományilletékes parancsnoka a törvényben meghatározott feladata ellátásához szükséges mértékben és időtartamban megismerheti az eljárás ügyiratait. A megismerési jog a nyomozás befejezéséig az eljárás érdekeire figyelemmel korlátozható. A megismerés korlátozása ellen nincs helye jogorvoslatnak.
 
 (2) Törvénnyel kihirdetett nemzetközi szerződéssel vagy európai uniós jogi aktussal létrehozott szerv, a szerv ilyen jogforrásban meghatározott feladatainak ellátásához szükséges mértékben és időtartamban az (1) bekezdésben foglaltak szerint ismerheti meg az eljárás ügyiratait.
 
@@ -2136,7 +2136,7 @@ kapcsolatban, vagy
 
 (2) A bíróság, az ügyészség és a nyomozó hatóság a védő indítványára rendelheti el a védő jelenlétének egyszerűsített telekommunikációs jelenlét útján történő biztosítását.
 
-(3) A bíróság, az ügyészség és a nyomozó hatóság csak különösen indokolt esetben utasíthatja el a védő arra vonatkozó indítványát, hogy a jelenlétét egyszerűsített telekommunikációs jelenlét útján biztosítsák, ha a védő székhelye az eljárási cselekmény helyszínétől eltérő vármegyében található, és a telekommunikációs jelenlét biztosításának a technikai feltételei fennállnak.
+(3) A bíróság, az ügyészség és a nyomozó hatóság csak különösen indokolt esetben utasíthatja el a védő arra vonatkozó indítványát, hogy a jelenlétét egyszerűsített telekommunikációs jelenlét útján biztosítsák, ha a védő székhelye az eljárási cselekmény helyszínétől eltérő megyében található, és a telekommunikációs jelenlét biztosításának a technikai feltételei fennállnak.
 
 ### Telekommunikációs eszköz használata az ügyész és a nyomozó hatóság tagja jelenlétének a biztosítása érdekében
 
@@ -2148,7 +2148,7 @@ kapcsolatban, vagy
 
 (4) Az ügyész, illetve a nyomozó hatóság tagja eljárási cselekményen történő jelenlétének telekommunikációs eszköz útján történő biztosítása esetén az ügyész, illetve a nyomozó hatóság tagja igazolja saját személyazonosságát, valamint közreműködik az elkülönített helyszínen jelen levő személyek személyazonosságának a megállapításában.
 
-(5) A bíróság csak különösen indokolt esetben utasíthatja el az ügyészség arra vonatkozó indítványát, hogy az ügyész eljárási cselekményen történő jelenlétét telekommunikációs eszköz útján biztosítsa, ha az ügyész szolgálati helye a bíróság eljárásának helyszínétől eltérő vármegyében található, és a telekommunikációs jelenlét biztosításának a technikai feltételei fennállnak.
+(5) A bíróság csak különösen indokolt esetben utasíthatja el az ügyészség arra vonatkozó indítványát, hogy az ügyész eljárási cselekményen történő jelenlétét telekommunikációs eszköz útján biztosítsa, ha az ügyész szolgálati helye a bíróság eljárásának helyszínétől eltérő megyében található, és a telekommunikációs jelenlét biztosításának a technikai feltételei fennállnak.
 
 (6) A bíróság az ügyészség indítványára rendelheti el a telekommunikációs eszköz használatát az ügyész eljárási cselekményen történő jelenlétének a biztosítása érdekében.
 
@@ -3160,7 +3160,7 @@ előtt pártfogó felügyelői vélemény beszerzését rendelheti el.
 
 (2) Leplezett eszközöket az erre feljogosított szervek a rájuk vonatkozó jogszabályokban meghatározott bűnüldözési feladataik végrehajtása céljából kizárólag az e törvényben meghatározott szabályok alapján alkalmazhatnak.
 
-(3) A (2) bekezdés nem érinti a nemzetbiztonsági szolgálatok és a rendőrség terrorizmust elhárító szerve által a nemzetbiztonsági szolgálatokról szóló törvény alapján bűnüldözési feladataik végrehajtása céljából folytatott titkos információgyűjtést.
+(3) A (2) bekezdés nem érinti a nemzetbiztonsági szolgálatok és az általános rendőrségi feladatok ellátására létrehozott szerv által a nemzetbiztonsági szolgálatokról szóló törvény alapján bűnüldözési feladataik végrehajtása céljából folytatott titkos információgyűjtést.
 
 (4) A büntetőeljárásban
 
@@ -3581,16 +3581,13 @@ megszerzett adatokat haladéktalanul törölni kell.
 
 244. § (1) A leplezett eszközök alkalmazására feljogosított szerv a leplezett eszköz alkalmazását maga hajtja végre, a leplezett eszközök végrehajtásában való közreműködésre kijelölt rendőri szerv közreműködésével hajtja végre, vagy a leplezett eszköz alkalmazásához a nemzetbiztonsági szolgálatokról szóló törvény által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálatot veszi igénybe.
 
-(2) A nyomozó hatóság által alkalmazott leplezett eszköz alkalmazásának a végrehajtásában a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, illetve a rendőrség terrorizmust elhárító szerve felkérésre közreműködik a rendőrségről szóló törvény szerint hatáskörébe tartozó bűncselekmény miatt folytatott előkészítő eljárás és nyomozás során.
+(2) A nyomozó hatóság által alkalmazott leplezett eszköz alkalmazásának a végrehajtásában a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve felkérésre közreműködik a rendőrségről szóló törvény szerint hatáskörébe tartozó bűncselekmény miatt folytatott előkészítő eljárás és nyomozás során.
 
-(3) Az ügyészség által alkalmazott leplezett eszköz alkalmazásának a végrehajtásában felkérésre közreműködik
+(3) Az ügyészség által alkalmazott leplezett eszköz alkalmazásának a végrehajtásában felkérésre közreműködik a nyomozó hatóság, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve.
 
-- a) a nyomozó hatóság, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, illetve
-- b) a rendőrségről szóló törvény szerint hatáskörébe tartozó bűncselekmény miatt folytatott eljárásban a rendőrség terrorizmust elhárító szerve.
+(4) Ha az előkészítő eljárást a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve folytatja, és a nyomozás elrendelésére oly módon kerül sor, hogy a leplezett eszközök alkalmazása folyamatban van, az előkészítő eljárást folytató szerv a leplezett eszközök alkalmazásának végrehajtásában a nyomozó hatóság vagy az ügyészség eltérő rendelkezéséig közreműködik.
 
-(4) Ha az előkészítő eljárást a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve vagy a rendőrség terrorizmust elhárító szerve folytatja, és a nyomozás elrendelésére oly módon kerül sor, hogy a leplezett eszközök alkalmazása folyamatban van, az előkészítő eljárást folytató szerv a leplezett eszközök alkalmazásának végrehajtásában a nyomozó hatóság vagy az ügyészség eltérő rendelkezéséig közreműködik.
-
-(5) Ha a nemzetbiztonsági szolgálatok vagy a rendőrség terrorizmust elhárító szervének hivatásos állományú tagja által elkövetett bűncselekmény miatt folytatott előkészítő eljárás vagy nyomozás során bírói vagy ügyészi engedélyhez kötött leplezett eszközt alkalmaznak, felkérésre az érintett nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve közreműködik a leplezett eszköz alkalmazásának a végrehajtásában.
+(5) Ha a nemzetbiztonsági szolgálatok hivatásos állományú tagja által elkövetett bűncselekmény miatt folytatott előkészítő eljárás vagy nyomozás során bírói vagy ügyészi engedélyhez kötött leplezett eszközt alkalmaznak, felkérésre az érintett nemzetbiztonsági szolgálat közreműködik a leplezett eszköz alkalmazásának a végrehajtásában.
 
 (6) Az elektronikus hírközlési szolgáltatást végző szervezetek, valamint a postai küldemények, vagy az egyéb zárt küldemények, továbbá az információs rendszerben tárolt adatok továbbítását, feldolgozását, kezelését végző szervezetek kötelesek a leplezett eszközök alkalmazását biztosítani és az alkalmazásra feljogosított szervekkel együttműködni.
 
@@ -3775,14 +3772,19 @@ biztosítsák.
 260. § (1) A nemzetbiztonsági szolgálatokról szóló törvény rendelkezései alapján végzett, külső engedélyhez kötött titkos információgyűjtés eredménye a büntetőeljárásban akkor használható fel, ha
 
 - a) olyan bűncselekmény bizonyítására kívánják felhasználni, amely miatt e törvény szerint bírói engedélyhez kötött leplezett eszközök alkalmazásának helye lehet, és
-- b) a büntetőeljárásban felhasználni kívánt adat megszerzését követően a titkos információgyűjtést végző nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve legkésőbb a büntetőeljárásban felhasználni kívánt adat megszerzését követő harminc napon belül kezdeményezte a büntetőeljárás megindítását.
+- b) a büntetőeljárásban felhasználni kívánt adat megszerzését követően a titkos információgyűjtést végző nemzetbiztonsági szolgálat vagy általános rendőrségi feladatok ellátására létrehozott szerv legkésőbb a büntetőeljárásban felhasználni kívánt adat megszerzését követő harminc napon belül kezdeményezte a büntetőeljárás megindítását.
 
-(2) Az (1) bekezdéstől eltérően a nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve legkésőbb a felhasználni kívánt adat megszerzését követő egy éven belül kezdeményezheti a büntetőeljárás megindítását, ha
+(2) Az (1) bekezdéstől eltérően a nemzetbiztonsági szolgálat legkésőbb a felhasználni kívánt adat megszerzését követő egy éven belül kezdeményezheti a büntetőeljárás megindítását, ha
 
 - a) a büntetőeljárás korábbi kezdeményezésével a törvényben meghatározott feladatának az eredményességét veszélyeztetné, és
 - b) a büntetőeljárásban felhasználni kívánt adat a nemzetbiztonsági szolgálatokról szóló törvény rendelkezései alapján az érintett szerv feladatkörébe tartozó bűncselekményre vonatkozik.
 
-(3) Ha a titkos információgyűjtést nem maga a titkos információgyűjtést végző szerv hajtotta végre, az (1) és (2) bekezdésben meghatározott határidőt attól a naptól kell számítani, amikor a titkos információgyűjtésnek az (1) és (2) bekezdés szerint felhasználni kívánt eredményét tartalmazó adathordozó, irat vagy annak kivonata a titkos információgyűjtést folytató szervhez megérkezett.
+(2a) Az (1) bekezdéstől eltérően az általános rendőrségi feladatok ellátására létrehozott szerv legkésőbb a felhasználni kívánt – a jogszabályban meghatározott feladat- és hatáskörében a nemzetbiztonsági szolgálatokról szóló törvény hatálya alá tartozó körben megszerzett – adat megszerzését követő egy éven belül megindíthatja a büntetőeljárást vagy kezdeményezheti a büntetőeljárás megindítását, ha
+
+- a) a büntetőeljárás korábbi kezdeményezésével vagy saját hatáskörben történő megindításával a törvényben meghatározott feladatának az eredményességét veszélyeztetné, és
+- b) a büntetőeljárásban felhasználni kívánt adat a nemzetbiztonsági szolgálatokról szóló törvény alkalmazására okot adó, a feladatkörébe tartozó bűncselekményre vonatkozik.
+
+(3) Ha a titkos információgyűjtést nem maga a titkos információgyűjtést végző szerv hajtotta végre, az (1) és (2), illetve (2a) bekezdésben meghatározott határidőt attól a naptól kell számítani, amikor a titkos információgyűjtésnek az (1) és (2), illetve (2a) bekezdés szerint felhasználni kívánt eredményét tartalmazó adathordozó, irat vagy annak kivonata a titkos információgyűjtést folytató szervhez megérkezett.
 
 (4) Ha az (1) bekezdés alapján kezdeményezik a büntetőeljárást, a nemzetbiztonsági szolgálatokról szóló törvény rendelkezései alapján végzett, külső engedélyhez kötött titkos információgyűjtés eredménye kizárólag az engedélyben megjelölt személy bűncselekményének bizonyítására használható fel. Ha az engedély nem jelölte meg az érintett személyt, akkor a külső engedélyhez kötött titkos információgyűjtés eredménye bármely személlyel szemben felhasználható.
 
@@ -3811,7 +3813,7 @@ kérhető.
 - c) a szolgáltatandó adatok körét és
 - d) az adatszolgáltatás teljesítésének módját és határidejét.
 
-262. § (1) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve kizárólag az ügyészség engedélyével kérhet adatszolgáltatást
+262. § (1) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve kizárólag az ügyészség engedélyével kérhet adatszolgáltatást
 
 - a)
 - b)
@@ -3824,7 +3826,7 @@ kérhető.
 
 (3) Ha az adatkérés engedélyezése olyan késedelemmel járna, amely az adatkéréssel elérni kívánt célt jelentősen veszélyeztetné, engedély nélkül is kérhető az adatszolgáltatás. Az adatszolgáltatás nem tagadható meg az ügyészi engedély hiánya miatt. Ilyen esetben az ügyészség engedélyét utólag haladéktalanul be kell szerezni. Ha az adatkérést az ügyészség nem engedélyezi, az így beszerzett adatok bizonyítékként nem használhatók fel és azokat haladéktalanul törölni kell.
 
-(4) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve az ügyészség engedélye nélkül kérhet adatszolgáltatást
+(4) A nyomozó hatóság és a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve az ügyészség engedélye nélkül kérhet adatszolgáltatást
 
 - a) az (1) bekezdés c) vagy e) pontjában meghatározott szolgáltatótól vagy szervezettől a velük szerződésben álló személy kilétére és a személyazonosító adataira vonatkozóan,
 - b) a központi bankszámla-nyilvántartást vezető nyilvántartó szervtől, a központi bankszámla-nyilvántartásban szereplő adatokra vonatkozóan, valamint
@@ -3878,7 +3880,7 @@ határidő állapítható meg.
 266. § (1) Meghatározott feltétel bekövetkezése esetére állami, helyi önkormányzati vagy nemzetiségi önkormányzati szervtől, költségvetési szervtől vagy köztestülettől adatszolgáltatást kérhet
 
 - a) az ügyészség, illetve
-- b) az ügyészség engedélyével a nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve.
+- b) az ügyészség engedélyével a nyomozó hatóság, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve.
 
 (2) A feltételes adatkérést legfeljebb három hónap időtartamra lehet kérni, amely alkalmanként legfeljebb három hónappal ismételten meghosszabbítható. A feltételes adatkérés legfeljebb egy évig tarthat.
 
@@ -3899,7 +3901,7 @@ határidő állapítható meg.
 
 ### Adatgyűjtés
 
-267. § (1) Az ügyészség, a nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve adatgyűjtést végezhet a bűncselekmény gyanújának megállapítása céljából, illetve annak tisztázása érdekében, hogy vannak-e bizonyítási eszközök, és ezek hol találhatók.
+267. § (1) Az ügyészség, a nyomozó hatóság, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve adatgyűjtést végezhet a bűncselekmény gyanújának megállapítása céljából, illetve annak tisztázása érdekében, hogy vannak-e bizonyítási eszközök, és ezek hol találhatók.
 
 (2) A vádemelés után az ügyészség a bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása, továbbá az elkobozható vagy a vagyonelkobzás alá eső dolog vagy vagyon felderítése és biztosítása érdekében adatgyűjtést végezhet, ehhez a nyomozó hatóságot és a nyomozó hatóság vagyonvisszaszerzésért felelős szervét is igénybe veheti.
 
@@ -3933,7 +3935,7 @@ határidő állapítható meg.
 
 (5) A körözés elrendelése, visszavonása vagy módosítása ellen nincs helye jogorvoslatnak.
 
-269. § (1) Az ügyészség, a nyomozó hatóság, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve
+269. § (1) Az ügyészség, a nyomozó hatóság, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve
 
 - a) törvényben meghatározottak szerint a bűnügyi és rendészeti biometrikus adatok nyilvántartásából adattovábbítást kérhet,
 - b) törvényben meghatározottak szerint az arcképelemzési nyilvántartás vezetéséért és az arcképelemző rendszer működtetéséért felelős szerv arcképelemző tevékenységét veheti igénybe, illetve
@@ -3941,7 +3943,7 @@ határidő állapítható meg.
 
 (2) A vádemelés után az ügyészség a bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása érdekében végezheti az (1) bekezdés a) és b) pontjában meghatározott egyéb adatszerző tevékenységet.
 
-270. § (1) Az ügyészség, a nyomozó hatóság, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve szaktanácsadó közreműködését veheti igénybe, ha a bizonyítási eszközök felderítéséhez, felkutatásához, megszerzéséhez, összegyűjtéséhez vagy rögzítéséhez különleges szakismeret szükséges. A vádemelés után az ügyészség a bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása érdekében vehet igénybe szaktanácsadót.
+270. § (1) Az ügyészség, a nyomozó hatóság, illetve a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve szaktanácsadó közreműködését veheti igénybe, ha a bizonyítási eszközök felderítéséhez, felkutatásához, megszerzéséhez, összegyűjtéséhez vagy rögzítéséhez különleges szakismeret szükséges. A vádemelés után az ügyészség a bizonyítási indítvány megtétele, bizonyítási eszköz felkutatása és biztosítása érdekében vehet igénybe szaktanácsadót.
 
 (1a) A bíróság a vádemelés után szaktanácsadó közreműködését veszi igénybe, ha az eljárási cselekményt a 87. § (1) bekezdés b) pont bb) alpontban meghatározott módon rendeli végrehajtani.
 
@@ -5187,7 +5189,7 @@ lehet végrehajtani.
 
 (2) Előkészítő eljárást a büntetőeljárás lefolytatására hatáskörrel rendelkező ügyészség vagy nyomozó hatóság folytathat.
 
-(3) A rendőrségről szóló törvény alapján a hatáskörébe tartozó cselekmény miatt a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve is folytathat előkészítő eljárást.
+(3) A rendőrségről szóló törvény alapján a hatáskörébe tartozó cselekmény miatt a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve is folytathat előkészítő eljárást.
 
 (4) Az előkészítő eljárást
 
@@ -5282,9 +5284,9 @@ kérhető.
 
 (2) Az előkészítő eljárást folytató szerv az előkészítő eljárást önállóan végzi.
 
-(3) A nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve az általa elrendelt előkészítő eljárás elrendelését követő három munkanapon belül tájékoztatja az ügyészséget az előkészítő eljárás szükségességét megalapozó adatokról, az alkalmazni kívánt leplezett eszközökről és a tervezett eljárási cselekményekről.
+(3) A nyomozó hatóság, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve az általa elrendelt előkészítő eljárás elrendelését követő három munkanapon belül tájékoztatja az ügyészséget az előkészítő eljárás szükségességét megalapozó adatokról, az alkalmazni kívánt leplezett eszközökről és a tervezett eljárási cselekményekről.
 
-(4) A nyomozó hatóság, a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, valamint a rendőrség terrorizmust elhárító szerve az előkészítő eljárás során beszerzett adatokról kéthavonta tájékoztatja az ügyészséget, illetve az ügyészség kérésére az előkészítő eljárás során keletkezett ügyiratokat bemutatja.
+(4) A nyomozó hatóság, valamint a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve az előkészítő eljárás során beszerzett adatokról kéthavonta tájékoztatja az ügyészséget, illetve az ügyészség kérésére az előkészítő eljárás során keletkezett ügyiratokat bemutatja.
 
 (5) Ha az előkészítő eljárás során beszerzett adatok alapján megállapítható a bűncselekmény gyanúja, a nyomozást el kell rendelni. A nyomozást az ügyészség is elrendelheti.
 
@@ -5311,7 +5313,7 @@ kérhető.
 (2) Az előkészítő eljárás felügyeletére
 
 - a) a nyomozó hatóság által folytatott előkészítő eljárás esetén a nyomozó hatóság eljáró szervének a székhelye szerinti ügyészség,
-- b) a rendőrség terrorizmust elhárító szerve által folytatott előkészítő eljárás esetén e szervnek vagy területi kirendeltségének a székhelye szerinti ügyészség,
+- b)
 - c) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve által folytatott előkészítő eljárás esetén e szervnek vagy területi kirendeltségének a székhelye szerinti ügyészség
 
 rendelkezik illetékességgel.
@@ -5319,9 +5321,7 @@ rendelkezik illetékességgel.
 (3) Ha az előkészítő eljárást az ügyészség folytatja,
 
 - a) az ügyészség bármely nyomozó hatóságot annak illetékességi területén eljárási cselekmény elvégzésére utasíthatja, illetve a nyomozó hatóság tagja a legfőbb ügyész kezdeményezésére a nyomozó hatóság országos parancsnoka egyetértésével az előkészítő eljárás során határozott időtartamra igénybe vehető,
-- b) felkérésére az eljárási cselekmény elvégzésében közreműködik
-  - ba) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, illetve
-  - bb) a rendőrségről szóló törvény szerint hatáskörébe tartozó bűncselekmény miatt folytatott eljárásban a rendőrség terrorizmust elhárító szerve.
+- b) felkérésére az eljárási cselekmény elvégzésében közreműködik a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve.
 
 ## TIZEDIK RÉSZ — A NYOMOZÁS
 
@@ -5351,9 +5351,7 @@ fejezi be.
 (2) Ha az ügyészség nyomoz,
 
 - a) az ügyészség bármely nyomozó hatóságot annak illetékességi területén eljárási cselekmény elvégzésére utasíthatja, illetve a nyomozó hatóság tagja a legfőbb ügyész kezdeményezésére a nyomozó hatóság országos parancsnokának egyetértésével a nyomozás során határozott időtartamra igénybe vehető,
-- b) felkérésére az eljárási cselekmény elvégzésében közreműködik
-  - ba) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve, illetve
-  - bb) a rendőrségről szóló törvény szerint hatáskörébe tartozó bűncselekmény miatt folytatott eljárásban a rendőrség terrorizmust elhárító szerve.
+- b) felkérésére az eljárási cselekmény elvégzésében közreműködik a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve.
 
 (3) Az ügyészségi nyomozás során az ügyészség és a nemzetbiztonsági szolgálatok együttműködését a legfőbb ügyész és a nemzetbiztonsági szolgálatok főigazgatói megállapodásban határozzák meg.
 
@@ -9934,7 +9932,7 @@ eléri, kivéve az ügydöntő határozat kihirdetése után elrendelt vagy fenn
 696. § (1) Katonai büntetőeljárásnak van helye
 
 - a) a honvéd által elkövetett bármely bűncselekmény,
-- b) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által a tényleges szolgálati viszonyának tartama alatt elkövetett katonai bűncselekmény, valamint a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett más bűncselekmény,
+- b) a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja által a tényleges szolgálati viszonyának tartama alatt elkövetett katonai bűncselekmény, valamint a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett más bűncselekmény,
 - c) törvénnyel kihirdetett nemzetközi szerződés eltérő rendelkezésének hiányában, a szövetséges fegyveres erő tagja által belföldön, valamint e személynek a Magyarország határain kívül tartózkodó magyar felségjelű úszólétesítményen vagy magyar felségjelű légi járművön elkövetett, magyar büntető joghatóság alá tartozó bűncselekménye
 
 esetén.
@@ -9997,7 +9995,7 @@ esetén.
   - aa) katonai bűntett miatt,
   - ab) katonai vétség miatt, ha azzal kapcsolatban más bűncselekményt is elkövetett, vagy ha több terhelt esetén az elkülönítés nem lehetséges,
   - ac) nem katonai bűncselekmény miatt,
-- b) a Honvéd Vezérkar főnöke és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és helyettesei, az országos rendőrfőkapitány és helyettesei, a Terrorelhárítási Központ főigazgatója és helyettesei, a Nemzeti Védelmi Szolgálat főigazgatója és helyettesei, az Országgyűlési Őrség parancsnoka és helyettesei, a büntetés-végrehajtás országos parancsnoka és helyettesei, az Országos Katasztrófavédelmi Főigazgatóság főigazgatója és helyettesei, a polgári nemzetbiztonsági szolgálatok főigazgatói és helyettesei, a más szervnél szolgálatot teljesítő katona – a 696. § (1) bekezdés b) pontjában felsorolt szerveken kívüli más szervek között vezényelt vagy átrendelt katona kivételével –, valamint a rendészeti felsőoktatási intézmény ösztöndíjas és kettős jogállású hallgatója által elkövetett katonai vétség miatt,
+- b) a Honvéd Vezérkar főnöke és helyettese, a Katonai Nemzetbiztonsági Szolgálat főigazgatója és helyettesei, az országos rendőrfőkapitány és helyettesei, a Nemzeti Védelmi Szolgálat főigazgatója és helyettesei, a büntetés-végrehajtás országos parancsnoka és helyettesei, az Országos Katasztrófavédelmi Főigazgatóság főigazgatója és helyettesei, a polgári nemzetbiztonsági szolgálatok főigazgatói és helyettesei, a más szervnél szolgálatot teljesítő katona – a 696. § (1) bekezdés b) pontjában felsorolt szerveken kívüli más szervek között vezényelt vagy átrendelt katona kivételével –, valamint a rendészeti felsőoktatási intézmény ösztöndíjas és kettős jogállású hallgatója által elkövetett katonai vétség miatt,
 - c) a szövetséges fegyveres erő tagja által belföldön, valamint az e személynek a Magyarország határain kívül tartózkodó magyar felségjelű úszólétesítményen vagy magyar felségjelű légi járművön elkövetett, magyar büntető joghatóság alá tartozó bűncselekménye miatt,
 - d) ha a parancsnok tekintetében kizáró ok áll fenn,
 - e) ha a katona szolgálati viszonya időközben megszűnt.
@@ -12034,7 +12032,7 @@ rendelhető el.
 
 828. § (1) Az egyesbíró akkor utalhatja a bíróság tanácsa elé az ügyet, ha az eljárás határzárral kapcsolatos bűncselekmény mellett más bűncselekmény miatt is folyik.
 
-(2) A járásbíróság hatáskörébe tartozó ügyben a törvényszék székhelyén lévő járásbíróság, vagy a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a vármegye, illetve a főváros területére kiterjedő illetékességgel.
+(2) A járásbíróság hatáskörébe tartozó ügyben a törvényszék székhelyén lévő járásbíróság, vagy a Fővárosi Törvényszék területén a Pesti Központi Kerületi Bíróság jár el a megye, illetve a főváros területére kiterjedő illetékességgel.
 
 (3) Ha a terhelt különböző járásbíróságok illetékessége alá tartozó bűncselekményeket követett el, az a bíróság jár el, amely valamelyik bűncselekmény elbírálására az (2) bekezdés szerint illetékes.
 
@@ -12604,12 +12602,12 @@ rendeletben megállapítsa.
 
 rendeletben megállapítsa.
 
-(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő honvédek tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, illetve az Országgyűlési Őrség tekintetében a rendészetért felelős miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok tekintetében
+(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy a honvédelmi szervezetek, valamint a honvédelmi miniszter fenntartói irányítása alá tartozó, honvédelmi szervezetnek nem minősülő szakképző intézményeknél szolgálatot teljesítő honvédek tekintetében, továbbá a rendvédelmi feladatokat ellátó szervet irányító miniszter, hogy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a polgári nemzetbiztonsági szolgálatok tekintetében
 
 - a) a parancsnoki nyomozásra jogosult jogosultakat, hatáskörüket és a parancsnoki nyomozás szabályait, illetve
 - b) a katonával szemben elrendelt bűnügyi felügyelet ellenőrzésének szabályait
 
-az igazságügyért felelős miniszterrel egyetértésben, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke véleményének kikérésével, rendeletben megállapítsa.
+az igazságügyért felelős miniszterrel egyetértésben rendeletben megállapítsa.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-függőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszterrel, a rendészetért felelős miniszterrel és az igazságügyért felelős miniszterrel egyetértésben rendeletben meghatározza.
 

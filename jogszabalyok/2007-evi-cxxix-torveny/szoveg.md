@@ -855,7 +855,7 @@ szóló határozatban kell rendelkezni.
 
 ### A földvédelmi járulékra és földvédelmi bírságra vonatkozó közös szabályok
 
-26. § (1) A járulékot és a bírságot a termőföld fekvése szerint illetékes fővárosi és vármegyei kormányhivatal e célra létrehozott központosított beszedési számlájára kell befizetni.
+26. § (1) A járulékot és a bírságot a termőföld fekvése szerint illetékes fővárosi és megyei kormányhivatal e célra létrehozott központosított beszedési számlájára kell befizetni.
 
 (2) A járulék a központi költségvetést illeti meg.
 
@@ -1449,10 +1449,10 @@ részletes szabályait.
 (3) Felhatalmazást kap a földügyért felelős miniszter, hogy
 
 - a) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben, valamint
-- b) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, vármegyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
+- b) a talajvédelmi hatósági eljárás igazgatási szolgáltatási díjának befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel és a fővárosi, megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
 - c) a gyümölcs termőhelyi kataszteri eljárás igazgatási szolgáltatási díjainak mértékét az adópolitikáért felelős miniszterrel egyetértésben,
-- d) a földvédelmi eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és vármegyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben,
-- e) a földminősítési eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és vármegyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
+- d) a földvédelmi eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben,
+- e) a földminősítési eljárás díjának mértékét, a befizetésére, kezelésére, nyilvántartására és felhasználására vonatkozó szabályokat az adópolitikáért felelős miniszterrel, valamint a fővárosi és megyei kormányhivatal irányítására kijelölt miniszterrel egyetértésben
 
 kiadott rendeletben határozza meg.
 

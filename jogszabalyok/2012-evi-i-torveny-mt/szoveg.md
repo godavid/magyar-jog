@@ -830,7 +830,7 @@ munkaviszonyát kívánja – figyelemmel a (3) bekezdésben foglaltakra – har
 
 (2) Ha a munkáltató fél évnél rövidebb ideje alakult, az (1) bekezdésben meghatározott munkavállalók átlagos statisztikai létszámát az adott időszakra vonatkozóan kell megállapítani.
 
-(3) Ha a munkáltatónak több telephelye van, az (1) bekezdésben foglalt feltételek fennállását telephelyenként kell megállapítani azzal, hogy az azonos vármegyében (fővárosban) található telephelyek esetében a munkavállalók létszámát össze kell számítani. A munkavállalót azon a telephelyen kell számításba venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát.
+(3) Ha a munkáltatónak több telephelye van, az (1) bekezdésben foglalt feltételek fennállását telephelyenként kell megállapítani azzal, hogy az azonos megyében (fővárosban) található telephelyek esetében a munkavállalók létszámát össze kell számítani. A munkavállalót azon a telephelyen kell számításba venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát.
 
 (4) A tengeri hajó személyzetének tagjait érintő csoportos létszámcsökkentés esetén, a munkáltató előzetesen értesíti annak az államnak az illetékes hatóságát, amelynek lobogója alatt a hajó közlekedik.
 

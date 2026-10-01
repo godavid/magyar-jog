@@ -11,13 +11,17 @@ egyes ingatlanok fővárosi önkormányzat részére történő átadásáról, 
 
 2013. július 1. napjával – az egységes városkép kialakítása és a közlekedés fejlesztése érdekében – e törvény erejénél fogva, vagyonkezelési szerződés kötése nélkül ingyenesen 99 évre a fővárosi önkormányzat vagyonkezelésébe kerülnek.
 
-(2) Az (1) bekezdésben meghatározott ingatlanokra vonatkozó vagyonkezelői jogot a fővárosi önkormányzat kérelme alapján az ingatlan-nyilvántartásba be kell jegyezni. A bejegyzést a fővárosi önkormányzat kezdeményezi, az ingatlan-nyilvántartási eljárás díjmentes. Az érintett ingatlanok helyrajzi számait az 1. melléklet tartalmazza.
+(1a) A Budapest XXII. kerület belterület 232045/3, 232045/5, 232045/6, 224969/1, 224969/2 és 224969/3 helyrajzi számú ingatlan – az (1) bekezdés szerinti közfeladatok ellátása érdekében – e törvény erejénél fogva 2026. október 1. napjával ingyenesen Budapest Főváros Önkormányzata vagyonkezelésébe kerül.
+
+(1b) Budapest Főváros Önkormányzatát e rendelkezés hatálybalépésétől a vagyonkezelői joga keletkezéséig az (1a) bekezdés szerinti ingatlanok tekintetében ingyenes használati jog illeti meg, továbbá a felmerült költségek tekintetében a tulajdonos, illetve a tulajdonosi joggyakorló felé megtérítési kötelezettség nem terheli.
+
+(2) Az (1) és (1a) bekezdésben meghatározott ingatlanokra vonatkozó vagyonkezelői jogot a fővárosi önkormányzat kérelme alapján az ingatlan-nyilvántartásba be kell jegyezni. A bejegyzést a fővárosi önkormányzat kezdeményezi, az ingatlan-nyilvántartási eljárás díjmentes. Az érintett ingatlanok helyrajzi számait az 1. melléklet tartalmazza.
 
 1/A. § Budapest Főváros Önkormányzatának az állam tulajdonában álló, Budapest, 76500 helyrajzi számú ingatlan 116091/133627 tulajdoni hányadán (a továbbiakban: ingatlanrész) fennálló vagyonkezelői joga e törvény erejénél fogva, az egyes törvényeknek a katasztrófák elleni védekezés hatékonyságának növelésével összefüggő módosításáról szóló 2013. évi CXCII. törvény hatálybalépésével megszűnik.
 
 1/B. § Az ingatlanrész e törvény erejénél fogva, az egyes törvényeknek a katasztrófák elleni védekezés hatékonyságának növelésével összefüggő módosításáról szóló 2013. évi CXCII. törvény hatálybalépésével, vagyonkezelési szerződés kötése nélkül, ingyenesen a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésébe kerül.
 
-1/C. § Budapest Főváros Önkormányzatának a Budapest 232045/3, 232045/5, 232045/6, 224969/1, 224969/2 és 224969/3 helyrajzi számú ingatlan fennálló vagyonkezelői joga e törvény erejénél fogva 2026. július 1-jével megszűnik.
+#### 1/C. §
 
 #### 2. A közúti közlekedésről szóló 1988. évi I. törvény módosítása
 
@@ -87,8 +91,8 @@ alapján sarkalatosnak minősül.
 | 11. | 19303/2 | Magyar Állam |
 | 12. | 4082/33 | Magyar Állam |
 | 13. | 43578 | Magyar Állam |
-| 14. |  |  |
-| 15. |  |  |
+| 14. | 232045/5 | Magyar Állam |
+| 15. | 232045/6 | Magyar Állam |
 | 16. | 14387/1 | I. kerületi Önkormányzat |
 | 17. | 6229/1 | I. kerületi Önkormányzat |
 | 18. | 14617/16 | II. kerületi Önkormányzat |
@@ -155,8 +159,11 @@ alapján sarkalatosnak minősül.
 | 79. | 232319/2 | XXII. kerületi Önkormányzat |
 | 80. | 232320 | XXII. kerületi Önkormányzat |
 | 81. | 224961 | XXII. kerületi Önkormányzat |
-| 82. |  |  |
+| 82. | 232045/3 | Magyar Állam |
 | 83. | 232322 | XXII. kerületi Önkormányzat |
 | 84. |  |  |
 | 85. | 232324 | XXII. kerületi Önkormányzat |
 | 86. | 232327 | XXII. kerületi Önkormányzat |
+| 87. | 224969/1 | XXII. kerületi Önkormányzat |
+| 88. | 224969/2 | XXII. kerületi Önkormányzat |
+| 89. | 224969/3 | XXII. kerületi Önkormányzat |

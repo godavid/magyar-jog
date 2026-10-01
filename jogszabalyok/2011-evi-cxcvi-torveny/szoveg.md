@@ -2339,7 +2339,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 1.56. | Nagytétény, Csókássy Pál u. 11–15. |  | Rudnyánszky-kastély együttese |
 | 1.57. | Szigetköz, Szent Flórián tér (Zsák u. és MÁV vasútvonal között) |  | római tábor romjai |
 
-2. BARANYA VÁRMEGYE
+2. BARANYA MEGYE
 
 | 2.1. | KÁSÁD Rákóczi út 28. | horvát tájház |
 | --- | --- | --- |
@@ -2355,12 +2355,12 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 2.11. | SZÁSZVÁR Templom tér 2. | vár |
 | 2.12. | SZIGETVÁR | vár |
 
-3. BÁCS-KISKUN VÁRMEGYE
+3. BÁCS-KISKUN MEGYE
 
 | 3.1. | LAJOSMIZSE, Alsóbene 225. | tanyamúzeum |
 | --- | --- | --- |
 
-4. BÉKÉS VÁRMEGYE
+4. BÉKÉS MEGYE
 
 | 4.1. |  |  |
 | --- | --- | --- |
@@ -2374,7 +2374,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 4.6. |  |  |
 | 4.7. |  |  |
 
-5. BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE
+5. BORSOD-ABAÚJ-ZEMPLÉN MEGYE
 
 | 5.1. | BOLDOGKŐVÁRALJA | várrom |
 | --- | --- | --- |
@@ -2400,7 +2400,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 5.21. | SZÖGLIGET Várhegy | Szádvár romjai |
 | 5.22. | TARD Béke u. 55. és 57. | tájház |
 
-6. CSONGRÁD-CSANÁD VÁRMEGYE
+6. CSONGRÁD-CSANÁD MEGYE
 
 | 6.1. | DEREKEGYHÁZ Köztársaság tér | Károlyi-kastély együttese |
 | --- | --- | --- |
@@ -2408,7 +2408,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 6.3. | NAGYMÁGOCS Szentesi út 2. | Károlyi-kastély együttese |
 | 6.4. | SZEGVÁR Kossuth tér 1. | Károlyi-kastély |
 
-7. FEJÉR VÁRMEGYE
+7. FEJÉR MEGYE
 
 | 7.1. | ALCSÚTDOBOZ Alcsút | Habsburg-kastély maradványai és a kastélypark |
 | --- | --- | --- |
@@ -2426,7 +2426,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 7.13. | TÁC Fövenypuszta | Gorsium |
 | 7.14. |  |  |
 
-8. GYŐR-MOSON-SOPRON VÁRMEGYE
+8. GYŐR-MOSON-SOPRON MEGYE
 
 | 8.1. | DÉNESFA Fő u. 19. | Cziráky-kastély együttese |
 | --- | --- | --- |
@@ -2442,7 +2442,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | Bartók Béla u. | híd |
 |  | kastélypark |
 | 8.3. |  |  |
-| 8.4. | GYŐR Liszt Ferenc u. 13. | vármegyeháza |
+| 8.4. | GYŐR Liszt Ferenc u. 13. | megyeháza |
 | 8.5. | GYŐR Széchenyi tér 5. | Apátúr-ház |
 | 8.6. |  |  |
 | 8.7. |  |  |
@@ -2463,7 +2463,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 8.16. |  |  |
 | 8.17. | SZANY Kossuth u. 2–6. | püspöki kastély együttese |
 
-9. HAJDÚ-BIHAR VÁRMEGYE
+9. HAJDÚ-BIHAR MEGYE
 
 | 9.1. | DEBRECEN Déri tér 1. | Déri Múzeum |
 | --- | --- | --- |
@@ -2475,7 +2475,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 9.7. | HORTOBÁGY Petőfi tér | egykori szekérállás |
 | 9.8. |  |  |
 
-10. HEVES VÁRMEGYE
+10. HEVES MEGYE
 
 | 10.1. | EGER Dózsa György tér 3. | Validé Szultana törökfürdő romjai |
 | --- | --- | --- |
@@ -2487,7 +2487,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 10.7. | PARÁD Sziget u. 8. | falumúzeum |
 | 10.8. | SIROK | várrom |
 
-11. KOMÁROM-ESZTERGOM VÁRMEGYE
+11. KOMÁROM-ESZTERGOM MEGYE
 
 | 11.1. |  |  |
 | --- | --- | --- |
@@ -2519,9 +2519,9 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 11.11. | TATA Váralja u. 1–3. | a vár együttese |
 | 11.12. | VÁRGESZTES Várhegy | várrom |
 
-12. NÓGRÁD VÁRMEGYE
+12. NÓGRÁD MEGYE
 
-| 12.1. | BALASSAGYARMAT Madách u. 2. | vármegyei börtön |
+| 12.1. | BALASSAGYARMAT Madách u. 2. | megyei börtön |
 | --- | --- | --- |
 | 12.2. | DRÉGELYPALÁNK | várrom |
 | 12.3. | HOLLÓKŐ Kossuth u. 82. | Palóc Múzeum |
@@ -2533,7 +2533,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 12.8. | SZÉCSÉNY Ady E. u. 7. | Forgách-kastély együttese |
 | 12.9. |  |  |
 
-13. PEST VÁRMEGYE
+13. PEST MEGYE
 
 | 13.1. |  |  |
 | --- | --- | --- |
@@ -2561,7 +2561,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 13.23. | VISEGRÁD Sibrik-domb | esperesi templom romjai |
 | 13.24. | ZSÁMBÉK Régi templom u. | premontrei prépostság romjai |
 
-14. SOMOGY VÁRMEGYE
+14. SOMOGY MEGYE
 
 | 14.1. | BALATONSZENTGYÖRGY Csillagvár u. 68. | tájház |
 | --- | --- | --- |
@@ -2574,7 +2574,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 14.8. | ZAMÁRDI Szántódpuszta | majorsági épületegyüttes |
 | 14.9. | ZAMÁRDI Fő u. 83. | tájház |
 
-15. SZABOLCS-SZATMÁR-BEREG VÁRMEGYE
+15. SZABOLCS-SZATMÁR-BEREG MEGYE
 
 | 15.1. | KISVÁRDA Vár u. 33/C | várrom |
 | --- | --- | --- |
@@ -2586,7 +2586,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 15.7. | TÚRISTVÁNDI Zrínyi M. u. | vízimalom |
 | 15.8. |  |  |
 
-16. TOLNA VÁRMEGYE
+16. TOLNA MEGYE
 
 | 16.1. | LENGYEL | Apponyi-kastély együttese |
 | --- | --- | --- |
@@ -2595,7 +2595,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 16.4. | SIMONTORNYA Vár tér 10. | vár |
 | 16.5. |  |  |
 
-17. VAS VÁRMEGYE
+17. VAS MEGYE
 
 | 17.1. |  |  |
 | --- | --- | --- |
@@ -2612,7 +2612,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 17.12. |  |  |
 | 17.13. |  |  |
 
-18. VESZPRÉM VÁRMEGYE
+18. VESZPRÉM MEGYE
 
 | 18.1. | ALSÓÖRS Petőfi köz 7. | gótikus ház, ún. török adószedőház |
 | --- | --- | --- |
@@ -2650,7 +2650,7 @@ III. Nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak min�
 | 18.33. | VESZPRÉM Gyulafirátót Kolostor u. | premontrei templom- és kolostorrom |
 | 18.34. | VESZPRÉMFAJSZ | középkori templomrom |
 
-19. ZALA VÁRMEGYE
+19. ZALA MEGYE
 
 | 19.1. |  |  |
 | --- | --- | --- |

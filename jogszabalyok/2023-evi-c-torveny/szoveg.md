@@ -283,7 +283,7 @@ E törvény alkalmazásában:
 - 21. építési beruházás: építmény, építményrész, épületegyüttes, tájépítészeti alkotás, zöldinfrastruktúra beruházás építési tevékenység útján történő megvalósításával, felújításával, átalakításával, bővítésével, helyreállításával, újjáépítésével, korszerűsítésével, karbantartásával, lebontásával vagy a kapcsolódó építésgazdasági tevékenységgel összefüggésben végzett jogi, gazdasági, műszaki, építészeti és építésüggyel összefüggő tevékenységek összessége;
 - 22. építési munkaterület: az építőipari kivitelezési tevékenység végzésének az építtető által a fővállalkozó kivitelezőnek, alvállalkozói szerződés esetén a megrendelő vállalkozó kivitelező által az alvállalkozónak átadott helye; ennek minősül a munkaszervezéssel összefüggő felvonulási, előkészítési, valamint a tevékenység végzéséhez szükséges építési anyagok, gépek, szerkezetek, szerelvények és felvonulási építmények elhelyezésére és az előkészítő technológiai munkafolyamatok elvégzésére szolgáló terület is;
 - 23. építési napló: az építőipari kivitelezési tevékenység megkezdésétől annak befejezéséig vezetett, hatósági és bírósági eljárásban felhasználható, a szerződés tárgya szerinti építőipari kivitelezési tevékenység teljes folyamatát lekövető, jogszabályban meghatározott tartalmú és formájú igazoló dokumentum;
-- 24. építési reklámháló: építmény, építményrész, épületegyüttes megépítése, átalakítása, bővítése, felújítása, helyreállítása, korszerűsítése, karbantartása, javítása, lebontása, elmozdítása érdekében végzett építési-szerelési vagy bontási munka során az e munka folyamatait legalább részben elfedő reklámhordozó;
+- 24.
 - 25. építési szakmunka: jogszabályban meghatározott szakirányú képesítéssel végezhető építési tevékenység;
 - 26. építési-szerelési munka: az építési tevékenység végzésére irányuló építési szakmunka;
 - 27. építési telek: az a telek amely,
@@ -361,7 +361,7 @@ E törvény alkalmazásában:
 - 92. műszaki egyenértékűség: építmény, tájépítészeti alkotás, vagy szolgáltatás olyan meghatározó és előírt műszaki paramétere, amely mérhető, és amelynek előírt mérőszámát több építmény, tájépítészeti alkotás vagy szolgáltatás is teljesítheti vagy az eredeti megoldás funkcionális használhatóságát a tervvel azonos módon biztosítja;
 - 93. műszaki megvalósítás rendszere: építmények, tájépítészeti alkotások műszaki megvalósítását támogató, közös, felhő alapú adatkörnyezet és egységes adatmodell, amely lehetővé teszi az állami építési beruházás adatainak és az építészeti-műszaki dokumentációnak ellenőrzött és szabályozott módon történő elérését és véleményezését;
 - 94. műtárgy: mindazon építmény, ami nem minősül épületnek és épület funkciót jellemzően nem tartalmaz, ideértve különösen az utat, hidat, tornyot, a távközlés műszaki létesítményeit, a villamos energia, gáz-, folyadék-, ömlesztett anyag továbbítására és tárolására szolgáló és nyomvonalas műszaki alkotásokat, valamint a kültéri szobrokat és a kültéri installációkat;
-- 95. nemzetbiztonsági célú, illetve rendeltetésű építmény: a nemzetbiztonsági szolgálatok tevékenységének, a terrorizmust elhárító szerv feladatainak ellátása céljából létesített vagy használt építmény, az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében és 15/A. §-ában meghatározott, valamint a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló építmények, a büntetés-végrehajtási intézetek építményei;
+- 95. nemzetbiztonsági célú, illetve rendeltetésű építmény: a nemzetbiztonsági szolgálatok tevékenységének ellátása céljából létesített vagy használt építmény, az államhatárról szóló 2007. évi LXXXIX. törvény 5. § (1) bekezdésében és 15/A. §-ában meghatározott, valamint a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló építmények, a büntetés-végrehajtási intézetek építményei;
 - 96. nemzeti emlék: hazánk építészeti örökségének országosan kiemelkedő jelentőségű építménye, táj- és kertépítészeti alkotása, helyszíne, amelyet a kulturális örökség védelméért felelős miniszter nemzeti emlékké minősít és műemlékké nyilvánít;
 - 97. nemzeti emlékhely: a nemzet történelmében meghatározó jelentőséggel bíró helyszín, amely a magyar nemzet, illetve a magyar és az ország területén élő nemzetiségek összetartozását erősítő és identitásképző jellegénél fogva a nemzet önképében kiemelkedő fontossággal bír, továbbá amely országos jelentőségű állami megemlékezés színhelye lehet, és amelyet az Országgyűlés törvénnyel nemzeti emlékhellyé nyilvánít;
 - 98. nemzeti tervvagyon: az építészeti alkotásoknak az állam és az önkormányzat tulajdonába tartozó építészeti-műszaki dokumentációi – a honvédelmi, katonai, valamint nemzetbiztonsági célú és rendeltetésű építményeket érintő építészeti-műszaki dokumentációk kivételével – valamint az azok vonatkozásában az államot és az önkormányzatot
@@ -383,7 +383,7 @@ E törvény alkalmazásában:
 - 105. plakát: a Grt. 3. § d) pontja szerinti gazdasági reklámnak, valamint a választási eljárásról szóló 2013. évi XXXVI. törvény (a továbbiakban: Vetv.) szerinti kampányeszköznek nem minősülő falragasz vagy felirat, mérettől és hordozóanyagtól függetlenül;
 - 106. regionális építési termék: olyan építési termék, amelyet több mint 50%-ban magyar építési alapanyagból állítanak elő, vagy több mint 50%-ban magyar tulajdonban álló gazdasági társaság Magyarországgal szomszédos országban állít elő;
 - 107. reklámeszköz: a reklámhordozó és a reklámhordozót tartó berendezés együttes megnevezése;
-- 108. reklámháló: rögzítésre alkalmas eszköz segítségével, az épület külső felületén kifeszített, reklám közzétételére alkalmas felület;
+- 108.
 - 109. reklámhordozó: a funkcióját vagy létesítésének célját tekintve túlnyomórészt reklám közzétételét vagy elhelyezését biztosító, elősegítő vagy támogató eszköz, berendezés, létesítmény, ideértve a reklám megvilágítását szolgáló berendezést és annak valamennyi tartozékát, és ide nem értve
   - a) a közúti közlekedési tárgyú jogszabályokban meghatározott életmentő funkciót ellátó reklámcélú eszközt,
   - b) a közvilágítási-, villany- és telefonoszlopon elhelyezett tájékozódást segítő jelzést megjelenítő reklámcélú eszközt, valamint
@@ -395,8 +395,8 @@ E törvény alkalmazásában:
   - a) azonnali rozsdaövezeti akcióterület: olyan rozsdaövezeti akcióterület, amelyen a megvalósítani kívánt építési beruházások megindításához szükséges előkészítő munkák elvégzése nem szükséges, illetve azok folyamatban vannak vagy rövid időn belül elvégezhetőek, és amely tekintetében engedélyezett vagy előkészítés alatt álló építési beruházás megvalósítását tervezik a tulajdonosok, építtetők, és a kapcsolódó kedvezmények bevezetése gyors építkezéskezdést eredményezhet;
   - b) közép- és hosszú távú rozsdaövezeti akcióterület: olyan rozsdaövezeti akcióterület, amely tekintetében összetett előkészítő munkák, adott esetben környezeti kármentesítés, bontás, közműrendezés és infrastruktúra-fejlesztés, tulajdonrendezés, telekalakítás és településrendezési feladatok elvégzése szükséges, és amely fejlesztési célú területként való rendelkezésre állása kormányzati koordinációt, jelentős anyagi ráfordítást és többéves előkészítő időszakot igényel;
 - 114. sajátos építményfajták: többnyire épületnek nem minősülő, közlekedési, hírközlési, energiaellátási, bányászati tevékenységgel és a bányászati és egyéb hulladék kezelésével kapcsolatos, a nem bányászati hulladék kezelési rendeltetésű építmény, atomenergia alkalmazására szolgáló, a honvédelmi és katonai, továbbá a nemzetbiztonsági célú, illetve rendeltetésű, sajátos technológiájú építmények, valamint a vízilétesítmények, amelyek létesítésekor – az építményekre, építési tevékenységekre vonatkozó általános érvényű településrendezési és építési követelményrendszeren túlmenően – eltérő, vagy sajátos, csak arra a rendeltetésű építményre jellemző, kiegészítő követelmények megállapítására és kielégítésére van szükség;
-- 114a. stratégiai jelentőségű építési anyag: az építésgazdaságért felelős miniszter rendeletében megjelölt jelentős építési alapanyagok és építési termékek összessége, amelyek a hazai építésgazdaság ellátásbiztonsága érdekében nélkülözhetetlenek;
-- 114b. stratégiai jelentőségű építési anyagot gyártó üzem: építmény vagy terület vagy ezek összessége, ahol ipari méretekben állítanak elő stratégiai jelentőségű építési anyagokat, különböző gyártási folyamatok és gyártási technológia segítségével, és amely a gyártási tevékenységhez a jogszabályban meghatározott jogi és műszaki feltételek alapján engedéllyel rendelkezik vagy ezen feltételek szerint a gyártási tevékenységre alkalmassá tehető;
+- 114a.
+- 114b.
 - 115. tájépítészet: olyan alkalmazott tudományos és művészeti szakterület, amely a táj, az épített és természeti környezet együttes alakításával, tájépítészeti alkotások és a települési zöldinfrastruktúra létrehozásával, megőrzésével, fejlesztésével foglalkozik;
 - 116. tájépítészeti alkotás: az épített környezet részét képező – tájépítészeti eszközökkel alakított – tervezett szabadtér, amely önálló építményeket foglal magában, vagy azokhoz kapcsolódik, és egyben természeti elemeket is tartalmaz;
 - 117. telek: egy helyrajzi számon nyilvántartásba vett földterület;
@@ -407,7 +407,8 @@ E törvény alkalmazásában:
 - 122. telektömb: valamennyi oldalról közterület, közlekedési terület, közforgalom elől el nem zárt magánút, egyéb beépítésre nem szánt terület, közigazgatási határvonal, kivételesen belterületi határvonal által határolt telek, telekcsoport, tömbtelek, méretbeli és számbeli korlátozás nélkül;
 - 123. települési zöldinfrastruktúra: jellemzően zöldfelülettel borított vagy – kékinfrastruktúrának minősülő – vízfelülettel borított területek széles körű ökoszisztéma-szolgáltatásokat nyújtó, stratégiailag tervezett hálózata, amely a településtervben kerül meghatározásra, és az életminőség javítását, az egészség-, a klíma-, a településkép-, a környezet-, a természet- és a tájvédelem biztosítását szolgálja, amely része az országos zöldinfrastruktúra hálózatának;
 - 124. településterv: a településfejlesztési terv és a településrendezési terv együttes megnevezése;
-- 125. teljesítménynyilatkozat: az építési termék gyártója által kiállított olyan dokumentum, amely az építési termék teljesítményét a termékre vonatkozó műszaki előírásnak megfelelően, hitelesen igazolja, amellyel a gyártó felelősséget vállal azért, hogy az építési termék megfelel a nyilatkozatban rögzített teljesítménynek;
+- 125. teljesítménynyilatkozat: az építési termék gyártója által kiállított olyan dokumentum, amely az építési termék teljesítményét a 305/2011/EU európai parlamenti és tanácsi rendelet alapján a termékre vonatkozó műszaki előírásnak megfelelő tartalmú magyar nemzeti termékszabványnak vagy nemzeti műszaki értékelésnek megfelelően, hitelesen igazolja;
+- 125a. teljesítmény- és megfelelőségi nyilatkozat: előírt termékkövetelmény esetén az építési termék gyártója által kiállított olyan dokumentum, amely az alapvető jellemzők vonatkozásában az építési termék teljesítményét és a termékkövetelményeknek való megfelelést együttesen a termékre vonatkozó műszaki előírásnak megfelelően, hitelesen igazolja, és amelynek kiállításával a gyártó deklarálja a terméke igazolt teljesítményét, és vállalja a felelősséget azért, hogy az adott termék megfelel a nyilatkozatban rögzített teljesítménynek;
 - 126. terméktípus: a 305/2011/EU európai parlamenti és tanácsi rendelet 2. cikk 9. pontja szerinti építési termék;
 - 127. toronyház: olyan épület, amelynek a terepcsatlakozásához, lejtős terepen a lejtőoldali legalacsonyabb terepcsatlakozásához mért legmagasabb pontja – beleértve minden építményrészt, a kupolát, saroktornyot, tetőfelépítményt, az épület tetőzetén elhelyezett antennát, kéményt, szellőzőt, egyéb tartozékot és műszaki berendezést – a 90 métert meghaladja;
 - 128. tömbtelek: az 1998. január 1-je előtti előírások alapján kialakított, több épülettel beépített építési telek;
@@ -548,7 +549,7 @@ Ha kiemelt közérdekből szükséges, törvény a települési önkormányzatot
 
 (1) Az e törvényben meghatározott szakmai kamarák a köz érdekében biztosítják és felügyelik az engedélyhez és tagsághoz kötött mérnöki és építészeti tevékenységhez kötődő szakmai feltételek meglétét.
 
-(2) A vármegyékben és a fővárosban az e törvényben szabályozott kamarai tagsági feltételeknek megfelelő természetes személyek által létrehozott területi mérnöki és építész kamarák (a továbbiakban együtt: területi kamara) működnek, amelyek nyilvántartott tagsággal, önkormányzattal, területi feladat- és hatáskörrel rendelkező köztestületek és közhasznú szervezetnek minősíthetők. A területi kamara több vármegyére kiterjedően is létrehozható.
+(2) A megyékben és a fővárosban az e törvényben szabályozott kamarai tagsági feltételeknek megfelelő természetes személyek által létrehozott területi mérnöki és építész kamarák (a továbbiakban együtt: területi kamara) működnek, amelyek nyilvántartott tagsággal, önkormányzattal, területi feladat- és hatáskörrel rendelkező köztestületek és közhasznú szervezetnek minősíthetők. A területi kamara több megyére kiterjedően is létrehozható.
 
 (3) A területi kamarák az e törvényben szabályozott módon hozzák létre a Magyar Mérnöki Kamarát, mint országos mérnöki kamarát, valamint a Magyar Építész Kamarát, mint országos építész kamarát (a továbbiakban együtt: országos kamarák). Az országos kamarák országos feladat- és hatáskörrel rendelkező köztestületek, amelyek közhasznú szervezetnek minősíthetőek.
 
@@ -720,7 +721,7 @@ rendelkezik.
 
 (5) A területi kamarák egyesülése esetén az új területi kamara illetékességi területe az egyesülő területi kamarákéhoz igazodik. Az egyesüléssel létrejövő területi kamara az egyesült területi kamarák általános jogutódja.
 
-(6) A területi kamara szétválásával vármegyénként, valamint a fővárosban működő területi kamarák hozhatók létre. A szétválásról hozott döntésben rendelkezni kell a vagyon megosztásáról. A területi kamara jogai és kötelezettségei a vagyonmegosztás arányában a szétválás során létrejött területi kamarákra, mint jogutódokra szállnak át.
+(6) A területi kamara szétválásával megyénként, valamint a fővárosban működő területi kamarák hozhatók létre. A szétválásról hozott döntésben rendelkezni kell a vagyon megosztásáról. A területi kamara jogai és kötelezettségei a vagyonmegosztás arányában a szétválás során létrejött területi kamarákra, mint jogutódokra szállnak át.
 
 (7) A területi kamarák egyesülése vagy szétválása nem érinti tagjaik jogait és kötelességeit.
 
@@ -1247,7 +1248,7 @@ folytatja le.
 
 #### 53. § [A főépítészi szervezet célja]
 
-(1) Az országos főépítész, a Balatoni főépítész, a fővárosi és vármegyei kormányhivatalban működő állami főépítész, valamint az önkormányzati főépítész (a továbbiakban együtt: főépítészek) együttesen alkotja a főépítészi szervezetrendszert, amely – a hatósági hatáskörgyakorlástól függetlenül – elősegíti a területrendezési követelmények érvényesítését, egyúttal településfejlesztési, településrendezési, településkép-védelmi, műemlékvédelmi és az építészeti tervtanácson keresztül építészeti feladatokat lát el.
+(1) Az országos főépítész, a Balatoni főépítész, a fővárosi és megyei kormányhivatalban működő állami főépítész, valamint az önkormányzati főépítész (a továbbiakban együtt: főépítészek) együttesen alkotja a főépítészi szervezetrendszert, amely – a hatósági hatáskörgyakorlástól függetlenül – elősegíti a területrendezési követelmények érvényesítését, egyúttal településfejlesztési, településrendezési, településkép-védelmi, műemlékvédelmi és az építészeti tervtanácson keresztül építészeti feladatokat lát el.
 
 (2) A főépítészek tevékenysége az (1) bekezdés szerinti célkitűzések teljesülését egyszemélyi felelősként és a tervtanács elnökeként egyaránt szolgálja.
 
@@ -1289,7 +1290,7 @@ folytatja le.
 
 #### 55. § [Az állami főépítész jogállása és feladatai]
 
-(1) Az állami főépítész a fővárosi és vármegyei kormányhivatalban kormányzati szolgálati jogviszonyban álló, kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkező kormánytisztviselő, akinek munkáját hivatali szervezet segíti.
+(1) Az állami főépítész a fővárosi és megyei kormányhivatalban kormányzati szolgálati jogviszonyban álló, kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkező kormánytisztviselő, akinek munkáját hivatali szervezet segíti.
 
 (2) Az állami főépítész
 
@@ -1340,7 +1341,7 @@ folytatja le.
 
 (1) Az országos főmérnök az ágazati miniszter által irányított minisztériumban szakmai vezető, aki kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkezik, és munkáját hivatali szervezet segíti.
 
-(2) A térségi főmérnök a vármegyében működik, a vármegyei önkormányzatnál köztisztviselő, aki kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkezik, és munkáját hivatali szervezet segíti.
+(2) A térségi főmérnök a megyében működik, a megyei önkormányzatnál köztisztviselő, aki kormányrendeletben meghatározott szakmai végzettséggel és szakmai gyakorlattal rendelkezik, és munkáját hivatali szervezet segíti.
 
 (3) A térségi főmérnök
 
@@ -1435,7 +1436,7 @@ folytatja le.
 
 #### 62. § [A területi építészeti tervtanács feladatköre]
 
-(1) A területi építészeti tervtanács illetékességi területe megegyezik az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal illetékességi területével.
+(1) A területi építészeti tervtanács illetékességi területe megegyezik az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal illetékességi területével.
 
 (2) A területi építészeti tervtanács véleményezi a világörökségi területen
 
@@ -1447,7 +1448,7 @@ folytatja le.
 - a) a nemzeti emlék kategóriába tartozó műemlékkel és annak telkével kapcsolatos örökségvédelmi bejelentési eljárást megelőzően a bejelentés mellékletét képező építészeti-műszaki dokumentációt,
 - b) a műemléki jelentőségű területen – kivéve a műemléki jelentőségű terület műemléki környezetét – a nem műemléket érintő építésügyi hatósági engedélyezési – kivéve a használatbavételi – eljárást megelőzően, vagy örökségvédelmi bejelentési eljárást megelőzően az engedélykérelem, bejelentés kötelező mellékletét képező dokumentációt.
 
-(4) Ha a járásszékhelyen felállításra kerülő helyi építészeti tervtanácsnál elegendő szakember nem áll rendelkezésre, a területi építészeti tervtanács a fővárosi és vármegyei kormányhivatallal kötött megállapodás alapján átveheti a helyi tervtanács feladatát.
+(4) Ha a járásszékhelyen felállításra kerülő helyi építészeti tervtanácsnál elegendő szakember nem áll rendelkezésre, a területi építészeti tervtanács a fővárosi és megyei kormányhivatallal kötött megállapodás alapján átveheti a helyi tervtanács feladatát.
 
 (5) A kérelmező ügyfél kifogást nyújthat be a területi építészeti tervtanács (2)–(3) bekezdés szerinti véleménye ellen az Országos Építészeti Tervtanácshoz a vélemény közlésétől számított 15 napon belül, amely a 30 napon belül meghozott, indokolt véleményében a területi építészeti tervtanács véleményét helybenhagyja vagy módosítja.
 
@@ -1475,7 +1476,7 @@ folytatja le.
 
 (2) A településrendezési tervtanács a településrendezésben kiemelkedő, magas szintű elméleti és gyakorlati ismeretekkel rendelkező természetes személyekből álló szakmai tanácsadó, véleményező testület, amelynek tagjaira vonatkozó szakképzettségi és szakmagyakorlási követelményeket kormányrendelet állapítja meg.
 
-(3) A településrendezési tervtanács illetékességi területe megegyezik az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal illetékességi területével.
+(3) A településrendezési tervtanács illetékességi területe megegyezik az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal illetékességi területével.
 
 (4) A települési önkormányzat polgármestere vagy a településterv tervezője településrendezési tervtanácsi véleményt kérhet a készülő településtervről, vagy annak módosításáról a tervre vonatkozó véleményezési szakasz megkezdését megelőzően.
 
@@ -2027,7 +2028,7 @@ esetében.
 
 (2) A kártalanítási igény a vagyoni hátrány keletkezése napján válik esedékessé. Ez az időpont a helyi építési szabályzat és a külön önkormányzati rendelet hatálybalépésének, vagy a hatósági határozat véglegessé válásának a napja. A főváros esetében a megállapodás megkötésére irányuló kérelmet a fővárosi önkormányzatnak a területileg illetékes kerületi önkormányzathoz, a területileg illetékes kerületi önkormányzatnak a fővárosi önkormányzathoz nyolc napon belül írásban továbbítani kell. Ebben az esetben úgy kell tekinteni, mintha a kérelmező a kérelmét mindkét önkormányzathoz beadta volna.
 
-(3) Ha a szerződő felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet a fővárosi és vármegyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel. A kártalanítás tárgyában hozott közigazgatási határozattal szembeni közigazgatási pert a kártalanítás megfizetésére kötelezett ellen is meg kell indítani.
+(3) Ha a szerződő felek között – a kérelem benyújtásától számított egy éven belül – nem jön létre megállapodás, akkor kártalanítási eljárást kell lefolytatni, amelyet a fővárosi és megyei kormányhivatal folytat le a kisajátítási kártalanítás szabályai szerint, az e törvényben meghatározott eltérésekkel. A kártalanítás tárgyában hozott közigazgatási határozattal szembeni közigazgatási pert a kártalanítás megfizetésére kötelezett ellen is meg kell indítani.
 
 (4) A tulajdonost, haszonélvezőt a 90. § (4) bekezdésében foglalt eljárás lefolytatása esetén megilleti a (2) bekezdés szerinti kártalanítás, és a 90. § (4) bekezdésében szabályozott ingatlan megvételének követelése a (2) bekezdés szerinti kérelem benyújtásának minősül. Az adásvétellel, kisajátítással történő kártalanítás esetében a vételárba az addig kifizetett kártalanítást be kell számítani.
 
@@ -2096,7 +2097,7 @@ rendelhető el.
 
 (1) A településkép védelme a település vagy településrész jellegzetes, értékes, illetve hagyományt őrző építészeti, tájépítészeti arculatának és szerkezetének – az építészeti, táji érték és az örökségvédelem, valamint a jellegzetes rálátásokból, nézőpontokból feltáruló látvány védelmének figyelembevételével történő – megőrzését vagy kialakítását jelenti.
 
-(2) A települési önkormányzat, a főváros esetében a kerületi önkormányzat a településkép védelmét a helyi építési szabályzatban – vagy a 81. § (7) bekezdésében meghatározott esetekben az ott meghatározott módon – településképi követelmények meghatározásával, településképi önkormányzati támogatási és ösztönző rendszer alkalmazásával, valamint önkormányzati településkép-érvényesítési eszközök szabályozásával biztosítja. A fővárosi önkormányzatot a Duna-parti építési szabályzat és a Városligeti építési szabályzat vonatkozásában ugyanezek a szabályozási jogkörök illetik meg.
+(2) A települési önkormányzat, a főváros esetében a kerületi önkormányzat a településkép védelmét a helyi építési szabályzatban – vagy a 81. § (7) bekezdésében meghatározott esetekben az ott meghatározott módon – településképi követelmények meghatározásával, településképi önkormányzati támogatási és ösztönző rendszer alkalmazásával, valamint önkormányzati településkép-érvényesítési eszközök szabályozásával biztosítja. A fővárosi önkormányzatot a 96. § (10) bekezdése és 104. § (5) bekezdése esetében, valamint a Duna-parti építési szabályzat és a Városligeti építési szabályzat vonatkozásában ugyanezek a szabályozási jogkörök illetik meg.
 
 (3) Törvény és a felhatalmazása alapján kiadott kormányrendelet településkép-védelmet biztosíthat – településképi követelmények és településkép-érvényesítési eszközök megállapításával – a kiemelt nemzeti emlékhely és településkép-védelmi környezetének területére olyan módon, hogy erre a területre a (2) bekezdés szerinti önkormányzat településképi követelményeket és önkormányzati településkép-érvényesítési eszközöket nem állapíthat meg.
 
@@ -2172,7 +2173,7 @@ településképi követelményt állapíthat meg.
 - b) kormányrendeletben meghatározott esetben az építésügyi hatósági engedélyezési eljárást megelőzően településképi véleményt adhat az építésügyi hatósági engedélykérelemhez (a továbbiakban: településképi véleményezési eljárás),
 - c) településképi bejelentési eljárást
   - ca) folytathat le az építésügyi hatósági engedélyhez, egyszerű bejelentéshez, örökségvédelmi engedélyhez vagy örökségvédelmi bejelentéshez nem kötött építési tevékenységek megkezdését megelőzően – ideértve a háztartási méretű kiserőművek (napelemek), klímaberendezések, elektromos és egyéb gépészeti berendezések épületeken való elhelyezését is –,
-  - cb) folytat le az építésügyi hatósági engedélyhez nem kötött rendeltetésmódosítás vagy a rendeltetési egységek számának megváltozását jelentő rendeltetésváltozás (a továbbiakban együtt: rendeltetésváltozás) esetén – ide nem értve az egyes kereskedelmi építményekkel összefüggő rendeltetésváltozást –,
+  - cb) folytat le a reklámeszközök elhelyezése tekintetében, valamint az építésügyi hatósági engedélyhez nem kötött rendeltetésmódosítás vagy a rendeltetési egységek számának megváltozását jelentő rendeltetésváltozás (a továbbiakban együtt: rendeltetésváltozás) esetén – ide nem értve az egyes kereskedelmi építményekkel összefüggő rendeltetésváltozást –,
 - d) településképi kötelezést adhat ki és településkép-védelmi bírságot szabhat ki,
 - e) a kötelezésben foglaltak nem teljesítése esetén ismételten településkép-védelmi bírságot szab ki, vagy a kötelezést tartalmazó döntés végrehajtását foganatosítja, amely során a meghatározott cselekményt a kötelezett költségére és veszélyére elvégzi vagy mással elvégezteti, egyúttal a kötelezettet a felmerülő költség megfizetésére kötelezi.
 
@@ -2199,6 +2200,8 @@ településképi követelményt állapíthat meg.
 (1) A települési önkormányzat köteles településképi bejelentési eljárást lefolytatni a 97. § (2) bekezdés c) pont cb) alpontjában foglalt esetekben, valamint – ha a helyi építési szabályzatban így rendelkezik – településképi bejelentési eljárást folytat le a 97. § (2) bekezdés c) pont ca) alpontjában foglalt esetben.
 
 (2) A településképi bejelentési eljárást az ügyfél bejelentés formájában az illetékes önkormányzatnál kezdeményezi. A bejelentett tevékenység a bejelentés alapján megkezdhető, ha ahhoz hatósági engedély vagy egyszerű bejelentés nem szükséges, és az önkormányzat a tevékenység végzését a bejelentést követő 15 napon belül tudomásul vette és nem tiltja meg.
+
+(2a) A (2) bekezdés szerinti tudomásulvétel a reklámeszközök elhelyezésére irányuló településképi eljárásnál 5 évig érvényes, és az érvényességi idő lejárta előtt legalább 30 nappal kezdeményezni kell az ismételt településképi eljárást, vagy nyilatkozni szükséges arról, hogy az érvényességi idő lejártáig a reklámeszköz elbontásáról gondoskodnak.
 
 (3) Az önkormányzat a (2) bekezdés szerinti álláspontjának kialakításához köteles kikérni az önkormányzati főépítész szakmai véleményét.
 
@@ -2243,10 +2246,10 @@ A helyi önkormányzat a településképi követelmények megvalósulása és en
 - b) a műemléken és annak telkén,
 - c) a történeti kert területén,
 - d) a védett temető területén,
-- e) a kiemelten védett régészeti lelőhelyen, és
-- f) az országos jelentőségű védett természeti terület területén.
+- e) az országos jelentőségű védett természeti terület területén, és
+- f) a helyi önkormányzat rendeletében meghatározott egyéb bel- és külterületen.
 
-(2) Az (1) bekezdés szerinti, településkép-védelmi és örökségvédelmi célú reklám-elhelyezési tilalom miatt az államot kártalanítási kötelezettség nem terheli.
+(2) Az államot, illetve a helyi önkormányzatot az e törvényben, valamint a felhatalmazása alapján kiadott rendeletben meghatározott reklám-elhelyezési tilalom vagy korlátozás miatt kártalanítási kötelezettség nem terheli.
 
 #### 104. § [Reklámok közzétételének keretszabályai]
 
@@ -2261,28 +2264,17 @@ helyezhető el, vagy tehető közzé, hogy az e törvény és a végrehajtásár
 
 (2) A reklám és reklámeszköz elhelyezésének részletszabályait megállapító, e törvény felhatalmazása alapján kiadott kormányrendelet megalkotása és végrehajtása során érvényre kell juttatni azt az alapelvet, amely szerint a reklámok mennyisége az építészeti örökség és a településkép védelme érdekében csak ésszerű mértékű lehet. A reklámeszközökkel szemben alapvető követelmény, hogy azok megfelelő műszaki és esztétikai állapotban legyenek.
 
-(3) A reklám kizárólag
+(3) Reklám – közterületen vagy közterületről látható magánterületen – kizárólag utcabútoron, tetőszerkezethez rögzített reklámhordozót tartó berendezésen és a (4) bekezdésben foglaltak figyelembevételével kormányrendeletben meghatározott egyéb reklámeszközön helyezhető el. Kormányrendelet állapítja meg az elhelyezhető reklámeszközöknek a település közigazgatási területén belüli elhelyezhetőségi követelményeit.
 
-- a) utcabútoron,
-- b) hirdetőoszlopon,
-- c) villanyoszlopon,
-- d) reklámhordozót tartó berendezésen,
-- e) tűzfalon – kifeszített reklámhordozót tartó berendezésen elhelyezve vagy festett reklámként–,
-- f) tetőreklámként, reklámhordozót tartó berendezésen elhelyezve,
-- g) építési reklámhálón vagy
-- h) reklámhálón
+(4) Citylight reklámeszközt szabadon állóan nem lehet elhelyezni, kizárólag utcabútoron. Új hirdetőoszlop nem helyezhető el. Településképi szempontból kiemelten meghatározó területen és településképi szempontból meghatározó területen közvilágítási, villany- és telefonoszlopon, illetve segélykérő telefonon vagy annak tartószerkezetén reklám nem helyezhető el.
 
-helyezhető el.
+(5) A helyi önkormányzat rendeletében – a (3) és (4) bekezdésben foglaltakon túl – kizárhatja azon reklámeszközöket, amelyeken reklám nem helyezhető el.
 
-(4) A helyi építési szabályzat nem tartalmazhat olyan településképi rendelkezést, amely az utcabútorok létesítését vagy telepítését, az utcabútor reklámeszközként történő használatát, illetve az utcabútoron reklám közzétételét szabályozza.
+(6)
 
-(5) A citylight reklámeszköznél kisebb felülettel rendelkező reklámeszközök elhelyezése tilos.
+(7) Reklámeszköz – ide nem értve a kiemelt településkép-védelmi környezetre irányuló eljárásokat – kizárólag az önkormányzati hatósági ügynek minősülő településképi bejelentési eljárás lefolytatását követően helyezhető el.
 
-(6) Az építési reklámháló és a reklámháló elhelyezése során figyelemmel kell lenni arra, hogy azok a benapozást gyengítik, ezért az épület huzamos emberi tartózkodásra szolgáló helyisége ablakainak eltakarására csak úgy kerülhet sor, ha az épület adott lakásához tartozóan nem kerül eltakarásra valamennyi huzamos emberi tartózkodásra szolgáló helyiség ablaka. Építési reklámháló kizárólag társasházak homlokzat-felújításához kapcsolódóan helyezhető el. Az építési reklámháló és a reklámháló elhelyezése során figyelemmel kell lenni a vonatkozó tűzvédelmi előírások betartására, különös tekintettel a homlokzati tűzterjedés elleni védelemre és a homlokzati mentés feltételeinek biztosítására.
-
-(7) Reklámeszköz kizárólag tudomásulvételi eljárást követően helyezhető el azzal, hogy a tudomásulvételi eljárás lefolytatása a járási (fővárosi kerületi) hivatal hatáskörébe tartozik.
-
-(8) A (6) és (7) bekezdésnek, valamint az egyéb településkép-védelmi előírásoknak megfelelően telepített reklámeszközön kizárólag akkor helyezhető el reklám, ha a reklámeszközt a Nemzeti Média- és Hírközlési Hatóság – az e törvény felhatalmazása alapján kiadott rendeletben foglaltak szerint – az országos reklámkataszterbe bejegyezte. A bejelentés kizárólag elektronikus úton tehető meg.
+(8) A (7) bekezdésnek, valamint az egyéb településkép-védelmi előírásoknak megfelelően telepített reklámeszközön kizárólag akkor helyezhető el reklám, ha a reklámeszközt a Nemzeti Média- és Hírközlési Hatóság – az e törvény felhatalmazása alapján kiadott rendeletben foglaltak szerint – az országos reklámkataszterbe bejegyezte. A bejelentés kizárólag elektronikus úton tehető meg.
 
 (9) Az országos reklámkataszter – a reklámeszközök és az azokon történő reklámelhelyezések jelentette vizuális környezetterhelés országos léptékű nyomon követhetősége, valamint az egyes reklámeszköz-típusokra vonatkozó, rendeletben foglalt követelmények egységes szempontok alapján történő érvényre juttatása céljából – a következő adatokat és nyilatkozatokat tartja nyilván:
 
@@ -2297,26 +2289,28 @@ helyezhető el.
 
 (10) A Nemzeti Média- és Hírközlési Hatóság a reklámeszközt hivatalból törli az országos reklámkataszterből a (7) bekezdés szerinti eljárásban hozott döntés visszavonása, megsemmisítése vagy hatályon kívül helyezése esetén, valamint a tulajdonosnak a nyilvántartásból való törlés iránti kérelme esetében.
 
-(11) Reklámeszköz közterületi és magánterületi elhelyezésére vonatkozó szerződés legfeljebb tizenöt évre köthető. Az építési hálón való elhelyezés maximális időtartama 24 hónap.
+(11) Reklámeszköz közterületi és magánterületi elhelyezésére vonatkozó szerződés legfeljebb tizenöt évre köthető.
 
 #### 105. § [Jogkövetkezmények]
 
-(1) E törvény vagy a törvény végrehajtására kiadott kormányrendelet reklámok, reklámeszközök elhelyezésére vonatkozó szabályainak – ideértve a tilalmakat, az elhelyezés módjával és formájával, a mérettel és az időtartammal kapcsolatos korlátozásokat is – megszegése esetén a járási (fővárosi kerületi) hivatal közigazgatási bírságot szab ki az (5) bekezdésben foglalt személyekkel szemben, és megfelelő határidővel elrendeli a jogsértő állapot megszüntetését. A bírság mértéke 650 000 forinttól 4 000 000 forintig terjedhet, amely a jogsértő állapot előírt határidőn belüli megszüntetésének elmulasztása miatt ismételten is kiszabható.
+(1) E törvény vagy a törvény végrehajtására kiadott kormányrendelet vagy önkormányzati rendelet reklámok, reklámeszközök elhelyezésére vonatkozó szabályainak – ideértve a tilalmakat, az elhelyezés módjával és formájával, a mérettel és az időtartammal kapcsolatos korlátozásokat is – megszegése esetén a helyi önkormányzat településkép-védelmi bírságot szab ki az (5) bekezdésben foglalt személyekkel szemben, és megfelelő határidővel elrendeli a jogsértő állapot megszüntetését. A bírság mértéke 650 000 forinttól 4 000 000 forintig terjedhet, amely a jogsértő állapot előírt határidőn belüli megszüntetésének elmulasztása miatt egy alkalommal ismételten is kiszabható.
 
-(2) Az (1) bekezdés szerinti esetben a járási (fővárosi kerületi) hivatal helyszíni bírságot is alkalmazhat. A helyszíni bírság nem mentesíti a jogsértőt a jogsértő állapot megszüntetésének kötelezettsége alól. A helyszíni bírság összege 10 000 forinttól 100 000 forintig terjedhet.
+(2) Az (1) bekezdés szerinti esetben a helyi önkormányzat helyszíni bírságot is alkalmazhat. A helyszíni bírság nem mentesíti a jogsértőt a jogsértő állapot megszüntetésének kötelezettsége alól. A helyszíni bírság összege 10 000 forinttól 100 000 forintig terjedhet.
 
-(3) A végleges döntéssel kiszabott bírság az államháztartás központi alrendszerének bevételét képezi.
+(3) A végleges döntéssel kiszabott bírság a helyi önkormányzat saját bevételét képezi.
 
-(4) Ha a kötelezett a jogsértő állapotot határidőre nem szüntette meg, a járási (fővárosi kerületi) hivatal – a közigazgatási bírság (1) bekezdés szerinti ismételt kiszabása helyett –
+(4) Ha a kötelezett a jogsértő állapotot határidőre nem szüntette meg, a helyi önkormányzat – a településkép-védelmi bírság (1) bekezdés szerinti ismételt kiszabása helyett –
 
 - a) a kötelezett költségére és veszélyére megszünteti a jogsértő állapotot, egyúttal a kötelezettet a felmerülő költség megfizetésére kötelezi és
 - b) a reklámeszközt elkobozza.
 
-(5) Az (1), (2) és (4) bekezdésben foglalt jogkövetkezményt – az egyetemleges felelősségre tekintettel – a járási (fővárosi kerületi) hivatal a reklámeszköz elhelyezése szerinti ingatlan tulajdonosával és a reklámeszköz tulajdonosával szemben egyaránt alkalmazhatja, és az eltávolítást bármelyiküktől követelheti.
+(5) Az (1), (2) és (4) bekezdésben foglalt jogkövetkezményt – az egyetemleges felelősségre tekintettel – a helyi önkormányzat a reklámeszköz elhelyezése szerinti ingatlan tulajdonosával és a reklámeszköz tulajdonosával szemben egyaránt alkalmazhatja, és az eltávolítást bármelyiküktől követelheti.
 
-(6) A járási (fővárosi kerületi) hivatal a (4) bekezdés szerinti végrehajtási cselekményt maga végzi el, amelyhez közreműködőt vehet igénybe.
+(6) A helyi önkormányzat a (4) bekezdés szerinti végrehajtási cselekményt maga végzi el, amelyhez közreműködőt vehet igénybe.
 
 (7) Ha a reklámeszköz elhelyezése szerinti ingatlan tulajdonosának vagy a reklámeszköz tulajdonosának személye az (1) bekezdés szerinti első eljárás megindítását követően megváltozik, az új tulajdonos mind a végleges hatósági döntések szerinti kötelezés, mind a folyamatban lévő hatósági eljárások tekintetében a korábbi tulajdonos jogutódja.
+
+(8) A főváros esetében a reklámok és reklámeszközök elhelyezésére vonatkozó szabály megszegése esetén a helyi szabályozást megalkotó helyi önkormányzat jár el, amely egyúttal érvényesíti az e törvényben és a törvény végrehajtására kiadott kormányrendeletben foglalt követelményeket is.
 
 #### 106. § [Plakátok elhelyezése]
 
@@ -2330,23 +2324,7 @@ helyezhető el.
 
 (5) A közterület-felügyelet a közigazgatási bírság és a helyszíni bírság mértékét figyelmeztetés mellett enyhítheti, vagy a jogsértő magatartás csekély súlya miatt a kiszabását mellőzheti, feltéve, hogy a jogsértő magatartást tanúsító személy a plakátot haladéktalanul eltávolítja.
 
-#### 107. § [A közpénzekkel való felelős gazdálkodásra kötelezett szervezetekre vonatkozó különös plakát-elhelyezési szabályok]
-
-(1) A központi költségvetésről szóló törvényben nevesített és támogatásban részesített költségvetési szerv és jogi személy, valamint a központi költségvetésről szóló törvényben nevesített és támogatásban részesített jogi személytől támogatásban részesülő jogi személy, amennyiben a támogatásának összege az éves bevételeinek felét eléri (a továbbiakban együtt: reklámozó) – a közpénzekkel való felelős gazdálkodás érdekében – reklámhordozón az e §-ban meghatározottak szerint tehet közzé plakátot.
-
-(2) A Grt. szerinti médiahirdetésifelület-értékesítő, valamint reklám közzétevője (a továbbiakban együtt: médiahirdetésifelület-értékesítő), amennyiben az (1) bekezdésben meghatározott reklámozó számára közzétételi lehetőséget biztosít, a listaárat köteles az e §-ban meghatározottak szerint kormányrendeletben kijelölt fővárosi és vármegyei kormányhivatal számára bejelenteni. A kijelölt fővárosi és vármegyei kormányhivatal a listaárat honlapján közzéteszi.
-
-(3) A listaár a médiahirdetésifelület-értékesítő által érvényesített, az azonos típusú, méretű és elhelyezkedésű reklámhordozók tekintetében az előző üzleti évben az alkalmazott kedvezmények érvényesítése nélkül, a megrendelő személyétől, a megrendelés mértékétől függetlenül meghatározott ár.
-
-(4) A reklámozó listaáron helyezhet el reklámhordozón plakátot, ettől csak a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) szerinti uniós nyílt eljárás szerint lefolytatott beszerzéssel, vagy a Kbt. szerinti központi beszerző szerv által lefolytatott beszerzési eljárás alkalmazásával térhet el.
-
-(5) Ha a Kbt. alapján nem kell közbeszerzési eljárást lefolytatni, a reklámozó listaáron helyezhet el reklámhordozón plakátot.
-
-(6) Az e § szerinti szabályok betartását a fővárosi és vármegyei kormányhivatal ellenőrzi. Az ellenőrzés elősegítése érdekében a plakát közzététele céljából megkötött szerződést a reklámozó a kormányrendeletben kijelölt fővárosi és vármegyei kormányhivatalnak haladéktalanul megküldi, amelyet az a honlapján közzétesz.
-
-(7) Az e § rendelkezéseinek megsértése esetén a hatóság a médiahirdetésifelület-értékesítő és a reklámozó költségén a plakátot két napon belül eltávolítja.
-
-(8) Az e § rendelkezéseinek ismételt vagy többrendbeli megsértése esetén a fővárosi és vármegyei kormányhivatal jogellenesen elhelyezett plakátonként 200 000 forint közigazgatási bírságot szab ki a médiahirdetésifelület-értékesítővel és a reklámozóval szemben, kivéve, ha az eset összes körülményének mérlegelése alapján megállapítható, hogy a plakát elhelyezése nem a reklámozó vagy a médiahirdetésifelület-értékesítő közrehatására vezethető vissza.
+#### 107. §
 
 ### X. Fejezet — MŰEMLÉKVÉDELEM
 
@@ -3247,7 +3225,7 @@ Ezen alcím alkalmazásában kereskedelmi építmény: a kereskedelemről szól�
 
 #### 169. § [Különös szakkérdés vizsgálata]
 
-(1) Az építési engedélyhez kötött építési tevékenységgel megvalósuló, 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építmény építésének, valamint a 400 m2-t meghaladó bruttó alapterületre való bővítésének építésügyi hatósági engedélyezési eljárásában az országos illetékességgel eljáró Hajdú-Bihar Vármegyei Kormányhivatal (a továbbiakban: Kormányhivatal) – amennyiben annak törvényi és kormányrendeleti feltételei fennállnak – szakkérdésben nyilatkozik. A szakkérdésben született nyilatkozattól az építésügyi hatósági engedélyezési eljárás során hozott döntésben nem lehet eltérni.
+(1) Az építési engedélyhez kötött építési tevékenységgel megvalósuló, 400 m2-nél nagyobb bruttó alapterületű kereskedelmi építmény építésének, valamint a 400 m2-t meghaladó bruttó alapterületre való bővítésének építésügyi hatósági engedélyezési eljárásában az országos illetékességgel eljáró Hajdú-Bihar Megyei Kormányhivatal (a továbbiakban: Kormányhivatal) – amennyiben annak törvényi és kormányrendeleti feltételei fennállnak – szakkérdésben nyilatkozik. A szakkérdésben született nyilatkozattól az építésügyi hatósági engedélyezési eljárás során hozott döntésben nem lehet eltérni.
 
 (2) Amennyiben az (1) bekezdés szerinti engedélyezési eljárásban a Kormányhivatal szakkérdés elbírálására irányuló nyilatkozatának van helye, az építésügyi hatóság ügyintézési határideje 75 nap, amely határidőbe nem számít bele a szakkérdés vizsgálatához szükséges 170. § (4) bekezdése szerinti kiegészítő adatok, információk és vélemények megkérésének kiküldésétől azok beérkezéséig tartó idő.
 
@@ -3707,11 +3685,11 @@ megvalósítására irányul.
 
 (2) Kiemelt jelentőségű ügyben törvényben vagy e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt hatóság, ennek hiányában az a hatóság jár el, amely az adott ügyfajtára vonatkozó jogszabály szerint hatóságként jár el.
 
-(2a) A közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – az (1) bekezdés szerinti jogszabályban kijelölhető az eljáró fővárosi és vármegyei kormányhivatal azzal, hogy az önkormányzati rendelet közcélú kiemelt beruházás megvalósításával ellentétes vagy össze nem egyeztethető előírásait nem kell alkalmazni.
+(2a) A közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – az (1) bekezdés szerinti jogszabályban kijelölhető az eljáró fővárosi és megyei kormányhivatal azzal, hogy az önkormányzati rendelet közcélú kiemelt beruházás megvalósításával ellentétes vagy össze nem egyeztethető előírásait nem kell alkalmazni.
 
 (2b) Az ügyintézési határidő a (2a) bekezdés szerinti nyilatkozatok kiadására irányuló eljárás esetén nyolc nap.
 
-(3) Kiemelt jelentőségű ügyben törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és vármegyei kormányhivatal közigazgatási hatósági eljárást folytat le.
+(3) Kiemelt jelentőségű ügyben törvény erejénél fogva a magyar állam tulajdonába kerülő ingatlan pontos meghatározása érdekében a fővárosi és megyei kormányhivatal közigazgatási hatósági eljárást folytat le.
 
 (4) A 193. § (1) bekezdés c)–g) pontja, valamint a 193. § (3)–(5) bekezdése szerinti építmények megvalósítására irányuló kiemelt beruházás építészeti-műszaki dokumentációját az építési engedély iránti kérelem benyújtása előtt meg kell küldeni az Országos Építészeti Tervtanácsnak. Az Országos Építészeti Tervtanács eljárására a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendelet eljárási rendelkezései irányadóak.
 
@@ -3732,6 +3710,12 @@ megvalósítására irányul.
 (12) A 193. § (1) bekezdés a)–e) pontja, valamint a 193. § (2) bekezdése szerinti közcélú kiemelt beruházás megvalósításával összefüggésben, az építmény rendeltetésszerű és biztonságos használhatósága, közszolgálati járművel, vagy gyalogosan történő megközelíthetőségének, valamint közhasználatú építmény esetén az akadálymentes módon történő megközelítésének biztosítása szempontjából, illetve a biztonságos kiürítés biztosíthatósága érdekében, a közterület és az építmény szintkülönbségének áthidalása (terepcsatlakozás) céljából az építtető által – a közterületre a feltétlenül szükséges mértékben – rámpa, lépcső, vagy egyéb szintemelés építéséhez nem szükséges tulajdonosi hozzájárulás.
 
 (13) Az építtető a (12) bekezdés szerint közterületen elhelyezett építményrészt az adott közterületre vonatkozó jogszabályi és építési követelményeknek megfelelően köteles megvalósítani. Az építtető vagy az ingatlan tulajdonosa, használója a (12) bekezdés szerint létrejött, közterületen elhelyezkedő építményrész tekintetében a beruházás befejezését követően a közhasználatot nem korlátozhatja, és a beruházást követően egyebekben az építményrészre a közterületre vonatkozó szabályokat kell alkalmazni.
+
+(14) Ha kiemelt jelentőségű ügyben törvény vagy e törvény felhatalmazása alapján kiadott kormányrendelet úgy rendelkezik, hogy a kiemelt jelentőségű ügy vonatkozásában hatósági engedélyt kiadni meghatározott ideig nem lehet, ebben az esetben ezen időtartam alatt a 194/A. § (7) és (8) bekezdésében foglalt határidők szünetelnek.
+
+(15) A környezetvédelmi vagy a természetvédelmi hatóság a környezetvédelmi vagy a természetvédelmi szabályok megsértése okán az előtte indított eljárás megindulásáról, az eljárásban hozott döntés véglegessé válásáról, valamint a szabálytalanság megszüntetésének tényéről haladéktalanul tájékoztatja az eljáró építésügyi hatóságot. Az eljáró építésügyi hatóság a környezetvédelmi vagy a természetvédelmi hatóságnak az eljárás megindulásáról szóló tájékoztatására az engedélyezési eljárását felfüggeszti a környezetvédelmi vagy a természetvédelmi hatóság döntésének véglegessé válásáig.
+
+(16) Az (1) bekezdés szerinti jogszabály előírhatja, hogy a kiemelt beruházáshoz kapcsolódó eljárás során a környezetvédelmi vagy természetvédelmi hatóság döntésével megállapított jogsértés esetén a beruházás megvalósításához építési vagy létesítési engedély nem adható ki a jogsértő állapot megszüntetéséig, de legalább a döntés véglegessé válásától számított hat hónapig.
 
 #### 194/A. § [A FIX 3% hitelprogram feltételeit teljesítő lakásokat tartalmazó egy vagy több lakóépület megépítése érdekében magáncélú kiemelt beruházássá nyilvánított beruházásokra vonatkozó szabályok]
 
@@ -3782,7 +3766,7 @@ azzal, hogy az egyes lakások négyzetméterárának számításakor a lakás ne
 - a) a 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilvánított beruházásra vonatkozóan nem nyújt be építési engedély iránti kérelmet az építésügyi hatóság részére, vagy
 - b) az a) pont szerinti kérelmet olyan tartalommal nyújtja be az építésügyi hatóság részére, hogy a kérelemben megjelölt, megvalósítandó lakások száma nem éri el a 193. § (3a) bekezdés b) pontja szerinti lakásszámot.
 
-A kiemelt jelentőségű ügy koordinációjára kijelölt főispán a kormányrendeletben előírt tájékoztatási kötelezettségének teljesítése körében az a) és b) pontban foglaltakról tájékoztatja a közigazgatás-szervezésért felelős minisztert, és ezzel egyidejűleg a kormányzati stratégiák kidolgozásának támogatásáért felelős minisztert, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős minisztert.
+A kiemelt jelentőségű ügy koordinációjára kijelölt kormánymegbízott a kormányrendeletben előírt tájékoztatási kötelezettségének teljesítése körében az a) és b) pontban foglaltakról tájékoztatja a közigazgatás-szervezésért felelős minisztert, és ezzel egyidejűleg a kormányzati stratégiák kidolgozásának támogatásáért felelős minisztert, valamint az építésügyi szabályozásért és építéshatósági ügyekért felelős minisztert.
 
 (9) A beruházás 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházássá nyilvánítását követően
 
@@ -3832,27 +3816,27 @@ A kiemelt jelentőségű ügy koordinációjára kijelölt főispán a kormányr
 - a) ha a közcélú nyomvonalas építmény szerepel a Trtv.-ben, a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni a Trtv. 14. § (1) bekezdésében foglaltakkal,
 - b) ha a közcélú nyomvonalas építmény nem szerepel a Trtv.-ben, a térségi területfelhasználási engedély véglegessé válásától, de legkorábban a telepítési tanulmányterv települési (a fővárosban a fővárosi és kerületi) önkormányzatnak való benyújtásától számított 4 hónapon belül összhangba kell hozni a területfelhasználási engedélyben foglaltakkal.
 
-(2) Ha a települési önkormányzat az (1) bekezdésben foglalt kötelezettségét határidőre nem teljesíti, az építtető az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatalnál a településrendezési terv vagy annak módosítása (e § alkalmazásában a továbbiakban együtt: településrendezési terv) hiánytalan tervezetének benyújtásával kérelmezi a településrendezési terv módosítására irányuló, e § szerinti eljárást. Az eljárásra a 75. §-ban és a településtervek tartalmára, elkészítésére, alátámasztására és elfogadására vonatkozó szabályokról szóló kormányrendeletben foglaltakat a (3)–(12) bekezdésben szereplő eltérésekkel kell alkalmazni.
+(2) Ha a települési önkormányzat az (1) bekezdésben foglalt kötelezettségét határidőre nem teljesíti, az építtető az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnál a településrendezési terv vagy annak módosítása (e § alkalmazásában a továbbiakban együtt: településrendezési terv) hiánytalan tervezetének benyújtásával kérelmezi a településrendezési terv módosítására irányuló, e § szerinti eljárást. Az eljárásra a 75. §-ban és a településtervek tartalmára, elkészítésére, alátámasztására és elfogadására vonatkozó szabályokról szóló kormányrendeletben foglaltakat a (3)–(12) bekezdésben szereplő eltérésekkel kell alkalmazni.
 
-(3) A településrendezési tervek módosításának véleményezési eljárását az építtető kezdeményezésére az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal folytatja le.
+(3) A településrendezési tervek módosításának véleményezési eljárását az építtető kezdeményezésére az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal folytatja le.
 
 (4) A településrendezési terv tervezetét véleményeztetni kell a partnerekkel, az államigazgatási szervekkel, valamint az érintett területi és települési önkormányzatokkal.
 
-(5) A településrendezési terv tervezetét a fővárosi és vármegyei kormányhivatal, valamint a település honlapján – a (2) bekezdés szerinti hiánytalan kérelem beérkezésétől számított 5 napon belül – közzé kell tenni, amelyre a partnerek 10 napon belül írásos észrevételt tehetnek, a honlapon megadott elérhetőségen.
+(5) A településrendezési terv tervezetét a fővárosi és megyei kormányhivatal, valamint a település honlapján – a (2) bekezdés szerinti hiánytalan kérelem beérkezésétől számított 5 napon belül – közzé kell tenni, amelyre a partnerek 10 napon belül írásos észrevételt tehetnek, a honlapon megadott elérhetőségen.
 
-(6) Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal a kérelem beérkezésétől számított 10 napon belül egyeztető tárgyalást hív össze a partnerek részére, 15 napon belül az államigazgatási szervek, az érintett területi és települési önkormányzatok részére, amely tárgyalásokon az építtető a településrendezési terv tervezetét közérthető módon ismerteti a megjelentekkel, különös tekintettel a beruházás lezárásával megvalósuló környezetalakítás végleges állapotának bemutatására.
+(6) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a kérelem beérkezésétől számított 10 napon belül egyeztető tárgyalást hív össze a partnerek részére, 15 napon belül az államigazgatási szervek, az érintett területi és települési önkormányzatok részére, amely tárgyalásokon az építtető a településrendezési terv tervezetét közérthető módon ismerteti a megjelentekkel, különös tekintettel a beruházás lezárásával megvalósuló környezetalakítás végleges állapotának bemutatására.
 
-(7) A (6) bekezdés szerinti tárgyalásokról az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal jegyzőkönyvet készít, amely tartalmazza a felmerült véleményeltéréseket és a településrendezési terv elfogadásra alkalmassá tételéhez szükséges feltételeket.
+(7) A (6) bekezdés szerinti tárgyalásokról az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal jegyzőkönyvet készít, amely tartalmazza a felmerült véleményeltéréseket és a településrendezési terv elfogadásra alkalmassá tételéhez szükséges feltételeket.
 
 (8) Azt az érdekeltet, aki az egyeztető tárgyaláson meghívás ellenére nem vett részt vagy aki az egyeztető tárgyaláson nem képviselteti magát, az eljárás során kifogást nem emelő véleményezőnek kell tekinteni.
 
-(9) Ha a településrendezési terv készítéséhez vagy módosításához adatok beszerzése szükséges, az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal – az egyeztető tárgyalás összehívásával egyidejűleg – az előzetes tájékoztatási szakasz szerinti előzetes adatszolgáltatást kér az érintett államigazgatási szervtől.
+(9) Ha a településrendezési terv készítéséhez vagy módosításához adatok beszerzése szükséges, az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal – az egyeztető tárgyalás összehívásával egyidejűleg – az előzetes tájékoztatási szakasz szerinti előzetes adatszolgáltatást kér az érintett államigazgatási szervtől.
 
-(10) Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal a jegyzőkönyveket, a záró szakmai véleményét, valamint a településrendezési terv – szükség szerint módosított – tervezetét 8 napon belül megküldi a polgármesternek a településrendezési terv elfogadása érdekében, és kezdeményezi a képviselő-testület összehívását.
+(10) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a jegyzőkönyveket, a záró szakmai véleményét, valamint a településrendezési terv – szükség szerint módosított – tervezetét 8 napon belül megküldi a polgármesternek a településrendezési terv elfogadása érdekében, és kezdeményezi a képviselő-testület összehívását.
 
 (11) A polgármester az iratok kézhezvételét követő 15 napon belül képviselő-testületi ülést hív össze a településrendezési terv megállapítása céljából. A településrendezési tervet úgy kell elfogadni, hogy az legkésőbb a kihirdetését követő 5. napon hatályba lépjen.
 
-(12) Ha a települési önkormányzat a településrendezési tervet a (10) bekezdés szerinti javaslatnak megfelelően, a (11) bekezdés szerinti határidőben nem fogadja el, a fővárosi és vármegyei kormányhivatal intézkedik az önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárás megindítása iránt.
+(12) Ha a települési önkormányzat a településrendezési tervet a (10) bekezdés szerinti javaslatnak megfelelően, a (11) bekezdés szerinti határidőben nem fogadja el, a fővárosi és megyei kormányhivatal intézkedik az önkormányzat jogalkotási kötelezettségének elmulasztása miatti eljárás megindítása iránt.
 
 (13) Közcélú nyomvonalas építmény esetén az építési engedély iránti kérelmet – a településrendezési tervnek a 194. § (1) bekezdése szerinti törvénnyel vagy rendelettel való összhangja hiányában – a 194. § (1) bekezdése szerinti törvény vagy rendelet követelményeinek megfelelően kell elbírálni. Ebben az esetben az építési engedélyezési eljárásban a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági nyilatkozatát nem kell beszerezni. Amennyiben törvény vagy kormányrendelet helyszínt vagy nyomvonalat nem állapít meg, úgy az építési engedélyezési eljárásban a jegyző (főjegyző) településrendezési követelmények és a helyi építési követelmények megfelelőségéről szóló szakhatósági nyilatkozatában a településrendezési terv összhangjának megteremtéséről nyilatkozik. Ilyen esetben az építési engedély akkor válik végrehajthatóvá és az építési tevékenység akkor kezdhető meg, amikor a településrendezési terv olyan módosítása lép hatályba, amellyel a kiadott engedély összhangban van.
 
@@ -3916,19 +3900,19 @@ válik hatályossá. A kiadott építési engedélyt és a vízjogi létesítés
 
 #### 197. § [A kiemelt jelentőségű ügy koordinációja]
 
-(1) A Kormány a kiemelt jelentőségű ügyben rendeletével jelölheti ki a koordinációs feladatokat ellátó főispánt.
+(1) A Kormány a kiemelt jelentőségű ügyben rendeletével jelölheti ki a koordinációs feladatokat ellátó kormánymegbízottat.
 
-(2) A kiemelt jelentőségű ügyben a Kormány rendeletében határozza meg azokat a feladatköröket, amelyeket az (1) bekezdés szerint kijelölt főispán gyakorolhat.
+(2) A kiemelt jelentőségű ügyben a Kormány rendeletében határozza meg azokat a feladatköröket, amelyeket az (1) bekezdés szerint kijelölt kormánymegbízott gyakorolhat.
 
-(3) Az (1) bekezdés szerint kijelölt főispán a (2) bekezdés szerinti feladatköreit a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében – az általa vezetett kormányhivatalnak a fővárosi és vármegyei kormányhivatalokról szóló kormányrendeletben meghatározott illetékességi területén kívül is – gyakorolhatja.
+(3) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdés szerinti feladatköreit a kiemelt jelentőségű ügyben eljáró valamennyi hatóság, illetve szakhatóság tekintetében – az általa vezetett kormányhivatalnak a fővárosi és megyei kormányhivatalokról szóló kormányrendeletben meghatározott illetékességi területén kívül is – gyakorolhatja.
 
-(4) Az (1) bekezdés szerint kijelölt főispán a (2) bekezdésben meghatározott feladatköröket nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
+(4) Az (1) bekezdés szerint kijelölt kormánymegbízott a (2) bekezdésben meghatározott feladatköröket nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
 
-(5) Az (1) bekezdés szerint kijelölt főispán jogosult a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok vezetőjét – a Kormány tagjai, az önálló szabályozó szervek, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek kivételével – írásban soron kívüli feladat elvégzésére, vagy mulasztás pótlására utasítani a kiemelt jelentőségű üggyel összefüggő feladatokkal kapcsolatban.
+(5) Az (1) bekezdés szerint kijelölt kormánymegbízott jogosult a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok vezetőjét – a Kormány tagjai, az önálló szabályozó szervek, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek kivételével – írásban soron kívüli feladat elvégzésére, vagy mulasztás pótlására utasítani a kiemelt jelentőségű üggyel összefüggő feladatokkal kapcsolatban.
 
-(6) A főispán az (5) bekezdés szerinti írásbeli utasítást – annak kiadásával egyidejűleg – megküldi a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok irányító, szakmai irányító és felügyeleti szervének.
+(6) A kormánymegbízott az (5) bekezdés szerinti írásbeli utasítást – annak kiadásával egyidejűleg – megküldi a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok irányító, szakmai irányító és felügyeleti szervének.
 
-(7) A főispán a kiemelt jelentőségű üggyel összefüggésben a kiemelt jelentőségű ügyben hatóságként vagy szakhatóságként kijelölt kormánytag felé írásban jelzéssel élhet, mellyel összefüggésben az érintett kormánytag öt munkanapon belül tájékoztatást ad a főispánnak.
+(7) A kormánymegbízott a kiemelt jelentőségű üggyel összefüggésben a kiemelt jelentőségű ügyben hatóságként vagy szakhatóságként kijelölt kormánytag felé írásban jelzéssel élhet, mellyel összefüggésben az érintett kormánytag öt munkanapon belül tájékoztatást ad a kormánymegbízottnak.
 
 #### 198. § [Ügyintézési határidő a kiemelt jelentőségű ügyben]
 
@@ -4012,77 +3996,19 @@ válik hatályossá. A kiadott építési engedélyt és a vízjogi létesítés
 
 (1) Az építésgazdaság a magyar gazdaság kiemelt ágazata, fő elemeinek az építőipar és az építési anyagot előállító ipar ágazati irányítását, minőségellenőrzését, az építési anyag ellátási lánc követését az építésgazdaságért felelős miniszter látja el. A feladatellátás az építési termék, építmény életciklusa folyamán a tervezéstől a kivitelezésen, az üzemeltetésen és az újrahasznosításon át a végső megsemmisülésig valamennyi életszakaszra, valamint a folyamatban résztvevők felügyeletére is kiterjed.
 
-(2) A magyar építési anyagellátási lánc biztosítása érdekében az építési anyagok közül jogszabályban meghatározott szempontok szerint, jogszabályban meghatározott feltételek fennállása esetén stratégiai jelentőségű építési anyagokat lehet meghatározni, melyek körét szükség esetén, időszakonként felül kell vizsgálni.
+(2)
 
-(3) Az (1) bekezdésben foglaltak érdekében az építésgazdasági intézkedésre okot adó állapot bekövetkezésének megítéléséhez kormányrendeletben meghatározott részletszabályok szerint
+(3)
 
-- a)
-- b)
-- c) annak érdekében, hogy a Magyarországon képződött építési-bontási hulladékok – különös tekintettel a fémhulladékokra – hasznosítása elsősorban Magyarország területén valósuljon meg, az újrafeldolgozó és az értékesítő köteles az építésgazdaságért felelős miniszter részére adatokat szolgáltatni.
-
-(4) A magyar államot, vagy más – kormányrendeletben erre feljogosított – szervet, szervezetet a stratégiai jelentőségű építési anyagok tekintetében elővásárlási jog illeti meg jogszabályban meghatározott esetekben és feltételekkel, amennyiben a stratégiai jelentőségű építési anyag hazai felhasználása jogszabályban megjelölt közfeladat ellátásához, közszolgáltatás nyújtásához vagy közérdekű cél megvalósításához továbbá közbiztonság megteremtéséhez szükséges.
+(4)
 
 (5)
 
-#### 202/A. § [Stratégiai jelentőségű építési anyag kivitele]
+#### 202/A. §
 
-(1) A stratégiai jelentőségű építési anyag adásvételi szerződés alapján Magyarország területéről történő kivitelét be kell jelenteni az építésgazdaságért felelős miniszternek. A stratégiai jelentőségű építési anyag a bejelentés tudomásulvételének visszaigazolását követően vihető ki az országból.
+#### 202/B. §
 
-(2) A Magyarország területén, tranzitforgalom keretében átszállított stratégiai jelentőségű építési anyagra nem kell alkalmazni az (1) bekezdés szerinti bejelentési kötelezettséget és a 202. § (4) bekezdése szerinti elővásárlási jogot.
-
-(3) Ha a stratégiai jelentőségű építési anyag kivitele a Magyarország területén kívül megvalósított, diplomáciai célú ingatlanokon végzett beruházáshoz vagy diplomáciai tevékenységhez kapcsolódik, a bejelentésnek tartalmaznia kell az erre vonatkozó nyilatkozatot.
-
-(4) Ha a (3) bekezdésben foglaltak céljából kerül sor a stratégiai jelentőségű építési anyag kivitelére, az építésgazdaságért felelős miniszter a bejelentésről nem nyilatkozik, a magyar állam elővásárlási jogot nem gyakorol.
-
-#### 202/B. § [Stratégiai jelentőségű építési anyag kivitelének bejelentésére vonatkozó szabályok]
-
-(1) A bejelentést a stratégiai jelentőségű építési anyagra vonatkozó érvényes adásvételi szerződés létrejötte napját követő naptól számított öt napon belül, magyar nyelven kell megtenni az építésgazdaságért felelős miniszter által működtetett honlapon közzétett formanyomtatványon.
-
-(2) A bejelentés tartalmazza
-
-- a) a bejelentő természetes személy vagy egyéni vállalkozó
-  - aa) természetes személyazonosító adatait, lakcímadatait, adóazonosító számát,
-  - ab) állampolgárságát,
-  - ac) elektronikus kapcsolattartásra szolgáló elérhetőségét és
-  - ad) fizetési számlaszámát,
-- b) a bejelentő jogi személy, jogi személyiséggel nem rendelkező szervezet vagy egyéb szervezet
-  - ba) nevét, székhelyét, adószámát, és – fióktelep esetén annak címét – cégjegyzékszámát, ennek hiányában egyéb, az azonosítást szolgáló nyilvántartási számát,
-  - bb) hivatalos nyilvántartásával kapcsolatos feladatokat ellátó állam megjelölését,
-  - bc) elektronikus és postai kapcsolattartásra szolgáló elérhetőségét és
-  - bd) fizetési számlaszámát,
-- c) a stratégiai jelentőségű építési anyag
-  - ca) 8 számjegyű vámtarifaszámát, jogszabály szerinti mennyiségi mutatóit és egyéb jellemzőit,
-  - cb) az adásvételi szerződésben forintban vagy külföldi pénznemben meghatározott értékesítési árát,
-  - cc) kivitel előtti tárolási helyének pontos címét,
-- d) a címzett nevét, címét és adószámát, ahová a stratégiai jelentőségű építési anyag kiszállításra kerül, valamint
-- e) az adásvételi szerződésben meghatározott stratégiai jelentőségű építési anyag birtokbaadásának időpontját és a kivitelének tervezett időszakát.
-
-(3) A bejelentéshez mellékelni kell a stratégiai jelentőségű építési anyag országhatáron kívülre történő kivitele esetén
-
-- a) az adásvételi szerződést és – ha az rendelkezésre áll – a dolog ellenértékéről kiállított számlát, valamint
-- b) a szállításról szóló megállapodást, illetve egyéb, országhatáron kívülre történő kiszállítást igazoló okiratot, ha a szerződés a szállításról külön nem rendelkezik.
-
-(4) A (3) bekezdésben meghatározott okiratok idegen nyelven történő kiállítása esetén azok magyar nyelvű fordítását is csatolni kell a bejelentéshez.
-
-(5) A bejelentés díj- és költségmentes.
-
-(6) A bejelentésre – az e §-ban foglalt eltérésekkel – megfelelően alkalmazni kell az általános közigazgatási rendtartásról szóló törvénynek a nyelvhasználatra, a tolmács igénybevételére, az adatkezelésre, a kapcsolattartás általános szabályaira, a képviseletre, az iratra, a határidő számítására, a kérelemre, az igazolási kérelemre, a kézbesítettnek tekintettséggel szembeni kifogásra, a döntés formájára és közlésére, az ellenőrzésre, a hivatalbóli eljárásra, az eljárási költségekre, továbbá a végrehajtásra vonatkozó rendelkezéseit, azzal, hogy az általános közigazgatási rendtartásról szóló törvény ügyfélre vonatkozó rendelkezéseit a bejelentőre is alkalmazni kell.
-
-#### 202/C. § [Stratégiai jelentőségű építési anyag kivitele bejelentésének vizsgálata]
-
-(1) Az építésgazdaságért felelős miniszter a bejelentést a bejelentés beérkezésének napját követő harminc napon belül megvizsgálja, és nyilatkozatot tesz az elővásárlási jog gyakorlásáról.
-
-(2) Az építésgazdaságért felelős miniszter a bejelentés beérkezését követő tíz napon belül a bejelentést elutasítja, ha a bejelentés hibás vagy hiányos.
-
-(3) A stratégiai jelentőségű építési anyagra vonatkozó érvényesen létrejött adásvételi szerződés napját megelőző kiviteli rendelkezés vagy az elővásárlási jogvesztő határidőn belüli kiviteli rendelkezés érvénytelen szerződéses rendelkezésnek minősül.
-
-(4) Az építésgazdaságért felelős miniszter a bejelentés beérkezésének napját követő harminc napos jogvesztő határidőn belül nyilatkozik, hogy élni kíván-e elővásárlási jogával a magyar állam nevében.
-
-(5) Ha az építésgazdaságért felelős miniszter az elővásárlási jogának gyakorlása során a szerződésben az adásvétel lényeges elemeinek ismeretében a jogvesztő határidőn belül nem tesz a bejelentőhöz vagy a dolog tulajdonosához címzett jognyilatkozatot, a jognyilatkozat elmaradását az elővásárlási jogról való lemondásának kell tekinteni.
-
-(6) Ha az adásvételi szerződés a stratégiai jelentőségű építési anyagra vagy több stratégiai jelentőségű építési anyagra vonatkozó vételárát több külföldi pénznemben és forintban is megjelölte, akkor az átutalást egységesen forintban kell teljesíteni.
-
-(7) A magyar állam tulajdonába kerülő stratégiai jelentőségű építési anyagra érvényesíthető szavatossági igény teljesítésére a bejelentő köteles az elővásárlási jognyilatkozat keltezésének vagy a jogügyletre megkötött adásvételi szerződés keltezésének figyelembevételével.
+#### 202/C. §
 
 #### 203. § [Építésgazdasági intézkedések]
 
@@ -4091,7 +4017,7 @@ válik hatályossá. A kiadott építési engedélyt és a vízjogi létesítés
 (2) Az (1) bekezdésben foglaltak eredményeként építésgazdasági intézkedésre okot adó állapot következik be, ha
 
 - a) kihirdetett veszélyhelyzet, vagy a veszélyhelyzet kihirdetésére alkalmas, illetve e helyzet kihirdetését el nem érő mértékű, de olyan állapot vagy helyzet áll elő, amely emberek életét, egészségét, anyagi értékeit, a lakosság alapvető ellátását, a természeti környezetet, a természeti értékeket olyan módon vagy mértékben veszélyezteti, károsítja, és a kár megelőzése, elhárítása vagy a következmények felszámolása elengedhetetlen, vagy
-- b) a stratégiai jelentőségű építési anyagok vonatkozásában
+- b)
   - ba) az építési anyag árszintje a Központi Statisztikai Hivatal által közzétett inflációs ráta másfélszeresét meghaladóan nő, és
   - bb) a stratégiai jelentőségű építési anyagok vonatkozásában nagymértékű hiány áll elő,
   - bc) a bb) pontban fennálló helyzetben a legalább 20 százalékos piaci részesedéssel rendelkező gyártó leállítja a termelést, vagy
@@ -4099,23 +4025,23 @@ válik hatályossá. A kiadott építési engedélyt és a vízjogi létesítés
 
 amely ellehetetleníti az állami vagy a kiemelten közérdekű, közbiztonság-védelmi és veszélyhelyzeti építési beruházások határidőben történő megvalósítását.
 
-(3) Az építésgazdaságért felelős miniszter a (2) bekezdésben foglaltak figyelembe vételével mérlegelési jogkörében a stratégiai jelentőségű építési anyag kivitelét az ellátásbiztonság garantálásához feltétlenül szükséges időtartamra, de legfeljebb egy évre megtilthatja.
+(3)
 
-(4) A (2) bekezdés b) pont bc) alpontjában meghatározott esetben az építésgazdaságért felelős miniszter a (2) bekezdésben foglaltak figyelembe vételével mérlegelési jogkörében a gyártót a minimális termelés fenntartására kötelezheti kompenzáció biztosításával, ha a termelés elmaradása ellehetetleníti az állami vagy a kiemelt közérdekű, biztonságvédelmi és veszélyhelyzeti építési beruházások határidőben történő megvalósítását.
+(4)
 
-(5) A stratégiai jelentőségű építési anyagot gyártó üzem tulajdonjogának átruházása esetén a (2) bekezdésben foglaltak figyelembe vételével az építésgazdaságért felelős miniszter mérlegelése alapján magyar államot elővásárlási jog illeti meg. A magyar állam elővásárlási jogát az állam tulajdonosi jogkörében eljáró szerv gyakorolja.
+(5)
 
-(6) Az elővásárlási jog gyakorlására jogosult, az állam tulajdonosi jogkörében eljáró szerv a szerződés megkötésére irányuló szándékot egyértelműen kifejező és valamennyi lényeges kérdésre kiterjedő ajánlat közlésétől vagy – az elővásárlási jog jogosultjával szemben hatálytalan – tulajdonjog átruházására irányuló szerződés megkötéséről való tudomásszerzéstől számított 35 napos jogvesztő határidőn belül nyilatkozhat, hogy kíván-e élni elővásárlási jogával az állam nevében.
+(6)
 
-(7) A Kormány – az e törvény felhatalmazása alapján kiadott rendeletében – a 13. §, a 17. § (2) bekezdés d) és e) pontja, a 20. § (2) bekezdése, a 202. § és a 203. §-a szerinti építésgazdasági feladatellátás hatékonysága érdekében eltérő szabályokat, szigorítást, mentesítést vagy kedvezményt állapíthat meg
+(7) A Kormány – az e törvény felhatalmazása alapján kiadott rendeletében – a 13. §, a 17. § (2) bekezdés d) és e) pontja, a 20. § (2) bekezdése, a 202. § és az e § szerinti építésgazdasági feladatellátás hatékonysága érdekében eltérő szabályokat, szigorítást, mentesítést vagy kedvezményt állapíthat meg
 
 - a) a 65. § (3) bekezdése szerinti építési folyamat résztvevői építésgazdasággal összefüggő feladataira, felelősségére vonatkozóan meghatározott jogokra és kötelezettségekre az építőipari kivitelezési tevékenység végzéséhez kapcsolódóan,
 - b) a 184. § (2) bekezdése szerinti építési termék beépítési feltételeinek alkalmasságára az építőipari kivitelezési tevékenység színvonalának emelése céljából,
 - c) a 184. § (4) bekezdése szerinti – az építési anyagokra előírt – piacfelügyeleti ellenőrzésekre és intézkedésekre, a kivitelezés szakszerűségének ellenőrzése érdekében
 - d) a 188. § (8) és (9) bekezdése szerinti az építőipari kivitelezési tevékenység minőségének növelése érdekében az építőipari kivitelező minősítésére vagy értékelésére,
-- e) a 202. § (2) bekezdése szerinti stratégiai építési anyagok meghatározására, az építési anyagellátás biztonsága érdekében,
-- f) a 202. § (3) bekezdése és a (2) bekezdés szerinti építésgazdasági intézkedésre okot adó állapot megítélésének szempontjaira, valamint
-- g) az (5) bekezdés szerinti stratégiai építési anyagot gyártó üzem tulajdonjogának átruházása esetén az elővásárlási jog gyakorlására az építési anyagellátás biztonsága érdekében,
+- e)
+- f) a (2) bekezdés szerinti építésgazdasági intézkedésre okot adó állapot megítélésének szempontjaira, valamint
+- g)
 
 ha ez az építési beruházás megvalósítását vagy építési anyagellátásának biztosítását hatékonyabban elősegíti és az építési beruházás kedvezőbb költség és időigény mentén valósítható meg. Az eltérő szabály, szigorítás, mentesítés vagy a kedvezmény nem lehet ellentétes az e törvényben megfogalmazott alapelvekkel, nem sérthet más jogszabályból származó kötelezettségeket, valamint az élet- és vagyonbiztonságot. A Kormány az e törvény felhatalmazása alapján kiadott rendeletében rendelkezni kell az eltérő szabály, szigorítás, mentesítés, valamint a kedvezmény végleges vagy ideiglenes jellegéről, utóbbi esetben a kötelezettség maradéktalan teljesítésének határidejéről és módjáról.
 
@@ -4304,7 +4230,7 @@ tartalmazza.
 
 - a) az adatkezelő, az e törvényben és a felhatalmazása alapján kiadott rendeletekben meghatározott adatfeldolgozó és az érintettek a saját személyes adataikat korlátozás nélkül,
 - b) az e törvényben és a felhatalmazása alapján kiadott rendeletekben meghatározott adatfelelősök a feladat ellátásához szükséges tartalommal korlátozottan,
-- c) a települési önkormányzat, a fővárosi és vármegyei kormányhivatal, a szakmai kamara és a 216. § (1) bekezdése szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
+- c) a települési önkormányzat, a fővárosi és megyei kormányhivatal, a szakmai kamara és a 216. § (1) bekezdése szerinti egyéb szervek és személyek, a jogszabályokban meghatározott építésügyi feladatuk ellátásához szükséges mértékű hozzáférési jogosultságuk szerint korlátozottan,
 - d) a szakmagyakorlók és az a)–c) pontba nem tartozó egyéb szervek és személyek – ha törvény eltérően nem rendelkezik – az érintett írásbeli hozzájárulásával
 
 ismerhetik meg.
@@ -4567,7 +4493,7 @@ ellenőrzi.
 - 7. a 84. § (1) bekezdés h)–k) pontja szerinti településrendezési sajátos jogintézmények részletszabályait, valamint a településrendezési szerződés megkötésének eljárásrendjére vonatkozó szabályokat,
 - 8. a kézikönyv tartalmi elemeit, az elkészítésére, egyeztetésére, elfogadására és módosítására vonatkozó részletes szabályokat,
 - 9. az önkormányzat településkép-védelmi feladatait, a településképi követelmények megállapítására, a településképi véleményezési, a településképi bejelentési, a településképi kötelezési eljárásra, a településkép-védelmi bírság megállapítására és kiszabására, a meghatározott cselekmény végrehajtására és mindezekről hatósági bizonyítvány kiállítására vonatkozó szabályokat, valamint az önkormányzatnak a településkép-védelmi tájékoztatásra és szakmai konzultációra irányadó általános szabályait,
-- 10. a reklám-elhelyezési tilalommal nem érintett területeken a reklámhordozók és tartó berendezések elhelyezési módjára, méretére, megjelenési formájára és az elhelyezés időtartamára vonatkozó szabályokat,
+- 10. a reklám-elhelyezési tilalommal nem érintett területeken a reklámhordozók és a reklámhordozót tartó berendezések elhelyezési módjára, méretére, megjelenési formájára és az elhelyezés időtartamára vonatkozó szabályokat, valamint az egyéb reklámeszközök körét és a reklámeszközöknek a település közigazgatási területén belüli elhelyezhetőségének követelményeit,
 - 11. reklámmal, reklámeszközzel és plakáttal összefüggésben a közigazgatási bírság és helyszíni bírság kiszabásának mérlegelési szempontjait és megfizetése módjának részletszabályait,
 - 12. az országos településkép-védelemmel érintett településképi szempontból kiemelten meghatározó területet és az érintett ingatlanokat, a településképi szempontból kiemelten meghatározó területre vonatkozó kiemelt településképi követelményeket, a kiemelt településképi követelmények érvényesülése érdekében alkalmazandó településkép-érvényesítési eszközöket, az egyes eszközök alkalmazásának eseteit, módját, részletes szabályait, a vonatkozó eljárások szabályait, beleértve az eljárásokban vizsgálandó településképi szempontokat és az eljárások alóli mentesség feltételeit, a támogatási és ösztönző rendszer alkalmazását, továbbá az országos településkép-érvényesítési eszközök alkalmazására hatáskörrel rendelkező hatóságokat és feladatkörrel rendelkező egyéb szerveket, a kiemelt településképi követelmények érvényesülése érdekében kiszabható településkép-védelmi bírság mértéke megállapításának szempontrendszerét és a bírság megfizetési módjának részletszabályait,
 - 13. az építésügyi
@@ -4647,9 +4573,9 @@ ellenőrzi.
   - e) a kiemelt nemzeti emlékhelyen és a településkép-védelmi környezetében található ingatlan e törvényben, illetve az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározott követelmények szerinti helyreállítását, felújítását és átalakítását szolgáló támogatási és ösztönző rendszer részletes szabályait, a támogatás feltételrendszerét és módját,
   - f) a Kiemelt Nemzeti Emlékhely Bizottságnak a nemzeti jelképek kiemelt nemzeti emlékhelyen történő használatával kapcsolatos egyes feladatait,
   - g) a Kiemelt Nemzeti Emlékhely Bizottsághoz benyújtandó kérelem tartalmára, a Kiemelt Nemzeti Emlékhely Bizottság előtti eljárásra és az eljárás elmulasztásának jogkövetkezményeire vonatkozó szabályokat,
-- 63. az építésgazdasági feladatellátás hatékonysága érdekében az építésgazdaság szereplői tevékenységére vonatkozó szabályokat, valamint a 203. § (7) bekezdés a)–g) pontja szerinti esetekben az építésgazdaság fogalom körébe tartozó tevékenységek, szolgáltatások, követelmények, kutatás, műszaki fejlesztés, hatáskörök és hatósági jogkörök érvényesítése érdekében az e törvény egyes rendelkezéseitől való eltérés szabályait,
-- 64. az építésgazdasági intézkedésre okot adó állapot kihirdetését, az építési alapanyagok körének megállapítását, továbbá a hasznosított építési-bontási hulladékok kapcsán az újrafeldolgozó és az értékesítő által szolgáltatandó adatokra vonatkozó részletes szabályait,
-- 65. a stratégiai jelentőségű építési anyagot gyártó üzem értékesítése, továbbá a stratégiai jelentőségű építési anyag kivitele esetén a magyar államot megillető elővásárlási jog gyakorlásának részletes szabályait,
+- 63. az építésgazdasági feladatellátás hatékonysága érdekében az építésgazdaság szereplői tevékenységére vonatkozó szabályokat, valamint a 203. § (7) bekezdés a)–d) és f) pontja szerinti esetekben az építésgazdaság fogalom körébe tartozó tevékenységek, szolgáltatások, követelmények, kutatás, műszaki fejlesztés, hatáskörök és hatósági jogkörök érvényesítése érdekében az e törvény egyes rendelkezéseitől való eltérés szabályait,
+- 64. az építésgazdasági intézkedésre okot adó állapot kihirdetését, az építési alapanyagok körének megállapítását,
+- 65.
 - 66. a NÉNY rendszerrel összefüggésben
   - a) a rendszerbe tartozó építési anyagok és azok előállítói, gyártói körét,
   - b) a rendszer építésgazdasági és műszaki tartalmú felépítését, ideértve a más kapcsolódó nyilvántartásokat, adatbázisokat, elektronikus alkalmazásokat és a csatlakozás feltételeinek meghatározását és az automatikus adatátadással érintett adatok körét,
@@ -4695,13 +4621,14 @@ ellenőrzi.
 
 - a) a kiemelt jelentőségű ügyek körét, a kiemelt beruházások körét, a kiemelt beruházás helyszínét és közvetlen környezetét, valamint az építési tevékenységgel érintett telek közvetlen környezetébe tartozó, az építési tevékenység költséghatékony elvégzéséhez szükséges közterület díjmentes használatának feltétlenül szükséges időtartamát,
 - b) a kiemelt jelentőségű ügyben eljáró hatóság vagy hatóságok kijelölését,
-- c) a kiemelt jelentőségű ügyben a főispán feladatkörét, a koordináció részletes eljárási szabályait,
+- c) a kiemelt jelentőségű ügyben a kormánymegbízott feladatkörét, a koordináció részletes eljárási szabályait,
 - d) valamennyi kiemelt beruházás esetén a megvalósításával összefüggő, az általánostól eltérő területrendezési követelményeket, eltérő településrendezési, építési, településképi és telekalakítási követelményeket, eltérő örökségvédelmi, helyi védelemre és helyi emlékekre vonatkozó követelményeket, eltérő fás szárú növényekre vonatkozó követelményeket, valamint mindezekhez a kapcsolódó eljárási szabályokat,
 - e) közcélú kiemelt beruházás esetében az eltérő tűzvédelmi követelményeket, az eltérő környezetvédelmi követelményeket, valamint mindezekhez a kapcsolódó eljárási szabályokat,
 - f) kiemelt beruházással kapcsolatosan a változtatási, a telekalakítási és az építési tilalom alkalmazásának kizárását, valamint a 194. § (9) bekezdése szerinti kártalanítás részletes szabályait,
 - g) a kiemelt beruházáshoz közvetlenül kapcsolódó, közműszakaszt érintő munka elvégzésére és elszámolására vonatkozó részletes szabályokat,
 - h) a kiemelt jelentőségű ügyek vonatkozásában a beruházó tájékoztatási kötelezettségének részletes szabályait.
 - i) a közcélú kiemelt beruházás esetében a közúti közlekedésről szóló törvény szerinti közútkezelői nyilatkozat kiadására – ideértve az érvényben lévő súlykorlátozás alóli felmentést, a közútkezelői hozzájárulást az építési, bontási és felújítási munkálatokhoz, a forgalomtechnikai tervek elfogadását is – jogosult szerv kijelölését.
+- j) azt az időtartamot, ameddig a kiemelt jelentőségű ügyek vonatkozásában a beruházás megvalósításához építési engedély vagy létesítési engedély nem adható ki.
 
 (3) Felhatalmazást kap az építésügyi szabályozásért és építéshatósági ügyekért felelős miniszter, hogy rendeletben szabályozza
 
@@ -4718,7 +4645,7 @@ ellenőrzi.
 - 1. az ajánlott építőipari rezsióradíj mértékét,
 - 2. az építésügyi műszaki irányelvek kidolgozásáért felelős bizottság létrehozására, összetételére, feladatkörére és működésére vonatkozó részletes szabályokat,
 - 3. az épületek energetikai jellemzőinek meghatározására vonatkozó szabályokat,
-- 4. az építésgazdasági intézkedésre okot adó állapot fennállása esetén a stratégiai jelentőségű építési anyagok körének megállapítása részletes szabályait.
+- 4.
 
 (5) Felhatalmazást kap a kulturális örökség védelméért felelős miniszter, hogy rendeletben megállapítsa
 
@@ -4737,6 +4664,8 @@ ellenőrzi.
 - 1. a helyi építési szabályzatot, a településképi követelményeket, a szakmai konzultációra, a településképi véleményezési, a településképi bejelentési és a településképi kötelezési eljárásra, illetve a településkép-védelmi bírság behajtására vonatkozó részletes szabályokat, a településrendezési feladatok megvalósulását biztosító sajátos jogintézmények helyi részletszabályait, a helyi emlékek körét és a rájuk vonatkozó szabályokat, az önkormányzati támogatási és ösztönző rendszer részletes tartalmát,
 - 2. a telekalakítási és építési tilalmat, valamint változtatási tilalmat,
 - 3. a helyi építészeti tervtanács létrehozásáról, működési feltételeiről, eljárási szabályainak megállapításáról szóló szabályokat.
+- 4. a reklám- és reklámeszköz-elhelyezési tilalommal érintett – a 103. § (1) bekezdés a)–e) pontjában nem szereplő – egyéb bel- és külterületeket, továbbá azon reklámeszközök körét, amelyeken reklám nem helyezhető el azzal, hogy a kerületi önkormányzat a fővárosi önkormányzat által nem tiltott területeken és nem tiltott reklámeszköz tekintetében határozhat meg tilalmat,
+- 5. a reklámeszközök településképi bejelentésének tartalmára vonatkozó követelményeket, valamint a 105. § szerinti jogkövetkezmények érvényesítésére vonatkozó kiegészítő eljárási szabályokat.
 
 (9) Felhatalmazást kap a települési önkormányzat – a fővárosban a kerületi önkormányzat –, hogy a (8) bekezdés 1. pontja szerinti helyi építési szabályzatban kijelölje a 76. § (10) bekezdése szerinti magasépítmények telepítésére alkalmas övezeteket és telkeket.
 
@@ -4750,10 +4679,12 @@ ellenőrzi.
 - 6. az önkormányzati támogatási és ösztönző rendszer részletes tartalmát,
 - 7. a helyi építészeti tervtanács létrehozásáról, működési feltételeiről, eljárási szabályainak megállapításáról szóló szabályokat,
 - 8. a fővárosi tulajdonban lévő közterületek vonatkozásában a közterület-alakítási terv részletes tartalmi követelményeit.
+- 9. a főváros egész területére a reklám- és reklámeszköz-elhelyezési tilalommal érintett – a 103. § (1) bekezdés a)–e) pontjában nem szereplő – egyéb területeket, továbbá azon reklámeszközök körét, amelyeken nem helyezhető el reklám,
+- 10. a reklámeszközök településképi bejelentésének tartalmára vonatkozó követelményeket, valamint a 105. § szerinti jogkövetkezmények érvényesítésére vonatkozó kiegészítő eljárási szabályokat.
 
 (11) Felhatalmazást kap a települési önkormányzat (fővárosban a fővárosi és a fővárosi kerületi önkormányzat is), hogy a széles körű társadalmi bevonás és a nyilvánosság biztosítása érdekében, a helyi adottságoknak megfelelően rendeletben állapíthatja meg a településterv és a kézikönyv készítéséhez, módosításához a lakossággal, az érdekképviseleti, civil és gazdálkodó szervezetekkel, a vallási közösségekkel, valamint a település közigazgatási területén működő nemzetiségi önkormányzattal, több nemzetiségi önkormányzat esetén valamennyi nemzetiségi önkormányzattal történő partnerségi egyeztetés részletes szabályait.
 
-(12) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó főispánok felé, továbbá a koordinációs feladatokat ellátó főispánok által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
+(12) Felhatalmazást kap a közigazgatás-szervezésért felelős miniszter, hogy rendeletben állapítsa meg a kiemelt jelentőségű ügyben eljáró hatóságok és szakhatóságok által a koordinációs feladatokat ellátó kormánymegbízottak felé, továbbá a koordinációs feladatokat ellátó kormánymegbízottak által a közigazgatás-szervezésért felelős miniszter és a Kormány tagjai felé teljesítendő, törvényben vagy kormányrendeletben előírt rendszeres és eseti jellegű jelentések, valamint tájékoztatások részletszabályait.
 
 #### 50. Hatályba léptető rendelkezések
 
@@ -4818,13 +4749,15 @@ bizonyos időtartammal automatikusan meghosszabbodik.
 
 (3) A (2) bekezdés szerinti szerződéses kikötésekben szereplő meghosszabbodási időtartam e törvény rendelkezései alapján az (1) bekezdésben foglalt időtartamra módosul.
 
-(4) A 102–104. § szerinti követelményeknek, valamint e törvény felhatalmazása alapján kiadott kormányrendelet előírásainak nem megfelelő reklámeszköz legfeljebb 2025. június 30-ig használható reklám közzététele céljából. A 102–104. § szerinti követelményeknek, valamint az e törvény felhatalmazása alapján kiadott kormányrendelet előírásainak nem megfelelő reklámeszközt a reklámeszköz tulajdonosa legkésőbb 2025. június 30-ig köteles a saját költségén eltávolítani. Ennek elmaradása esetén a járási (fővárosi kerületi) hivatal a reklámeszköz tulajdonosától és az ingatlan tulajdonosától egyaránt követelheti a reklámeszköz haladéktalan eltávolítását.
+(4) E törvénynek a gyűlöletkeltésre alkalmas politikai reklámok visszaszorításáról, a gazdasági reklámok településképi illeszkedésének biztosításáról, valamint egyes beruházási szabályok módosításáról szóló 2026. évi XX. törvénnyel (a továbbiakban: Módtv1.) megállapított 103. §-a és 104. §-a szerinti követelményeknek, valamint az e törvény felhatalmazása alapján kiadott kormányrendelet és önkormányzati rendelet előírásainak nem megfelelő reklámeszközt a reklámeszköz tulajdonosa haladéktalanul, de legkésőbb 2026. december 31-ig köteles a saját költségén eltávolítani. Ennek elmaradása esetén a helyi önkormányzat a reklámeszköz tulajdonosától és az ingatlan tulajdonosától egyaránt követeli a reklámeszköz haladéktalan eltávolítását, és velük szemben a 105. § szerint jár el.
 
-(5) A 102–104. § szerinti követelményeknek, valamint az e törvény felhatalmazása alapján kiadott kormányrendelet előírásainak megfelelő reklámeszköz – ha azt az önkormányzat településképi bejelentési eljárásban e rendelkezés hatálybalépése előtt tudomásul vette – külön hatósági eljárás lefolytatása nélkül 2025. június 30-ig maradhat fenn azzal, hogy 2025. március 31-ig kezdeményezni kell a tudomásulvételi eljárást. Azon reklámeszközök tulajdonosa, amelyek átalakítással felelnek meg a 102–104. § szerinti követelményeknek, valamint az e törvény felhatalmazása alapján kiadott kormányrendelet előírásainak, 2025. március 31-ig kötelesek kezdeményezni a tudomásulvételi eljárást.
+(5) Azon reklámeszközök tulajdonosa, amelyek átalakítással vagy korszerűsítéssel felelnek meg a Módtv1-gyel megállapított 103. § és 104. § szerinti követelményeknek, valamint az e törvény felhatalmazása alapján kiadott kormányrendelet és önkormányzati rendelet előírásainak, 2026. december 31-ig kötelesek kezdeményezni a településképi bejelentési eljárást.
 
-(6) Az (5) bekezdés szerinti tudomásulvételi eljárásban meghozott döntéstől függően a Nemzeti Média- és Hírközlési Hatóság hivatalból felülvizsgálja reklámeszköznek az országos reklámkataszterbe történt korábbi bejegyzését.
+(6)
 
-(7) E rendelkezés hatálybalépésétől a településképi rendelet reklámok és reklámhordozók elhelyezésére vonatkozó szabályait nem kell alkalmazni.
+(7) A településképi rendeleteknek és a helyi építési szabályzatoknak a 2026. október 1-jét követően megállapított reklámeszköz elhelyezési szabályait kell alkalmazni.
+
+(8) A 104. § (4) bekezdésétől eltérően az e rendelkezés hatálybalépését megelőzően jogszerűen felállított hirdetőoszlopok – ha az érintett helyi önkormányzat rendeletében másként nem rendelkezik – fennmaradhatnak és azon reklám elhelyezhető.
 
 #### 231. § [Építésügyi hatósági átmeneti rendelkezések]
 
@@ -4880,6 +4813,14 @@ bizonyos időtartammal automatikusan meghosszabbodik.
 (5) E törvénynek a Módtv.-vel megállapított 194/A. § (3)–(15) bekezdését a (4) bekezdés szerinti beruházások esetén is alkalmazni kell azzal, hogy ha a 194/A. § (3) bekezdés b) pontja szerinti bejelentési, illetve (7) bekezdése szerinti tájékoztatási kötelezettség teljesítésére vonatkozó valamely határidő e rendelkezések hatálybalépésének napján már letelt vagy abból kevesebb, mint 30 nap van hátra, akkor azt az építtető e rendelkezések hatálybalépését követő 30 napon belül köteles teljesíteni.
 
 (6) Ha a (4) bekezdés szerinti beruházások esetén a 257/2025. (VIII. 11.) Korm. rendelet 2. § (3) és (4) bekezdése alapján tett nyilatkozat nem felel meg a 194/A. § (1) és (2) bekezdése szerinti követelményeknek, akkor az építtető a 194/A. § (1) és (2) bekezdése szerinti nyilatkozatot, illetve az ahhoz csatolandó dokumentumokat a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszterhez az e rendelkezések hatálybalépését követő 60 napon belül köteles benyújtani. Ha az építtető e kötelezettségének a 60 napos határidőn belül maradéktalanul nem tesz eleget, a beruházás kiemelt beruházássá nyilvánítása és a beruházással összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánítása e törvény erejénél fogva megszűnik, és a Kormány gondoskodik a beruházást kiemelt beruházássá és a beruházással összefüggő közigazgatási hatósági ügyeket kiemelt jelentőségű üggyé nyilvánító kormányrendelet ezzel összhangban történő módosításáról, illetve hatályon kívül helyezéséről.
+
+(7) A 193. § (3a) bekezdése szerinti magáncélú kiemelt beruházásokkal, valamint a (4) bekezdés szerinti beruházásokkal összefüggő kiemelt jelentőségű ügyben – a használatbavételhez szükséges engedély kivételével – épületre építési engedélyt 2026. december 31-ét követően lehet kiadni.
+
+(8) A magyar építészetről szóló 2023. évi C. törvény módosításáról szóló 2026. évi LVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 194. § (14)–(16) bekezdését a Módtv2. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+(9) A Módtv2.-vel megállapított 194. § (15) és (16) bekezdésében foglaltakat alkalmazni kell akkor is, ha a környezetvédelmi vagy természetvédelmi hatóság jogsértést megállapító döntése az e rendelkezés hatálybalépését megelőző hat hónapon belül vált véglegessé, és a jogsértő állapot még fennáll.
+
+(10) A (7) bekezdésben foglaltakkal összefüggésben az államot kártalanítási kötelezettség nem terheli.
 
 #### 234/A. § [Szélerőművekre vonatkozó átmeneti rendelkezések]
 

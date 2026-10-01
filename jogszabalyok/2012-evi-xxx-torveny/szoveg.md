@@ -27,7 +27,7 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 1. § (1) E törvény alkalmazásában:
 
 - a) ágazati értéktár: az egyes ágazatokért felelős miniszterek által feladat-és hatáskörük szerint azonosítva nyilvántartott nemzeti értékek adatainak gyűjteménye;
-- b) értéktár bizottság: települési értéktár, tájegységi értéktár, külhoni települési értéktár, külhoni tájegységi értéktár, valamint vármegyei értéktár esetén legalább három tagból álló bizottság, ágazati értéktár bizottság esetén öt tagból álló bizottság, akiket az egyes ágazatokért felelős miniszterek nevezik ki;
+- b) értéktár bizottság: települési értéktár, tájegységi értéktár, külhoni települési értéktár, külhoni tájegységi értéktár, valamint megyei értéktár esetén legalább három tagból álló bizottság, ágazati értéktár bizottság esetén öt tagból álló bizottság, akiket az egyes ágazatokért felelős miniszterek nevezik ki;
 - c) hungarikum: gyűjtőfogalom, amely – szakterületi kategóriák szerinti besorolásban nyilvántartva – olyan megkülönböztetésre, kiemelésre méltó értéket jelöl, amely a magyarságra jellemző tulajdonságával, egyediségével, különlegességével és minőségével a magyarság csúcsteljesítménye;
 - d) Hungarikumok Gyűjteménye: a hungarikummá nyilvánított nemzeti értékek gyűjteménye;
 - e) hungarikum termék: olyan hungarikum, amely termékként jogszabály alapján magyar terméknek minősül;
@@ -37,7 +37,7 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 - i) külhoni magyarság értéktár: a külhoni települési értéktár, a külhoni tájegységi értéktár és a külhoni nemzetrész értéktár összefoglaló elnevezése;
 - j) külhoni nemzetrész értéktár: az országhatáron túl, egy adott ország területén élő magyarságra jellemző nemzeti értékek közül az adott Külhoni Nemzetrész Értéktár Bizottság által külhoni értékké nyilvánított értékek adatait tartalmazó gyűjtemény;
 - k) Magyar Értéktár: a nemzeti értékek köréből a Hungarikum Bizottság (a továbbiakban: HB) által kiemelkedő nemzeti értékké nyilvánított értékek gyűjteménye;
-- l) vármegyei értéktár: a vármegye területén fellelhető nemzeti értékek közül a Vármegyei Értéktár Bizottság által vármegyei értékké nyilvánított értékek adatait tartalmazó gyűjtemény; ahol e törvény vármegyei értéktárat említ, az alatt a fővárosi értéktárat is érteni kell;
+- l) megyei értéktár: a megye területén fellelhető nemzeti értékek közül a Megyei Értéktár Bizottság által megyei értékké nyilvánított értékek adatait tartalmazó gyűjtemény; ahol e törvény megyei értéktárat említ, az alatt a fővárosi értéktárat is érteni kell;
 - m) nemzeti érték: a magyarság és a magyarországi államalkotó nemzetiségek tevékenységéhez, termelési kultúrájához, tudásához, hagyományaihoz, a magyar tájhoz és élővilághoz kapcsolódó, nemzetünk történelme, valamint a közelmúlt során felhalmozott és megőrzött minden szellemi és anyagi, természeti, közösségi érték vagy termék, illetve a tájhoz és élővilághoz kapcsolódó materiális vagy immateriális javakat magába foglaló tájérték, amely tanúskodik egy emberi közösség és az adott terület történelmi kapcsolatáról;
 - n) nemzetközi elismerésben részesített nemzeti érték: azon nemzeti érték, amely az Országgyűlés által ratifikált vagy kormányrendelettel kihirdetett nemzetközi megállapodások vagy viszonosság alapján nemzetközi elismerésben részesült;
 - o) tájegységi értéktár: több földrajzi, történelmi vagy néprajzi szempontok alapján szomszédos település, illetve földrajzi, történelmi vagy néprajzi szempontok alapján egységet alkotó tájegység területén fellelhető nemzeti értékek közül az adott Tájegységi Értéktár Bizottság által tájegységi értékké nyilvánított értékek adatait tartalmazó gyűjtemény;
@@ -54,33 +54,33 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 
 #### 2. A nemzeti értékek azonosítása
 
-2. § A nemzeti értékek megóvandó értékek, azonosításukban, rendszerezésükben, adataik nyilvántartásba vételében és folyamatos frissítésében, gondozásában a természetes személyek, települési önkormányzatok, a vármegyei önkormányzatok, a települési, külhoni települési, a vármegyei és az országos nemzetiségi önkormányzatok, a hatáskörrel rendelkező állami szervek, a Magyar Állandó Értekezlet (a továbbiakban: MÁÉRT) külhoni tagszervezetei és az általuk megbízott természetes és jogi személyek működhetnek közre.
+2. § A nemzeti értékek megóvandó értékek, azonosításukban, rendszerezésükben, adataik nyilvántartásba vételében és folyamatos frissítésében, gondozásában a természetes személyek, települési önkormányzatok, a megyei önkormányzatok, a települési, külhoni települési, a megyei és az országos nemzetiségi önkormányzatok, a hatáskörrel rendelkező állami szervek, a Magyar Állandó Értekezlet (a továbbiakban: MÁÉRT) külhoni tagszervezetei és az általuk megbízott természetes és jogi személyek működhetnek közre.
 
 #### 3. Települési, valamint tájegységi értéktár
 
 3. § (1) A települési önkormányzat települési értéktárat hozhat létre.
 
-(2) A települési önkormányzat Települési Értéktár Bizottságot hozhat létre, amely – az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – azonosítja a településen fellelhető nemzeti értékeket, létrehozza a települési értéktárat és nyilvántartás céljából megküldi azt a Vármegyei Értéktár Bizottság részére.
+(2) A települési önkormányzat Települési Értéktár Bizottságot hozhat létre, amely – az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – azonosítja a településen fellelhető nemzeti értékeket, létrehozza a települési értéktárat és nyilvántartás céljából megküldi azt a Megyei Értéktár Bizottság részére.
 
-(3) Több földrajzi, történelmi vagy néprajzi szempontok alapján szomszédos települési önkormányzat Tájegységi Értéktár Bizottságot is létrehozhat, amely elkészíti a tájegységi értéktárat és annak adatait megküldi az érintett Vármegyei Értéktár Bizottságok részére.
+(3) Több földrajzi, történelmi vagy néprajzi szempontok alapján szomszédos települési önkormányzat Tájegységi Értéktár Bizottságot is létrehozhat, amely elkészíti a tájegységi értéktárat és annak adatait megküldi az érintett Megyei Értéktár Bizottságok részére.
 
-(4) A települési önkormányzat a települési, tájegységi értékek azonosításával, a települési, tájegységi értéktár létrehozatalával és annak gondozásával, valamint adatainak az érintett Vármegyei Értéktár Bizottság részére történő megküldésével megbízhat a település, tájegység területén működő, nemzeti értékek azonosítását, gondozását végző állami, települési önkormányzati, egyházi vagy civil szervezetet, közalapítványt, ilyen szervezet által fenntartott intézményt vagy annak szervezeti egységét, vagy a településfejlesztésben tevékenykedő külső településfejlesztési, vidékfejlesztési szervezetet (a továbbiakban együtt: települési szervezet). A települési szervezet jogai megegyeznek a Települési Értéktár Bizottság, illetve a Tájegységi Értéktár Bizottság jogaival.
+(4) A települési önkormányzat a települési, tájegységi értékek azonosításával, a települési, tájegységi értéktár létrehozatalával és annak gondozásával, valamint adatainak az érintett Megyei Értéktár Bizottság részére történő megküldésével megbízhat a település, tájegység területén működő, nemzeti értékek azonosítását, gondozását végző állami, települési önkormányzati, egyházi vagy civil szervezetet, közalapítványt, ilyen szervezet által fenntartott intézményt vagy annak szervezeti egységét, vagy a településfejlesztésben tevékenykedő külső településfejlesztési, vidékfejlesztési szervezetet (a továbbiakban együtt: települési szervezet). A települési szervezet jogai megegyeznek a Települési Értéktár Bizottság, illetve a Tájegységi Értéktár Bizottság jogaival.
 
-(5) A Települési, illetve Tájegységi Értéktár Bizottság létrehozásáról vagy a (4) bekezdés szerinti feladatok ellátásával történő megbízásról az érintett települési önkormányzat vagy önkormányzatok a létrehozást, illetve a megbízást követő 30 napon belül tájékoztatja, illetve tájékoztatják a HB-t és az érintett vármegyei értéktár bizottságot vagy bizottságokat.
+(5) A Települési, illetve Tájegységi Értéktár Bizottság létrehozásáról vagy a (4) bekezdés szerinti feladatok ellátásával történő megbízásról az érintett települési önkormányzat vagy önkormányzatok a létrehozást, illetve a megbízást követő 30 napon belül tájékoztatja, illetve tájékoztatják a HB-t és az érintett megyei értéktár bizottságot vagy bizottságokat.
 
 (6) A települési önkormányzat közigazgatási területén fellelhető, illetve az ott létrehozott nemzeti érték felvételét a települési, tájegységi értéktárba bárki írásban kezdeményezheti az adott érték fellelhetőségének helye szerint illetékes önkormányzat polgármesteréhez címzett javaslatában.
 
-#### 4. Vármegyei értéktár
+#### 4. Megyei értéktár
 
-4. § (1) A vármegyei önkormányzat vármegyei értéktárat hozhat létre.
+4. § (1) A megyei önkormányzat megyei értéktárat hozhat létre.
 
-(2) A vármegyei önkormányzat Vármegyei Értéktár Bizottságot hozhat létre, amely – az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – szervezi a vármegye területén azonosított települési és tájegységi értéktárak adatainak összesítését, azonosítja a vármegye területén fellelhető nemzeti értékeket, dönt a vármegyei értéktárba bekerülő nemzeti értékekről, létrehozza a vármegyei értéktárat és nyilvántartás céljából megküldi azt a HB-nek.
+(2) A megyei önkormányzat Megyei Értéktár Bizottságot hozhat létre, amely – az e törvény végrehajtására kiadott jogszabályban meghatározottak szerint – szervezi a megye területén azonosított települési és tájegységi értéktárak adatainak összesítését, azonosítja a megye területén fellelhető nemzeti értékeket, dönt a megyei értéktárba bekerülő nemzeti értékekről, létrehozza a megyei értéktárat és nyilvántartás céljából megküldi azt a HB-nek.
 
-(3) A vármegyei önkormányzat a vármegyei értékek azonosításával, a vármegyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével megbízhat a vármegye területén működő, nemzeti értékek azonosítását, gondozását végző állami, vármegyei önkormányzati, egyházi vagy civil szervezetet, közalapítványt, ilyen szervezet által fenntartott intézményt vagy annak szervezeti egységeit (a továbbiakban együtt: vármegyei szervezet). A vármegyei szervezet jogai megegyeznek a Vármegyei Értéktár Bizottság jogaival.
+(3) A megyei önkormányzat a megyei értékek azonosításával, a megyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével megbízhat a megye területén működő, nemzeti értékek azonosítását, gondozását végző állami, megyei önkormányzati, egyházi vagy civil szervezetet, közalapítványt, ilyen szervezet által fenntartott intézményt vagy annak szervezeti egységeit (a továbbiakban együtt: megyei szervezet). A megyei szervezet jogai megegyeznek a Megyei Értéktár Bizottság jogaival.
 
-(4) A Vármegyei Értéktár Bizottság létrehozásáról vagy a (3) bekezdés szerinti feladatok ellátásával történő megbízásról a vármegyei önkormányzat a létrehozást, megbízást követő 30 napon belül tájékoztatja a HB-t.
+(4) A Megyei Értéktár Bizottság létrehozásáról vagy a (3) bekezdés szerinti feladatok ellátásával történő megbízásról a megyei önkormányzat a létrehozást, megbízást követő 30 napon belül tájékoztatja a HB-t.
 
-(5) A vármegyei önkormányzat közigazgatási területén fellelhető, illetve az ott létrehozott nemzeti érték felvételét a vármegyei értéktárba bárki írásban kezdeményezheti az adott érték fellelhetőségének helye szerint illetékes vármegyei közgyűlés elnökéhez címzett javaslatában.
+(5) A megyei önkormányzat közigazgatási területén fellelhető, illetve az ott létrehozott nemzeti érték felvételét a megyei értéktárba bárki írásban kezdeményezheti az adott érték fellelhetőségének helye szerint illetékes megyei közgyűlés elnökéhez címzett javaslatában.
 
 #### 5. A külhoni magyarság értéktára
 
@@ -136,10 +136,10 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 
 - a) a HB tagja,
 - b) a Települési, illetve Tájegységi Értéktár Bizottság, valamint a települési szervezet,
-- c) a Vármegyei Értéktár Bizottság vagy a vármegyei szervezet,
+- c) a Megyei Értéktár Bizottság vagy a megyei szervezet,
 - d) a Külhoni Nemzetrész Értéktár Bizottság,
 - e) az ágazati értéktárat működtető, hatáskörrel rendelkező miniszter,
-- f) a települési, tájegységi, vármegyei, külhoni nemzetrész és ágazati értéktárban nyilvántartott nemzeti értéket gondozó vagy fenntartó természetes személy vagy jogi személy.
+- f) a települési, tájegységi, megyei, külhoni nemzetrész és ágazati értéktárban nyilvántartott nemzeti értéket gondozó vagy fenntartó természetes személy vagy jogi személy.
 
 9. § A HB külön elbírálása alapján a kiemelkedő nemzeti értékek közé és a Magyar Értéktárba kerülhetnek:
 
@@ -158,11 +158,11 @@ Az Országgyűlés mindezek érdekében a következő törvényt alkotja:
 
 - a) a HB tagja,
 - b) a Települési, illetve Tájegységi Értéktár Bizottság, valamint a települési szervezet,
-- c) a Vármegyei Értéktár Bizottság vagy a vármegyei szervezet,
+- c) a Megyei Értéktár Bizottság vagy a megyei szervezet,
 - d) a Külhoni Nemzetrész Értéktár Bizottság,
 - e) az ágazati értéktárat működtető, hatáskörrel rendelkező miniszter, valamint
 - f) a Magyar Értéktárban nyilvántartott kiemelkedő nemzeti értéket gondozó vagy fenntartó természetes vagy jogi személy.
-- g) a nemzeti érték települési, tájegységi, vármegyei, külhoni nemzetrész, külhoni települési, külhoni tájegységi értéktárba való felvételének kezdeményezője.
+- g) a nemzeti érték települési, tájegységi, megyei, külhoni nemzetrész, külhoni települési, külhoni tájegységi értéktárba való felvételének kezdeményezője.
 
 (2) Az Egyesült Nemzetek Oktatási, Tudományos és Kulturális Szervezete által kiemelkedő egyetemes értékként vagy szellemi kulturális örökségként nyilvántartott és az 1. § (1) bekezdés b) pontja szerinti feltételeknek megfelelő értékek a HB külön elbírálása alapján minősülhetnek hungarikumoknak.
 
@@ -227,7 +227,7 @@ tagból áll.
 17. § (1) A HB a nemzeti értékek és a kiemelkedő nemzeti értékek megőrzése, fenntarthatósága, széles körű megismertetése és hasznosítása érdekében különösen:
 
 - a) összeállítja a Magyar Értéktárat;
-- b) ha valamely vármegyében nem hoztak létre Vármegyei Értéktár Bizottságot, vagy ha a vármegyei önkormányzat nem bízott meg a vármegyei értékek azonosításával, a vármegyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével vármegyei szervezetet, úgy ellátja annak feladatait;
+- b) ha valamely megyében nem hoztak létre Megyei Értéktár Bizottságot, vagy ha a megyei önkormányzat nem bízott meg a megyei értékek azonosításával, a megyei értéktár létrehozatalával és annak gondozásával, valamint adatainak a Magyar Értéktárba történő megküldésével megyei szervezetet, úgy ellátja annak feladatait;
 - c) évente tájékoztatást ad az Országgyűlésnek a nemzeti értékek azonosításának és rendszerezésének helyzetéről, a nemzeti értékek fenntarthatóságáról és hasznosításáról, valamint a HB működéséről;
 - d) magyar és angol nyelvű internetes oldalt működtet, ahol megismerhető a Magyar Értéktár;
 - e) gondoskodik róla, hogy a Magyar Értéktár a nemzetkép-stratégia szerves részét képezze;
@@ -297,7 +297,7 @@ nyilvánosak.
 
 - a) a nemzeti értékek szakterületenkénti kategóriáit,
 - b) a nemzeti értékek és a hungarikumok kapcsán nyilvántartandó adatok körét, valamint az adatok egységes osztályozási, besorolási, nyilvántartási rendszerét,
-- c) a települési, tájegységi és vármegyei értéktárak létrehozására és gondozására, valamint a Települési, Tájegységi és Vármegyei Értéktár Bizottságok, továbbá az ágazati értéktárak felállítására és működésére vonatkozó szabályokat,
+- c) a települési, tájegységi és megyei értéktárak létrehozására és gondozására, valamint a Települési, Tájegységi és Megyei Értéktár Bizottságok, továbbá az ágazati értéktárak felállítására és működésére vonatkozó szabályokat,
 - d) az egyes ágazatokért felelős miniszterek feladatkörébe tartozó, ágazati értéktárba foglalható nemzeti értékek meghatározásának alapját,
 - e) a nemzeti értékké, kiemelkedő nemzeti értékké vagy hungarikummá nyilvánításra irányuló kérelem formai követelményeit,
 - f) a nemzeti értékek, a kiemelkedő nemzeti értékek és a hungarikumok digitális formában megjelenő tartalmainak nyilvántartására, és nyilvánosság számára történő hozzáférhetőségének biztosítására vonatkozó szabályokat,

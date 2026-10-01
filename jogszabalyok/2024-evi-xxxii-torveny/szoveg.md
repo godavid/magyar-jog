@@ -318,25 +318,25 @@ sarkalatosnak minősül.
 
 |  | A | B | C | D |
 | --- | --- | --- | --- | --- |
-| 1 | Vármegye | Település | Hrsz. | Művelési ág |
-| 2 | BÉKÉS VÁRMEGYE | SZABADKÍGYÓS | 384 | kivett kastély |
+| 1 | Megye | Település | Hrsz. | Művelési ág |
+| 2 | BÉKÉS MEGYE | SZABADKÍGYÓS | 384 | kivett kastély |
 | 386/7 | kivett út |
 | 386/8 | kivett beépítetlen terület |
-| 3 | BÉKÉS VÁRMEGYE | SZARVAS | 1 | kivett irodaház |
-| 4 | BÉKÉS VÁRMEGYE | SZARVAS | 01294/3 | kivett „Körösvölgyi Látogatóközpont” és épület |
-| 5 | BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE | EDELÉNY | 48 | kivett kastély |
+| 3 | BÉKÉS MEGYE | SZARVAS | 1 | kivett irodaház |
+| 4 | BÉKÉS MEGYE | SZARVAS | 01294/3 | kivett „Körösvölgyi Látogatóközpont” és épület |
+| 5 | BORSOD-ABAÚJ-ZEMPLÉN MEGYE | EDELÉNY | 48 | kivett kastély |
 | 16/2 | kivett épület, közterületi vizesblokk |
 | 45/2 | kivett sporttelep |
 | 45/3 | kivett sporttelep |
 | 51 | kivett elhagyott vízmeder |
-| 6 | BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE | FÁJ | 17 | kivett kastély |
-| 7 | BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE | FÜZÉRRADVÁNY | 247 | kivett kastély |
-| 8 | BORSOD-ABAÚJ-ZEMPLÉN VÁRMEGYE | PÁCIN | 1/1 | kivett kastély |
-| 9 | FEJÉR VÁRMEGYE | DÉG | 1101 | kivett nevelőintézet |
+| 6 | BORSOD-ABAÚJ-ZEMPLÉN MEGYE | FÁJ | 17 | kivett kastély |
+| 7 | BORSOD-ABAÚJ-ZEMPLÉN MEGYE | FÜZÉRRADVÁNY | 247 | kivett kastély |
+| 8 | BORSOD-ABAÚJ-ZEMPLÉN MEGYE | PÁCIN | 1/1 | kivett kastély |
+| 9 | FEJÉR MEGYE | DÉG | 1101 | kivett nevelőintézet |
 | 0123/4 | fásított terület és gazdasági épület |
 | 0123/5 | fásított terület, nádas, halastó |
 | 0122/17 | kivett lakóház, udvar |
-| 10 | FEJÉR VÁRMEGYE | FEHÉRVÁRCSURGÓ | 023/5 | kivett árok, kivett közpark, egyéb épület, kivett mocsár, kivett sporttelep, kivett kastély |
+| 10 | FEJÉR MEGYE | FEHÉRVÁRCSURGÓ | 023/5 | kivett árok, kivett közpark, egyéb épület, kivett mocsár, kivett sporttelep, kivett kastély |
 | 611 | kivett kulturális épület, udvar |
 | 023/6 | kivett arborétum |
 | 592 | kivett gazdasági épület, udvar |
@@ -348,31 +348,31 @@ sarkalatosnak minősül.
 | 618 | kivett lakóház, udvar |
 | 591 | kivett gazdasági épület, udvar |
 | 612 | kivett lakóház, udvar, gazdasági épület |
-| 11 | FEJÉR VÁRMEGYE | LOVASBERÉNY | 1011/2 | kivett kastélyépület, park |
+| 11 | FEJÉR MEGYE | LOVASBERÉNY | 1011/2 | kivett kastélyépület, park |
 | 1011/1 | kivett beépített terület |
-| 12 | FEJÉR VÁRMEGYE | NÁDASDLADÁNY | 242/3 | kivett kastélyépület, park, magtár és portaépület |
+| 12 | FEJÉR MEGYE | NÁDASDLADÁNY | 242/3 | kivett kastélyépület, park, magtár és portaépület |
 | 217/15 | szántó |
 | 242/5 | kivett orvosi rendelő |
-| 13 | FEJÉR VÁRMEGYE | SOPONYA | 367 | kivett gazdasági épület, udvar |
+| 13 | FEJÉR MEGYE | SOPONYA | 367 | kivett gazdasági épület, udvar |
 | 368 | kivett általános iskola |
 | 369 | kivett vízmű |
-| 14 | FEJÉR VÁRMEGYE | VÁL | 1023 | kivett múzeum és udvar |
+| 14 | FEJÉR MEGYE | VÁL | 1023 | kivett múzeum és udvar |
 | 1009/3 | erdő és út |
 | 1019/2 | kivett beépítetlen terület |
 | 1019/3 | kivett gazdasági épület, udvar |
 | 1019/4 | kivett gazdasági épület, udvar |
-| 15 | GYŐR-MOSON-SOPRON VÁRMEGYE | FERTŐRÁKOS | 876 | kivett udvar és múzeum |
-| 16 | GYŐR-MOSON-SOPRON VÁRMEGYE | MIHÁLYI | 364 | kivett továbbképző intézet |
+| 15 | GYŐR-MOSON-SOPRON MEGYE | FERTŐRÁKOS | 876 | kivett udvar és múzeum |
+| 16 | GYŐR-MOSON-SOPRON MEGYE | MIHÁLYI | 364 | kivett továbbképző intézet |
 | 366 | kivett park |
-| 17 | GYŐR-MOSON-SOPRON VÁRMEGYE | SOPRONHORPÁCS | 310/3 | kivett lakóház és park |
-| 18 | HAJDÚ-BIHAR VÁRMEGYE | NAGYKEREKI | 610/1 | kivett könyvtár, múzeum |
-| 19 | HEVES VÁRMEGYE | NOSZVAJ | 545/1 | kivett továbbképző intézet |
-| 20 | KOMÁROM-ESZTERGOM VÁRMEGYE | BAJNA | 566 | kivett kastély és kastélypark |
+| 17 | GYŐR-MOSON-SOPRON MEGYE | SOPRONHORPÁCS | 310/3 | kivett lakóház és park |
+| 18 | HAJDÚ-BIHAR MEGYE | NAGYKEREKI | 610/1 | kivett könyvtár, múzeum |
+| 19 | HEVES MEGYE | NOSZVAJ | 545/1 | kivett továbbképző intézet |
+| 20 | KOMÁROM-ESZTERGOM MEGYE | BAJNA | 566 | kivett kastély és kastélypark |
 | 563 | kivett kastélypark |
 | 565/2 | kivett kastélypark |
 | 564 | kivett kastélypark és Ördöglovas eszpresszó |
 | 116/6 | kivett üzem, volt istálló |
-| 21 | KOMÁROM-ESZTERGOM VÁRMEGYE | OROSZLÁNY | 074/20 | kivett udvar és kastély |
+| 21 | KOMÁROM-ESZTERGOM MEGYE | OROSZLÁNY | 074/20 | kivett udvar és kastély |
 | 032/1 | legelő |
 | 032/2 | legelő |
 | 061/9 | kivett udvar és fogadó |
@@ -384,48 +384,48 @@ sarkalatosnak minősül.
 | 075 | legelő, üzemi épület |
 | 076 | erdő és út |
 | 078 | kivett udvar, vendéglő és gazdasági épület, erdő, legelő, kivett udvar |
-| 22 | KOMÁROM-ESZTERGOM VÁRMEGYE | TATA | 1851 | kivett park, gazdasági épület kivett kastély és udvar kivett gazdasági épület, udvar kivett közpark |
-| 23 | NÓGRÁD VÁRMEGYE | SZÉCSÉNY | 2501/2 | kivett Benczúr kastély |
+| 22 | KOMÁROM-ESZTERGOM MEGYE | TATA | 1851 | kivett park, gazdasági épület kivett kastély és udvar kivett gazdasági épület, udvar kivett közpark |
+| 23 | NÓGRÁD MEGYE | SZÉCSÉNY | 2501/2 | kivett Benczúr kastély |
 | 2501/3 | kivett műterem |
 | 2501/4 | kivett kastélypark |
-| 24 | PEST VÁRMEGYE | ABONY | 4160/6 | kivett múzeum |
-| 25 | PEST VÁRMEGYE | ACSA | 4 | kivett Prónay kastély és 3 gazdasági épület, udvar |
-| 26 | PEST VÁRMEGYE | ASZÓD | 183 | kivett általános iskola |
-| 27 | PEST VÁRMEGYE | ASZÓD | 181 | kivett középiskola |
+| 24 | PEST MEGYE | ABONY | 4160/6 | kivett múzeum |
+| 25 | PEST MEGYE | ACSA | 4 | kivett Prónay kastély és 3 gazdasági épület, udvar |
+| 26 | PEST MEGYE | ASZÓD | 183 | kivett általános iskola |
+| 27 | PEST MEGYE | ASZÓD | 181 | kivett középiskola |
 | 182 | kivett kollégium |
-| 28 | PEST VÁRMEGYE | DABAS | 4795 | kivett ipartelep |
-| 29 | PEST VÁRMEGYE | NAGYKŐRÖS | 2942/4 | kivett múzeum |
-| 30 | PEST VÁRMEGYE | PÉCEL | 2 | kivett kastély |
-| 31 | PEST VÁRMEGYE | VÁCHARTYÁN | 1/1 | kivett kastély |
+| 28 | PEST MEGYE | DABAS | 4795 | kivett ipartelep |
+| 29 | PEST MEGYE | NAGYKŐRÖS | 2942/4 | kivett múzeum |
+| 30 | PEST MEGYE | PÉCEL | 2 | kivett kastély |
+| 31 | PEST MEGYE | VÁCHARTYÁN | 1/1 | kivett kastély |
 | 1/3 | kivett sporttelep |
 | 2 | kivett vízfolyás |
 | 726 | kivett elhagyott vízmeder |
-| 32 | SOMOGY VÁRMEGYE | SOMOGYSÁRD | 101 | kivett lakóház, udvar, kivett saját használatú út, erdő, kivett sporttelep, kivett gazdasági épület, udvar, legelő |
-| 33 | SZABOLCS-SZATMÁR-BEREG VÁRMEGYE | KOMLÓDTÓTFALU | 369 | kivett kastély |
-| 34 | SZABOLCS-SZATMÁR-BEREG VÁRMEGYE | TUZSÉR | 885 | kivett kultúrház |
-| 35 | SZABOLCS-SZATMÁR-BEREG VÁRMEGYE | VAJA | 3 | kivett múzeum |
-| 36 | TOLNA VÁRMEGYE | KÖLESD | 090/4 | erdő, kivett major, szántó, erdő, kivett major |
-| 37 | VAS VÁRMEGYE | BOZSOK | 4 | kivett kastélyépület, park |
-| 38 | VAS VÁRMEGYE | JÁNOSHÁZA | 1180 | kivett múzeum |
-| 39 | VAS VÁRMEGYE | KÖRMEND | 1 | kivett kastély |
+| 32 | SOMOGY MEGYE | SOMOGYSÁRD | 101 | kivett lakóház, udvar, kivett saját használatú út, erdő, kivett sporttelep, kivett gazdasági épület, udvar, legelő |
+| 33 | SZABOLCS-SZATMÁR-BEREG MEGYE | KOMLÓDTÓTFALU | 369 | kivett kastély |
+| 34 | SZABOLCS-SZATMÁR-BEREG MEGYE | TUZSÉR | 885 | kivett kultúrház |
+| 35 | SZABOLCS-SZATMÁR-BEREG MEGYE | VAJA | 3 | kivett múzeum |
+| 36 | TOLNA MEGYE | KÖLESD | 090/4 | erdő, kivett major, szántó, erdő, kivett major |
+| 37 | VAS MEGYE | BOZSOK | 4 | kivett kastélyépület, park |
+| 38 | VAS MEGYE | JÁNOSHÁZA | 1180 | kivett múzeum |
+| 39 | VAS MEGYE | KÖRMEND | 1 | kivett kastély |
 | 2/1 | kivett kultúrház |
 | 2/2 | kivett múzeum |
 | 2/3 | kivett épület |
 | 3 | kivett kastély és rendezvénytér |
 | 4 | kivett lakóház, udvar, gazdasági épület |
 | 5 | kivett üzem |
-| 40 | VAS VÁRMEGYE | SÁRVÁR | 1 | kivett vár „Nádasdy-vár” |
-| 41 | VAS VÁRMEGYE | VASSZÉCSENY | 344 | kivett kastélyépület, park |
-| 42 | VAS VÁRMEGYE | VÉP | 114 | kivett középiskola |
-| 43 | VESZPRÉM VÁRMEGYE | DABRONC | 333 | kivett lakóház, udvar, gazdasági épület, erdő |
-| 44 | VESZPRÉM VÁRMEGYE | DABRONC | 318/1 | kivett épület, udvar |
-| 45 | VESZPRÉM VÁRMEGYE | DOBA | 0219 | kivett szanatórium, szántó |
+| 40 | VAS MEGYE | SÁRVÁR | 1 | kivett vár „Nádasdy-vár” |
+| 41 | VAS MEGYE | VASSZÉCSENY | 344 | kivett kastélyépület, park |
+| 42 | VAS MEGYE | VÉP | 114 | kivett középiskola |
+| 43 | VESZPRÉM MEGYE | DABRONC | 333 | kivett lakóház, udvar, gazdasági épület, erdő |
+| 44 | VESZPRÉM MEGYE | DABRONC | 318/1 | kivett épület, udvar |
+| 45 | VESZPRÉM MEGYE | DOBA | 0219 | kivett szanatórium, szántó |
 | 0222/2 | szántó |
 | 0222/3 | szántó |
 | 0222/5 | szántó |
 | 0222/6 | kivett lakóház, udvar |
 | 0223/1 | kivett tó |
-| 46 | VESZPRÉM VÁRMEGYE | PÁPA | 1 | kivett múzeum |
+| 46 | VESZPRÉM MEGYE | PÁPA | 1 | kivett múzeum |
 | 5/2 | kivett lakóház, udvar, gazdasági épület, szálloda |
-| 47 | VESZPRÉM VÁRMEGYE | SÜMEG | 1422/3 | kivett püspöki palota |
-| 48 | ZALA VÁRMEGYE | EGERVÁR | 02073 | kivett kastély és park |
+| 47 | VESZPRÉM MEGYE | SÜMEG | 1422/3 | kivett püspöki palota |
+| 48 | ZALA MEGYE | EGERVÁR | 02073 | kivett kastély és park |

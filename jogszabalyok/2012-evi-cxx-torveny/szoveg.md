@@ -184,11 +184,12 @@ az általa vezetett nyilvántartásból közvetlenül közli a központi szervve
 - c) a nyomozó hatóság bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása, vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - e) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a külön törvényben meghatározott feladatai teljesítése céljából,
-- f) a rendőrség terrorizmust elhárító szerve terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
-- g) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben eljáró hatóság, valamint
+- f) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pont a) alpontjában meghatározott bűncselekmények megszakítása céljából,
+- g) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben eljáró hatóság,
 - h) jogának vagy jogos érdekének érvényesítése érdekében a magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet,
 - i) az 1. § (1) bekezdés c)–l) pontjában meghatározott rendészeti feladatokat ellátó személy, az adott területen más az 1. § (1) bekezdés c)–l) pontjában meghatározott rendészeti feladatokat ellátó személy jogszerű tevékenységének az ellenőrzése céljából.
 - j) a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal jogszabályban meghatározott feladatai ellátása céljából.
+- k) az általános rendőrségi feladatok ellátására létrehozott szerv a személyvédelmi feladatai ellátása céljából.
 
 10. § (1) A rendészeti feladatokat ellátó személy a feladatai ellátása során mindig köteles szolgálati igazolványát magánál tartani.
 
@@ -438,11 +439,11 @@ rendelkezések ismeretéből – bizottság előtt – vizsgát tenni.
 
 #### 16. Az együttműködési megállapodás
 
-24. § (1) Az 1. § (1) bekezdés c)–l) pontjában meghatározott – kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló – személy munkáltatója a működési területén illetékes vármegyei (fővárosi) rendőr-főkapitánysággal – a rendészeti feladatokat ellátó személyek ellenőrzése és törvényben meghatározott tevékenységük felügyelete, valamint a feladatellátás összehangolása érdekében – írásbeli együttműködési megállapodást köt.
+24. § (1) Az 1. § (1) bekezdés c)–l) pontjában meghatározott – kormányzati szolgálati, közszolgálati vagy közalkalmazotti jogviszonyban álló – személy munkáltatója a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal – a rendészeti feladatokat ellátó személyek ellenőrzése és törvényben meghatározott tevékenységük felügyelete, valamint a feladatellátás összehangolása érdekében – írásbeli együttműködési megállapodást köt.
 
 (2) Az (1) bekezdésben meghatározott személy a III. Fejezetben meghatározott intézkedéseket és kényszerítő eszközöket csak az együttműködési megállapodás megkötését követően gyakorolhatja.
 
-(3) A munkáltató a helyi rendőri szervnél kezdeményezi az (1) bekezdés szerinti együttműködési megállapodás megkötését. A helyi rendőri szerv az együttműködési megállapodás megkötésére irányuló megkeresést – a kézhezvételt követő – harminc napon belül, javaslatával együtt köteles felterjeszteni a vármegyei (fővárosi) rendőr-főkapitányságra. A vármegyei (fővárosi) rendőr-főkapitányság az együttműködési megállapodást a megkeresés és a helyi rendőri szerv javaslatának kézhezvételét követő harminc napon belül köti meg.
+(3) A munkáltató a helyi rendőri szervnél kezdeményezi az (1) bekezdés szerinti együttműködési megállapodás megkötését. A helyi rendőri szerv az együttműködési megállapodás megkötésére irányuló megkeresést – a kézhezvételt követő – harminc napon belül, javaslatával együtt köteles felterjeszteni a megyei (fővárosi) rendőr-főkapitányságra. A megyei (fővárosi) rendőr-főkapitányság az együttműködési megállapodást a megkeresés és a helyi rendőri szerv javaslatának kézhezvételét követő harminc napon belül köti meg.
 
 (4) Az együttműködési megállapodás tartalmazza különösen
 
@@ -460,7 +461,7 @@ rendelkezések ismeretéből – bizottság előtt – vizsgát tenni.
 - c) azt az együttműködő fél felmondja, valamint
 - d) az együttműködők valamelyike jogutód nélkül megszűnik.
 
-(6) A területileg illetékes vármegyei (fővárosi) rendőr-főkapitányság az együttműködési megállapodást egyoldalúan felmondja, ha
+(6) A területileg illetékes megyei (fővárosi) rendőr-főkapitányság az együttműködési megállapodást egyoldalúan felmondja, ha
 
 - a) az együttműködési megállapodás megkötéséhez szükséges feltételek már nem állnak fenn, vagy
 - b) a rendészeti feladatokat ellátó szerv által kifejtett tevékenység mások jogait súlyosan vagy visszatérően sérti.
@@ -471,7 +472,7 @@ rendelkezések ismeretéből – bizottság előtt – vizsgát tenni.
 
 (9) Az együttműködési megállapodás vonatkozásában a Polgári Törvénykönyv, az azzal kapcsolatos jogvita bíróság előtti eljárására a polgári perrendtartásról szóló törvény szabályai az irányadók. Az együttműködési megállapodás (5) és a (6) bekezdés szerinti megszűnésével kapcsolatos jogvitának nincsen halasztó hatálya a (7) bekezdés szerinti intézkedési és kényszerítő eszköz alkalmazási jogosultságra.
 
-(10) A helyi rendőrkapitányság és az (1) bekezdésben meghatározott munkáltató évente egyszer közösen értékeli a rendészeti feladatokat ellátó szervekkel folyatott együttműködés végrehajtását és megállapításairól tájékoztatja a területileg illetékes vármegyei (fővárosi) rendőr-főkapitányságot.
+(10) A helyi rendőrkapitányság és az (1) bekezdésben meghatározott munkáltató évente egyszer közösen értékeli a rendészeti feladatokat ellátó szervekkel folyatott együttműködés végrehajtását és megállapításairól tájékoztatja a területileg illetékes megyei (fővárosi) rendőr-főkapitányságot.
 
 ### V. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

@@ -188,7 +188,7 @@ azzal, hogy munkaerő-kölcsönzés, illetve egy munkakörre több munkáltatóv
 - 34. Értékpapír: minden olyan okirat, elektronikus jelsorozat, amely a kibocsátás helyének joga szerint értékpapírnak minősül, továbbá a közkereseti társaságban és a betéti társaságban fennálló részesedés, a korlátolt felelősségű társaság üzletrésze és a szövetkezeti részesedés, ideértve más, törvényben meghatározott olyan vagyoni hozzájárulást is, amely tagsági jogviszonyt keletkeztet, különösen az ügyvédi iroda alapításakor szolgáltatott vagyont.
 - 35. Szociális segély: a szociálisan rászorulónak pénzben vagy nem pénzben ellenszolgáltatás nélkül nyújtott vissza nem térítendő támogatás.
 - 36. Szociálisan rászoruló: az a magánszemély, akinek (eltartottainak) létfenntartása oly mértékben veszélyeztetett, hogy azt – vagyoni viszonyára is tekintettel – csak külső segítséggel képes biztosítani.
-- 37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az Országgyűlési Őrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
+- 37. A Magyar Honvédség és a rendvédelmi szervezetek tagja fogalmába tartozik a Magyar Honvédség, a Rendőrség, az állami és helyi önkormányzati hivatásos tűzoltóság, a Polgári Védelem, a büntetés-végrehajtás és a polgári nemzetbiztonsági szolgálatok tagja.
 - 38. Egyenruha: a Magyar Honvédség, a rendvédelmi szervezetek és a polgári nemzetbiztonsági szolgálatok tagjának, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjának egyforma, hivatalos öltözete, valamint törvényben előírt hivatalos öltözet.
 - 39. Kis- és középvállalkozásoknak nyújtott állami támogatásra vonatkozó bizottsági rendeletben foglaltak szerinti támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU rendelet (HL L 187 2014.06.26. 1–78. o.) 1–14. és 17. cikke szerinti támogatás.
 - 40. Agrár csoportmentességi (ABER) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdőalapú ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló 2022. december 14-i 2022/2472/EU bizottsági rendelet (HL L 327., 2022.12.21., 1. o.) 1–14. és 17. cikkei szerinti támogatás.
@@ -3534,7 +3534,7 @@ a) klímavédelmi célú alapítványtól származó, az alapítvány céljainak
 
 b) a COVID-19 vírus járványban elhunytak hozzátartozóit segítő alapítványtól származó, az alapítvány céljainak megvalósítása érdekében adott juttatás.
 
-  - c) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 32/A. §-a szerinti alapítványtól származó, az alapítvány céljainak megvalósítása érdekében nyilvánosan meghirdetett ösztöndíj- és támogatási program keretében, a pályázati feltételeknek megfelelő juttatás;
+c) az egyesülési jogról, a közhasznú jogállásról, valamint a civil szervezetek működéséről és támogatásáról szóló 2011. évi CLXXV. törvény 32/A. §-a szerinti alapítványtól származó, az alapítvány céljainak megvalósítása érdekében nyilvánosan meghirdetett ösztöndíj- és támogatási program keretében, a pályázati feltételeknek megfelelő juttatás;
 
 3.9. a magánszemély részére kifizetett azon összeg, amelyet ösztöndíj címén a közfeladatot ellátó közérdekű vagyonkezelő alapítvány, valamint a HUN-REN Magyar Kutatási Hálózat közfeladatának ellátásával összhangban folyósít.
 
@@ -3721,8 +3721,9 @@ b) rendszerszintű szolgáltatás, illetve elosztói rugalmassági szolgáltatá
 
 figyelemmel a 9. pont 9.9. alpont rendelkezésére is;
 
-- 4.50. a Magyar Tudományos Akadémia és a Nemzeti Közszolgálati Egyetem által John Lukács életműve előtti tiszteletadás céljából évente megítélt és a Nemzeti Közszolgálati Egyetem által folyósított díj összege;
-- 4.51. a Tbj. szerint belföldinek nem minősülő személy részére adott juttatás, amelyet az említett személy a HUN-REN Magyar Kutatási Hálózattal, a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyal, egyházi jogi személlyel, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány, egyházi jogi személy által fenntartott felsőoktatási intézménnyel vagy a nemzeti felsőoktatásról szóló törvény 1. melléklete szerinti más felsőoktatási intézménnyel fennálló munkavégzésre irányuló jogviszony alapján szerez, feltéve, hogy a munkavégzésre irányuló jogviszonnyal összefüggésben a magyarországi tartózkodása bármely 12 hónapos időszakban nem haladja meg a 30 napot.
+4.50. a Magyar Tudományos Akadémia és a Nemzeti Közszolgálati Egyetem által John Lukács életműve előtti tiszteletadás céljából évente megítélt és a Nemzeti Közszolgálati Egyetem által folyósított díj összege;
+
+4.51. a Tbj. szerint belföldinek nem minősülő személy részére adott juttatás, amelyet az említett személy a HUN-REN Magyar Kutatási Hálózattal, a közfeladatot ellátó közérdekű vagyonkezelő alapítvánnyal, egyházi jogi személlyel, a közfeladatot ellátó közérdekű vagyonkezelő alapítvány, egyházi jogi személy által fenntartott felsőoktatási intézménnyel vagy a nemzeti felsőoktatásról szóló törvény 1. melléklete szerinti más felsőoktatási intézménnyel fennálló munkavégzésre irányuló jogviszony alapján szerez, feltéve, hogy a munkavégzésre irányuló jogviszonnyal összefüggésben a magyarországi tartózkodása bármely 12 hónapos időszakban nem haladja meg a 30 napot.
 
 4.52. a végső felhasználó magánszemély az energiahatékonyságról szóló törvény szerint hitelesített energiamegtakarítást eredményező – nem egyéni vállalkozóként végzett – cselekményére (így különösen beruházásra, korszerűsítésre, felújításra) tekintettel e magánszemély által megszerzett bevétel, így különösen a magánszemély javára nyilvántartásba vett hitelesített energia megtakarítás (vagyoni értékű jog), az energia megtakarítás érdekében igénybe vett szolgáltatás, vásárolt termék árengedménye, továbbá az említett magánszemély által a hitelesített energia megtakarítás mint vagyoni értékű jog átengedése ellenében megszerzett bevétel.
 
@@ -3892,7 +3893,7 @@ kerül sor;
 
 7.26. a bizalmi vagyonkezelési jogviszony alapján a vagyonkezelő által a kezelt vagyon, valamint a magánalapítvány vagyon
 
-  - a) induló tőkéje terhére
+a) induló tőkéje terhére
 
 aa) juttatott vagyoni érték, ha az nem minősül osztaléknak,
 
@@ -3900,7 +3901,7 @@ ab) juttatott vagyoni érték, ha az a vagyonrendelő, az alapító (csatlakozó
 
 ac) történő vagyoni érték juttatás a 65/C. § (3) és (4) bekezdésében meghatározott esetben, továbbá
 
-  - b) terhére történő, a vagyonelem tulajdonjogát nem eredményező vagyoni érték szerzés (ideértve különösen az ingyenes vagy kedvezményes használatot), ha egyébként a vagyonelem tulajdonba adásakor – külföldi vagyonelem esetében úgy tekintve, mintha a vagyonelem tulajdonba adása belföldön történne – a megszerző magánszemélynek illetékfizetési kötelezettsége nem keletkezne
+b) terhére történő, a vagyonelem tulajdonjogát nem eredményező vagyoni érték szerzés (ideértve különösen az ingyenes vagy kedvezményes használatot), ha egyébként a vagyonelem tulajdonba adásakor – külföldi vagyonelem esetében úgy tekintve, mintha a vagyonelem tulajdonba adása belföldön történne – a megszerző magánszemélynek illetékfizetési kötelezettsége nem keletkezne
 
 azzal, hogy nem alkalmazható ez a rendelkezés, ha a kedvezményezett magánszemély e jogállását valamely tevékenység, dolog átruházása vagy szolgáltatás nyújtása ellenértékeként, vagy azzal összefüggésben szerezte,
 

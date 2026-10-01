@@ -11,7 +11,7 @@ Az Országgyűlés annak érdekében, hogy a növényvédő mérnökök és növ
 (2) A Kamara
 
 - a) országos szervezettel, valamint
-- b) a vármegyékben és a fővárosban működő területi szervezettel (a továbbiakban: területi szervezet)
+- b) a megyékben és a fővárosban működő területi szervezettel (a továbbiakban: területi szervezet)
 
 rendelkezik.
 
@@ -82,7 +82,7 @@ során.
 
 ### A területi szervezet
 
-3. § (1) Az Alapszabályban meghatározott területen és székhelyen képviseleti és ügyintéző szervekkel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri. A területi szervezet területe összefüggő, legalább egy vármegye (vagy a főváros) területére terjedhet ki. Egy vármegye területén kizárólag egy területi szervezet működhet. A Kamara küldöttközgyűlése négyötödös szavazattöbbséggel meghozott határozatával jogosult területi szervezeteket megszüntetni, összevonni, amennyiben a kamarai szervezet működése azt indokolja.
+3. § (1) Az Alapszabályban meghatározott területen és székhelyen képviseleti és ügyintéző szervekkel rendelkező területi szervezetek működhetnek, ha létszámuk a 20 főt eléri. A területi szervezet területe összefüggő, legalább egy megye (vagy a főváros) területére terjedhet ki. Egy megye területén kizárólag egy területi szervezet működhet. A Kamara küldöttközgyűlése négyötödös szavazattöbbséggel meghozott határozatával jogosult területi szervezeteket megszüntetni, összevonni, amennyiben a kamarai szervezet működése azt indokolja.
 
 (2) A területi szervezet ellátja az e törvényben és az Alapszabályban hatáskörébe utalt feladatokat.
 
@@ -167,7 +167,7 @@ során.
 (8) A főtitkár
 
 - a) az Alapszabályban meghatározott körben képviseli az országos szervezetet,
-- b) irányítja a vármegyei titkárok munkáját,
+- b) irányítja a megyei titkárok munkáját,
 - c) elbírálja a 2. § (5a) bekezdése szerinti fellebbezéseket és határozatot hoz a 26. § (2) bekezdése szerint,
 - d) gyakorolja a 2. §-ban szabályozott véleményezési jogot, valamint
 - e) ellátja az Alapszabályban meghatározott feladatokat.

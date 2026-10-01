@@ -205,9 +205,9 @@ meghatározott tájékoztatási követelményekben előírt információ az ott 
 (2) A gazdasági verseny érdemi érintettsége minden egyéb körülményre tekintet nélkül fennáll, ha
 
 - a) a kereskedelmi gyakorlat országos médiaszolgáltatást végző médiaszolgáltatón keresztül valósul meg
-- b) a kereskedelmi gyakorlat országos terjesztésű időszakos lap vagy legalább három vármegyében terjesztett napilap útján valósul meg,
-- c) a fogyasztók közvetlen megkeresésének módszerével végzett kereskedelmi gyakorlat legalább három vármegye fogyasztói felé irányul, vagy
-- d) a termék eladásának helyén alkalmazott eladásösztönző kereskedelmi gyakorlat legalább három vármegyében megszervezésre kerül.
+- b) a kereskedelmi gyakorlat országos terjesztésű időszakos lap vagy legalább három megyében terjesztett napilap útján valósul meg,
+- c) a fogyasztók közvetlen megkeresésének módszerével végzett kereskedelmi gyakorlat legalább három megye fogyasztói felé irányul, vagy
+- d) a termék eladásának helyén alkalmazott eladásösztönző kereskedelmi gyakorlat legalább három megyében megszervezésre kerül.
 
 12. § (1) A 10. §-ban megjelölt hatóságok a tisztességtelen kereskedelmi gyakorlat tilalmának megsértésével kapcsolatos feladataik hatékony ellátása érdekében együttműködnek egymással. Az együttműködés különösen a hatóságok jogalkalmazási gyakorlatának kölcsönös megismerését, az anyagi és eljárásjogi szabályok egységes alkalmazását, a hatásköri összeütközések elkerülését, az esetleges hatásköri viták hatékony rendezésének megkönnyítését szolgálja.
 

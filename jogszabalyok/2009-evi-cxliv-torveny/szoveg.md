@@ -104,7 +104,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 (3) Amennyiben a tagnak a tagsági jogviszony alapjául szolgáló ingatlan tulajdoni vagy használati jogosultsága megszűnik vagy megváltozik, azt köteles a társulat intézőbizottságának írásban bejelenteni. A bejelentéshez csatolni kell a tagsági jogviszony megszűnését vagy megváltozását igazoló okiratot, illetőleg annak másolatát, valamint – ha abból nem állapítható meg – a bejelentésben közölnie kell a helyébe lépő új tag cégnevét és székhelyét, természetes személy esetében nevét, lakhelyét és anyja nevét, valamint területének nagyságát és a terület helyrajzi számát.
 
-7. §
+#### 7. §
 
 ### Tagi adatok kezelése
 
@@ -155,11 +155,11 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 13. § A társulat cégbejegyzéséig az alapszabály érvénytelenségére a Polgári Törvénykönyvről szóló törvény rendelkezéseit kell alkalmazni. A cégbejegyzés után az alapszabály megtámadására nincs mód, és az alapszabály semmisségét a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényben meghatározott okokon kívül csak akkor lehet megállapítani, ha a társulat alakuló gyűlésén az összes érdekelt érdekeltségi egység szerint számított több mint kétharmadának igen szavazata hiányzott.
 
-14–16. §
+#### 14–16. §
 
-17. §
+#### 17. §
 
-18–22. §
+#### 18–22. §
 
 ### A társulat szervei
 
@@ -209,7 +209,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 25. § (1) A küldöttgyűlést az intézőbizottság elnöke hívja össze. Ha az intézőbizottság elnöke ezt elmulasztja, az összehívásra a felügyelőbizottság elnöke jogosult. Az illetékes hatóság és a társulatok országos érdekképviseleti szervezete kezdeményezheti, hogy az illetékes cégbíróság intézkedjen a küldöttgyűlés összehívása érdekében. Össze kell hívni a küldöttgyűlést, ha a társulat tagjainak több mint 10%-a, vagy a küldöttek több mint fele a napirend megjelölésével írásban kéri.
 
-(2) A napirendet tartalmazó írásbeli meghívót a küldöttgyűlés tervezett időpontja előtt legalább 8 nappal meg kell küldeni a küldöttgyűlés tagjainak, a területileg illetékes fővárosi és vármegyei kormányhivatalnak, a vízügyi igazgatási szervezetnek, a társulatok érdekképviseleti szervezetének, valamint a társulat azon tagjainak, akik a küldöttgyűlést kezdeményezték, továbbá a meghívót a területileg illetékes települési önkormányzat(ok)nál hirdetmény formájában is közzé kell tenni.
+(2) A napirendet tartalmazó írásbeli meghívót a küldöttgyűlés tervezett időpontja előtt legalább 8 nappal meg kell küldeni a küldöttgyűlés tagjainak, a területileg illetékes fővárosi és megyei kormányhivatalnak, a vízügyi igazgatási szervezetnek, a társulatok érdekképviseleti szervezetének, valamint a társulat azon tagjainak, akik a küldöttgyűlést kezdeményezték, továbbá a meghívót a területileg illetékes települési önkormányzat(ok)nál hirdetmény formájában is közzé kell tenni.
 
 26. § (1) A küldöttgyűlés akkor határozatképes, ha azon a küldöttgyűlés tagjainak több mint fele személyesen megjelenik, és a megjelent küldöttek a társulat működési területének több mint felét képviselik.
 
@@ -433,19 +433,19 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 49. § A társulat különválással több társulatra szétválhat.
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53–55. §
+#### 53–55. §
 
-56–58. §
+#### 56–58. §
 
-59–60. §
+#### 59–60. §
 
-61. §
+#### 61. §
 
 ### Felhatalmazó rendelkezések
 
@@ -453,7 +453,7 @@ Az Országgyűlés a területi vízgazdálkodási közfeladatok ellátása érde
 
 ### Átmeneti rendelkezések
 
-62. §
+#### 62. §
 
 62/A. § (1) Az állami tulajdonnak minősülő, az 1992. január 1-jei rendező mérleg és rendező eredménykimutatás készítéséről szóló miniszteri rendelet alapján a vízitársulat jegyzett tőkéjébe átsorolt közcélú vizek és vízilétesítmények könyv szerinti értékét 2014. december 31-ig a vízitársulati jegyzett tőkéből ellentételezés nélkül, adó-, járulék- és illetékmentesen ki kell vonni, és a közcélú vizek és vízilétesítmények könyv szerinti értékével a jegyzett tőkét le kell szállítani.
 

@@ -215,7 +215,7 @@ arról az (1) bekezdésben meghatározott módon értesíti a hatóságot.
 
 #### 6. Megkeresés
 
-15. § (1) A hatóság e törvény szerinti feladatának ellátásához szükséges mértékben megkereshet felügyeletet ellátó szervet, központi államigazgatási szervet, terrorizmust elhárító szervet, nyomozó hatóságot, nemzetbiztonsági szolgálatot, ügyészt, bíróságot, ha az uniós jogi aktus illetve az ENSZ BT határozat által elrendelt pénzügyi és vagyoni korlátozó intézkedéssel kapcsolatos
+15. § (1) A hatóság e törvény szerinti feladatának ellátásához szükséges mértékben megkereshet felügyeletet ellátó szervet, központi államigazgatási szervet, nyomozó hatóságot, nemzetbiztonsági szolgálatot, ügyészt, bíróságot, ha az uniós jogi aktus illetve az ENSZ BT határozat által elrendelt pénzügyi és vagyoni korlátozó intézkedéssel kapcsolatos
 
 - a) olyan adat vagy ténybeli ismeret szükséges, amely a megkeresett hatóság nyilvántartásából, illetve irataiból szerezhető meg,
 - b) olyan irat vagy más bizonyíték szükséges, amely a megkeresett hatóságnál van vagy onnan szerezhető meg.

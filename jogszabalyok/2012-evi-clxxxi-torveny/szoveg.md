@@ -148,10 +148,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 (2) Az (1) bekezdés szerinti figyelmeztető jelzések és kiegészítő adatok elhelyezésére abban az esetben van lehetőség, ha megalapozottan feltehető, hogy az érintett az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló 2012. évi CLXXX. törvény 25. § (2) bekezdése és az 1. számú melléklete szerinti bűncselekményt tervez elkövetni, előkészít, illetve követ el, vagy okkal feltételezhető – különösen az általa elkövetett múltbeli bűncselekmények alapján –, hogy a jövőben is ilyen bűncselekményt követ el a SIS-t alkalmazó állam területén, abban az esetben is, ha a magyar jog szerint az előkészület nem büntetendő.
 
-(3) Az (1) bekezdés szerinti figyelmeztető jelzés elhelyezését és kiegészítő adatok csatolását kezdeményezheti a körözési nyilvántartási rendszer útján
-
-- a) a polgári nemzetbiztonsági szolgálat Magyarország nemzetbiztonságát sértő vagy veszélyeztető tevékenység felderítése vagy elhárítása érdekében,
-- b) a terrorizmust elhárító szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátása érdekében a nemzetbiztonsági szolgálatokról szóló törvény szabályainak alkalmazásával folytatott titkos információgyűjtés során.
+(3) Az (1) bekezdés szerinti figyelmeztető jelzés elhelyezését és kiegészítő adatok csatolását kezdeményezheti a körözési nyilvántartási rendszer útján a polgári nemzetbiztonsági szolgálat Magyarország nemzetbiztonságát sértő vagy veszélyeztető tevékenység felderítése vagy elhárítása érdekében.
 
 (4) Az (EU) 2018/1862 európai parlamenti és tanácsi rendelet 55. cikk (4) bekezdésében meghatározott esetekben a körözést elrendelő szerv a SIRENE Iroda értesítését vagy a tudomásszerzést követően az (1) és (3) bekezdés szerinti figyelmeztető jelzést haladéktalanul törli.
 
@@ -320,7 +317,7 @@ Az Országgyűlés a Schengeni Információs Rendszer második generációja ker
 
 - a) a büntetőügyben eljáró bíróság, ügyészség és NVVH a figyelmeztető jelzések teljes körét érintően,
 - b) a rendőrség nyomozóhatósági, közbiztonságvédelmi, körözési és határrendészeti feladatai ellátásához, valamint a Nemzeti Adó- és Vámhivatal nyomozóhatósági és vámellenőrzési feladatai ellátásához a figyelmeztető jelzések teljes körét érintően,
-- c) a rendőrség terrorizmust elhárító szerve törvényben meghatározott bűnmegelőzési, bűnfelderítési, valamint jogszabályban meghatározott szakhatósági feladatainak ellátásához a figyelmeztető jelzések teljes körét érintően,
+- c)
 - d) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve törvényben meghatározott bűnmegelőzési, illetve bűnfelderítési feladatainak ellátásához a figyelmeztető jelzések teljes körét érintően,
 - e) az idegenrendészeti szerv az idegenrendészeti hatósági, menekültügyi hatósági, valamint vízumhatósági és útlevélhatósági feladatai ellátása céljából a figyelmeztető jelzések teljes körét érintően,
 - f) a konzuli szolgálat a vízumhatósági feladatai ellátása céljából a figyelmeztető jelzések teljes körét érintően,

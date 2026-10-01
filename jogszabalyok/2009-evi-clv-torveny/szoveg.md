@@ -76,8 +76,8 @@ részes felek által képviselt államokkal Magyarországnak van-e a ba) alpontb
 - q) a rendőrségről szóló törvényben meghatározott
   - qa) az általános rendőrségi feladatok ellátására létrehozott szerv vezetője,
   - qb) belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vezetője,
-  - qc) terrorizmust elhárító szerv vezetője,
-- r) az Országgyűlési Őrség parancsnoka,
+  - qc)
+- r)
 - s) az idegenrendészeti hatóság vezetője, a menekültügyi hatóság vezetője,
 - t) a Nemzeti Biztonsági Felügyelet vezetője,
 - u) Magyarország külképviseletének vezetője, valamint a nemzetközi szerződésben meghatározott kötelezettségvállalás teljesítése érdekében más államhoz, nemzetközi szervezethez vagy regionális együttműködés központjába delegált önálló képviseleti hatáskörrel rendelkező személy,

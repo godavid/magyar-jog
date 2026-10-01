@@ -4,13 +4,13 @@ a Városliget megújításáról és fejlesztéséről
 
 Az Országgyűlés a magyar állam, Budapest Főváros Önkormányzata és Budapest Főváros XIV. Kerület Zugló Önkormányzata osztatlan közös tulajdonában álló Városliget országos jelentőségének és a nemzet emlékezetében betöltött kiemelkedő szerepének tudatában, a Városliget megújításának és fejlesztésének megvalósulása érdekében új törvényt alkot. A Városligetben megvalósításra kerülő építési beruházások kiemelt állami feladatnak minősülnek.
 
-1. § (1) A Budapest XIV. kerület 29732/1 helyrajzi számú ingatlannak (a továbbiakban: városligeti ingatlan) az államot, Budapest Főváros Önkormányzatát és Budapest Főváros XIV. Kerület Zugló Önkormányzatát megillető tulajdoni hányada e törvény erejénél fogva mint közfeladat ellátásához szükséges terület ingyenesen, az e törvény hatálybalépésétől számított 99 éves időtartamra az állam 100%-os tulajdonában álló Városliget Ingatlanfejlesztő Zrt. (a továbbiakban: vagyonkezelő) vagyonkezelésébe kerül. A városligeti ingatlanon fennálló építményekre e törvény hatálybalépését megelőzően az ingatlan-nyilvántartásba bejegyzett egyéb vagyonkezelői jogok, illetve Budapest Főváros Önkormányzata forgalomszervezési, közútkezelési és közösségi közlekedési infrastruktúra fenntartási, továbbá településtisztasági és hulladékgazdálkodási feladatkörei változatlanul fennmaradnak. A vagyonkezelői jog nem terjed ki a Budapest XIV. kerület, Dózsa György úr 37. szám alatti ingatlan (Műcsarnok) és hozzá tartozó földterületre, a Széchenyi Gyógyfürdő és Uszoda, valamint a Városligeti Műjégpálya épületére, továbbá a műszaki infrastruktúra sajátos építményeire.
+1. § (1) A Budapest XIV. kerület 29732/11 helyrajzi számú ingatlannak (a továbbiakban: városligeti ingatlan) az államot, Budapest Főváros Önkormányzatát és Budapest Főváros XIV. Kerület Zugló Önkormányzatát megillető tulajdoni hányada e törvény erejénél fogva mint közfeladat ellátásához szükséges terület ingyenesen, az e törvény hatálybalépésétől számított 99 éves időtartamra az állam 100%-os tulajdonában álló Városliget Ingatlanfejlesztő Zrt. (a továbbiakban: vagyonkezelő) vagyonkezelésébe kerül. A városligeti ingatlanon fennálló építményekre e törvény hatálybalépését megelőzően az ingatlan-nyilvántartásba bejegyzett egyéb vagyonkezelői jogok, illetve Budapest Főváros Önkormányzata forgalomszervezési, közútkezelési és közösségi közlekedési infrastruktúra fenntartási, továbbá településtisztasági és hulladékgazdálkodási feladatkörei változatlanul fennmaradnak. A vagyonkezelői jog nem terjed ki a Budapest XIV. kerület, Dózsa György úr 37. szám alatti ingatlan (Műcsarnok) és hozzá tartozó földterületre, a Széchenyi Gyógyfürdő és Uszoda, valamint a Városligeti Műjégpálya épületére, továbbá a műszaki infrastruktúra sajátos építményeire.
 
 (1a) A Városliget megújításához és fejlesztéséhez kapcsolódó beruházások megvalósítása érdekében
 
 - a) a Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII. törvény módosításáról szóló 2015. évi XIV. törvény hatálybalépésének napján, e törvény erejénél fogva, ingyenesen a vagyonkezelő vagyonkezelésébe kerül
   - aa) a Budapest XIII. kerület, 28056 helyrajzi számú ingatlan 21667/38899 hányada, valamint
-  - ab) a városligeti ingatlanon lévő Magyar Műszaki és Közlekedési Múzeum épülete (a Magyar Műszaki és Közlekedési Múzeum javára bejegyzett vagyonkezelői joghoz kapcsolódó ingatlanrész)
+  - ab)
 
 az (1) bekezdésben meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig, a bejegyzett vagyonkezelők vagyonkezelői jogának egyidejű megszűnésével, és
 
@@ -28,13 +28,40 @@ e törvény erejénél fogva mint közfeladat ellátásához szükséges ingatla
 
 (1d) A vagyonkezelői jog nem terjed ki az (1b) bekezdés a)–c) pontjai szerinti ingatlanokon az Opera beruházásokkal nem érintett eszközökre és ingóságokra, amelyek tekintetében a Magyar Állami Operaház vagyonkezelői joga változatlanul fennmarad.
 
+(1e) Az (1) bekezdés szerinti vagyonkezelő a törvényi célok és közfeladatok megvalósítása érdekében jogosult és köteles a vagyonkezelésében lévő városligeti ingatlan fenntartására és üzemeltetésére, valamint az üzemeltetői feladatok keretében a szükséges mértékű fejlesztési tevékenységek elvégzésére, továbbá a zöldfelületek és egyéb közterületek karbantartására.
+
+(1f) Az (1) bekezdés szerinti vagyonkezelő az (1e) bekezdés szerinti feladatai ellátása körében érvényesíti a szavatossági és jótállási jogokat.
+
 (2) A vagyonkezelő vagyonkezelői joga tekintetében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 11. § (8) bekezdés c) és e) pontja, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 109. § (6) bekezdése nem alkalmazandó.
 
 (3) A vagyonkezelőben az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek összességét a kultúráért felelős miniszter gyakorolja.
 
 (4) A vagyonkezelő felügyelőbizottsága három, legfeljebb hat természetes személy tagból áll.
 
-2. § (1) A vagyonkezelő vagyonkezelői joga tekintetében az Nvt. 6. § (1) bekezdése szerinti osztott tulajdon létesítésének tilalmát a 3. § (1) bekezdése alapján létesített épület, valamint a 3. § (2) bekezdése alapján átalakítással érintett ingatlan tekintetében nem kell alkalmazni.
+1/A. § (1) A Városliget helyreállításához, megújításához és fejlesztéséhez kapcsolódó városligeti ingatlanon megvalósuló fejlesztések és beruházások építtetői feladatait az állami beruházásokért felelős miniszter (a továbbiakban: miniszter) a nyilatkozatában kijelölt
+
+- a) általa vezetett minisztérium,
+- b) az a) ponttól eltérő költségvetési szerv, vagy
+- c) a magyar állam 100%-os tulajdonában álló gazdasági társaság
+
+[az a)–c) pontban foglaltak a továbbiakban együtt: építtető] útján látja el azzal, hogy az a) és b) pont szerinti szerv e feladatai elvégzéséhez közreműködőt, valamint beruházás-lebonyolítót vehet igénybe.
+
+(2) A Városliget helyreállításához, megújításához és fejlesztéséhez kapcsolódó beruházások előkészítésével és megvalósításával összefüggő fejlesztési koncepciót az építtető kezdeményezésére a miniszter az általa vezetett minisztérium honlapján közzéteszi, valamint véleményezésre megküldi Budapest Főváros Önkormányzata és Budapest Főváros XIV. Kerület Zugló Önkormányzata részére.
+
+(3) Az építtetői feladatokhoz kapcsolódó jogok és kötelezettségek vonatkozásában az építtető a Városliget Ingatlanfejlesztő Zrt. általános jogutódja.
+
+(4) A városligeti ingatlanon tervezett fejlesztések és beruházások megvalósítása érdekében a vagyonkezelő, a tulajdonos és a tulajdonosi joggyakorló szervezet az építtető által benyújtott tulajdonosi hozzájárulás kiadása tekintetében a benyújtástól számított 15 napon belül érdemben nyilatkozik. E határidő elmulasztása esetén a nyilatkozatot – a kérelemben foglalt tartalommal – megadottnak kell tekinteni.
+
+(5) A vagyonkezelő a beruházás megvalósításával érintett, vagyonkezelése alatt álló városligeti ingatlant köteles az építtetőnek az építési beruházás céljából
+
+- a) annak befejezéséig vagy
+- b) – a beruházás megvalósításának részleteire és az ingatlan átadására vonatkozó – a vagyonkezelő és az építtető között létrejött megállapodásban rögzített napig
+
+átadni.
+
+(6) A városligeti ingatlanon tervezett fejlesztésekkel és beruházásokkal összefüggésben elkészíttetett tervekre vonatkozó felhasználási engedély, valamint felhasználási szerződés tekintetében az építtető a Városliget Ingatlanfejlesztő Zrt. vagy annak a 100%-os tulajdonában álló gazdasági társasága helyébe lép. A jogok és kötelezettségek átszállásához a tervező mint szerző hozzájárulása nem szükséges, de a változásról annak bekövetkeztétől számított 30 napon belül az építtető értesíti a szerzőt. Az építtetőt a változással érintett engedély, valamint szerződés kapcsán további közbeszerzési, tervpályázati kötelezettség nem terheli.
+
+2. § (1)
 
 (2) A vagyonkezelő és a projekttársaság vagyonkezelői joga tekintetében vagyonkezelési szerződés megkötése nem szükséges.
 
@@ -44,36 +71,31 @@ e törvény erejénél fogva mint közfeladat ellátásához szükséges ingatla
 
 (4) A vagyonkezelő az állami vagyonról szóló 2007. évi CVI. törvény 27. § (7) bekezdése szerinti visszapótlási kötelezettség teljesítése alól e törvény erejénél fogva mentesül.
 
-2/A. § (1) A vagyonkezelő a vagyonkezelésében lévő ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez, amelyekkel összefüggésben e törvény erejénél fogva, saját selejtezési szabályzata alapján jogosult a bontással járó kivitelezési munkák és ahhoz kapcsolódó feladatok elvégzése érdekében a vagyonkezelésében lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, hulladékgyűjtő helyen történő elhelyezésére.
+2/A. § (1) Az építtető a városligeti ingatlanon értékmegőrző, valamint értéknövelő fejlesztéseket és beruházásokat végez, amelyekkel összefüggésben e törvény erejénél fogva, saját selejtezési szabályzata alapján jogosult a bontással járó kivitelezési munkák és ahhoz kapcsolódó feladatok elvégzése érdekében az állam nevében tulajdonosi jogokat gyakorló személy tulajdonában lévő vagyonelemek selejtezéséből származó hulladékok megsemmisítésére, hulladékgyűjtő helyen történő elhelyezésére.
 
-(2) A vagyonkezelő által teljesített beruházás, felújítás megvalósításával, új eszköz létrehozásával vagy beszerzésével összefüggésben az ingatlan tulajdonosának, illetve az állam nevében tulajdonosi jogokat gyakorló szervezetnek és a vagyonkezelőnek egymással szemben megtérítési kötelezettsége nem keletkezik. A nemzeti vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek a vagyonkezelő – külön elszámolás nélkül – a tulajdonos, illetve a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásba történő, jogszabályban foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
+(2) Az építtető vagy vagyonkezelő által teljesített beruházás, felújítás megvalósításával, új eszköz létrehozásával vagy beszerzésével összefüggésben az ingatlan tulajdonosának, illetve az állam nevében tulajdonosi jogokat gyakorló szervezetnek és a vagyonkezelőnek vagy az építtetőnek egymással szemben megtérítési kötelezettsége nem keletkezik. A nemzeti vagyon növekedésével kapcsolatos nyilvántartási kötelezettségeinek az építtető – külön elszámolás nélkül – a tulajdonos, illetve a tulajdonosi joggyakorló által vezetett vagyonnyilvántartásba történő, jogszabályban foglalt adatszolgáltatási kötelezettségének teljesítésével tesz eleget.
 
-(3) Nem keletkezik megtérítési kötelezettség a (2) bekezdésben meghatározottakon kívül abban az esetben sem, ha a beruházást, felújítást a vagyonkezelő a vagyonkezelésében nem álló, de közfeladatot ellátó szervezet tulajdonában álló ingatlanon végzi. Ebben az esetben a vagyonkezelő a beruházás, felújítás műszaki átadás-átvételét követően, a munkaterületnek a kivitelező által történő visszaadását követő napon a beruházás során létrejött vagyonelemeket az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a beruházással érintett ingatlan tulajdonosának.
+(3) Nem keletkezik megtérítési kötelezettség a (2) bekezdésben meghatározottakon kívül abban az esetben sem, ha a beruházást, felújítást az építtető a vagyonkezelésében nem álló, de közfeladatot ellátó szervezet tulajdonában álló ingatlanon végzi. Ebben az esetben az építtető a beruházás, felújítás műszaki átadás-átvételét követően, a munkaterületnek a kivitelező által történő visszaadását követő napon a beruházás során létrejött vagyonelemeket az általa nyilvántartott könyv szerinti értéken, befejezetlen beruházásként átadja a beruházással érintett ingatlan tulajdonosának.
 
 (4) A vagyonkezelő a vagyonkezelésében lévő bármely vagyonelem harmadik személy részére történő hasznosítása során jogosult díjfizetési kötelezettséget előírni. A hasznosítási tevékenységből származó bevétel teljes mértékben a vagyonkezelőt illeti meg azzal, hogy köteles a hasznosításból származó bevételt a vagyonkezelésében lévő vagyonelemek fenntartására fordítani.
 
-2/B. § (1) Az 1. § (1) bekezdése és az 1. § (1a) bekezdés a) pont aa) alpontja szerinti ingatlanok tekintetében a létesítménygazdálkodási tevékenység állami feladat, amelynek ellátása a vagyonkezelő feladata. E létesítménygazdálkodási feladatot az állam a 2/A. § (4) bekezdése szerinti bevétel figyelembevételével finanszírozza.
+2/B. § (1) Az 1. § (1) bekezdése és az 1. § (1a) bekezdés a) pont aa) alpontja szerinti ingatlan tekintetében a létesítménygazdálkodási tevékenység állami feladat, amelynek ellátása a vagyonkezelő feladata. E létesítménygazdálkodási feladatot az állam a 2/A. § (4) bekezdése szerinti bevétel figyelembevételével finanszírozza.
 
 (2) A vagyonkezelő az (1) bekezdésben foglaltakon túl ellátja a vagyonkezelésében lévő muzeális intézményekben elhelyezett kiemelt jelentőségű nemzeti, kulturális értékek védelmére vonatkozó állami feladatot a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény rendelkezései szerint.
 
-3. § (1) A vagyonkezelő vagyonkezelői joga fennállásának időtartama alatt a vagyonkezelő által a városligeti ingatlanon felépített építmény önálló ingatlanként, e törvény erejénél fogva az állam 100%-os tulajdonába kerül.
+3. § (1) Az építtető által a városligeti ingatlanon felépített építmény önálló ingatlanként, e törvény erejénél fogva az állam 100%-os tulajdonába kerül.
 
-(2) A vagyonkezelő vagyonkezelői joga fennállásának időtartama alatt a városligeti ingatlanon – e törvény hatálybalépésekor – fennálló építményeknek a vagyonkezelő általi átalakítása, bővítése, felújítása, korszerűsítése (a továbbiakban együtt: építési tevékenység) esetén az építési tevékenységgel érintett építményrész az egész ingatlan értékéből az épített részre eső érték arányában az állam tulajdonába kerül.
+(2) A vagyonkezelő vagyonkezelői joga fennállásának időtartama alatt a városligeti ingatlanon fennálló építményeknek az építtető vagy a vagyonkezelő általi átalakítása, bővítése, felújítása, korszerűsítése (a továbbiakban együtt: építési tevékenység) esetén az építési tevékenységgel érintett építményrész az egész ingatlan értékéből az épített részre eső érték arányában az állam tulajdonába kerül.
 
-(2a) A városligeti ingatlanon megvalósuló értéknövelő beruházásokkal, felújításokkal, új eszköz létrehozásával kapcsolatosan a tulajdonosok sem a vagyonkezelővel, sem egymással szemben nem jogosultak a beruházások, fejlesztések során a meglévő vagyontárgyakkal kapcsolatosan felmerülő terven felüli értékcsökkenés miatti megtérítési igény érvényesítésére.
+(2a) A városligeti ingatlanon megvalósuló értéknövelő beruházásokkal, felújításokkal, új eszköz létrehozásával kapcsolatosan a tulajdonosok sem az építtetővel, sem a vagyonkezelővel, sem egymással szemben nem jogosultak a beruházások, fejlesztések során a meglévő vagyontárgyakkal kapcsolatosan felmerülő terven felüli értékcsökkenés miatti megtérítési igény érvényesítésére.
 
-(3) A vagyonkezelő mint építtető (a továbbiakban: építtető)
-
-- a) az (1) és (2) bekezdésben meghatározott beruházások, valamint
-- b) az 1. § (1a) bekezdésében megjelölt ingatlanokhoz kapcsolódó beruházások
-
-tekintetében a feladatait az állam nevében és javára eljárva látja el. A beruházások közérdekű célú fejlesztésnek minősülnek.
+(3) Az építtető a városligeti ingatlanon végzett beruházások tekintetében a feladatait az állam nevében és javára, valamint az állam, Budapest Főváros Önkormányzata és Budapest Főváros XIV. Kerület Zugló Önkormányzata érdekében eljárva látja el. A beruházások közérdekű célú fejlesztésnek minősülnek.
 
 (3a) Az építtető a városligeti ingatlanon végzett beruházások megvalósításának időtartama alatt a helyi önkormányzat tulajdonát képező más ingatlanon – az ingatlan tulajdonosával kötött, a beruházás idejére az ingatlan ingyenes használatát biztosító írásbeli megállapodás alapján – jogosult beruházásokat végezni. Az építtető e beruházások tekintetében feladatait az állam nevében és javára eljárva látja el. A beruházás közérdekű célú fejlesztésnek minősül.
 
 (3b) A (3a) bekezdés szerint megvalósult beruházást ingyenesen az ingatlantulajdonos helyi önkormányzat tulajdonába kell adni.
 
-(4) Az építtető a (3) bekezdésben megjelölt beruházások vonatkozásában különösen az alábbi feladatokat látja el:
+(4) Az építtető különösen az alábbi feladatokat látja el:
 
 - a) teljes körűen elkészíti vagy elkészítteti az ingatlanfejlesztés megvalósításához szükséges terveket, tanulmányokat;
 - b) ügyfélként részt vesz a hatósági és egyéb igazgatási eljárásokban;
@@ -87,7 +109,7 @@ tekintetében a feladatait az állam nevében és javára eljárva látja el. A 
 
 (5) Az építési tevékenység megvalósítása céljából az építtető által kezdeményezett hatósági eljárásokban a jogszabályban előírt ingatlantulajdonosi hozzájárulás az építtetőn kívüli jogalanytól történő beszerzése nem szükséges.
 
-(6) A (3) bekezdés szerinti beruházást – a számvitelről szóló törvény szerinti – megvalósuláskor a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság nyilvántartásába térítésmentesen kell felvenni – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – a vagyonkezelő adatközlése alapján.
+(6) A (3) bekezdés szerinti beruházást – a számvitelről szóló törvény szerinti – megvalósuláskor a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság nyilvántartásába térítésmentesen kell felvenni – a tulajdonosi joggyakorlóval történő külön elszámolás nélkül – az építtető adatközlése alapján.
 
 (6a) A (3) bekezdésben megjelölt beruházások befejezését követően létrejövő új építmények e törvény erejénél fogva mint közfeladat ellátásához szükséges ingatlanok ingyenesen a vagyonkezelő vagyonkezelésébe kerülnek az 1. § (1) bekezdésében meghatározott vagyonkezelői jog megszűnésének időpontjával azonos időpontig. Az ingatlanügyi hatóság a vagyonkezelő vagyonkezelői jogát a vagyonkezelő kérelmére e törvény alapján jegyzi be az ingatlan-nyilvántartásba a beruházás – számvitelről szóló törvény szerinti – megvalósulását követően. Az ingatlanügyi hatóság eljárása díjmentes.
 
@@ -105,7 +127,7 @@ tekintetében a feladatait az állam nevében és javára eljárva látja el. A 
 
 (6) A közmű tulajdonosa által elvégzett, a közműszakaszt érintő munka indokolt költségeit az építtető a közmű tulajdonosának köteles megfizetni. Ha a közműszakaszt érintő munkára a műszakilag feltétlenül szükséges mértéket meghaladóan került sor, akkor a műszakilag feltétlenül szükséges mértéket meghaladó munkák költségét a közmű tulajdonosa köteles megtéríteni illetve viselni. Az építtető által létrehozott közmű – a közmű műszaki átadás-átvételi eljárása eredményes lezárását követően – e törvény erejénél fogva, ingyenesen, az építtető által nyilvántartott nyilvántartási értéken való átvezetéssel az (1) bekezdés szerinti közműtulajdonos tulajdonába, a víziközmű az ellátásért felelős Budapest Főváros Önkormányzat tulajdonába és a közmű üzemeltetőjének üzemeltetésébe kerül.
 
-(7) Az építtetőnek a vagyonkezelésében lévő felhasználási helyek tekintetében nem kell víziközmű-fejlesztési hozzájárulást fizetnie.
+(7) Az építtetőnek a városligeti ingatlanon lévő felhasználási helyek tekintetében nem kell víziközmű-fejlesztési hozzájárulást fizetnie.
 
 4. § A 3. § (1) bekezdése szerint felépített építmények a használatbavételi engedély véglegessé válásának vagy a használatbavétel tudomásulvételének időpontjától e törvény erejénél fogva nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülnek.
 

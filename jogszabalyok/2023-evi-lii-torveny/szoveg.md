@@ -1029,7 +1029,7 @@ köznevelési foglalkoztatotti jogviszonyát vagy munkaviszonyát kívánja – 
 
 (2) Ha a munkáltató fél évnél rövidebb ideje alakult, az (1) bekezdésben meghatározott köznevelésben foglalkoztatottak átlagos statisztikai létszámát az adott időszakra vonatkozóan kell megállapítani.
 
-(3) Ha a munkáltatónak több feladatellátási helye van, az (1) bekezdésben foglalt feltételek fennállását feladatellátási helyenként kell megállapítani azzal, hogy az azonos vármegyében (fővárosban) található feladatellátási helyek esetében a köznevelésben foglalkoztatottak létszámát össze kell számítani. A köznevelési foglalkoztatotti jogviszonyban álló köznevelésben foglalkoztatottat azon a feladatellátási helyen kell számításba venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát.
+(3) Ha a munkáltatónak több feladatellátási helye van, az (1) bekezdésben foglalt feltételek fennállását feladatellátási helyenként kell megállapítani azzal, hogy az azonos megyében (fővárosban) található feladatellátási helyek esetében a köznevelésben foglalkoztatottak létszámát össze kell számítani. A köznevelési foglalkoztatotti jogviszonyban álló köznevelésben foglalkoztatottat azon a feladatellátási helyen kell számításba venni, amelyen a csoportos létszámcsökkentésről szóló döntés meghozatalakor irányadó beosztása szerint végez munkát.
 
 #### 59. § [Eljárás csoportos létszámcsökkentés esetén]
 
@@ -2625,9 +2625,9 @@ Az Országos Közszolgálati Érdekegyeztető Tanács a köznevelésben foglalko
 
 (1) Az oktatási központ elnöke a tankerületi központoknál a köznevelésben foglalkoztatottak köznevelési foglalkoztatotti jogviszonyát vagy munkaviszonyát érintő – az ágazati érdekegyeztető fórum hatáskörébe nem tartozó – kérdésekben a 144. § (1) bekezdés b) pontja szerinti szakszervezetek elnökeivel kialakított országos egyeztető fórum keretei között egyeztet.
 
-(2) A tankerületi központ vezetője a járási és vármegyei jelentőségű, a köznevelésben foglalkoztatottak köznevelési foglalkoztatotti jogviszonyát vagy munkaviszonyát érintő kérdésekben az érintett, járási, valamint vármegyei szinten a szakszervezetekkel a járási, valamint a vármegyei szintű érdekegyeztető fórum keretei között egyeztet.
+(2) A tankerületi központ vezetője a járási és megyei jelentőségű, a köznevelésben foglalkoztatottak köznevelési foglalkoztatotti jogviszonyát vagy munkaviszonyát érintő kérdésekben az érintett, járási, valamint megyei szinten a szakszervezetekkel a járási, valamint a megyei szintű érdekegyeztető fórum keretei között egyeztet.
 
-(3) Nem állami fenntartású köznevelési intézményeknél a köznevelésben foglalkoztatottak köznevelési foglalkoztatotti jogviszonyát vagy munkaviszonyát érintő területi (vármegyei) vagy települési jelentőségű kérdésekben a fenntartó az érintett területi vagy települési szakszervezetekkel fenntartói érdekegyeztető fórumban egyeztet.
+(3) Nem állami fenntartású köznevelési intézményeknél a köznevelésben foglalkoztatottak köznevelési foglalkoztatotti jogviszonyát vagy munkaviszonyát érintő területi (megyei) vagy települési jelentőségű kérdésekben a fenntartó az érintett területi vagy települési szakszervezetekkel fenntartói érdekegyeztető fórumban egyeztet.
 
 #### 143. § [Az érdekegyeztetés eljárása és működtetése]
 

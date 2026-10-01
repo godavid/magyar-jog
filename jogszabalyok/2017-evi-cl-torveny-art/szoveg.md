@@ -1930,7 +1930,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 - a) a bíróságot;
 - b) az ügyészséget;
 - c) a nyomozó hatóságot és az előkészítő eljárást folytató szervet, ha a tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges;
-- d) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot, valamint a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervet, amennyiben nemzetbiztonsági feladatkörében jár el;
+- d) a nemzetbiztonsági szolgálat főigazgatója által engedélyezett megkeresés alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálatot;
 - e) a rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés folytatása érdekében szükséges;
 - f) az Állami Számvevőszéket, a kormányzati ellenőrzési szervet, az Európai Csalás Elleni Hivatalt, az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezetet, valamint az európai támogatásokat auditáló szervet, ha a tájékoztatás az ellenőrzéshez szükséges;
 - g) az adópolitikáért felelős minisztert, illetve az állami adó- és vámhatóságot irányító minisztert, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges;
@@ -1974,7 +1974,7 @@ Ha az adózó adózásával összefüggésben olyan valótlan tényt, adatot vag
 
 (26) Ha az állami adó- és vámhatóság a személygépkocsival személyszállítási szolgáltatást végző adózó tekintetében a nyugtaadási kötelezettségek megsértését állapítja meg, akkor az erről szóló véglegessé vált döntését haladéktalanul megküldi a személyszállítási szolgáltatást folytató vállalkozás működési területén illetékes közlekedési hatóság részére, a személygépkocsival díj ellenében végzett közúti személyszállításról szóló kormányrendeletben meghatározott, a tevékenységi engedély visszavonása és a tevékenység végzéstől történő eltiltás feltételeinek vizsgálata céljából.
 
-(27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és vármegyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
+(27) Az állami adóhatóság az Egységes Szociális Ellátások Ügyvitel-támogató Rendszer útján adatot szolgáltat a fővárosi és megyei kormányhivatal részére a szociális igazgatásról szóló törvény szerinti szociális ellátások és támogatások, a gyermektartásdíj megelőlegezésének és a hadigondozottak ellátásának megállapításával, ellenőrzésével és folyósításával összefüggésben szükséges adatokról.
 
 (28) Az állami adó- és vámhatóság ellenőrzi az elektronikus építési naplóban rögzítendő adószám érvényességét, amelynek eredményét az elektronikus építési napló részére automatikus adattovábbítással átadja.
 
@@ -4414,13 +4414,15 @@ fizeti meg, illetve ettől az időponttól igényelheti vissza.
 
 2.2. Az éves bevallásra kötelezett adózó év közben negyedévenkénti, a negyedévenként bevallásra kötelezett adózó a havonkénti elszámolás és bevallás engedélyezését kérheti. Az adóhatóság a gyakoribb elszámolást – az adóév végéig – különösen abban az esetben engedélyezheti, ha az adózó beszerzéseit terhelő levonható előzetesen felszámított forgalmiadó-kulcs magasabb az áthárított forgalmiadó-kulcsnál, illetve az adózó beruházást valósít meg. Az adóhatóság megtagadja az engedély kiadását, ha
 
-2.2.1. az adószám felfüggesztés hatálya alatt állt vagy adószámát törölték,
+2.2.1. az adózó adószámát törölték, ha a törlés hatálya a kérelem benyújtásának napján fennáll,
 
-2.2.2. az adóhatóság – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett alkalmazott foglalkoztatása miatt – véglegessé vált határozatban mulasztási bírsággal sújtotta,
+2.2.2. az adóhatóság az adózót – számla-, nyugtakibocsátási kötelezettség elmulasztása, be nem jelentett foglalkoztatott foglalkoztatása miatt – a kérelem benyújtását megelőző két éven belül véglegessé vált határozatban mulasztási bírsággal sújtotta,
 
-2.2.3. szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
+2.2.3. az adózó a kérelem benyújtását megelőző két éven belül szerepel(t) a 263. § vagy a 264. § alapján közzéteendő adózói listán,
 
-2.2.4. huszonötmillió forintot elérő vagy azt meghaladó összegű adótartozás miatt végrehajtási eljárás folyt vagy folyik ellene.
+2.2.4. az adózó ellen huszonötmillió forintot elérő vagy azt meghaladó összegű adótartozás miatt a kérelem benyújtását megelőző két éven belül végrehajtási eljárás folyt vagy folyik,
+
+2.2.5. az adózóval szemben csőd-, végelszámolási, kényszertörlési vagy felszámolási eljárás indult, amely a kérelem benyújtásának napján folyamatban van.
 
 2.3. A gyakorított elszámolás évközi engedélyezése esetén az engedély szerinti bevallási kötelezettségre áttérést megelőző, bevallással le nem zárt időszakra vonatkozó adókötelezettséget meg kell állapítani, be kell vallani, meg kell fizetni.
 

@@ -529,7 +529,7 @@ amelynek jogát vagy jogos érdekét a Hatóság egyedi döntése a megbízatás
 
 42. § (1) A Hatóság elnöke és elnökhelyettese nem lehet
 
-- a) köztársasági elnök, miniszterelnök, miniszter, a miniszterelnök politikai igazgatója, kormánybiztos, miniszterelnöki biztos, miniszterelnöki megbízott, miniszteri biztos, államtitkár, közigazgatási államtitkár, helyettes államtitkár, fővárosi és vármegyei kormányhivatal vezetője, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, helyi vagy vármegyei önkormányzati képviselő, vármegyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
+- a) köztársasági elnök, miniszterelnök, miniszter, a miniszterelnök politikai igazgatója, kormánybiztos, miniszterelnöki biztos, miniszterelnöki megbízott, miniszteri biztos, államtitkár, közigazgatási államtitkár, helyettes államtitkár, fővárosi és megyei kormányhivatal vezetője, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, helyi vagy megyei önkormányzati képviselő, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
 - b) párt, pártalapítvány tagja vagy politikai párttal, pártalapítvánnyal foglalkoztatásra irányuló jogviszonyban álló személy, ideértve bármely önkéntes alapon vagy díjazás ellenében végzett tevékenységet,
 - c) gazdasági társaság vezető tisztségviselője, vezető testületének tagja, felügyelőbizottsági tagja, cégvezetője.
 

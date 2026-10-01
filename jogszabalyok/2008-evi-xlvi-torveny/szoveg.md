@@ -491,7 +491,7 @@ köteles e tevékenység folytatására irányuló szándékát az élelmiszerl�
 - k) kinevezi, illetve felmenti a közvetlen irányítása alá tartozó országos főállatorvost és annak helyettesét;
 - l) az országos főállatorvos útján ellátja – a kereskedelemért felelős miniszter által irányított, élelmiszerlánc-felügyeleti szervként kijelölt hatóság kivételével – az élelmiszerlánc-felügyeleti szerv szakmai irányítását, amelynek keretében közvetlen szakmai utasítást adhat az élelmiszerlánc-felügyeleti szervek részére hatósági eljárás lefolytatására
   - la) járványos állat- vagy növénybetegség megjelenése, valamint
-  - lb) nagy egészségügyi kockázattal járó, nagy gazdasági kárral fenyegető, több vármegye területét érintő vagy Magyarország területén kívüli hatással is bíró élelmiszerlánc-esemény
+  - lb) nagy egészségügyi kockázattal járó, nagy gazdasági kárral fenyegető, több megye területét érintő vagy Magyarország területén kívüli hatással is bíró élelmiszerlánc-esemény
 - m) rendkívüli élelmiszerlánc-esemény esetén meghatározza az állattartó létesítmények közötti védőtávolságot.
 
 esetén.
@@ -599,7 +599,7 @@ esetén.
 
 (4a) A 17. § (4) bekezdésében foglalt kötelezettség elmulasztásával összefüggésben tett bejelentés esetében 5 napon belül e törvény végrehajtására kiadott rendeletben foglaltak szerint helyszíni ellenőrzést kell lefolytatni és a helyszíni ellenőrzésről készült jegyzőkönyvet haladéktalanul továbbítani kell az élelmiszerlánc-felügyeleti szerv részére a parlagfű elleni közérdekű védekezés elrendelése érdekében.
 
-(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több vármegyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása során
+(5) Az élelmiszerlánc-felügyeleti szerv országos hatáskörben a több megyét érintő vagy nemzetközi vonatkozásokkal bíró, a nagy gazdasági kárral járó, a fogyasztók széles körét veszélyeztető, élelmiszerlánc-események kivizsgálása során
 
 - a) ellenőrzi a kockázatbecslés alapján kiemelten kockázatosnak minősített, élelmiszerláncot érintő tevékenységet végzőket, és azok létesítményeit;
 - b) ellenőrzi e törvény és a végrehajtására kiadott jogszabályok előírásainak betartását;
@@ -1055,7 +1055,7 @@ az élelmiszerlánc-felügyeleti szervhez nyilvántartásba vétel céljából b
 
 ### A Helyi Járványvédelmi Központ hatásköre és feladatai
 
-38/F. § (1) Állatjárvány kitörése vagy annak gyanúja esetén az országos főállatorvos a kitörés helye szerint illetékes élelmiszerlánc-felügyeleti szerven belül – a járvány elfojtásának idejére – elrendelheti Helyi Járványvédelmi Központ létrehozását. A Helyi Járványvédelmi Központ illetékessége az érintett vármegye teljes területére kiterjed. A Helyi Járványvédelmi Központ vezetőjét a főispán nevezi ki.
+38/F. § (1) Állatjárvány kitörése vagy annak gyanúja esetén az országos főállatorvos a kitörés helye szerint illetékes élelmiszerlánc-felügyeleti szerven belül – a járvány elfojtásának idejére – elrendelheti Helyi Járványvédelmi Központ létrehozását. A Helyi Járványvédelmi Központ illetékessége az érintett megye teljes területére kiterjed. A Helyi Járványvédelmi Központ vezetőjét a kormánymegbízott nevezi ki.
 
 (2) A Helyi Járványvédelmi Központ
 

@@ -50,6 +50,35 @@ az Országgyűlés a következő törvényt alkotja:
 
 4/A. § Amennyiben a Kormány a kiemelt budapesti fejlesztések irányítására kormánybiztost nevez ki, a Kormány rendeletben határozza meg a kormánybiztos fejlesztés irányításával kapcsolatos hatáskörét.
 
+#### 2/A. Fővárosi Közfejlesztések Tanácsa
+
+4/B. § (1) A Fővárosi Közfejlesztések Tanácsa a budapesti fejlesztéspolitika területén hozandó kormányzati és fővárosi önkormányzati döntések megalapozott előkészítése, továbbá a kormányzati és a fővárosi önkormányzati hatáskörben megvalósuló jelentős fővárosi fejlesztések és beruházások előkészítése és megvalósításának nyomon követése céljából működő, koordinációs és javaslattevő szerv.
+
+(2) A Fővárosi Közfejlesztések Tanácsa tíz tagból áll, akik közül öt tag a Kormányt, öt tag Budapest Főváros Önkormányzatát képviseli; a döntéseit egyhangúlag hozza. A döntéshozatal során a kormányoldal és a fővárosi önkormányzati oldal egy-egy szavazattal rendelkezik, azzal, hogy a szavazati jogot a Kormány nevében a miniszterelnök vagy az őt helyettesítő miniszter, Budapest Főváros Önkormányzata nevében a főpolgármester gyakorolja.
+
+(3) A Fővárosi Közfejlesztések Tanácsának elnöke a miniszterelnök, akit akadályoztatása esetén az általa kijelölt miniszter helyettesít. A Fővárosi Közfejlesztések Tanácsának társelnöke a főpolgármester.
+
+(4) A Fővárosi Közfejlesztések Tanácsának további tagjait
+
+- a) a Kormány oldaláról a miniszterek közül a miniszterelnök,
+- b) Budapest Főváros Önkormányzata oldaláról a kerületi polgármesterek és a Fővárosi Közgyűlés tagjai közül a főpolgármester javaslatára a Fővárosi Közgyűlés
+
+jelöli ki.
+
+(5) A Fővárosi Közfejlesztések Tanácsának ülésén tanácskozási joggal részt vehetnek a miniszterelnök, valamint a főpolgármester által felkért személyek.
+
+(6) A Fővárosi Közfejlesztések Tanácsa szükség szerint, de legalább negyedévente ülésezik.
+
+(7) A Fővárosi Közfejlesztések Tanácsának elnöke és társelnöke gondoskodik a Tanács által tett javaslatoknak az arra hatáskörrel rendelkező szerv elé történő terjesztéséről, valamint a feladatkörében hozott döntések végrehajtásáról.
+
+(8) A Fővárosi Közfejlesztések Tanácsa az ügyrendjét és a munkatervét maga állapítja meg.
+
+(9) A Fővárosi Közfejlesztések Tanácsa javaslatot tehet a Kormány részére a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) 193. § és 194. §-a alkalmazására, amely alapján a Kormány a Budapest közigazgatási területén megvalósuló építési beruházást a Méptv. kiemelt beruházásokra vonatkozó szabályai szerint kiemelt beruházássá, az azzal összefüggő közigazgatási hatósági ügyeket kiemelt jelentőségű üggyé nyilvánítja.
+
+4/C. § (1) Ha a Fővárosi Közfejlesztések Tanácsa által javasolt beruházás az állami építési beruházások rendjéről szóló 2023. évi LXIX. törvény (a továbbiakban: Ábtv.) alapján állami építési beruházásnak minősül, a Fővárosi Közfejlesztések Tanácsa javaslatára az állami beruházásokért felelős miniszter a Budapest közigazgatási területén megvalósuló állami építési beruházásnak az Ábtv. 5. § (1) bekezdés 7. pontja szerinti építtetőjeként olyan gazdasági társaságot is kijelölhet, amelyben a magyar állam és Budapest Főváros Önkormányzata egyaránt – közvetlenül vagy közvetetten – 50%-os tulajdonrésszel rendelkezik.
+
+(2) Az (1) bekezdés szerinti építési beruházással érintett, a nemzeti vagyon körébe tartozó ingatlanok felett az Ábtv. 12. § (1)–(4) bekezdése szerinti építtetői tulajdonosi joggyakorlásra vonatkozó jogok a beruházás céljának elérése érdekében az (1) bekezdés szerint kijelölt gazdasági társaságot illetik meg.
+
 #### 3. A kiemelt budapesti fejlesztések előkészítése
 
 5. § (1) A kiemelt budapesti fejlesztések megvalósítása során az építtető a tulajdonosi jog gyakorlása alapján, vagy a vagyonkezelésében lévő vagy a megállapodás alapján a rendelkezésére álló ingatlanon e jogviszonyok alapján beruházási és felújítási tevékenységet is végezhet.
@@ -141,7 +170,15 @@ kell érteni.
 
 látja el.
 
-15/A. § A Kormány az e fejezetben meghatározott építtetői feladatokat, valamint a 15. § a) pontja és 15. § d) pont da) alpontja szerinti feladatok építtetői előkészítését és megvalósítását jogutódként az állami beruházásokért felelős miniszter (e fejezet alkalmazásában a továbbiakban: Építtető) útján látja el, azzal, hogy a beruházás előkészítését és megvalósítását költségvetési szerv útján látja el. A költségvetési szerv e feladatai elvégzéséhez közreműködőt vehet igénybe.
+15/A. § (1) Az állami beruházásokért felelős miniszter az e fejezetben meghatározott építtetői feladatokat, valamint a 15. § a) pontja és a 15. § d) pont da) alpontja szerinti feladatokat a nyilatkozatában kijelölt
+
+- a) általa vezetett minisztérium,
+- b) az a) ponttól eltérő költségvetési szerv vagy
+- c) a magyar állam 100%-os tulajdonában álló gazdasági társaság
+
+útján látja el.
+
+(2) Az (1) bekezdés szerinti szervezet (e fejezet alkalmazásában a továbbiakban: Építtető) a korábbi építtető általános jogutódja.
 
 15/B. § (1) Az Építtető tulajdonosi joggyakorlásába kell adni a beruházások megvalósításához szükséges – az Építtető által az ingatlanok tulajdonosi joggyakorlója részére benyújtott kérelemben megjelölt – állami tulajdonú ingatlanokat és a beruházáshoz szükséges egyéb vagyonelemeket. Az állami ingatlanok tulajdonosi joggyakorlója – az Építtető megkeresése alapján – 30 napon belül intézkedik az ingatlanok tulajdonosi joggyakorlásának átadására vonatkozó megállapodás megkötéséről. Az ingatlanok és a beruházáshoz szükséges állami tulajdonú egyéb vagyonelemek tulajdonosi joggyakorlását ingyenesen, a megállapodás megkötésének napjával, könyv szerinti értéken kell az Építtető részére átadni. A tulajdonosi joggyakorló személyében bekövetkezett változás ingatlan-nyilvántartási átvezetését a megállapodás ingatlanügyi hatóság részére történő megküldésével az Építtető és az átadó tulajdonosi joggyakorló közösen kezdeményezi. Az ingatlanügyi hatóság az ingatlan-nyilvántartási kérelmen és az annak mellékletét képező megállapodáson kívül, az ingatlan-nyilvántartási átvezetéshez más dokumentumot nem kérhet. A tulajdonosi joggyakorlás megállapodással történő átadásával az átvett vagyonnal kapcsolatos jogviszonyokban a korábbi tulajdonosi joggyakorló helyett az Építtető képviseli az államot.
 
@@ -305,7 +342,7 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 ### III/C. Fejezet — KIEMELT NEMZETI EMLÉKHELYEN MEGVALÓSULÓ BERUHÁZÁSOK
 
-19/C. § A kiemelt nemzeti emlékhelyen és annak jogszabály szerinti településkép-védelmi környezetében megvalósuló azon beruházás megvalósítása esetén, amelyet jogszabály a magyar építészetről szóló 2023. évi C. törvény (a továbbiakban: Méptv.) szerinti közcélú kiemelt beruházássá nyilvánított, vagy amelyre a Méptv. közcélú kiemelt beruházásra vonatkozó szabályait kell alkalmazni (a továbbiakban együtt: kiemelt nemzeti emlékhellyel összefüggő beruházás) – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (4) bekezdés d)–f) pontjától eltérően – a Kormány az e törvény felhatalmazása alapján kiadott rendeletében – a kiemelt nemzeti emlékhely védelmének és értékének megőrzése érdekében – az építési tevékenység elvégzéséhez feltétlenül szükséges időtartamra és helyszínre vonatkozóan a helyi zajvédelmi szabályokhoz képest eltérő követelményeket, valamint különös eljárási szabályokat állapíthat meg.
+19/C. § A kiemelt nemzeti emlékhelyen és annak jogszabály szerinti településkép-védelmi környezetében megvalósuló azon beruházás megvalósítása esetén, amelyet jogszabály a Méptv. szerinti közcélú kiemelt beruházássá nyilvánított, vagy amelyre a Méptv. közcélú kiemelt beruházásra vonatkozó szabályait kell alkalmazni (a továbbiakban együtt: kiemelt nemzeti emlékhellyel összefüggő beruházás) – a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 48. § (4) bekezdés d)–f) pontjától eltérően – a Kormány az e törvény felhatalmazása alapján kiadott rendeletében – a kiemelt nemzeti emlékhely védelmének és értékének megőrzése érdekében – az építési tevékenység elvégzéséhez feltétlenül szükséges időtartamra és helyszínre vonatkozóan a helyi zajvédelmi szabályokhoz képest eltérő követelményeket, valamint különös eljárási szabályokat állapíthat meg.
 
 ### IV. Fejezet — ZÁRÓ RENDELKEZÉSEK
 
@@ -348,11 +385,11 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (2d) A tervek, illetve az azokat tartalmazó dokumentáció felhasználási joga tekintetében a 15/A. § szerinti építtetőt további tervpályázati vagy közbeszerzési kötelezettség nem terheli.
 
-(2e) A Vagyonkezelő helyébe a hatósági engedélyek tekintetében e törvény erejénél fogva az 15/A. § szerinti építtető lép.
+(2e) A Budai Palotanegyeddel összefüggő hatósági engedélyekben szereplő építtető helyébe e törvény erejénél fogva a 15/A. § szerinti építtető lép.
 
 (2f) A (2e) bekezdés szerinti változást a 15/A. § szerinti építtető bejelenti a hatósági engedélyt kiadó hatóság részére.
 
-(2g) A 15/B. § (1) bekezdése szerinti tulajdonosi jogok gyakorlása 2025. július 1-jétől illeti meg az állami beruházásokért felelős minisztert.
+(2g)
 
 (2h) Az állami beruházásokért felelős miniszter 2025. július 1-jétől a Várkapitányság Integrált Területfejlesztési Központ Nonprofit Zártkörűen Működő Részvénytársaság által fel nem használt működési és beruházási támogatások általános jogutódja. A működéshez kapcsolódó támogatások esetében kivételt képeznek azon támogatási jogviszonyok, amelyek nem építési és beruházási tevékenységhez kapcsolódnak.
 
@@ -388,9 +425,9 @@ e törvény erejénél fogva közfeladat ellátásához szükséges vagyonként 
 
 (7) A Citadella Nonprofit Kft. által a 19/A. § (1) bekezdése szerinti ingatlanokon végzett beruházások előkészítésével és megvalósításával összefüggő beruházási és fejlesztési, valamint az ezekkel összefüggő közbeszerzési és beszerzési tevékenység ellátása közérdekű célú fejlesztésnek minősül.
 
-#### 12. Módosító rendelkezések
+#### 12. Sarkalatossági záradék
 
-#### 24. §
+24. § E törvény 4/C. §-a az Alaptörvény 38. cikk (1) és (2) bekezdése alapján sarkalatosnak minősül.
 
 #### 25. §
 

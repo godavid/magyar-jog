@@ -73,11 +73,11 @@ szabályok
 
 illeti meg.
 
-(2) A fővárosi és vármegyei kormányhivatal határozatában rendelkezik az ingatlan tulajdonosát megillető kártalanításáról.
+(2) A fővárosi és megyei kormányhivatal határozatában rendelkezik az ingatlan tulajdonosát megillető kártalanításáról.
 
 (3) A kártalanítás összegét az általános rendőrségi feladatok ellátására létrehozott szerv téríti meg az ingatlan tulajdonosának.
 
-(4) Az (1) bekezdés a) pontja szerinti kártalanítást akkor kell megfizetni, ha az ingatlant igénybe veszik. Az ingatlan igénybevétele azt követően kezdhető meg, hogy az általános rendőrségi feladatok ellátására létrehozott szerv a határozatban megállapított (1) bekezdés a) pontja szerinti kártalanítást a tulajdonos részére megfizette vagy a részére bírósági letétbe helyezte és ezt a fővárosi és vármegyei kormányhivatal részére igazolta. Ha a kártalanítás ennek megfelelően megfizetésre került, a kártalanítás tárgyában hozott határozattal szembeni jogorvoslati eljárás nem képezi akadályát az ingatlan igénybevételének.
+(4) Az (1) bekezdés a) pontja szerinti kártalanítást akkor kell megfizetni, ha az ingatlant igénybe veszik. Az ingatlan igénybevétele azt követően kezdhető meg, hogy az általános rendőrségi feladatok ellátására létrehozott szerv a határozatban megállapított (1) bekezdés a) pontja szerinti kártalanítást a tulajdonos részére megfizette vagy a részére bírósági letétbe helyezte és ezt a fővárosi és megyei kormányhivatal részére igazolta. Ha a kártalanítás ennek megfelelően megfizetésre került, a kártalanítás tárgyában hozott határozattal szembeni jogorvoslati eljárás nem képezi akadályát az ingatlan igénybevételének.
 
 (5) Ha a korlátozás az ingatlan rendeltetésszerű használatát jelentős mértékben akadályozza vagy megszünteti, a tulajdonos az ingatlan kisajátítását kérheti.
 

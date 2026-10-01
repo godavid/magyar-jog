@@ -573,8 +573,8 @@ fennállásáról, szüneteléséről és megszűnéséről.
 (2) Az egységes szociális nyilvántartásból
 
 - a) a települési önkormányzat jegyzője az általa megállapított támogatások feltételeinek meghatározása érdekében szükséges adatokat,
-- b) fővárosi és vármegyei kormányhivatal, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala az Szt. szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat,
-- c) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala a Gyvt. szerint a hatáskörébe tartozó pénzbeli ellátások feltételeinek meghatározása érdekében, valamint az iskoláztatási támogatás szüneteltetésével kapcsolatos feladatainak ellátásához szükséges adatokat,
+- b) fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala az Szt. szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat,
+- c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a Gyvt. szerint a hatáskörébe tartozó pénzbeli ellátások feltételeinek meghatározása érdekében, valamint az iskoláztatási támogatás szüneteltetésével kapcsolatos feladatainak ellátásához szükséges adatokat,
 - d) a Diákhitel Központ Zrt. a célzott kamattámogatás megállapításához és a Diákhitel Központ Zrt. célzott kamattámogatás megállapításával összefüggő döntésével szemben benyújtott kifogás elbírálására jogosult szerv a kifogás elbírálásához szükséges adatokat,
 - e) a települési önkormányzat képviselő-testülete az Szt. szerint a hatáskörébe tartozó pénzbeli és természetbeni ellátások feltételeinek meghatározása érdekében szükséges adatokat,
 - f) a menekültügyi hatóság a menedékjogról szóló törvény szerint a hatáskörébe tartozó támogatások jogosultsági feltételeinek meghatározása érdekében szükséges adatokat,

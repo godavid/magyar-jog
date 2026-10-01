@@ -105,7 +105,7 @@ jogszabályok előkészítésében.
 
 7. § (1) Az Állami Számvevőszék székhelye Budapest.
 
-(2) Az Állami Számvevőszék a vármegyékben ellenőrzési irodákat működtethet.
+(2) Az Állami Számvevőszék a megyékben ellenőrzési irodákat működtethet.
 
 ### II. Fejezet — AZ ÁLLAMI SZÁMVEVŐSZÉK SZEMÉLYI ÁLLOMÁNYA
 
@@ -488,7 +488,7 @@ kell megfelelően alkalmazni.
 
 (5) Az Állami Számvevőszék a feltárt tényeket, az ezeken alapuló megállapításokat, következtetéseket záró megbeszélés keretében egyeztetheti az ellenőrzött szervezet vezetőjével vagy az általa megbízott személlyel.
 
-(6) A polgármester, illetve a vármegyei közgyűlés és a nemzetiségi önkormányzat elnöke köteles az önkormányzatra vonatkozó jelentést a képviselő-testülettel, a közgyűléssel, illetve a nemzetiségi önkormányzat testületével megismertetni.
+(6) A polgármester, illetve a megyei közgyűlés és a nemzetiségi önkormányzat elnöke köteles az önkormányzatra vonatkozó jelentést a képviselő-testülettel, a közgyűléssel, illetve a nemzetiségi önkormányzat testületével megismertetni.
 
 ### Az ellenőrzött szervezet intézkedési kötelezettsége
 
@@ -533,7 +533,7 @@ kell megfelelően alkalmazni.
 
 ### Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-34/A. § E törvény az Alaptörvény 43. cikk (4) bekezdése alapján sarkalatosnak minősül.
+#### 34/A. §
 
 ### Átmeneti rendelkezések
 

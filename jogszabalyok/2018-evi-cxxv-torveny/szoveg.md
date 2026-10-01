@@ -86,7 +86,7 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 - c) a Szellemi Tulajdon Nemzeti Hivatala, és
 - d)
 
-(4) Területi kormányzati igazgatási szervek a fővárosi és vármegyei kormányhivatalok (a továbbiakban együtt: kormányhivatal).
+(4) Területi kormányzati igazgatási szervek a fővárosi és megyei kormányhivatalok (a továbbiakban együtt: kormányhivatal).
 
 #### 3. § [A kormányzati igazgatás tisztségviselői]
 
@@ -112,7 +112,7 @@ Az Országgyűlés a korszerű és hatékony kormányzati igazgatási szervezetr
 - d) a miniszterelnök nemzetbiztonsági főtanácsadója és
 - e) az államtitkár.
 
-(4) Politikai vezető a főispán.
+(4) Politikai vezető a kormánymegbízott.
 
 (5) Biztosi jogviszonyban áll:
 
@@ -877,13 +877,13 @@ típusokba sorolható.
 
 #### 39. § [A kormányhivatal szervezete]
 
-(1) A kormányhivatal a főispán által közvetlenül vezetett szervezeti egységekből és járási hivatalokból áll.
+(1) A kormányhivatal a kormánymegbízott által közvetlenül vezetett szervezeti egységekből és járási hivatalokból áll.
 
 (2) A járási hivatal a jogszabályban megállapított hatáskörét önállóan gyakorolja. A járási hivatal egyedi ügyében a kormányhivatal utasítási joggal nem rendelkezik.
 
 (3) A kormányhivatal szervezeti és működési szabályzatát a kormányhivatal irányítására kormányrendeletben kijelölt miniszter – szükség szerint a 40. § (2) bekezdése szerinti, a szakmai irányításban közreműködő miniszter véleményének kikérésével – normatív utasításban adja ki.
 
-(4) A vármegyei kormányhivatal székhelye a vármegyeszékhely városban, a fővárosi kormányhivatal és a Pest vármegyei kormányhivatal székhelye Budapesten van.
+(4) A megyei kormányhivatal székhelye a megyeszékhely városban, a fővárosi kormányhivatal és a Pest megyei kormányhivatal székhelye Budapesten van.
 
 #### 40. § [A kormányhivatal irányítása]
 
@@ -891,7 +891,7 @@ típusokba sorolható.
 
 (2) Kormányrendeletben foglaltak szerint a kormányhivatal tekintetében a szakmai irányításban közreműködhet az a miniszter, aki – törvény vagy kormányrendelet eltérő rendelkezése hiányában – a Kormány tagjainak feladat- és hatásköréről szóló kormányrendelet alapján az adott feladatkörrel rendelkezik (a továbbiakban: szakmai irányító miniszter).
 
-(3) A kormányhivatal tekintetében – a kormányhivatal alapítása, a főispán kinevezése és felmentése kivételével – a Ksztv. 2. § (1) bekezdésében meghatározott hatásköröket, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) a felügyeleti szervre ruházott jogköröket a kormányhivatal irányítására kormányrendeletben kijelölt miniszter gyakorolja.
+(3) A kormányhivatal tekintetében – a kormányhivatal alapítása, a kormánymegbízott kinevezése és felmentése kivételével – a Ksztv. 2. § (1) bekezdésében meghatározott hatásköröket, valamint az általános közigazgatási rendtartásról szóló 2016. évi CL. törvényben (a továbbiakban: Ákr.) a felügyeleti szervre ruházott jogköröket a kormányhivatal irányítására kormányrendeletben kijelölt miniszter gyakorolja.
 
 (4) Kormányrendelet rendelkezhet úgy, hogy
 
@@ -907,11 +907,11 @@ gyakorolja.
 
 #### 41. § [A kormányhivatal vezetése]
 
-(1) A kormányhivatalt főispán vezeti.
+(1) A kormányhivatalt kormánymegbízott vezeti.
 
-(2) A főispán a feladatainak ellátásáért és hatáskörének gyakorlásáért a miniszterelnöknek politikai, a kormányhivatalok irányítására kormányrendeletben kijelölt miniszternek szakmai felelősséggel tartozik.
+(2) A kormánymegbízott a feladatainak ellátásáért és hatáskörének gyakorlásáért a miniszterelnöknek politikai, a kormányhivatalok irányítására kormányrendeletben kijelölt miniszternek szakmai felelősséggel tartozik.
 
-(3) A kormányhivatal hivatali szervezetét főigazgató vezeti. A főigazgató a főispán általános helyettese.
+(3) A kormányhivatal hivatali szervezetét főigazgató vezeti. A főigazgató a kormánymegbízott általános helyettese.
 
 (4) A főigazgató munkáját általános helyettesként igazgató segíti.
 
@@ -929,15 +929,15 @@ gyakorolja.
 
 #### 43. § [Az államigazgatási kollégium]
 
-(1) A fővárosi és vármegyei államigazgatási kollégium a kormányhivatal koordinációs feladatait elősegítő állandó fórum.
+(1) A fővárosi és megyei államigazgatási kollégium a kormányhivatal koordinációs feladatait elősegítő állandó fórum.
 
-(2) A fővárosi és vármegyei államigazgatási kollégium vezetője a főispán, tagjai a kormányhivatal főigazgatója, igazgatója és főosztályvezetői, a járási hivatalok hivatalvezetői (a továbbiakban: hivatalvezető), a Kormány által intézményfenntartásra kijelölt szerv vezetője, a kormányhivatal koordinációs és ellenőrzési jogkörébe tartozó területi államigazgatási szervek vezetői, valamint a főispán által meghívottak.
+(2) A fővárosi és megyei államigazgatási kollégium vezetője a kormánymegbízott, tagjai a kormányhivatal főigazgatója, igazgatója és főosztályvezetői, a járási hivatalok hivatalvezetői (a továbbiakban: hivatalvezető), a Kormány által intézményfenntartásra kijelölt szerv vezetője, a kormányhivatal koordinációs és ellenőrzési jogkörébe tartozó területi államigazgatási szervek vezetői, valamint a kormánymegbízott által meghívottak.
 
-(3) A főispán a kormányhivatal koordinációs feladatainak elősegítésére szükség esetén fővárosi, vármegyei koordinációs értekezletet hívhat össze.
+(3) A kormánymegbízott a kormányhivatal koordinációs feladatainak elősegítésére szükség esetén fővárosi, megyei koordinációs értekezletet hívhat össze.
 
 #### 44. § [A jogorvoslati jogkör]
 
-(1) A kormányhivatal jogosult az Ákr.-ben a felügyeleti szervre ruházott jogkörök gyakorlására, ha a járási hivatal vagy a települési önkormányzat jegyzője, fővárosban a kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző, a polgármesteri hivatal és a közös önkormányzati hivatal ügyintézője (a továbbiakban együtt: jegyző), valamint a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) államigazgatási hatáskörben jár el.
+(1) A kormányhivatal jogosult az Ákr.-ben a felügyeleti szervre ruházott jogkörök gyakorlására, ha a járási hivatal vagy a települési önkormányzat jegyzője, fővárosban a kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző, a polgármesteri hivatal és a közös önkormányzati hivatal ügyintézője (a továbbiakban együtt: jegyző), valamint a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) államigazgatási hatáskörben jár el.
 
 (2) A járási hivatal, a jegyző vagy a polgármester államigazgatási hatáskörébe tartozó döntés tekintetében az (1) bekezdéstől eltérően törvény vagy kormányrendelet más hatóságot jelölhet ki a felügyeleti jogkör gyakorlására.
 
@@ -985,11 +985,11 @@ A kormányhivatal
 
 #### 49. § [A járási hivatal szervezete]
 
-(1) A vármegyei kormányhivatal kirendeltségeiként járási hivatalok működnek. A járási hivatal székhelye a járás székhelyeként meghatározott városban van.
+(1) A megyei kormányhivatal kirendeltségeiként járási hivatalok működnek. A járási hivatal székhelye a járás székhelyeként meghatározott városban van.
 
 (2) A fővárosi kormányhivatal kirendeltségeiként kerületi hivatalok működnek. A kerületi hivatalra a járási hivatalra vonatkozó jogszabályokat kell alkalmazni.
 
-(3) A Kormány rendeletben jelöli ki Pest vármegyében a vármegyeszékhely járási hivatalának feladatait ellátó járási hivatalt, illetve a fővárosban a vármegyeszékhely járási hivatalának feladatait ellátó kerületi hivatalt.
+(3) A Kormány rendeletben jelöli ki Pest megyében a megyeszékhely járási hivatalának feladatait ellátó járási hivatalt, illetve a fővárosban a megyeszékhely járási hivatalának feladatait ellátó kerületi hivatalt.
 
 #### 50. § [A járási hivatal vezetése]
 
@@ -1556,7 +1556,7 @@ kézbesítettnek kell tekinteni.
 
 #### 77. § [Az MKK feladat- és hatásköre]
 
-(1) Az MKK a feladatait az országos, valamint a fővárosban és a vármegyékben (a továbbiakban együtt: területi szint) működő szervezete útján látja el.
+(1) Az MKK a feladatait az országos, valamint a fővárosban és a megyékben (a továbbiakban együtt: területi szint) működő szervezete útján látja el.
 
 (2)
 
@@ -1585,7 +1585,7 @@ kézbesítettnek kell tekinteni.
 - r) megalkotja éves költségvetését, elfogadja az éves költségvetés végrehajtásáról szóló, a számviteli törvény szerinti beszámolót;
 - s) ellátja mindazokat a feladatokat, amelyeket törvény vagy kormányrendelet az MKK számára meghatároz.
 
-(4) A fővárosi, vármegyei illetékességű kormányzati igazgatási szerv vezetője köteles kikérni a területi szinten működő MKK véleményét a kormánytisztviselők munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a kormányzati igazgatási szerv vezetőjének hatáskörébe utalt szabályozásról. A területi szinten működő MKK jogosult véleményezni a kormánytisztviselők csoportját érintő fővárosi, vármegyei illetékességű kormányzati igazgatási szerv által hozott munkáltatói intézkedést vagy annak tervezetét, ezzel összefüggésben konzultációt kezdeményezni.
+(4) A fővárosi, megyei illetékességű kormányzati igazgatási szerv vezetője köteles kikérni a területi szinten működő MKK véleményét a kormánytisztviselők munkavégzésére, munka- és pihenőidejére, jutalmazására, valamint juttatásaira vonatkozó, a kormányzati igazgatási szerv vezetőjének hatáskörébe utalt szabályozásról. A területi szinten működő MKK jogosult véleményezni a kormánytisztviselők csoportját érintő fővárosi, megyei illetékességű kormányzati igazgatási szerv által hozott munkáltatói intézkedést vagy annak tervezetét, ezzel összefüggésben konzultációt kezdeményezni.
 
 (5) A kormányzati igazgatási szerv nem köteles tájékoztatást adni vagy konzultációt folytatni, ha ez olyan tény, információ, megoldás vagy adat nyilvánosságra kerülésével járhat, amely a közszolgálat érdekeit, illetve működését vagy a kormányzati igazgatási szerv jogos érdekeit, illetve működését veszélyeztetné.
 
@@ -1913,7 +1913,7 @@ kell érteni.
 
 (1) A kormánytisztviselő számára – kérelmére – egyoldalúan, végleges jelleggel, az álláshely átcsoportosítása nélkül az e § szerinti eljárásban jelölhető ki másik kormányzati igazgatási szerv a kormánytisztviselőt foglalkoztató kormányzati igazgatási szervként ahelyett, ami a kérelem benyújtásakor a kormánytisztviselő beosztási okiratában szerepel (a továbbiakban: kérelmezett vezénylés).
 
-(2) A kormánytisztviselő az őt foglalkoztató kormányzati igazgatási szerv (e § alkalmazásában a továbbiakban: átadó szerv) hivatali szervezetének vezetőjénél, a kormányhivatalnál foglalkoztatott kormánytisztviselő a főispánnál évenként egy alkalommal kérelmezheti másik kormányzati igazgatási szervhez (e § alkalmazásában a továbbiakban: fogadó szerv) történő vezénylését (e § alkalmazásában a továbbiakban: kérelem). A kérelemben meg kell jelölni a fogadó szervet, valamint a fogadó szervnél történő munkavégzés tervezett kezdőidőpontját, ami nem lehet korábban a kérelem előterjesztésétől számított 31. napnál.
+(2) A kormánytisztviselő az őt foglalkoztató kormányzati igazgatási szerv (e § alkalmazásában a továbbiakban: átadó szerv) hivatali szervezetének vezetőjénél, a kormányhivatalnál foglalkoztatott kormánytisztviselő a kormánymegbízottnál évenként egy alkalommal kérelmezheti másik kormányzati igazgatási szervhez (e § alkalmazásában a továbbiakban: fogadó szerv) történő vezénylését (e § alkalmazásában a továbbiakban: kérelem). A kérelemben meg kell jelölni a fogadó szervet, valamint a fogadó szervnél történő munkavégzés tervezett kezdőidőpontját, ami nem lehet korábban a kérelem előterjesztésétől számított 31. napnál.
 
 (3) Az átadó szerv – ide nem értve a minisztériumot – hivatali szervezetének vezetője a kérelmet – a véleményével ellátva – a kérelem beérkezésétől számított 5 munkanapon belül továbbítja az átadó szervet irányító vagy felügyelő miniszter által vezetett minisztérium közigazgatási államtitkára számára.
 
@@ -1931,11 +1931,11 @@ kell érteni.
 
 (10) Ha a Miniszterelnöki Kormányiroda közigazgatási államtitkára a (9) bekezdés szerinti döntésében egyetért a vezényléssel, a fogadó szerv 5 munkanapon belül kiállítja az új beosztási okiratot a kormánytisztviselő számára. Ha a Miniszterelnöki Kormányiroda közigazgatási államtitkára nem ért egyet a vezényléssel, a kormánytisztviselőt az átadó szerv foglalkoztatja tovább.
 
-(11) Ha az átadó szerv kormányhivatal, a fogadó szerv pedig a 2. § (2) bekezdés c)–e) pontja szerinti központi kormányzati igazgatási szerv, e § alkalmazásában az átadó kormányhivatal vonatkozásában hivatali szervezet vezetője alatt a kormányhivatalt vezető főispánt kell érteni.
+(11) Ha az átadó szerv kormányhivatal, a fogadó szerv pedig a 2. § (2) bekezdés c)–e) pontja szerinti központi kormányzati igazgatási szerv, e § alkalmazásában az átadó kormányhivatal vonatkozásában hivatali szervezet vezetője alatt a kormányhivatalt vezető kormánymegbízottat kell érteni.
 
-(12) Ha a fogadó szerv kormányhivatal, az átadó szerv pedig a 2. § (2) bekezdés c)–e) pontja szerinti központi kormányzati igazgatási szerv, e § alkalmazásában a fogadó kormányhivatal vonatkozásában hivatali szervezet vezetője alatt a kormányhivatalt vezető főispánt kell érteni.
+(12) Ha a fogadó szerv kormányhivatal, az átadó szerv pedig a 2. § (2) bekezdés c)–e) pontja szerinti központi kormányzati igazgatási szerv, e § alkalmazásában a fogadó kormányhivatal vonatkozásában hivatali szervezet vezetője alatt a kormányhivatalt vezető kormánymegbízottat kell érteni.
 
-(13) Ha az átadó és fogadó szerv is kormányhivatal, a (3)–(12) bekezdésektől eltérően a kormányhivatalnál foglalkoztatott kormánytisztviselő (2) bekezdés szerinti kérelmét az átadó kormányhivatalt vezető főispán – a véleményével ellátva – a kérelem beérkezésétől számított 5 munkanapon belül továbbítja a fogadó kormányhivatalt vezető főispán számára. Ha a fogadó kormányhivatalt vezető főispán a kérelmezett vezényléssel egyetért, erről haladéktalanul tájékoztatja az átadó kormányhivatalt vezető főispánt, és 5 munkanapon belül gondoskodik az új beosztási okirat kiállításáról. Ha a fogadó kormányhivatalt vezető főispán a kérelmezett vezényléssel nem ért egyet, ennek tényéről haladéktalanul tájékoztatja az átadó kormányhivatalt vezető főispánt, és 5 munkanapon belül jelzi a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkáránál. Ha a jelzést követő 5 munkanapon belül nem születik egyetértés az átadó és a fogadó kormányhivatalt vezető főispánok között, a vezénylés tárgyában a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára dönt. Ha a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára a döntésében egyetért a kérelmezett vezényléssel, a fogadó kormányhivatalt vezető főispán 5 munkanapon belül gondoskodik a kormánytisztviselő számára az új beosztási okirat kiállításáról. Ha a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára nem ért egyet a kérelmezett vezényléssel, a kormánytisztviselőt az átadó kormányhivatal foglalkoztatja tovább.
+(13) Ha az átadó és fogadó szerv is kormányhivatal, a (3)–(12) bekezdésektől eltérően a kormányhivatalnál foglalkoztatott kormánytisztviselő (2) bekezdés szerinti kérelmét az átadó kormányhivatalt vezető kormánymegbízott – a véleményével ellátva – a kérelem beérkezésétől számított 5 munkanapon belül továbbítja a fogadó kormányhivatalt vezető kormánymegbízott számára. Ha a fogadó kormányhivatalt vezető kormánymegbízott a kérelmezett vezényléssel egyetért, erről haladéktalanul tájékoztatja az átadó kormányhivatalt vezető kormánymegbízottat, és 5 munkanapon belül gondoskodik az új beosztási okirat kiállításáról. Ha a fogadó kormányhivatalt vezető kormánymegbízott a kérelmezett vezényléssel nem ért egyet, ennek tényéről haladéktalanul tájékoztatja az átadó kormányhivatalt vezető kormánymegbízottat, és 5 munkanapon belül jelzi a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkáránál. Ha a jelzést követő 5 munkanapon belül nem születik egyetértés az átadó és a fogadó kormányhivatalt vezető kormánymegbízottak között, a vezénylés tárgyában a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára dönt. Ha a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára a döntésében egyetért a kérelmezett vezényléssel, a fogadó kormányhivatalt vezető kormánymegbízott 5 munkanapon belül gondoskodik a kormánytisztviselő számára az új beosztási okirat kiállításáról. Ha a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által vezetett minisztérium közigazgatási államtitkára nem ért egyet a kérelmezett vezényléssel, a kormánytisztviselőt az átadó kormányhivatal foglalkoztatja tovább.
 
 (14) A kérelmezett vezénylés időpontjától számított egy évig nem állapítható meg magasabb illetmény annál, mint amire a kormánytisztviselő a vezénylést megelőző napon az átadó szervnél jogosult volt.
 
@@ -4418,13 +4418,13 @@ A miniszterelnök nemzetbiztonsági főtanácsadója tekintetében a XXVII/A. Fe
 
 (4) Felmentés esetén az államtitkár megbízatása megszűnésének időpontját a miniszterelnök javaslatára a köztársasági elnök határozza meg azzal, hogy a (2) és (3) bekezdés szerinti felmentés esetében az időpont nem lehet későbbi a miniszterelnök (2) bekezdés szerinti kezdeményezéstől számított tizenötödik napnál.
 
-### XXIX. Fejezet — A FŐISPÁN
+### XXIX. Fejezet — A KORMÁNYMEGBÍZOTT
 
-#### 206. § [A főispán jogviszonyára alkalmazandó szabályok]
+#### 206. § [A kormánymegbízott jogviszonyára alkalmazandó szabályok]
 
-(1) A főispán politikai szolgálati jogviszonyára – ha e törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
+(1) A kormánymegbízott politikai szolgálati jogviszonyára – ha e törvény eltérően nem rendelkezik – a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó szabályokat kell alkalmazni.
 
-(2) A főispán politikai szolgálati jogviszonyára e törvénynek a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó,
+(2) A kormánymegbízott politikai szolgálati jogviszonyára e törvénynek a kormányzati szolgálati jogviszonyra és a kormánytisztviselőre vonatkozó,
 
 - a) a szolgálati jogviszony alanyaival,
 - b) a Magyar Kormánytisztviselői Karban betöltött tagsággal,
@@ -4448,107 +4448,107 @@ A miniszterelnök nemzetbiztonsági főtanácsadója tekintetében a XXVII/A. Fe
 
 kapcsolatos rendelkezéseit – az e törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – nem kell alkalmazni.
 
-#### 207. § [A főispán kinevezése]
+#### 207. § [A kormánymegbízott kinevezése]
 
-(1) A főispánt a kormányhivatal irányítására kormányrendeletben kijelölt miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A főispán felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a kormányhivatal irányítására kormányrendeletben kijelölt miniszter gyakorolja.
+(1) A kormánymegbízottat a kormányhivatal irányítására kormányrendeletben kijelölt miniszter javaslatára a miniszterelnök nevezi ki és menti fel. A kormánymegbízott felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a kormányhivatal irányítására kormányrendeletben kijelölt miniszter gyakorolja.
 
-(1a) A főispán szabadsága tekintetében az e törvény szerinti munkáltatói jogköröket – az (1) bekezdésben foglaltaktól eltérően – a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által kijelölt politikai felsővezető gyakorolja.
+(1a) A kormánymegbízott szabadsága tekintetében az e törvény szerinti munkáltatói jogköröket – az (1) bekezdésben foglaltaktól eltérően – a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által kijelölt politikai felsővezető gyakorolja.
 
-(2) Főispánná olyan büntetlen előéletű személy nevezhető ki, aki az országgyűlési képviselők választásán választható.
+(2) Kormánymegbízottá olyan büntetlen előéletű személy nevezhető ki, aki az országgyűlési képviselők választásán választható.
 
-(3) A főispán a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép. A kinevezett főispán a miniszterelnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
+(3) A kormánymegbízott a kinevezésében megjelölt időpontban, ennek hiányában a kinevezésével hivatalba lép. A kinevezett kormánymegbízott a miniszterelnök előtt az egyes közjogi tisztségviselők esküjéről és fogadalmáról szóló törvény szerinti szöveggel esküt tesz.
 
-(4) A miniszterelnök a főispán részére – megbízatásának időtartamára, főispáni jogállásának igazolására – igazolványt állít ki. Az igazolvány a főispán nevét, arcképmását és a betöltött tisztség megnevezését tartalmazza.
+(4) A miniszterelnök a kormánymegbízott részére – megbízatásának időtartamára, kormánymegbízotti jogállásának igazolására – igazolványt állít ki. Az igazolvány a kormánymegbízott nevét, arcképmását és a betöltött tisztség megnevezését tartalmazza.
 
-#### 208. § [A főispán összeférhetetlensége]
+#### 208. § [A kormánymegbízott összeférhetetlensége]
 
-(1) A főispán további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet országgyűlési képviselő, európai parlamenti képviselő, helyi önkormányzati képviselő, fővárosi, vármegyei közgyűlés tagja, polgármester, vármegyei közgyűlés elnöke, főpolgármester, alpolgármester, vármegyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
+(1) A kormánymegbízott további munkavégzésre irányuló jogviszonyt nem létesíthet, nem lehet országgyűlési képviselő, európai parlamenti képviselő, helyi önkormányzati képviselő, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
-(2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a főispán – a munkáltatói jogkör gyakorlójának engedélye nélkül – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet végezzen és nevelőszülői foglalkoztatási jogviszonyt létesítsen.
+(2) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott – a munkáltatói jogkör gyakorlójának engedélye nélkül – tudományos, oktatói, művészeti, lektori, szerkesztői, jogi oltalom alá eső szellemi tevékenységet végezzen és nevelőszülői foglalkoztatási jogviszonyt létesítsen.
 
-(3) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a főispán közjegyzői szolgálata a politikai vezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
+(3) Az (1) bekezdésben meghatározott rendelkezés nem akadálya annak, hogy a kormánymegbízott közjegyzői szolgálata a politikai vezetői kinevezés időtartamára a közjegyzőkről szóló törvény szerint szüneteljen.
 
-#### 209. § [A főispán megbízatásának megszűnése és megszüntetése]
+#### 209. § [A kormánymegbízott megbízatásának megszűnése és megszüntetése]
 
-(1) A főispán megbízatása megszűnik:
+(1) A kormánymegbízott megbízatása megszűnik:
 
 - a) a miniszterelnök megbízatásának megszűnésével,
-- b) a főispán halálával,
-- c) ha a főispán az országgyűlési képviselők választásán már nem választható,
-- d) a főispán összeférhetetlenségének megállapításával,
-- e) a főispán álláshelyének elvonásával, visszavonásával vagy megszüntetésével.
+- b) a kormánymegbízott halálával,
+- c) ha a kormánymegbízott az országgyűlési képviselők választásán már nem választható,
+- d) a kormánymegbízott összeférhetetlenségének megállapításával,
+- e) a kormánymegbízott álláshelyének elvonásával, visszavonásával vagy megszüntetésével.
 
-(2) A főispán megbízatása megszüntethető:
+(2) A kormánymegbízott megbízatása megszüntethető:
 
-- a) a főispán lemondásával,
-- b) a főispán felmentésével,
+- a) a kormánymegbízott lemondásával,
+- b) a kormánymegbízott felmentésével,
 - c) a felek közös megegyezésével.
 
-(3) Ha a főispán megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
+(3) Ha a kormánymegbízott megbízatása a miniszterelnök megbízatásának megszűnésével szűnt meg, az új Kormány megalakulásáig gyakorolja hatáskörét.
 
-#### 210. § [A főispán illetménye és juttatásai]
+#### 210. § [A kormánymegbízott illetménye és juttatásai]
 
-(1) A főispán a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által megállapított mértékű illetményre jogosult.
+(1) A kormánymegbízott a kormányhivatal irányítására kormányrendeletben kijelölt miniszter által megállapított mértékű illetményre jogosult.
 
-(1a) Az (1) bekezdés szerinti illetmény összegét minden év július 1. napjával kell megállapítani. Az így megállapított illetményre – az illetményre jogosultság egyéb feltételeinek fennállása esetén és a kormányhivatal irányítására kormányrendeletben kijelölt miniszter eltérő rendelkezése hiányában – a főispán a következő év június 30. napjáig jogosult.
+(1a) Az (1) bekezdés szerinti illetmény összegét minden év július 1. napjával kell megállapítani. Az így megállapított illetményre – az illetményre jogosultság egyéb feltételeinek fennállása esetén és a kormányhivatal irányítására kormányrendeletben kijelölt miniszter eltérő rendelkezése hiányában – a kormánymegbízott a következő év június 30. napjáig jogosult.
 
-(1b) A főispán kormányrendeletben meghatározott juttatásokra jogosult.
+(1b) A kormánymegbízott kormányrendeletben meghatározott juttatásokra jogosult.
 
-(2) A főispán a megbízatásának időtartama és a miniszterelnök megbízatásának megszűnése esetén az új Kormány megalakulásáig tartó hatáskörgyakorlás időtartama alatt a társadalombiztosítás ellátásaira való jogosultság szempontjából kormányzati szolgálati jogviszonyban foglalkoztatott biztosítottnak, illetménye nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
+(2) A kormánymegbízott a megbízatásának időtartama és a miniszterelnök megbízatásának megszűnése esetén az új Kormány megalakulásáig tartó hatáskörgyakorlás időtartama alatt a társadalombiztosítás ellátásaira való jogosultság szempontjából kormányzati szolgálati jogviszonyban foglalkoztatott biztosítottnak, illetménye nem önálló tevékenységből származó, járulékalapot képező jövedelemnek minősül.
 
-(3) A főispán megbízatásának időtartama és a miniszterelnök megbízatásának megszűnése esetén az új Kormány megalakulásáig tartó hatáskörgyakorlás időtartama kormányzati szolgálati jogviszonyban töltött időnek számít.
+(3) A kormánymegbízott megbízatásának időtartama és a miniszterelnök megbízatásának megszűnése esetén az új Kormány megalakulásáig tartó hatáskörgyakorlás időtartama kormányzati szolgálati jogviszonyban töltött időnek számít.
 
-(4) Ha a főispán megbízatása megszűnt, illetménye és juttatásai addig illetik meg, amíg a (3) bekezdés alapján gyakorolja hatáskörét.
+(4) Ha a kormánymegbízott megbízatása megszűnt, illetménye és juttatásai addig illetik meg, amíg a (3) bekezdés alapján gyakorolja hatáskörét.
 
-(5) Ha a főispán e tisztségét legalább három évig betöltötte, és megbízatása a miniszterelnök megbízatásának megszűnésével, a felmentésével vagy a halálával szűnik meg, a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy összegben hathavi – lemondás esetén háromhavi – illetményével megegyező összegű juttatásra jogosult, amelyre a (2) bekezdést kell alkalmazni.
+(5) Ha a kormánymegbízott e tisztségét legalább három évig betöltötte, és megbízatása a miniszterelnök megbízatásának megszűnésével, a felmentésével vagy a halálával szűnik meg, a hatáskörgyakorlás megszűnésétől számított tizenöt napon belül egy összegben hathavi – lemondás esetén háromhavi – illetményével megegyező összegű juttatásra jogosult, amelyre a (2) bekezdést kell alkalmazni.
 
-(6) A főispán halála esetén az (5) és (7) bekezdés szerinti juttatás a főispán házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában a főispán örökösét, több örökös esetén örököseit – illeti meg.
+(6) A kormánymegbízott halála esetén az (5) és (7) bekezdés szerinti juttatás a kormánymegbízott házastársát, ennek hiányában élettársát (a továbbiakban együtt: özvegy) – özvegy hiányában a kormánymegbízott örökösét, több örökös esetén örököseit – illeti meg.
 
-(7) Ha a főispán megbízatása az (5) bekezdésben meghatározott okokból három évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, az (5) bekezdésben megjelölt juttatás felére jogosult.
+(7) Ha a kormánymegbízott megbízatása az (5) bekezdésben meghatározott okokból három évnél hamarabb szűnt meg, de legalább egy évig a tisztségét betöltötte, az (5) bekezdésben megjelölt juttatás felére jogosult.
 
-(8) Nem jogosult a főispán az (5) és a (7) bekezdés szerinti juttatásra, ha a megbízatásának megszűnését követő 180 napon belül az állam közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságban vezető tisztségviselői tisztség betöltésére vagy munkavégzésre irányuló jogviszonyt, illetve a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy az e törvény hatálya alá tartozó szervnél munkavégzésre irányuló jogviszonyt (a továbbiakban együtt e § alkalmazásában: új jogviszony) létesít.
+(8) Nem jogosult a kormánymegbízott az (5) és a (7) bekezdés szerinti juttatásra, ha a megbízatásának megszűnését követő 180 napon belül az állam közvetlen vagy közvetett többségi befolyása alatt álló gazdasági társaságban vezető tisztségviselői tisztség betöltésére vagy munkavégzésre irányuló jogviszonyt, illetve a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény vagy az e törvény hatálya alá tartozó szervnél munkavégzésre irányuló jogviszonyt (a továbbiakban együtt e § alkalmazásában: új jogviszony) létesít.
 
-(8a) A (8) bekezdés szerinti esetben a főispán köteles a részére kifizetett (5) és (7) bekezdés szerinti juttatás összegét az új jogviszony létesítésétől számított 30 napon belül visszafizetni.
+(8a) A (8) bekezdés szerinti esetben a kormánymegbízott köteles a részére kifizetett (5) és (7) bekezdés szerinti juttatás összegét az új jogviszony létesítésétől számított 30 napon belül visszafizetni.
 
-(8b) A (8a) bekezdésben foglaltaktól eltérően nem kell a juttatás összegét visszafizetni, ha az új jogviszony keretében nem jár díjazás. Ha a főispán a (8a) bekezdés alapján már visszafizette a juttatást, azt az őt korábban foglalkoztató kormányzati igazgatási szerv – a feltételek teljesülése esetén – a (12) bekezdés c) pontja szerinti tájékoztatást követő 30 napon belül köteles az érintett részére újra kifizetni.
+(8b) A (8a) bekezdésben foglaltaktól eltérően nem kell a juttatás összegét visszafizetni, ha az új jogviszony keretében nem jár díjazás. Ha a kormánymegbízott a (8a) bekezdés alapján már visszafizette a juttatást, azt az őt korábban foglalkoztató kormányzati igazgatási szerv – a feltételek teljesülése esetén – a (12) bekezdés c) pontja szerinti tájékoztatást követő 30 napon belül köteles az érintett részére újra kifizetni.
 
-(9) A (8) bekezdést kell alkalmazni akkor is, ha a főispán megbízatása összeférhetetlenség címén azért szűnik meg, mert országgyűlési képviselővé vagy európai parlamenti képviselővé választják.
+(9) A (8) bekezdést kell alkalmazni akkor is, ha a kormánymegbízott megbízatása összeférhetetlenség címén azért szűnik meg, mert országgyűlési képviselővé vagy európai parlamenti képviselővé választják.
 
-(10) A főispán végkielégítésre és felmentési időre, továbbá szolgálati elismerésre nem jogosult.
+(10) A kormánymegbízott végkielégítésre és felmentési időre, továbbá szolgálati elismerésre nem jogosult.
 
-(11) Az (5) és (7) bekezdésben meghatározott időtartam számításánál a folyamatos főispáni megbízatásban töltött időt – a hatáskörgyakorlás megszűnésétől az új megbízatással összefüggésben a hivatalba lépésig terjedő, legfeljebb hat hónapos, valamint a megbízatás megszűnésétől a hatáskörgyakorlás megszűnéséig terjedő megszakítást a folyamatosság szempontjából nem számítva – egybe kell számítani.
+(11) Az (5) és (7) bekezdésben meghatározott időtartam számításánál a folyamatos kormánymegbízotti megbízatásban töltött időt – a hatáskörgyakorlás megszűnésétől az új megbízatással összefüggésben a hivatalba lépésig terjedő, legfeljebb hat hónapos, valamint a megbízatás megszűnésétől a hatáskörgyakorlás megszűnéséig terjedő megszakítást a folyamatosság szempontjából nem számítva – egybe kell számítani.
 
-(12) A főispán köteles haladéktalanul tájékoztatni
+(12) A kormánymegbízott köteles haladéktalanul tájékoztatni
 
 - a) a korábban őt foglalkoztató kormányzati igazgatási szervet az új jogviszony létesítéséről,
 - b) az új jogviszonyban őt foglalkoztató szervet arról, hogy a (8) bekezdés hatálya alá tartozik,
 - c) az őt korábban foglalkoztató kormányzati igazgatási szervet arról, hogy jár-e díjazás az új jogviszony keretében.
 
-(13) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a főispán (5), illetve (7) bekezdés szerinti juttatásra jogosító idejét figyelembe kell venni.
+(13) Az új jogviszonyban a végkielégítés alapjául szolgáló időszak számítása során a kormánymegbízott (5), illetve (7) bekezdés szerinti juttatásra jogosító idejét figyelembe kell venni.
 
 (14) Az (5)–(13) bekezdésben foglaltak végrehajtását a Kormány által kijelölt szerv ellenőrzi.
 
-(15) A (14) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a főispánt ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.
+(15) A (14) bekezdés szerinti ellenőrzés keretében az ellenőrzésre kijelölt szerv – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – a kormánymegbízottat ezen megbízatásának megszűnését követően foglalkoztató szervet, gazdasági társaságot megkeresheti és az új jogviszony létesítésével kapcsolatos iratokba betekinthet. Az ellenőrzésre kijelölt szerv az ellenőrzés érdekében – a politikai szolgálati jogviszony megszűnését követő harmadik év végéig, a (8a) bekezdés szerinti visszafizetési kötelezettség nemteljesítése esetén a követelés elévüléséig – kezeli az új jogviszonyt létesítő személy személyazonosító adatait és az új jogviszony létesítésére vonatkozó adatokat.
 
-#### 211. § [A főispán szabadsága]
+#### 211. § [A kormánymegbízott szabadsága]
 
-(1) A főispánt minden naptári évben harmincöt munkanap alapszabadság illeti meg. A főispánt rendkívüli munkavégzése után külön szabadidő nem illeti meg.
+(1) A kormánymegbízottat minden naptári évben harmincöt munkanap alapszabadság illeti meg. A kormánymegbízottat rendkívüli munkavégzése után külön szabadidő nem illeti meg.
 
-(2) Ha a főispánt legkésőbb a hatáskörgyakorlásának megszűnésétől számított harminc napon belül ismételten főispánná nevezik ki, politikai felsővezetővé választják meg vagy nevezik ki, vagy szakmai felsővezetővé nevezik ki, a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett főispáni megbízatás, illetve politikai szolgálati jogviszony vagy kormányzati szolgálati jogviszony alapján járó szabadsághoz hozzá kell számítani.
+(2) Ha a kormánymegbízottat legkésőbb a hatáskörgyakorlásának megszűnésétől számított harminc napon belül ismételten kormánymegbízottá nevezik ki, politikai felsővezetővé választják meg vagy nevezik ki, vagy szakmai felsővezetővé nevezik ki, a ki nem adott szabadságát az új kinevezéssel vagy megválasztással érintett kormánymegbízotti megbízatás, illetve politikai szolgálati jogviszony vagy kormányzati szolgálati jogviszony alapján járó szabadsághoz hozzá kell számítani.
 
-#### 212. § [A főispán fegyelmi és a kártérítési felelőssége]
+#### 212. § [A kormánymegbízott fegyelmi és a kártérítési felelőssége]
 
-(1) A főispán a tisztségéből eredő kötelezettség vétkes megszegésével okozott kárért való fegyelmi, illetve kártérítési felelősségével összefüggésben a munkáltatói jogkör gyakorlója a kormányhivatal irányítására kormányrendeletben kijelölt miniszter.
+(1) A kormánymegbízott a tisztségéből eredő kötelezettség vétkes megszegésével okozott kárért való fegyelmi, illetve kártérítési felelősségével összefüggésben a munkáltatói jogkör gyakorlója a kormányhivatal irányítására kormányrendeletben kijelölt miniszter.
 
 (2) A kormányhivatal irányítására kormányrendeletben kijelölt miniszter által a fegyelmi, illetve kártérítési felelősség megállapítása iránt indított eljárásban tanács jár el, amelynek tagjait a kormányhivatal irányítására kormányrendeletben kijelölt miniszter jelöli ki. A kijelölt vizsgálóbiztosnak legalább államtitkári megbízatást betöltő politikai felsővezetőnek kell lennie.
 
-#### 213. § [A főispán vagyonnyilatkozata]
+#### 213. § [A kormánymegbízott vagyonnyilatkozata]
 
-(1) A főispán a megbízatása keletkezését követő harminc napon belül, majd azt követően évente, valamint a megbízatásának megszűnését, illetve a hatáskörgyakorlás 209. § (3) bekezdése szerinti megszűnését követő harminc napon belül a Vnytv. szerinti vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek Vnytv. szerinti vagyonnyilatkozatát.
+(1) A kormánymegbízott a megbízatása keletkezését követő harminc napon belül, majd azt követően évente, valamint a megbízatásának megszűnését, illetve a hatáskörgyakorlás 209. § (3) bekezdése szerinti megszűnését követő harminc napon belül a Vnytv. szerinti vagyonnyilatkozatot tesz, amelyhez csatolni köteles a vele közös háztartásban élő házas- vagy élettársának, gyermekeinek Vnytv. szerinti vagyonnyilatkozatát.
 
 (2) A vagyonnyilatkozatot a kormányhivatal irányítására kormányrendeletben kijelölt miniszter kezeli.
 
-(3) A Vnytv. 9. §-át, 10. §-át és 14–16. §-át kell alkalmazni a főispánnal szemben lefolytatható vagyongyarapodási vizsgálat, valamint a főispán vagyonnyilatkozat-tételi kötelezettségszegése esetén.
+(3) A Vnytv. 9. §-át, 10. §-át és 14–16. §-át kell alkalmazni a kormánymegbízottal szemben lefolytatható vagyongyarapodási vizsgálat, valamint a kormánymegbízott vagyonnyilatkozat-tételi kötelezettségszegése esetén.
 
 ### XXX. Fejezet — A TANÁCSADÓ POLITIKAI SZOLGÁLATI JOGVISZONYA
 
@@ -4988,7 +4988,7 @@ A központi hivatal vezetője és a központi hivatal vezetőjének helyettese k
 
 (1) A főigazgató kormányzati szolgálati jogviszonyára – az e fejezetben foglalt eltérésekkel – a főosztályvezetőre vonatkozó szabályokat kell alkalmazni.
 
-(2) A kormányhivatal hivatali szervezetét vezető főigazgatót a főispán javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
+(2) A kormányhivatal hivatali szervezetét vezető főigazgatót a kormánymegbízott javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
 
 (3) A főigazgató kinevezésének a 82. §-ban meghatározottakon felüli – szakmai és képesítési – feltételeit a kormányhivatal irányítására kormányrendeletben kijelölt miniszter határozza meg.
 
@@ -4996,7 +4996,7 @@ A központi hivatal vezetője és a központi hivatal vezetőjének helyettese k
 
 #### 249. § [A főigazgató feletti munkáltatói jogkör gyakorlása]
 
-A főigazgató felett – a kinevezés, a felmentés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a főispán gyakorolja.
+A főigazgató felett – a kinevezés, a felmentés, a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja.
 
 #### 250. § [A főigazgató illetménye és egyéb juttatásai]
 
@@ -5014,13 +5014,13 @@ A főigazgató felett – a kinevezés, a felmentés, a fegyelmi eljárás megin
 
 #### 251. § [A kormányhivatal igazgatójának kinevezése]
 
-(1) A kormányhivatal igazgatóját a főigazgató javaslatára a főispán nevezi ki és menti fel. A főigazgatói álláshely betöltetlensége vagy a főigazgató akadályoztatása esetén a kormányhivatal igazgatójának kinevezéséről a főispán dönt.
+(1) A kormányhivatal igazgatóját a főigazgató javaslatára a kormánymegbízott nevezi ki és menti fel. A főigazgatói álláshely betöltetlensége vagy a főigazgató akadályoztatása esetén a kormányhivatal igazgatójának kinevezéséről a kormánymegbízott dönt.
 
 (2)
 
 #### 252. § [A kormányhivatal igazgatója feletti munkáltatói jogkör gyakorlása]
 
-A kormányhivatal igazgatója felett – a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a főispán gyakorolja.
+A kormányhivatal igazgatója felett – a fegyelmi eljárás megindítása, valamint a fegyelmi büntetés kiszabása kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja.
 
 #### 253. § [A kormányhivatal igazgatójának illetménye és egyéb juttatásai]
 
@@ -5034,7 +5034,7 @@ A hivatalvezetőre a főosztályvezetőre vonatkozó rendelkezéseket megfelelő
 
 #### 255. § [A hivatalvezető kinevezése]
 
-(1) A hivatalvezetőt a főispán javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
+(1) A hivatalvezetőt a kormánymegbízott javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter nevezi ki és menti fel.
 
 (2)
 
@@ -5042,7 +5042,7 @@ A hivatalvezetőre a főosztályvezetőre vonatkozó rendelkezéseket megfelelő
 
 #### 256. § [A hivatalvezető összeférhetetlensége]
 
-(1) A hivatalvezető munkavégzésre irányuló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, továbbá, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, képviselő-testület bizottságának nem képviselő tagja, fővárosi, vármegyei közgyűlés tagja, polgármester, vármegyei közgyűlés elnöke, főpolgármester, alpolgármester, vármegyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
+(1) A hivatalvezető munkavégzésre irányuló további jogviszonyt – a tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység kivételével – kizárólag a munkáltatói jogkör gyakorlójának előzetes engedélyével létesíthet, továbbá, nem lehet országgyűlési képviselő, helyi önkormányzati képviselő, képviselő-testület bizottságának nem képviselő tagja, fővárosi, megyei közgyűlés tagja, polgármester, megyei közgyűlés elnöke, főpolgármester, alpolgármester, megyei közgyűlés alelnöke, főpolgármester-helyettes, nemzetiségi önkormányzat elnöke és nemzetiségi önkormányzati képviselő.
 
 (2) A tudományos, oktatói, művészeti, lektori, szerkesztői, valamint jogi oltalom alá eső szellemi tevékenység, a nevelőszülői foglalkoztatási jogviszony, továbbá a közérdekű önkéntes tevékenység tekintetében a 95. § (6)–(9) bekezdését alkalmazni kell.
 
@@ -5052,9 +5052,9 @@ A hivatalvezetőre a főosztályvezetőre vonatkozó rendelkezéseket megfelelő
 
 #### 257. § [A hivatalvezető feletti munkáltatói jogkör gyakorlása]
 
-(1) A hivatalvezető felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a főispán gyakorolja.
+(1) A hivatalvezető felett – a kinevezés és a felmentés kivételével – a munkáltatói jogokat a kormánymegbízott gyakorolja.
 
-(2) Ha a hivatalvezetővel szemben fegyelmi büntetésként hivatalvesztés büntetés kiszabása indokolt, a főispán erre irányuló javaslatáról a kormányhivatal irányítására kormányrendeletben kijelölt miniszter dönt. A főispán javaslatában tájékoztatja a kormányhivatal irányítására kormányrendeletben kijelölt minisztert a lefolytatott fegyelmi eljárás megállapításairól, eredményéről, valamint a fegyelmi vétség egyéb releváns körülményeiről.
+(2) Ha a hivatalvezetővel szemben fegyelmi büntetésként hivatalvesztés büntetés kiszabása indokolt, a kormánymegbízott erre irányuló javaslatáról a kormányhivatal irányítására kormányrendeletben kijelölt miniszter dönt. A kormánymegbízott javaslatában tájékoztatja a kormányhivatal irányítására kormányrendeletben kijelölt minisztert a lefolytatott fegyelmi eljárás megállapításairól, eredményéről, valamint a fegyelmi vétség egyéb releváns körülményeiről.
 
 #### 258. § [A hivatalvezető kormányzati szolgálati jogviszonyának megszűnése és megszüntetése]
 
@@ -5073,11 +5073,11 @@ A hivatalvezetőre a főosztályvezetőre vonatkozó rendelkezéseket megfelelő
 
 #### 259. § [A hivatalvezető illetménye]
 
-A hivatalvezető illetményét a főispán javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – állapítja meg azzal, hogy a havi illetmény megegyezik a minisztériumi főosztályvezetői illetménnyel.
+A hivatalvezető illetményét a kormánymegbízott javaslatára a kormányhivatal irányítására kormányrendeletben kijelölt miniszter – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – állapítja meg azzal, hogy a havi illetmény megegyezik a minisztériumi főosztályvezetői illetménnyel.
 
 #### 260. § [A hivatalvezető-helyettes kinevezése]
 
-(1) A hivatalvezető-helyettest a hivatalvezető javaslatára a főispán nevezi ki és szünteti meg a jogviszonyát.
+(1) A hivatalvezető-helyettest a hivatalvezető javaslatára a kormánymegbízott nevezi ki és szünteti meg a jogviszonyát.
 
 (2)
 
@@ -5087,7 +5087,7 @@ A hivatalvezető-helyettes felett – a kinevezés, a jogviszony-megszüntetés,
 
 #### 262. § [A hivatalvezető-helyettes illetménye]
 
-A hivatalvezető-helyettes illetményét a hivatalvezető javaslatára a főispán – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – minisztériumi osztályvezető illetményének megfelelő összegben állapítja meg.
+A hivatalvezető-helyettes illetményét a hivatalvezető javaslatára a kormánymegbízott – tekintettel az adott járás, járási hivatal adottságaira, így különösen a járás lakosságszámára, a járási hivatal szervezetére, feladatára és állományára – minisztériumi osztályvezető illetményének megfelelő összegben állapítja meg.
 
 #### 262/A. § [A hivatalvezető-helyettes szabadsága]
 
@@ -5213,7 +5213,7 @@ illetménynek megfelelő összeg.
 
 (9) Ha a (8) bekezdésben meghatározott okok bármelyike a kormányhivatalon belüli kinevezéstől eltérő foglalkoztatás időtartama alatt következik be, a kormánytisztviselő erre irányuló kérelmére kell megszüntetni a kormányhivatalon belüli kinevezéstől eltérő foglalkoztatást.
 
-(10) Ha az (1) bekezdésben meghatározott okból a kormányhivatal járási hivatala kormánytisztviselőjének a kormányhivatalon belüli kinevezéstől eltérő foglalkoztatás szükséges, annak elrendeléséről a főispán – az érintett járási hivatalvezető tájékoztatása mellett – dönt.
+(10) Ha az (1) bekezdésben meghatározott okból a kormányhivatal járási hivatala kormánytisztviselőjének a kormányhivatalon belüli kinevezéstől eltérő foglalkoztatás szükséges, annak elrendeléséről a kormánymegbízott – az érintett járási hivatalvezető tájékoztatása mellett – dönt.
 
 ## KILENCEDIK RÉSZ — A MUNKAVISZONYBAN TÖRTÉNŐ FOGLALKOZATÁS SZABÁLYAI
 
@@ -5352,7 +5352,7 @@ illetménynek megfelelő összeg.
 
 (1) Felhatalmazást kap a Kormány, hogy rendeletben
 
-- 1. határozza meg a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, az államtitkár, a főispán, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányzati főhivatal vezetője és vezetőjének helyettese, valamint a központi hivatal vezetője juttatásait;
+- 1. határozza meg a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, az államtitkár, a kormánymegbízott, a közigazgatási államtitkár, a helyettes államtitkár, a kormánybiztos, a miniszterelnöki biztos, a miniszterelnöki megbízott, a miniszteri biztos, a kormányzati főhivatal vezetője és vezetőjének helyettese, valamint a központi hivatal vezetője juttatásait;
 - 2. határozza meg a Belső Ellenőrzési és Integritási Igazgatóság 29/B. § (3f) bekezdésében foglalt további feladatait.
 - 3. irányítási jogkörrel ruházza fel a kormánybiztost.
 
@@ -5361,7 +5361,7 @@ illetménynek megfelelő összeg.
 - 1. a kormányhivatalok feladat- és hatáskörére, szervezetére, működésére és ellenőrzésére vonatkozó részletes szabályokat;
 - 2. a kormányhivatal, valamint a járási hivatalok irányításának, a szakmai irányító miniszter, a Kormány tagjainak feladat- és hatásköréről szóló kormányrendeletben meghatározott rendelkezéstől eltérő szakmai irányító miniszter, valamint más szervek irányításban való közreműködésének részletes szabályait;
 - 3. a kormányhivatalra vonatkozó gazdálkodási szabályokat;
-- 4. a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét, Pest vármegyében a vármegyeszékhely járási hivatal feladatait ellátó járási hivatalt, a fővárosban a vármegyeszékhely járási hivatal feladatait ellátó kerületi hivatalt;
+- 4. a járási hivatalok – kivéve a fővárosi kerületi hivatalok – székhelyeit, illetékességi területét, Pest megyében a megyeszékhely járási hivatal feladatait ellátó járási hivatalt, a fővárosban a megyeszékhely járási hivatal feladatait ellátó kerületi hivatalt;
 - 5. a járási hivatalok feladat- és hatásköreit, a kormányablakok illetékességi területét és működésük szabályait;
 - 6. a kormányablakkal összefüggő feladatokat ellátó személyek kiválasztásának és képzésének szabályait;
 - 7. a járási hivatal egyszerűsített hatósági ellenőrzésére vonatkozó eljárási szabályokat.
@@ -5444,7 +5444,7 @@ illetménynek megfelelő összeg.
 
 (14) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a 296. § (8) bekezdése szerinti jövedelem számításának módját.
 
-(15) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatalt, illetve a hatóság egészeként kizárt fővárosi és vármegyei kormányhivatal helyett eljáró másik fővárosi és vármegyei kormányhivatalt.
+(15) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a hatóság egészeként kizárt járási (fővárosi kerületi) hivatal helyett eljáró másik járási (fővárosi kerületi) hivatalt, illetve a hatóság egészeként kizárt fővárosi és megyei kormányhivatal helyett eljáró másik fővárosi és megyei kormányhivatalt.
 
 (16) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben határozza meg a pártfogó felügyelői feladatokat ellátó kormánytisztviselők igazolványa kiadására vonatkozó részletes szabályokat.
 
@@ -5646,7 +5646,7 @@ az irányadóak.
 
 (4)
 
-(5) Ahol jogszabály állami tisztviselőt, illetve állami ügykezelőt említ, azon az e törvény szerinti fővárosi és vármegyei kormányhivatal kormánytisztviselőjét kell érteni.
+(5) Ahol jogszabály állami tisztviselőt, illetve állami ügykezelőt említ, azon az e törvény szerinti fővárosi és megyei kormányhivatal kormánytisztviselőjét kell érteni.
 
 (6) Ahol jogszabály kormányzati főhivatal vagy központi hivatal vezetőjének illetménye tekintetében az államtitkárra vonatkozó szabályokat rendeli alkalmazni, a 244. § (1) bekezdésében, illetve a 247. § (1) bekezdésében foglaltakat kell irányadónak tekinteni.
 

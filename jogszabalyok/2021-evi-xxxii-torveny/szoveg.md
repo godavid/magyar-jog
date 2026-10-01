@@ -26,7 +26,7 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (1b) A Hatóság a hulladékgazdálkodási kártalanítással összefüggő hatósági feladatokat ellátó szerv.
 
-(2) A Hatóság ellátja az állam nevében lefolytatandó, koncessziós szerződés megkötésére irányuló eljárásokkal (a továbbiakban: koncessziós eljárás) és a koncessziós szerződésekkel kapcsolatos egyes, e törvényben meghatározott feladatokat.
+(2)
 
 (3) A Hatóság székhelye Budapest.
 
@@ -36,7 +36,7 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 2. § (1) A Hatóság számára feladatot csak törvény vagy – önkormányzati rendelet kivételével – törvény felhatalmazása alapján kiadott jogszabály írhat elő.
 
-(2) A Hatóság az 1. § (1)–(2) bekezdésében, valamint a 3. § (1) bekezdésében meghatározott tárgykörökben hatáskörrel rendelkező miniszter részére javaslatot tehet jogszabály megalkotására és módosítására, továbbá véleményezési joggal rendelkezik a 3. § (1)–(3), (6) és (8) bekezdésében meghatározott jogszabályok hatálya alá tartozó személy, szervezet, valamint a feladat- és hatáskörét érintő jogszabályok előkészítése során.
+(2) A Hatóság az 1. § (1) bekezdésében, valamint a 3. § (1) bekezdésében meghatározott tárgykörökben hatáskörrel rendelkező miniszter részére javaslatot tehet jogszabály megalkotására és módosítására, továbbá véleményezési joggal rendelkezik a 3. § (1)–(3), (6) és (8) bekezdésében meghatározott jogszabályok hatálya alá tartozó személy, szervezet, valamint a feladat- és hatáskörét érintő jogszabályok előkészítése során.
 
 (3) A Hatóság elnöke a Hatóság tevékenységéről a tárgyévet követő év május 31. napjáig számol be az Országgyűlésnek.
 
@@ -57,15 +57,7 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (3) A Hatóság szerencsejáték ügyben felügyeleti és ellenőrzési tevékenységet gyakorol a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2017. évi LIII. törvény (a továbbiakban: Pmt.), az Európai Unió és az ENSZ Biztonsági Tanácsa által elrendelt pénzügyi és vagyoni korlátozó intézkedések végrehajtásáról szóló 2017. évi LII. törvény (a továbbiakban: Pvkit.) és ezen törvények végrehajtására kiadott rendeletek rendelkezéseinek a betartását illetően az ezen jogszabályok hatálya alá tartozó szerencsejátékokat és szerencsejáték-szervezőket érintően. A Hatóság ellátja a Pénzmosás és Terrorizmusfinanszírozás Elleni Hatóság létrehozásáról, valamint az 1093/2010/EU, az 1094/2010/EU és az 1095/2010/EU rendelet módosításáról szóló, 2024. május 31-i (EU) 2024/1620 Európai Parlamenti és Tanácsi rendelet szerinti Pénzmosás és Terrorizmusfinanszírozás Elleni Hatóság (a továbbiakban: AMLA) hatáskörében való közreműködésből eredő, a Hatóságra háruló feladatokat.
 
-(4) A Hatóság feladata, hogy a közérdeket figyelembe véve hatékonyan közreműködjön a koncessziós szerződésekkel kapcsolatos egységes joggyakorlat alakításában. A Hatóság e feladatkörében:
-
-- a) a Hatóság elnökének rendeletében foglaltak szerint nyilvántartást vezet a koncessziós eljárásokról és a koncessziós szerződésekről,
-- b) gondoskodik az e törvény szerinti közzétételi kötelezettségek teljesítéséről, továbbá az e törvény által előírt egyéb adatok, információk honlapján történő közzétételéről,
-- c) figyelemmel kíséri a koncessziós eljárásokat, valamint a koncessziós szerződések teljesítését, hatósági ellenőrzés keretében – a Hatóság elnökének rendeletében meghatározott részletes szabályok szerint –ellenőrzi az (1) bekezdés a), c) és e) pontja szerinti törvényekben szabályozott, azon kizárólagos állami gazdasági tevékenység folytatását, amely gyakorlásának jogát az állam koncesszió útján időlegesen átengedte (a továbbiakban: koncesszióköteles tevékenység), valamint jogsértés esetén megteszi a törvényben meghatározott intézkedéseket,
-- d) a koncessziós eljárások előkészítése és lebonyolítása során – elvi jelentőségű jogértelmezési kérdésekben állásfoglalásokat ad ki,
-- e) véleményezi a koncesszióval kapcsolatos jogszabálytervezeteket, valamint jogszabály-koncepciókat,
-- f) statisztikai adatokat gyűjt a koncessziós eljárásokról, a koncessziós szerződésekről, amely statisztikai adatokat honlapján rendszeres időközönként közzétesz,
-- g) előzetes egyetértési jogot gyakorol a koncesszióról szóló 1991. évi XVI. törvény (a továbbiakban: Ktv.) hatálya alá tartozó, az állam nevében történő pályázat – ideértve a Ktv. 10/A. §-a szerinti pályázatot is – kiírása, ajánlattételi felhívás kiadása, valamint a koncessziós szerződés állam nevében történő megkötése, módosítása és megszüntetése tekintetében.
+(4)
 
 (5) A dohánytermékek nyomonkövethetőségi rendszerének létrehozására és működtetésére vonatkozó műszaki előírásokról szóló, 2017. december 15-i (EU) 2018/574 bizottsági végrehajtási rendelet (a továbbiakban: Végrehajtási Rendelet) 3. cikk (1) bekezdése szerinti azonosítókibocsátó a Hatóság. A Hatóság, mint azonosítókibocsátó
 
@@ -93,7 +85,7 @@ kapcsolatos feladatokat ellátó, önálló szabályozó szerv, amely csak jogsz
 
 (2) A Hatóság a feladatai ellátásához kapcsolódóan nemzetközi együttműködés keretében a külföldi szabályozó hatóságokkal együttműködési megállapodást köthet, törvény rendelkezései szerint információkat cserélhet. Külföldi szabályozó hatóság az adott feladatkör tekintetében az a hatóság, amely saját országa joga alapján a Hatóság által ellátott feladatkörök valamelyikével rendelkezik.
 
-(3) A Hatóság megkeresésére a koncessziós eljárással, koncessziós szerződéssel kapcsolatos ügyben minden szervezet köteles tíz napon belül tájékoztatást adni.
+(3)
 
 #### 4. A Hatóság közigazgatási hatósági eljárására vonatkozó szabályok
 
@@ -226,8 +218,8 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
 
 12. § (1) A Hatóság elnöke és elnökhelyettese nem lehet
 
-- a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, kormánybiztos, miniszterelnöki biztos, miniszterelnöki megbízott, miniszteri biztos, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, vármegyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
-- b) helyi vagy vármegyei önkormányzati képviselő, kormánytisztviselő, állami tisztviselő, más különleges jogállású szerv foglalkoztatottja, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
+- a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, kormánybiztos, miniszterelnöki biztos, miniszterelnöki megbízott, miniszteri biztos, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
+- b) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, állami tisztviselő, más különleges jogállású szerv foglalkoztatottja, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 - c) a Hatóság engedélyesi, felügyeleti körébe tartozó vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelőbizottsági tagja,
 - d) olyan személy, aki a Hatóság engedélyesi, felügyeleti körébe tartozó gazdasági társasággal munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,
 - e) olyan személy, aki a Hatóság engedélyesi, felügyeleti körébe tartozó gazdasági társaságban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
@@ -252,7 +244,7 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
 - e) külön felkérésre tájékoztatást ad az Országgyűlés feladatkörrel rendelkező bizottságának,
 - f) ellátja mindazokat a feladatokat, amelyeket törvény, törvény felhatalmazása alapján kiadott jogszabály vagy a Hatóság szervezeti és működési szabályzata a feladatkörébe utal,
 - g) együttműködési megállapodást köthet más állami szervekkel, külföldi szabályozó hatóságokkal, társadalmi szervezetekkel,
-- h) kijelöli, valamint felmenti a Koncessziós Tanács alelnökét,
+- h)
 - i) megállapítja a felelős játékszervezés elvének megfelelő szervezői tevékenységgel kapcsolatban a túlzásba vitt szerencsejáték ártalmairól és a szenvedélybetegség kialakulásának veszélyeiről szóló tájékoztatás, a sérülékeny személyek szerencsejátékhoz való hozzáférésének korlátozása, a kitiltás és a kitiltáshoz kapcsolódó panaszkezelési eljárás, a figyelmeztető és önkorlátozó játékfunkciók, a szerencsejáték káros mentális, pszichikai és szociális hatásainak megelőzésére és csökkentésére szolgáló intézkedések, a játékosvédelmi nyilvántartás, és további önkorlátozó intézkedések bevezetésének, valamint a szervező által a játékos részére biztosítandó önkorlátozó intézkedések igénybevételének részletes szabályait, a személyi megfelelőség megállapítására és meghosszabbítására vonatkozó részletes eljárási szabályokat, a szerencsejátékok személyi, tárgyi és gazdasági feltételeivel, az egyes szerencsejátékok lebonyolításával, ellenőrzésével, a játéktervvel, a sorsolásos játékokkal és a fogadásokkal, a pénznyerő automaták, a játékautomaták, a kártyatermek és a játékkaszinók üzemeltetésével, a gazdátlan, szerencsejáték keretében használt játékeszköznek a Polgári Törvénykönyvben foglaltaktól eltérő tulajdonszerzésével, a távszerencsejáték és az online kaszinójáték szervezésének engedélyezésével, ellenőrzésével, a szervezés személyi, tárgyi-műszaki és gazdasági feltételeivel és lebonyolításával, a távszerencsejáték-szervezés engedélyezéséhez szükséges alap-(törzs-)tőke és távszerencsejáték, online kaszinójáték területén szerzett szerencsejáték-szervezői gyakorlat mértékével, a távszerencsejáték-szervező által nyújtandó biztosíték legalacsonyabb mértékével, az engedélyezéshez szükséges személyi, tárgyi-műszaki és gazdasági feltételekkel, a Magyarországon kívüli EGT-államban bejegyzett gazdasági társaságot a távszerencsejáték-szervezés engedélyezésére irányuló eljárásban képviselő személy nyilvántartásba vételével, a nyilvántartásba vétel feltételeivel, az ilyen gazdasági társaság fióktelepére, a fióktelep képviseletét ellátó személyre vonatkozó követelményekkel, a távszerencsejáték szervezésére jogosító engedély leghosszabb időtartamának mértékével, a távszerencsejátékban és az online kaszinójátékban való részvétel feltételeivel, a távszerencsejáték szervezésére vonatkozó játékosvédelmi cselekvési terv kötelező tartalmi elemeivel, elkészítésének gyakoriságával, Hatósághoz történő benyújtásával, a játékosvédelmi cselekvési tervben foglaltak végrehajtásáról történő szervező általi beszámolással, az engedély nélküli szerencsejáték szolgáltatásában közreműködő személyek kötelezettségeivel, a pénzforgalmi szolgáltató tiltott szerencsejáték-szervezést megvalósító tevékenységhez kapcsolódó tét befizetésének és nyeremény kifizetésének teljesítésében való közreműködését kizáró eljárásával és ezen eljárás ellenőrzésével, a szerencsejáték-felügyeleti díj, távszerencsejáték-szervezési díj mértékével, megfizetésével, beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat,
 - j) megállapítja a felszámolói névjegyzékbe való felvétel és az onnan való törlés részletes feltételeit és eljárásrendjét, a névjegyzék adatainak változásával összefüggő szabályokat, a felszámolók adatszolgáltatásának, szakmai beszámoltatásának, hatósági ellenőrzésének részletes szabályait, valamint azoknak a vagyoni biztosítékoknak a körét, mértékét és rendelkezésre bocsátásának módját, amelyekkel a felszámolónak rendelkeznie kell, a felszámolók névjegyzékébe nem került – de a folyamatban lévő csődeljárásokban, felszámolási eljárásokban vagyonfelügyelőként, ideiglenes vagyonfelügyelőként, felszámolóként való közreműködésre jogosult – felszámoló tevékenységével, nyilvántartásával, szakmai beszámoltatásával, adatszolgáltatásával és hatósági ellenőrzésével összefüggő részletes szabályokat, a csődeljárásban a vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének, valamint az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének szabályait, a felszámolót a zálogtárgy értékesítésekor és a követelésen alapuló zálogjog esetén a követelés behajtásából származó bevételből megillető díj elszámolásának szabályait, a felszámolási eljárásban a felszámoló és az ideiglenes vagyonfelügyelő elektronikus kiválasztás igénybevételével történő kirendelésének részletes szabályait, valamint az elektronikus kijelölést támogató számítógépes rendszer működésének, üzemeltetésének és ellenőrzésének szabályait, a felszámolási és vagyonfelügyeleti szakirányú szakképzettséggel rendelkező személyek kötelező szakmai továbbképzésének megszervezésére és teljesítésére vonatkozó részletes szabályokat, a felszámolóbiztosok, vagyonfelügyelők, ideiglenes vagyonfelügyelők és rendkívüli vagyonfelügyelők igazolványának kiállítására, használatára, az igazolvány személyes adatot nem tartalmazó adattartalmára és formai követelményeire, valamint nyilvántartására vonatkozó részletes szabályokat,
 - k) megállapítja az önálló bírósági végrehajtók ügyvitelének, hivatali működésének és magatartásának ellenőrzésére irányuló vizsgálatok lefolytatására vonatkozó részletes szabályokat, a végrehajtó kölcsönös áthelyezése, felmentése, továbbá szolgálata folyamatossága és megszűnése megállapítása, valamint a végrehajtói kinevezés érvénytelenségének megállapítása részletes eljárási szabályait, a végrehajtók működésének folyamatosságához szükséges átmeneti intézkedéseket, az önálló bírósági végrehajtói állások számát, e végrehajtók székhelyét és az azonos illetékességi területen működő végrehajtók között a végrehajtási ügyek elosztásának rendjét, a végrehajtói állások betöltésének és a végrehajtói pályázati eljárásnak a részletes szabályait, és a végrehajtói kinevezéshez készített pályázati rangsor kialakítása során figyelembe vehető szempontokat és azokhoz rendelhető pontszámokat, a végrehajtók, végrehajtó-helyettesek, végrehajtójelöltek igazolványára és nyilvántartására, a Kar igazgatási jellegű feladatainak ellátására és panaszügyintézésére, továbbá a végrehajtási ügyekről vezetett nyilvántartás adatairól szóló tanúsítvány kiállításért járó költségtérítés összegére és megfizetésére vonatkozó részletes szabályokat, a fegyelmi eljárásban közreműködő személyek részére járó költségtérítésről szóló szabályokat, a végrehajtó tevékenységével okozott kárért járó kártérítés, illetve személyiségi jogsértésért járó sérelemdíj fedezésére szolgáló biztosíték összegének kezelésére vonatkozó részletes szabályokat, az Integrált Végrehajtási Rendszer (a továbbiakban: IVR) bevezetésének időpontját és ütemezését, a létrehozására, működésére és felhasználására vonatkozó részletszabályokat, a működtetéséhez szükséges, a Kar által megalkotandó szabályzatok körét, továbbá a végrehajtók által alkalmazott informatikai rendszer adatállományának az IVR-ben történő rögzítésének részletes szabályait azon, még érdemben befejezetlen végrehajtási ügyek tekintetében, amelyek az IVR bevezetését megelőzően kerültek kiosztásra, illetőleg érkeztek a végrehajtóhoz foganatosítás céljából, a végrehajtói díjszabást és a végrehajtás során befolyt összegeknek a végrehajtási költségekre történő elszámolásának részletes szabályait, az árverezők elektronikus nyilvántartásába történő bejegyzés díját, a közös tulajdonban lévő ingatlan árverése esetén a tulajdonostárs tulajdoni hányadának értékesítéséért felszámítható díjat, az önálló bírósági végrehajtó által a felvilágosításra jogosult részére kiadott másolatért felszámítható költségtérítést, valamint ezek megfizetésének módját, az elektronikus árverési rendszer és a kézbesítési rendszer informatikai alkalmazásának működtetésére, biztonsági követelményeire és felhasználói szabályzatának kötelező tartalmi elemeire, a panaszügyek intézésére irányuló eljárások lefolytatására, és a fegyelmi eljárások nyilvántartására vonatkozó részletes szabályokat, a végrehajtó állandó helyettes általi helyettesítésével összefüggő elszámolás, ügyvitel és ügykezelés részletes szabályait, az önálló bírósági végrehajtók és önálló bírósági végrehajtó-helyettesek kötelező szakmai továbbképzésének megszervezésére és teljesítésére, továbbá az önálló bírósági végrehajtó szakmai beszámoltatására, a szakmai beszámoló elkészítésére, tartalmára, benyújtására, valamint a szakmai beszámoló készítésére vonatkozó kötelezettség teljesítésének hatósági ellenőrzésére vonatkozó részletes szabályokat,
@@ -285,9 +277,9 @@ amelynek jogát vagy jogos érdekét a Hatóság döntése a megbízatás megsz�
 
 - a) a Hatóság elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettest,
 - b) a Hatóság hatáskörébe tartozó, kérelemre indult eljárások tekintetében az eljárásáért fizetendő igazgatási szolgáltatási díj mértékére, valamint a díjak és az egyéb bevételek beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat,
-- c) az egyes koncessziókkal kapcsolatos nyilvántartások vezetésének részletes szabályait,
-- d) a Hatóság által a koncesszióköteles tevékenységek gyakorlása tekintetében lefolytatható hatósági ellenőrzés részletes szabályait,
-- e) a koncesszióba adó és a koncesszióba vevő ellenőrzéshez kapcsolódó kötelezettségeit, amelynek keretében a Hatóság a koncesszióköteles tevékenység gyakorlásához kapcsolódó adatok teljes körű megismerésére jogosult és azok átadását kérheti,
+- c)
+- d)
+- e)
 - f) a Hatóság hatáskörébe tartozó hatósági eljárásokban a közérdeken alapuló kényszerítő indok alapján valamely okirat vagy más irat bizonyítási eszközként történő kötelező alkalmazását,
 - g) a Hatóság által kibocsátott egyedi azonosító díját és az egyedi azonosító kibocsátásával kapcsolatos különös eljárási szabályokat,
 - h) az igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát.
@@ -372,80 +364,21 @@ a támogatására fordítható, továbbá azt a Hatóság a működési kiadása
 
 (9) A Hatóságnak az ESG törvény szerinti állami ESG minősítőben – közvetlenül vagy más jogi személyen keresztül – tulajdonjoggal kell rendelkeznie.
 
-### III. Fejezet — A KONCESSZIÓS TANÁCS
+### III. Fejezet
 
-#### 9. A Koncessziós Tanács
+#### 9.
 
-21. § (1) A Hatóság keretében Koncessziós Tanács (a továbbiakban: Tanács) működik az egységes állami koncessziós joggyakorlat kialakítása, a koncesszióról szóló törvény és a kizárólagosan az állam által végezhető gazdasági tevékenységek folytatásának módját, részletes feltételeit meghatározó ágazati törvények (a továbbiakban együtt: koncessziót szabályozó törvények) alapelveinek, a közérdek érvényesítése érdekében, amelynek keretében a Tanács
+#### 21. §
 
-- a) az igazságügyért felelős miniszterrel, a Ktv. 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszterrel és központi kormányzati igazgatási szervvel, valamint az állami vagyon felügyeletéért felelős miniszterrel egyeztetve – és adott esetben az országos gazdasági kamarákkal vagy más szakmai szervezetekkel együttműködve – a koncesszióra vonatkozó jogszabályok alkalmazását elősegítendő iránymutatásokat, közleményeket, tájékoztatókat ad ki, útmutatót készít a jogorvoslati döntésekből és a koncesszióköteles tevékenységek ellenőrzésének gyakorlatából levonható tapasztalatok alapján, valamint a koncessziókkal kapcsolatos gyakorlati tudnivalókról,
-- b) a koncessziós szabályozás kialakítása tekintetében az arra jogosultnál javaslatot tesz jogszabály kiadására, módosítására, hatályon kívül helyezésére,
-- c) folyamatosan figyelemmel kíséri a koncesszióra vonatkozó jogszabályok alkalmazását,
-- d) kapcsolatot tart a koncesszió, illetve koncessziós eljárások szabályozását, az egyes koncessziók odaítélését ellátó külföldi szervekkel, hatóságokkal,
-- e) figyelemmel kíséri a koncessziós eljárások és a koncessziós szerződések teljesítését,
-- f) vezeti az egyes koncessziókkal kapcsolatos, a Hatóság elnökének rendeletében foglalt hatósági nyilvántartásokat,
-- g) megállapítja ügyrendjét,
-- h) ellátja a részére törvényben előírt egyéb feladatokat.
+#### 22. §
 
-(2) A hattagú Tanács tagja a Hatóság elnöke és a Hatóság elnökét rendelet kiadásában helyettesítő elnökhelyettes. A Tanács tagja továbbá a miniszterelnök, a Gazdasági Versenyhivatal elnöke, a Közbeszerzési Hatóság elnöke, valamint a Hatóság elnöke által kijelölt egy-egy személy.
+#### 23. §
 
-(3) A Hatóság elnökének felkérése alapján a Tanács ülésén tanácskozási joggal más személy részt vehet.
+#### 10.
 
-(4) A Tanács tagja évente köteles beszámolni az őt kijelölőnek az általa érvényesítendő célok, képviselendő általános érdekek, és koncessziót szabályozó törvények céljainak megvalósulása érdekében a Tanácsban folytatott tevékenységéről, valamint ezeknek az érvényesüléséről.
+#### 24. §
 
-(5) Nem lehet a Tanács tagja, aki
-
-- a) országgyűlési képviselő, nemzetiségi szószóló, vagy
-- b) büntetett előéletű, illetve foglalkozástól eltiltás hatálya alatt áll.
-
-(6) A (2) bekezdés szerinti kijelölt tagok megbízatása kilenc évre szól. A tag megbízatásának lejártát követően ismételten kijelölhető.
-
-(7) A tagok kijelölésének és visszahívásának részletes szabályait a kijelölő szervezetek állapítják meg úgy, hogy a Tanács működőképessége állandóan biztosítható legyen.
-
-(8) A tagok megbízatásukat személyesen kötelesek ellátni.
-
-(9) A tagok – az elnök kivételével – ülésenként tiszteletdíjra jogosultak, amelynek mértékéről a Tanács javaslatára az elnök dönt azzal, hogy az ülésenkénti tiszteletdíj mértéke nem lehet több a mindenkori kötelező legkisebb munkabér kétszeresénél.
-
-22. § (1) A Tanács elnöke a Hatóság elnöke.
-
-(2) A Tanács elnöke
-
-- a) képviseli a Tanácsot,
-- b) a Tanács hatáskörébe tartozó halasztást nem tűrő ügyek eldöntése érdekében – a Tanács ügyrendjében meghatározottak szerint – a tanácsülések közötti időszakban – elektronikus hírközlő eszköz útján – való szavazást kezdeményez.
-
-(3) A Tanács elnökét távolléte esetén a Tanács alelnöke a Tanács képviseletében és üléseinek vezetésében teljes jogkörrel helyettesíti.
-
-(4) A Tanács alelnökét hároméves időtartamra a Hatóság elnöke jelöli ki és menti fel a Tanács tagjai közül a Tanács javaslatára. Az alelnöki tisztségből történő felmentés a Tanácsban betöltött tagságot nem érinti.
-
-(5) A Tanács tagjának megbízatása megszűnik
-
-- a) a megbízatás időtartamának lejártával,
-- b) visszahívással,
-- c) lemondással,
-- d) a tisztségre méltatlanná vagy tartósan alkalmatlanná válás esetében,
-- e) halálával,
-- f) az összeférhetetlenség megállapításával,
-- g) ha a bíróság jogerős ítéletében bűncselekmény elkövetése miatt megállapítja a büntetőjogi felelősségét.
-
-(6) Az (5) bekezdés d) és f) pontja szerinti esetben a megbízatás megszűnését a Tanács elnöke – az érintett személyt kijelölő szervezetek, személyek véleményének figyelembevételével – állapítja meg.
-
-(7) A Tanács tagját a kijelölésre jogosult személy a Tanácsban végzett szakmai tevékenységére figyelemmel – a Tanács elnökének előzetes egyetértésével – bármikor írásban visszahívhatja. A visszahívást indokolni kell.
-
-(8) A Tanács tagja a Tanácsban betöltött tisztségéről bármikor írásban lemondhat. A lemondást nem kell megindokolni. A lemondást a Hatóság elnökével és a kijelölésre jogosult személlyel is közölni kell.
-
-(9) A Tanács tagja megbízatásának megszűnése esetén a kijelölésre jogosult személy vagy szervezet harminc napon belül új tagot jelöl ki, és a kijelölésről írásban értesíti a Hatóság elnökét.
-
-23. § (1) A Tanács testületi üléseit szükség szerint, de évente legalább két alkalommal tartja. Az elnök összeállítja az ülés napirendjét és vezeti az ülést.
-
-(2) A Tanács határozatképes, ha a tagok kétharmada jelen van.
-
-(3) A Tanács határozatait egyszerű szótöbbséggel hozza, szavazategyenlőség esetén az elnök szavazata dönt.
-
-#### 10. A Tanács titkársági feladatainak ellátása
-
-24. § A Tanács tevékenységével kapcsolatos koordinációt, döntéseinek előkészítését és végrehajtását, továbbá az ennek végzéséhez szükséges adatgyűjtő, nyilvántartó, valamint adminisztratív tevékenységet – ideértve a Tanács tevékenységének koordinálását is – a Hatóság végzi.
-
-25. § A Tanács elnöke, a Tanács alelnöke és a Tanács tagjai vagy azon személyek, akik ilyen tisztséget viseltek, a feladatuk ellátásával kapcsolatban tudomásukra jutott minősített adatot és üzleti titkot kötelesek megőrizni.
+#### 25. §
 
 ### IV. Fejezet
 
@@ -465,9 +398,9 @@ a támogatására fordítható, továbbá azt a Hatóság a működési kiadása
 
 - a) a Hatóság elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettest,
 - b) a Hatóság hatáskörébe tartozó, kérelemre indult eljárások tekintetében az eljárásáért fizetendő igazgatási szolgáltatási díj mértékére, valamint a díjak és az egyéb bevételek beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat,
-- c) az egyes koncessziókkal kapcsolatos nyilvántartások vezetésének részletes szabályait,
-- d) a Hatóság által a koncesszióköteles tevékenységek gyakorlása tekintetében lefolytatható hatósági ellenőrzés részletes szabályait,
-- e) a koncesszióba adó és a koncesszióba vevő ellenőrzéshez kapcsolódó kötelezettségeit, amelynek keretében a Hatóság a koncesszióköteles tevékenység gyakorlásához kapcsolódó adatok teljes körű megismerésére jogosult és azok átadását kérheti.
+- c)
+- d)
+- e)
 - f) a Hatóság hatáskörébe tartozó hatósági eljárásokban a közérdeken alapuló kényszerítő indok alapján valamely okirat vagy más irat bizonyítási eszközként történő kötelező alkalmazását.
 - g) a Hatóság által kibocsátott egyedi azonosító díját és az egyedi azonosító kibocsátásával kapcsolatos különös eljárási szabályokat.
 - h) az igazolványra vonatkozó részletes szabályokat, valamint az igazolvány személyes adatot nem tartalmazó adattartalmát.
@@ -631,7 +564,7 @@ alakul át.
 
 #### 15. Az Alaptörvény sarkalatosságra vonatkozó követelményének való megfelelés
 
-35. § Az 1–4. §, az 5. § (6) bekezdése, a 7–25. §, a 29. § és a 31–34/C. § az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
+35. § Az 1–4. §, az 5. § (6) bekezdése, a 7–20. §, a 29. § és a 31–34/C. § az Alaptörvény 23. cikke alapján sarkalatosnak minősül.
 
 #### 16. Az Európai Unió jogának való megfelelés
 

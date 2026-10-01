@@ -733,7 +733,7 @@ eljárhat.
 
 (4) A területrendezésért, a településfejlesztésért és településrendezésért, valamint a kulturális örökség védelméért felelős miniszter a területrendezési, a településfejlesztési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a MePAR-nak a területrendezési és településrendezési, valamint a kulturális örökségvédelmi és világörökségi feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz.
 
-(5) A vármegyei önkormányzat a vármegyei területrendezési terv készítése érdekében a MePAR-nak a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
+(5) A megyei önkormányzat a megyei területrendezési terv készítése érdekében a MePAR-nak a területrendezési feladatok ellátásához szükséges adattartalmú felszínborítási rétegéhez, az érintett területre a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
 
 (6) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési terv és településfejlesztési terv készítése és a településképi követelmények meghatározása érdekében az érintett területre a MePAR programszerű felújításához használt legfrissebb évjárat szerinti ortofotóihoz térítésmentesen hozzáférhet.
 

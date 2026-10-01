@@ -133,7 +133,7 @@ valósítja meg, vagy
 
 (3e) A polgármester a bejelentést követően haladéktalanul értesíti a járási hivatalt az egyszerűsített foglalkoztatási munkaerőigényről.
 
-(3f) Az egyszerűsített foglalkoztatásról szóló törvény szerint foglalkoztatni kívánó munkáltató minden év október 31-éig bejelentheti a tervezett foglalkoztatás helye szerint illetékes vármegyei kormányhivatal részére a következő év május 1-je és október 31-e között általa tervezett egyszerűsített foglalkoztatás helyét, a foglalkoztatni kívánt létszámot munkakörönként és a foglalkoztatás tervezett ütemezését. A vármegyei kormányhivatal minden év november 30-áig továbbítja a közfoglalkoztatásért felelős miniszter részére az összesített egyszerűsített foglalkoztatási igényeket.
+(3f) Az egyszerűsített foglalkoztatásról szóló törvény szerint foglalkoztatni kívánó munkáltató minden év október 31-éig bejelentheti a tervezett foglalkoztatás helye szerint illetékes megyei kormányhivatal részére a következő év május 1-je és október 31-e között általa tervezett egyszerűsített foglalkoztatás helyét, a foglalkoztatni kívánt létszámot munkakörönként és a foglalkoztatás tervezett ütemezését. A megyei kormányhivatal minden év november 30-áig továbbítja a közfoglalkoztatásért felelős miniszter részére az összesített egyszerűsített foglalkoztatási igényeket.
 
 (4) A közfoglalkoztatottat megillető munkabér összege megegyezik a teljesítményhez kötött tevékenységek kivételével a közfoglalkoztatási bérrel, a legalább középfokú iskolai végzettséget, szakképesítést igénylő munkakör betöltése esetén a közfoglalkoztatási garantált bérrel, azzal, hogy
 

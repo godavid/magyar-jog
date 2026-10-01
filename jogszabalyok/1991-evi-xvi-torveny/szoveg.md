@@ -28,7 +28,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 5. § (1) Az állam nevében pályázat kiírására, ajánlattételi felhívás kiadására, a pályázati, ajánlattételi vagy a 10/A. § szerinti eljárás lefolytatására, valamint a koncessziós szerződés megkötésére, módosítására és megszüntetésére a kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv jogosult.
 
-(1a) Az állam nevében pályázat – ideértve a 10/A. § szerinti pályázatot is – kiírására, ajánlattételi felhívás kiadására, valamint a koncessziós szerződés megkötésére, módosítására és megszüntetésére a Szabályozott Tevékenységek Felügyeleti Hatóságának (a továbbiakban: Hatóság) előzetes egyetértésével kerülhet sor.
+(1a)
 
 (2) Az e törvény szerinti koncessziós pályázatok, ajánlattételi eljárások és a 10/A. § szerinti eljárások elbírálására bíráló bizottság kerül létrehozásra. A bíráló bizottság javaslatot készít a koncessziós pályázat odaítéléséről, az ajánlat elfogadásáról szóló döntésről, az értékesítésre vonatkozó döntésről, valamint a koncessziós szerződés megkötéséről.
 
@@ -44,7 +44,7 @@ A kizárólagos állami, önkormányzati vagy önkormányzati társulási tulajd
 
 7/A. § A csővezetékes termékszállításra és -tárolásra, az országos közutak és műtárgyaik, a csatornák, valamint a regionális közműrendszerek, továbbá az önkormányzati törzsvagyon részét képező helyi közutak, műtárgyaik és a helyi közművek működtetésére irányuló koncesszióköteles tevékenységek gyakorlására vonatkozó jogosultság – koncessziós szerződéssel történő – átengedésére irányuló pályázat kiírása előtt ki kell kérni Magyar Kereskedelmi és Iparkamara véleményét is. A Magyar Kereskedelmi és Iparkamarának a vélemény kiadására a felkéréstől számított 15 munkanapon belül van lehetősége.
 
-8. § (1) A nyilvános pályázati felhívást az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv és a Hatóság honlapján, valamint az önkormányzati pályázatot a helyi önkormányzat honlapján kell meghirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napja előtt legalább harminc nappal. Zártkörű pályázat esetén az érdekelteket egyidejűleg, közvetlenül kell a pályázatra felhívni.
+8. § (1) A nyilvános pályázati felhívást az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv honlapján, valamint az önkormányzati pályázatot a helyi önkormányzat honlapján kell meghirdetni a pályázatok benyújtására nyitva álló időtartam kezdő napja előtt legalább harminc nappal. Zártkörű pályázat esetén az érdekelteket egyidejűleg, közvetlenül kell a pályázatra felhívni.
 
 (2) A pályázati kiírásnak tartalmaznia kell a pályázat elbírálásának szempontjait, továbbá a koncesszió-köteles tevékenység
 
@@ -165,7 +165,7 @@ az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy k�
 
 (2) Az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv mellőzheti a nyilvános koncessziós pályázat kiírását, ha a koncessziós szerződés megkötésére megbízható dohánykereskedővel, vagy e személy legalább többségi tulajdonában álló gazdasági társasággal is sor kerülhet.
 
-(3) A dohánykiskereskedelem-ellátási tevékenység végzésére a megbízható dohánykereskedő ajánlatot tesz. Az ajánlattevő ajánlatában megjelöli azt a területet (vármegyékre lebontva), ahol a dohánykiskereskedelem-ellátási tevékenységet folytatni kívánja, bemutatja a rendelkezésére álló eszközállományt és vállalja, hogy egységenként (vármegyénként) jogszabályban meghatározott – ennek hiányában az általa megajánlott – koncessziós díjat fizet.
+(3) A dohánykiskereskedelem-ellátási tevékenység végzésére a megbízható dohánykereskedő ajánlatot tesz. Az ajánlattevő ajánlatában megjelöli azt a területet (megyékre lebontva), ahol a dohánykiskereskedelem-ellátási tevékenységet folytatni kívánja, bemutatja a rendelkezésére álló eszközállományt és vállalja, hogy egységenként (megyénként) jogszabályban meghatározott – ennek hiányában az általa megajánlott – koncessziós díjat fizet.
 
 (4) Az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy központi kormányzati igazgatási szerv az ajánlat elfogadásáról a megbízható dohánykereskedő írásbeli ajánlatának átvételét követő 30 napon belül dönt. Az ajánlat elfogadása esetén 30 napon belül megköti a koncessziós szerződést az ajánlattevővel vagy az ajánlattevő legalább többségi tulajdonában álló (e célból alapított) gazdasági társasággal.
 
@@ -277,7 +277,9 @@ az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy k�
 
 (4) E törvénynek az egyes gazdaságszabályozási tárgyú törvények módosításáról szóló 2022. évi XIX. törvénnyel megállapított 3/A. §-át, 4. § (3) bekezdését és 11/A. §-át azon eljárásokra is alkalmazni kell, amelyeknek alapjául szolgáló – a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 18. § (5) bekezdése szerinti – szerződés a kihirdetés napján már hatályos volt.
 
-(5)
+(5) Az egyes koncesszióval összefüggő törvények módosításáról szóló 2026. évi LIX. törvény (a továbbiakban: Módtv-3.) hatálybalépésekor folyamatban lévő, az állam nevében pályázat – ideértve a 10/A. § szerinti pályázatot is – kiírása, ajánlattételi felhívás kiadása, valamint a koncessziós szerződés megkötése, módosítása és megszüntetése tárgyában indult eljárásokban a Szabályozott Tevékenységek Felügyeleti Hatóságának előzetes egyetértése nem szükséges.
+
+(5a) A Szabályozott Tevékenységek Felügyeleti Hatósága elnöke a koncessziós pályázat kiírásával, ajánlattételi felhívás kiadásával, a koncessziós szerződés megkötésével, módosításával és megszüntetésével, a koncesszió-köteles tevékenység gyakorlásának ellenőrzésével; valamint a koncessziós szerződésekből eredő jogok és vállalt kötelezettségek érvényesítésével összefüggésben keletkezett iratokat a Módtv-3. hatálybalépését követő 30 napon belül átadja az állami vagyon felügyeletéért felelős miniszternek a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 5/A. §-a szerinti átadás-átvételi eljárás keretében.
 
 (6) E törvény hatályba lépését megelőzően engedélyezett koncessziós vagy koncessziós jellegű tevékenységet a törvény hatályba lépésekor folytató személyek vagy szervezetek — amennyiben az ágazati törvény másként nem rendelkezik — változatlan feltételekkel folytathatják.
 
@@ -288,8 +290,9 @@ az 5. § (1) bekezdése szerinti kormányrendeletben kijelölt miniszter vagy k�
 - a) központi kormányzati igazgatási szerv vagy miniszter kijelölésére vonatkozó és az e kijelölés alapján eljáró központi kormányzati igazgatási szerv vagy miniszter által a koncessziós szerződés végrehajtása körében ellátandó feladatait meghatározó részletes szabályokat,
 - b) az 5. § (3) bekezdése szerinti adatszolgáltatásra vonatkozó megkeresés és a megkeresés teljesítésének részletes szabályait,
 - c) az e törvény szerinti koncessziós eljárások és a 10/A. § szerinti eljárások értékelését végző bíráló bizottság létrehozására és összetételére, valamint jogállására és működésére vonatkozó részletes szabályokat,
-- d) a koncessziós szerződés megkötését követően a koncessziós szerződés alapján az államot megillető jogok és kötelezettségek koncesszió tárgya szerint illetékes ágazati miniszter általi gyakorlása – így különösen a koncessziós szerződés végrehajtása, teljesítése és ellenőrzése – szabályait és
-- e) a 10/A. § szerinti együttes, egyidejű értékesítési eljárás és koncessziós pályázati eljárás szabályait
+- d) a koncessziós szerződés megkötését követően a koncessziós szerződés alapján az államot megillető jogok és kötelezettségek koncesszió tárgya szerint illetékes ágazati miniszter általi gyakorlása – így különösen a koncessziós szerződés végrehajtása, teljesítése és ellenőrzése – szabályait,
+- e) a 10/A. § szerinti együttes, egyidejű értékesítési eljárás és koncessziós pályázati eljárás szabályait, és
+- f) az állam nevében pályázat kiírására, ajánlattételi felhívás kiadására, a pályázati, ajánlattételi vagy a 10/A. § szerinti eljárás lefolytatására, valamint a koncessziós szerződés megkötésére, módosítására és megszüntetésére jogosult miniszter vagy központi kormányzati igazgatási szerv kijelölését
 
 rendeletben állapítsa meg.
 

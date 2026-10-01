@@ -1055,7 +1055,7 @@ köt megállapodást a tagállami hatósággal.
 
 #### 31. Leplezett eszközök alkalmazása
 
-64/B. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt kibocsátott európai nyomozási határozat végrehajtására a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
+64/B. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt kibocsátott európai nyomozási határozat végrehajtására a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
 
 (2) Az ellenőrzött szállítás végrehajtására a tagállami hatósággal kötött eseti megállapodás alapján kerülhet sor. Az eseti megállapodást a rendőrség vagy a Nemzeti Adó- és Vámhivatal ellenőrzött szállítás végrehajtására jogszabályban kijelölt szerve készíti elő.
 
@@ -1122,7 +1122,7 @@ köt megállapodást a tagállami hatósággal.
 
 65/A. § (1) Az elektronikus hírközlési szolgáltatás útján, illetve információs rendszeren folytatott kommunikációnak az érintett személy tudta nélkül, leplezett módon történő megismerése és rögzítése iránt kibocsátott európai nyomozási határozatot az ügyészség a Be. leplezett eszközök alkalmazására vonatkozó szabályai szerint hajtja végre.
 
-(2) Az európai nyomozási határozat végrehajtására a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha az európai nyomozási határozat végrehajtására illetékességgel rendelkező ügyészség nem állapítható meg, a végrehajtásra a Fővárosi Főügyészség rendelkezik illetékességgel.
+(2) Az európai nyomozási határozat végrehajtására a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha az európai nyomozási határozat végrehajtására illetékességgel rendelkező ügyészség nem állapítható meg, a végrehajtásra a Fővárosi Főügyészség rendelkezik illetékességgel.
 
 (3) Ha az európai nyomozási határozatban megjelölt eljárási cselekmény bírói engedélyhez kötött leplezett eszközök alkalmazásával végezhető el, az ügyészség indítványáról a Be. szabályai szerint a nyomozási bíró határoz. Ha a nyomozási bíró a leplezett eszközök alkalmazásának elrendelésére irányuló indítványt elutasítja, az ügyészség a tagállami hatóságot tájékoztatja, hogy az európai nyomozási határozatban megjelölt eljárási cselekmény nem végezhető el, és az európai nyomozási határozat más módon történő végrehajtása érdekében egyeztetést folytathat a tagállami hatósággal.
 
@@ -1144,7 +1144,7 @@ köt megállapodást a tagállami hatósággal.
 
 (9) Ha a tagállami hatóság fizetési műveletek megfigyelése céljából bocsátott ki európai nyomozási határozatot, az ügyészség az európai nyomozási határozatot a (2)–(7) bekezdés megfelelő alkalmazásával hajtja végre azzal, hogy
 
-- a) a végrehajtásra a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
+- a) a végrehajtásra a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
 - b) a Be. 217. § (1) bekezdésében meghatározottak szerint a fizetési műveletek teljesítésének felfüggesztése csak a tagállami hatóság kérésére írható elő, és
 - c) a fizetési műveletek teljesítésének felfüggesztése esetén a tagállami hatóságot a Be. 217. § (2) bekezdésében foglaltakról tájékoztatni kell.
 
@@ -1449,7 +1449,7 @@ terjesztette elő, az eljárási jogsegély iránti megkeresést a számlát vez
 
 #### 36/C. Ellenőrzött szállítás
 
-69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt előterjesztett eljárási jogsegély iránti megkeresés teljesítésére a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
+69. § (1) Ellenőrzött szállítás Magyarország területén keresztül történő végrehajtása iránt előterjesztett eljárási jogsegély iránti megkeresés teljesítésére a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel.
 
 (2) Az ellenőrzött szállítás végrehajtására a tagállammal kötött eseti megállapodás alapján kerülhet sor. Az eseti megállapodást a rendőrség vagy a Nemzeti Adó- és Vámhivatal ellenőrzött szállítás végrehajtására jogszabályban kijelölt szerve készíti elő.
 
@@ -1514,7 +1514,7 @@ terjesztette elő, az eljárási jogsegély iránti megkeresést a számlát vez
 
 69/E. § (1) Az elektronikus hírközlési szolgáltatás útján, illetve információs rendszeren folytatott kommunikációnak az érintett személy tudta nélkül, leplezett módon történő megismerése és rögzítése végett előterjesztett eljárási jogsegély iránti megkeresést az ügyészség a Be. leplezett eszközök alkalmazására vonatkozó szabályai szerint hajtja végre.
 
-(2) A megkeresés teljesítésére a vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha a megkeresés teljesítésére illetékességgel rendelkező ügyészség nem állapítható meg, a teljesítésre a Fővárosi Főügyészség rendelkezik illetékességgel.
+(2) A megkeresés teljesítésére a megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel. Ha a megkeresés teljesítésére illetékességgel rendelkező ügyészség nem állapítható meg, a teljesítésre a Fővárosi Főügyészség rendelkezik illetékességgel.
 
 (3) Az eljárási jogsegély iránti megkeresés akkor teljesíthető, ha a tagállami hatóság a saját államának joga szerint engedéllyel rendelkezik.
 
@@ -1531,7 +1531,7 @@ terjesztette elő, az eljárási jogsegély iránti megkeresést a számlát vez
 
 (8) Ha a tagállam fizetési műveletek megfigyelése céljából bocsátott ki eljárási jogsegély iránti megkeresést, az ügyészség a megkeresést az (1)–(6) bekezdés megfelelő alkalmazásával teljesíti azzal, hogy
 
-- a) a teljesítésre a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti vármegyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
+- a) a teljesítésre a pénzügyi szolgáltatási vagy kiegészítő pénzügyi szolgáltatási tevékenységet végző szervezet székhelye szerinti megyei főügyészség vagy a Fővárosi Főügyészség rendelkezik hatáskörrel és illetékességgel,
 - b) a Be. 217. § (1) bekezdésében meghatározottak szerint a fizetési műveletek teljesítésének felfüggesztése csak a tagállam kérésére írható elő, és
 - c) a fizetési műveletek teljesítésének felfüggesztése esetén a tagállamot a Be. 217. § (2) bekezdésében foglaltakról tájékoztatni kell.
 
@@ -3637,7 +3637,7 @@ rendelkezik hatáskörrel és illetékességgel.
 164. § E fejezet alkalmazásában
 
 - 1. hatáskörrel rendelkező hatóság: a tagállamok mindazon állami szervei, amelyek a nemzeti jog szerint a bűncselekmények megelőzésére, felderítésére és üldözésére hatáskörrel rendelkeznek,
-- 2. Magyarország hatáskörrel rendelkező hatósága: a Be.-ben meghatározott nyomozó hatóság, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott pénzügyi információs egységként működő hatóság, az Rtv.-ben meghatározott terrorizmust elhárító szerv, továbbá a szervezett bűnözés elleni koordinációt végző szerv, valamint az Alkotmányvédelmi Hivatal,
+- 2. Magyarország hatáskörrel rendelkező hatósága: a Be.-ben meghatározott nyomozó hatóság, a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvényben meghatározott pénzügyi információs egységként működő hatóság, a szervezett bűnözés elleni koordinációt végző szerv, valamint az Alkotmányvédelmi Hivatal,
 - 3. nemzeti egység: az adott tagállam által az Europollal való kapcsolattartásra kijelölt rendvédelmi szerv vagy az adott tagállam valamely rendvédelmi szervének az Europollal való kapcsolattartásra kijelölt szervezeti egysége.
 
 #### 57. Az Europol jogállása és rendeltetése

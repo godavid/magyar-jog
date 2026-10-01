@@ -246,7 +246,7 @@ törekszik a hulladékképződés megelőzésére.
 - b) a telefonos eléréssel működtetett ügyfélszolgálat legalább a hét egy munkanapján 7 és 21 óra között legalább tizenkét órán keresztül folyamatosan elérhető legyen,
 - c) az ügyfelek részére nyitva álló helyiségben működtetett ügyfélszolgálat esetében a fogyasztóknak lehetőségük legyen elektronikusan és telefonon keresztül is a személyes ügyintézés időpontjának előzetes lefoglalására, a személyes ügyintézés időpontja igénylésének napjától számított öt munkanapon belül a szolgáltató köteles személyes ügyfélfogadási időpontot biztosítani a fogyasztó számára,
 - d) az elektronikus eléréssel működtetett ügyfélszolgálat – üzemzavar esetén megfelelő más elérhetőséget biztosítva – folyamatosan elérhető legyen, illetve
-- e) amennyiben országos hálózattal rendelkezik, minden vármegyeszékhelyen ügyfélszolgálatot működtessen.
+- e) amennyiben országos hálózattal rendelkezik, minden megyeszékhelyen ügyfélszolgálatot működtessen.
 
 (3) Telefonos eléréssel működtetett ügyfélszolgálat, illetve az ügyintézés időpontjának előzetes lefoglalására biztosított telefonos elérés esetében biztosítani kell a fogyasztó által kezdeményezett hívás sikeres felépülésének időpontjától számított öt perc várakozási időn belüli hívásfogadást és az érdemi ügyintézés megkezdését, kivéve, ha az a tevékenységi körén kívül eső elháríthatatlan ok miatt nem lehetséges, feltéve, hogy a vállalkozás úgy járt el, ahogy az az adott helyzetben általában elvárható. A vállalkozás köteles a panasszal kapcsolatos élőhangos ügyintézés választását a fogyasztó beazonosítása nélküli módon – reklám továbbítása nélkül – a telefonos eléréssel működtetett ügyfélszolgálat menüsorrendjének első helyére tenni. Az ügyfélszolgálathoz beérkező valamennyi telefonon tett szóbeli panaszt, valamint az ügyfélszolgálat és a fogyasztó közötti telefonos kommunikációt hangfelvétellel rögzíteni kell. Ha a hangfelvétel tartalmazza a 17/A. § (5) bekezdése szerinti tartalmi elemeket – ide nem értve a panasz előterjesztésének helyét, a fogyasztó által bemutatott bizonyítékok jegyzékét, a jegyzőkönyvet felvevő személy aláírását, valamint a jegyzőkönyv felvételének helyét és idejét –, a jegyzőkönyv felvétele a fogyasztó beleegyezésével mellőzhető. A hangfelvételt egyedi azonosítószámmal kell ellátni és öt évig meg kell őrizni.
 
@@ -304,7 +304,7 @@ törekszik a hulladékképződés megelőzésére.
 
 (3a) A vállalkozás olyan fogyasztóvédelmi referens foglalkoztatására köteles, akinek az államilag elismert fogyasztóvédelmi szakképesítése, szakképzettsége vagy az iskolarendszeren kívüli hatósági jellegű képzés során kiadott képesítési bizonyítványában szereplő szakiránya illeszkedik a foglalkoztató vállalkozás cégjegyzékben szereplő főtevékenységi köréhez.
 
-(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan vármegyében és a fővárosban, ahol
+(4) Az (1) bekezdésben meghatározott vállalkozás legalább egy fogyasztóvédelmi referenst köteles foglalkoztatni minden olyan megyében és a fővárosban, ahol
 
 - a) székhelyén, telephelyén vagy fióktelepén kiskereskedelmi tevékenységet folytat, továbbá
 - b) közszolgáltatási tevékenységet folytató, valamint törvény alapján ügyfélszolgálat működtetésére kötelezett vállalkozás esetén ügyfélszolgálattal rendelkezik.
@@ -360,7 +360,7 @@ fogyasztóvédelmi hatóság a szervező nem megfelelő működését állapítj
 
 18. § (1) A békéltető testület hatáskörébe tartozik a fogyasztói jogvita bírósági eljáráson kívüli rendezése. A békéltető testület feladata, hogy megkísérelje a fogyasztói jogvita rendezése céljából egyezség létrehozását a felek között, ennek eredménytelensége esetén az ügyben döntést hoz a fogyasztói jogok egyszerű, gyors, hatékony és költségkímélő érvényesítésének biztosítása érdekében. A békéltető testület a fogyasztó vagy a vállalkozás kérésére tanácsot ad a fogyasztót megillető jogokkal és a fogyasztót terhelő kötelezettségekkel kapcsolatban.
 
-(2) A békéltető testület a vármegyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) által működtetett szakmailag független testület.
+(2) A békéltető testület a megyei (fővárosi) kereskedelmi és iparkamarák (a továbbiakban: kamara) által működtetett szakmailag független testület.
 
 (2a) A békéltető testületek szakmai irányítását a fogyasztóvédelemért felelős miniszter látja el.
 
@@ -600,7 +600,7 @@ foglalt személyes adatait.
 
 (11) A vállalkozást a békéltető testületi eljárásban együttműködési kötelezettség terheli, ennek keretében köteles a (8) bekezdésben rögzített tartalommal, az ott említett határidőn belül válasziratát megküldeni a békéltető testület számára. A fogyasztói jogviták online rendezéséről, valamint a 2006/2004/EK rendelet és a 2009/22/EK irányelv módosításáról szóló, 2013. május 21-i 524/2013/EU európai parlamenti és tanácsi rendelet alkalmazásának kivételével a vállalkozás a meghallgatáson egyezség létrehozatalára feljogosított személy részvételét biztosítani köteles. Az online meghallgatáson a vállalkozás egyezség létrehozására feljogosított képviselője köteles online részt venni. Ha a fogyasztó személyes meghallgatást kér, a vállalkozás egyezség létrehozására feljogosított képviselője köteles legalább online részt venni a meghallgatáson.
 
-(12) A (11) bekezdésben meghatározott együttműködési kötelezettségét, valamint a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét megsértő vállalkozásról a békéltető testület értesíti a békéltető testület székhelye szerint illetékes fogyasztóvédelmi hatóságot. A Pest vármegye területén illetékes békéltető testület vonatkozásában a Pest vármegye területén illetékes fogyasztóvédelmi hatóságot kell értesíteni.
+(12) A (11) bekezdésben meghatározott együttműködési kötelezettségét, valamint a 36. § (5a) bekezdésében meghatározott tájékoztatási kötelezettségét megsértő vállalkozásról a békéltető testület értesíti a békéltető testület székhelye szerint illetékes fogyasztóvédelmi hatóságot. A Pest megye területén illetékes békéltető testület vonatkozásában a Pest megye területén illetékes fogyasztóvédelmi hatóságot kell értesíteni.
 
 29/A. § (1) A békéltető testület eljárása során az iratokat a természetes személynek, valamint a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) szerint gazdálkodó szervezetnek nem minősülő fogyasztónak – a (2) és (3) bekezdésben foglalt kivétellel – postai szolgáltató útján, a hivatalos iratok kézbesítésére vonatkozó rendelkezések szerint kell kézbesíteni.
 
@@ -1527,7 +1527,7 @@ A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terü
   - e) a szavatossággal, illetve jótállással kapcsolatos minőségi kifogások intézése, a fogyasztót megillető jogok,
   - f) a tisztességes szerződési feltételek kialakítása,
   - g) a speciális értékesítési formákra (távollévők között kötött szerződésekre, üzlethelyiségen kívül kötött szerződésekre) vonatkozó szabályok,
-  - h) a vármegyei (fővárosi) kereskedelmi és iparkamara által működtetett békéltető testület eljárásának szabályai, valamint
+  - h) a megyei (fővárosi) kereskedelmi és iparkamara által működtetett békéltető testület eljárásának szabályai, valamint
   - i) a fogyasztói érdekek képviseletét ellátó egyesületek szerepe.
 - 1.1.2. Szabadon választható szakirányok:
 - 1.1.2.1. Elektronikus hírközlés szakirány:
@@ -1577,10 +1577,10 @@ A képzés célja, hogy a vizsgázó birtokában legyen az alapvető és a terü
 | --- | --- | --- | --- |
 | 1 | Békéltető testület neve | Békéltető testület székhelye | Illetékességi terület |
 | 2 | Budapesti Békéltető Testület | Budapest | Budapest |
-| 3 | Baranya Vármegyei Békéltető Testület | Pécs | Baranya vármegye, Somogy vármegye, Tolna vármegye |
-| 4 | Borsod-Abaúj-Zemplén Vármegyei Békéltető Testület | Miskolc | Borsod-Abaúj-Zemplén vármegye, Heves vármegye, Nógrád vármegye |
-| 5 | Csongrád-Csanád Vármegyei Békéltető Testület | Szeged | Békés vármegye, Bács-Kiskun vármegye, Csongrád-Csanád vármegye |
-| 6 | Fejér Vármegyei Békéltető Testület | Székesfehérvár | Fejér vármegye, Komárom-Esztergom vármegye, Veszprém vármegye |
-| 7 | Győr-Moson-Sopron Vármegyei Békéltető Testület | Győr | Győr-Moson-Sopron vármegye, Vas vármegye, Zala vármegye |
-| 8 | Hajdú-Bihar Vármegyei Békéltető Testület | Debrecen | Jász-Nagykun-Szolnok vármegye, Hajdú-Bihar vármegye, Szabolcs-Szatmár-Bereg vármegye |
-| 9 | Pest Vármegyei Békéltető Testület | Budapest | Pest vármegye |
+| 3 | Baranya Megyei Békéltető Testület | Pécs | Baranya megye, Somogy megye, Tolna megye |
+| 4 | Borsod-Abaúj-Zemplén Megyei Békéltető Testület | Miskolc | Borsod-Abaúj-Zemplén megye, Heves megye, Nógrád megye |
+| 5 | Csongrád-Csanád Megyei Békéltető Testület | Szeged | Békés megye, Bács-Kiskun megye, Csongrád-Csanád megye |
+| 6 | Fejér Megyei Békéltető Testület | Székesfehérvár | Fejér megye, Komárom-Esztergom megye, Veszprém megye |
+| 7 | Győr-Moson-Sopron Megyei Békéltető Testület | Győr | Győr-Moson-Sopron megye, Vas megye, Zala megye |
+| 8 | Hajdú-Bihar Megyei Békéltető Testület | Debrecen | Jász-Nagykun-Szolnok megye, Hajdú-Bihar megye, Szabolcs-Szatmár-Bereg megye |
+| 9 | Pest Megyei Békéltető Testület | Budapest | Pest megye |

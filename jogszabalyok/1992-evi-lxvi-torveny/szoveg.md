@@ -142,7 +142,7 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 ### II. Fejezet — A nyilvántartás szervezete, hatásköri és illetékességi szabályai
 
-6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban együtt: jegyző), fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a kormányablak, a fővárosi és vármegyei kormányhivatal és a nyilvántartást kezelő szerv látja el.
+6. § (1) Az e törvényben meghatározott feladatokat a települési (fővárosi kerületi) önkormányzat jegyzője, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző (a továbbiakban együtt: jegyző), fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a kormányablak, a fővárosi és megyei kormányhivatal és a nyilvántartást kezelő szerv látja el.
 
 (2) Az állampolgársági ügyekben eljáró szerv, a hivatásos konzuli tisztviselő (a továbbiakban: konzuli tisztviselő), közreműködik a nyilvántartás hatálya alá tartozó személyek adatainak, adatváltozásainak nyilvántartásba vételében.
 
@@ -186,14 +186,14 @@ Az Országgyűlés, az Alaptörvénynek a személyes adatok védelméről szól�
 
 #### 7/B. §
 
-8. § (1) A fővárosi és vármegyei kormányhivatal
+8. § (1) A fővárosi és megyei kormányhivatal
 
 - a) felügyeletet gyakorol a helyi nyilvántartási tevékenység felett;
 - b) ellenőrzi a személyes adatok védelmének érvényesülését, szükség esetén helyreállítja a törvényes állapotot.
 
-(2) A fővárosi és vármegyei kormányhivatal a nyilvántartás működtetésével kapcsolatos technikai feltételek biztosítása során közreműködik a nyilvántartás adatkezelésének és adatszolgáltatásának megszervezésében.
+(2) A fővárosi és megyei kormányhivatal a nyilvántartás működtetésével kapcsolatos technikai feltételek biztosítása során közreműködik a nyilvántartás adatkezelésének és adatszolgáltatásának megszervezésében.
 
-8/A. § A Kormány rendeletében kijelölt fővárosi és vármegyei kormányhivatal (a továbbiakban: kijelölt kormányhivatal)
+8/A. § A Kormány rendeletében kijelölt fővárosi és megyei kormányhivatal (a továbbiakban: kijelölt kormányhivatal)
 
 - a) ellátja a nyilvántartással, valamint a személyazonosító igazolvány kiadásával és nyilvántartásával kapcsolatos, jogszabályban hatáskörébe utalt hatósági feladatokat;
 - b) ellátja a szabad mozgás és tartózkodás jogával rendelkező személy személyi és lakcímadatainak nyilvántartásba vételével kapcsolatos – jogszabályban meghatározott – feladatokat;
@@ -605,7 +605,7 @@ van lehetőség.
 - p) az állampolgárság, családi állapot, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a nyilvántartást vezető szerv a bírósági peres és nemperes eljárásokra adott általános meghatalmazások közhiteles nyilvántartásáról szóló törvényben meghatározott feladatai ellátásához.
 - q) a kincstár a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 20/C. §-a, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 139. § (2) bekezdése szerinti feladata teljesítésével, valamint a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helye kivételével a TAJ szám nyilvántartásának vezetésével, továbbá a szociális, gyermekjóléti és gyermekvédelmi szolgáltató, intézmény vezetője a szociális, gyermekjóléti és gyermekvédelmi szolgáltatások, ellátások biztosításával összefüggésben, valamint jogszabályban meghatározott feladatai ellátásához;
 - r) az út- és úthasználati díjköteles országos közutak díjfizetés ellenében történő használatának ellenőrzésére jogosult szervezetek törvényben meghatározott feladataik ellátásához.
-- s) a fővárosi és vármegyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához,
+- s) a fővárosi és megyei kormányhivatal integrált ügyfélszolgálati irodája az anyakönyvi eljárással és az állampolgársági eljárással kapcsolatos feladatainak, valamint más, törvényben meghatározott feladatainak ellátásához,
 - sz) a családi állapotra, a házasságkötés vagy bejegyzett élettársi kapcsolat létesítésének helyére vonatkozó adatok kivételével a Magyar Művészeti Akadémiáról szóló törvény szerinti művészjáradékkal kapcsolatos ügyekben eljáró szerv a művészjáradékkal összefüggő törvényi feladatai ellátásához;
 - t) a családi állapot, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helye, a nem, valamint a nyilvántartásból való, az elhalálozáson kívüli kikerülés okára, helyére és idejére vonatkozó adatok kivételével az élelmiszerlánc-felügyeleti szerv az élelmiszerlánc-felügyeleti információs rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához,
 - u) a családi állapotra, a házasságkötés vagy a bejegyzett élettársi kapcsolat létesítésének helyére, a nemre, valamint a nyilvántartásból való – az elhalálozáson kívüli – kikerülés okára, helyére és idejére vonatkozó adatok kivételével a támogató Kedvezményezetti Nyilvántartási Rendszer létrehozásával és működtetésével összefüggő feladatai ellátásához.;
@@ -688,14 +688,14 @@ a hagyatéki eljáráshoz, az európai öröklési bizonyítvány kiállítása 
 - 20. a munkaügyi és munkavédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
 - 21. az útügyi és közúti gépjármű-közlekedéssel kapcsolatos ügyekben eljáró közlekedési hatóság a jogszabályban meghatározott feladatai ellátásához,
 - 22. az állatvédelmi hatóság a jogszabályban meghatározott feladatai ellátásához,
-- 23. a fővárosi és vármegyei kormányhivatal a feladat- és hatáskörét érintő tűzvédelmi, iparbiztonsági és vízügyi hatósági feladatok ellátásához,
+- 23. a fővárosi és megyei kormányhivatal a feladat- és hatáskörét érintő tűzvédelmi, iparbiztonsági és vízügyi hatósági feladatok ellátásához,
 - 24. a kisajátítási hatóság a jogszabályban meghatározott feladatai ellátásához.
 
 23/B. § A 11. § (4) bekezdése szerint kezelt ujjnyomatot kizárólag a nyilvántartást kezelő szerv jogosult igényelni az állandó személyazonosító igazolvány pótlása céljából.
 
 23/C. § A 15. § (1b) bekezdésében meghatározott adatokat a nyilvántartás szervei megismerhetik, valamint azokat a nyilvántartást kezelő szervtől igényelhetik a 24. §-ban meghatározott szervek.
 
-24. § (1) A bíróság, az ügyészség, az NVVH, a nemzetbiztonsági szolgálatok és a Nemzeti Adatvédelmi és Információszabadság Hatóság feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén – a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása céljából, a rendőrség bűnüldözési tevékenysége ellátásához, a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi tervezéshez, az utasadat-információs egység az utasadatok kockázatelemzéséhez, az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv a kérelmező adatainak azonosításához, az Országgyűlési Őrség, a rendőrség személyvédelmi és létesítménybiztosítási feladatokat ellátó szerve törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátásához, a büntetőeljárásban, a polgári peres és nemperes eljárásban, a közigazgatási perben és az egyéb közigazgatási bírósági eljárásban, a hatósági eljárásban eljáró igazságügyi szakértő a tevékenységére vonatkozó törvény előírásai alapján végzett feladatai ellátásához, valamint a nyilvántartást kezelő szerv által megbízott megszemélyesítést végző szervezet az állandó személyazonosító igazolvány és a 7. § (3) bekezdésében meghatározott hivatalból kiadásra kerülő személyi azonosítóról és lakcímről szóló hatósági igazolvány megszemélyesítéséhez, kiállításához és a jogszabályban meghatározott adatok kezeléséhez e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének [17. § (2) bekezdés d) pont], továbbá a szabálysértési hatóság a szabálysértési eljárás, a rendőrség a szabálysértési eljárásról szóló törvény szerinti előkészítő eljárás lefolytatásához, valamint a Büntetés-végrehajtás Országos Parancsnoksága, a büntetés-végrehajtási pártfogó felügyelő, a javítóintézet és a pártfogó felügyelői szolgálat a büntetés vagy intézkedés végrehajtásának biztosítása érdekében a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a)–h), l), m) és p) pont], a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a)–h), l), m), n) és p) pont], valamint az elítélt kapcsolattartója személyazonosságának ellenőrzése érdekében a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a), d), e) és h) pont] igénylésére jogosultak.
+24. § (1) A bíróság, az ügyészség, az NVVH, a nemzetbiztonsági szolgálatok és a Nemzeti Adatvédelmi és Információszabadság Hatóság feladataik ellátása érdekében – a rájuk vonatkozó törvényekben meghatározott célok és feltételek teljesülése esetén – a nyomozó hatóság és az előkészítő eljárást folytató szerv büntetőeljárás lefolytatása céljából, a rendőrség bűnüldözési tevékenysége ellátásához, a hivatásos katasztrófavédelmi szerv a katasztrófavédelmi tervezéshez, az utasadat-információs egység az utasadatok kockázatelemzéséhez, az állampolgársági ügyekért felelős miniszter és az állampolgársági ügyekben eljáró szerv a kérelmező adatainak azonosításához, a rendőrség személyvédelmi és létesítménybiztosítási feladatokat ellátó szerve törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátásához, a büntetőeljárásban, a polgári peres és nemperes eljárásban, a közigazgatási perben és az egyéb közigazgatási bírósági eljárásban, a hatósági eljárásban eljáró igazságügyi szakértő a tevékenységére vonatkozó törvény előírásai alapján végzett feladatai ellátásához, valamint a nyilvántartást kezelő szerv által megbízott megszemélyesítést végző szervezet az állandó személyazonosító igazolvány és a 7. § (3) bekezdésében meghatározott hivatalból kiadásra kerülő személyi azonosítóról és lakcímről szóló hatósági igazolvány megszemélyesítéséhez, kiállításához és a jogszabályban meghatározott adatok kezeléséhez e törvény felhatalmazása alapján a nyilvántartásba felvett adatok teljes körének [17. § (2) bekezdés d) pont], továbbá a szabálysértési hatóság a szabálysértési eljárás, a rendőrség a szabálysértési eljárásról szóló törvény szerinti előkészítő eljárás lefolytatásához, valamint a Büntetés-végrehajtás Országos Parancsnoksága, a büntetés-végrehajtási pártfogó felügyelő, a javítóintézet és a pártfogó felügyelői szolgálat a büntetés vagy intézkedés végrehajtásának biztosítása érdekében a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a)–h), l), m) és p) pont], a büntetés-végrehajtási intézet a befogadás során az elítélt személyazonosságának ellenőrzése érdekében a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a)–h), l), m), n) és p) pont], valamint az elítélt kapcsolattartója személyazonosságának ellenőrzése érdekében a nyilvántartásba felvett meghatározott adatok [11. § (1) bekezdés a), d), e) és h) pont] igénylésére jogosultak.
 
 (2) A személyazonosság igazolására alkalmas hatósági igazolvány kiadására irányuló eljárásban – személyazonosítás és személyazonosság igazolására alkalmas hatósági igazolványon történő feltüntetés céljából – az eljáró hatóság jogosult a polgár arcképmásának és saját kezű aláírásának megismerésére, illetve igénylésére.
 
@@ -1300,12 +1300,12 @@ ad tájékoztatást.
 
 ### VI. Fejezet — Adatvédelem
 
-30. § (1) A jegyző, a járási hivatal, a fővárosi és vármegyei kormányhivatal, valamint a nyilvántartást kezelő szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és belső adatvédelmi és adatbiztonsági szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
+30. § (1) A jegyző, a járási hivatal, a fővárosi és megyei kormányhivatal, valamint a nyilvántartást kezelő szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai, szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és belső adatvédelmi és adatbiztonsági szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését.
 
 (2) Az adatkezelés törvényességének ellenőrzésére
 
 - a) a nyilvántartást kezelő szervnél a szerv vezetője,
-- b) a fővárosi és vármegyei kormányhivatalnál a főispán
+- b) a fővárosi és megyei kormányhivatalnál a kormánymegbízott
 
 adatvédelmi tisztviselőt nevez ki.
 

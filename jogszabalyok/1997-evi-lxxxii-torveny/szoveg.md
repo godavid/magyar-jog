@@ -119,9 +119,9 @@ A magánnyugdíjrendszer létrehozása és működése érdekében az Országgy�
 
 (2)
 
-(3) A fővárosi, vármegyei önkormányzat (a továbbiakban: önkormányzat) nyílt pénztárként területi pénztárat alapíthat, vagy részt vehet a (4) bekezdés szerinti regionális pénztár megalapításában, vagy pályázat útján nyílt pénztárat megbízhat a területi pénztár teendőinek ellátásával. Ha az önkormányzat illetékességi területére nem jön létre területi pénztári funkciót ellátó pénztár, akkor a területi pénztári feladatok ellátására a Pénzügyi Szervezetek Állami Felügyelete ír ki pályázatot. E pályázat eredménytelensége esetén a Pénzügyi Szervezetek Állami Felügyelete nyílt pénztárat jelöl ki a területi pénztári feladatok ellátására.
+(3) A fővárosi, megyei önkormányzat (a továbbiakban: önkormányzat) nyílt pénztárként területi pénztárat alapíthat, vagy részt vehet a (4) bekezdés szerinti regionális pénztár megalapításában, vagy pályázat útján nyílt pénztárat megbízhat a területi pénztár teendőinek ellátásával. Ha az önkormányzat illetékességi területére nem jön létre területi pénztári funkciót ellátó pénztár, akkor a területi pénztári feladatok ellátására a Pénzügyi Szervezetek Állami Felügyelete ír ki pályázatot. E pályázat eredménytelensége esetén a Pénzügyi Szervezetek Állami Felügyelete nyílt pénztárat jelöl ki a területi pénztári feladatok ellátására.
 
-(4) A főváros, a megyei jogú város, a vármegyei, illetve több vármegyei önkormányzat által alapított (regionális) területi pénztár működési területe megegyezik az önkormányzat(ok) közigazgatási területével.
+(4) A főváros, a megyei jogú város, a megyei, illetve több megyei önkormányzat által alapított (regionális) területi pénztár működési területe megegyezik az önkormányzat(ok) közigazgatási területével.
 
 8. § (1) Az alapító az alapítást megelőzően alapító okirat tervezetet készít.
 

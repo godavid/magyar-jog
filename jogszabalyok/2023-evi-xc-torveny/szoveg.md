@@ -1931,7 +1931,7 @@ rendeli el.
 - b) a tartózkodás magatartási szabályait;
 - c) ha a tartózkodási hely nem közösségi szállás vagy befogadó állomás, a hatóság előtti időszakonkénti megjelenésre való kötelezést.
 
-(3) A (2) bekezdés b) pontjában meghatározott magatartási szabályok meghatározása során rendelkezni kell arról is, hogy a kijelölt tartózkodási helyet elrendelő határozatban meghatározott vármegye közigazgatási területét a harmadik országbeli állampolgár nem hagyhatja el, kivéve, ha a 70. § (1) bekezdés b) vagy e) pontja alapján kiállított humanitárius célú tartózkodási engedéllyel rendelkezik, vagy a külföldi kérelmére azt az idegenrendészeti hatóság engedélyezte.
+(3) A (2) bekezdés b) pontjában meghatározott magatartási szabályok meghatározása során rendelkezni kell arról is, hogy a kijelölt tartózkodási helyet elrendelő határozatban meghatározott megye közigazgatási területét a harmadik országbeli állampolgár nem hagyhatja el, kivéve, ha a 70. § (1) bekezdés b) vagy e) pontja alapján kiállított humanitárius célú tartózkodási engedéllyel rendelkezik, vagy a külföldi kérelmére azt az idegenrendészeti hatóság engedélyezte.
 
 (4) Az idegenrendészeti hatóság hivatalból módosíthatja a magatartási szabályokat, ha mérlegelése szerint a harmadik országbeli állampolgár magatartása a továbbiakban nem veszélyezteti az idegenrendészeti eljárás sikeres lefolytatását, vagy egyéb okból más magatartási szabályok meghatározása indokolt.
 
@@ -1960,7 +1960,7 @@ rendeli el.
 
 (3) Ha a harmadik országbeli állampolgár a közösségi szállást vagy a befogadó állomást az erre irányuló felszólítást követően nem hagyja el, az idegenrendészeti hatóság öt napon belül elrendeli a kötelezettség végrehajtását. A végrehajtási eljárást megindító végzés ellen a harmadik országbeli állampolgár – jogorvoslatként, törvénysértésre hivatkozással – végrehajtási kifogással élhet. A közösségi szállás vagy a befogadó állomás elhagyását az idegenrendészeti hatóság a rendőrség közreműködésével kényszerítheti ki.
 
-130. § (1) Az a harmadik országbeli állampolgár, akinek az idegenrendészeti hatóság a kötelező tartózkodását közösségi szálláson, befogadó állomáson vagy meghatározott vármegye közigazgatási területén jelölte ki, jogosult a törvényben meghatározott közfoglalkoztatási jogviszony keretében munkát végezni kivéve, ha
+130. § (1) Az a harmadik országbeli állampolgár, akinek az idegenrendészeti hatóság a kötelező tartózkodását közösségi szálláson, befogadó állomáson vagy meghatározott megye közigazgatási területén jelölte ki, jogosult a törvényben meghatározott közfoglalkoztatási jogviszony keretében munkát végezni kivéve, ha
 
 - a) a (2) bekezdésben foglaltak szerinti foglalkoztatási jogviszonyból,
 - b) a harmadik országbeli állampolgárok magyarországi foglalkoztatására vonatkozó szabályok szerinti foglalkoztatási jogviszonyból, vagy
@@ -4015,7 +4015,7 @@ vonatkozásában közhiteles nyilvántartásnak minősül.
 - 12. a közegészségügyi hatóság,
 - 13. az egészségbiztosítási szerv, a rehabilitációs hatóság és a nyugdíjbiztosítási igazgatási szerv,
 - 14. a helyi önkormányzat hatósági feladatot ellátó szerve,
-- 15. a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala,
+- 15. a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
 - 16. a szabálysértési eljárás alá vont személy személyazonosságának ellenőrzéséhez a szabálysértési, illetve az előkészítő eljárást folytató hatóságok,
 - 17. a befogadás során az elítélt személyazonosságának ellenőrzése, valamint az elítélttel szemben elrendelt idegenrendészeti kiutasításról történő tájékoztatás érdekében a büntetés-végrehajtási intézet,
 - 18. az 514/2014/EU európai parlamenti és tanácsi rendelet 27. cikkéből következően, a támogatások felhasználása ellenőrizhetőségének biztosítása érdekében a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapból és a Menekültügyi, Migrációs és Integrációs Alapból származó támogatások felhasználásáról szóló kormányrendeletben meghatározott Felelős Hatóság (a továbbiakban: Felelős Hatóság),
@@ -4038,7 +4038,7 @@ részére továbbíthat adatot.
 
 (5) Az idegenrendészeti hatóság a központi idegenrendészeti nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a kiutasításra, a beutazási és tartózkodási tilalom fennállására, valamint a bevándorolt vagy huzamos tartózkodói jogállás fennállására vonatkozó adatok tekintetében közvetlen hozzáférést biztosít.
 
-(6) Az idegenrendészeti hatóság adatot szolgáltat a fővárosi és vármegyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
+(6) Az idegenrendészeti hatóság adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
 
 (7) Az általa eszközölt adattovábbításokat az idegenrendészeti hatóság nyilvántartja.
 
@@ -4149,7 +4149,7 @@ részére továbbíthat adatot.
 - e) a nemperes eljárást lefolytató közjegyző,
 - f) az idegenrendészeti hatóság,
 - g) az állami adó- és vámhatóság,
-- h) a fenti, lakcímkártyával nem rendelkező személyek tekintetében a magyarországi tartózkodási hely szerint illetékes helyi önkormányzat jegyzője, illetve az illetékes fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala,
+- h) a fenti, lakcímkártyával nem rendelkező személyek tekintetében a magyarországi tartózkodási hely szerint illetékes helyi önkormányzat jegyzője, illetve az illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
 - i) törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból a nemzetbiztonsági szolgálatok,
 - j) a 279. §-ban meghatározott személyek vagy szervezetek kérése alapján, a kérelemben meghatározott adattartalommal, pénzintézeti, oktatási, vagy más, az életvitelük szempontjából szükséges, lakcímkártyát vagy bejegyzést igénylő eljárásban az eljárás vagy jogügylet feltételeit meghatározó szervezetek
 

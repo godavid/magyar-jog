@@ -200,9 +200,9 @@ Az Országgyűlés az Alaptörvényben foglalt rendelkezésekre figyelemmel – 
 
 (2) Külügyi szolgálati útlevelet kaphat az a személy is, aki a külpolitikáért felelős miniszter megbízásából diplomáciai küldetéssel járó feladatot lát el, illetve akinek a külügyi szolgálati útlevéllel történő ellátása külpolitikai érdekből indokolt, továbbá az, akinek az útlevéllel történő ellátását rendkívül indokolt esetben az irányítást vagy felügyeletet gyakorló miniszter javaslatára vagy saját hatáskörben a külpolitikáért felelős miniszter engedélyezte. A külügyi szolgálati útlevél érvényességi idejét a külpolitikáért felelős miniszter állapítja meg, amely a megbízás időtartamára vonatkozó érvényességi idővel állítható ki azzal, hogy a 11. § (1) bekezdésében foglaltak alapján az útlevél érvényessége legfeljebb az irányítást vagy felügyeletet gyakorló miniszter vagy a külpolitikáért felelős miniszter megbízatása évének letelte végéig terjedhet.
 
-14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetője, az Országgyűlési Őrség tekintetében az Országgyűlés elnöke javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
+14. § (1) Az irányítást (felügyeletet) gyakorló miniszter, ennek hiányában a szerv vagy hivatal vezetője javaslatára szolgálati útlevelet kaphatnak hivatalos célú utazásuk, illetőleg kiküldetésük idejére
 
-- a) a központi államigazgatási szerveknél, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Országgyűlési Őrségnél, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, az NVVH-nál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
+- a) a központi államigazgatási szerveknél, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, az Állami Számvevőszéknél, az NVVH-nál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, a Nemzeti Média- és Hírközlési Hatóságnál foglalkoztatottak;
 - b) a bírák és az ügyészek;
 - c) a Magyar Nemzeti Bank vezető munkatársai;
 - d) a szomszédos államokkal fennálló vízügyi együttműködés keretében vízi munka elvégzése, vízkár vagy jégveszély elhárítása érdekében határvízen közlekedő vízügyi dolgozók.
@@ -446,7 +446,7 @@ meghatározott bűncselekmények elkövetése gyanúja miatt került sor.
 
 24/A. § (1) Az adatkezelő szerv útiokmány-nyilvántartással összefüggő feladat- és hatáskörében:
 
-- a) felügyeletet gyakorol a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselőjének közreműködői tevékenysége felett,
+- a) felügyeletet gyakorol a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal), a konzuli szolgálat közigazgatási hatósági jogkört gyakorló konzuli tisztviselőjének közreműködői tevékenysége felett,
 - b) biztosítja a nyilvántartásban kezelt adatok helyességét,
 - c) a nyilvántartásból a törvényben meghatározott feltételek fennállása esetén adatszolgáltatást teljesít,
 - d) végzi a figyelmeztető jelzés kezelésével kapcsolatos nyilvántartási és adattovábbítási feladatokat, valamint

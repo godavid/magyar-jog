@@ -184,7 +184,7 @@ eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technik
 
 - a) az általa folytatott büntetőeljárásban az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal a feltételezett elkövetőről,
 - b) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 7. § (1) bekezdés c) pontjában meghatározott feladatának ellátása során,
-- c) a terrorizmust elhárító szerv az Rtv. 7/E. § (1) bekezdés a) pontjában foglalt feladatainak ellátása során
+- c) a rendőrség az Rtv. 1. § (2) bekezdés 15a. pontjában foglalt feladatainak ellátása során
 
 az általa kezelt arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni az ismeretlen személy azonosítása érdekében.
 
@@ -203,13 +203,7 @@ támogatása során a rendelkezésére álló arcképmás felhasználásával az
 
 (7) A 3. § (3) bekezdés f) pontjában meghatározott célból a nemzetbiztonsági szolgálatok jogosultak a nemzetbiztonsági ellenőrzés, az egyszerűsített nemzetbiztonsági ellenőrzés, valamint törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági, bűnmegelőzési ellenőrzési és az objektumok műveleti védelme céljából a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
 
-(8) A 3. § (3) bekezdés g) pontjában meghatározott célból jogosult
-
-- a) az általános rendőrségi feladatok ellátására létrehozott szerv kiemelten védett vezetők tekintetében személyvédelmi feladatai ellátása során,
-- b) a terrorizmust elhárító szerv a kiemelt személyvédelmi feladatai ellátása során,
-- c) az Országgyűlési Őrség a házelnök személyvédelme során
-
-a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
+(8) A 3. § (3) bekezdés g) pontjában meghatározott célból jogosult az általános rendőrségi feladatok ellátására létrehozott szerv kiemelten védett vezetők tekintetében személyvédelmi feladatai ellátása során a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése és ismeretlen személy azonosítása érdekében.
 
 (9) A 3. § (3) bekezdés h) pontjában meghatározott célból jogosult
 
@@ -221,7 +215,7 @@ a rendelkezésére álló arcképmás felhasználásával az arcképelemző tev�
 
 (10) A 3. § (3) bekezdés h) pontjában meghatározott célból jogosult
 
-- a) az Országgyűlési Őrség az Országházban, az Országgyűlés Irodaházában, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek területén a belépési jogosultság ellenőrzése során,
+- a) a rendőrség az Országházban, az Országgyűlés Irodaházában, valamint az Országgyűlés Hivatala elhelyezésére szolgáló épületek területén a belépési jogosultság ellenőrzése során,
 - b) a rendőrség a központi államhatalmi és kormányzati tevékenység szempontjából fontos szervek (intézmények) és létesítmények, valamint a kiemelten fontosnak minősített rendőrségi épületek, az ott folyó tevékenységek megfelelő szintű védelme, valamint a belépési jogosultság ellenőrzése során
 
 a rendelkezésére álló arcképmás felhasználásával az arcképelemző tevékenységet végző szerv arcképelemző tevékenységét igénybe venni személyazonosság ellenőrzése érdekében.
@@ -230,7 +224,7 @@ a rendelkezésére álló arcképmás felhasználásával az arcképelemző tev�
 
 - a) a jogsegélyt teljesítő magyar szerv külföldi hatóság megkeresésében érkezett álló- vagy mozgófelvételeken, rajzokon szereplő feltételezett elkövetők,
 - b) az általános rendőrségi feladatok ellátására létrehozott szerv a nemzetközi bűnügyi együttműködés keretében a rendőrség nemzetközi bűnügyi együttműködési központján keresztül érkezett álló- vagy mozgófelvételeken, rajzokon szereplő feltételezett elkövetők,
-- c) a terrorizmust elhárító szerv a nemzetközi bűnügyi együttműködés keretében a terrorizmust elhárító szervhez közvetlenül érkezett álló- vagy mozgófelvételeken, rajzokon szereplő személyek
+- c)
 
 személyazonosságának megállapítása, valamint ellenőrzése érdekében.
 

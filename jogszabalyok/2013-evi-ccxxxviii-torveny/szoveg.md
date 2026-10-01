@@ -536,7 +536,7 @@ szervezhet.
 
 #### 20. A területi szintű helyi népszavazás
 
-61. § (1) A vármegyei és a fővárosi szintű helyi népszavazásra e fejezet rendelkezéseit megfelelően alkalmazni kell.
+61. § (1) A megyei és a fővárosi szintű helyi népszavazásra e fejezet rendelkezéseit megfelelően alkalmazni kell.
 
 (2) Az e fejezetben a helyi választási bizottság számára megállapított hatáskört a területi választási bizottság, a területi választási bizottság számára megállapított hatáskört a Nemzeti Választási Bizottság, a helyi választási iroda és annak vezetője számára megállapított hatáskört a területi választási iroda és vezetője gyakorolja.
 
@@ -718,9 +718,9 @@ alapján megállapítja a választás eredményét.
 - a) szavazatszámláló bizottság,
 - b) helyi választási bizottság,
 - c) területi választási bizottság,
-- d) fővárosi, vármegyei ügyben a Nemzeti Választási Bizottság is.
+- d) fővárosi, megyei ügyben a Nemzeti Választási Bizottság is.
 
-(2) A helyi választási bizottságba, fővárosi, vármegyei ügyben a területi választási bizottságba a kezdeményezés szervezői közösen, választási bizottságonként egy tagot, továbbá a kezdeményezés szervezésében részt nem vevő, de a képviselő-testületben képviselőcsoporttal rendelkező szervezetek egy-egy tagot bízhatnak meg.
+(2) A helyi választási bizottságba, fővárosi, megyei ügyben a területi választási bizottságba a kezdeményezés szervezői közösen, választási bizottságonként egy tagot, továbbá a kezdeményezés szervezésében részt nem vevő, de a képviselő-testületben képviselőcsoporttal rendelkező szervezetek egy-egy tagot bízhatnak meg.
 
 (3) A szavazatszámláló bizottságba, valamint az egy szavazókörrel rendelkező településen a helyi választási bizottságba a kezdeményezés szervezői közösen, továbbá a kezdeményezés szervezésében részt nem vevő, de a képviselő-testületben képviselőcsoporttal rendelkező szervezetek két-két tagot bízhatnak meg.
 
@@ -740,7 +740,7 @@ alapján megállapítja a választás eredményét.
 - b) a bélyegzőlenyomat elhelyezésére szolgáló terület megjelölését a szavazólap bal felső sarkában,
 - c) a helyi népszavazás megnevezést,
 - d) a helyi népszavazás napját,
-- e) a település, illetve a vármegye vagy a főváros megjelölését,
+- e) a település, illetve a megye vagy a főváros megjelölését,
 - f) annak megjelölését, hogy érvényesen szavazni csak egy válaszra lehet,
 - g) a helyi népszavazásra feltett kérdést,
 - h) az igen és nem válaszlehetőséget,
@@ -769,7 +769,7 @@ alapján megállapítja a választás eredményét.
 
 #### 41. A területi szintű helyi népszavazási eljárás
 
-90. § (1) A vármegyei és a fővárosi szintű helyi népszavazási eljárásra e fejezet rendelkezéseit kell alkalmazni.
+90. § (1) A megyei és a fővárosi szintű helyi népszavazási eljárásra e fejezet rendelkezéseit kell alkalmazni.
 
 (2) Az e fejezetben a helyi választási bizottság számára megállapított hatáskört a területi választási bizottság, a területi választási bizottság számára megállapított hatáskört a Nemzeti Választási Bizottság, a helyi választási iroda és annak vezetője számára megállapított hatáskört a területi választási iroda és vezetője gyakorolja.
 
@@ -790,7 +790,7 @@ alapján megállapítja a választás eredményét.
 - g) a médiatartalom-szolgáltató képviseletében eljáró személy e minőségének igazolására használható okiratokat,
 - h) a bírság megfizetésének részletes szabályait,
 - i) azon településeket és külképviseleteket, ahol a magyarországi lakcímmel nem rendelkező választópolgár – kérelmére – átveheti a szavazási levélcsomagot,
-- j) a fővárosi és vármegyei kormányhivatal népszavazással összefüggő informatikai feladatai ellátásának részletes szabályait,
+- j) a fővárosi és megyei kormányhivatal népszavazással összefüggő informatikai feladatai ellátásának részletes szabályait,
 - k) a Nemzeti Választási Bizottság választott tagjai – a Nemzeti Választási Bizottság működése kapcsán felmerülő – indokolt és igazolt költségeinek körét és a megtérítésre vonatkozó szabályokat.
 
 92. § Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletben határozza meg a helyi népszavazás kezdeményezéséhez szükséges választópolgárok számát.

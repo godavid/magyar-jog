@@ -17,13 +17,13 @@ egyes állami tulajdonú vagyontárgyak ingyenes tulajdonba adásáról
 1. § A nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvtv.) 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 36. § (1) bekezdése alapján az állam tulajdonában álló, az ingatlan-nyilvántartás szerinti
 
 - a) Budapest VIII. kerület, belterület 38818/47 helyrajzi számú ingatlan (a továbbiakban: Sorsok Háza), valamint a Sorsok Háza teljes megvalósítása kapcsán az állam tulajdonába került ingóságok, továbbá
-- b) Budapest VIII. kerület, belterület 38818/54 és 38820/2 helyrajzi számú ingatlanok
+- b) Budapest VIII. kerület, belterület 38818/54 helyrajzi számú ingatlan
 
 [az a) és b) pont a továbbiakban együtt: vagyonelemek] a Brüll Alfréd Ház – Magyar Zsidó Örökség Parkja beruházás megvalósítása céljából ingyenesen a Magyar Testgyakorlók Köre Budapest (nyilvántartási szám: 01-02-0001500; székhely: 1087 Budapest, Brüll Alfréd utca 2., a továbbiakban: MTK) tulajdonába kerülnek a sporttal, közművelődéssel, közneveléssel kapcsolatos közfeladatok hatékonyabb ellátása, valamint az aktív kikapcsolódás lehetőségeit ötvöző közösségi tér megteremtésének és működtetésének elősegítése érdekében.
 
 2. § (1) Az 1. § szerinti tulajdonátruházásra vonatkozó – az ingatlanok tekintetében az ingatlan-nyilvántartásba történő bejegyzésre alkalmas – szerződést az állam nevében a tulajdonosi joggyakorló készíti elő és köti meg az MTK-val. A szerződésben az ingatlanok forgalmi értékeként a tulajdonosi joggyakorló által megállapított forgalmi értéket kell megjelölni. Az ingóságok bekerülési értéke megegyezik az ingóságokra vonatkozó, a tulajdonosi joggyakorló könyveiben szereplő nyilvántartási értékkel.
 
-(2) Az MTK a vagyonelemeket per-, teher- és igénymentesen szerzi meg, ide nem értve az ingatlan-nyilvántartás szerinti Budapest VIII. kerület, belterület 38820/2 helyrajzi szám alatti ingatlan vonatkozásában az e § hatálybalépésekor fennálló bérleti és használati jogcímet biztosító megállapodásokat, az azokkal összefüggő bérlői és használói igényeket, valamint a területen a Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság (cégjegyzékszám: 01-10-043152; székhely: 1034 Budapest, Szőlő utca 38.) által létesített termálkútfenntartási kötelezettséget.
+(2) Az MTK a vagyonelemeket per-, teher- és igénymentesen szerzi meg.
 
 3. § Az 1. § szerinti vagyonjuttatás az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 17. § (1) bekezdésében meghatározott juttatásokkal esik egy tekintet alá.
 

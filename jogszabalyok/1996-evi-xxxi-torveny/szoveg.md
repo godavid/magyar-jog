@@ -281,7 +281,7 @@ tevékenységet kíván folytatni, köteles az erre irányuló szándékát a sz
 
 (2) A tűzvizsgálati eljárás során tartandó szemle a tűz keletkezési okának egyértelmű megállapítása és a bizonyítékok megsemmisülésének megelőzése érdekében haladéktalanul megtartható.
 
-(3) Amennyiben nem állapítható meg egyértelműen, hogy a tűz mely, a tűzvizsgálati eljárás lefolytatására jogosult tűzvédelmi hatóság illetékességi területén keletkezett, vagy a tűz több vármegye területére is kiterjed, a tűzvizsgálat lefolytatására jogosult szervet a közös felügyeleti szerv vezetője jelöli ki.
+(3) Amennyiben nem állapítható meg egyértelműen, hogy a tűz mely, a tűzvizsgálati eljárás lefolytatására jogosult tűzvédelmi hatóság illetékességi területén keletkezett, vagy a tűz több megye területére is kiterjed, a tűzvizsgálat lefolytatására jogosult szervet a közös felügyeleti szerv vezetője jelöli ki.
 
 (4) A tűzvédelmi hatóság bűncselekmény gyanúja esetén értesíti az illetékes rendőri szervet, ha a bűncselekmény elkövetésével megalapozottan gyanúsítható személy katona, az illetékes katonai nyomozó hatóságot.
 
@@ -721,7 +721,7 @@ a létesítménynél vagy a területen betöltött feladatkör, munkakör fenná
 - b) a rendkívüli események, ideértve a szolgálati feladatok során súlyos munkabalesetet szenvedett tűzoltó kártérítése, illetve sérelemdíj iránti igényének kielégítése folytán felmerülő többletköltségek, továbbá a tűzoltóságnak a működési területén kívüli igénybevételével keletkező költségek fedezetére szolgáló költségvetési előirányzat;
 - c) radiológiai, biológiai és vegyi védelmi eszközök, minősített időszaki készletek;
 - d) a területi katasztrófavédelmi szerv javítóműhelyeinek felszerelése, berendezése, alkatrészkészlete;
-- e) az országos és a vármegyei kiképzőbázisok működtetésével kapcsolatos költségvetési előirányzatok.
+- e) az országos és a megyei kiképzőbázisok működtetésével kapcsolatos költségvetési előirányzatok.
 
 (6) Az (5) bekezdés a)–b) és e) pontjában említett költségvetési eszközzel a központi katasztrófavédelmi szerv, a c)–d) pontokban foglaltakkal a területi katasztrófavédelmi szerv gazdálkodik.
 
@@ -774,7 +774,7 @@ kezeli.
 
 46/C. § (1)
 
-(2) A hivatásos katasztrófavédelmi szervezet kialakítása kapcsán 2012. január 1-től az önállóan működő hivatásos tűzoltóságok költségvetési előirányzatokkal, kincstári számlával nem rendelkeznek, kincstári és elemi költségvetést, továbbá elemi költségvetési beszámolót nem készítenek. A működési és fenntartatási előirányzataikat a területileg illetékes vármegyei hivatásos katasztrófavédelmi szervek költségvetése tartalmazza.
+(2) A hivatásos katasztrófavédelmi szervezet kialakítása kapcsán 2012. január 1-től az önállóan működő hivatásos tűzoltóságok költségvetési előirányzatokkal, kincstári számlával nem rendelkeznek, kincstári és elemi költségvetést, továbbá elemi költségvetési beszámolót nem készítenek. A működési és fenntartatási előirányzataikat a területileg illetékes megyei hivatásos katasztrófavédelmi szervek költségvetése tartalmazza.
 
 (3) katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi CXXVIII. törvény 84. § (2)–(5) bekezdés rendelkezéseinek végrehajtása során az önkormányzati vagyon a törvényben meghatározott szervezetre a törvény erejénél fogva száll át. Az önkormányzati tulajdonból állami tulajdonba kerülő vagyonelemek bekerülési értéke megegyezik az adott vagyonelemekre vonatkozó, átadó szervezet könyveiben szereplő nyilvántartási értékkel. A törvény alapján állami tulajdonba kerülő vagyon vagyonkezelője az állami tulajdon keletkezésével egyidejűleg e törvény erejénél fogva a hivatásos katasztrófavédelmi szerv központi szerve, amelynek vagyonkezelői jogviszonyára a továbbiakban az MNV Zrt. által kötött vagyonkezelési szerződésekre vonatkozó jogszabályi rendelkezéseket kell alkalmazni. A törvény alapján bejegyzésre kerülő vagyonkezelői jog ingatlan-nyilvántartásba történő bejegyzésére irányuló eljárás díj- és illetékmentes.
 

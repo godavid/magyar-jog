@@ -102,7 +102,7 @@ Magyarország az egységes magyar nemzet összetartozását szem előtt tartva f
 
 (1) Magyarország fővárosa Budapest.
 
-(2) Magyarország területe fővárosra, vármegyékre, városokra és községekre tagozódik. A fővárosban és a városokban kerületek alakíthatók.
+(2) Magyarország területe fővárosra, megyékre, városokra és községekre tagozódik. A fővárosban és a városokban kerületek alakíthatók.
 
 #### G) cikk
 
@@ -644,11 +644,11 @@ f) ha egy éven keresztül nem vesz részt az Országgyűlés munkájában.
 
 (6) Ha az Alaptörvény eltérően nem rendelkezik, az Országgyűlés határozatait a jelen lévő országgyűlési képviselők több mint a felének szavazatával hozza meg. A házszabályi rendelkezések egyes döntések meghozatalát minősített többséghez köthetik.
 
-(7) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadott házszabályi rendelkezésekben állapítja meg működésének szabályait és tárgyalási rendjét. Az Országgyűlés zavartalan működésének biztosítása és méltóságának megőrzése érdekében az Országgyűlés elnöke a házszabályi rendelkezésekben meghatározott rendészeti és fegyelmi jogkört gyakorol.
+(7) Az Országgyűlés a jelen lévő országgyűlési képviselők kétharmadának szavazatával elfogadott házszabályi rendelkezésekben állapítja meg működésének szabályait és tárgyalási rendjét. Az Országgyűlés zavartalan működésének biztosítása és méltóságának megőrzése érdekében az Országgyűlés elnöke a házszabályi rendelkezésekben meghatározott fegyelmi jogkört gyakorol.
 
 (8) Az Országgyűlés rendszeres ülésezését biztosító rendelkezéseket sarkalatos törvény határozza meg.
 
-(9) Az Országgyűlés biztonságáról országgyűlési őrség gondoskodik. Az országgyűlési őrség működését az Országgyűlés elnöke irányítja.
+(9)
 
 #### 6. cikk
 
@@ -890,7 +890,7 @@ b) ha a miniszterelnök megbízatása lemondásával, halálával, összeférhet
 
 (2) Tárca nélküli miniszter a Kormány által meghatározott feladatkör ellátására nevezhető ki.
 
-(3) A Kormány általános hatáskörű területi államigazgatási szerve a fővárosi és vármegyei kormányhivatal.
+(3) A Kormány általános hatáskörű területi államigazgatási szerve a fővárosi és megyei kormányhivatal.
 
 (4) Sarkalatos törvény minisztérium, miniszter vagy közigazgatási szerv megjelölésére vonatkozó rendelkezését törvény módosíthatja.
 
@@ -1190,9 +1190,9 @@ l) törvényben meghatározott további feladat- és hatásköröket gyakorol.
 
 (3) Az önkormányzati rendelet más jogszabállyal nem lehet ellentétes.
 
-(4) A helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a fővárosi és vármegyei kormányhivatalnak. Ha a fővárosi és vármegyei kormányhivatal az önkormányzati rendeletet vagy annak valamely rendelkezését jogszabálysértőnek találja, kezdeményezheti a bíróságnál az önkormányzati rendelet felülvizsgálatát.
+(4) A helyi önkormányzat az önkormányzati rendeletet a kihirdetését követően haladéktalanul megküldi a fővárosi és megyei kormányhivatalnak. Ha a fővárosi és megyei kormányhivatal az önkormányzati rendeletet vagy annak valamely rendelkezését jogszabálysértőnek találja, kezdeményezheti a bíróságnál az önkormányzati rendelet felülvizsgálatát.
 
-(5) A fővárosi és vármegyei kormányhivatal kezdeményezheti a bíróságnál a helyi önkormányzat törvényen alapuló rendeletalkotási vagy határozathozatali kötelezettsége elmulasztásának megállapítását. Ha a helyi önkormányzat a rendeletalkotási vagy határozathozatali kötelezettségének a bíróság által a mulasztást megállapító döntésben meghatározott időpontig nem tesz eleget, a bíróság a fővárosi és vármegyei kormányhivatal kezdeményezésére elrendeli, hogy a mulasztás orvoslásához szükséges önkormányzati rendeletet vagy önkormányzati határozatot a helyi önkormányzat nevében a fővárosi és vármegyei kormányhivatal vezetője alkossa meg.
+(5) A fővárosi és megyei kormányhivatal kezdeményezheti a bíróságnál a helyi önkormányzat törvényen alapuló rendeletalkotási vagy határozathozatali kötelezettsége elmulasztásának megállapítását. Ha a helyi önkormányzat a rendeletalkotási vagy határozathozatali kötelezettségének a bíróság által a mulasztást megállapító döntésben meghatározott időpontig nem tesz eleget, a bíróság a fővárosi és megyei kormányhivatal kezdeményezésére elrendeli, hogy a mulasztás orvoslásához szükséges önkormányzati rendeletet vagy önkormányzati határozatot a helyi önkormányzat nevében a fővárosi és megyei kormányhivatal vezetője alkossa meg.
 
 (6) A helyi önkormányzatok tulajdona köztulajdon, amely feladataik ellátását szolgálja.
 
@@ -1200,7 +1200,7 @@ l) törvényben meghatározott további feladat- és hatásköröket gyakorol.
 
 (1) A helyi önkormányzat feladat- és hatásköreit a képviselő-testület gyakorolja.
 
-(2) A helyi képviselő-testületet a polgármester vezeti. A vármegyei képviselő-testület elnökét a vármegyei képviselő-testület saját tagjai közül választja megbízatásának időtartamára.
+(2) A helyi képviselő-testületet a polgármester vezeti. A megyei képviselő-testület elnökét a megyei képviselő-testület saját tagjai közül választja megbízatásának időtartamára.
 
 (3) A képviselő-testület sarkalatos törvényben meghatározottak szerint bizottságot választhat, és hivatalt hozhat létre.
 
@@ -1210,9 +1210,9 @@ l) törvényben meghatározott további feladat- és hatásköröket gyakorol.
 
 (2) Törvény elrendelheti a helyi önkormányzat kötelező feladatának társulásban történő ellátását.
 
-(3) Törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a vármegyei képviselő-testület elnöke, valamint a képviselő-testület hivatalának vezetője vagy ügyintézője számára kivételesen államigazgatási feladat- és hatáskört is megállapíthat.
+(3) Törvény vagy törvényi felhatalmazáson alapuló kormányrendelet a polgármester, a megyei képviselő-testület elnöke, valamint a képviselő-testület hivatalának vezetője vagy ügyintézője számára kivételesen államigazgatási feladat- és hatáskört is megállapíthat.
 
-(4) A Kormány a fővárosi és vármegyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.
+(4) A Kormány a fővárosi és megyei kormányhivatal útján biztosítja a helyi önkormányzatok törvényességi felügyeletét.
 
 (5) Törvény a költségvetési egyensúly megőrzése érdekében a helyi önkormányzat törvényben meghatározott mértékű kölcsönfelvételét vagy más kötelezettségvállalását feltételhez, illetve a Kormány hozzájárulásához kötheti.
 
@@ -1698,7 +1698,7 @@ A Magyarország Alaptörvényének tizenegyedik módosításával megállapítot
 
 #### 28.
 
-A vármegyére való utalásként a megyére utaló elnevezés a 2022. december 31-én hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenegyedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.
+A megyére való utalásként a vármegyére utaló elnevezés a 2026. szeptember 30-án hatályos jogszabályi rendelkezések szerint az Alaptörvény tizenhetedik módosítása hatálybalépését követően is használható mindaddig, amíg az Alaptörvény szerinti megnevezés használatára való áttérés a felelős gazdálkodás elvei szerint meg nem valósítható.
 
 #### 29.
 

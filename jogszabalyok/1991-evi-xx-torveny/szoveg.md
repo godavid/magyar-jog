@@ -105,7 +105,7 @@ E törvény célja, hogy
 - a) az újrahasznosításra alkalmassá tett állami tulajdonban lévő földnek a települési önkormányzat tulajdonába való ingyenes átvétele;
 - b)
 
-(2) A helyi önkormányzat képviselőtestülete hatáskörébe tartozik a települési, vármegyei, fővárosi térképészeti határkiigazítás véleményezése, valamint a jogszabályban meghatározott körben a földrajzi nevek megállapítása, megváltoztatása.
+(2) A helyi önkormányzat képviselőtestülete hatáskörébe tartozik a települési, megyei, fővárosi térképészeti határkiigazítás véleményezése, valamint a jogszabályban meghatározott körben a földrajzi nevek megállapítása, megváltoztatása.
 
 #### 40. §
 
@@ -165,13 +165,13 @@ E törvény célja, hogy
 
 ### IPARI ÉS KERESKEDELMI IGAZGATÁS
 
-65. § (1) A fővárosi, a vármegyei és vármegyei jogú városi önkormányzat közgyűlése előzetesen véleményezi a területét érintő, külön jogszabályban meghatározott villamosenergia korlátozás sorrendjének megállapítását.
+65. § (1) A fővárosi, a megyei és megyei jogú városi önkormányzat közgyűlése előzetesen véleményezi a területét érintő, külön jogszabályban meghatározott villamosenergia korlátozás sorrendjének megállapítását.
 
-(2) A fővárosi, a vármegyei és megyei jogú városi önkormányzat közgyűlése a területfejlesztési koncepció alapján elkészítteti területe külön jogszabályban meghatározott energiaellátási tanulmányát.
+(2) A fővárosi, a megyei és megyei jogú városi önkormányzat közgyűlése a területfejlesztési koncepció alapján elkészítteti területe külön jogszabályban meghatározott energiaellátási tanulmányát.
 
 (3)
 
-66. § A fővárosi, a vármegyei önkormányzat közgyűlése
+66. § A fővárosi, a megyei önkormányzat közgyűlése
 
 - a) összehangolja — a kiemelt üdülőkörzetek kivételével — az idegenforgalom területi érdekeit az országos érdekekkel, gondoskodik az idegenforgalmi értékek feltárásáról, bemutatásáról, propagálásáról;
 - b) véleményt nyilvánít a kiemelt üdülőkörzetek fejlesztési koncepciójáról, programjáról;
@@ -327,7 +327,7 @@ E törvény célja, hogy
 
 #### 112. §
 
-113. § A fenntartó és a fővárosi közgyűlés jóváhagyja a vármegyei, fővárosi múzeumi szervezet éves munkatervét és költségvetési előirányzatát.
+113. § A fenntartó és a fővárosi közgyűlés jóváhagyja a megyei, fővárosi múzeumi szervezet éves munkatervét és költségvetési előirányzatát.
 
 #### 114. §
 
@@ -343,7 +343,7 @@ E törvény célja, hogy
 
 120. § A helyi önkormányzat a tulajdonában levő muzeális emlék, illetőleg levéltári anyag tekintetében a vagyon feletti rendelkezési jogát a külön jogszabályoknak a rendelkezési jog korlátozására irányuló szabályai szerint gyakorolhatja.
 
-121. § A települési önkormányzat és a vármegye önkormányzatának önként vállalt feladata lehet különösen
+121. § A települési önkormányzat és a megye önkormányzatának önként vállalt feladata lehet különösen
 
 - a) a közösségi kulturális hagyományok és értékek ápolásának, a művelődésre, társaséletre szerveződő közösségek tevékenységének, a lakosság életmódja javítását szolgáló kulturális célok megvalósításának támogatása;
 - b) a művészeti intézmények, továbbá a lakosság művészeti kezdeményezéseinek, önszerveződéseinek támogatása, a művészi alkotó munka feltételeinek javítása és a művészeti értékek létrehozásának, megőrzésének segítése;
@@ -531,11 +531,11 @@ PÉNZÜGYIGAZGATÁS
 
 (2) Ha a körzeti közszolgáltatást nyújtó — az Ötv. 107. § alapján önkormányzati tulajdonba került — intézmény tulajdonosa a körzeti feladat ellátását nem vállalja, az intézmény vagyonát köteles használatra a feladat ellátására vállalkozó önkormányzatnak, illetve más szervnek átadni.
 
-(3) Az Ötv. 107. § alapján önkormányzati tulajdonban lévő azt a vagyont (vagyonrészt), amely nem saját részére törvényben meghatározott feladat, vagy nem a polgármester, a jegyző, számára törvényben vagy kormányrendeletben meghatározott feladat, hatáskör gyakorlását szolgálja – ha az más szerv jogszabályban előírt feladatának ellátásához szükséges – a miniszter vagy a fővárosi és vármegyei kormányhivatal kezdeményezésére a feladatot ellátó szerv használatába kell átadni.
+(3) Az Ötv. 107. § alapján önkormányzati tulajdonban lévő azt a vagyont (vagyonrészt), amely nem saját részére törvényben meghatározott feladat, vagy nem a polgármester, a jegyző, számára törvényben vagy kormányrendeletben meghatározott feladat, hatáskör gyakorlását szolgálja – ha az más szerv jogszabályban előírt feladatának ellátásához szükséges – a miniszter vagy a fővárosi és megyei kormányhivatal kezdeményezésére a feladatot ellátó szerv használatába kell átadni.
 
 (4) Az (1)—(3) bekezdésen alapuló használat térítésmentes.
 
-(5) Az ingatlan vagyonnak és az Ötv. 107. § (1) bekezdésének d) pontjában említett intézmények ingó vagyonának használatra való átadásáról — vita esetén — a fővárosi és vármegyei kormányhivatal dönt.
+(5) Az ingatlan vagyonnak és az Ötv. 107. § (1) bekezdésének d) pontjában említett intézmények ingó vagyonának használatra való átadásáról — vita esetén — a fővárosi és megyei kormányhivatal dönt.
 
 146. § Ahol jogszabály a ,,községi, nagyközségi'' megjelölést használt, azon egységesen a ,,község'' megjelölést kell érteni.
 

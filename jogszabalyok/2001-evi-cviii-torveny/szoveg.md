@@ -272,7 +272,7 @@ terjedő összegű bírságot szab ki.
 
 12/C. § (1) E törvény alkalmazása során a szálláshely és a szálláshely-szolgáltatás alatt a kereskedelemről szóló 2005. évi CLXIV. törvényben meghatározottakat kell érteni. E törvény alkalmazásában szálláshely-szolgáltató a szálláshely-szolgáltatást végző magyarországi lakóhellyel rendelkező magánszemély és magyarországi székhelyű vállalkozás.
 
-(2) Az online szálláshely-közvetítő magyar nyelvű, élőhangos ügyintézést lehetővé tevő telefonos vagy emberi közreműködéssel működő, elektronikus eléréssel rendelkező ügyfélszolgálatot és panaszkezelési mechanizmust működtet, ha a szolgáltatása Magyarországon legalább három vármegye területére irányul.
+(2) Az online szálláshely-közvetítő magyar nyelvű, élőhangos ügyintézést lehetővé tevő telefonos vagy emberi közreműködéssel működő, elektronikus eléréssel rendelkező ügyfélszolgálatot és panaszkezelési mechanizmust működtet, ha a szolgáltatása Magyarországon legalább három megye területére irányul.
 
 (3) A szálláshely-szolgáltatótól beérkezett panaszt az online szálláshely-közvetítő 30 napon belül érdemben megválaszolja.
 

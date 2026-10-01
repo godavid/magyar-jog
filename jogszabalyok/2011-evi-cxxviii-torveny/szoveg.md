@@ -250,7 +250,7 @@ Az Országgyűlés, a lakosság biztonságának és biztonságérzetének növel
 22. § (1) A katasztrófavédelem megvalósításában részt vevő hivatásos katasztrófavédelmi szerv:
 
 - a) az országos illetékességgel működő központi szerv,
-- b) a vármegyei, fővárosi illetékességgel működő területi szervek,
+- b) a megyei, fővárosi illetékességgel működő területi szervek,
 - c) helyi szervek a katasztrófavédelmi kirendeltségek és a hivatásos tűzoltóságok.
 
 (2) A hivatásos katasztrófavédelmi szerv államigazgatási feladatot is ellátó rendvédelmi szerv, amelynek tagjai hivatásos állományúak, rendvédelmi alkalmazottak, munkavállalók és tisztjelöltek.
@@ -774,7 +774,7 @@ lehet.
 
 #### 73. §
 
-74. § Az Országgyűlés a helyi önkormányzatok számára biztosítja a vármegyei közgyűlés elnöke, a főpolgármester és a polgármester katasztrófavédelmi feladatának ellátásához szükséges anyagi feltételeket.
+74. § Az Országgyűlés a helyi önkormányzatok számára biztosítja a megyei közgyűlés elnöke, a főpolgármester és a polgármester katasztrófavédelmi feladatának ellátásához szükséges anyagi feltételeket.
 
 75. § (1) A munkahelyi polgári védelmi szervezetek létrehozásával, működésével és fenntartásával összefüggő kiadások fedezete a gazdálkodó szervezetet terheli.
 
@@ -842,7 +842,7 @@ bárki számára nyilvánvalóan észlelhető módon képfelvevőt helyezhet el,
 
 (6) Az (1) bekezdésben és a (2) bekezdés d) pontjában foglaltak alapján készített felvételek kizárólag anonimizált formában mutathatóak be oktatási célból vagy hozhatóak nyilvánosságra.
 
-(7) Az (1) és (2) bekezdés alapján készített felvétel egyedi ügyhöz kapcsolódó adatkérés alapján – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, közigazgatási hatósági, valamint nemzetbiztonsági feladatok ellátása céljából – nyomozó hatóság, szabálysértési hatóság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, bíróság, nemzetbiztonsági szolgálat, terrorizmust elhárító szerv, közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság részére továbbítható. A felvétel a jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy részére is továbbítható, adatigénylési kérelem alapján.
+(7) Az (1) és (2) bekezdés alapján készített felvétel egyedi ügyhöz kapcsolódó adatkérés alapján – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, közigazgatási hatósági, valamint nemzetbiztonsági feladatok ellátása céljából – nyomozó hatóság, szabálysértési hatóság, ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, bíróság, nemzetbiztonsági szolgálat, a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szerv, közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság részére továbbítható. A felvétel a jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy részére is továbbítható, adatigénylési kérelem alapján.
 
 (8) A felvételt, ha arra az (5) bekezdésben megjelölt eljárás lefolytatásához vagy az ott meghatározott célból nincs szükség, harminc napon belül törölni kell.
 

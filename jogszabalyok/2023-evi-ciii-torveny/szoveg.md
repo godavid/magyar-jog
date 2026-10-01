@@ -288,8 +288,9 @@ szerepel, akkor a nyilvántartást vezető szerv a 43. § (2) bekezdése szerint
 - c) az ügyészségnek az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
 - e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, kormányrendeletben kijelölt szerv a belső bűnmegelőzési és bűnfelderítési feladatai ellátása céljából,
-- f) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+- f) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott bűncselekmények megszakítása céljából,
 - g) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
+- h) az általános rendőrségi feladatok ellátására létrehozott szervnek személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
 
 13/A. § A közhiteles nyilvántartást vezető szervezet, valamint a digitális szolgáltatást biztosító szervezet a digitális állampolgár azonosítót a felhasználó azonosítása, valamint az általa a digitális térben nyújtott szolgáltatások biztosítása céljából kezelheti.
 
@@ -774,8 +775,9 @@ tartalmazza. Az ügyfél-regisztrációs nyilvántartás tartalmazhatja az elekt
 - b) a nyomozó hatóságnak bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - c) az ügyészségnek az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
-- e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése illetve megszakítása, továbbá elhárítási, információszerzési személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+- e) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott bűncselekmények megszakítása céljából,
 - f) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
+- g) az általános rendőrségi feladatok ellátására létrehozott szervnek személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
 
 (8) A természetes személy adatait az ügyfél-regisztrációs szerv a regisztráció megszűnését követő 5 év elteltével zárolja, ezt követően azokat kizárólag az elektronikus azonosítás hitelességének visszavezethetősége, a polgárok jogai és jogos érdekeinek védelme érdekében, az általános szerződési feltételeiben meghatározott időpontig, de legalább a regisztráció megszűnését követő 10 évig, legfeljebb a regisztráció megszűnését követő 50 évig kezeli.
 
@@ -1168,8 +1170,9 @@ kormányrendelet állapítja meg.
 - b) a nyomozó hatóságnak bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - c) az ügyészségnek az ügyészségről szóló törvényben meghatározott közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatoknak feladataik teljesítése céljából,
-- e) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnek a terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá elhárítási, információszerzési, valamint kiemelt személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
+- e) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott bűncselekmények megszakítása céljából,
 - f) az NVVH-nak bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából.
+- g) az általános rendőrségi feladatok ellátására létrehozott szervnek személyvédelmi és létesítménybiztosítási feladatai ellátása céljából.
 
 70. § (1) A 69. § (3)–(5) bekezdése szerinti szervek a külföldi személyek nyilvántartásából díjmentesen igényelhetnek adatot.
 
@@ -1530,7 +1533,7 @@ kell alkalmazni.
 
 ### XVII. Fejezet — A BIZALMI SZOLGÁLTATÓ ADATSZOLGÁLTATÁSI KÖTELEZETTSÉGE
 
-94. § (1) A bizalmi szolgáltató az általa nyújtott bizalmi szolgáltatások felhasználásával elkövetett bűncselekményekkel kapcsolatos büntetőeljárás lefolytatása céljából, vagy nemzetbiztonsági érdekből – az érintett személyazonosságát igazoló, valamint a 85. § alapján egyeztetett adatok tekintetében – az adatigénylés feltételeinek teljesülése esetén díjmentesen adatokat továbbít a nyomozó hatóságnak, az ügyészségnek, az NVVH-nak, a bíróságnak, a nemzetbiztonsági szolgálatoknak és a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek. Az adatátadás tényét rögzíteni kell, az adatátadásról a bizalmi szolgáltató az igénybe vevőt nem tájékoztathatja.
+94. § (1) A bizalmi szolgáltató az általa nyújtott bizalmi szolgáltatások felhasználásával elkövetett bűncselekményekkel kapcsolatos büntetőeljárás lefolytatása céljából, vagy nemzetbiztonsági érdekből – az érintett személyazonosságát igazoló, valamint a 85. § alapján egyeztetett adatok tekintetében – az adatigénylés feltételeinek teljesülése esetén díjmentesen adatokat továbbít a nyomozó hatóságnak, az ügyészségnek, az NVVH-nak, a bíróságnak és a nemzetbiztonsági szolgálatoknak, továbbá a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában szereplő feladat ellátása céljából az általános rendőrségi feladatok ellátására létrehozott szervnek. Az adatátadás tényét rögzíteni kell, az adatátadásról a bizalmi szolgáltató az igénybe vevőt nem tájékoztathatja.
 
 (2) A bizalmi szolgáltató az (1) bekezdésben meghatározott kötelezettségeknek haladéktalanul köteles eleget tenni, és az adatok továbbítását nem kötheti egyéb feltételhez, így különösen az adatszolgáltatás költségeiben való megállapodáshoz vagy a költségek előlegezéséhez.
 

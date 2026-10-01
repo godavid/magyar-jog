@@ -29,7 +29,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - c) a pénzletétkezelésre, ha annak üzletszerű végzéséről jogszabály rendelkezik,
 - d) a nem pénzügyi intézmény által történő vámkezesség nyújtására, továbbá a vámigazgatási eljárásban a közvetett képviselő által a vámfizetési kötelezettség teljesítése érdekében végzett pénzügyi szolgáltatásra,
 - e) a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalványra, valamint
-- f) a Magyar Vállalkozásfejlesztési Alapítvány Országos Mikrohitel Alapból történő pénzkölcsön nyújtási tevékenységére, valamint a vármegyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységére.
+- f) a Magyar Vállalkozásfejlesztési Alapítvány Országos Mikrohitel Alapból történő pénzkölcsön nyújtási tevékenységére, valamint a megyei és fővárosi vállalkozásfejlesztési alapítványok mikrohitelezési tevékenységére.
 
 (2) E törvény hatálya nem terjed ki:
 
@@ -3306,7 +3306,8 @@ szerzett.
 - e) Gazdasági Versenyhivatallal,
 - f) kormányzati ellenőrzési szervvel,
 - g) vagyonellenőrrel,
-- h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel
+- h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel, valamint
+- i) a terrorcselekmények felderítési feladatait végző általános rendőrségi feladatok ellátására létrehozott szervvel
 
 szemben.
 
@@ -3436,7 +3437,7 @@ szemben e szerveknek a pénzügyi intézményhez intézett adatkérése, illetve
 
 van összefüggésben.
 
-(2) Az (1) bekezdésben foglalt rendelkezést a rendőrségről szóló törvényben meghatározott terrorizmust elhárító, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörükbe tartozó bűncselekményekkel összefüggő adatok tekintetében kell alkalmazni.
+(2) Az (1) bekezdésben foglalt rendelkezést a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervre a hatáskörébe tartozó bűncselekményekkel összefüggő adatok tekintetében kell alkalmazni.
 
 (3) A pénzügyi intézmény a megkeresések teljesítése során a minősített adat védelméről szóló törvényben és egyéb, a minősített adat kezelésére vonatkozó jogszabályokban előírt követelmények betartásával jár el.
 
@@ -5691,6 +5692,8 @@ vonatkozó részletes szabályokat.
 (8) Az a közvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a 74. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat közvetítővel, közvetítői alvállalkozóval.
 
 (9)
+
+(9) A hitelintézet 2026. november 30-tól 2027. május 15-ig jogosult az iskolakezdési utalványról szóló kormányrendeletben foglaltaknak megfelelően iskolakezdési utalvány beváltására.
 
 293. § (1) A 279. § (4)–(6) és (8)–(16) bekezdését a 2009. augusztus 1-je előtt fogyasztóval kötött kölcsönszerződés vagy pénzügyi lízingszerződés módosítása esetén is alkalmazni kell a (2) bekezdésben meghatározott eltéréssel.
 

@@ -2585,9 +2585,10 @@ személy vagy bármely más személy, aki valamilyen módon birtokába jutott, a
 - f) Gazdasági Versenyhivatallal,
 - g) a központi költségvetési pénzeszközök felhasználásának szabályszerűségét és célszerűségét ellenőrző, kormányzati ellenőrzési szervvel,
 - h) nemzetbiztonsági szolgálattal,
-- i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szervvel,
-- j) pénzügyi információs egységként működő hatósággal
+- i) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervvel,
+- j) pénzügyi információs egységként működő hatósággal,
 - k) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal (a továbbiakban: NVVH)
+- l) a terrorcselekmények felderítési feladatait végző általános rendőrségi feladatok ellátására létrehozott szervvel
 
 szemben.
 

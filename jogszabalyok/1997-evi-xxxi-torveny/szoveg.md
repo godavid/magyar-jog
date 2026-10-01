@@ -14,7 +14,7 @@ Az Országgyűlés a jövő nemzedékért érzett felelősségtől vezérelve a 
 
 (2) A törvény meghatározza az (1) bekezdésben megjelölt célok elérése érdekében a gyermekek alapvető jogait és e jogok érvényesítésének garanciáit, a gyermekek védelmének rendszerét, alapvető szabályait.
 
-2. § (1) A gyermekek védelmét ellátó helyi önkormányzatok, gyámhatóság, bíróságok, rendőrség, ügyészség, pártfogó felügyelői szolgálatként eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: pártfogó felügyelői szolgálat), más szervezetek és személyek e törvény alkalmazása során a gyermek mindenek felett álló érdekét figyelembe véve, törvényben elismert jogait biztosítva járnak el.
+2. § (1) A gyermekek védelmét ellátó helyi önkormányzatok, gyámhatóság, bíróságok, rendőrség, ügyészség, pártfogó felügyelői szolgálatként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: pártfogó felügyelői szolgálat), más szervezetek és személyek e törvény alkalmazása során a gyermek mindenek felett álló érdekét figyelembe véve, törvényben elismert jogait biztosítva járnak el.
 
 (2) Az (1) bekezdésben foglaltak szerint eljáró szervezetek és személyek tevékenységük során együttműködnek a családdal és – jogszabályban meghatározottak szerint – elősegítik a gyermek családban történő nevelkedését.
 
@@ -64,7 +64,7 @@ betöltötte, azonban a 18. – javítóintézetben történő nevelése esetén
 - h) gyermeki jogok: az Alaptörvényben, a Gyermek jogairól szóló, New Yorkban, 1989. november 20-án kelt Egyezmény kihirdetéséről szóló 1991. évi LXIV. törvényben és más törvényekben megfogalmazott, a gyermeket megillető jogok összessége,
 - i) ellátás: a jogszabályban meghatározott pénzbeli, természetbeni, valamint személyes gondoskodást nyújtó alapellátás és szakellátás, továbbá a javítóintézeti ellátás,
 - j) természetbeni ellátás: olyan támogatás, amellyel a gyermeket alapvető szükségleteinek kielégítésében az állam (önkormányzat) anyagi javak biztosításával, szolgáltatások kifizetésével és nyújtásával segíti,
-- k) gyámhatóság: a fővárosi és vármegyei kormányhivatal, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a települési önkormányzat jegyzője, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző,
+- k) gyámhatóság: a fővárosi és megyei kormányhivatal, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a települési önkormányzat jegyzője, valamint a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző,
 - l) gyámügy: a jogszabály által a gyámhatóság feladat- és hatáskörébe utalt ügyek köre,
 - m) gyermekvédelmi gondoskodás: az e törvényben meghatározottak szerint elrendelt hatósági intézkedésen alapuló ellátás és védelem,
 - n) veszélyeztetettség: olyan – a gyermek vagy más személy által tanúsított – magatartás, mulasztás vagy körülmény következtében kialakult állapot, amely a gyermek testi, értelmi, érzelmi vagy erkölcsi fejlődését gátolja vagy akadályozza,
@@ -321,7 +321,7 @@ kezeli a gyermekvédelmi intézményben foglalkoztatottnak és a pályázónak a
 
 (1a) A gyermek bántalmazással szembeni védelemhez való jogának érvényesítése érdekében a gyermek számára gyermekjóléti alapellátást vagy gyermekvédelmi szakellátást biztosító, továbbá a gyermek törvényes képviseletének ellátásával, ügyeinek intézésével foglalkozó szervek és személyek a gyermekek és az ifjúság védelméért felelős miniszter (a továbbiakban: miniszter) által jóváhagyott, a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) honlapján közzétett egységes elvek és módszertan (a továbbiakban: gyermekbántalmazás elleni módszertan) alkalmazásával járnak el.
 
-(1b) A gyermek bántalmazással szembeni védelemhez való jogának érvényesítése érdekében a gyermekvédelmi szakellátást nyújtó intézményben és a javítóintézetben felmerült gyermekbántalmazási esetek kivizsgálása és kezelése a miniszter és a javítóintézetek tekintetében a büntetés-végrehajtásért felelős miniszter által jóváhagyott, a minisztérium honlapján közzétett intézményi, fenntartói és ágazati módszertan (a továbbiakban: gyermekbántalmazás kivizsgálásának módszertana) alapján történik.
+(1b) A gyermek bántalmazással szembeni védelemhez való jogának érvényesítése érdekében a gyermekvédelmi szakellátást nyújtó intézményben és a javítóintézetben felmerült gyermekbántalmazási esetek kivizsgálása és kezelése a miniszter által jóváhagyott, a minisztérium honlapján közzétett intézményi, fenntartói és ágazati módszertan (a továbbiakban: gyermekbántalmazás kivizsgálásának módszertana) alapján történik.
 
 (2) A gyermekvédelmi gyám a gyámhatóság kirendelő határozata alapján
 
@@ -552,7 +552,7 @@ gyakorolja.
 - k) a foglalkoztatás-felügyeleti hatóság,
 - l) a javítóintézet,
 - m) a gyermekjogi képviselő,
-- n) a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal,
+- n) a gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal,
 - o) az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv.
 - p) a települési önkormányzat jegyzője,
 - q) a büntetés-végrehajtási intézet,
@@ -594,7 +594,7 @@ gyakorolja.
 
 (5) A gyámhatóság a (4) bekezdésben foglaltakkal egyidejűleg egyeztető megbeszélést tart és a gyermekjóléti szolgáltatást nyújtó szolgáltatónál kezdeményezi a külön jogszabály szerinti esetmegbeszélés megtartását.
 
-(6) A fővárosi, vármegyei kormányhivatal szakmai támogatást nyújt a család- és gyermekjóléti központok járási jelzőrendszeri tanácsadóinak, valamint évente egyszer összehívja őket és közösen értékelik a vármegye gyermekvédelmi jelzőrendszerének működését.
+(6) A fővárosi, megyei kormányhivatal szakmai támogatást nyújt a család- és gyermekjóléti központok járási jelzőrendszeri tanácsadóinak, valamint évente egyszer összehívja őket és közösen értékelik a megye gyermekvédelmi jelzőrendszerének működését.
 
 (7) A szociálpolitikai feladatok ellátására a Kormány rendeletében kijelölt szerv gondoskodik a jelzőrendszer hatékony működését és fejlesztését szolgáló
 
@@ -1380,7 +1380,7 @@ adatokat.
 
 (3) Elfogult az a család- és gyermekjóléti szolgáltatást nyújtó személy, akitől nem várható el az eset tárgyilagos megítélése.
 
-(4) Az összeférhetetlenséggel vagy elfogultsággal érintett személy, vagy a szolgálat, központ vezetője köteles azt bejelenteni az ok tudomására jutásától számított 5 munkanapon belül a család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ székhelye szerint illetékes fővárosi és vármegyei kormányhivatalnak. A szolgáltatás igénybe vevője az összeférhetetlenséget vagy elfogultságot bármikor bejelentheti a család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ székhelye szerint illetékes fővárosi és vármegyei kormányhivatalnak. A fővárosi és vármegyei kormányhivatal megvizsgálja a bejelentés megalapozottságát, és ha szükséges, kijelöli az e Fejezet szerinti feladatokat ellátó szolgálatot, központot vagy személyt.
+(4) Az összeférhetetlenséggel vagy elfogultsággal érintett személy, vagy a szolgálat, központ vezetője köteles azt bejelenteni az ok tudomására jutásától számított 5 munkanapon belül a család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ székhelye szerint illetékes fővárosi és megyei kormányhivatalnak. A szolgáltatás igénybe vevője az összeférhetetlenséget vagy elfogultságot bármikor bejelentheti a család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ székhelye szerint illetékes fővárosi és megyei kormányhivatalnak. A fővárosi és megyei kormányhivatal megvizsgálja a bejelentés megalapozottságát, és ha szükséges, kijelöli az e Fejezet szerinti feladatokat ellátó szolgálatot, központot vagy személyt.
 
 (5) Az összeférhetetlenséggel vagy elfogultsággal érintett szolgáltatást nyújtó személy az igénybe vevő felé fennálló tájékoztatási kötelezettségének köteles eleget tenni az összeférhetetlenség, elfogultság fennállása esetén is.
 
@@ -1978,7 +1978,7 @@ feltéve, hogy személyében, valamint körülményeiben alkalmas e feladatok v�
 
 (6) A gyermekotthon alaptevékenységével összhangban – a fenntartó egyetértésével – szolgáltatást végezhet a lakosság számára, így különösen biztosíthatja a gyermekek vagy várandós anyák átmeneti gondozását, azonban a gyermekotthon szolgáltatása nem veszélyeztetheti az (1) és (2) bekezdésben meghatározott alapfeladatainak ellátását.
 
-58. § (1) A speciális gyermekotthon, a speciális lakásotthon, a gyermekotthon speciális csoportja vagy a gyermekotthon az ideiglenes hatállyal elhelyezett vagy a nevelésbe vett súlyos pszichés vagy súlyos disszociális tüneteket mutató, pszichoaktív szert használó, emberkereskedelem feltételezett áldozatává vált és a kettős szükségletű gyermekeknek nyújt gondoskodást, szocializációt és reszocializációt, valamint habilitációt és rehabilitációt. A speciális gyermekotthon legfeljebb 90 napra befogadja a rendőrség általános védelmi intézkedése alapján a fővárosi, vármegyei gyermekvédelmi szakértői bizottság véleménye hiányában is
+58. § (1) A speciális gyermekotthon, a speciális lakásotthon, a gyermekotthon speciális csoportja vagy a gyermekotthon az ideiglenes hatállyal elhelyezett vagy a nevelésbe vett súlyos pszichés vagy súlyos disszociális tüneteket mutató, pszichoaktív szert használó, emberkereskedelem feltételezett áldozatává vált és a kettős szükségletű gyermekeknek nyújt gondoskodást, szocializációt és reszocializációt, valamint habilitációt és rehabilitációt. A speciális gyermekotthon legfeljebb 90 napra befogadja a rendőrség általános védelmi intézkedése alapján a fővárosi, megyei gyermekvédelmi szakértői bizottság véleménye hiányában is
 
 - a) az ideiglenes hatállyal elhelyezett, továbbá
 - b) a már nevelésbe vett és ideiglenes gondozási hellyel vagy gondozási hellyel rendelkező
@@ -1994,7 +1994,7 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 - a) a gyermek terápiájának, a tanítási évnek vagy a gyermek képzésben való részvételének a befejezésére tekintettel, legfeljebb egy évvel meghaladhatja a két évet, vagy
 - b) a speciális szükséglet fennállásáig meghosszabbodhat.
 
-(5) A speciális gyermekotthon a szükséges személyi és tárgyi feltételek megléte esetén bentlakásos ellátás keretében végezheti a vármegyei, fővárosi gyermekvédelmi szakértői bizottság felkérésére a gyermek személyiségvizsgálatát.
+(5) A speciális gyermekotthon a szükséges személyi és tárgyi feltételek megléte esetén bentlakásos ellátás keretében végezheti a megyei, fővárosi gyermekvédelmi szakértői bizottság felkérésére a gyermek személyiségvizsgálatát.
 
 (6) A különleges ellátást igénylő gyermek és a kettős szükségletű gyermek gondozását, ellátását, habilitációját és rehabilitációját – az Nktv. szerinti szakértői bizottság fogyatékosságra vonatkozó véleménye alapján – az erre a célra létrehozott különleges gyermekotthon, gyermekotthon vagy gyermekotthoni csoport biztosítja, feltéve, ha a gyermek nevelőszülőnél történő elhelyezése nem oldható meg és állapota nem indokolja a fogyatékosok vagy pszichiátriai betegek otthonában, az Szt. 75. §-a szerinti támogatott lakhatásban való elhelyezését, vagy az elhelyezés férőhely hiányában nem lehetséges.
 
@@ -2058,7 +2058,7 @@ közreműködhet.
 
 62/A. § A gyermekvédelmi szakszolgáltatás a titkos örökbefogadás előkészítése érdekében
 
-- a) – a vármegyei, fővárosi gyermekvédelmi szakértői bizottság 82. § (5) bekezdése szerinti véleménye figyelembevételével – kiválasztja a gyermek számára a legmegfelelőbb, érvényes alkalmassági határozattal rendelkező örökbe fogadó házaspárt, törvényben meghatározott esetben egyedül örökbe fogadó szülőt (a továbbiakban együtt: örökbe fogadó szülő),
+- a) – a megyei, fővárosi gyermekvédelmi szakértői bizottság 82. § (5) bekezdése szerinti véleménye figyelembevételével – kiválasztja a gyermek számára a legmegfelelőbb, érvényes alkalmassági határozattal rendelkező örökbe fogadó házaspárt, törvényben meghatározott esetben egyedül örökbe fogadó szülőt (a továbbiakban együtt: örökbe fogadó szülő),
 - b) felkészíti a gyermeket, a gyermek gondozási helyét és az örökbe fogadni szándékozó személyt az örökbefogadásra,
 - c) segíti a szülő-gyermek kapcsolat kialakulását, ennek érdekében javaslatot tesz a gyermek örökbefogadó szülőhöz történő kötelező gondozásba történő kihelyezésére és figyelemmel kíséri azt,
 - d) javaslatot tesz az örökbefogadás engedélyezésére.
@@ -2110,7 +2110,7 @@ közreműködhet.
 
 66. § (1) Az állam fenntartói feladatainak ellátására a Kormány rendeletében kijelölt szerv a gyermekvédelmi szakszolgáltatás
 
-- a) 60. § (3) bekezdés a) pontjában meghatározott feladatait a vármegyei, fővárosi gyermekvédelmi szakértői bizottság útján,
+- a) 60. § (3) bekezdés a) pontjában meghatározott feladatait a megyei, fővárosi gyermekvédelmi szakértői bizottság útján,
 - b) a) pontban nem említett feladatait, gyermekvédő intézet vagy más szakszolgáltatást nyújtó intézmény (a továbbiakban együtt: területi gyermekvédelmi szakszolgálat) működtetésével
 
 biztosítja.
@@ -2399,16 +2399,13 @@ a nevelőszülőnek a végkielégítés megállapítását megelőző három év
 
 (7) A (6) bekezdés b) pontja szerinti esetben a fiatalkorú utazási és étkezési költségét a javítóintézet biztosítja.
 
-(8) A javítóintézetben a bűncselekmények elkövetésének a megelőzésében – hivatásos állományú rendőr szolgálatellátása útján – az általános rendőrségi feladatok ellátására létrehozott szerv közreműködhet.
+(8)
 
-(9) A (8) bekezdés szerinti esetben
+(9)
 
-- a) a szolgálatellátás nem irányulhat a (8) bekezdésben meghatározott feladatok ellátásával össze nem függő tevékenységre, és
-- b) a szolgálatellátáshoz szükséges, térítés nélkül átadásra kerülő tárgyi eszközök, valamint a biztosított helyiségek használatára és visszavételére vonatkozó rendelkezéseket az általános rendőrségi feladatok ellátására létrehozott szerv és a javítóintézet között létrejött együttműködési megállapodásban kell rögzíteni.
+(10)
 
-(10) Az általános rendőrségi feladatok ellátására létrehozott szerv a javítóintézetben folyamatos bűnmegelőzési célú rendőri felügyeletet biztosít, amelynek keretében rendszeres bűnmegelőzési tájékoztatást tart a javítóintézet, valamint a javítóintézetben neveltek számára létrehozott köznevelési intézmény dolgozói számára a javítóintézeti ellátottakkal szemben alkalmazható intézkedésekről és a velük való jogszerű bánásmódról.
-
-(11) A (10) bekezdés szerinti tevékenység keretében biztosítani kell, hogy a javítóintézeti ellátottak a rendőrnek – a javítóintézet alkalmazottainak jelenléte, tudomása vagy jóváhagyása nélkül – zavartalanul beszámolhassanak az őket ért jogsértésekről.
+(11)
 
 ### A javítóintézet alapdokumentumai
 
@@ -2427,7 +2424,17 @@ a nevelőszülőnek a végkielégítés megállapítását megelőző három év
 
 szakmai szempontjait és módszereit.
 
-#### 66/O. §
+### A javítóintézeti tanács
+
+66/O. § (1) A javítóintézeti tanács a Bv. tv. 347/A. § (3) és (4) bekezdésében meghatározott feladatkörben eljáró szakmai és döntés-előkészítő testület.
+
+(2) A javítóintézeti tanács elnöke a javítóintézet igazgatója. A javítóintézeti tanács tagja valamennyi igazgatóhelyettes, valamennyi otthonvezető, az oktatási, foglalkoztatási és munkafoglalkoztatási szakterület vezetője, a növendékügyi iroda vezetője vagy előadója, a fiatalkorú csoportvezető nevelője vagy nevelője, osztályfőnöke, szakoktatója vagy munkavezetője, a munkafoglalkoztatás vezetője, a szakértői csoport vezetője, az egészségügyi szakterület képviselője, a pszichológus, a mentálhigiénés munkatárs és az utógondozó.
+
+(3) A javítóintézeti tanács legalább öt fő részvétele esetén határozatképes.
+
+(4) A javítóintézeti tanácsot a javítóintézet igazgatója hívja össze. A javítóintézeti tanács összehívását bármelyik tag kezdeményezheti.
+
+(5) A javítóintézeti tanács működésének részletes szabályait a szervezeti és működési szabályzatban kell meghatározni.
 
 ### A javítóintézetben ellátott fiatalkorú és gyermeke együttes elhelyezése
 
@@ -2893,7 +2900,7 @@ egy eljárás keretében, negyvenöt napon belül, azonnal végrehajthatóvá ny
 
 ### A gondozási hely meghatározása és a járulékos kérdések eldöntése
 
-79. § (1) A gyámhatóság lehetőség szerint már az ideiglenes hatályú elhelyezést követően vagy a nevelésbe vételi eljárás során, de legkésőbb a nevelésbe vétel kezdő időpontját követő negyvenöt napon belül meghatározza a gyermek gondozási helyét. A gyermek gondozási helyét a vármegyei, fővárosi gyermekvédelmi szakértői bizottság, valamint a 132. § (1) bekezdésében meghatározott szerv vagy személy szakmai véleményének, szakértői véleményének, a területi gyermekvédelmi szakszolgálat által készített elhelyezési javaslatnak és egyéni elhelyezési tervnek, továbbá a (3) és (4) bekezdés szerinti szempontok mérlegelésével kell meghatározni.
+79. § (1) A gyámhatóság lehetőség szerint már az ideiglenes hatályú elhelyezést követően vagy a nevelésbe vételi eljárás során, de legkésőbb a nevelésbe vétel kezdő időpontját követő negyvenöt napon belül meghatározza a gyermek gondozási helyét. A gyermek gondozási helyét a megyei, fővárosi gyermekvédelmi szakértői bizottság, valamint a 132. § (1) bekezdésében meghatározott szerv vagy személy szakmai véleményének, szakértői véleményének, a területi gyermekvédelmi szakszolgálat által készített elhelyezési javaslatnak és egyéni elhelyezési tervnek, továbbá a (3) és (4) bekezdés szerinti szempontok mérlegelésével kell meghatározni.
 
 (2) A gondozási hely meghatározására irányuló eljárás során a gyámhatóság meghallgatja a gyermek szülőjét, feltéve hogy szülői felügyeleti jogát nem szüntették meg, és a gyámhatóság tárgyalást tart.
 
@@ -2915,10 +2922,10 @@ egy eljárás keretében, negyvenöt napon belül, azonnal végrehajthatóvá ny
 - c) a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartásról,
 - d) a gyermekre vonatkozó elhelyezési javaslat és egyéni elhelyezési terv elfogadásáról vagy módosításáról,
 - e) a gyermek után fizetendő gondozási díjról,
-- f) a (6) bekezdésben foglaltak figyelembevételével a gyermek ellátási szükségletéről, valamint ha a gyermek személyes szabadságának negyvennyolc órát meghaladó korlátozását az országos vagy a vármegyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javasolta, a nevelési felügyelet elrendeléséről vagy annak mellőzéséről,
+- f) a (6) bekezdésben foglaltak figyelembevételével a gyermek ellátási szükségletéről, valamint ha a gyermek személyes szabadságának negyvennyolc órát meghaladó korlátozását az országos vagy a megyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javasolta, a nevelési felügyelet elrendeléséről vagy annak mellőzéséről,
 - g) a (7) bekezdésben foglalt feltételek fennállása esetén a gyermek örökbe fogadhatóságáról [a b)–g) pontban foglaltak a továbbiakban együtt: járulékos kérdések].
 
-(6) A gyámhatóság a gyermek ellátási szükségletét a vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye mérlegelésével állapítja meg. Három év alatti gyermek esetében a különleges ellátási szükséglet megállapításához nem szükséges a vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye.
+(6) A gyámhatóság a gyermek ellátási szükségletét a megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye mérlegelésével állapítja meg. Három év alatti gyermek esetében a különleges ellátási szükséglet megállapításához nem szükséges a megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleménye.
 
 (7) A gyámhatóság akkor állapítja meg, hogy a nevelésbe vett gyermek örökbe fogadható, ha
 
@@ -2968,9 +2975,9 @@ egy eljárás keretében, negyvenöt napon belül, azonnal végrehajthatóvá ny
   - bb) a felülvizsgálatot indokoló egyéb körülmény jut a tudomására.
   - bc) a gyermek hat hónapot meghaladó időtartamban van engedély nélkül távol a gondozási helyétől.
 
-(5) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt az egyéni elhelyezési terv fenntartásáról vagy módosításáról, illetve – szükség szerint a vármegyei, fővárosi gyermekvédelmi szakértői bizottság véleményének beszerzésével és mérlegelésével – a gyermek gondozási helyének megváltoztatásáról.
+(5) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt az egyéni elhelyezési terv fenntartásáról vagy módosításáról, illetve – szükség szerint a megyei, fővárosi gyermekvédelmi szakértői bizottság véleményének beszerzésével és mérlegelésével – a gyermek gondozási helyének megváltoztatásáról.
 
-(5a) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt a nevelési felügyelet elrendeléséről vagy annak mellőzéséről, ha a gyermek személyes szabadságának negyvennyolc órát meghaladó korlátozását az országos vagy a vármegyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javasolta.
+(5a) A gyámhatóság a nevelésbe vétel felülvizsgálata során dönt a nevelési felügyelet elrendeléséről vagy annak mellőzéséről, ha a gyermek személyes szabadságának negyvennyolc órát meghaladó korlátozását az országos vagy a megyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javasolta.
 
 (6) Ha a területi gyermekvédelmi szakszolgálat és a 141/E. § (1) bekezdése szerinti örökbefogadási alrendszer – a nyilvántartott adatai, a gyermek életkora, egészségi állapota és egyéb körülményei figyelembevételével adott – tájékoztatása alapján a gyermek örökbefogadására reális esély van, a gyámhatóság megindítja az örökbe fogadhatóvá nyilvánítás iránti eljárást.
 
@@ -3042,7 +3049,7 @@ korlátozhatja a gyermek személyes szabadságát.
 
 (6) Ha a gyermek egészségi vagy pszichés állapota tette szükségessé a személyes szabadság korlátozását, a gyermekotthon vezetője haladéktalanul gondoskodik a gyermek orvosi vizsgálatáról és az egészségügyi ellátáshoz való hozzájutásáról.
 
-(7) A személyes szabadság korlátozásának elrendeléséről a speciális gyermekotthon vezetője haladéktalanul, de legkésőbb harminchat órán belül értesíti a gyermekvédelmi gyámot, a gyermekjogi képviselőt, a vármegyei, fővárosi gyermekvédelmi szakértői bizottságot és a gyámhatóságot.
+(7) A személyes szabadság korlátozásának elrendeléséről a speciális gyermekotthon vezetője haladéktalanul, de legkésőbb harminchat órán belül értesíti a gyermekvédelmi gyámot, a gyermekjogi képviselőt, a megyei, fővárosi gyermekvédelmi szakértői bizottságot és a gyámhatóságot.
 
 (8) A gyermek, a gyermekvédelmi gyám vagy a gyermekjogi képviselő panasszal élhet a személyes szabadság korlátozásával szemben a speciális gyermekotthon, a speciális lakásotthon, a speciális csoporttal rendelkező gyermekotthon fenntartójánál. A gyermekvédelmi gyám és a gyermekjogi képviselő a panaszt annak megtételével egyidejűleg tájékoztatásul megküldi a gyámhatóságnak. A gyermek által tett panaszt a fenntartó a panasz beérkezését követően haladéktalanul tájékoztatásul megküldi a gyámhatóságnak.
 
@@ -3054,7 +3061,7 @@ korlátozhatja a gyermek személyes szabadságát.
 
 81/B. § (1) Ha a gyermek személyes szabadságának korlátozása előreláthatólag negyvennyolc órát meghaladóan szükséges, és
 
-- a) erre a gondozási hely meghatározására vagy megváltoztatására irányuló eljárásban az országos vagy a vármegyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javaslatot tett, a gyámhatóság a gondozási hely meghatározásával egyidejűleg dönt a nevelési felügyelet elrendeléséről vagy annak mellőzéséről, vagy
+- a) erre a gondozási hely meghatározására vagy megváltoztatására irányuló eljárásban az országos vagy a megyei, fővárosi gyermekvédelmi szakértői bizottság a szakmai véleményében javaslatot tett, a gyámhatóság a gondozási hely meghatározásával egyidejűleg dönt a nevelési felügyelet elrendeléséről vagy annak mellőzéséről, vagy
 - b) a gyermek személyes szabadságának 81/A. § szerinti korlátozására már sor került, a speciális gyermekotthon vezetője kezdeményezi a gyámhatóságnál a gyermek nevelési felügyeletének elrendelését azzal, hogy a gyámhatósági határozat meghozataláig elsősorban a gyermek kivizsgálására, a veszélyeztető magatartás megszüntetésére és a gyors állapotromlás megelőzésére kell törekedni.
 
 (2) A gyámhatóság a speciális gyermekotthon vezetőjének kezdeményezésére vagy a 81/A. § (10) bekezdése szerinti esetben hivatalból vagy a gyermekvédelmi gyám kérelmére a gyermek nevelési felügyeletét rendeli el, ha
@@ -3070,13 +3077,13 @@ korlátozhatja a gyermek személyes szabadságát.
 - b) meghatározott ideig hozzátartozóival a kapcsolattartását csak korlátozott módon gyakorolhassa, vagy
 - c) a gyermekvédelmi gyám egyetértésével meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát.
 
-(5) A gyámhatóság a határozathozatal előtt – a gyermek állapotát figyelembe véve – meghallgatja a gyermeket, a gyermek törvényes képviselőjét, a gyermekjogi képviselőt, a speciális gyermekotthon vezetőjét, valamint kikéri a speciális gyermekotthon, a speciális lakásotthon, a gyermekotthon speciális csoportja telephelye szerinti vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményét. A meghallgatást szükség esetén a gyámhatóság hivatalos helyiségén kívül is meg lehet tartani.
+(5) A gyámhatóság a határozathozatal előtt – a gyermek állapotát figyelembe véve – meghallgatja a gyermeket, a gyermek törvényes képviselőjét, a gyermekjogi képviselőt, a speciális gyermekotthon vezetőjét, valamint kikéri a speciális gyermekotthon, a speciális lakásotthon, a gyermekotthon speciális csoportja telephelye szerinti megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményét. A meghallgatást szükség esetén a gyámhatóság hivatalos helyiségén kívül is meg lehet tartani.
 
-(6) A gyámhatóság a nevelési felügyelet kérdésében a vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményétől csak kivételesen indokolt esetben térhet el.
+(6) A gyámhatóság a nevelési felügyelet kérdésében a megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményétől csak kivételesen indokolt esetben térhet el.
 
 (7) A gyámhatóság a gyermek nevelési felügyeletéről a nevelési felügyelet elrendelésének a speciális gyermekotthon vezetője általi kezdeményezésétől, a 81/A. § (10) bekezdésében foglaltakról való tudomásszerzéstől vagy a gyermekvédelmi gyám kérelmének beérkezésétől számított nyolc napon belül határoz.
 
-(8) A gyámhatóság a nevelési felügyelet fenntartását a vármegyei, fővárosi szakértői bizottság szakmai véleménye alapján, továbbá a gyermek, a gyermekjogi képviselő vagy a gyermekvédelmi gyám kérelmére felülvizsgálja.
+(8) A gyámhatóság a nevelési felügyelet fenntartását a megyei, fővárosi szakértői bizottság szakmai véleménye alapján, továbbá a gyermek, a gyermekjogi képviselő vagy a gyermekvédelmi gyám kérelmére felülvizsgálja.
 
 81/C. § (1) A gyámhatóság nevelési felügyeletet elrendelő vagy azt felülvizsgáló határozata ellen jogorvoslatnak helye nincs. A gyámhatóság a határozatát – annak közlésétől számított három napon belül – felülvizsgálat végett a bíróságnak megküldi.
 
@@ -3088,35 +3095,35 @@ korlátozhatja a gyermek személyes szabadságát.
 
 (5) A bírósági eljárásban hozott érdemi határozat ellen fellebbezésnek helye nincs.
 
-81/D. § A nevelési felügyelet megszűnik a bíróság erre irányuló döntése alapján, a meghatározott idő elteltével, továbbá hivatalból vagy – a gyermek, a gyermekjogi képviselő, a gyermekvédelmi gyám, a gyermekotthon vezetője általi – kérelemre. A nevelési felügyelet megszüntetése iránti eljárás során minden esetben ki kell kérni a speciális gyermekotthon, speciális lakásotthon, gyermekotthon speciális csoportja telephelye szerinti vármegyei, fővárosi gyermekvédelmi szakértői bizottság véleményét.
+81/D. § A nevelési felügyelet megszűnik a bíróság erre irányuló döntése alapján, a meghatározott idő elteltével, továbbá hivatalból vagy – a gyermek, a gyermekjogi képviselő, a gyermekvédelmi gyám, a gyermekotthon vezetője általi – kérelemre. A nevelési felügyelet megszüntetése iránti eljárás során minden esetben ki kell kérni a speciális gyermekotthon, speciális lakásotthon, gyermekotthon speciális csoportja telephelye szerinti megyei, fővárosi gyermekvédelmi szakértői bizottság véleményét.
 
 ### A gyermekvédelmi szakértői bizottság
 
-82. § (1) A vármegyei, fővárosi gyermekvédelmi szakértői bizottságot a vármegyei, fővárosi területi gyermekvédelmi szakszolgálat működteti. Az országos gyermekvédelmi szakértői bizottság vezetőjét és tagjait a miniszter jelöli ki ötéves időtartamra. Az országos gyermekvédelmi szakértői bizottságot a Kormány rendeletében kijelölt szerv működteti.
+82. § (1) A megyei, fővárosi gyermekvédelmi szakértői bizottságot a megyei, fővárosi területi gyermekvédelmi szakszolgálat működteti. Az országos gyermekvédelmi szakértői bizottság vezetőjét és tagjait a miniszter jelöli ki ötéves időtartamra. Az országos gyermekvédelmi szakértői bizottságot a Kormány rendeletében kijelölt szerv működteti.
 
-(2) A vármegyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a bizottság vezetőjéből és legalább három tagból, a speciális szükséglet felmerülése, vizsgálata esetén legalább öt tagból áll. A szakértői bizottság állandó tagja egy fő bizottságvezető, egy fő gyermekorvos, egy fő gyermek-szakpszichológus és egy fő, a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben a területi gyermekvédelmi szakszolgálatnál családgondozó munkakörben elfogadott szakképesítéssel rendelkező személy. A speciális szükséglet felmerülése, vizsgálata esetén a vezetőből és a három állandó tagból álló szakértői bizottság kiegészül egy fő pszichiáterrel és egy fő gyógypedagógussal. Az örökbefogadás előkészítése céljából az (5) bekezdés szerinti összefoglaló vélemény elkészítése esetén a vezetőből és a három állandó tagból álló szakértői bizottság szükség szerint kiegészül egy fő gyógypedagógussal. A gyermekvédelmi szakértői bizottság munkájába – felkérésre – bevonható a gyermek egészségi, mentális és általános személyiségállapota szerinti eseti szakértő is.
+(2) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a bizottság vezetőjéből és legalább három tagból, a speciális szükséglet felmerülése, vizsgálata esetén legalább öt tagból áll. A szakértői bizottság állandó tagja egy fő bizottságvezető, egy fő gyermekorvos, egy fő gyermek-szakpszichológus és egy fő, a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló miniszteri rendeletben a területi gyermekvédelmi szakszolgálatnál családgondozó munkakörben elfogadott szakképesítéssel rendelkező személy. A speciális szükséglet felmerülése, vizsgálata esetén a vezetőből és a három állandó tagból álló szakértői bizottság kiegészül egy fő pszichiáterrel és egy fő gyógypedagógussal. Az örökbefogadás előkészítése céljából az (5) bekezdés szerinti összefoglaló vélemény elkészítése esetén a vezetőből és a három állandó tagból álló szakértői bizottság szükség szerint kiegészül egy fő gyógypedagógussal. A gyermekvédelmi szakértői bizottság munkájába – felkérésre – bevonható a gyermek egészségi, mentális és általános személyiségállapota szerinti eseti szakértő is.
 
-(3) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság a gyámhatóságnak, az országos gyermekvédelmi szakértői bizottság a miniszternek évente beszámol a tevékenységéről.
+(3) A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyámhatóságnak, az országos gyermekvédelmi szakértői bizottság a miniszternek évente beszámol a tevékenységéről.
 
-(4) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság és a 76/B. § szerinti intézkedés esetén az országos gyermekvédelmi szakértői bizottság szakmai véleménye tartalmazza
+(4) A megyei, fővárosi gyermekvédelmi szakértői bizottság és a 76/B. § szerinti intézkedés esetén az országos gyermekvédelmi szakértői bizottság szakmai véleménye tartalmazza
 
 - a) a gyermek állapotának megfelelő ellátási formára, az egyéni elhelyezési tervre és a gyermek gondozására, nevelésére, fejlesztésére, esetleges terápiájára vonatkozó javaslatot, annak indokolásával együtt, és
 - b) a speciális szükséglet megállapítása esetén, ha azt szükségesnek tartja, a nevelési felügyelet elrendelésére és annak időtartamára vonatkozó javaslatot.
 
-(5) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság a gyermek örökbefogadásának előkészítése céljából
+(5) A megyei, fővárosi gyermekvédelmi szakértői bizottság a gyermek örökbefogadásának előkészítése céljából
 
 - a) a gyámhatóságnak az örökbefogadhatóvá nyilvánítás iránti eljárás megindításáról szóló értesítésének kézhezvételétől,
 - b) az a) ponton kívüli okból örökbefogadható gyermek esetében a területi gyermekvédelmi szakszolgálat megkeresésétől
 
 számított 30 napon belül összefoglaló véleményt készít a gyermek egészségi és személyiségállapotáról, az életkorához viszonyított értelmi, érzelmi és mozgásfejlettségi szintjéről.
 
-(6) A vármegyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményének felülvizsgálatát, valamint szükség szerinti új szakmai vélemény készítését a gyámhatóság megkeresése alapján az országos gyermekvédelmi szakértői bizottság végzi.
+(6) A megyei, fővárosi gyermekvédelmi szakértői bizottság szakmai véleményének felülvizsgálatát, valamint szükség szerinti új szakmai vélemény készítését a gyámhatóság megkeresése alapján az országos gyermekvédelmi szakértői bizottság végzi.
 
-(7) A vármegyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a szakmai véleményének elkészítéséért díjazásban nem részesül.
+(7) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság a szakmai véleményének elkészítéséért díjazásban nem részesül.
 
-(8) A vármegyei, fővárosi és az országos gyermekvédelmi szakértői bizottság pártatlanul és befolyásmentesen alakítja ki szakmai véleményét. A szakmai vélemény tartalma tekintetében a vármegyei, fővárosi és az országos gyermekvédelmi szakértői bizottság nem utasítható. Az adott ügyben nem lehet a szakértői bizottság tagja az a személy, akivel szemben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 23. § (1) és (2) bekezdése szerinti kizáró ok áll fenn.
+(8) A megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság pártatlanul és befolyásmentesen alakítja ki szakmai véleményét. A szakmai vélemény tartalma tekintetében a megyei, fővárosi és az országos gyermekvédelmi szakértői bizottság nem utasítható. Az adott ügyben nem lehet a szakértői bizottság tagja az a személy, akivel szemben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 23. § (1) és (2) bekezdése szerinti kizáró ok áll fenn.
 
-(9) Ha a vármegyei, fővárosi vagy az országos gyermekvédelmi szakértői bizottság határidőn belül nem készíti el szakmai véleményét, a gyámhatóság megkeresi a szakértői bizottságot fenntartó szervet, hogy
+(9) Ha a megyei, fővárosi vagy az országos gyermekvédelmi szakértői bizottság határidőn belül nem készíti el szakmai véleményét, a gyámhatóság megkeresi a szakértői bizottságot fenntartó szervet, hogy
 
 - a) vizsgálja ki a mulasztás okát, és
 - b) tegye meg a szükséges intézkedéseket a szakmai véleménynek a gyámhatóság által újonnan kitűzött határidőre történő elkészítése érdekében.
@@ -3649,7 +3656,7 @@ kell törölni.
 
 ### XV. Fejezet — A miniszter feladatai
 
-101. § (1) A miniszter – a javítóintézetek kivételével – ellátja a gyermekek védelmét biztosító feladatok ágazati irányítását.
+101. § (1) A miniszter ellátja a gyermekek védelmét biztosító feladatok ágazati irányítását.
 
 (2) A miniszter az (1) bekezdésben foglalt ágazati irányító jogkörében
 
@@ -3672,7 +3679,7 @@ kell törölni.
 - m) támogatja a gyermekvédelmi gondoskodásban élő gyermek és fiatal felnőtt önálló életkezdését, a pályaválasztását, és a munkaerőpiacon való elhelyezkedését,
 - n) statisztikai vizsgálatot végezhet a szakpolitikai döntés-előkészítés, tervezés megalapozása érdekében, amelyre tekintettel jogosult a 137. § (2) bekezdése, a 138. § (1) bekezdése, a 139. § (1), (1a) és (1e) bekezdése, a 139/A. § (1) bekezdése, a 139/B. § (1) bekezdése, a 140. § és a 141. § szerinti nyilvántartás vezetéséért felelős szervtől – személyazonosításra alkalmatlan módon – statisztikai adatokat kérni.
 
-(2a) A miniszter a rendszerszintű problémák és hiányosságok feltárása, illetve az ágazati irányítói feladatköre ellátása céljából a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló kormányrendeletben meghatározottak szerint átfogó vizsgálatot folytathat a gyermekvédelmi szakellátást nyújtó intézményben, ha felmerül, hogy a szolgáltatás, ellátás nyújtása súlyosan sérti az ellátott gyermekek, fiatal felnőttek érdekeit.
+(2a) A miniszter a rendszerszintű problémák és hiányosságok feltárása, illetve az ágazati irányítói feladatköre ellátása céljából a gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló kormányrendeletben meghatározottak szerint átfogó vizsgálatot folytathat a gyermekvédelmi szakellátást nyújtó intézményben és a javítóintézetben, ha felmerül, hogy a szolgáltatás, ellátás nyújtása súlyosan sérti az ellátott gyermekek, fiatal felnőttek érdekeit.
 
 (2b) A miniszter a (2) bekezdés m) pontjában foglalt feladata ellátása során a gyermekvédelmi gondoskodásban élő gyermek, fiatal felnőtt és a munkaerőpiaci szereplők közötti kapcsolatfelvétel biztosítása, a gyermekvédelmi gondoskodásban élő gyermek, fiatal felnőtt számára a személyiségének, érdeklődési körének, képességeinek és végzettségének legmegfelelőbb foglalkoztató kiválasztásának támogatása céljából, a gyermeknek, fiatal felnőttnek a foglalkoztatása kezdő időpontjáig kezeli a gyermek és fiatal felnőtt 135. § (2) bekezdés a) pont aa), ab) és ae) alpontja szerinti adatait, valamint az a) pont af)–ah) alpontok szerinti adatai közül azokat, amelyek az elhelyezkedést befolyásolják és a konkrét munkakör betöltéséhez szükségesek, továbbá jogosult a pontosság elvére figyelemmel azokra vonatkozóan a 135. § (1) bekezdésben meghatározott személyektől és szervezetektől adatszolgáltatást kérni.
 
@@ -3692,7 +3699,7 @@ gyermeket a gyermek biztonsága és azonnali terápiában való részesítése �
 
 (4) A miniszter a Kormány rendeletében kijelölt szerv útján megszervezi a szülői felügyelet nélkül Magyarországon tartózkodó külföldi állampolgárságú gyermek ellátását, és ennek érdekében – ha számára kötelező tartózkodási helyként gyermekvédelmi intézményt kell kijelölni – a Kormány rendeletében kijelölt szerv gyermekotthont, kizárólag menekültként, oltalmazottként vagy menedékesként el nem ismert, kísérő nélküli kiskorúakat ellátó gyermekotthont, ideiglenes befogadó férőhelyet, tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhelyet tart fenn, vagy a feladat biztosítása érdekében ellátási szerződést köt.
 
-(5)
+(5) A miniszter gondoskodik a bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú terhelt nevelésének feltételeiről, a javítóintézeteknek a Kormány rendeletében kijelölt szerv központi szerve útján történő fenntartásáról. A miniszter ellátja a javítóintézetek felügyeletével kapcsolatos feladatokat.
 
 (6) A gyermek- és ifjúságpolitikáért felelős miniszter különös méltánylást érdemlő esetben hozzájárulhat az egyedül örökbe fogadni szándékozó személy örökbefogadásra való alkalmasságának gyámhatósági megállapításához. A miniszteri hozzájárulás megadásánál különösen figyelemmel kell lenni Magyarország Alaptörvénye XVI. cikk (1) bekezdésében foglaltakra.
 
@@ -3803,7 +3810,7 @@ azon személyes adatait, amelyeket az e célból a bűnügyi nyilvántartó szer
 
 ### XVI. Fejezet — A fenntartó feladat- és jogköre
 
-104. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény fenntartója
+104. § (1) A gyermekjóléti és gyermekvédelmi szolgáltató tevékenységet ellátó állami és nem állami intézmény, valamint a javítóintézeti ellátást nyújtó állami intézmény fenntartója
 
 - a) dönt az intézmény alapító okiratáról, gazdálkodási köréről, átszervezéséről, megszüntetéséről, tevékenységi körének módosításáról, nevének megállapításáról,
 - b) meghatározza az intézmény költségvetését, valamint az intézményi térítési díjat,
@@ -4088,7 +4095,7 @@ nyilatkozatban kérheti, hogy az anyakönyv a továbbiakban a vér szerinti szü
 
 (3) Abban a kérdésben, hogy a gyermek testi, érzékszervi, értelmi, beszéd vagy más fogyatékosságban szenved, továbbá, hogy a gyermek beilleszkedési, tanulási, magatartási rendellenességgel küzd, az Nktv. szerinti szakértői bizottság, illetve nevelési tanácsadó ad véleményt.
 
-(4) A nevelésbe vett és súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő gyermek ellátására, az ellátás módjára, formájára a vármegyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottság tesz javaslatot. A szakértői bizottság eljárásának részletes szabályait külön jogszabály határozza meg.
+(4) A nevelésbe vett és súlyos pszichés vagy disszociális tüneteket mutató, illetve pszichoaktív szerekkel küzdő gyermek ellátására, az ellátás módjára, formájára a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottság tesz javaslatot. A szakértői bizottság eljárásának részletes szabályait külön jogszabály határozza meg.
 
 (5) Az Szt. hatálya alá tartozó fogyatékosok és pszichiátriai betegek otthonában, valamint a támogatott lakhatásban az Szt.-ben meghatározott feltételek szerint helyezhetők el gyermekek.
 
@@ -4243,7 +4250,7 @@ történik.
 - b) a tervező és értékelő alrendszerben
   - ba) a gyermekjóléti alapellátást nyújtó részéről a gyermek veszélyeztetettségének feltárása, a veszélyeztetettség megelőzéséhez és megszüntetéséhez szükséges intézkedésre történő javaslat megtétele; a gyermek nevelkedésének megtervezése érdekében a környezettanulmány, cselekvési és intézkedési terv, védelembe vétel esetén a családi, egyéni gondozási terv elkészítése, az egészségügyi lap feltöltése; nevelésbe vétel esetén a családi kapcsolatok, családgondozás tervezése és a helyzetértékelés; a családbafogadás és utógondozás esetén a gondozási terv elkészítése és a helyzetértékelés, valamint az átmeneti gondozás esetén az egyéni gondozási-nevelési terv, a családgondozási terv elkészítése és a helyzetértékelés;
   - bb) a gyermekvédelmi szakellátás esetén az elhelyezési javaslat, egyéni elhelyezési terv és egyéni gondozási-nevelési terv elkészítése, valamint a gondozási-nevelési tevékenység megvalósításának értékelése
-- c) a vármegyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottsági tevékenység adminisztrációja, a szakmai vélemény elkészítése a bizottsági alrendszerben,
+- c) a megyei, fővárosi, valamint az országos gyermekvédelmi szakértői bizottsági tevékenység adminisztrációja, a szakmai vélemény elkészítése a bizottsági alrendszerben,
 - d) az örökbefogadás előkészítésének és utánkövetésének megvalósítását szolgáló adminisztráció az örökbefogadási alrendszerben
 - e) a nevelőszülőnek jelentkező személy és a nevelőszülő 5. § t) pontja szerinti adatainak, társadalombiztosítási azonosító jelének, a nevelőszülői tevékenységre való alkalmasság vizsgálatára, felülvizsgálatára és a nevelőszülői hálózat döntésére vonatkozó adatoknak, dokumentumoknak a rögzítése a nevelőszülői alkalmassági alrendszerben,
 - f) a nevelőszülőnél, gyermekotthonban, fogyatékosok vagy pszichiátriai betegek otthonában, vagy támogatott lakhatásban elhelyezett, illetve a gyermekvédelmi szakértői bizottság által elhelyezni javasolt gyermekek számának a rögzítése a szakellátott gyermekek nyilvántartásának alrendszerében,
@@ -4297,7 +4304,7 @@ vonatkozó adatokat kezelhet.
 
 (6) Az (1) bekezdésben felsorolt szervek, illetve személyek az érintett személyazonosító adatait, valamint a gyermek (2) bekezdésben meghatározott adatait a 15. § (1)–(5) bekezdései szerinti célból egymásnak átadhatják.
 
-(6a) A gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás vezetője, szakmai munkakörben foglalkoztatott munkatársa, a gyermekvédelmi gyám és helyettes gyermekvédelmi gyám, valamint a vármegyei, fővárosi és országos gyermekvédelmi szakértői bizottság az adatok (6) bekezdés szerinti átadását a Gyermekeink védelmében elnevezésű informatikai rendszer használatával teljesítik, és a gyámhatóság felé is ennek alkalmazásával szolgáltatnak adatot. A gyámhatóság a feladat- és hatáskörébe tartozó ügy intézése során az informatikai rendszerben rögzített adatokat jogosult megtekinteni és a dokumentumtárban rögzített dokumentumokat letölteni.
+(6a) A gyermekjóléti alapellátást és gyermekvédelmi szakellátást nyújtó szolgáltatás vezetője, szakmai munkakörben foglalkoztatott munkatársa, a gyermekvédelmi gyám és helyettes gyermekvédelmi gyám, valamint a megyei, fővárosi és országos gyermekvédelmi szakértői bizottság az adatok (6) bekezdés szerinti átadását a Gyermekeink védelmében elnevezésű informatikai rendszer használatával teljesítik, és a gyámhatóság felé is ennek alkalmazásával szolgáltatnak adatot. A gyámhatóság a feladat- és hatáskörébe tartozó ügy intézése során az informatikai rendszerben rögzített adatokat jogosult megtekinteni és a dokumentumtárban rögzített dokumentumokat letölteni.
 
 (6b) A gyermekjogi képviselő a feladat- és hatáskörébe tartozó ügy intézése során a Gyermekeink védelmében elnevezésű informatikai rendszerben rögzített adatokat jogosult megtekinteni.
 
@@ -4744,7 +4751,7 @@ a Gyermekeink védelmében elnevezésű informatikai rendszer törzsadat alrends
 - b) – az adatok megismeréséhez fűződő jogos érdek igazolásával – az egymásra vonatkozó adatok tekintetében a gyermek és a szülő,
 - c) – az adatok megismeréséhez fűződő jogos érdek igazolásával – a szülőre vonatkozó adatok tekintetében a másik szülő.
 
-(4) A 135. § (3) bekezdés a) pontja, a 137. § (3a) bekezdése, a 139. § (2) bekezdése és a 141/A. § szerinti nyilvántartási és egyéb rendszerekhez, valamint a szolgáltatói nyilvántartás informatikai rendszeréhez kapcsolódó elektronikus adatfeldolgozást a Kormány által kijelölt szerv végzi.
+(4) A 135. § (3) bekezdés a) és b) pontja, a 137. § (3a) bekezdése, a 139. § (2) bekezdése és a 141/A. § szerinti nyilvántartási és egyéb rendszerekhez, valamint a szolgáltatói nyilvántartás informatikai rendszeréhez kapcsolódó elektronikus adatfeldolgozást a Kormány által kijelölt szerv végzi.
 
 ### Eseti gondnokok és eseti gyámok nyilvántartása
 
@@ -5297,14 +5304,14 @@ hogy a fenntartó működési engedéllyel rendelkezik.
 - h) a módszertani feladatokat ellátó szerv feladataira vonatkozó részletes szabályokat,
 - i) a hivatásos gondnoki feladatot ellátók képesítési előírásait,
 - j) a gyermekvédelmi szakértői bizottság eljárásának részletes szabályait,
-- k) a gyermekvédelmi szakellátásban foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, a képzés- és a vizsgaszervezés szabályaira, valamint a gyermekvédelmi gyámok számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó szabályokat,
+- k) a gyermekvédelmi szakellátásban és a javítóintézetben foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, a képzés- és a vizsgaszervezés szabályaira, valamint a gyermekvédelmi gyámok számára szervezett központi oktatási program szervezésére, szakmai és vizsgakövetelményeire vonatkozó szabályokat,
 - l) a 17. § (4d) bekezdésében meghatározott kiemelt veszélyeztető okra utaló körülményeket,
 - m)
 - n)
 - o) a tömeges bevándorlás okozta válsághelyzet miatt létesített, illetve fenntartott ideiglenes befogadó férőhely szakmai feladatait, működésük feltételeit és az ott nyújtott ellátás tartalmát,
 - p)
 
-(2a) Felhatalmazást kap a miniszter, hogy a büntetés-végrehajtásért felelős miniszterrel egyetértésben rendeletben határozza meg a javítóintézetben a nevelési tevékenység keretében foglalkoztatott személyek képzésére, a képzés szakmai és vizsgakövetelményeire, valamint a képzés- és a vizsgaszervezésre vonatkozó szabályokat.
+(2a)
 
 (3) Felhatalmazást kap a gyermek- és ifjúságpolitikáért felelős miniszter, hogy rendeletben szabályozza
 

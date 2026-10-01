@@ -23,8 +23,8 @@ a Kormányzati Személyügyi Döntéstámogató Rendszerről
   - ab) kormányzati szolgálati jogviszonyban foglalkoztatott szakmai vezető és kormánytisztviselő, valamint
   - ac) munkaviszonyban foglalkoztatottak,
 - b) a Kit. szerinti területi kormányzati igazgatási szerveknél foglalkoztatottak,
-- c) – az Országgyűlés Hivatala, valamint az Országgyűlési Őrség kivételével – a közszolgálati tisztviselőkről szóló 2011. CXCIX. törvény (a továbbiakban: Kttv.) hatálya alá tartozó szerveknél foglalkoztatottak,
-- d) – az Országgyűlési Őrség kivételével – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti rendvédelmi feladatokat ellátó szerveknél foglalkoztatottak,
+- c) – az Országgyűlés Hivatala kivételével – a közszolgálati tisztviselőkről szóló 2011. CXCIX. törvény (a továbbiakban: Kttv.) hatálya alá tartozó szerveknél foglalkoztatottak,
+- d) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) szerinti rendvédelmi feladatokat ellátó szerveknél foglalkoztatottak,
 - e) a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvény (a továbbiakban: Nsztv.) szerint a Nemzeti Adó- és Vámhivatal személyi állományába tartozók, valamint
 - f) – a honvédelemért felelős miniszter irányítása alá tartozó egészségügyi szolgáltató foglalkoztatottjai kivételével – az egészségügyi szolgálati jogviszonyról szóló 2020. évi C. törvény (a továbbiakban: Esztv.) szerinti állami vagy felsőoktatási intézmény által fenntartott egészségügyi szolgáltatónál, illetve működtetett klinikai központnál és egyetemi kórháznál (a továbbiakban együtt: állami fenntartású egészségügyi szolgáltató), valamint az önkormányzati fenntartású egészségügyi szolgáltatóknál foglalkoztatottak
 
@@ -47,7 +47,7 @@ kezelésére szolgáló személyügyi alapnyilvántartó és ügyviteli rendszer
 
 (4) Az (1) bekezdés a) és b) pontja szerinti rendszerelem nem alkalmazandó a Kit. 54. § (3) bekezdése szerint a nemzetbiztonsági szolgálatok állományából vezényelt, kirendelt személyekre, míg az (1) bekezdés c) pontja szerinti rendszerelemben ezen személyi kör vonatkozásában a Kit. 62/A. § (2a) bekezdésében szereplő kódot szükséges rögzíteni.
 
-(5) Az Országgyűlési Őrség az (1) bekezdés d) pontja szerinti személyügyi alapnyilvántartó és ügyviteli rendszer alkalmazását bevezetheti.
+(5)
 
 4. § (1) A KSZDR szakmai irányításáért
 

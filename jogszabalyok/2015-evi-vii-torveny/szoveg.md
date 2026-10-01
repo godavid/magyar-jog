@@ -69,7 +69,7 @@ a következő törvényt alkotja:
 
 (4) A Magyarország területén tartózkodó harmadik országbeli állampolgár beruházás megvalósítása céljából kiállított tartózkodási engedély iránti kérelme abban az esetben engedélyezhető, ha eleget tesz a Btátv. 17. § (1) bekezdés a) pontjában, valamint c)–i) pontjában foglalt feltételeknek, és a beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedély kiadása iránti kérelmet az érvényes beruházás megvalósítása céljából kiállított munkavállalási célú tartózkodási engedélye birtokában – amivel a Btátv. által engedett tartózkodási idő lejárna –, a tartózkodási engedély érvényességi idejének lejártát megelőzően legfeljebb negyven nappal nyújtja be.
 
-(5) A Beruházás esetén az összevont kérelmezési eljárásban a fővárosi és vármegyei kormányhivatal, valamint a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter nem működik közre szakhatóságként, ha a harmadik országbeli állampolgár Magyar Kártya, EU Kék Kártya vagy vállalaton belül áthelyezett személy számára szóló tartózkodási engedély kiadását vagy meghosszabbítását kérelmezi.
+(5) A Beruházás esetén az összevont kérelmezési eljárásban a fővárosi és megyei kormányhivatal, valamint a harmadik országbeli állampolgárok magyarországi foglalkoztatásáért felelős miniszter nem működik közre szakhatóságként, ha a harmadik országbeli állampolgár Magyar Kártya, EU Kék Kártya vagy vállalaton belül áthelyezett személy számára szóló tartózkodási engedély kiadását vagy meghosszabbítását kérelmezi.
 
 (6) A Beruházás esetén a harmadik országbeli állampolgár a családi együttélés biztosítása céljából tartózkodási engedélyt kaphat, ha a családegyesítő foglalkoztatója az e törvény szerinti Fővállalkozó vagy Alvállalkozó.
 

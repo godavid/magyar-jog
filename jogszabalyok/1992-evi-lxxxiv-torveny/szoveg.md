@@ -134,7 +134,7 @@ kiadásainak fedezetére szolgál.
 
 (2) Az Egészségbiztosítási Alap működtetésével kapcsolatos költségeket az Egészségbiztosítási Alap költségvetésében kell meghatározni, amelyek forrása az Egészségbiztosítási Alap pénzeszközei és az Egészségbiztosítási Alap kezelőjének egyéb – az Egészségbiztosítási Alaphoz kapcsolódó – bevételei.
 
-(3) A fővárosi és vármegyei kormányhivatalok kiadásai nem az Alapokat terhelik.
+(3) A fővárosi és megyei kormányhivatalok kiadásai nem az Alapokat terhelik.
 
 ### Egyéb rendelkezések
 

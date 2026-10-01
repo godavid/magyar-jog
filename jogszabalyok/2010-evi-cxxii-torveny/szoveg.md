@@ -24,14 +24,14 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 (2) A NAV területi szervei
 
-- a) a vármegyei (fővárosi) adó- és vámigazgatóságok (a továbbiakban: vármegyei igazgatóságok),
+- a) a megyei (fővárosi) adó- és vámigazgatóságok (a továbbiakban: megyei igazgatóságok),
 - b) a Fellebbviteli Igazgatóság,
 - c) a NAV nyomozó hatósági feladatait ellátó területi szervei és
 - d) a Kormány rendeletében meghatározott igazgatóságok, illetve intézetek.
 
 (3) A NAV nyomozó hatósági feladatait a Bűnügyi Főigazgatóság és a NAV nyomozó hatósági feladatait ellátó területi szervei látják el.
 
-(4) A vármegyei igazgatóságok kirendeltségeket működtethetnek.
+(4) A megyei igazgatóságok kirendeltségeket működtethetnek.
 
 #### 5. §
 
@@ -51,7 +51,7 @@ SZERVEN BELÜLI VEZETŐI IRÁNYÍTÁSA ÉS FELADATAI
 
 9. § (1) A NAV területi szervét a NAV elnöke által kinevezett igazgató vezeti. A NAV területi szervének vezetésében a NAV elnöke által kinevezett igazgatóhelyettes (igazgatóhelyettesek) vehet (vehetnek) részt.
 
-(2) A vármegyei igazgatóságok kirendeltségének operatív vezetését főosztályvezető látja el, aki a kirendeltséghez telepített feladat- és hatáskör gyakorlója.
+(2) A megyei igazgatóságok kirendeltségének operatív vezetését főosztályvezető látja el, aki a kirendeltséghez telepített feladat- és hatáskör gyakorlója.
 
 10. § (1) A NAV elnöke felett a munkáltatói jogkört a kijelölt miniszter gyakorolja. A NAV elnökhelyettesei felett a kinevezési és felmentési jogkör kivételével a munkáltatói jogkört a NAV elnöke gyakorolja.
 
@@ -160,7 +160,7 @@ kapcsolatos feladatokat.
 - a) a büntetőeljárásról szóló törvény által hatáskörébe utalt bűncselekmények vonatkozásában
   - aa) végzi a bűncselekmények megelőzését, amelynek során figyelemmel kíséri Magyarország bűnügyi helyzetét, feltárja a bűncselekmények elkövetésének kockázatait, a bűncselekmények elkövetésére irányuló törekvéseket, továbbá megszerzi, elemzi, értékeli, ellenőrzi és továbbítja a bűnözéshez kapcsolódó, a bűncselekmények megelőzése, illetve megakadályozása céljából szükséges információkat,
   - ab) nyomozó hatósági jogkört gyakorol, a büntetőeljárásról szóló törvényben meghatározottak szerint végzi a bűncselekmények felderítését, valamint a bűncselekményből származó vagyon visszaszerzését,
-- b) ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv törvényben meghatározott feladatai elősegítése érdekében.
+- b) ellátja a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény által hatáskörébe utalt feladatokat a nyomozó hatóság, a nemzetbiztonsági szolgálat, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a bíróság, továbbá a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv törvényben meghatározott feladatai, továbbá az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata elősegítése érdekében.
 
 (8) A NAV rendészeti és igazgatási jogkörében
 
@@ -746,7 +746,7 @@ használható fel.
 
 (5) Ha a felvétel felhasználására a (3) bekezdés szerinti eljárásokban kerül sor, az adatok kezelésére az alapul szolgáló eljárás szabályait kell alkalmazni.
 
-36/P. § (1) A 36/O. § (4) bekezdésében meghatározott határidőn belül a 36/O. § (1) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóságok, a nemzetbiztonsági szolgálatok, a rendőrség terrorizmust elhárító szerve, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
+36/P. § (1) A 36/O. § (4) bekezdésében meghatározott határidőn belül a 36/O. § (1) bekezdése szerint rögzített felvételből – jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági feladatok ellátása céljából – a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóságok, a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatkörében eljáró rendőri szerv, a nemzetbiztonsági szolgálatok, a közlekedés szabályainak megsértése miatt közigazgatási hatósági eljárást folytató hatóság, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy igényelhet adatot.
 
 (2) A NAV a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 
@@ -1038,7 +1038,7 @@ szükségesek.
 
 (2) Az e törvényben meghatározott feladatok ellátása érdekében a NAV – külön megállapodás alapján meghatározott időtartamra – munkaviszonyt kezdeményezhet az (1) bekezdés hatálya alá tartozó szervezeteknél.
 
-(3) A NAV nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az NVVH-nál, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Sándor-palotánál, az Országgyűlés Hivatalánál és az Országgyűlési Őrségnél.
+(3) A NAV nem kezdeményezhet munkaviszonyt bíróságnál, az Országos Bírósági Hivatalnál, ügyészségnél, az NVVH-nál, az Alkotmánybíróságnál, az Állami Számvevőszéknél, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, az Alapvető Jogok Biztosa Hivatalánál, a Sándor-palotánál és az Országgyűlés Hivatalánál.
 
 (4) A foglalkoztatás pénzügyi nyomozói jellegével kapcsolatos speciális szabályokat a titkos együttműködési megállapodásban kell rögzíteni.
 
@@ -1057,7 +1057,7 @@ szükségesek.
 
 (2) A NAV a titkos információgyűjtés, valamint a leplezett eszközök alkalmazása során a saját személyi állománya, a vele titkosan együttműködő személy védelme céljából, illetve a pénzügyi nyomozói jelleg leplezése érdekében, valamint a fedőokirat és a fedőintézmény védelme érdekében a közhiteles nyilvántartásokba valótlan adatot (a továbbiakban: fedőadat) jegyeztethet be.
 
-(3) Fedőintézményként költségvetési szerv nem hozható létre. Rendvédelmi szerv, nemzetbiztonsági szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként csak a szervet irányító miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.
+(3) Fedőintézményként költségvetési szerv nem hozható létre. Rendvédelmi szerv, nemzetbiztonsági szolgálat és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként csak a szervet irányító miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
 
 (4) A fedőokiratot meg kell semmisíteni, illetve a közhiteles nyilvántartásokból a fedőadatot törölni kell, ha arra a továbbiakban már nincs szükség.
 
@@ -1206,7 +1206,7 @@ egyértelmű azonosítására szolgáló adatokat.
 
 65/E. § (1) A NAV titkos információgyűjtés folytatására feljogosított szerve a titkos információgyűjtést maga hajtja végre, a titkos információgyűjtés végrehajtásában való közreműködésre kijelölt szerv közreműködésével hajtja végre, vagy a végrehajtáshoz a nemzetbiztonsági szolgálatokról szóló törvény által ilyen szolgáltatások végzésére kijelölt nemzetbiztonsági szolgálatot veszi igénybe.
 
-(2) Ha a titkos információgyűjtés a nemzetbiztonsági szolgálatok vagy a rendőrség terrorizmust elhárító szervének működését érinti, felkérésre az érintett nemzetbiztonsági szolgálat, illetve a rendőrség terrorizmust elhárító szerve közreműködik a titkos információgyűjtés végrehajtásában.
+(2) Ha a titkos információgyűjtés a nemzetbiztonsági szolgálatok vagy a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szervnek a működését érinti, felkérésre az érintett nemzetbiztonsági szolgálat, illetve az ezen feladatkörében eljáró rendőri szerv közreműködik a titkos információgyűjtés végrehajtásában.
 
 (3) Az elektronikus hírközlési szolgáltatást végző szervezetek, valamint a postai küldemények, vagy az egyéb zárt küldemények, továbbá az információs rendszerben tárolt adatok továbbítását, feldolgozását, kezelését végző szervezetek kötelesek a 60. § c)–e) pontjában meghatározott eszközök alkalmazását biztosítani és a titkos információgyűjtés folytatására feljogosított szervekkel együttműködni.
 
@@ -1474,9 +1474,10 @@ tekinthet be, kérhet felvilágosítást, értesítést vagy adatszolgáltatást
 - e) a külpolitikáért felelős miniszter által irányított minisztérium illetékes szerve,
 - f) a honvédelmi igazgatás illetékes szerve,
 - g) a NAV feladat- és hatáskörrel rendelkező szerve az Air., az Art., a Vtv. és az egyéb adó- és vám jogszabályok alapján a NAV hatáskörébe tartozó adókötelezettséggel, vámkötelezettséggel, adóigazgatási és vámigazgatási eljárással kapcsolatos feladatokkal összefüggésben,
-- h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv,
+- h) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
 - i) a Nemzeti Információs Központ elemzés-értékelés, hírigény teljesítése,
 - j) az utasadat-információs egység az utasadatok kockázatelemzése céljából.
+- k) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata, valamint személyvédelmi és létesítménybiztosítási feladata ellátása céljából.
 
 (3) Az adatszolgáltatást kérő szervek felelősek a (2) bekezdés alapján átvett adatoknak e törvény szerinti kezeléséért. Az ilyen adatfelhasználást kötelesek kimutatni, illetve nyilvántartani.
 
@@ -1556,10 +1557,10 @@ kezelésére.
 81. § (1) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 - a) a NAV szervezeti felépítésére vonatkozó részletes szabályokat,
-- b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes vármegyei igazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
+- b) a NAV szervei hatáskörére és illetékességére vonatkozó szabályokat, továbbá egyes megyei igazgatóságok kijelölt kirendeltségei által ellátott feladatokat és illetékességüket,
 - c) a Fenntartható Gazdaságfehéredésért Felelős Bizottság összetételének és működésének részletes szabályait.
 
-(1a) A Kormány rendelete alapján a NAV elnöke vámügyekben a vármegyei igazgatóságok illetékességét az (1) bekezdés b) pontjától eltérően jelölheti ki.
+(1a) A Kormány rendelete alapján a NAV elnöke vámügyekben a megyei igazgatóságok illetékességét az (1) bekezdés b) pontjától eltérően jelölheti ki.
 
 (2) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki
 

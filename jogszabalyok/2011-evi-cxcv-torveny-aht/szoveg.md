@@ -43,7 +43,7 @@ Az Országgyűlés az államháztartás egyensúlyának és a közpénzekkel val
 - 15. kötelezettségvállalás: a kiadási előirányzatok, és – ha jogszabály azt lehetővé teszi – a 49. § szerinti lebonyolító szerv számára a Kormány rendeletében meghatározottak szerinti rendelkezésre bocsátott összeg terhére fizetési kötelezettség vállalásáról szóló – így különösen a foglalkoztatásra irányuló jogviszony létesítésére, szerződés megkötésére, költségvetési támogatás biztosítására irányuló – szabályszerűen megtett jognyilatkozat,
 - 16.
 - 17. maradvány: a költségvetési év során a bevételek és kiadások különbözete, amely az alaptevékenység bevételei és kiadásai tekintetében a költségvetési maradvány, a vállalkozási tevékenység bevételei és kiadásai tekintetében a vállalkozási maradvány,
-- 18. önkormányzati hivatal: a polgármesteri hivatal, a főpolgármesteri hivatal, a vármegyei önkormányzati hivatal és a közös önkormányzati hivatal,
+- 18. önkormányzati hivatal: a polgármesteri hivatal, a főpolgármesteri hivatal, a megyei önkormányzati hivatal és a közös önkormányzati hivatal,
 - 19. támogatás: az államháztartás központi vagy önkormányzati alrendszeréből, bármilyen formában, ellenérték nélkül nyújtott juttatás,
 - 20. zárolás: a költségvetési kiadási előirányzatok felhasználásának időlegesen, feltételhez kötötten történő korlátozása, felfüggesztése.
 
@@ -958,7 +958,7 @@ a kirendeléssel egyidejűleg tájékoztatja.
 
 - a) az államháztartás központi alrendszerében a Kormány irányítása alá tartozó fejezetet irányító szerv, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szerve, a Kormány irányítása vagy felügyelete alá tartozó központi költségvetési szerv vagy testület, az államháztartás önkormányzati alrendszerében a helyi önkormányzat, a helyi nemzetiségi önkormányzat, az országos nemzetiségi önkormányzat, a társulás, a területfejlesztési önkormányzati társulás, a térségi fejlesztési tanács és az általuk irányított költségvetési szerv (a továbbiakban együtt: kijelölt szerv), valamint a kormányzati szektorba sorolt egyéb szervezet, valamint az állam vagy önkormányzat legalább többségi tulajdonában álló gazdasági társaság, valamint az ilyen gazdasági társaság 100%-os tulajdonában álló gazdasági társaság (a továbbiakban: kijelölt szervezet) kezelésében lévő, közpénz felhasználásával összefüggő adatot – ideértve az üzleti vagy más titoknak minősülő adatokat is – megismerni, az azokat tartalmazó iratokba vagy egyéb adathordozókba betekinteni, valamint jogosult ezekről másolatot készíteni,
 - b) a kijelölt szerv, a kijelölt szervezet vezetőjétől, képviselőjétől, alkalmazottjától felvilágosítást, más személyektől nyilatkozatot kérni.
-- c) az államháztartásért felelős miniszter előzetes jóváhagyásával a (3) bekezdésben meghatározott feladatai ellátása érdekében a fővárosi vagy vármegyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását kezdeményezni, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
+- c) az államháztartásért felelős miniszter előzetes jóváhagyásával a (3) bekezdésben meghatározott feladatai ellátása érdekében a fővárosi vagy megyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását kezdeményezni, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
 
 (10) A költségvetési felügyelő minősített adatot kizárólag a minősített adat védelméről szóló törvényben meghatározott személyi biztonsági feltételek teljesülése esetén ismerhet meg. Tevékenysége során a költségvetési felügyelő nem ismerheti meg azokat az adatokat, amelyek a titkos információgyűjtés során keletkezett információra, annak forrására vagy az alkalmazott titkos információgyűjtő módszer konkrét jellegére, valamint leplezett eszközökre és azok alkalmazására utalnak.
 
@@ -996,11 +996,11 @@ a kirendeléssel egyidejűleg tájékoztatja.
 
 (3a) A költségvetési biztos – a kincstár költségére – szakértőt is bevonhat, ha a (3) bekezdésben meghatározott tevékenysége során különleges szakértelmet igénylő kérdés merül fel, továbbá a költségvetési biztost tevékenységének ellátásában a Kincstár elnökének döntése alapján a Kincstár személyi állományához tartozó közreműködő személy, illetve személyek segíthetik. A közreműködő személyek létszáma nem haladhatja meg
 
-- a) a 100 000 fő lakosságszám feletti települések önkormányzatai, a vármegyei önkormányzatok és Budapest Főváros Önkormányzata esetében az 5 főt,
+- a) a 100 000 fő lakosságszám feletti települések önkormányzatai, a megyei önkormányzatok és Budapest Főváros Önkormányzata esetében az 5 főt,
 - b) az 50 001–100 000 fő lakosságszámú települések önkormányzatai esetében a 3 főt,
 - c) a 10 001–50 000 fő lakosságszámú települések önkormányzatai esetében az 1 főt.
 
-(3b) A költségvetési biztos a kincstár elnökének előzetes jóváhagyásával az (1a) bekezdésben meghatározott feladatai ellátása érdekében kezdeményezheti a fővárosi vagy vármegyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
+(3b) A költségvetési biztos a kincstár elnökének előzetes jóváhagyásával az (1a) bekezdésben meghatározott feladatai ellátása érdekében kezdeményezheti a fővárosi vagy megyei kormányhivatal Mötv. 111. § (4e) bekezdés f) pontja szerinti eljárását, illetve javaslatot tehet az Állami Számvevőszék gazdálkodás ellenőrzésére irányuló eljárására.
 
 (4) A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak szerinti adatok megismerésére és kezelésére is jogosult. A költségvetési biztos a 39. § (10) és (11) bekezdésében meghatározottak kivételével a működése során tett véleményeit, javaslatait, ajánlásait, megállapításait és egyéb, a működése során készített dokumentumait nyilvánosságra hozhatja a különleges adatok, a minősített adatok, a személyes adatok és a törvény által védett egyéb adótitkok kivételével.
 
@@ -1020,7 +1020,7 @@ a kirendeléssel egyidejűleg tájékoztatja.
 
 (4) Az Alaptörvény 51. cikke szerinti veszélyhelyzet esetén a Kormány e törvény rendelkezéseitől eltérő átmeneti intézkedéseket hozhat, amelyről az Országgyűlés legközelebbi ülésén be kell számolnia. E jogkörében a Kormány az (1) bekezdésben foglaltakon túl a központi költségvetésről szóló törvényben nem szereplő költségvetési kiadásokat teljesíthet és rendkívüli fizetési kötelezettséget írhat elő.
 
-(5) Az Alaptörvény 51. cikke szerinti veszélyhelyzet esetén, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény rendelkezéseivel összhangban a vármegyei közgyűlés elnöke, a főpolgármester, a polgármester e törvény rendelkezéseitől eltérő, a helyi önkormányzat költségvetése körében a (4) bekezdés szerint átmeneti intézkedéseket hozhat, amelyekről a képviselő-testület, a vármegyei közgyűlés soron következő ülésén be kell számolnia.
+(5) Az Alaptörvény 51. cikke szerinti veszélyhelyzet esetén, a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény rendelkezéseivel összhangban a megyei közgyűlés elnöke, a főpolgármester, a polgármester e törvény rendelkezéseitől eltérő, a helyi önkormányzat költségvetése körében a (4) bekezdés szerint átmeneti intézkedéseket hozhat, amelyekről a képviselő-testület, a megyei közgyűlés soron következő ülésén be kell számolnia.
 
 #### 40/A. §
 
@@ -1173,7 +1173,7 @@ jogszabály vagy egyedi döntés (a továbbiakban: támogatási döntés) alapj�
 48/B. § (1) Nem lehet a támogatási jogviszonyban kedvezményezett
 
 - a) az, aki a támogatási döntést meghozta vagy aki a támogatási döntés meghozatalában döntés-előkészítőként részt vett,
-- b) az, aki a támogatási döntés időpontjában a Kormány tagja, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főispán, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, vármegyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
+- b) az, aki a támogatási döntés időpontjában a Kormány tagja, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, kormánymegbízott, kormánybiztos, miniszterelnöki megbízott, miniszterelnöki biztos, megyei közgyűlés elnöke, főpolgármester, polgármester – az 5000 fő vagy ez alatti lakosságszámú település polgármestere kivételével – , regionális fejlesztési ügynökség vezető tisztségviselője,
 - c) az a) és b) pont szerinti személlyel közös háztartásban élő hozzátartozó,
 - d) – a nyilvánosan működő részvénytársaság kivételével – az a) és b) pont szerinti személy tulajdonában álló gazdasági társaság,
 - e) – az állam, a helyi önkormányzat, illetve a köztestület legalább 50%-os közvetlen vagy közvetett tulajdonában lévő gazdasági társaság, valamint a HUN-REN Magyar Kutatási Hálózat, a sportszervezet, a sportszövetség, a polgárőr szervezet és az állam által alapított vagyonkezelő alapítvány és közfeladatot ellátó közérdekű vagyonkezelő alapítvány, valamint azon vagyonkezelő alapítvány és közfeladatot ellátó közérdekű vagyonkezelő alapítvány, amelyhez az állam csatlakozott kivételével – az olyan gazdasági társaság, alapítvány, egyesület, egyházi jogi személy vagy szakszervezet, illetve ezek önálló jogi személyiséggel rendelkező olyan szervezeti egysége, amelyben az a)–c) pont szerinti személy vezető tisztségviselő, az alapítvány kezelő szervének, szervezetének tagja, tisztségviselője, az egyesület, az egyházi jogi személy vagy a szakszervezet ügyintéző vagy képviseleti szervének tagja.
@@ -1656,12 +1656,12 @@ nem végezhet a (7) bekezdés szerinti tevékenységet.
 (2) A kincstárban fizetési számlát kötelesek vezetni
 
 - a) a térségi fejlesztési tanácsok és azok költségvetési szervként működő munkaszervezetei,
-- b) a vármegyei önkormányzatok és a vármegyei önkormányzatok önkormányzati hivatalai,
+- b) a megyei önkormányzatok és a megyei önkormányzatok önkormányzati hivatalai,
 - c) a Nemzeti Média- és Hírközlési Hatóság, valamint a Nemzeti Média- és Hírközlési Hatóság Médiatanácsa,
 - d) a Médiaszolgáltatás-támogató és Vagyonkezelő Alap,
 - e) az MNV Zrt.,
 - f) a Diákhitel Központ Zártkörűen Működő Részvénytársaság,
-- g) az Országgyűlés által, a Kormány által és a vármegyei önkormányzat által alapított közalapítványok,
+- g) az Országgyűlés által, a Kormány által és a megyei önkormányzat által alapított közalapítványok,
 - h) az olyan nonprofit gazdasági társaságok, amelyekben az állam legalább az Nvt. szerinti többségi befolyással rendelkezik,
 - i) a 6/B. § (3) bekezdése szerinti, jogszabály által kijelölt, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerint hitelintézetnek nem minősülő nem költségvetési szervi formában működő kezelő szerv, ide nem értve a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság tulajdonosi joggyakorlásával kapcsolatos kiadások alcím kezelő szerveként kijelölt gazdasági társaságot,
 - j) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
@@ -1817,7 +1817,7 @@ előirányzat-felhasználási keretként nyitja meg.
 
 (2)
 
-(3) A vármegyei önkormányzat önkormányzati hivatala és a térségi fejlesztési tanács költségvetési szervként működő munkaszervezete kivételével az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv fizetési számláját az irányító szerv által az (1) bekezdés szerint választott számlavezető vezeti.
+(3) A megyei önkormányzat önkormányzati hivatala és a térségi fejlesztési tanács költségvetési szervként működő munkaszervezete kivételével az államháztartás önkormányzati alrendszerébe tartozó költségvetési szerv fizetési számláját az irányító szerv által az (1) bekezdés szerint választott számlavezető vezeti.
 
 (4) A helyi önkormányzat hitelfelvétele, kötvénykibocsátása fedezetéül az önkormányzati törzsvagyon, a helyi önkormányzat általános működésének és ágazati feladatainak támogatása és a költségvetési támogatás nem használható fel. Ez az előírás nem vonatkozik a naptári éven belül lejáró, Gst. szerinti adósságot keletkeztető ügyletre, amelynek fedezetéül a helyi önkormányzatok általános működésének és ágazati feladatainak támogatása felhasználható.
 
@@ -1982,7 +1982,7 @@ eredményeképpen keletkeztek.
 
 97. § (1) Az állam, az államháztartás központi alrendszerébe tartozó költségvetési szervek, a nemzetiségi önkormányzatok, valamint az általuk irányított költségvetési szervek követeléséről lemondani csak törvényben meghatározott esetekben és módon lehet.
 
-(1a) A fővárosi és vármegyei kormányhivatal a Kormány rendeletében meghatározott méltányossági eljárás keretében a jogszabályban meghatározott családi otthonteremtési kedvezmény, otthonteremtési kamattámogatás, adó-visszatérítési támogatás, családok otthonteremtési kamattámogatása, gyermekvállalási támogatás, babaváró kölcsön kamattámogatása, valamint a felszámított kamatok tekintetében az államot megillető követelésről részben vagy egészben lemondhat.
+(1a) A fővárosi és megyei kormányhivatal a Kormány rendeletében meghatározott méltányossági eljárás keretében a jogszabályban meghatározott családi otthonteremtési kedvezmény, otthonteremtési kamattámogatás, adó-visszatérítési támogatás, családok otthonteremtési kamattámogatása, gyermekvállalási támogatás, babaváró kölcsön kamattámogatása, valamint a felszámított kamatok tekintetében az államot megillető követelésről részben vagy egészben lemondhat.
 
 (2) A helyi önkormányzat, a társulás, a térségi fejlesztési tanács, valamint az általuk irányított költségvetési szervek követeléséről lemondani csak törvényben vagy helyi önkormányzati rendeletben meghatározott esetekben és módon lehet.
 
@@ -2180,7 +2180,7 @@ követő naptári év utolsó napjáig kezeli.
 
 (2) A kincstár az (1) bekezdés szerinti adatszolgáltatást a Kormány tagja felkérésében meghatározott – a 106/A. § (1) bekezdés a), b), d), e) és f) pontja szerinti adatok alapján (ide nem értve a társadalombiztosítási azonosító jelre, az adóazonosító jelre, a fizetési számlaszámra, valamint a behajtandó követelésekre vonatkozó adatokat) képezhető – tájékoztatási célcsoportoknak – a Kormányzati Tájékoztatási Központon (a továbbiakban: KTK) keresztül – akként teljesíti, hogy a tájékoztatás megszemélyesítése során személyes adat más adatkezelőnek való továbbítására nem kerül sor. A KTK a tájékoztatás az érintettekkel való közléséhez az érintettek természetes személyazonosító adatait és lakcímét használhatja fel.
 
-(3) Nem nyújtható az (1) bekezdés alapján adatszolgáltatás a bírói szolgálati viszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, ügyészségi szolgálati viszonyban, a Sándor-palotával, az Országgyűlés Hivatalával, az Alkotmánybíróság Hivatalával, az Alapvető Jogok Biztosának Hivatalával, az Állami Számvevőszékkel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, önálló szabályozó szervvel, autonóm államigazgatási szervvel, a Magyar Tudományos Akadémia Titkárságával, a Magyar Művészeti Akadémia Titkárságával, az Állambiztonsági Szolgálatok Történeti Levéltárával, az Országgyűlési Őrséggel, a Nemzeti Emlékezet Bizottságának Hivatalával vagy nemzetbiztonsági szolgálattal foglalkoztatásra irányuló jogviszonyban állókra vonatkozónak.
+(3) Nem nyújtható az (1) bekezdés alapján adatszolgáltatás a bírói szolgálati viszonyban, igazságügyi alkalmazotti szolgálati jogviszonyban, ügyészségi szolgálati viszonyban, a Sándor-palotával, az Országgyűlés Hivatalával, az Alkotmánybíróság Hivatalával, az Alapvető Jogok Biztosának Hivatalával, az Állami Számvevőszékkel, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatallal, önálló szabályozó szervvel, autonóm államigazgatási szervvel, a Magyar Tudományos Akadémia Titkárságával, a Magyar Művészeti Akadémia Titkárságával, az Állambiztonsági Szolgálatok Történeti Levéltárával, a Nemzeti Emlékezet Bizottságának Hivatalával vagy nemzetbiztonsági szolgálattal foglalkoztatásra irányuló jogviszonyban állókra vonatkozónak.
 
 (4) A kincstár az (1)–(3) bekezdés szerinti adatszolgáltatást az államháztartásért felelős miniszter jóváhagyását követően, a jóváhagyástól számított 15 munkanapon belül teljesíti a miniszter általa kiadott nyomtatvány használatával.
 
@@ -2514,7 +2514,7 @@ részletes szabályait,
 - 28. a honvédelemért felelős miniszter által vezetett minisztérium fejezetébe tartozó, a honvédelemmel összefüggő feladatokat ellátó költségvetési szervek és a nemzetbiztonsági szolgálatok költségvetése tervezésének, pénzellátásának, gazdálkodásának, adatszolgáltatási-, könyvvezetési és beszámolási feladatainak a kincstári rendszer, az e törvény felhatalmazása és végrehajtására kiadott kormányrendelettől, valamint az államháztartás számviteléről szóló kormányrendelettől eltérő sajátos szabályait,
 - 29. a Kormány irányítása vagy felügyelete alatt álló rendvédelmi szervekről, a honvédelemért felelős miniszter által vezetett minisztériumról, az irányítása alá tartozó költségvetési szervekről és a nemzetbiztonsági szolgálatokról a kincstárnál nyilvántartásba vehető adatok körét, a kincstári nyilvántartásba nem vehető adatokat nyilvántartó szerv kijelölését, továbbá az ezen adatokra vonatkozó nyilvántartás sajátos eljárási szabályait,
 - 30. a Magyar Honvédség szervei, valamint a rendvédelmi szervek tekintetében az irányítói jogok középirányító szervre történő átruházásának részletszabályait,
-- 31. a határon túli költségvetési támogatásoknak, az egyházi célú költségvetési támogatásoknak, a központi költségvetésből nyújtott és a vármegyei önkormányzat és a megyei jogú város önkormányzat kedvezményezettnek, a megyei jogú város fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak végrehajtását szolgáló, hazai forrásból nyújtott költségvetési támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
+- 31. a határon túli költségvetési támogatásoknak, az egyházi célú költségvetési támogatásoknak, a központi költségvetésből nyújtott és a megyei önkormányzat és a megyei jogú város önkormányzat kedvezményezettnek, a megyei jogú város fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak végrehajtását szolgáló, hazai forrásból nyújtott költségvetési támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
 - 32. a magyar építészetről szóló törvény szerinti rozsdaövezeti akcióterületen létesített többlakásos lakóingatlanban kialakítandó vagy kialakított lakások vásárlásához a központi költségvetésből vissza nem térítendő állami támogatásként nyújtott adó-visszatérítési támogatásoknak a költségvetési támogatások nyújtásának e törvény végrehajtására kiadott rendeletben meghatározott rendjétől eltérő sajátos szabályait,
 - 33. az államháztartási könyvvezetési és beszámolókészítési kötelezettség részletes szabályait,
 - 34. az államháztartási összesítések konszolidációs rendjét

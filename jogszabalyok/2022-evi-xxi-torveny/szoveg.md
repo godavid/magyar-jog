@@ -164,7 +164,7 @@ vezetnek.
 - a) Magyarország befogadó nemzeti támogatással kapcsolatos ügyekben illetékes kapcsolattartó szervezeteit, azok elérhetőségét, a befogadó nemzeti támogatás nemzeti struktúráját, koordinációs és irányítási rendszerét,
 - b) a fogadó létesítményeket, különösen a vasúti ki- és berakóállomásokat, a folyami kikötőket, a repülőtereket és a határátkelőhelyeket,
 - c) az egészségügyi ellátás biztosításához felajánlható képességeket, valamint
-- d) a Honvédség, a rendvédelmi szerv, a polgári nemzetbiztonsági szolgálat, és az Országgyűlési Őrség (a továbbiakban: OGYŐ) befogadó nemzeti támogatással kapcsolatos képességeit.
+- d) a Honvédség, a rendvédelmi szerv, a polgári nemzetbiztonsági szolgálat befogadó nemzeti támogatással kapcsolatos képességeit.
 
 13. § (1) A befogadó nemzeti támogatással összefüggő adatokat az 5. melléklet szerinti adatkörben a honvédelemben közreműködő szerv – az irányítási, a felügyeleti, a tulajdonosi vagy résztulajdonosi jogkört gyakorló központi államigazgatási szerv útján – szolgáltatja a befogadó nemzeti támogatás központi koordináló szerve részére.
 
@@ -255,14 +255,14 @@ kezeli.
   - a) a hivatásos, szerződéses, önkéntes tartalékos, hallgatói, honvéd tisztjelölti vagy altisztjelölti állományba felvettekről, a szolgálatot teljesítőkről, valamint azokról, akiknek a szolgálati viszonya, jogviszonya megszűnt,
   - b) azon hadkötelesekről, akik hadkötelezettség alapján szolgálatot teljesítenek, továbbá azokról, akiknek a hadkötelezettség alapján teljesített katonai szolgálati viszonya megszűnt, valamint
   - c) a honvédelmi alkalmazotti, közalkalmazotti állományba felvettekről, munkavállalói jogviszonyt létesítőkről, a honvédelmi alkalmazotti, közalkalmazotti, munkavállalói jogviszonnyal rendelkezőkről, valamint azokról, akiknek a jogviszonya, munkaviszonya megszűnt;
-- 3. az OGYŐ a hivatásos, a polgári nemzetbiztonsági szolgálatok a hivatásos, és a rendvédelmi szervek a hivatásos és szerződéses állományában foglalkoztatottakról, ideértve a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) esetében a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakat is, valamint azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
+- 3. a polgári nemzetbiztonsági szolgálatok a hivatásos állományában foglalkoztatottakról, a rendvédelmi szervek a hivatásos és szerződéses állományában foglalkoztatottakról, a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) a pénzügyőri státuszú és pénzügyőri munkakörben foglalkoztatottakról, valamint ezen szervezetek azokról, akiknek a szolgálati viszonya megszűnt a 6. melléklet 1. pont 1.1–1.5. alpontjában, 14. pont 14.1–14.6. alpontjában, valamint 16. pontjában meghatározott adataikra vonatkozóan;
 - 4. a rehabilitációs szakértői szerv a legalább 40%-ot elérő össz-szervezeti egészségkárosodásról, annak érvényességi idejéről;
 - 5. a szabadságelvonással járó büntetés, intézkedés, büntetőjogi, illetve szabálysértési elzárás, illetve szabadságvesztés büntetésüket töltő személy esetén a szabadságvesztés megkezdésének idejéről, szabadulásának várható idejéről, szabadulásának időpontjáról, valamint a szabadságelvonással járó büntetés, intézkedés, büntetőjogi, illetve szabálysértési elzárás megkezdésének és befejezésének várható idejéről, befejezésének időpontjáról a Büntetés-végrehajtás Országos Parancsnokságának (a továbbiakban: BVOP) illetékes szerve;
 - 6. a gondnokoltak nyilvántartásának vezetéséért és üzemeltetéséért felelős Országos Bírósági Hivatal elnöke a cselekvőképességét teljesen vagy részlegesen korlátozó gondnokság alá helyezésről, a felülvizsgálat idejéről, megszűnéséről, megszüntetéséről;
 - 7. egészségügyi szakterületen
   - a) a Honvédség központi egészségügyi szerve a hivatásos, szerződéses, és önkéntes tartalékos állományra vonatkozóan a katonai szolgálatra való egészségi alkalmasságáról, korlátozásokról, a minősítés típusáról, időpontjáról, esetleges felülvizsgálatának dátumáról,
   - b) az érintett egészségügyi alapellátását végző egészségügyi szolgáltató a hadkötelesre és a katonai szolgálatot törvény alapján önként vállaló honvédelmi alkalmazottra vonatkozóan a várható alkalmassági kategóriájáról, annak megállapítása időpontjáról;
-- 8. a fővárosi és vármegyei kormányhivatal az ideiglenes gondnokság alá helyezettekről, a gondnokság alá helyezés megállapításának, illetve megszűnésének időpontjáról, a gondnokság alá helyezett és a gondnokul kijelölt személyazonosító adatairól;
+- 8. a fővárosi és megyei kormányhivatal az ideiglenes gondnokság alá helyezettekről, a gondnokság alá helyezés megállapításának, illetve megszűnésének időpontjáról, a gondnokság alá helyezett és a gondnokul kijelölt személyazonosító adatairól;
 - 9. a NAV átadja az adózás rendjéről szóló 2017. évi CL. törvény 50. § (2) bekezdés 3., 5. és 15. pontjában meghatározott adatokat, valamint a Társadalombiztosítási Azonosító Jelét, a három vagy ennél több, kiskorú vér szerinti, örökbe fogadott, vagy nevelt gyermek után az adózás rendjéről szóló 2017. évi CL. törvény szerinti családi kedvezményben részesülő személyek személyazonosító adatait és a családi kedvezményre jogosító gyermekek születési dátumát;
 - 10. a köznevelési információs rendszer, szakképzési információs rendszer, valamint felsőoktatási információs rendszer működtetéséért felelős szerv az általa vezetett központi nyilvántartásban szereplők már megszerzett végzettségéről, képzettségéről, megszerzés időpontjáról, továbbá az állami szakképzési és felnőttképzési szerv által vezetett nyilvántartásban szereplők már megszerzett végzettségéről, képzettségéről, a megszerzés időpontjáról;
 - 11. a nyelvvizsgák nyelvvizsgaanyakönyveinek nyilvántartását vezető szerv a nyilvántartásban szereplők nyelvtudására vonatkozó adatokról;
@@ -290,7 +290,7 @@ kezeli.
   - ad) a hadköteles nyilvántartásban lévőkről a 7. melléklet szerinti adataik megváltozását követő 8 napon belül,
 - b) a Honvédség központi személyügyi szerve, valamint a kiképzési nyilvántartást vezető kiképzést végző honvédelmi szervezet minden hónap 5. napjáig,
 - c) a Honvédség központi egészségügyi szerve a 19. § 7. pont a) alpontjára vonatkozó adatokról minden hónap 5. napjáig, az érintett egészségügyi alapellátását végző egészségügyi szolgáltató a 19. § 7. pont b) alpontjára vonatkozó adatokról minden év július 31. napjáig,
-- d) a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a közúti közlekedési nyilvántartó szerv, az OGYŐ, a rehabilitációs szakértői szerv, és a BVOP illetékes szerve, a gondnokoltak nyilvántartásának vezetéséért és üzemeltetéséért felelős Országos Bírósági Hivatal elnöke, az illetékes fővárosi és vármegyei kormányhivatal, a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását vezető szerv, az egységes szociális nyilvántartást vezető szerv, a fogyatékossági támogatásban, vakok személyi járadékában részesülők nyilvántartását vezető szerv, az egyházi jogi személy a hadkötelezettségtől eltérő időszakban minden év január 31. napjáig, a hadkötelezettség fennállásának időszakában minden hónap 5. napjáig,
+- d) a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, a közúti közlekedési nyilvántartó szerv, a rehabilitációs szakértői szerv, és a BVOP illetékes szerve, a gondnokoltak nyilvántartásának vezetéséért és üzemeltetéséért felelős Országos Bírósági Hivatal elnöke, az illetékes fővárosi és megyei kormányhivatal, a nyelvvizsgák nyelvvizsga-anyakönyveinek nyilvántartását vezető szerv, az egységes szociális nyilvántartást vezető szerv, a fogyatékossági támogatásban, vakok személyi járadékában részesülők nyilvántartását vezető szerv, az egyházi jogi személy a hadkötelezettségtől eltérő időszakban minden év január 31. napjáig, a hadkötelezettség fennállásának időszakában minden hónap 5. napjáig,
 - e) a választási szerv a nyilvántartásba vételt, a megválasztást vagy a megbízatás megszűnését követő 8 napon belül, a név és személyi azonosító, vagy természetes személyazonosító adatokkal,
 - f)
 - g) a köznevelési információs rendszer, szakképzési információs rendszer, valamint felsőoktatási információs rendszer működtetéséért felelős szerv, az állami szakképzési és felnőttképzési szerv, a honvéd tisztképzést végző szerv, honvédelmi ismeretek oktatását végző közoktatási és felsőoktatási intézmény, valamint honvédelmi és rendvédelmi szervezet, továbbá a polgári nemzetbiztonsági szolgálatok minden év február 28. napjáig és július 31. napjáig,
@@ -310,7 +310,7 @@ küldi meg a Honvédség központi nyilvántartó szerve részére.
 
 #### 12. Megkeresésre történő adatszolgáltatás a hadköteles nyilvántartáshoz
 
-21. § (1) A fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) vezetője adatot szolgáltat a hadköteles nyilvántartás pontosításához
+21. § (1) A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának (a továbbiakban: járási hivatal) vezetője adatot szolgáltat a hadköteles nyilvántartás pontosításához
 
 - a) a Honvédség központi nyilvántartó szervének megkeresésére az illetékességi területén bejelentett lakóhellyel rendelkező hadkötelesek lakcímadatairól, személyazonosító igazolvány és útlevél adatairól,
 - b) a hadkötelezettség fennállása idején a hadkiegészítő központ megkeresésére az illetékességi területén bejelentett lakóhellyel rendelkező hadkötelesek természetes személyazonosító-, lakcímadatairól, személyazonosító igazolvány és útlevél adatairól.
@@ -1535,7 +1535,7 @@ tájékoztatja.
 
 (7) A szükséges eljárás megindításához és lefolytatásához elengedhetetlen adatok és információk biztosítása céljából – ha az eljárás megindítását megalapozó cselekmény elkövetésére utaló adat vagy információ a (3) bekezdés szerinti időtartamon belül merül fel – a katonai rendészeti feladatokat ellátó honvédségi szervezet az (5) bekezdés alapján rögzített adatok kezelésének határidejét legfeljebb 30 nappal meghosszabbíthatja. Ha ezen időtartamon belül nem indul eljárás, amelyben a felvételek felhasználhatók, az adatokat haladéktalanul törölni kell.
 
-(8) A (3) bekezdésben meghatározott határidőn belül a rögzített felvételből a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági feladatainak ellátása céljából a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, a nemzetbiztonsági szolgálat, a terrorizmust elhárító szerv, valamint jogainak gyakorlása érdekében az érintett igényelhet adatot.
+(8) A (3) bekezdésben meghatározott határidőn belül a rögzített felvételből a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, nemzetbiztonsági feladatainak ellátása céljából a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a szabálysértési hatóság, a nemzetbiztonsági szolgálat, a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata ellátása céljából a rendőrség, valamint jogainak gyakorlása érdekében az érintett igényelhet adatot.
 
 (9) A katonai rendészeti feladatokat ellátó honvédségi szervezet a felvétel kezelése során köteles megtenni az ahhoz szükséges szervezési, technikai és egyéb adatbiztonsági intézkedéseket, hogy az érintett személy személyes adatait, így különösen magántitkait és magánéletének körülményeit illetéktelen személy tudomására jutásától megóvja.
 
@@ -2530,7 +2530,7 @@ A bejelentésre kötelezett személy
 - 14.1. a szolgálat formája – fegyveres, fegyver nélküli katonai és polgári –, típusa, kezdete, befejezése,
 - 14.2. megszerzett katonai szakképzettsége,
 - 14.3. az elért rendfokozata,
-- 14.4. a szolgálat teljesítésének helye – a katonai, a rendvédelmi szerv, a polgári nemzetbiztonsági szolgálat, az Országgyűlési Őrség, közintézmény –,
+- 14.4. a szolgálat teljesítésének helye – a katonai, a rendvédelmi szerv, a polgári nemzetbiztonsági szolgálat, közintézmény –,
 - 14.5. a szolgálat során elért címei, osztályos fokozata és a megszerzett szakmai gyakorlata, beosztása,
 - 14.6. a szolgálati viszony megszűnésének, megszüntetésének oka,
 - 14.7. a szolgálat félbeszakításának oka,

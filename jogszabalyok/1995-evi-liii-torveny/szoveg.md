@@ -509,9 +509,9 @@ képviselői.
 - e) elemzi, értékeli a környezet állapotát illetékességi területén, és arról szükség szerint, de legalább évente egyszer tájékoztatja a lakosságot;
 - f) a fejlesztési feladatok során érvényesíti a környezetvédelem követelményeit, elősegíti a környezeti állapot javítását.
 
-(2) A vármegyei önkormányzat az épített és természeti környezet védelmével kapcsolatos feladatainak ellátása érdekében
+(2) A megyei önkormányzat az épített és természeti környezet védelmével kapcsolatos feladatainak ellátása érdekében
 
-- a) a települési önkormányzatokkal és az illetékes vármegyei területfejlesztési tanáccsal egyeztetve vármegyei környezetvédelmi programot készít a 48/D. §-ban foglaltak szerint, amelyet a vármegyei közgyűlés hagy jóvá;
+- a) a települési önkormányzatokkal és az illetékes megyei területfejlesztési tanáccsal egyeztetve megyei környezetvédelmi programot készít a 48/D. §-ban foglaltak szerint, amelyet a megyei közgyűlés hagy jóvá;
 - b) előzetes véleményt nyilvánít a települési önkormányzati környezetvédelmi programokról, illetve kezdeményezheti azok megalkotását;
 - c) állást foglal a települési önkormányzatok környezetvédelmet érintő rendeleteinek tervezetével kapcsolatban;
 - d) elősegíti az 58. § (7) bekezdése szerinti egyezség létrehozását;
@@ -568,7 +568,7 @@ alkothat rendeletet.
 
 (3) A környezetvédelmi terv készítőjének az előkészítés során gondoskodnia kell a terv széleskörű társadalmi egyeztetéséről.
 
-48/B. § (1) Átfogó környezetvédelmi terv az e törvényben szabályozott országos [40. §] és területi (regionális [48/C. §], vármegyei [48/D. §] és települési [48/E. §]) környezetvédelmi program.
+48/B. § (1) Átfogó környezetvédelmi terv az e törvényben szabályozott országos [40. §] és területi (regionális [48/C. §], megyei [48/D. §] és települési [48/E. §]) környezetvédelmi program.
 
 (2) Az átfogó környezetvédelmi terv tartalmazza:
 
@@ -582,7 +582,7 @@ alkothat rendeletet.
 
 (4) A területi környezetvédelmi programot szükség szerint, de legalább a Program megújítását, illetve felülvizsgálatát követően – a 48/A. § (2) bekezdésének figyelembevételével – felül kell vizsgálni.
 
-48/C. § (1) A regionális fejlesztési tanács a tervezési-statisztikai régióra vonatkozóan az érintett vármegyei önkormányzatokkal egyeztetve regionális környezetvédelmi programot készít.
+48/C. § (1) A regionális fejlesztési tanács a tervezési-statisztikai régióra vonatkozóan az érintett megyei önkormányzatokkal egyeztetve regionális környezetvédelmi programot készít.
 
 (2) A regionális környezetvédelmi program tartalmazza a 48/B. § (2) bekezdésben foglaltaknak megfelelően azokat a célokat és intézkedéseket, amelyek elérése, illetve megvalósítása regionális szinten hatékony és indokolt.
 
@@ -590,13 +590,13 @@ alkothat rendeletet.
 
 (4) A regionális fejlesztési tanács a döntési hatáskörébe utalt támogatásokról szóló döntések meghozatalakor elősegíti a programban előirányzott fejlesztések támogatását.
 
-48/D. § (1) A vármegyei környezetvédelmi program tartalmazza a 48/B. § (2) bekezdésben foglaltaknak megfelelően azokat a célokat és intézkedéseket, amelyek elérése, illetve megvalósítása vármegyei szinten hatékony és indokolt.
+48/D. § (1) A megyei környezetvédelmi program tartalmazza a 48/B. § (2) bekezdésben foglaltaknak megfelelően azokat a célokat és intézkedéseket, amelyek elérése, illetve megvalósítása megyei szinten hatékony és indokolt.
 
-(2) A vármegyei közgyűlés gondoskodik a vármegyei környezetvédelmi programban foglalt feladatok végrehajtásáról, a végrehajtás feltételeinek biztosításáról, figyelemmel kíséri az azokban foglalt feladatok megoldását.
+(2) A megyei közgyűlés gondoskodik a megyei környezetvédelmi programban foglalt feladatok végrehajtásáról, a végrehajtás feltételeinek biztosításáról, figyelemmel kíséri az azokban foglalt feladatok megoldását.
 
-(3) A vármegyei önkormányzat éves költségvetéséről szóló zárszámadásával egyidejűleg be kell számolni a vármegyei környezetvédelmi program végrehajtásának előző évi alakulásáról.
+(3) A megyei önkormányzat éves költségvetéséről szóló zárszámadásával egyidejűleg be kell számolni a megyei környezetvédelmi program végrehajtásának előző évi alakulásáról.
 
-(4) A vármegyei területfejlesztési tanács a döntési hatáskörébe utalt támogatásokról szóló döntések meghozatalakor elősegíti a környezetvédelmi programban előirányzott fejlesztések támogatását.
+(4) A megyei területfejlesztési tanács a döntési hatáskörébe utalt támogatásokról szóló döntések meghozatalakor elősegíti a környezetvédelmi programban előirányzott fejlesztések támogatását.
 
 48/E. § (1) A települési környezetvédelmi programnak a település adottságaival, sajátosságaival és gazdasági lehetőségeivel összhangban – a 48/B. § (2) bekezdésben foglaltakon túl – tartalmaznia kell
 
@@ -649,7 +649,7 @@ véleményezésre megküldi.
 
 (2) A környezetvédelmi hatóság a véleményezésbe bevonja az illetékes környezetvédelmi igazgatási szervet, a hulladékgazdálkodási hatóságot, a védett természeti területek természetvédelmi kezeléséért felelős szervet, valamint a természetvédelmi hatósági feladatokat ellátó szervet, amelyek 30 napon belül tájékoztatják véleményükről a hatóságot.
 
-(3) A települési önálló vagy közös környezetvédelmi program tervezetét – az (1) bekezdésben meghatározott szerveken túl – az illetékes vármegyei önkormányzatnak, a vármegyei környezetvédelmi program tervezetét az illetékes regionális területfejlesztési konzultációs fórumnak is meg kell küldeni véleményezésre.
+(3) A települési önálló vagy közös környezetvédelmi program tervezetét – az (1) bekezdésben meghatározott szerveken túl – az illetékes megyei önkormányzatnak, a megyei környezetvédelmi program tervezetét az illetékes regionális területfejlesztési konzultációs fórumnak is meg kell küldeni véleményezésre.
 
 (4) A véleményező szervek szakmai véleményükről hatvan napon belül tájékoztatják a környezetvédelmi program kidolgozóját.
 

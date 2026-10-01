@@ -173,7 +173,7 @@ hatósági eljárásokban.
 - a) a légiközlekedési, a légiközlekedés-védelmi hatósági felügyeletet ellátó és a légiközlekedés-védelmi, valamint biztonsági ellenőrzést végző, ellenőrzésre jogosító igazolvánnyal rendelkező személy,
 - b) a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása alá tartozó, nem gazdasági társasági formában működő szervezet,
 - c) a Közlekedésbiztonsági Szervezet,
-- d) az általános rendőrségi feladatok ellátására létrehozott szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv és a terrorizmust elhárító szerv (a továbbiakban együtt: rendőrség), a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv, valamint az Országgyűlési Őrség.
+- d) az általános rendőrségi feladatok ellátására létrehozott szerv és a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv (a továbbiakban együtt: rendőrség), a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv.
 
 (3b) A katonai légügyi hatóság eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni.
 
@@ -182,7 +182,7 @@ hatósági eljárásokban.
 - a) a Magyar Állam;
 - b) a helyi önkormányzatok és azok társulásai;
 - c) a Magyar Honvédség és a honvédelemért felelős miniszter közvetlen irányítása és felügyelete alá tartozó szervezetek;
-- d) a rendőrség, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv, valamint az Országgyűlési Őrség;
+- d) a rendőrség, a polgári nemzetbiztonsági szolgálatok, a büntetés-végrehajtási szervezet, a vámhatóság, a hivatásos katasztrófavédelmi szerv;
 - e) az állami (honvédelmi és rendvédelmi) szervezetek által – nemzetközi megállapodás alapján – bérelt, lízingelt légijárművek bérbeadója, lízingbeadója.
 
 (5) A jogszabályban meghatározott veszélyes áruk légi szállításra történő előkészítésének, valamint a légi úton beérkezett veszélyes áruk nem közvetlenül légi úton történő továbbításának ellenőrzését a Kormány rendeletében kijelölt hatóság (a továbbiakban: a Kormány rendeletében kijelölt hatóság) is végzi.
@@ -591,7 +591,7 @@ vonatkozó azon döntéseiről, amelyek a meglévő tanúsítványok és engedé
 - e) kiadott szakszolgálati engedélyekről, valamint
 - f) üzembentartási engedélyekről,
 
-vezetett nyilvántartások adatait a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladataik ellátása céljából a polgári nemzetbiztonsági szolgálat, valamint terrormegelőzési célból a terrorizmust elhárító szerv közvetlen adathozzáféréssel átveheti.
+vezetett nyilvántartások adatait a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott feladataik ellátása céljából a polgári nemzetbiztonsági szolgálat, valamint terrormegelőzési célból az általános rendőrségi feladatok ellátására létrehozott szerv közvetlen adathozzáféréssel átveheti.
 
 ### Az állami légijármű nyilvántartása és jelzései
 
@@ -915,7 +915,7 @@ kezelheti.
 - a) beszállás lezárása: amikor az utasok beszálltak a felszállásra készülő repülőgépre és az utasok beszállása, vagy kiszállása már nem lehetséges,
 - b) utas: a személyzet tagja kivételével az egy légi jármű fedélzetén a személyszállítást végző légifuvarozó hozzájárulásával szállított vagy szállítandó személy – beleértve a tranzit- vagy átszálló utasokat is –, akinek a személyes adatai kezeléséhez való hozzájárulását az utasjegyzékbe történő felvétele igazolja.
 
-27/E. § A személyszállítást végző légifuvarozó nemzetbiztonsági és terrormegelőzési célból köteles a veszélyes árut vagy fegyvert szállító utasokra, poggyászra, áru- és rakománytartalomra vonatkozó adatokat – ideértve a 27/A. § (1) és (3) bekezdés szerinti adatokat – közvetlenül megküldeni a terrorizmust elhárító szerv, az általános rendőrségi feladatok ellátására létrehozott szerv, a Nemzeti Adó- és Vámhivatal, valamint az Alkotmányvédelmi Hivatal részére.
+27/E. § A személyszállítást végző légifuvarozó nemzetbiztonsági és terrormegelőzési célból köteles a veszélyes árut vagy fegyvert szállító utasokra, poggyászra, áru- és rakománytartalomra vonatkozó adatokat – ideértve a 27/A. § (1) és (3) bekezdés szerinti adatokat – közvetlenül megküldeni az általános rendőrségi feladatok ellátására létrehozott szerv, a Nemzeti Adó- és Vámhivatal, valamint az Alkotmányvédelmi Hivatal részére.
 
 ### A légijárművel végzett egyéb gazdasági tevékenység
 
@@ -1009,9 +1009,9 @@ kezelheti.
 
 (3) A légiközlekedési hatóság az általa kiadott magyar vizsgáztatói tanúsítványt vagy oktatói szakszolgálati engedélyt (a továbbiakban: engedély) annak kiadását követő tíz munkanapon belül megküldi az általános rendőrségi feladatok ellátására létrehozott szervnek az engedély közbiztonsági, terrorfenyegetettségi és nemzetbiztonsági szempontú vizsgálata céljából.
 
-(4) Az általános rendőrségi feladatok ellátására létrehozott szerv a bejelentést, engedélyt annak beérkezésétől számított két munkanapon belül megküldi a terrorizmust elhárító szervnek, az Alkotmányvédelmi Hivatalnak, az Információs Hivatalnak és a Katonai Nemzetbiztonsági Szolgálatnak közbiztonsági és terrorfenyegetettségi kockázat, valamint nemzetbiztonsági érdek sérelmének vizsgálata céljából.
+(4) Az általános rendőrségi feladatok ellátására létrehozott szerv a bejelentést, engedélyt annak beérkezésétől számított két munkanapon belül megküldi az Alkotmányvédelmi Hivatalnak, az Információs Hivatalnak és a Katonai Nemzetbiztonsági Szolgálatnak közbiztonsági és terrorfenyegetettségi kockázat, valamint nemzetbiztonsági érdek sérelmének vizsgálata céljából.
 
-(5) A terrorizmust elhárító szerv, az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Nemzetbiztonsági Szolgálat a megkeresés beérkezésétől számított négy munkanapon belül megküldi a vizsgálat eredményét tartalmazó szakvéleményét az általános rendőrségi feladatok ellátására létrehozott szervnek.
+(5) Az Alkotmányvédelmi Hivatal, az Információs Hivatal, valamint a Katonai Nemzetbiztonsági Szolgálat a megkeresés beérkezésétől számított négy munkanapon belül megküldi a vizsgálat eredményét tartalmazó szakvéleményét az általános rendőrségi feladatok ellátására létrehozott szervnek.
 
 (6) Az általános rendőrségi feladatok ellátására létrehozott szerv közbiztonsági kockázat, továbbá – az (5) bekezdés szerinti szakvélemények alapján – közbiztonsági, illetve terrorfenyegetettségi kockázat vagy a nemzetbiztonsági érdek sérelme esetén – az erről szóló döntés légiközlekedési hatóság részére történő megküldése mellett – az érintett személy számára
 
@@ -1477,7 +1477,7 @@ továbbá Magyarország légterében a légiforgalmi navigációs, távközlési
 
 a felhasználói fiókja érvényességi idejének lejártától számított 60 napig.
 
-(9) A Társaság által a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás működtetésével összefüggésben tárolt adatok köréből a rendvédelmi feladatot, nemzetbiztonsági feladatot, bűnmegelőzési feladatot ellátó, nyomozó hatósági jogkört gyakorló, a terrorizmust elhárító szerv, a légiközlekedési hatóság, továbbá a bíróság az adatállományból közvetlen hozzáféréssel adatot vehet át vagy eseti megkeresés alapján, az adatkezelés céljának megjelölésével adatot igényelhet.
+(9) A Társaság által a pilóta nélküli légijárművek használatát támogató, az aktuális légtér információkat és egyéb korlátozásokat tartalmazó honlap és mobilalkalmazás működtetésével összefüggésben tárolt adatok köréből a rendvédelmi feladatot, nemzetbiztonsági feladatot, bűnmegelőzési feladatot ellátó, nyomozó hatósági jogkört gyakorló szerv, a légiközlekedési hatóság, továbbá a bíróság az adatállományból közvetlen hozzáféréssel adatot vehet át vagy eseti megkeresés alapján, az adatkezelés céljának megjelölésével adatot igényelhet.
 
 (10) A 923/2012/EU rendeletnek, a 139/2014/EU rendeletnek és az (EU) 2017/373 rendeletnek a légiforgalmi szolgáltatásra/a léginavigációs szolgálatokra, a légtérszerkezet kialakítására, az adatminőségre és a futópálya biztonságára vonatkozó követelmények tekintetében történő módosításáról, valamint a 73/2010/EU rendelet hatályon kívül helyezéséről szóló, 2020. február 14-i (EU) 2020/469 bizottsági végrehajtási rendelet [a továbbiakban: (EU) 2020/469 bizottsági végrehajtási rendelet] III. Melléklet ATS.OR.400–ATS.OR.450 pontja alapján rögzített adatok az (EU) 2020/469 bizottsági végrehajtási rendeletben meghatározott célok mellett kutatás-fejlesztési és a légiközlekedési hatóság tevékenységével összefüggő célból, valamint a Társaság működésével összefüggő érdekből használhatók fel.
 
@@ -1834,7 +1834,7 @@ folytatja le.
 
 - a) 11.1.3. pont a) és c) alpontjában, valamint 11.1.4. pont a) és c) alpontjában megjelölt adatokat a légiközlekedés védelmében közreműködő szervezet,
 - b) 11.1.3. pont b) alpontjában és 11.1.4. pont b) alpontjában megjelölt adatokat az általános rendőrségi feladatokat ellátó szerv,
-- c) 11.1.3. pont d) alpontjában megjelölt adatokat a terrorizmust elhárító szerv és az Alkotmányvédelmi Hivatal
+- c) 11.1.3. pont d) alpontjában megjelölt adatokat az általános rendőrségi feladatok ellátására létrehozott szerv és az Alkotmányvédelmi Hivatal
 
 kezeli.
 
@@ -1846,7 +1846,7 @@ kezeli.
 
 (15) A (12) bekezdésben meghatározott szervezetek és szervek a védelmi háttérellenőrzés keretében általuk kezelt adatokat az (EU) 2015/1998 bizottsági végrehajtási rendelet szerinti védelmi háttérellenőrzésre kötelezett személy foglalkoztatásának megszűnésétől számított 5 évig megőrzik. A védelmi háttérellenőrzés a kötelezett személyekkel szemben az (EU) 2015/1998 bizottsági végrehajtási rendelet Melléklet 11.1.7. pont b) alpontjában meghatározott időtartamon belül is bármikor megismételhető.
 
-(15a) A védelmi háttérellenőrzésben részt vevő légiközlekedési hatóság, az általános rendőrségi feladatok ellátására létrehozott szerv, a terrorizmust elhárító szerv és az Alkotmányvédelmi Hivatal meghatározott időközönként, folyamatosan folytatják le a nyilvántartásban szereplő személyek védelmi háttérellenőrzését. A fokozott háttérellenőrzés esetén 1 évig, a standard háttérellenőrzés esetén 3 évig tartó időszakon belül biztosítják a háttérellenőrzések folyamatosságát.
+(15a) A védelmi háttérellenőrzésben részt vevő légiközlekedési hatóság, az általános rendőrségi feladatok ellátására létrehozott szerv és az Alkotmányvédelmi Hivatal meghatározott időközönként, folyamatosan folytatják le a nyilvántartásban szereplő személyek védelmi háttérellenőrzését. A fokozott háttérellenőrzés esetén 1 évig, a standard háttérellenőrzés esetén 3 évig tartó időszakon belül biztosítják a háttérellenőrzések folyamatosságát.
 
 (16) Foglalkoztatást kizáró oknak minősül, ha az (EU) 2015/1998 bizottsági végrehajtási rendelet szerinti háttérellenőrzés alkalmával végrehajtott vizsgálat a következő tények valamelyikét állapítja meg a háttérellenőrzésre kötelezett személyről:
 
@@ -1898,12 +1898,12 @@ kezeli.
 - b) a védelmi háttérellenőrzés alá vont személy háttérellenőrzésének sikertelensége esetén, vagy
 - c) a foglalkoztatóval fennálló jogviszony megszűnését követő egy év eltelte esetén, kivéve, amennyiben a jogviszony megszűnésétől számított egy éven belül ismételten olyan foglalkoztatóval létesít jogviszonyt, ahol a védelmi háttérellenőrzési kötelezettsége fennáll.
 
-(28a) A légiközlekedési hatóság a nyilvántartásból való törlésről az ügyfélen kívül értesíti az általános rendőrségi feladatok ellátására létrehozott szervet, a terrorizmust elhárító szervet, az Alkotmányvédelmi Hivatalt, a Katonai Nemzetbiztonsági Szolgálatot, valamint a repülőtéri személyazonosító kártyát kiadó szervezetet is.
+(28a) A légiközlekedési hatóság a nyilvántartásból való törlésről az ügyfélen kívül értesíti az általános rendőrségi feladatok ellátására létrehozott szervet, az Alkotmányvédelmi Hivatalt, a Katonai Nemzetbiztonsági Szolgálatot, valamint a repülőtéri személyazonosító kártyát kiadó szervezetet is.
 
 (29) A légiközlekedési hatóság által vezetett nyilvántartásból – a törvényben meghatározottakon túl – adatkérésre jogosult különösen
 
 - a) az általános rendőrségi feladatok ellátására létrehozott szerv,
-- b) a terrorizmust elhárító szerv,
+- b)
 - c) a nemzetbiztonsági szolgálatok.
 
 (30) A nyilvántartásba vett személyek védelmi háttérellenőrzésének biztosításáért a védelmi háttérellenőrzésre kötelezett személyek – az állami szervek kivételével – foglalkoztatói, az általuk foglalkoztatottak után, a védelmi háttérellenőrzésre kötelezett személyekről vezetett nyilvántartás alapján éves felügyeleti díjat fizetnek. A felügyeleti díjat a hatóság részére az a foglalkoztató köteles megfizetni, aki a tárgyév november 30. napján a nyilvántartás alapján legalább egy éve védelmi háttérellenőrzés alá vont személyt foglalkoztat. A foglalkoztató és a védelmi háttérellenőrzésre kötelezett személy között fennálló jogviszony év közbeni megszűnése a felügyeletidíj-fizetési kötelezettséget nem érinti.

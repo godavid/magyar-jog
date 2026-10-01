@@ -386,6 +386,10 @@ figyelemfelhívás.
 
 (3) Választási kampányidőszakban a választási eljárásról szóló törvény szabályai szerint lehet politikai reklámot médiaszolgáltatásban közzétenni. Választási kampányidőszakon kívül politikai reklám kizárólag már elrendelt népszavazással összefüggésben közölhető. A politikai reklám tartalmáért a médiaszolgáltató nem felel. Amennyiben a politikai reklám közzétételére irányuló igény megfelel a választási eljárásról szóló törvényben foglaltaknak, úgy mérlegelés nélkül köteles közzétenni azt.
 
+(3a) Választási kampányidőszakban a választási eljárásról szóló törvény szabályai szerint lehet politikai reklámot médiaszolgáltatásban közzétenni. Választási kampányidőszakon kívül politikai reklám kizárólag már elrendelt népszavazással összefüggésben közölhető. A politikai reklám tartalmáért az Smtv. 17. § (4) és (5) bekezdésében foglaltak kivételével a médiaszolgáltató nem felel. Amennyiben a politikai reklám közzétételére irányuló igény megfelel a választási eljárásról szóló törvényben foglaltaknak, úgy mérlegelés nélkül köteles közzétenni azt.
+
+(3b) A (3a) bekezdésben meghatározott időszakon kívül politikai reklám és politikai hirdetés közzététele tilos. A közzétett, tartalma alapján politikai reklámnak minősülő műsorszám miatt a Médiatanács a 182. § szerinti hatósági hatáskörében jár el.
+
 (4) Politikai reklám, közérdekű közlemény és társadalmi célú reklám közzétételekor a közzététel megrendelőjét egyértelműen meg kell nevezni.
 
 (4a) Nem minősül közérdekű közleménynek vagy társadalmi célú reklámnak az olyan műsorszám, amely alkalmas a gyermekek megfelelő fizikai, szellemi és erkölcsi fejlődésének a kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme a szexualitás öncélú ábrázolása, a pornográfia, továbbá a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának, valamint a homoszexualitásnak a népszerűsítése, megjelenítése.
@@ -398,7 +402,19 @@ figyelemfelhívás.
 
 (8) A médiaszolgáltató kérelmére a Médiatanács – a kérelem beérkezésétől számított tizenöt napon belül, igazgatási szolgáltatási díj ellenében – hatósági határozatában dönt, hogy a kérelem tárgyát képező közlemény közérdekű közleménynek, társadalmi célú reklámnak vagy politikai reklámnak minősül-e.
 
+(8a) A médiaszolgáltató kérelmére a Médiatanács – a kérelem beérkezésétől számított tizenöt napon belül, igazgatási szolgáltatási díj ellenében – hatósági határozatában dönt arról, hogy a kérelem tárgyát képező közlemény az Smtv. 17. § (4) és (5) bekezdése szerinti tiltott politikai reklámnak, tiltott közérdekű közleménynek vagy tiltott társadalmi célú reklámnak minősül-e.
+
+(8b) A médiaszolgáltató a Médiatanács (8a) bekezdés szerinti határozatában foglaltakat köteles figyelembe venni. Amennyiben a közleményt a Médiatanács tiltott politikai reklámmá, tiltott közérdekű közleménnyé vagy tiltott társadalmi célú reklámmá minősíti, akkor a médiaszolgáltató azt nem teheti közzé, amennyiben mégis közzéteszi, annak tartalmáért felelős.
+
 (9) Nem minősül burkolt kereskedelmi közleménynek valamely vállalkozás társadalmú célú, közérdekű szerepvállalásáról történő tájékoztatás, azonban az ilyen beszámolókban kizárólag a vállalkozás neve, logója és védjegye tüntethető fel, valamint – amennyiben a társadalmi szerepvállaláshoz szorosan kapcsolódik – terméke, szolgáltatása jeleníthető meg. Nem jelenhet meg a beszámolóban a vállalkozás jelszava, kereskedelmi közlemény részlete, és a tájékoztatás nem ösztönözhet kifejezetten a vállalkozás termékének megvásárlására, vagy szolgáltatásának igénybevételére.
+
+32/A. § (1) A politikai plakáttal összefüggésben az Smtv. 17. § (4) és (5) bekezdésének megsértése e § alkalmazásában a médiaigazgatásra vonatkozó szabály megsértésének minősül.
+
+(2) Az (1) bekezdés szerinti médiaigazgatásra vonatkozó szabály megsértése miatt a 145. § szerint bárki bejelentéssel élhet a Nemzeti Média- és Hírközlési Hatóság Hivatalánál (a továbbiakban: Hivatal).
+
+(3) A Hivatal a tiltott politikai plakát haladéktalan eltávolításáról rendelkezik, és a plakát kihelyezőjét vagy – ha annak kiléte nem állapítható meg – azt a természetes vagy jogi személyt, illetve jogi személyiséggel nem rendelkező szervezetet, akinek vagy amelynek érdekében a törvénysértést elkövették, a kötelező legkisebb munkabér havi összegének ötvenszereséig terjedő bírsággal sújthatja.
+
+(4) A Hivatal e § szerinti döntése elleni jogorvoslatra a 165. § szabályait kell alkalmazni.
 
 ### Reklám és televíziós vásárlás a lineáris médiaszolgáltatásban
 
@@ -536,7 +552,7 @@ figyelemfelhívás.
 
 ### Általános rendelkezések
 
-41. § (1) Az e törvény hatálya alá tartozó, Magyarországon letelepedett médiaszolgáltató által nyújtott lineáris médiaszolgáltatás bejelentés és a Nemzeti Média- és Hírközlési Hatóság Hivatala (a továbbiakban: Hivatal) általi hatósági nyilvántartásba vétel után végezhető, kivéve azon állami tulajdonban lévő korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatásokat, amelyek a Médiatanács által kiírt és lebonyolított pályázaton való nyertessé nyilvánítás és szerződéskötés, vagy e törvény 65. §-a szerinti ideiglenes hatósági szerződéskötés alapján végezhetők.
+41. § (1) Az e törvény hatálya alá tartozó, Magyarországon letelepedett médiaszolgáltató által nyújtott lineáris médiaszolgáltatás bejelentés és a Hivatal általi hatósági nyilvántartásba vétel után végezhető, kivéve azon állami tulajdonban lévő korlátos erőforrásokat igénybe vevő analóg lineáris médiaszolgáltatásokat, amelyek a Médiatanács által kiírt és lebonyolított pályázaton való nyertessé nyilvánítás és szerződéskötés, vagy e törvény 65. §-a szerinti ideiglenes hatósági szerződéskötés alapján végezhetők.
 
 (2) Az e törvény hatálya alá tartozó, Magyarország területén letelepedett médiaszolgáltató által nyújtott lekérhető médiaszolgáltatást, kiegészítő médiaszolgáltatást és a Magyarország területén letelepedett kiadó által kiadott sajtóterméket – a szolgáltatás, illetve a tevékenység megkezdését követő hatvan napon belül – nyilvántartásba vétel céljából be kell jelenteni a Hivatalhoz. A nyilvántartásba vétel nem feltétele e szolgáltatás, illetve tevékenység megkezdésének.
 
@@ -668,7 +684,7 @@ figyelemfelhívás.
 
 (4) Nem lehet jogosult az önkormányzat területét legalább húsz százalékban lefedő vételkörzetű helyi lineáris médiaszolgáltatásra az a vállalkozás, amelynek igazgatóságában, ügyvezetésében vagy felügyelő bizottságában, és azon alapítvány vagy közalapítvány, amelynek kuratóriumában a helyi képviselőtestület tagja, alkalmazottja, a polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes vagy ezek közeli hozzátartozója vesz részt.
 
-(5) A (3) bekezdés d) pontja tekintetében az a vállalkozás, amelyben a főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, a vármegyei közgyűlés elnöke és alelnöke, a helyi vagy vármegyei önkormányzati képviselő közeli hozzátartozója közvetlen vagy közvetett befolyásoló részesedéssel rendelkezik, illetve döntésének befolyásolására külön megállapodás alapján vagy egyéb módon jogot szerzett, abban az esetben nem lehet lineáris médiaszolgáltatásra jogosult, amennyiben az adott médiaszolgáltatás vételkörzete az érintett önkormányzat területét legalább húsz százalékban lefedi.
+(5) A (3) bekezdés d) pontja tekintetében az a vállalkozás, amelyben a főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, a megyei közgyűlés elnöke és alelnöke, a helyi vagy megyei önkormányzati képviselő közeli hozzátartozója közvetlen vagy közvetett befolyásoló részesedéssel rendelkezik, illetve döntésének befolyásolására külön megállapodás alapján vagy egyéb módon jogot szerzett, abban az esetben nem lehet lineáris médiaszolgáltatásra jogosult, amennyiben az adott médiaszolgáltatás vételkörzete az érintett önkormányzat területét legalább húsz százalékban lefedi.
 
 ### Médiaszolgáltatási díj
 
@@ -1825,7 +1841,7 @@ A (3) bekezdés alkalmazása során a Médiatanács kizárólag az (1)–(2) bek
 
 (5) A közszolgálati médiatartalom-szolgáltató hírügynökségi feladatainak ellátása érdekében
 
-- a) az ország minden vármegyéjére és a fővárosra kiterjedő,
+- a) az ország minden megyéjére és a fővárosra kiterjedő,
 - b) a Kárpát-medence magyarlakta területeire kiterjedő,
 - c) az ország nemzetközi kapcsolatrendszerének és érdekeinek megfelelő külföldi
 
@@ -2253,9 +2269,9 @@ amelynek jogát vagy jogos érdekét főigazgatóként hozott döntése érintet
 
 118. § (1) Az Elnök, az elnökhelyettes, a főigazgató, a főigazgató-helyettes nem lehet
 
-- a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, vármegyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
+- a) köztársasági elnök, miniszterelnök, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, nemzetiségi szószóló, az Európai Parlament tagja,
 - b) a Testületnek és a Közszolgálati Tanácsnak az elnöke, tagja, a közszolgálati médiaszolgáltató és a közszolgálati médiatartalom-szolgáltató vezérigazgatója, vezérigazgató-helyettese, felügyelőbizottságának elnöke, tagja, a Médiatanács tagja, a Hatóság Elnökének kivételével a Médiatanács elnöke, valamint bármelyik szervezettel munkavégzésre irányuló jogviszonyban álló személy,
-- c) helyi vagy vármegyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
+- c) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 - d) hírközlési vagy médiaszolgáltató, műsorterjesztő, reklámügynökség, sajtóterméket kiadó, lapterjesztő vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelőbizottsági tagja,
 - e) olyan személy, aki hírközlési vagy médiaszolgáltatóval, műsorforgalmazóval, műsorterjesztővel, reklámügynökséggel, sajtótermék kiadójával vagy lapterjesztővel munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,
 - f) olyan személy, aki hírközlési vagy médiaszolgáltatást, műsorforgalmazást, műsorterjesztést, sajtótermék kiadását, reklámügynökségi tevékenységet vagy lapterjesztést folytató vállalkozásban rendelkezik közvetlen vagy közvetett tulajdoni részesedéssel,
@@ -3159,7 +3175,7 @@ a Biztos hivatalánál panasszal élhet.
   - be) a műsorkvótákra vonatkozó követelmények,
   - bf) a kereskedelmi közleményekre vonatkozó, 23–25. §-ban meghatározott előírások,
   - bg) a termékmegjelenítésre vonatkozó rendelkezések,
-  - bh) a politikai reklámra, közérdekű közleményre és a társadalmi célú reklámra vonatkozó rendelkezések [a 32. § (7) bekezdésben foglaltak kivételével],
+  - bh) a politikai reklámra, politikai hirdetésre, politikai plakátra, közérdekű közleményre és a társadalmi célú reklámra vonatkozó rendelkezések [a 32. § (7) bekezdésében foglaltak kivételével],
   - bi) a reklámra és televíziós vásárlásra vonatkozó, 33. §-ban foglalt kötelezettségek,
   - bj) a műsorterjesztők továbbítási kötelezettségére vonatkozó előírások,
   - bk)
@@ -3610,6 +3626,10 @@ h) azon filmalkotás, amely az Mktv. értelmében magyarnak minősül.
 54. Összetett műsorszám: több műsorszám – egy főcímmel vagy más megkülönböztetéssel jelzett – együttese.
 
 55. Politikai reklám: valamely párt, politikai mozgalom vagy a kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, a reklámhoz hasonló módon megjelenő, illetve közzétett műsorszám.
+
+55a. Politikai hirdetés: valamely párt, politikai mozgalom vagy a Kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő, sajtótermékben ellenérték fejében közzétett médiatartalom vagy filmszínházban közzétett audiovizuális tartalom.
+
+55b. Politikai plakát: valamely párt, politikai mozgalom vagy a Kormány népszerűsítését szolgáló vagy támogatására ösztönző, illetve azok nevét, célját, tevékenységét, jelszavát, emblémáját népszerűsítő falragasz, felirat, szórólap, vetített kép, embléma mérettől és hordozóanyagtól függetlenül.
 
 56. Politikai tájékoztató műsorszám: időtartama legalább kilencven százalékában a magyarországi és a nemzetközi politikai, vagy aktuális közéleti eseményeket elemző, bemutató, azokat értékelő, hátterüket feltáró, hírműsorszámnak nem minősülő műsorszám.
 

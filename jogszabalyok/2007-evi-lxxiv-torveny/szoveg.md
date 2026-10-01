@@ -498,7 +498,7 @@ a közönségarányát.
 
 (2) A kérelmező a kérelmét a helyi és körzeti vételkörzetű földfelszíni műsorterjesztés digitális átállásának a 38. § (1) bekezdésében meghatározott határideje előtt legkésőbb 12 hónappal nyújthatja be a Hatósághoz. A kérelemnek tartalmaznia kell az üzemeltetési jogosultság gyakorlása vételkörzetének megjelölését.
 
-(3) Ha a kérelemben megjelölt vételkörzet tekintetében tervezhető digitális televízió-műsorszóró adó üzemeltetési lehetőség, az Elnök a Hatóság honlapján történő közzététellel, valamint országos napilapban való megjelentetéssel, és azokban a vármegyékben, amelyek területét a vételkörzet földrajzilag meghatározott területe érinti, vármegyei napilapban való megjelentetéssel közleményt tesz közzé. A közlemény tartalmazza
+(3) Ha a kérelemben megjelölt vételkörzet tekintetében tervezhető digitális televízió-műsorszóró adó üzemeltetési lehetőség, az Elnök a Hatóság honlapján történő közzététellel, valamint országos napilapban való megjelentetéssel, és azokban a megyékben, amelyek területét a vételkörzet földrajzilag meghatározott területe érinti, megyei napilapban való megjelentetéssel közleményt tesz közzé. A közlemény tartalmazza
 
 - a) a közlemény közzétételének időpontját;
 - b) az ideiglenes digitális televízió műsorszórási jogosultsággal rendelkező médiaszolgáltató által benyújtott kérelem tényét és a kérelemben megjelölt vételkörzet megjelölését;

@@ -24,7 +24,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - d) kapcsolati kód: a különböző célú adatkezelések közötti törvényes kapcsolat elősegítésére, megvalósítására képzett ideiglenes számjegysor;
 - e) társadalombiztosítási szerv: az egészségbiztosítási szerv, rehabilitációs hatóság, a nyugdíjbiztosítási igazgatási szerv, valamint a társadalombiztosítás ellátásaira jogosultakról, valamint ezen ellátások fedezetéről szóló 2019. évi CXXII. törvény szerinti társadalombiztosítási feladatokat ellátó szervek;
 - f) egészségügyi ellátóhálózat szerve: az egészségügyi szolgáltatást nyújtó szerv vagy polgár, függetlenül attól, hogy tevékenységét milyen szervezeti vagy tulajdoni formában végzi;
-- g) szociális igazgatás szerve: a települési és a vármegyei (fővárosi) önkormányzat képviselő-testülete, a jegyző és főjegyző, a szociális hatóság, a szociális intézmény vezetője;
+- g) szociális igazgatás szerve: a települési és a megyei (fővárosi) önkormányzat képviselő-testülete, a jegyző és főjegyző, a szociális hatóság, a szociális intézmény vezetője;
 - h) munkaügyi igazgatás szerve: az állami foglalkoztatási szerv és a foglalkoztatás-felügyeleti hatóság;
 - i) összerendelési bejegyzés: a természetes személy összerendelési nyilvántartásba történő felvétele céljából az összerendelési nyilvántartás működtetője által képzett nyilvántartási elemi egység, amely biztosítja az összerendelési kapcsolati kódokat képező nyilvántartások egy személyhez tartozó adatelemeihez tartozó titkosított összerendelési kapcsolati kódokkal történő kiegészítését és tárolását.
 
@@ -106,7 +106,7 @@ Az Országgyűlés, kiindulva a személyes adatok védelméhez fűződő alkotm�
 - k) az elektronikus ügyintézést igénybevevő, külföldön élő természetes személyek személyi nyilvántartásának nyilvántartási azonosítója,
 - l) a digitális állampolgárság nyilvántartás azonosítója (ideértve a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatáshoz kapcsolódó egyedi azonosítót is),
 - m) oktatási azonosító szám,
-- n) a fővárosi és vármegyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
+- n) a fővárosi és megyei kormányhivatal által a természetes személy ügyfelek tekintetében képzett belső technikai azonosító,
 - o) a területi közigazgatás működésével kapcsolatos egyes kérdésekről, valamint egyes törvényeknek az Alaptörvény tizenegyedik módosításával összefüggő módosításáról szóló 2022. évi XXII. törvény szerinti aláírásminta-nyilvántartásban alkalmazott kapcsolati kód,
 - p) az élelmiszerlánc-felügyeleti szerv által megállapított FELIR azonosító szám (a továbbiakban: FELIR azonosító)
 

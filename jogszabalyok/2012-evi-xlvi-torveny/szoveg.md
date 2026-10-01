@@ -236,7 +236,7 @@ a honvédelem térképészeti támogatásáért felelős szervtől – a 32. § 
 
 (19) A földmérési és térinformatikai államigazgatási szerv a kezelésében lévő és a 3. § (1) bekezdés i) pontjába tartozó adatbázis távérzékelési adatait, amennyiben azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül díjmentesen szolgáltatja.
 
-(20) A költségvetési szerv jogszabályban meghatározott területrendezési, településrendezési, területfejlesztési és településfejlesztési feladatai ellátásához, továbbá a településterv, a települési arculati kézikönyv és a településképi rendelet véleményezéséhez a Magyar Építész Kamara, az érintett és közigazgatási határral szomszédos területi (vármegyei, fővárosi) önkormányzat és az érintett kiemelt térségi fejlesztési tanács díj-, költség- és térítésmentesen hozzáférhet a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz, valamint az ország 1:10000 digitális szintvonalrajzához és domborzatmodelljéhez (DDM-5).
+(20) A költségvetési szerv jogszabályban meghatározott területrendezési, településrendezési, területfejlesztési és településfejlesztési feladatai ellátásához, továbbá a településterv, a települési arculati kézikönyv és a településképi rendelet véleményezéséhez a Magyar Építész Kamara, az érintett és közigazgatási határral szomszédos területi (megyei, fővárosi) önkormányzat és az érintett kiemelt térségi fejlesztési tanács díj-, költség- és térítésmentesen hozzáférhet a 3. § (1) bekezdés d)–f) pontjában foglalt adatbázisokhoz, valamint az ország 1:10000 digitális szintvonalrajzához és domborzatmodelljéhez (DDM-5).
 
 (21) A honvédelem térképészeti támogatásáért felelős szerv a honvédelemért felelős miniszter felelősségi körébe tartozó, a (14) bekezdésben meghatározott adatbázisokból, valamint az (1) és (1a) bekezdés alapján átadott állami alapadatok adatbázisaiból a honvédelmi szervezet és a honvédelemért felelős miniszter által az állam nevében alapított, honvédelmi szervezetnek nem minősülő többcélú szakképző intézmény részére, honvédelmi, továbbá hatósági, szakhatósági és államigazgatási feladatai végrehajtásához, ha azok digitálisan rendelkezésre állnak és a technikai feltételek adottak, hálózaton keresztül, díjmentesen szolgáltat adatot.
 
@@ -259,7 +259,7 @@ a honvédelem térképészeti támogatásáért felelős szervtől – a 32. § 
 
 (27) A kulturális örökség védelméért felelős miniszter a kulturális örökségvédelmi és világörökségi feladataival összefüggő feladatai ellátása érdekében térítésmentesen és korlátlanul hozzáférhet a földmérési és térinformatikai államigazgatási szerv által kezelt és üzemeltetett állami ingatlan-nyilvántartási térképi adatbázis adataihoz.
 
-(28) A vármegyei önkormányzat a vármegyei területrendezési terv készítése érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz térítésmentesen hozzáférhet.
+(28) A megyei önkormányzat a megyei területrendezési terv készítése érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz térítésmentesen hozzáférhet.
 
 (29) A települési önkormányzat, Budapest Főváros Önkormányzata és a kerületi önkormányzat a településrendezési terv, a településfejlesztési terv készítése és a településképi követelmények meghatározása érdekében szükséges, a földmérési és térinformatikai államigazgatási szerv által üzemeltetett és kezelt állami ingatlan-nyilvántartási térképi adatbázishoz térítésmentesen hozzáférhet.
 
@@ -802,7 +802,7 @@ végzi.
 
 (7a) Az ingatlanrendező földmérő minősítés a megadást követő öt évig érvényes. Az érvényesség meghosszabbításának feltétele:
 
-- a) a földmérési és térinformatikai államigazgatási szerv, illetve a Magyar Mérnöki Kamara (a továbbiakban: kamara) által akkreditált szakirányú továbbképzéseken, konferenciákon vagy a vármegyei kormányhivatalok földhivatali osztályai által szervezett szaktanfolyamon húsz továbbképzési pont megszerzése, és
+- a) a földmérési és térinformatikai államigazgatási szerv, illetve a Magyar Mérnöki Kamara (a továbbiakban: kamara) által akkreditált szakirányú továbbképzéseken, konferenciákon vagy a megyei kormányhivatalok földhivatali osztályai által szervezett szaktanfolyamon húsz továbbképzési pont megszerzése, és
 - b) a felsőfokú szakirányú végzettség igazolása, vagy annak igazolása, hogy a kérelmező 2013. január 1. előtt rendelkezett ingatlanrendező földmérő minősítéssel.
 
 (7b) A földmérési és térinformatikai államigazgatási szerv által szervezett szakmai továbbképzésekért adható továbbképzési pontokat a földmérési és térinformatikai államigazgatási szerv állapítja meg.

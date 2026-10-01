@@ -11,7 +11,7 @@ a lőfegyverekről és lőszerekről
 - c) a Nemzeti Adó- és Vámhivatal,
 - d) a rendvédelmi szervek,
 - e) a fegyveres biztonsági őrség,
-- f) az Országgyűlési Őrség,
+- f)
 - g) a rendészeti, illetve katonai képzést folytató felsőoktatási intézmény,
 - h) a polgári nemzetbiztonsági szolgálatok
 
@@ -327,7 +327,7 @@ meghatározott körülményre vonatkozó adatokat átveszi és az átvételtől 
 - a) a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, a nyomozó hatóság és az előkészítő eljárást folytató szerv;
 - b) a nemzetbiztonsági szolgálatok, valamint a vámhatóság a törvényben meghatározott feladataik ellátásához;
 - c) a külföldi nyomozó hatóság, ügyészség, bíróság, nemzetközi igazságügyi és bűnüldöző szerv, a bűnügyi jogsegélyről szóló jogszabályokban, illetve nemzetközi szerződésben, egyéb nemzetközi kötelezettségvállalásban foglaltak szerint;
-- d) az Országgyűlési Őrség személyvédelmi és létesítménybiztosítási feladatainak ellátásához;
+- d) az általános rendőrségi feladatok ellátására létrehozott szerv személyvédelmi és létesítménybiztosítási feladatainak ellátásához;
 - e) a lőfegyverek, lőszerek és a hatástalanított lőfegyverek vizsgálatára jogosult szervezet, a jogszabályban meghatározott feladatainak az ellátása céljából.
 
 (2) Az 5. § (2) bekezdés a) pont ab) és ad) alpontjában meghatározott adatok – a lőfegyver műszaki érvényességének időtartama kivételével – a vadászjegy vagy a vadászati engedély visszavonására irányuló eljárás lefolytatása céljából a vadászati hatóság részére továbbíthatók. A vadászlőfegyver tartására jogosító engedély, az annak alapján kiadott európai lőfegyvertartási engedély, illetve az elöltöltő fegyver vadászati célú használatára jogosító engedély visszavonásáról a rendőrség a vadászati hatóságot tájékoztatja.
@@ -432,7 +432,7 @@ meg kell őriznie.
 
 (2) A 12. § (2) bekezdés e) pontjában foglalt adatok szolgáltatásának igénylésére
 
-- a) a Rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (1) bekezdésében meghatározott feladatainak ellátásához a terrorizmust elhárító szerv, valamint
+- a) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladat ellátása céljából az általános rendőrségi feladatok ellátására létrehozott szerv, valamint
 - b) az 5. § (1) bekezdésében, illetve a 6. § (1) bekezdésében felsoroltak
 
 jogosultak.

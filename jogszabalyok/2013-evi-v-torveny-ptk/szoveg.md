@@ -8597,7 +8597,7 @@ Fogyasztó és vállalkozás közötti szerződésben semmis a fogyasztónak a j
 
 - a) az ügyész;
 - b) a miniszter, az autonóm államigazgatási szerv, a kormányzati főhivatal, a központi hivatal vezetője;
-- c) a fővárosi és vármegyei kormányhivatal vezetője;
+- c) a fővárosi és megyei kormányhivatal vezetője;
 - d) a gazdasági és szakmai kamara vagy érdekképviseleti szervezet; és
 - e) az általa védett fogyasztói érdekek körében a fogyasztói érdekek képviseletét ellátó egyesület, és az Európai Gazdasági Térség bármely tagállamának joga alapján a fogyasztói érdekek védelmére létrejött szervezet.
 

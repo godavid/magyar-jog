@@ -885,7 +885,7 @@ köt a támogatásban részesülővel hatósági szerződést.
 
 ### Adatvédelmi rendelkezések
 
-57/A. § (1) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a (2c) bekezdésben meghatározott célokból nyilvántartást vezet. A nyilvántartás tartalmazza:
+57/A. § (1) Az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a (2c) bekezdésben meghatározott célokból nyilvántartást vezet. A nyilvántartás tartalmazza:
 
 - a) a természetes személyazonosító adatokat, a TAJ számát, valamint a bankszámlaszámot,
 - b) az állampolgárságot, a huzamos tartózkodási jogosultságot, a menekült vagy az oltalmazott jogállást, a menekültügyi hatóságnál a menekültként, oltalmazottként történő elismerésre irányuló kérelem benyújtásának, vagy a harmadik országbeli állampolgár kijelölt helyen való tartózkodása elrendelésének tényét, külföldi állampolgár esetén a családi állapot megjelölését,
@@ -930,7 +930,7 @@ köt a támogatásban részesülővel hatósági szerződést.
 
 tekintetében közhiteles hatósági nyilvántartás.
 
-(2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a miniszter, valamint az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) részére a jogszabályban meghatározott feladataik ellátása céljából.
+(2b) A járási hivatal az (1) bekezdés szerinti adatokhoz közvetlen hozzáférést biztosít a miniszter, valamint az állami foglalkoztatási szerv hatáskörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) részére a jogszabályban meghatározott feladataik ellátása céljából.
 
 (2c) A járási hivatal
 
@@ -1049,7 +1049,7 @@ szerinti adatok igénylésére jogosultak.
 
 (5) Az (1) bekezdés adatait a (6) bekezdésben megjelölt adatok kivételével az állami foglalkoztatási szerv rögzíti az adatbázisban.
 
-(6) Az (1) bekezdés 1. pont a) alpontja szerinti adatokat a szociális feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, valamint az (1) bekezdés 3. pont g) alpontja szerinti adatokat a települési önkormányzat jegyzője a közfoglalkoztatás szervezésével kapcsolatos feladatok eredményes ellátása céljából rögzíti.
+(6) Az (1) bekezdés 1. pont a) alpontja szerinti adatokat a szociális feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, valamint az (1) bekezdés 3. pont g) alpontja szerinti adatokat a települési önkormányzat jegyzője a közfoglalkoztatás szervezésével kapcsolatos feladatok eredményes ellátása céljából rögzíti.
 
 (7) A (4) bekezdés 1. pont d) és f) alpontjában és 3. pontjában szereplő adatok a közfoglalkoztatott, illetve korlátozottan cselekvőképes személy esetén törvényes képviselője írásbeli kérésére, önkéntes adatszolgáltatása alapján vehetők fel az adatbázisba.
 
@@ -1061,14 +1061,14 @@ szerinti adatok igénylésére jogosultak.
 
 57/C. § (1) Az állami foglalkoztatási szerv folyamatos elektronikus adatkapcsolat keretében biztosítja
 
-- a) a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a szociális feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala számára a (3) bekezdésben meghatározott adatbetekintéshez,
+- a) a települési önkormányzat jegyzője számára az 57/B. § (6) bekezdésében meghatározott adatrögzítéshez és a szociális feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala számára a (3) bekezdésben meghatározott adatbetekintéshez,
 - b) a rehabilitációs hatóság számára a (3a) bekezdésben meghatározott adatátvételhez
 
 szükséges hozzáférést.
 
 (2) A közfoglalkoztatásért felelős miniszter az adatkezelő tevékenysége feletti felügyelet gyakorlása és a közfoglalkoztatás szervezésével kapcsolatos feladatai eredményes ellátása érdekében az 57/B. § (1) bekezdésének 2–3. pontjaiban és a (9) bekezdésében meghatározott adatokba betekinthet.
 
-(3) A szociális feladatkörében eljáró fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala a szociális juttatásokra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai érdekében az adatbázisnak az 57/B. § (1) bekezdés 1. pont aa), b), ca)–ce), cg) és d) alpontjában szereplő adataiba tekinthet be.
+(3) A szociális feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala a szociális juttatásokra való jogosultság feltételeinek megállapításához szükséges ellenőrzési feladatai érdekében az adatbázisnak az 57/B. § (1) bekezdés 1. pont aa), b), ca)–ce), cg) és d) alpontjában szereplő adataiba tekinthet be.
 
 (3a) A rehabilitációs hatóság a megváltozott munkaképességű személyek ellátásainak megállapítása, ellenőrzése és a rehabilitációs szolgáltatások nyújtása céljából az 57/B. § (1) bekezdés 1. pont a) pont aa) és ac)–af) alpontjában, 1. pont b) és c) pontjában, valamint 2. és 3. pontjában szereplő adatokat közvetlen hozzáféréssel átveheti.
 

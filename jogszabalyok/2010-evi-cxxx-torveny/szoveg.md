@@ -348,8 +348,8 @@ szervezetét és működését, tevékenységét, valamint cselekvési programj�
 - g) az alapvető jogok biztosa,
 - h) a Magyar Nemzeti Bank elnöke,
 - i) az Állami Számvevőszék elnöke,
-- j) a fővárosi és vármegyei kormányhivatal vezetője, valamint
-- k) a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
+- j) a fővárosi és megyei kormányhivatal vezetője, valamint
+- k) a polgármester, a főpolgármester, a megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) és a jegyző
 
 a vezetése, az irányítása vagy a felügyelete alá tartozó szervek szervezetét és működését, valamint tevékenységét.
 
@@ -398,7 +398,7 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 26. § (1) A jogszabályokat az önkormányzati rendelet kivételével a Magyar Közlönyben kell kihirdetni.
 
-(2) A minősített adatot nem tartalmazó közjogi szervezetszabályozó eszközt – a fővárosi és vármegyei kormányhivatal vezetőjének normatív utasítása, a helyi önkormányzat képviselő-testületének és a nemzetiségi önkormányzat képviselő-testületének normatív határozata, valamint a polgármester és a jegyző normatív utasítása kivételével – a Magyar Közlönyben közzé kell tenni.
+(2) A minősített adatot nem tartalmazó közjogi szervezetszabályozó eszközt – a fővárosi és megyei kormányhivatal vezetőjének normatív utasítása, a helyi önkormányzat képviselő-testületének és a nemzetiségi önkormányzat képviselő-testületének normatív határozata, valamint a polgármester és a jegyző normatív utasítása kivételével – a Magyar Közlönyben közzé kell tenni.
 
 (3) A Kormány rendeletét – a Kormány döntését követően haladéktalanul – a miniszterelnök írja alá, akit e tekintetben az általa rendeletben erre kijelölt miniszterelnök-helyettes helyettesíthet.
 
@@ -406,7 +406,7 @@ hivatali szervezetének vezetője, amely a szerv állományába tartozó személ
 
 (5) A köztársasági elnök által aláírt törvénynek, a Magyar Nemzeti Bank elnöke rendeletének, az önálló szabályozó szerv vezetője rendeletének és a (3)–(4) bekezdés szerint aláírt rendeletnek a Magyar Közlönyben való kihirdetéséről – a kézhezvételt követően haladéktalanul – az igazságügyért felelős miniszter gondoskodik.
 
-(6) A fővárosi és vármegyei kormányhivatal vezetőjének normatív utasítása, a helyi önkormányzat képviselő-testületének és a nemzetiségi önkormányzat képviselő-testületének normatív határozata, valamint a polgármester és a jegyző normatív utasítása kivételével a közjogi szervezetszabályozó eszköz közzétételéről – az arra jogosult általi aláírását követően – az igazságügyért felelős miniszter a kézhezvételt követően haladéktalanul gondoskodik.
+(6) A fővárosi és megyei kormányhivatal vezetőjének normatív utasítása, a helyi önkormányzat képviselő-testületének és a nemzetiségi önkormányzat képviselő-testületének normatív határozata, valamint a polgármester és a jegyző normatív utasítása kivételével a közjogi szervezetszabályozó eszköz közzétételéről – az arra jogosult általi aláírását követően – az igazságügyért felelős miniszter a kézhezvételt követően haladéktalanul gondoskodik.
 
 (7)
 

@@ -954,11 +954,11 @@ részére tett nyilatkozatával tiltakozzon.
 - a) a bíróság büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 - b) az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség és az NVVH bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása, valamint bűnügyi jogsegélykérelem teljesítése céljából,
 - c) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból, megbízhatósági vizsgálat, illetve kifogástalan életvitele ellenőrzés céljából,
-- d) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi feladatai ellátása céljából,
+- d) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pont a) alpontjában meghatározott bűncselekmények megszakítása céljából,
 - e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése, a kifogástalan életvitel ellenőrzése, valamint a megbízhatósági vizsgálat lefolytatása céljából,
 - f) a rendőrség nemzetközi bűnügyi együttműködési központja a 84. § b) pontjában meghatározott feladatai ellátása céljából,
 - g) a Nemzeti Információs Központ a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 8/A. § (1) bekezdés a), c), h) és k) pontjában, valamint 8/A. § (3) bekezdésében meghatározott feladatai ellátása céljából,
-- h) az általános rendőri feladatok ellátására létrehozott szerv – jogszabályban meghatározott – személy- és létesítményvédelmi feladatainak ellátása céljából.
+- h) az általános rendőrségi feladatok ellátására létrehozott szerv – jogszabályban meghatározott – személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából.
 - i) az utasadat-információs egység az utasadatok kockázatelemzése céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
@@ -1065,12 +1065,7 @@ részére tett nyilatkozatával tiltakozzon.
 
 (10) A szakértői nyilvántartó szerv az e törvényben meghatározott találati adattovábbítás és automatikus találati adathozzáférést követő adattovábbítás teljesítése, valamint szakvélemény elkészítése céljából közvetlen hozzáféréssel jogosult a 4. § (2) bekezdés a) pontjában foglalt adatokat átvenni.
 
-(11) Az Országgyűlési Őrség törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátásához közvetlen hozzáféréssel jogosult átvenni a következő adatokat:
-
-- a) a 11. § (1) bekezdés c), e), f), h) és i) pontjában, a 11. § (2) bekezdés e) pontjában meghatározott adatok,
-- b) a 16. § (1) bekezdés c), f), g) és i) pontjában, a 16. § (2) bekezdés k) pontjában meghatározott adatok,
-- c) a 23. § c), f), g) és h) pontjában meghatározott adatok.
-- d)
+(11)
 
 68/A. § Ha
 
@@ -1396,7 +1391,7 @@ közvetlen hozzáféréssel adatokat kíván átvenni a bűnügyi nyilvántartá
 
 - a) az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség, az NVVH vagy a bíróság arra a magyar állampolgárságú, bűncselekménnyel megalapozottan gyanúsítható személyre, illetve
 - b) a nemzetbiztonsági szolgálatok arra a felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési feladata ellátása során érintett magyar állampolgárságú személyre, illetve
-- c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 7/E. § (1) bekezdés a) pont ad) alpontjában meghatározott megelőzési, felderítési és elhárítási feladatai ellátása során érintett személyre
+- c) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatai ellátása során érintett személyre
 
 vonatkozóan kezelt adatot, akivel szemben külföldi bíróság tagállami ítéletet hozott és az ítélet esetében magyar bíróság a nemzetközi bűnügyi jogsegélyről szóló törvény szerinti, a külföldi ítélet elismerésére irányuló eljárást, illetve az Európai Unió tagállamaival folytatott bűnügyi együttműködésről szóló törvény szerinti megfeleltetési eljárást még nem folytatott le.
 
@@ -1530,7 +1525,7 @@ meghatározott adatokat a kérelmet benyújtó központi hatóság részére.
 
 - a) az előkészítő eljárást folytató szerv, a nyomozó hatóság, az ügyészség és az NVVH a bűncselekmények felderítése, illetve büntetőeljárás lefolytatása,
 - b) a nemzetbiztonsági szolgálatok a külön törvény szerinti felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzés,
-- c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, továbbá elhárítás és információszerzés,
+- c) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott, valamint a személyvédelmi és létesítménybiztosítási feladatának ellátása,
 - d) az igazságügyi szakértői tevékenységről szóló törvény szerint szakvélemény adására jogosult szerv szakvélemény elkészítése, valamint
 - e) a rendőrség a rendkívüli haláleset miatt folyó közigazgatási hatósági eljárásban az ismeretlen személyazonosságú elhunyt személy azonosítása,
 - f) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a hatáskörébe tartozó bűncselekmények megelőzése

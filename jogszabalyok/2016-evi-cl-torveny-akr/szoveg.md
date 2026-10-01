@@ -183,7 +183,7 @@ az érdekelt hatóságok kötelesek egymás között azonnal, de legfeljebb hár
 
 (3) Ha az (1) bekezdés szerinti eljárás nem vezetett eredményre, az eljáró hatóságot
 
-- a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a vita eldöntését kérő hatóság működési területe szerint illetékes fővárosi és vármegyei kormányhivatal öt napon belül,
+- a) illetékességi összeütközés esetén a legközelebbi közös felügyeleti szerv, ennek hiányában a vita eldöntését kérő hatóság működési területe szerint illetékes fővárosi és megyei kormányhivatal öt napon belül,
 - b) hatásköri összeütközés esetén a közigazgatási bíróság
 
 jelöli ki.

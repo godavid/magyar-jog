@@ -167,13 +167,13 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni,
 
 6. § A hitelező 2011. október 1-jétől 2014. december 31-éig csak annak a fedezeti ingatlannak a kényszerértékesítését kezdeményezheti, amelyet ilyen célra e törvény szerint kijelölt.
 
-7. § (1) A hitelező által a vármegyében, fővárosban kényszerértékesítésre negyedévenként kijelölt fedezeti ingatlanok számának a hitelezőnek a vármegyében, fővárosban a tárgynegyedév első napján meglévő összes fedezeti ingatlana számához viszonyított aránya nem haladhatja meg az e törvény 1. mellékletében az adott megyére, fővárosra meghatározott kényszerértékesítési kvótát. Ha a kényszerértékesítési kvóta alapján e törvény szerint kényszerértékesítésre kijelölhető fedezeti ingatlanok száma tört szám, a tört számot követő egész számnak megfelelő számú fedezeti ingatlan jelölhető ki kényszerértékesítésre.
+7. § (1) A hitelező által a megyében, fővárosban kényszerértékesítésre negyedévenként kijelölt fedezeti ingatlanok számának a hitelezőnek a megyében, fővárosban a tárgynegyedév első napján meglévő összes fedezeti ingatlana számához viszonyított aránya nem haladhatja meg az e törvény 1. mellékletében az adott megyére, fővárosra meghatározott kényszerértékesítési kvótát. Ha a kényszerértékesítési kvóta alapján e törvény szerint kényszerértékesítésre kijelölhető fedezeti ingatlanok száma tört szám, a tört számot követő egész számnak megfelelő számú fedezeti ingatlan jelölhető ki kényszerértékesítésre.
 
 (2) A tárgynegyedév első napján meglévő fedezeti ingatlanként nem lehet figyelembe venni azt a fedezeti ingatlant, amelyet a hitelező (jogelődje) a megelőző negyedévekben kényszerértékesítésre már kijelölt, vagy amelynek az 1. § (1) bekezdés 7. pont b) alpontja szerinti kényszerértékesítését a törvény hatályba lépése előtt kezdeményezte.
 
-(3) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik a Magyar Nemzeti Banknak (a továbbiakban: MNB) hatáskörébe, az e követelést biztosító zálogjoggal terhelt, kényszerértékesítésre kijelölt fedezeti ingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott vármegyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
+(3) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik a Magyar Nemzeti Banknak (a továbbiakban: MNB) hatáskörébe, az e követelést biztosító zálogjoggal terhelt, kényszerértékesítésre kijelölt fedezeti ingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott megyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
 
-8. § (1) A hitelező minden tárgynegyedév első napján vármegyei, fővárosi szinten megállapítja az összes fedezeti ingatlanának a számát, és a 7. §-ban foglaltak szerint kijelöli azokat, amelyek tekintetében kényszerértékesítést kezdeményez.
+8. § (1) A hitelező minden tárgynegyedév első napján megyei, fővárosi szinten megállapítja az összes fedezeti ingatlanának a számát, és a 7. §-ban foglaltak szerint kijelöli azokat, amelyek tekintetében kényszerértékesítést kezdeményez.
 
 (2) A kényszerértékesítésre kijelölt fedezeti ingatlan kényszerértékesítését a hitelezőnek a tárgynegyedév végéig kezdeményeznie kell, kivéve, ha a hitelező pénzügyi intézmény a lakáshitel fedezetéül szolgáló lakóingatlan tulajdonjogának – a hitelszerződésből eredő kötelezettségeinek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény szerinti – átruházásához hozzájárult.
 
@@ -181,7 +181,7 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni,
 
 9. § (1) A hitelező a fedezeti ingatlanok kényszerértékesítésre történt kijelöléséről a tárgynegyedév 15. napjáig a következő adatok közlésével tájékoztatja az MNB-t:
 
-- a) a vármegyében, fővárosban a tárgynegyedév első napján meglévő összes fedezeti ingatlanának száma,
+- a) a megyében, fővárosban a tárgynegyedév első napján meglévő összes fedezeti ingatlanának száma,
 - b) a kényszerértékesítésre kijelölt fedezeti ingatlanok fekvése (település megnevezése), helyrajzi száma, lakáshitel-szerződésben meghatározott (ilyen szerződési feltétel hiányában a hitelfolyósításkori) forgalmi értéke és alapterülete ingatlanonkénti bontásban.
 
 (2) Az a hitelező, akinek a tevékenységének ellenőrzése nem tartozik az MNB hatáskörébe, az (1) bekezdés szerinti adatszolgáltatást a fogyasztóvédelmi hatóság részére teljesíti.
@@ -197,7 +197,7 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni,
 
 (3) Az (1) bekezdés b) pontja szerinti esetben a hitelező által a megyében, fővárosban 2011. július 1-jétől 2011. október 1-jéig értékesítésre kijelölt lakóingatlanok számának a hitelezőnek a megyében, fővárosban a tárgynegyedév első napján meglévő, az (1) bekezdés b) pontja szerinti összes lakóingatlana számához viszonyított aránya nem haladhatja meg a 2%-ot. Ha az értékesítésre kijelölhető lakóingatlanok száma tört szám, a tört számot követő egész számnak megfelelő számú lakóingatlan jelölhető ki értékesítésre.
 
-(4) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik az MNB hatáskörébe, az e követelést biztosító zálogjoggal terhelt, értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott vármegyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
+(4) Ha a hitelező a lakáshitel-szerződésből eredő követelést olyan személyre vagy szervezetre engedményezi, akinek a tevékenységének ellenőrzése nem tartozik az MNB hatáskörébe, az e követelést biztosító zálogjoggal terhelt, értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlan a kijelölést követő valamennyi negyedévben beleszámítandó az adott megyében, fővárosban kényszerértékesítésre kijelölt fedezeti ingatlanok számába.
 
 (5) Az értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlan értékesítését a hitelezőnek 2011. október 1-jéig kezdeményeznie kell.
 
@@ -205,7 +205,7 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni,
 
 (7) A hitelező az (1) bekezdés b) pontja szerinti lakóingatlanok értékesítésre történt kijelöléséről 2011. július 15. napjáig a következő adatok közlésével tájékoztatja az MNB-t:
 
-- a) a vármegyében, fővárosban 2011. július 1. napján meglévő összes (1) bekezdés b) pontja szerinti lakóingatlanának száma,
+- a) a megyében, fővárosban 2011. július 1. napján meglévő összes (1) bekezdés b) pontja szerinti lakóingatlanának száma,
 - b) az értékesítésre kijelölt (1) bekezdés b) pontja szerinti lakóingatlanok fekvése (település megnevezése), helyrajzi száma, lakáshitel-szerződésben meghatározott (ilyen szerződési feltétel hiányában a hitelfolyósításkori) forgalmi értéke és alapterülete lakóingatlanonkénti bontásban.
 
 (8) Az a hitelező, akinek a tevékenységének ellenőrzése nem tartozik az MNB hatáskörébe, a (7) bekezdés szerinti adatszolgáltatást a fogyasztóvédelmi hatóság részére teljesíti.
@@ -287,14 +287,14 @@ a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni,
 
 ### 1. melléklet a 2011. évi LXXV. törvényhez
 
-#### A vármegyékben és Budapesten negyedévenként alkalmazandó kényszerértékesítési kvóták
+#### A megyékben és Budapesten negyedévenként alkalmazandó kényszerértékesítési kvóták
 
 |  | A | B | C |
 | --- | --- | --- | --- |
 | 1 | terület | időszak | kényszerértékesítési kvóta |
-| 2 | vármegyék, Budapest | 2011. IV. negyedév | 2% |
-| 3 | vármegyék, Budapest | 2012. I–IV. negyedév | 3% |
-| 4 | vármegyék, Budapest | 2013. I–IV. negyedév | 4% |
-| 5 | vármegyék, Budapest | 2014. I–IV. negyedév | 5% |
+| 2 | megyék, Budapest | 2011. IV. negyedév | 2% |
+| 3 | megyék, Budapest | 2012. I–IV. negyedév | 3% |
+| 4 | megyék, Budapest | 2013. I–IV. negyedév | 4% |
+| 5 | megyék, Budapest | 2014. I–IV. negyedév | 5% |
 
 ### 2. melléklet a 2011. évi LXXV. törvényhez

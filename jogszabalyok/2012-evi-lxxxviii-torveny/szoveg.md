@@ -638,7 +638,7 @@ rendeletben határozza meg.
 
 rendeletben határozza meg.
 
-30/A. § A műszaki biztonsági feladatkörében eljáró fővárosi és vármegyei kormányhivatal, valamint a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalának hatáskörébe tartozó műszaki biztonsági hatósági eljárásokban a hatóság az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
+30/A. § A műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal, valamint a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatalának hatáskörébe tartozó műszaki biztonsági hatósági eljárásokban a hatóság az eljárást megszünteti, ha az ügyfél a kérelmére indult eljárásban a hiánypótlásra való felhívásnak (ideértve az igazgatási szolgáltatási díj és illeték, valamint a kérelemhez jogszabály alapján csatolandó mellékletek tekintetében történő felhívást is) határidőben nem tett eleget, és az erre megállapított határidő meghosszabbítását sem kérte.
 
 #### 19. Hatálybalépés
 

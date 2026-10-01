@@ -185,7 +185,7 @@ segíti.
 
 (5) Nem választható meg a Hivatal elnökévé, illetve elnökhelyettesévé az, aki a megválasztása napját megelőző hat évben
 
-- a) köztársasági elnök, országgyűlési képviselő, európai parlamenti képviselő, helyi vagy vármegyei önkormányzati képviselő, nemzetiségi önkormányzati képviselő, polgármester vagy alpolgármester, főpolgármester vagy főpolgármester-helyettes, vármegyei közgyűlés elnöke vagy alelnöke volt,
+- a) köztársasági elnök, országgyűlési képviselő, európai parlamenti képviselő, helyi vagy megyei önkormányzati képviselő, nemzetiségi önkormányzati képviselő, polgármester vagy alpolgármester, főpolgármester vagy főpolgármester-helyettes, megyei közgyűlés elnöke vagy alelnöke volt,
 - b) a Kormány tagja, politikai felsővezető, politikai vezető, kormánybiztos, miniszterelnöki biztos vagy miniszteri biztos volt, vagy
 - c) pártban tisztséget viselt, párt alkalmazásában állt.
 
@@ -402,7 +402,7 @@ kell érteni.
 
 (4) A közvagyonvédelmi vizsgálat során a Hivatallal együttműködni köteles
 
-- a) a központi államigazgatási szerv és annak területi, helyi szerve, továbbá a fővárosi és vármegyei kormányhivatal, a honvédelmi szervezet, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és ezek hivatala,
+- a) a központi államigazgatási szerv és annak területi, helyi szerve, továbbá a fővárosi és megyei kormányhivatal, a honvédelmi szervezet, a helyi önkormányzat, a nemzetiségi önkormányzat, a társulás és ezek hivatala,
 - b) a központi vagy önkormányzati költségvetési szerv, a költségvetési fejezetet irányító szerv, a fejezeti kezelésű előirányzat és központi kezelésű előirányzat kezelő szerve, a támogatást kezelő, nyújtásában közreműködő vagy azt ellenőrző szervezet,
 - c) az állami vagy önkormányzati tulajdonban álló, illetve közfeladatot ellátó gazdálkodó szervezet,
 - d) a közfeladatot ellátó közérdekű vagyonkezelő alapítvány, a közalapítvány, a köztestület, valamint az ezek által fenntartott, finanszírozott vagy irányított szervezet,
@@ -1615,9 +1615,11 @@ terjedhet.
 
 #### 354. §
 
-#### 198.
+#### 198. A Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalról szóló 2026. évi XXXIV. törvény módosítása
 
-#### 355. §
+355. § (1) A 16. § (5) bekezdés a) pontjában a „vármegyei” szövegrészek helyébe a „megyei” szöveg lép.
+
+(2) A 40. § (4) bekezdés a) pontjában a „vármegyei” szövegrész helyébe a „megyei” szöveg lép.
 
 ### 1. melléklet a 2026. évi XXXIV. törvényhez
 

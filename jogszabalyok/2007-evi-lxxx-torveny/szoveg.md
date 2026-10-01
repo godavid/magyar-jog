@@ -50,7 +50,7 @@ a menedékjogról a következő törvényt alkotja:
 - k) különleges bánásmódot igénylő személy: a kísérő nélküli kiskorú, vagy olyan kiszolgáltatott személy – különösen a kiskorú, az idős, a fogyatékossággal élő személy, a várandós nő, a kiskorú gyermeket egyedül nevelő szülő, valamint a kínzást, nemi erőszakot vagy a pszichikai, fizikai vagy szexuális erőszak más súlyos formáját elszenvedett személy –, akiről helyzetének egyedi értékelését követően megállapítható, hogy sajátos szükségletekkel rendelkezik;
 - l) rendelkezésre állást biztosító intézkedés: olyan intézkedés, amelyben a menekültügyi hatóság
   - la) az elismerését kérő a menekültügyi hatóság előtti rendszeres jelentkezési kötelezettségéről,
-  - lb) a kijelölt tartózkodási hely – magánszállás, befogadó állomás, közösségi szállás vagy meghatározott vármegye közigazgatási területe – elrendeléséről, vagy
+  - lb) a kijelölt tartózkodási hely – magánszállás, befogadó állomás, közösségi szállás vagy meghatározott megye közigazgatási területe – elrendeléséről, vagy
   - lc) a menekültügyi óvadék alkalmazásáról
 
 rendelkezik;
@@ -1106,7 +1106,7 @@ ha a kapcsolatfelvétel eredményeként az üldözők tudomást szereznének arr
 
 (4)
 
-48. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerését kérő külföldi (e fejezet alkalmazásában a továbbiakban: kérelmező) részére a jogorvoslattal tovább nem támadható döntés vagy a 49. § (4) bekezdése alapján a kérelmező átadásáról hozott végzés végrehajthatóvá válásáig szálláshelyként vagy a feltételek fennállása esetében kijelölt tartózkodási helyként – kérelmére – magánszálláshelyet, ennek hiányában befogadó állomást, közösségi szállást, szerződés alapján fenntartott más szálláshelyet vagy meghatározott vármegye közigazgatási területét jelöli ki, kivéve, ha
+48. § (1) A menekültügyi hatóság a menekültkénti vagy oltalmazottkénti elismerését kérő külföldi (e fejezet alkalmazásában a továbbiakban: kérelmező) részére a jogorvoslattal tovább nem támadható döntés vagy a 49. § (4) bekezdése alapján a kérelmező átadásáról hozott végzés végrehajthatóvá válásáig szálláshelyként vagy a feltételek fennállása esetében kijelölt tartózkodási helyként – kérelmére – magánszálláshelyet, ennek hiányában befogadó állomást, közösségi szállást, szerződés alapján fenntartott más szálláshelyet vagy meghatározott megye közigazgatási területét jelöli ki, kivéve, ha
 
 - a) a kérelmező személyi szabadságot érintő kényszerintézkedés, intézkedés vagy büntetés, vagy idegenrendészeti eljárásban elrendelt személyi szabadságot korlátozó intézkedés hatálya alatt áll,
 - b) fennállnak a menekültügyi őrizet elrendelésének feltételei, vagy
@@ -1573,7 +1573,7 @@ meghaladja,
 
 80/C. § (1) Az igénybevétellel kapcsolatos kártalanítás összegét az állam viseli.
 
-(2) A vagyonkezelő az igénybevétellel vagy a szerződéskötési kötelezettség alapján nyújtott szolgáltatás teljesítésével összefüggésben felmerült kára megtérítésére vonatkozó igényét a székhelye vagy lakóhelye szerint illetékes, ingatlan igénybevételét is magában foglaló igénybevétel esetében az ingatlan fekvése szerint illetékes vármegyei, fővárosi kormányhivatalnál (a továbbiakban: kormányhivatal) terjesztheti elő.
+(2) A vagyonkezelő az igénybevétellel vagy a szerződéskötési kötelezettség alapján nyújtott szolgáltatás teljesítésével összefüggésben felmerült kára megtérítésére vonatkozó igényét a székhelye vagy lakóhelye szerint illetékes, ingatlan igénybevételét is magában foglaló igénybevétel esetében az ingatlan fekvése szerint illetékes megyei, fővárosi kormányhivatalnál (a továbbiakban: kormányhivatal) terjesztheti elő.
 
 (3) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására a kormányhivatal jogosult. A kormányhivatal a kárigény benyújtását követő 3 napon belül, 15 napos határidő tűzésével felhívja az igénybevevő szervet, hogy nyilatkozzon a kárigény meglapozottságáról.
 
@@ -1894,7 +1894,7 @@ igényelhetnek adatot.
 
 (1b) A menekültügyi hatóság a menekültügyi nyilvántartáshoz a Magyar igazolvány, illetve a Magyar hozzátartozói igazolvány kiadása iránti kérelmet elbíráló hatóság részére a kérelem elbírálására irányuló eljárás során a jogosultsági feltételek vizsgálatához, továbbá az igazolvány visszavonására irányuló eljárás során a visszavonási ok fennállásának vizsgálatához a menekült vagy menedékes jogállás fennállására vonatkozó adatok tekintetében az eljáró hatóság részére közvetlen hozzáférést biztosít.
 
-(1c) A menekültügyi hatóság a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és vármegyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
+(1c) A menekültügyi hatóság a szociális ellátások ügyvitelét támogató rendszer útján megkeresésre adatot szolgáltat a fővárosi és megyei kormányhivatalok részére a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti pénzbeli és természetbeni szociális ellátások, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerinti gyermektartásdíj megelőlegezésének a jogosultság fennállásának elbírálása, az ellátás biztosítása, fenntartása és megszüntetése céljából.
 
 (2) A menekültügyi hatóság – a személyiadat- és lakcímnyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából az érintett személy törvényben meghatározott adatainak közlésével – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes járási hivatalt.
 

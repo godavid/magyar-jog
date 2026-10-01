@@ -1219,7 +1219,7 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 67. § (1) Egyes közigazgatási hatósági eljárásokért, illetőleg egyes intézmények igazgatási jellegű szolgáltatásának igénybevételéért, továbbá egyes bírósági eljárási cselekményekért (szolgáltatásokért) – a (2) bekezdésben és a 2. mellékletben meghatározottak kivételével – díjat kell fizetni.
 
-(2) A fővárosi és vármegyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok mentesülnek az (1) bekezdésben meghatározott díjfizetési kötelezettség alól a fővárosi és vármegyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok által lefolytatott hatósági eljárásokban.
+(2) A fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok mentesülnek az (1) bekezdésben meghatározott díjfizetési kötelezettség alól a fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok által lefolytatott hatósági eljárásokban.
 
 (3) A fizetendő díj mértékét úgy kell megállapítani, hogy az az adott eljárással kapcsolatban az eljáró hatóságnál felmerülő és másra át nem hárítható valamennyi költségre fedezetet biztosítson. Változó költségigényű eljárások (szolgáltatások) esetében a díj összegét átalány jelleggel kell meghatározni.
 
@@ -1303,14 +1303,14 @@ azzal, hogy az (1) bekezdés y) pontja szerinti mentesség és e bekezdés alkal
 
 kell megfizetni a (2)–(4), a (4a), a (7) és (8) bekezdésben foglaltak kivételével.
 
-(2) A fővárosi és vármegyei kormányhivatalnál, járási (fővárosi kerületi) hivatalnál és a kormányablaknál nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét – ha jogszabály másként nem rendelkezik –
+(2) A fővárosi és megyei kormányhivatalnál, járási (fővárosi kerületi) hivatalnál és a kormányablaknál nem elektronikus úton kezdeményezett közigazgatási hatósági eljárás illetékét – ha jogszabály másként nem rendelkezik –
 
 - a) az eljárás megindítását megelőzően készpénz-átutalási megbízás útján, vagy
 - b) amennyiben a járási hivatalban vagy a kormányablakban erre lehetőség van, az eljárás megindításával egyidejűleg
   - ba) elektronikus fizetési és elszámolási rendszeren keresztül,
   - bb) bankkártyával vagy
   - bc) házipénztárba készpénzzel, vagy
-- c) az eljárás megindítását megelőzően átutalással, az átutalás közlemény rovatában a fővárosi és vármegyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben meghatározott adatok feltüntetésével
+- c) az eljárás megindítását megelőzően átutalással, az átutalás közlemény rovatában a fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló kormányrendeletben meghatározott adatok feltüntetésével
 
 kell megfizetni az adópolitikáért felelős miniszter rendeletében megjelölt számla javára azzal, hogy a házipénztárba fizetett illetéket készpénz-átutalási megbízással a járási hivatal és a kormányablak naponta fizeti meg az említett számla javára.
 
@@ -1935,7 +1935,7 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 | 3. | a szociálpolitikai feladatot ellátó szervnél vagy ilyen intézetnél, intézménynél szociális ügyben kezdeményezett eljárás |
 | 4. | az áldozatsegítő támogatások engedélyezésére irányuló eljárás |
 | 5. | az egészségügyben működő szakmai kamarai tagsági viszony első létesítésére irányuló eljárás |
-| 6. | a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a) a települési önkormányzat jegyzője vagy b) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala által a szociális rászorultság fennállásáról kiállított igazolás, valamint a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás kiállítása |
+| 6. | a hitelszerződésből eredő kötelezettségeiknek eleget tenni nem tudó természetes személyek lakhatásának biztosításáról szóló törvény alapján a) a települési önkormányzat jegyzője vagy b) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala által a szociális rászorultság fennállásáról kiállított igazolás, valamint a családi pótlékra való jogosultságra vonatkozóan kiállított igazolás kiállítása |
 | 7. | a) a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás) való felvétel, b) az adatmódosítás, c) a szolgáltatói nyilvántartásból való törlés, d) a szolgáltatói nyilvántartással kapcsolatos bejelentések, e) a szolgáltatói nyilvántartás adatairól hatósági bizonyítvány kiállítása és f) a szolgáltatói nyilvántartásból teljesített egyéb adatszolgáltatás |
 | 8. | a jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás |
 | 9. | a közérdekű önkéntes tevékenységről szóló törvény alapján a) a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, b) a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és c) a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás |

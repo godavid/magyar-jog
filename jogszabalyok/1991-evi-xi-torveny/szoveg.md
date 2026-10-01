@@ -12,7 +12,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 2. § (1) Az egészségügyi államigazgatási szerv – a (3)–(3b) bekezdésben meghatározott kivétellel – felügyeletet gyakorol az ország közegészségügyi-járványügyi (a továbbiakban együtt: közegészségügyi) viszonyai felett. Ennek keretében
 
-- a) az ország egész területén – a rendvédelmi szervek – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit –, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség tevékenységének kivételével – közegészségügyi ellenőrzést végez,
+- a) az ország egész területén – a rendvédelmi szervek – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit –, valamint a polgári nemzetbiztonsági szolgálatok tevékenységének kivételével – közegészségügyi ellenőrzést végez,
 - b) biztosítja a vasúti, a vízi és a közúti határforgalom, valamint a nemzetközi légiforgalom közegészségügyi ellenőrzését,
 - c) ellenőrzi a közegészségügyi szabályok érvényesülését,
 - d) végrehajtja a külön jogszabályokban hatáskörébe utalt feladatokat.
@@ -21,7 +21,7 @@ az egészségügyi hatósági és igazgatási tevékenységről
 
 (3) A honvédelmi szervezet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 9. pontja szerinti szervezett munkavégzést folytató szervezet, valamint a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaság közegészségügyi felügyeletét, – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a katonai egészségügyi államigazgatási szerv gyakorolja.
 
-(3a) A rendészetért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek az (1) bekezdés a) pontjában foglaltak figyelembevételével, továbbá a rendvédelmi szervek személyi állományára, valamint az Országgyűlési Őrségre vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a rendvédelmi szervek egészségügyi szolgálatai végzik.
+(3a) A rendészetért felelős miniszter alárendeltségébe, közvetlen irányítása, fenntartói irányítása és közvetlen felügyelete alá tartozó szervezetek az (1) bekezdés a) pontjában foglaltak figyelembevételével, továbbá a rendvédelmi szervek személyi állományára vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a rendvédelmi szervek egészségügyi szolgálatai végzik.
 
 (3b) A polgári nemzetbiztonsági szolgálatok a személyi állományra vonatkozó közegészségügyi-járványügyi feladatainak ellátását – az egészségügyi államigazgatási szerv szakmai irányelveinek betartásával és vele együttműködve – a polgári nemzetbiztonsági szolgálatok egészségügyi szolgálatai végzik.
 
@@ -223,7 +223,7 @@ a táboroztatás szervezője a táboroztatás szervezésében, illetve lebonyol�
   - ed) az egészségügyi szolgáltatók szakellátási kapacitásaihoz rendelt ellátási területeket,
   - ee) az engedélyezett beavatkozással járó (orvostudományi) kutatásokat,
   - ef) a beavatkozással nem járó, embriókkal, ivarsejtekkel, őssejtekkel végezhető vizsgálatokat;
-- f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a vármegye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét;
+- f) az egészségügyi szolgáltatók bejelentése alapján nyilvántartja, szükség esetén összehangolja, illetőleg az érintett egészségügyi szolgáltatók és fenntartóik véleményének kikérése után megállapítja és közzéteszi a megye (főváros) ügyeleti, készenléti ellátásának és betegbeutalásának területi rendjét;
 - g) ellátja a gyógyhelyek, gyógyfürdő intézmények és a természetes gyógytényezők vonatkozásában a külön jogszabályban meghatározott feladatokat;
 - h) ellátja a gyógyszerellátással és a fokozottan ellenőrzött szerekkel, illetve kábítószer-prekurzorokkal kapcsolatos szakfelügyeletet, ennek keretében biztosítja, hogy a forgalomból kivont gyógyszerkészítmények ne kerüljenek további felhasználásra;
 - i) kijelöli azokat a gyógyszertárakat és egészségügyi intézményeket, amelyek az egészségügyért felelős miniszter által meghatározott gyógyszereket és immunbiológiai készítményeket kötelesek készletükben tartani;
@@ -605,7 +605,7 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 
 (3) A felügyeleti díj mértéke nyolcvanezer forint.
 
-14/E. § A honvédelmi szervezet, a honvédelemért felelős miniszter hatósági jogkörébe tartozó, miniszteri rendeletben kijelölt gazdasági társaság, a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv, továbbá a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok és az Országgyűlési Őrség vonatkozásában a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv e törvény szerinti eljárásaiban
+14/E. § A honvédelmi szervezet, a honvédelemért felelős miniszter hatósági jogkörébe tartozó, miniszteri rendeletben kijelölt gazdasági társaság, a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv, továbbá a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok vonatkozásában a közegészségügyi-járványügyi hatósági feladatok ellátására kormányrendeletben kijelölt szerv e törvény szerinti eljárásaiban
 
 - a) a hivatalbóli eljárás megindításáról az ügyfelet nem kell értesíteni,
 - b) nincs helye sommás eljárásnak,
@@ -621,9 +621,9 @@ körében a kérelemre lefolytatott közigazgatási eljárásáért – ideértv
 (4) Felhatalmazást kap a Kormány, hogy rendeletben
 
 - a) jelölje ki az egészségügyi államigazgatási szervet vagy szerveket, és a katonai egészségügyi államigazgatási szervet,
-- b) jelölje ki a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket, továbbá szabályozza az ezen szervek által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
+- b) jelölje ki a rendvédelmi szervek, valamint a polgári nemzetbiztonsági szolgálatok – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a közegészségügyi-járványügyi feladatokat ellátó szervet vagy szerveket, továbbá szabályozza az ezen szervek által folytatott közigazgatási hatósági eljáráshoz, hatósági ellenőrzéshez kapcsolódó különös és kiegészítő eljárási rendelkezéseket.
 
-(5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, valamint az Országgyűlési Őrség vonatkozásában a rendészetért felelős miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
+(5) Felhatalmazást kap a 2. § (1) bekezdésének a) pontja szerint érintett miniszter, hogy a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza.
 
 (6) Felhatalmazást kap a honvédelemért felelős miniszter, hogy az egészségügyért felelős miniszter egyetértésével kiadott rendeletben szabályozza a honvédelmi szervezet, a honvédelemért felelős miniszter által vezetett minisztérium vagyonkezelésében vagy más jogviszony alapján a honvédelmi szervezet használatában lévő ingatlanon honvédelmi érdeket szolgáló, a munkavédelemről szóló 1993. évi XCIII. törvény 87. § 9. pontja szerinti szervezett munkavégzést folytató szervezet, valamint a honvédelemért felelős miniszter hatósági jogkörébe tartozó, a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló törvény alapján miniszteri rendeletben kijelölt gazdasági társaság feladatával kapcsolatos közegészségügyi követelményeket, a közegészségügyi feladatok ellátásának, valamint az egészségügyi államigazgatási szervvel való együttműködés rendjét.
 

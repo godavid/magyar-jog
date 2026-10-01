@@ -109,7 +109,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (2) A KSH székhelye Budapest.
 
-(2a) A KSH a feladatainak ellátásához kapcsolódóan a vármegyékben irodákat működtethet.
+(2a) A KSH a feladatainak ellátásához kapcsolódóan a megyékben irodákat működtethet.
 
 (3) A jogszabályok és a közjogi szervezetszabályozó eszközök nem sérthetik a KSH szakmai függetlenségét.
 
@@ -195,7 +195,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 - b) felsőfokú végzettséggel rendelkezik,
 - c) a Hivatalos Statisztikai Szolgálatban, az Európai Statisztikai Rendszerben, a közigazgatásban vagy a statisztikai tudomány területén legalább öt év szakmai gyakorlatot szerzett.
 
-(3) Nem nevezhető ki a KSH elnökének, illetve elnökhelyettesének büntetett előéletű, valamint olyan személy, aki a kinevezést megelőző négy évben országgyűlési vagy európai parlamenti képviselő, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, köztársasági elnök, fővárosi és vármegyei kormányhivatalt vezető főispán, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, vármegyei közgyűlés elnöke vagy alelnök, illetve nemzetiségi önkormányzat tagja vagy párt tisztségviselője volt.
+(3) Nem nevezhető ki a KSH elnökének, illetve elnökhelyettesének büntetett előéletű, valamint olyan személy, aki a kinevezést megelőző négy évben országgyűlési vagy európai parlamenti képviselő, a Kormány tagja, a miniszterelnök politikai igazgatója, államtitkár, köztársasági elnök, fővárosi és megyei kormányhivatalt vezető kormánymegbízott, helyi önkormányzati képviselő, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes, megyei közgyűlés elnöke vagy alelnök, illetve nemzetiségi önkormányzat tagja vagy párt tisztségviselője volt.
 
 (4) A KSH elnökének jelölt személy – a kinevezését megelőzően – a miniszterelnök részére, a KSH elnökhelyettesének jelölt személy – kinevezését megelőzően – a KSH elnöke részére hatósági bizonyítvánnyal igazolja, hogy büntetlen előéletű.
 
@@ -543,7 +543,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 #### 17. Az adatszolgáltatás elmulasztásának, illetve a hamis adatszolgáltatás jogkövetkezményei
 
-32. § (1) A fővárosi és vármegyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül indított eljárásban – közigazgatási bírsággal sújtja azt az adatszolgáltatót, aki vagy amely
+32. § (1) A fővárosi és megyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül indított eljárásban – közigazgatási bírsággal sújtja azt az adatszolgáltatót, aki vagy amely
 
 - a) kötelező hivatalos statisztikai adatszolgáltatást nem vagy nem az előírt határidőre teljesíti,
 - b) a hivatalos statisztikai célú adatátvételre, adatátadásra vonatkozó kötelezettségét megszegi.
@@ -558,7 +558,7 @@ Az Országgyűlés, kiindulva abból, hogy Magyarország társadalmi és gazdas�
 
 (6) Az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény szerinti felügyeleti eljárás lefolytatására a közigazgatás-szervezésért felelős miniszter jogosult.
 
-33. § (1) A fővárosi és vármegyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül – közigazgatási bírsággal sújtja azt a jogi személyt vagy személyiségi joga szerint jogképes szervezetet, amely kötelező adatszolgáltatás esetén a valóságnak nem megfelelő adatot szolgáltat vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
+33. § (1) A fővárosi és megyei kormányhivatal – a jogsértés elkövetésétől számított egyéves jogvesztő határidőn belül – közigazgatási bírsággal sújtja azt a jogi személyt vagy személyiségi joga szerint jogképes szervezetet, amely kötelező adatszolgáltatás esetén a valóságnak nem megfelelő adatot szolgáltat vagy az adatszolgáltatással kapcsolatban a valóságnak meg nem felelő felvilágosítást ad.
 
 (2) A közigazgatási bírság összege 100 000 forinttól 2 000 000 forintig terjedhet. A bírság kiszabása a jogszabálysértéssel érintett adatszolgáltatásonként történik.
 

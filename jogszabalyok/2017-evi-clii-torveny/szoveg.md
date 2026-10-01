@@ -41,7 +41,7 @@ E törvény alkalmazásában
 - 4. tartozás: a Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) által az adós részére közölt és az adós által – engedély nélkül – határidőre meg nem fizetett összeg,
 - 5. ügyfél: az a személy, akit a vámjogszabályok alapján jogok illetnek meg, illetve kötelezettségek terhelnek, ügyfélnek kell tekinteni továbbá e feladata ellátása során a vámjogi képviselőt, a vagyonfelügyelőt, a felszámolót és a végelszámolót is,
 - 6. vámhiány: a keletkezett vámok és egyéb terhek és az annál kisebb összegben közölt vámok és egyéb terhek különbözete, továbbá a keletkezett, de nem közölt vámok és egyéb terhek összege, ha az nem abból eredt, hogy a vámhatóság jogszabályt sértett vagy a rendelkezésre álló adatokat helytelenül értékelte, ide nem értve az ellenőrzés nélküli elfogadás esetét azzal, hogy a vámigazgatási bírság kiszabása szempontjából vámhiánynak minősül továbbá a szabályok be nem tartása miatt lefoglalt és elkobzott termékek esetében a keletkezett behozatali vámok és egyéb terhek összege, továbbá a 179. § (7) bekezdése alapján megállapított egyéb teher különbözete, nem minősül azonban vámhiánynak a Vámkódex 124. cikk (1) bekezdés h) vagy k) pontja alapján megszűnt vámtartozás, és a vámfelügyelettel, vámigazgatási üggyel összefüggő jogsértés miatt keletkezett 10 euró alatti vám és egyéb terhek összege,
-- 7. vámhivatal: a NAV vármegyei (fővárosi) adó- és vámigazgatóságai és azok kirendeltségei, valamint a Kormány rendeletében meghatározott igazgatóságok,
+- 7. vámhivatal: a NAV megyei (fővárosi) adó- és vámigazgatóságai és azok kirendeltségei, valamint a Kormány rendeletében meghatározott igazgatóságok,
 - 8. vámigazgatási eljárás: a vámhatóság által a vámjogszabályok, illetve a vámjogszabályok alkalmazásával összefüggésben az ügyfél kérelmére vagy hivatalból indult eljárás,
 - 9. vámigazgatási ügy: a vámjogszabályok rendelkezéseinek biztosítása érdekében a vámhatóság által a vámjogszabályok alapján hozandó döntés meghozatalára irányuló vámhatósági intézkedés, a vámellenőrzés, a jogsértés megállapítása, valamint tény, adat, állapot igazolása vagy nyilvántartás vezetése, illetve mindezeket érintő döntés érvényesítése,
 - 10. vámszerv: a NAV vámigazgatási feladatot is ellátó szerve.
@@ -433,7 +433,7 @@ Ha a Vámkódex 6. cikk (3) bekezdés a) pontja alapján az információcsere é
 
 (1) E § alkalmazásában a vámhatóság megkeresés, illetve adatkérés esetén annak beérkezésétől számított 30 napon belül, illetve hivatalból tájékoztatja a vámtitokról
 
-- a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ellátása céljából, valamint a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervet, amennyiben nemzetbiztonsági feladatkörében jár el,
+- a) a nemzetbiztonsági szolgálatokat törvényben meghatározott feladataik ellátása céljából,
 - b) a Rendőrségről szóló törvényben és a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott titkos információgyűjtésre feljogosított szervet, ha a tájékoztatás a titkos információgyűjtés folytatása érdekében szükséges,
 - c) az ügyészséget, az NVVH-t, a nyomozó hatóságot, valamint az előkészítő eljárást folytató szervet, ha tájékoztatás a büntetőeljárás lefolytatása érdekében szükséges,
 - d) a bíróságot az igazságszolgáltatási tevékenysége ellátása céljából,

@@ -23,7 +23,7 @@ terjed ki.
 - a) a kormányzati igazgatásról szóló törvény ekként rendelkezik, vagy
 - b) a kormányzati igazgatásról szóló törvény a jogviszony vagy annak egyes elemei tekintetében a hatályának hiányáról rendelkezik.
 
-2. § Törvény eltérő rendelkezése hiányában az Országgyűlés Hivatala, valamint az Országgyűlési Őrség köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára e törvény rendelkezéseit kell alkalmazni.
+2. § Törvény eltérő rendelkezése hiányában az Országgyűlés Hivatala köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára e törvény rendelkezéseit kell alkalmazni.
 
 3. § (1)
 
@@ -89,7 +89,7 @@ személyes gondozást vagy támogatást nyújt;
 - 15.
 - 15a. kötelező orvosi vizsgálat: az az orvosi vizsgálat, amelyen a kormánytisztviselőnek jogszabály előírása alapján részt kell vennie, ideértve a várandós állapotra tekintettel előírt orvosi vizsgálatot is;
 - 16. közigazgatási gyakorlatnak kell tekinteni a közigazgatási szervnél, illetve annak jogelőd szervénél közszolgálati jogviszonyban, állami szolgálati jogviszonyban, adó- és vámhatósági szolgálati jogviszonyban, államigazgatási munkaviszonyban töltött időt tekintet nélkül arra, hogy a jogviszony folyamatosan fennállt-e vagy sem; a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény vagy a polgári nemzetbiztonsági szolgálatok személyi állományának jogállásáról szóló törvény hatálya alá tartozó szervnél szerzett gyakorlatot; továbbá a 247. § (1) bekezdés c) pontja vonatkozásában – jogi előadói vagy más jogi munkakörben megszerzett joggyakorlat kivételével – a jogi szakvizsga megtételéhez szükséges joggyakorlati időt is;
-- 17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek, valamint a fővárosi és vármegyei kormányhivatal;
+- 17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek, valamint a fővárosi és megyei kormányhivatal;
 - 18. közigazgatási szervnél képviselettel rendelkező szakszervezet: az a szakszervezet, amelyik alapszabálya szerint a közigazgatási szervnél képviseletére jogosult szervet működtet, illetve tisztségviselővel rendelkezik;
 - 19. közszolgálati szabályzat:
   - a) a közigazgatási szerv hivatali szervezetének vezetője által – a jogalkotásról szóló 2010. évi CXXX. törvény alkalmazása szempontjából közjogi szervezetszabályozó eszközként – az e törvényben meghatározott kérdésekben, valamint a hivatali szerv vezetőjének általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben kiadott normatív utasítás, vagy
@@ -148,7 +148,7 @@ személyes gondozást vagy támogatást nyújt;
 
 (8) A közszolgálati tisztviselő besorolásánál (116. §) az önkéntes tartalékos tényleges katonai szolgálatteljesítés idejét kétszeres időtartammal kell figyelembe venni.
 
-(9) Az (1)–(3) bekezdésben foglalt szabályokat az Országgyűlési Őrség esetében nem kell alkalmazni.
+(9)
 
 (10) Az (1) bekezdésben foglaltaktól eltérően, Magyarország diplomáciai és konzuli képviseletein, a nemzetközi szervezetek mellett működő állandó képviseleteken, valamint más állami képviseleteken ügyviteli feladat ellátására nem kizárólag kormányzati szolgálati, illetve közszolgálati jogviszony létesíthető.
 
@@ -380,7 +380,7 @@ kézbesítettnek kell tekinteni.
 
 (3) A kormányzati személyügyi igazgatásra kijelölt szerv vezetője statisztikai célú adatgyűjtést végezhet, adatszolgáltatást kérhet a közigazgatási szervtől a kormányzati személyzetpolitika összehangolásának biztosítása érdekében.
 
-(4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter ellenőrzi – a fővárosi és vármegyei kormányhivatalok közreműködésével – a kormányzati szolgálati és a közszolgálati jogviszonyra vonatkozó jogszabályok végrehajtását.
+(4) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter ellenőrzi – a fővárosi és megyei kormányhivatalok közreműködésével – a kormányzati szolgálati és a közszolgálati jogviszonyra vonatkozó jogszabályok végrehajtását.
 
 (5) A közszolgálati életpálya kidolgozásáért felelős miniszter felel az egységes alapokon megvalósuló személyügyi nyilvántartás és integrált emberierőforrás-gazdálkodási rendszer működéséért a minisztériumokban.
 
@@ -814,33 +814,33 @@ köteles foglalkoztatni. Ezt követően a kormánytisztviselő munkaidejét a k�
 
 (5) A kormánytisztviselő az (1)–(4) bekezdésben foglaltaknak megfelelően a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény hatálya alá tartozó munkáltatóhoz is kirendelhető.
 
-### A fővárosi és vármegyei kormányhivatalok közötti kirendelés
+### A fővárosi és megyei kormányhivatalok közötti kirendelés
 
-53/A. § (1) A kormánytisztviselő a munkáltatói jogkört gyakorló fővárosi és vármegyei kormányhivataltól (a továbbiakban: kirendelő) másik fővárosi és vármegyei kormányhivatalnál történő munkavégzésre kirendelhető akkor, ha a kirendelés helye szerinti fővárosi és vármegyei kormányhivatal valamely szakkérdéssel összefüggő hatósági feladatát más módon nem tudja hatékonyan ellátni. A kirendelés során a munkavégzés helye csak akkor változhat, ha az a kirendelés helye szerinti fővárosi és vármegyei kormányhivatal feladatának ellátásához elengedhetetlenül szükséges. A fővárosi és vármegyei kormányhivatalok közötti kirendeléshez a kormánytisztviselő beleegyezése nem szükséges.
+53/A. § (1) A kormánytisztviselő a munkáltatói jogkört gyakorló fővárosi és megyei kormányhivataltól (a továbbiakban: kirendelő) másik fővárosi és megyei kormányhivatalnál történő munkavégzésre kirendelhető akkor, ha a kirendelés helye szerinti fővárosi és megyei kormányhivatal valamely szakkérdéssel összefüggő hatósági feladatát más módon nem tudja hatékonyan ellátni. A kirendelés során a munkavégzés helye csak akkor változhat, ha az a kirendelés helye szerinti fővárosi és megyei kormányhivatal feladatának ellátásához elengedhetetlenül szükséges. A fővárosi és megyei kormányhivatalok közötti kirendeléshez a kormánytisztviselő beleegyezése nem szükséges.
 
-(2) A kirendelés a fővárosi és vármegyei kormányhivatalok közötti megállapodás alapján, az 53. § megfelelő alkalmazásával történik azzal, hogy
+(2) A kirendelés a fővárosi és megyei kormányhivatalok közötti megállapodás alapján, az 53. § megfelelő alkalmazásával történik azzal, hogy
 
 - a) az alapvető munkáltatói jogokat a kirendelő hivatali szervezetének vezetője gyakorolja a (3) bekezdésben foglalt eltérésekkel,
 - b) a megállapodás alapján a kirendelés a feladat ellátásáig, de legfeljebb naptári évenként hat hónapig tarthat, ha a munkavégzés helye nem változik; ha a szakkérdéssel összefüggő hatósági feladat ellátása hosszabb idő alatt biztosítható, a kirendelés a feladatkör ellátásáig meghosszabbodik,
-- c) ha a szakkérdéssel összefüggő hatósági feladat ellátása más helységben lévő fővárosi és vármegyei kormányhivatalnál történő munkavégzéssel oldható csak meg, a kirendelés időtartama – az 51. § (4) bekezdésétől eltérően – nem haladhatja meg a naptári évenkénti ötven munkanapot. A fővárosi és vármegyei kormányhivatalok közötti kirendelés történhet keretmegállapodás formájában is.
+- c) ha a szakkérdéssel összefüggő hatósági feladat ellátása más helységben lévő fővárosi és megyei kormányhivatalnál történő munkavégzéssel oldható csak meg, a kirendelés időtartama – az 51. § (4) bekezdésétől eltérően – nem haladhatja meg a naptári évenkénti ötven munkanapot. A fővárosi és megyei kormányhivatalok közötti kirendelés történhet keretmegállapodás formájában is.
 
-(3) A fővárosi és vármegyei kormányhivatalok közötti kirendelés során az alapvető munkáltatói jogokat a kirendelő hivatali szervezetének vezetője és a kirendelés helye szerinti fővárosi és vármegyei kormányhivatal az alábbiak szerint gyakorolja:
+(3) A fővárosi és megyei kormányhivatalok közötti kirendelés során az alapvető munkáltatói jogokat a kirendelő hivatali szervezetének vezetője és a kirendelés helye szerinti fővárosi és megyei kormányhivatal az alábbiak szerint gyakorolja:
 
-- a) ha a kormánytisztviselő a kirendelés alatt olyan magatartást tanúsít, amely fegyelmi, kártérítési vagy sérelemdíj megfizetésére irányuló eljárás megindítását alapozza meg, a kirendelés helye szerinti fővárosi és vármegyei kormányhivatal hivatali szervezetének vezetője jogosult a kirendelő hivatali szervezetének vezetőjénél az eljárás megindítását kezdeményezni,
-- b) ha a kirendelés helye szerinti fővárosi és vármegyei kormányhivatal hivatali szervezetének vezetője tudomást szerez a foglalkoztatást kizáró okról, köteles kezdeményezni a kirendelő hivatali szervezetének vezetőjénél a 63. § (2) bekezdés g) pontja szerinti megszüntetést,
-- c) ha a kormánytisztviselő a 83/A. § (1) bekezdése alapján a kirendelés helye szerinti fővárosi és vármegyei kormányhivatal hivatali szervezetének vezetőjét tájékoztatja, e vezető köteles – a kormánytisztviselő egyidejű tájékoztatása mellett – a tudomására jutott adatokat a kirendelő hivatali szervezete vezetőjének haladéktalanul továbbítani,
-- d) a kirendelés helye szerinti fővárosi és vármegyei kormányhivatal hivatali szervezetének vezetője az (1) bekezdés szerinti feladat ellátásával kapcsolatban jogosult utasítást adni,
-- e) ha a kirendelés időtartama meghaladja a két hónapot, a szabadság kiadására a kirendelés helye szerinti fővárosi és vármegyei kormányhivatal hivatali szervezetének vezetője jogosult,
-- f) rendkívüli munkavégzés elrendelésére a kirendelés időtartama alatt a kirendelés helye szerinti fővárosi és vármegyei kormányhivatal hivatali szervezetének vezetője jogosult.
+- a) ha a kormánytisztviselő a kirendelés alatt olyan magatartást tanúsít, amely fegyelmi, kártérítési vagy sérelemdíj megfizetésére irányuló eljárás megindítását alapozza meg, a kirendelés helye szerinti fővárosi és megyei kormányhivatal hivatali szervezetének vezetője jogosult a kirendelő hivatali szervezetének vezetőjénél az eljárás megindítását kezdeményezni,
+- b) ha a kirendelés helye szerinti fővárosi és megyei kormányhivatal hivatali szervezetének vezetője tudomást szerez a foglalkoztatást kizáró okról, köteles kezdeményezni a kirendelő hivatali szervezetének vezetőjénél a 63. § (2) bekezdés g) pontja szerinti megszüntetést,
+- c) ha a kormánytisztviselő a 83/A. § (1) bekezdése alapján a kirendelés helye szerinti fővárosi és megyei kormányhivatal hivatali szervezetének vezetőjét tájékoztatja, e vezető köteles – a kormánytisztviselő egyidejű tájékoztatása mellett – a tudomására jutott adatokat a kirendelő hivatali szervezete vezetőjének haladéktalanul továbbítani,
+- d) a kirendelés helye szerinti fővárosi és megyei kormányhivatal hivatali szervezetének vezetője az (1) bekezdés szerinti feladat ellátásával kapcsolatban jogosult utasítást adni,
+- e) ha a kirendelés időtartama meghaladja a két hónapot, a szabadság kiadására a kirendelés helye szerinti fővárosi és megyei kormányhivatal hivatali szervezetének vezetője jogosult,
+- f) rendkívüli munkavégzés elrendelésére a kirendelés időtartama alatt a kirendelés helye szerinti fővárosi és megyei kormányhivatal hivatali szervezetének vezetője jogosult.
 
-(4) A fővárosi és vármegyei kormányhivatalok közötti megállapodásnak tartalmaznia kell
+(4) A fővárosi és megyei kormányhivatalok közötti megállapodásnak tartalmaznia kell
 
 - a) az (1) bekezdésnek megfelelő, a kirendelést megalapozó feladatot,
 - b) a kirendelés időtartamát,
 - c) a munkavégzés helyét (ha ez nem állandó, akkor ennek feltüntetését),
 - d) az (1) bekezdés szerinti feladattal kapcsolatban felmerülő bér- és egyéb költségek viselésének részletes szabályait.
 
-(5) A fővárosi és vármegyei kormányhivatalok közötti megállapodásban a (3) bekezdésben foglalt szabályoktól eltérően nem rendelkezhetnek, a (4) bekezdésben foglaltak hiányában a kirendelésről szóló megállapodás semmis. Vita esetén vagy megállapodás hiányában a munkáltatói jogok és a jogviszonnyal kapcsolatos kötelezettségek teljesítése a kirendelő hivatali szervezetének vezetőjét illetik meg és terhelik.
+(5) A fővárosi és megyei kormányhivatalok közötti megállapodásban a (3) bekezdésben foglalt szabályoktól eltérően nem rendelkezhetnek, a (4) bekezdésben foglaltak hiányában a kirendelésről szóló megállapodás semmis. Vita esetén vagy megállapodás hiányában a munkáltatói jogok és a jogviszonnyal kapcsolatos kötelezettségek teljesítése a kirendelő hivatali szervezetének vezetőjét illetik meg és terhelik.
 
 ### Kiküldetés
 
@@ -1304,7 +1304,7 @@ alakul át.
 
 (4) A munkáltató biztosítja az egészséget nem veszélyeztető és biztonságos munkavégzés követelményeit. A munkavédelemről szóló törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott feladatkörök esetében a munkáltató köteles ingyenesen biztosítani a köztisztviselő munkaköri alkalmassági vizsgálatát.
 
-(4a) Az Országgyűlés Hivatala és az Országgyűlési Őrség köztisztviselőinek, illetve kormányzati ügykezelőinek feladatkörei esetén a munkáltatói jogkör gyakorlója dönt azon feladatkörökről, amelyek esetében a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt alkalmassági vizsgálat szükséges. A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát.
+(4a) Az Országgyűlés Hivatala köztisztviselőinek, illetve kormányzati ügykezelőinek feladatkörei esetén a munkáltatói jogkör gyakorlója dönt azon feladatkörökről, amelyek esetében a munkába lépést megelőzően és a közszolgálati jogviszony fennállása alatt alkalmassági vizsgálat szükséges. A munkáltató köteles ingyenesen biztosítani a köztisztviselő alkalmassági vizsgálatát.
 
 (5) Az államigazgatási szerv hivatali szervezetének vezetője köteles az e törvényben meghatározott kérdésekben, valamint az általános munkáltatói szabályozási hatáskörébe tartozó kérdésekben közszolgálati szabályzatot kiadni.
 
@@ -1454,7 +1454,7 @@ alakul át.
 
 85. § (1) A kormánytisztviselő nem lehet helyi önkormányzati, nemzetiségi önkormányzati képviselő annál az önkormányzatnál, amely az őt alkalmazó államigazgatási szerv illetékességi területén működik.
 
-(1a) A központi államigazgatási szerv és a fővárosi és vármegyei kormányhivatal kormánytisztviselője nem lehet
+(1a) A központi államigazgatási szerv és a fővárosi és megyei kormányhivatal kormánytisztviselője nem lehet
 
 - a) helyi nemzetiségi önkormányzat elnöke, elnökhelyettese,
 - b) országos nemzetiségi önkormányzat elnöke, elnökhelyettese, továbbá
@@ -2097,7 +2097,7 @@ kell megállapítani.
 
 (7) A személyügyi központ vezetője a teljesítményértékelés lefolytatásának elősegítése érdekében módszertani ajánlást ad ki.
 
-(8) A személyügyi központ vezetője – a helyi önkormányzatok tekintetében a vármegyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.
+(8) A személyügyi központ vezetője – a helyi önkormányzatok tekintetében a megyei, fővárosi kormányhivatalok útján – ellenőrzi a teljesítményértékelésre, minősítésre vonatkozó szabályok és módszertan betartását.
 
 ### Díjazás, illetmény
 
@@ -2153,7 +2153,7 @@ kell megállapítani.
 - 1.
 - 2. a minisztériumban és a költségvetési fejezetet irányító más szervnél,
 - 3. az államháztartásról szóló törvény alapján kijelölt kormányzati ellenőrzési szervnél,
-- 4. a kincstár központi szervénél – ide nem értve a kincstár nyugdíjfolyósító szervét –, valamint Budapest és Pest vármegye területére kiterjedő illetékességű területi szervénél,
+- 4. a kincstár központi szervénél – ide nem értve a kincstár nyugdíjfolyósító szervét –, valamint Budapest és Pest megye területére kiterjedő illetékességű területi szervénél,
 - 5.
 - 6.
 - 7.
@@ -2169,7 +2169,7 @@ kell megállapítani.
 
 (2) Az (1) bekezdésben nem említett központi államigazgatási szervnél, a rendőrség, a büntetés-végrehajtás és a katasztrófavédelem szervezeteinél, valamint a kincstár nyugdíjfolyósító szervénél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 35%-a, érettségi végzettségű kormánytisztviselő esetében az alapilletményének 15%-a.
 
-(3) A központi államigazgatási szerv legalább vármegyei szintű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az egészségbiztosítási szerv legalább vármegyei szintű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a érettségi végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
+(3) A központi államigazgatási szerv legalább megyei szintű területi szervénél, valamint a rendőrség, a katasztrófavédelem és a büntetés-végrehajtás, a Kormány által intézményfenntartásra kijelölt szerv és az egészségbiztosítási szerv legalább megyei szintű belső igazgatási szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 30%-a, a érettségi végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 
 (4) A (3) bekezdésben felsorolt államigazgatási szerv helyi szintű szerveinél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű kormánytisztviselő esetében az alapilletményének 10%-a.
 
@@ -2817,7 +2817,7 @@ terjed ki.
 
 ### A közszolgálati ellenőrzés
 
-189. § (1) A Kormány ellenőrzi – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és a fővárosi, vármegyei kormányhivatal közreműködésével – a kormányzati szolgálati jogviszonyra vonatkozó jogszabályok végrehajtását. Ennek keretében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára évente meghatározhatja a vizsgálati tárgyköröket (célvizsgálat), valamint a vizsgálat alá vont 1. §-ban meghatározott szerveket (a továbbiakban: vizsgált szervek). A célvizsgálatot a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter folytatja le, amelynek tapasztalatairól a Kormányt évente tájékoztatja.
+189. § (1) A Kormány ellenőrzi – a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter és a fővárosi, megyei kormányhivatal közreműködésével – a kormányzati szolgálati jogviszonyra vonatkozó jogszabályok végrehajtását. Ennek keretében a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter javaslatára évente meghatározhatja a vizsgálati tárgyköröket (célvizsgálat), valamint a vizsgálat alá vont 1. §-ban meghatározott szerveket (a továbbiakban: vizsgált szervek). A célvizsgálatot a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter folytatja le, amelynek tapasztalatairól a Kormányt évente tájékoztatja.
 
 (2) A közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter jogosult -– a cél- és témavizsgálatok keretében – a minisztériumokban, a kormányhivataloknál és a központi hivataloknál:
 
@@ -2827,7 +2827,7 @@ terjed ki.
 
 (3) A (2) bekezdés b)–c) pontjában meghatározott esetekben az államigazgatási szerv vezetője köteles a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter megkeresését érdemben megvizsgálni, és saját intézkedéséről vagy annak mellőzése okáról a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős minisztert – a megkereséstől számított harminc napon belül – tájékoztatni.
 
-(4) A (2) bekezdésbe nem tartozó vizsgált szervekkel kapcsolatos ellenőrzési jogkört a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter koordinálásával a fővárosi, vármegyei kormányhivatal gyakorolja.
+(4) A (2) bekezdésbe nem tartozó vizsgált szervekkel kapcsolatos ellenőrzési jogkört a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter koordinálásával a fővárosi, megyei kormányhivatal gyakorolja.
 
 ### Jogvita
 
@@ -3107,7 +3107,7 @@ munkanapra emelkedik.
 
 ### VII/A. Fejezet — A POLGÁRMESTER, ALPOLGÁRMESTER FOGLALKOZTATÁSI JOGVISZONYÁRA VONATKOZÓ KÜLÖNÖS RENDELKEZÉSEK
 
-225/A. § (1) A főállású polgármester foglalkoztatási jogviszonya a képviselő-testület és a polgármester között – a (2) bekezdés b) pontja kivételével – választással létrejövő, sajátos közszolgálati jogviszony. A polgármester tekintetében – az illetmény, tiszteletdíj megállapításának kivételével – a képviselő-testület gyakorolja a munkáltatói jogokat. A polgármester illetményét, tiszteletdíját a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 71. § (1)–(4b) bekezdésének megfelelően a jegyző állapítja meg. A rendelkezés nem alkalmazható az alpolgármesternek, a vármegyei közgyűlés alelnökének, a főpolgármester-helyettes illetményének, illetve tiszteletdíjának a megállapításánál.
+225/A. § (1) A főállású polgármester foglalkoztatási jogviszonya a képviselő-testület és a polgármester között – a (2) bekezdés b) pontja kivételével – választással létrejövő, sajátos közszolgálati jogviszony. A polgármester tekintetében – az illetmény, tiszteletdíj megállapításának kivételével – a képviselő-testület gyakorolja a munkáltatói jogokat. A polgármester illetményét, tiszteletdíját a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 71. § (1)–(4b) bekezdésének megfelelően a jegyző állapítja meg. A rendelkezés nem alkalmazható az alpolgármesternek, a megyei közgyűlés alelnökének, a főpolgármester-helyettes illetményének, illetve tiszteletdíjának a megállapításánál.
 
 (2) A főállású polgármester foglalkoztatási jogviszonya
 
@@ -3146,7 +3146,7 @@ munkanapra emelkedik.
 
 (3) Az illetmény, tiszteletdíj csökkentése egy évnél hosszabb időszakra nem vonatkozhat.
 
-225/F. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága, valamint a fővárosi és vármegyei kormányhivatal vezetője jogosult.
+225/F. § (1) A polgármester ellen a fegyelmi eljárást a képviselő-testület rendeli el. A fegyelmi eljárás kezdeményezésére a képviselő-testület tagja, bizottsága, valamint a fővárosi és megyei kormányhivatal vezetője jogosult.
 
 (2) A fegyelmi eljárás során vizsgálatot kell tartani, amelynek lefolytatására a képviselő-testület tagjai közül háromtagú vizsgálóbizottságot kell megbízni. A száznál kevesebb lakosú községben a fegyelmi vizsgálatot a képviselő-testület folytatja le.
 
@@ -3171,7 +3171,7 @@ munkanapra emelkedik.
 
 (2) Ha a polgármesteri tisztség év közben keletkezik vagy szűnik meg, az (1) bekezdésben meghatározott jutalom időarányos része állapítható meg.
 
-225/I. § (1) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és vármegyei kormányhivatal vezetője írja alá.
+225/I. § (1) A polgármester tisztségének megszűnése esetén, a tisztség megszűnését követően nyolc munkanapon belül írásba foglaltan átadja munkakörét az új polgármesternek, ennek hiányában az alpolgármesternek, illetve a szervezeti és működési szabályzatban meghatározott személynek. A munkakör-átadási jegyzőkönyvet az előző és az új polgármester, a jegyző, valamint a fővárosi és megyei kormányhivatal vezetője írja alá.
 
 (2) A 225/D. § (1) bekezdése szerinti juttatás összege akkor fizethető ki, ha a munkakör átadása nyolc munkanapon belül megtörtént. A nyolc munkanapon túli átadás esetén az új polgármester a kifizetést akkor engedélyezi, ha a mulasztásnak alapos oka volt, és a munkaköri átadás megtörtént. Vita esetén az érintett a közigazgatási ügyben eljáró bírósághoz fordulhat.
 
@@ -3181,7 +3181,7 @@ munkanapra emelkedik.
 
 (3) A jegyző kezeli a polgármester személyi anyagát, továbbá ellátja a foglalkoztatási jogviszonyával kapcsolatos ügyviteli feladatokat.
 
-225/K. § (1) Ha e törvény eltérően nem rendelkezik, a polgármesteren az alpolgármestert, a vármegyei közgyűlés elnökét, alelnökét, a főpolgármestert, a főpolgármester-helyettest is érteni kell.
+225/K. § (1) Ha e törvény eltérően nem rendelkezik, a polgármesteren az alpolgármestert, a megyei közgyűlés elnökét, alelnökét, a főpolgármestert, a főpolgármester-helyettest is érteni kell.
 
 (2) A polgármester a foglalkoztatási jogviszonyból származó igényének érvényesítése érdekében közvetlenül a közigazgatási ügyben eljáró bírósághoz fordulhat.
 
@@ -3195,7 +3195,7 @@ munkanapra emelkedik.
 
 (7) A polgármester illetménye, tiszteletdíja és egyéb juttatása közérdekű adat.
 
-(8) Ha a fővárosi és vármegyei kormányhivatal a települési önkormányzatnál végzett közszolgálati ellenőrzés keretében a települési önkormányzat szervének határozatával okozott olyan jogszabálysértést tár fel, amelyből a polgármester közvetlen vagy közvetett anyagi előnyre tehet szert, és más bírósági vagy közigazgatási hatósági eljárás lefolytatásának nincs helye, a jogszabálysértés megszüntetése érdekében a közigazgatási ügyben eljáró bírósághoz fordul.
+(8) Ha a fővárosi és megyei kormányhivatal a települési önkormányzatnál végzett közszolgálati ellenőrzés keretében a települési önkormányzat szervének határozatával okozott olyan jogszabálysértést tár fel, amelyből a polgármester közvetlen vagy közvetett anyagi előnyre tehet szert, és más bírósági vagy közigazgatási hatósági eljárás lefolytatásának nincs helye, a jogszabálysértés megszüntetése érdekében a közigazgatási ügyben eljáró bírósághoz fordul.
 
 225/L. § (1) A polgármesteri foglalkoztatási jogviszonyra megfelelően alkalmazni kell a 3. § (4) bekezdését, a 6. § 1., 10., 11., 16., 17., 18., 20a., 23., 25., 26., 31a. pontját; a 9. § (1)–(3) bekezdését; a 10–12 §-t; a 13. § (2) bekezdését; a 15. §-t; a 17. §-t; a 19. §-t; a 20. § (3) és (4) bekezdését; a 21-24. §-t; a 25. § (1) bekezdés első mondatát, (3) és (4), valamint (6) bekezdését; a 74. §-t; a 75. § (1) bekezdés a)–b) és f)–h) és k) pontját, (3) és (4) bekezdését; a 76. § (1) bekezdését; 79. §-t és a 79/A. §-t; a 89. § (1) bekezdését; a 93. § (1) és (2) bekezdését; a 94. § (1) bekezdését; a 95. § (1) és (2), valamint (4) bekezdését; a 96. § (1) bekezdését; a 99. §-t; a 100. § (2) bekezdését, a 102. § (4) bekezdését, a 102/A. §-t, a 103. § (4a) bekezdését; a 104. § (1) és (2), valamint (6) és (7) bekezdését, a 106. § (1) és (2) bekezdését, a 107. §-t, a 109–112. §-t; a 113. § (1), (1a) és (2) bekezdését; a 114. §-t; a 132. §-t; a 141. § (1)–(9) bekezdését; a 144. § (3) bekezdés a)–c) és e) pontját, valamint (4) és (6) bekezdését; a 145. §-t; a 146. § (1) és (3)–(7) bekezdését; a 147–149/A. §-t; a 150–153/A. §-t; a 156. §-t; a 157. § (1) és (2) bekezdését, a (3) bekezdés első mondatát és (4) bekezdését; a 158. §-t; a 159. § (1) bekezdését; a 160. § (1) és (2), valamint (4) és (5) bekezdését; a 164. §-t, a 166–175. §-t; a 176. § (1) bekezdését; a 177. § (1) bekezdését; a 184. § (2) és (3) bekezdését; a 189. §-t; a 192. §-t; a 232/A. §-t, valamint a 237. §-t.
 
@@ -3237,11 +3237,11 @@ nem alkalmazható(k).
 
 (3a) Az írásbeli jognyilatkozatok esetében a 20. § (1), (2), (6), (8) és (9) bekezdését kell, a 20. § (3)–(5), (7) és 21. § (4) bekezdését – a munkáltató döntésétől függően – lehet alkalmazni.
 
-(4) Az Országgyűlési Őrség szervezeti és működési szabályzata a 80. § (1)–(2) bekezdésben és a 130. § (1)–(8) bekezdésben foglaltaktól eltérő szabályokat állapíthat meg.
+(4)
 
 (5) A 142. § azzal az eltéréssel alkalmazandó, hogy a közszolgálati jogviszonyban munkaköri pótlék nem állapítható meg.
 
-(6) Az Országgyűlési Őrségnél a 142. § azzal az eltéréssel alkalmazandó, hogy az Országgyűlési Őrség parancsnoka az Országgyűlés elnöke által meghatározott rendben állapíthat meg képzettségi, munkaköri pótlékot.
+(6)
 
 (7) A képviselő-testület hivatalánál foglalkoztatott köztisztviselő részére a 143. § (2) bekezdése szerinti bankszámla-hozzájárulás a helyi önkormányzat képviselő-testületének rendeletében meghatározott módon és mértékben nyújtható.
 
@@ -3313,11 +3313,11 @@ nem alkalmazható(k).
 
 234. § (1)
 
-(2) Az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, az érettségi végzettségű köztisztviselő esetében az alapilletményének 35%-a.
+(2)
 
 (3) A helyi önkormányzat rendeletben egységesen valamennyi felsőfokú iskolai végzettségű köztisztviselőnek a tárgyévre illetménykiegészítést állapíthat meg, amelynek mértéke a köztisztviselő alapilletményének
 
-- a) a vármegyei önkormányzatnál, a megyei jogú városnál legfeljebb 40%-a,
+- a) a megyei önkormányzatnál, a megyei jogú városnál legfeljebb 40%-a,
 - b) községi önkormányzatnál legfeljebb 20%-a,
 - c) az a) és b) pontban nem szereplő önkormányzatnál legfeljebb 30%-a.
 
@@ -3333,7 +3333,7 @@ nem alkalmazható(k).
 
 ### Személyi illetmény
 
-235. § (1) A képviselő-testület hivatalánál foglalkoztatott köztisztviselőnek az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg – a polgármester, a főpolgármester, a vármegyei közgyűlés elnöke jóváhagyásával – a jegyző, illetve a főjegyző. Személyi illetmény minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kivételes teljesítményt nyújtó köztisztviselő részére állapítható meg. A határozott időre megállapított havi személyi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
+235. § (1) A képviselő-testület hivatalánál foglalkoztatott köztisztviselőnek az e törvényben meghatározott illetményrendszerre vonatkozó szabályoktól eltérő személyi illetményt állapíthat meg – a polgármester, a főpolgármester, a megyei közgyűlés elnöke jóváhagyásával – a jegyző, illetve a főjegyző. Személyi illetmény minősítéssel, ennek hiányában teljesítményértékeléssel alátámasztott, kivételes teljesítményt nyújtó köztisztviselő részére állapítható meg. A határozott időre megállapított havi személyi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
 (2) A vezetői munkakört betöltő köztisztviselő személyi illetménye visszavonható vagy módosítható, ha vezetői munkakörből alacsonyabb vezetői vagy nem vezetői munkakörbe kerül.
 
@@ -3358,7 +3358,7 @@ A már megállapított vezetői illetménypótlék nem csökkenthető.
 
 - a) a 3000-nél kevesebb lakosú településen – ide nem értve a városokat – vezetői kinevezés nem adható,
 - b) a 3000–10 000 lakosú településen, valamint a 3000-nél kevesebb lakosú városokban osztályvezetői szintnek megfelelő vezetői kinevezés adható,
-- c) 10 000 feletti lakosú településen, valamint a megyei jogú városi önkormányzatnál, vármegyei önkormányzatnál, fővárosi kerületi, fővárosi önkormányzatnál osztályvezetői és főosztályvezető-helyettesi szintnek megfelelő vezetői kinevezésen túl további vezetői kinevezés is adható.
+- c) 10 000 feletti lakosú településen, valamint a megyei jogú városi önkormányzatnál, megyei önkormányzatnál, fővárosi kerületi, fővárosi önkormányzatnál osztályvezetői és főosztályvezető-helyettesi szintnek megfelelő vezetői kinevezésen túl további vezetői kinevezés is adható.
 
 (6) A (4) bekezdés a) pontja és az (5) bekezdés alkalmazása során a költségvetési törvényben meghatározott normatív támogatásoknál figyelembe vett lakosságszám – közös önkormányzati hivatalhoz tartozó települések esetén az együttes lakosságszám – az irányadó. A lakosságszámtól függő illetményelemek változását a tárgyév január 1-jétől kell érvényesíteni.
 
@@ -3398,7 +3398,7 @@ kapcsolatos ügyekben. Egyéb esetekben a köztisztviselő az igény érvényes�
 
 239. § (1) Az önkormányzati főtanácsadók, önkormányzati tanácsadók közszolgálati jogviszonyában a köztisztviselőkre vonatkozó, e törvényben meghatározott rendelkezéseket az e §-ban foglalt eltérésekkel, megfelelően kell alkalmazni.
 
-(2) A képviselő-testület – a községi önkormányzat kivételével – önkormányzati főtanácsadói, önkormányzati tanácsadói munkaköröket hozhat létre a képviselő-testület hivatalában a képviselő-testület és bizottságai döntésének előkészítéséhez, illetve a polgármester, főpolgármester, vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
+(2) A képviselő-testület – a községi önkormányzat kivételével – önkormányzati főtanácsadói, önkormányzati tanácsadói munkaköröket hozhat létre a képviselő-testület hivatalában a képviselő-testület és bizottságai döntésének előkészítéséhez, illetve a polgármester, főpolgármester, megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) tevékenységéhez közvetlenül kapcsolódó feladatok ellátására.
 
 (3) Az önkormányzati főtanácsadói, önkormányzati tanácsadói kinevezés a polgármester, a képviselő-testület és bizottsága megbízatásának, illetve feladata ellátásának idejére szól. Az önkormányzati főtanácsadó, önkormányzati tanácsadó felett a munkáltatói jogokat a polgármester gyakorolja.
 
@@ -3540,7 +3540,7 @@ munkanapra emelkedik.
 
 ### Összeférhetetlenség
 
-251. § Másik jegyző helyettesítése céljából – a fővárosi, vármegyei kormányhivatal vezetője által történő kinevezés esetén – a jegyző további egy közszolgálati jogviszonyt létesíthet. A helyettesítésre létesített jogviszony tekintetében a 6. § 1. pontban meghatározott alapvető munkáltatói jogokat a fővárosi, vármegyei kormányhivatal vezetője gyakorolja, az egyéb munkáltatói jogokat a polgármesterek megállapodásukban foglaltak szerint gyakorolják.
+251. § Másik jegyző helyettesítése céljából – a fővárosi, megyei kormányhivatal vezetője által történő kinevezés esetén – a jegyző további egy közszolgálati jogviszonyt létesíthet. A helyettesítésre létesített jogviszony tekintetében a 6. § 1. pontban meghatározott alapvető munkáltatói jogokat a fővárosi, megyei kormányhivatal vezetője gyakorolja, az egyéb munkáltatói jogokat a polgármesterek megállapodásukban foglaltak szerint gyakorolják.
 
 ### Pótszabadság
 
@@ -3572,7 +3572,7 @@ munkanapra emelkedik.
 - b) a 3000–10 000 lakosú településen az illetményalap 7,75-szorosa,
 - c) a 10 000–100 000 lakosú településen az illetményalap 8-szorosa,
 - d) a fővárosi kerület jegyzőjének, valamint a kistérségi társulás székhely településének jegyzője az illetményalap 8,25-szorosa,
-- e) a megyei jogú város jegyzőjének és a vármegyei jegyzőnek az illetményalap 8,5-szerese,
+- e) a megyei jogú város jegyzőjének és a megyei jegyzőnek az illetményalap 8,5-szerese,
 - f) a fővárosi főjegyző esetében az illetményalap 8,75-szorosa.
 
 (2) A közös önkormányzati hivatal jegyzője, illetve a városi (megyei jogú városi) jegyző illetményének az (1) bekezdés, 256. § (1) bekezdése szerinti megállapításánál a közös önkormányzati hivatalhoz tartozó települések együttes lakosságszámát, illetve az érintett város és községek együttes lakosságszámát kell alapul venni.
@@ -3584,7 +3584,7 @@ munkanapra emelkedik.
 - a) a 3000-nél kevesebb lakosú településen az alapilletményének 10%-a,
 - b) a 3000–10 000 lakosú településen, valamint a 3000-nél kevesebb lakosú város esetén az alapilletményének 20%-a,
 - c) a 10 000–100 000 lakosú településen az alapilletményének 30%-a,
-- d) a megyei jogú város, fővárosi kerület jegyzőjének és a vármegyei jegyzőnek az alapilletménye 40%-a,
+- d) a megyei jogú város, fővárosi kerület jegyzőjének és a megyei jegyzőnek az alapilletménye 40%-a,
 - e) a fővárosi főjegyző esetében az alapilletményének 50%-a.
 
 (2) A közös önkormányzati hivatal jegyzője a vezetői illetménypótlékon felül közös önkormányzati hivatal jegyzői illetménypótlékra jogosult, amelynek mértéke:

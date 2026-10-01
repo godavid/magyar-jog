@@ -34,7 +34,7 @@ A nemzetközi gazdasági együttműködés fejlesztése, a tőkeáramlás segít
 
 (2) Az (1) bekezdésben foglaltaktól eltérően a cégjegyzésre jogosultak a cégbejegyzési kérelem beadását követően a fióktelep nevében és javára eljárhatnak, azonban a ,,bejegyzés alatt'' toldatot az iratokon fel kell tüntetni, és a megkötött jogügyletek során az elnevezéshez kell fűzni (elő-fióktelep). A fióktelep a cégbejegyzésig hatósági engedélyhez kötött tevékenységet (ideértve az alapítási, tevékenységi engedélyhez, valamint a telepengedélyezéshez kötött tevékenységeket is) nem folytathat. Ha a fióktelep cégbejegyzési kérelmét elutasítják, további jogokat nem szerezhet, új kötelezettségeket nem vállalhat, köteles működését haladéktalanul megszüntetni. A kötelezettségvállalásokból eredő tartozásokért a külföldi székhelyű vállalkozás korlátlanul köteles helytállni.
 
-5. §
+#### 5. §
 
 6. § (1) A fióktelep létesítésének, a cégjegyzékbe bejegyzett jogoknak, tényeknek és adatoknak, ezek változásának, valamint a törvényben előírt adatoknak a cégbírósági bejelentése a fióktelep cégjegyzésére jogosult személy, illetve személyek kötelezettsége.
 
@@ -105,7 +105,7 @@ eltérő szabályozást állapíthat meg.
 
 (4) Az (1) bekezdés alkalmazásában nem minősül vállalkozási tevékenységhez szükséges ingatlannak az ingatlanforgalmazás céljából megszerezni kívánt ingatlan.
 
-(5) A fióktelep megszüntetése esetén az ingatlant a külföldi vállalkozásnak egy éven belül el kell idegenítenie, kivéve, ha az ingatlanszerzéshez nem kellene engedélyt kérnie, vagy ha az elidegenítési kötelezettség alól a fővárosi és vármegyei kormányhivatal felmentést adott. A fővárosi és vármegyei kormányhivatal a felmentést a külföldiek ingatlanszerzéséről szóló jogszabály szerinti feltételekkel, és az abban foglalt eljárási szabályok szerint adja meg azzal, hogy a felmentés nem tagadható meg akkor sem, ha az ingatlan a külföldi vállalkozás által vagy részesedésével alapított belföldi székhelyű gazdálkodó szervezet, illetve másik fióktelep, továbbá kereskedelmi képviselet tevékenységéhez szükséges.
+(5) A fióktelep megszüntetése esetén az ingatlant a külföldi vállalkozásnak egy éven belül el kell idegenítenie, kivéve, ha az ingatlanszerzéshez nem kellene engedélyt kérnie, vagy ha az elidegenítési kötelezettség alól a fővárosi és megyei kormányhivatal felmentést adott. A fővárosi és megyei kormányhivatal a felmentést a külföldiek ingatlanszerzéséről szóló jogszabály szerinti feltételekkel, és az abban foglalt eljárási szabályok szerint adja meg azzal, hogy a felmentés nem tagadható meg akkor sem, ha az ingatlan a külföldi vállalkozás által vagy részesedésével alapított belföldi székhelyű gazdálkodó szervezet, illetve másik fióktelep, továbbá kereskedelmi képviselet tevékenységéhez szükséges.
 
 ### Munkavállalás a fióktelepnél
 
@@ -174,7 +174,9 @@ eltérő szabályozást állapíthat meg.
 
 (6)
 
-### A pénzügyi szektor szolgáltatásaira, továbbáa kockázati tőkebefektetésekre létesített fióktelep
+### A pénzügyi szektor szolgáltatásaira, továbbá
+
+a kockázati tőkebefektetésekre létesített fióktelep
 
 24. § (1) Külföldi székhelyű hitelintézet, pénzügyi vállalkozás, biztosító, biztosításközvetítő, biztosítási szaktanácsadó magyarországi fióktelepe, továbbá a külföldi székhelyű vállalkozás befektetési, kiegészítő befektetési, árutőzsdei szolgáltatást, valamint befektetési alapkezelési, elszámolóházi, tőzsdei, továbbá közraktározási tevékenységet végző belföldi fióktelepe (a továbbiakban: pénzügyi fióktelep) létesítésére, működésére, állami felügyeletére, ellenőrzésére, továbbá megszüntetésére, illetve a fizetésképtelenségi eljárásokra az e törvényben foglaltakat akkor kell alkalmazni, ha a külön törvény másként nem rendelkezik.
 
@@ -251,7 +253,7 @@ személyek jegyezhetik.
 
 ### IV. Fejezet
 
-32–37. §
+#### 32–37. §
 
 ### V. Fejezet — Záró és átmeneti rendelkezések
 

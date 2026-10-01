@@ -257,7 +257,7 @@ is alkalmazni kell.
 
 (4) A nemzetbiztonsági állomány tagja kamarai tagsághoz kötött tevékenység esetén tagja lehet az illetékes szakmai kamarának.
 
-17. § (1) A nemzetbiztonsági állomány tagja nem lehet országgyűlési, európai parlamenti, helyi önkormányzati vagy nemzetiségi önkormányzati képviselő, és nem tölthet be főpolgármesteri, főpolgármester-helyettesi, vármegyei közgyűlési elnöki, alelnöki, polgármesteri, alpolgármesteri, társadalmi megbízatású polgármesteri, alpolgármesteri tisztséget.
+17. § (1) A nemzetbiztonsági állomány tagja nem lehet országgyűlési, európai parlamenti, helyi önkormányzati vagy nemzetiségi önkormányzati képviselő, és nem tölthet be főpolgármesteri, főpolgármester-helyettesi, megyei közgyűlési elnöki, alelnöki, polgármesteri, alpolgármesteri, társadalmi megbízatású polgármesteri, alpolgármesteri tisztséget.
 
 (2) A nemzetbiztonsági állomány tagja haladéktalanul köteles a munkáltatói jogkör gyakorlójának bejelenteni, ha az országgyűlési képviselők, az Európai Parlament tagjainak, a helyi önkormányzati képviselők és polgármesterek, valamint a nemzetiségi önkormányzati képviselők választásán jelöltként nyilvántartásba vették, a jelöltségtől való visszalépését, a tisztségre való megválasztását, valamint annak elmaradását.
 
@@ -846,7 +846,7 @@ kerülhet sor.
 - 6. büntetőeljárás keretében bíróság jogerős ügydöntő határozatával lefokozás, szolgálati viszony megszüntetése, a szolgálati viszony keretében betöltött szolgálati beosztás ellátásához szükséges tevékenység folytatását kizáró foglalkozástól eltiltás büntetés vagy közügyektől eltiltás mellékbüntetés kiszabásával,
 - 7. a szolgálati viszony megszüntetése vagy lefokozás fenyítést kiszabó határozat jogerőre emelkedésével,
 - 8. a szolgálati viszonyra vonatkozó szabályban meghatározott, a szolgálati viszony fenntartásához szükséges, és a munkáltatói jogkör gyakorlója által a nemzetbiztonsági állomány tagjának előírt képzési és vizsgakötelezettség teljesítésének neki felróható okból történő elmulasztásával,
-- 9. országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, vármegyei közgyűlés elnökévé, alelnökévé, polgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztással, a mandátuma igazolásától,
+- 9. országgyűlési vagy európai parlamenti képviselővé, nemzetiségi szószólóvá, főpolgármesterré, főpolgármester-helyettessé, megyei közgyűlés elnökévé, alelnökévé, polgármesterré, társadalmi megbízatású polgármesterré, alpolgármesterré, helyi vagy nemzetiségi önkormányzati képviselővé megválasztással, a mandátuma igazolásától,
 - 10. a Kit. szerinti politikai szolgálati jogviszonyba történő kinevezésével, kivéve
   - a) a kabinetfőnököt vagy
   - b) ha a szolgálati viszony az 53. §-ban meghatározottak alapján szünetel,

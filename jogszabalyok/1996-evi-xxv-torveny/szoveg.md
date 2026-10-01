@@ -61,7 +61,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - e)
 - f) más helyi önkormányzattal szemben fennálló tartozását – ideértve a külön jogszabály szerint létrehozott társulás keretében vállalt fizetési kötelezettségének nem teljesítését is – az önkormányzattal kötött vagy társulási megállapodáson alapuló beszedési megbízás benyújtását követő 60 napon belül nem teljesíti.
 
-5. § (1) A polgármester (a főpolgármester), vármegyei közgyűlés elnöke (a továbbiakban együtt: polgármester) a 4. § (2) bekezdésének a)–d) pontjaiban foglalt helyzet fennállásáról – ha ilyet korábban a képviselő-testület létrehozott – a pénzügyi bizottságot haladéktalanul tájékoztatja, és a képviselő-testületet, illetve a közgyűlést (a továbbiakban együtt: képviselő-testület) 8 napon belül összehívja. A képviselő-testület – a 4. § (1) bekezdés b) pontjában foglaltakra figyelemmel – a fizetési kötelezettségek rendezésére határozatot hoz, vagy felhatalmazza a polgármestert az adósságrendezési eljárás azonnali kezdeményezésére.
+5. § (1) A polgármester (a főpolgármester), megyei közgyűlés elnöke (a továbbiakban együtt: polgármester) a 4. § (2) bekezdésének a)–d) pontjaiban foglalt helyzet fennállásáról – ha ilyet korábban a képviselő-testület létrehozott – a pénzügyi bizottságot haladéktalanul tájékoztatja, és a képviselő-testületet, illetve a közgyűlést (a továbbiakban együtt: képviselő-testület) 8 napon belül összehívja. A képviselő-testület – a 4. § (1) bekezdés b) pontjában foglaltakra figyelemmel – a fizetési kötelezettségek rendezésére határozatot hoz, vagy felhatalmazza a polgármestert az adósságrendezési eljárás azonnali kezdeményezésére.
 
 (1a) Azon helyi önkormányzat esetében, amely a Kormány kijelölése alapján társadalmi felzárkózást elősegítő programban (a továbbiakban: felzárkózást elősegítő programban) vesz részt, a polgármester az (1) bekezdésben foglalt tájékoztatással egyidejűleg megkeresi a társadalmi felzárkózásért felelős minisztert az önkormányzati csődbiztos 9. § (2a) bekezdés szerinti kijelölése érdekében. A társadalmi felzárkózásért felelős miniszter a megkereséstől számított 10 napon belül értesíti a polgármestert az általa kijelölt önkormányzati csődbiztos személyéről és elérhetőségéről.
 
@@ -76,7 +76,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (4) Ha a polgármester vagy az ülés levezetésére megválasztott levezető elnök az Mötv. 45. §-ában meghatározott bármely kötelezettségét nem teljesíti, a bíróság – esetenként – ötszázezer forintig terjedő pénzbírsággal sújthatja.
 
-(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a fővárosi és vármegyei kormányhivatalt.
+(5) Az adósságrendezési eljárás megindításáról a polgármester az eljárás bíróság előtti kezdeményezésével egyidejűleg tájékoztatja a fővárosi és megyei kormányhivatalt.
 
 6. § (1) Ha az adósságrendezési eljárás megindítását a hitelező kezdeményezi, kérelmében meg kell jelölnie a helyi önkormányzat tartozásának jogcímét és a lejárat (esedékesség) időpontját. A kérelemben foglaltak bizonyításához szükséges iratokat csatolni kell.
 
@@ -142,7 +142,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (4) Az adósságrendezés megindításáról a polgármester (annak hiányában az önkormányzati csődbiztos) – a végzés Cégközlönyben történő megjelenését követő 8 napon belül – tájékoztatja
 
-- a) a fővárosi és vármegyei kormányhivatalt;
+- a) a fővárosi és megyei kormányhivatalt;
 - b) a Magyar Államkincstárt (a továbbiakban: kincstár);
 - c) a helyi önkormányzat polgármesteri hivatalának költségvetési elszámolási számláját vezető pénzforgalmi szolgáltatót, valamint a helyi önkormányzat költségvetési szerveinek pénzforgalmi számláit, költségvetési elszámolási számláit vezető pénzforgalmi szolgáltatókat;
 - d) az illetékes adó- és vámhatóságot, valamint a nyugdíjbiztosítási igazgatási szervet és az egészségbiztosítási szervet;
@@ -210,7 +210,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - d) az adósságrendezéssel kapcsolatban előterjesztést tehet, amelyet a képviselő-testület vagy a bizottság köteles soron kívül tárgyalni;
 - e) kezdeményezi a helyi önkormányzat esedékessé vált követeléseinek behajtását;
 - f) a hitelezőket – kérésükre – tájékoztatja a helyi önkormányzat vagyonával, továbbá az adósságrendezési eljárással kapcsolatban;
-- g) tájékoztatja a fővárosi és vármegyei kormányhivatalt, ha a képviselő-testület vagy az adósságrendezési bizottság bármely tagja az e törvényben meghatározott kötelezettségét nem teljesíti;
+- g) tájékoztatja a fővárosi és megyei kormányhivatalt, ha a képviselő-testület vagy az adósságrendezési bizottság bármely tagja az e törvényben meghatározott kötelezettségét nem teljesíti;
 - h) az adósságrendezés megindításának időpontjától számított 90 napon belül a Pp. IV. Fejezete alapján hatáskörrel és illetékességgel rendelkező bíróság előtt a helyi önkormányzat nevében keresettel megtámadhatja a helyi önkormányzatnak és költségvetési szervének az adósságrendezési eljárás kezdő időpontját megelőző 1 éven belül és azt követően megkötött szerződését, vagy más jognyilatkozatát, ha annak tárgya a helyi önkormányzat vagyonából történő ingyenes elidegenítés, illetve a vagyont terhelő ingyenes kötelezettségvállalás, vagy harmadik személy javára feltűnően aránytalan értékkülönbözettel megkötött visszterhes jogügylet. A megtámadási határidő számítására a Ptk. 6:24–6:25. §-ában, valamint 6:89. § (4) bekezdésében foglalt szabályok vonatkoznak.
 - i) a helyi önkormányzat vagyonelemeinek áttekintését követően kezdeményezheti a képviselő-testületnél a helyi önkormányzat feladatellátásához nem szükséges vagyontárgyak forgalomképes vagyonkörbe történő minősítését és egyúttal a helyi önkormányzat vagyonával való gazdálkodásról szóló önkormányzati rendelet felülvizsgálatát;
 - j) a bíróság általi kijelölését követő 15 napon belül felhívja a polgármestert és a képviselő-testületet, hogy az adósságrendezési eljárás megindítását követő 75 napon belül gondoskodjanak a helyi önkormányzat fizetési számlájának kincstár általi vezetéséről, és tegyék meg a szükséges intézkedéseket a helyi önkormányzat kincstáron kívüli, forintban vagy devizában vezetett fizetési számláinak megszüntetése érdekében.
@@ -235,7 +235,7 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 
 (3) Az Mötv. 42. §-ában meghatározott – a képviselő-testület kizárólagos hatáskörébe tartozó – ügyek kivételével a helyi önkormányzat kötelezően ellátandó feladatainak és hatáskörének teljesítésével kapcsolatos valamennyi gazdasági kérdésben az adósságrendezési bizottság dönt.
 
-17. § (1) Ha a képviselő-testület az e törvényben foglalt kötelezettségei teljesítése érdekében a fővárosi és vármegyei kormányhivatal felhívása ellenére 30 napon belül nem ül össze, feloszlatása kezdeményezhető.
+17. § (1) Ha a képviselő-testület az e törvényben foglalt kötelezettségei teljesítése érdekében a fővárosi és megyei kormányhivatal felhívása ellenére 30 napon belül nem ül össze, feloszlatása kezdeményezhető.
 
 (2) Amennyiben a képviselő-testület működésképtelenné válik, továbbá, ha a feloszlatását kezdeményezték a helyi önkormányzattal szemben azonnal e törvény IV. fejezetében foglaltak szerint kell az adósságrendezési eljárást lefolytatni.
 
@@ -496,4 +496,4 @@ Az Országgyűlés a helyi önkormányzatok fizetőképességének helyreállít
 - 22. A fővárosi közlevéltár működtetése (a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény),
 - 23. A helyi közfoglalkoztatás megszervezése (Mötv. és a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény),
 - 24. A képviselő-testület és a polgármesteri hivatal működtetése, valamint a hivatal dolgozóinak díjazása (bér és közterhei, dologi költségek), kivéve a helyi önkormányzati képviselők és bizottsági tagok tiszteletdíját (Mötv.),
-- 25. Vármegyei önkormányzat, továbbá az átalakult nemzetiségi önkormányzat esetében minden olyan feladat, amelyet a törvény kötelező feladatként meghatároz.
+- 25. Megyei önkormányzat, továbbá az átalakult nemzetiségi önkormányzat esetében minden olyan feladat, amelyet a törvény kötelező feladatként meghatároz.

@@ -87,7 +87,7 @@ bűncselekményekre vonatkozóan;
 
 (3) Ha az Alkotmányvédelmi Hivatal a feladatai ellátása során bűncselekmény gyanúját – ideértve a kísérlet, valamint ha a törvény az előkészületet büntetni rendeli, az előkészület gyanúját is – észleli, a 44. § (2a) bekezdése szerinti kivétellel feljelentést tesz a nyomozás lefolytatására hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál, ügyészségnél vagy a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál (a továbbiakban: NVVH), és átadja az általa összegyűjtött adatokat.
 
-(4) Ha az Alkotmányvédelmi Hivatal olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye – a 44. § (2a) bekezdése szerinti kivétellel – előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, NVVH-nál, nyomozó hatóságnál, illetve a terrorizmust elhárító szervnél, és átadja az általa összegyűjtött adatokat.
+(4) Ha az Alkotmányvédelmi Hivatal olyan információt szerez meg, amely alapján a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárás lefolytatásának lehet helye – a 44. § (2a) bekezdése szerinti kivétellel – előkészítő eljárást kezdeményezhet a hatáskörrel és illetékességgel rendelkező ügyészségnél, NVVH-nál, nyomozó hatóságnál, és átadja az általa összegyűjtött adatokat.
 
 5/C. § (1) Az Alkotmányvédelmi Hivatal elvégzi a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által vezetett minisztérium vagy munkaszervezet, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervet irányító miniszter által irányított vagy felügyelt költségvetési szervek, a honvédelmi szervezetek, valamint a területi kormányzati igazgatási szervek kivételével a központi kormányzati igazgatási szervek és központi kormányzati igazgatási szervek területi, helyi szervei foglalkoztatottjának a megbízhatósági vizsgálatát.
 
@@ -112,7 +112,7 @@ foglalkoztatott.
 
 esetén.
 
-5/D. § Az Alkotmányvédelmi Hivatal ellátja a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben, valamint az Országgyűlési Őrség esetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését.
+5/D. § Az Alkotmányvédelmi Hivatal ellátja a Nemzeti Adó- és Vámhivatal személyi állományának jogállásáról szóló törvényben meghatározott kifogástalan életvitel ellenőrzését.
 
 6. § A Katonai Nemzetbiztonsági Szolgálat
 
@@ -550,7 +550,7 @@ terheli.
 
 - a) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv,
 - b) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
-- c) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv,
+- c)
 - d) a Nemzeti Adó- és Vámhivatal,
 - e) a polgári nemzetbiztonsági szolgálatok,
 - f) a Katonai Nemzetbiztonsági Szolgálat,
@@ -1102,7 +1102,7 @@ titkos információgyűjtés
 
 (1b) Központi közigazgatási nyilvántartási háttérrel rendelkező fedőokirat előállítása céljából közhiteles nyilvántartásokban adatokat kizárólag a Nemzetbiztonsági Szakszolgálat helyezhet el. Kizárólag a Nemzetbiztonsági Szakszolgálat jogosult továbbá arra, hogy a központi közigazgatási nyilvántartási háttérrel rendelkező fedőokirat alkalmazása feltételeinek biztosítása céljából a nyilvántartás vezetéséért felelős szerv számára meghatározza, hogy a nyilvántartásban szereplő valamely adat vonatkozásában ne kerüljön sor adatszolgáltatásra, vagy arra a Nemzetbiztonsági Szakszolgálat által meghatározott tartalommal kerüljön sor.
 
-(2) Rendvédelmi szerv, nemzetbiztonsági szolgálat, az Országgyűlési Őrség és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként, fedőadatként, fedőokiratként csak az illetékes miniszter és az érintett szervezet országos vezetőjének, az Országgyűlési Őrség esetében a parancsnok és az Országgyűlés elnökének tájékoztatásával alkalmazható.
+(2) Rendvédelmi szerv, nemzetbiztonsági szolgálat és a Nemzeti Adó- és Vámhivatal nyomozó hatósági feladatait ellátó szerve fedőintézményként, okmánya fedőokmányként, fedőadatként, fedőokiratként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.
 
 (3) Az Alkotmányvédelmi Hivatal a megbízhatósági vizsgálat folytatása során az Alkotmányvédelmi Hivatal hatáskörébe tartozó szerv hivatali helyiségében, gépjárművében és a megbízhatósági vizsgálat helyszínén történteket, illetve a mesterséges élethelyzetben résztvevő, valamint a megbízhatósági vizsgálat alá vont személy tevékenységét és előadását titokban technikai eszközzel megfigyelheti és rögzítheti, illetve az ehhez szükséges technikai eszközt a felsorolt helyeken elhelyezheti.
 
@@ -1272,9 +1272,9 @@ Katonai Nemzetbiztonsági Szolgálat és – a 8. § (1) bekezdésének f) pontj
 (2) Az (1) bekezdésben foglaltaktól eltérően a nemzetbiztonsági ellenőrzés kezdeményezésére
 
 - a) a 74. § i) pont ih) és ii) alpontjában megjelölt személy esetében a köztársasági elnök,
-- b) a 74. § i) pont ig) és im) alpontjában megjelölt személy, a Nemzeti Emlékezet Bizottsága minősített adatot kezelő tagja és elnöke, valamint az Országgyűlési Őrség parancsnoka és helyettese esetében az Országgyűlés elnöke,
+- b) a 74. § i) pont ig) és im) alpontjában megjelölt személy, a Nemzeti Emlékezet Bizottsága minősített adatot kezelő tagja és elnöke,
 - c) a 74. § i) pont ic) alpontjában megjelölt személy és – az f) pontban megjelölt kör kivételével – a 74. § i) pont if) alpontjában megjelölt személy esetében a miniszterelnök,
-- d) a 74. § i) pont ib), id), ie) és ij) alpontjában megjelölt személy esetében – az Országgyűlési Őrség parancsnoka és helyettese kivételével – a tevékenység szerinti irányító miniszter,
+- d) a 74. § i) pont ib), id), ie) és ij) alpontjában megjelölt személy esetében a tevékenység szerinti irányító miniszter,
 - e) a 74. § i) pont ik) és il) alpontjában foglalt esetben az állomány szerint illetékes főigazgató,
 - f) a 74. § i) pont if) alpontjában megjelölt személyek közül a központi hivatal, a kormányzati főhivatal, valamint a területi kormányzati igazgatási szerv vezetője és vezetőhelyettese esetében a tevékenység szerinti irányító miniszter,
 - g) az állami vagy többségi állami tulajdonban lévő gazdálkodó szervezet vezető tisztségviselője, vezető állású munkavállalója, felügyelő bizottságának tagja esetében az állam nevében tulajdonosi jogokat gyakorló miniszter vagy a tulajdonosi jogok gyakorlására kijelölt személy,
@@ -1707,13 +1707,13 @@ rendeletben előírhatja.
   - ic) a miniszter, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, az államtitkár, a kormánybiztos, a miniszterelnöki biztos és a miniszterelnöki megbízott;
   - id) a közigazgatási államtitkár, a helyettes államtitkár;
   - ie) a külképviselet-vezető;
-  - if) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és vármegyei kormányhivatal vezetője és vezetőhelyettese;
+  - if) az autonóm államigazgatási szerv, az önálló szabályozó szerv, a központi hivatal, a kormányzati főhivatal, valamint a fővárosi és megyei kormányhivatal vezetője és vezetőhelyettese;
   - ig) az Országgyűlés Hivatalának főigazgatója;
   - ih) a Sándor-palota hivatali szervezetének vezetője;
   - ii) a Honvéd Vezérkar főnöke és helyettese;
-  - ij) a rendvédelmi szerv országos parancsnoka és helyettese, a rendvédelmi szerv országos főigazgatója és helyettese, a nemzetbiztonsági szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány, a határrendészeti kirendeltség vezetője, az Országgyűlési Őrség parancsnoka és helyettese;
+  - ij) a rendvédelmi szerv országos parancsnoka és helyettese, a rendvédelmi szerv országos főigazgatója és helyettese, a nemzetbiztonsági szolgálat főigazgatója és főigazgató-helyettese, a rendőrfőkapitány, a rendőrkapitány, a határrendészeti kirendeltség vezetője;
   - ik) a nemzetbiztonsági szolgálat személyi állománya, valamint a nemzetbiztonsági szolgálattal polgári jogi szerződést kötő, azt személyesen teljesítő valamennyi személy, ha a szerződés befolyástól mentes teljesítéséhez fokozott nemzetbiztonsági érdek fűződik, vagy a személyesen teljesítő személy fokozottan ki van téve befolyásolási törekvéseknek;
-  - il) a terrorizmust elhárító szerv, valamint a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya;
+  - il) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv személyi állománya;
   - im) az Országgyűlés nemzetbiztonsággal foglalkozó állandó bizottságába, a külügyekkel foglalkozó állandó bizottságába és a honvédelemmel foglalkozó állandó bizottságába, illetve – amennyiben feladata ellátásához „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatot szükséges felhasználnia – az Országgyűlés által létrehozott vizsgálóbizottságba, illetve eseti bizottságba jelölt személy, illetve tag, valamint az ilyen bizottságok eljárásában közreműködő szakértő;
   - in) az e törvény szerinti titkos információgyűjtést engedélyező bíró;
   - io) az 55. §-ban meghatározott kijelölt ügyész;
@@ -1799,6 +1799,12 @@ rendeletben előírhatja.
 (2) Az (1) bekezdés szerinti tájékoztatást megelőzően nem kezdeményezhető egyszerűsített nemzetbiztonsági ellenőrzés.
 
 (3) Az (1) bekezdés szerinti személyeket be kell számítani az egyszerűsített nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot irányító miniszter által megállapított keretszámba, új egyszerűsített nemzetbiztonsági ellenőrzés csak a fennmaradó keretszám terhére kezdeményezhető.
+
+76/J. § (1) A 69. § (4) és (6) bekezdésében foglalt eljárásrendtől eltérően – a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot irányító miniszter egyedi döntése nélkül is – a terrorizmust elhárító szerv személyi állományának 2026. június 1. napjára vonatkoztatott létszáma az érintett feladatkörben foglalkoztatottak aránya szerint megállapított bontásban 2026. október 1. napján hozzáadásra kerül az általános rendőrségi feladatok ellátására létrehozott szervnek a terrorizmust elhárító szerv feladatait átvevő szervezeti egységeinek – mint e törvény szerinti foglalkoztató szervezeteknek – a 74. § i) pont ia) alpontja alapján nemzetbiztonsági ellenőrzés alá eső munkakörök szerinti keretszámához.
+
+(2) A 69. § (4) és (6) bekezdésében foglalt eljárásrendtől eltérően – a nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot irányító miniszter egyedi döntése nélkül is – az Országgyűlési Őrség részére 2026. szeptember 30-án megállapított, a 74. § i) pont ia) alpontja alapján nemzetbiztonsági ellenőrzés alá eső munkakörök keretszáma a megszüntető okiratban részletezett bontásban az általános rendőrségi feladatok ellátására létrehozott szervnek az Országgyűlési Őrség feladatait átvevő szervezeti egységeinek – mint e törvény szerinti foglalkoztató szervezeteknek – a 74. § i) pont ia) alpontja alapján nemzetbiztonsági ellenőrzés alá eső munkakörök szerinti keretszámához 2026. október 1. napján hozzáadásra kerül.
+
+(3) A 72/F. § (5) és (7) bekezdésében foglalt eljárásrendtől eltérően – az egyszerűsített nemzetbiztonsági ellenőrzést végző nemzetbiztonsági szolgálatot irányító miniszter egyedi döntése nélkül is – az Országgyűlési Őrség részére 2026. szeptember 30-án megállapított egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörök keretszáma a megszüntető okiratban részletezett bontásban az általános rendőrségi feladatok ellátására létrehozott szervnek az Országgyűlési Őrség feladatait átvevő szervezeti egységeinek – mint e törvény szerinti foglalkoztató szervezeteknek – az egyszerűsített nemzetbiztonsági ellenőrzés alá eső munkakörök szerinti keretszámához 2026. október 1. napján hozzáadásra kerül.
 
 ### Felhatalmazó rendelkezések
 

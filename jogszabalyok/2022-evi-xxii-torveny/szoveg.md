@@ -34,7 +34,7 @@ a területi közigazgatás működésével kapcsolatos egyes kérdésekről, val
 
 #### 2. A járási (fővárosi kerületi) hivatal működésével összefüggő rendelkezések
 
-2. § (1) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely a járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) hatáskörébe tartozik, úgy a járási hivatal eljárásáért a jogszabályban meghatározott igazgatási szolgáltatási díj – ha jogszabály eltérően nem rendelkezik – a fővárosi és vármegyei kormányhivatal bevételét képezi, és azt a közigazgatás-szervezésért felelős miniszternek (a továbbiakban: miniszter) az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
+2. § (1) Amennyiben jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely a járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) hatáskörébe tartozik, úgy a járási hivatal eljárásáért a jogszabályban meghatározott igazgatási szolgáltatási díj – ha jogszabály eltérően nem rendelkezik – a fővárosi és megyei kormányhivatal bevételét képezi, és azt a közigazgatás-szervezésért felelős miniszternek (a továbbiakban: miniszter) az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
 
 (2) Ha jogszabály olyan közigazgatási hatósági eljárásért határoz meg igazgatási szolgáltatási díjat, amely eljárásban a járási hivatal jogszabályban meghatározottak szerint közreműködő hatóságként jár el, és a kérelem a járási hivatalhoz kerül benyújtásra, úgy a jogszabályban meghatározott igazgatási szolgáltatási díjat a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott módon kell megfizetni.
 
@@ -44,29 +44,29 @@ a területi közigazgatás működésével kapcsolatos egyes kérdésekről, val
 
 (5) Ha a kérelmet a kormányablaknál terjesztették elő, és az eljárásra a járási hivatalnak nincs hatásköre vagy nem illetékes, a kérelmet öt napon belül továbbítja a döntés meghozatalára hatáskörrel és illetékességgel rendelkező hatósághoz. Jogszabály a kérelem továbbítására rövidebb határidőt is meghatározhat. A konzuli tisztviselő eljárásában a kérelmet haladéktalanul, de legkésőbb a kérelem benyújtását követő első diplomáciai futárpostával kell továbbítani.
 
-#### 3. A fővárosi és vármegyei kormányhivatal adatkezelésével összefüggő rendelkezések
+#### 3. A fővárosi és megyei kormányhivatal adatkezelésével összefüggő rendelkezések
 
-3. § (1) Ha a fővárosi és vármegyei kormányhivatal jogszabályban meghatározott feladat- és hatáskörében olyan közigazgatási hatósági eljárásban jár el, amely alapján döntését más szerv által vezetett nyilvántartásban rögzíti, e döntésével összefüggő adattartalom tekintetében – a nyilvántartás vonatkozásában – adatkezelőnek minősül.
+3. § (1) Ha a fővárosi és megyei kormányhivatal jogszabályban meghatározott feladat- és hatáskörében olyan közigazgatási hatósági eljárásban jár el, amely alapján döntését más szerv által vezetett nyilvántartásban rögzíti, e döntésével összefüggő adattartalom tekintetében – a nyilvántartás vonatkozásában – adatkezelőnek minősül.
 
-(2) Ha a fővárosi és vármegyei kormányhivatal törvény alapján valamely, személyes adatokat tartalmazó nyilvántartás tekintetében adatkezelői jogokkal rendelkezik, e nyilvántartások adattartalmát – törvény eltérő rendelkezése hiányában – nem kapcsolhatja össze, a törvényben meghatározott céltól eltérő céllal nem használhatja fel, illetve nem továbbíthatja.
+(2) Ha a fővárosi és megyei kormányhivatal törvény alapján valamely, személyes adatokat tartalmazó nyilvántartás tekintetében adatkezelői jogokkal rendelkezik, e nyilvántartások adattartalmát – törvény eltérő rendelkezése hiányában – nem kapcsolhatja össze, a törvényben meghatározott céltól eltérő céllal nem használhatja fel, illetve nem továbbíthatja.
 
-4. § (1) A fővárosi és vármegyei kormányhivatal a természetes személy ügyfelek tekintetében belső technikai azonosítót alkalmaz, amely
+4. § (1) A fővárosi és megyei kormányhivatal a természetes személy ügyfelek tekintetében belső technikai azonosítót alkalmaz, amely
 
 - a) sem az ügyintéző, sem az ügyfél által nem megismerhető, az informatikai rendszerből továbbításra nem kerül,
 - b) semmilyen módon nem származtatható az ügyfél valamely azonosítójából, és
 - c) a természetes személyhez rendelése a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény (a továbbiakban: Szaz. tv.) szerinti titkosított kapcsolati kódokkal történik.
 
-(2) Az (1) bekezdés szerinti belső technikai azonosító alkalmazásának célja a fővárosi és vármegyei kormányhivatal működéséhez szükséges egységes, közös informatikai támogatási szolgáltatásoknál a különböző személyhez rendelt azonosítók jogosulatlan összevonásának kizárása.
+(2) Az (1) bekezdés szerinti belső technikai azonosító alkalmazásának célja a fővárosi és megyei kormányhivatal működéséhez szükséges egységes, közös informatikai támogatási szolgáltatásoknál a különböző személyhez rendelt azonosítók jogosulatlan összevonásának kizárása.
 
-#### 4. Egyedi eljárásrend alkalmazhatósága a fővárosi és vármegyei kormányhivatal eljárásaiban
+#### 4. Egyedi eljárásrend alkalmazhatósága a fővárosi és megyei kormányhivatal eljárásaiban
 
-5. § (1) A fővárosi és vármegyei kormányhivatal jogosult a részére benyújtott papír alapú iratokról a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) rendelkezései szerint hiteles elektronikus másolat készítésére, és az eljárás hiteles másolatra alapozott lefolytatására.
+5. § (1) A fővárosi és megyei kormányhivatal jogosult a részére benyújtott papír alapú iratokról a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvény (a továbbiakban: Dáptv.) rendelkezései szerint hiteles elektronikus másolat készítésére, és az eljárás hiteles másolatra alapozott lefolytatására.
 
-(2) Ha a fővárosi és vármegyei kormányhivatal elektronikus dokumentumban (különösen elektronikus űrlapon) készíti el az eljárás valamely dokumentumát, és az ügyfél annak kinyomtatott példányát hitelesíti, akkor az eljárás az ügyintéző által hitelesített elektronikus dokumentum felhasználásával lefolytatható.
+(2) Ha a fővárosi és megyei kormányhivatal elektronikus dokumentumban (különösen elektronikus űrlapon) készíti el az eljárás valamely dokumentumát, és az ügyfél annak kinyomtatott példányát hitelesíti, akkor az eljárás az ügyintéző által hitelesített elektronikus dokumentum felhasználásával lefolytatható.
 
-(3) Ha az ügyféllel a kapcsolattartás papír alapon történik, a fővárosi és vármegyei kormányhivatal az érintett hiteles elektronikus dokumentumról a Dáptv. szerinti hiteles papír alapú másolatot készít vagy az arra kijelölt szolgáltatóval készíttet és az ügyfelet erről értesíti.
+(3) Ha az ügyféllel a kapcsolattartás papír alapon történik, a fővárosi és megyei kormányhivatal az érintett hiteles elektronikus dokumentumról a Dáptv. szerinti hiteles papír alapú másolatot készít vagy az arra kijelölt szolgáltatóval készíttet és az ügyfelet erről értesíti.
 
-(4) Az (1) és (2) bekezdés szerinti ügyfél által aláírt papír alapú dokumentumot a fővárosi és vármegyei kormányhivatal
+(4) Az (1) és (2) bekezdés szerinti ügyfél által aláírt papír alapú dokumentumot a fővárosi és megyei kormányhivatal
 
 - a) az iratkezelési szabályzata szerint őrzi és jogvita esetén bemutathatóságát biztosítja, vagy
 - b) megőrzési és bemutatási kötelezettséggel visszaadja az ügyfélnek vagy a képviseletében eljáró személynek.
@@ -80,9 +80,9 @@ a területi közigazgatás működésével kapcsolatos egyes kérdésekről, val
 
 #### 5. Aláírásminta-alapú dokumentum-hitelesítés
 
-6. § (1) A fővárosi és vármegyei kormányhivatal ügyfélszolgálatain, a járási (fővárosi kerületi) hivatal kormányablakaiban, illetve a települési ügysegédnél az elektronikus dokumentumok ügyfél általi hitelesítésére az aláírás képi, dinamikai és íráserősségi adatainak elektronikus felvételezésére képes hitelesítő eszköz (a továbbiakban: aláírópad) rendszeresíthető.
+6. § (1) A fővárosi és megyei kormányhivatal ügyfélszolgálatain, a járási (fővárosi kerületi) hivatal kormányablakaiban, illetve a települési ügysegédnél az elektronikus dokumentumok ügyfél általi hitelesítésére az aláírás képi, dinamikai és íráserősségi adatainak elektronikus felvételezésére képes hitelesítő eszköz (a továbbiakban: aláírópad) rendszeresíthető.
 
-(2) Az (1) bekezdés szerinti eszköz rendszeresítése esetén a Kormány által rendeletben kijelölt fővárosi és vármegyei kormányhivatal az aláírás képi, dinamikai és íráserősségi adatait tartalmazó kormányhivatali aláírásminta-nyilvántartást (a továbbiakban: kormányhivatali aláírásminta-nyilvántartás) vezet.
+(2) Az (1) bekezdés szerinti eszköz rendszeresítése esetén a Kormány által rendeletben kijelölt fővárosi és megyei kormányhivatal az aláírás képi, dinamikai és íráserősségi adatait tartalmazó kormányhivatali aláírásminta-nyilvántartást (a továbbiakban: kormányhivatali aláírásminta-nyilvántartás) vezet.
 
 (3) A kormányhivatali aláírásminta-nyilvántartás a Szaz. tv. szerinti összerendelési nyilvántartással, annak szabályai szerinti kapcsolati kóddal rendelhető a természetes személyhez, az aláírásminta kiértékeléshez szükséges adatokon túl egyéb személyes adatot nem tartalmazhat.
 
@@ -96,7 +96,7 @@ a területi közigazgatás működésével kapcsolatos egyes kérdésekről, val
 
 (8) Nincs helye az aláírópad használatának, ha az ügyfél az ügyet a Dáptv. szerinti elektronikus ügyintézési ponton vagy a Dáptv. szerinti videotechnológiás kapcsolattal történő ügyintézéssel kívánja intézni.
 
-(9) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a fővárosi és vármegyei kormányhivatal ügyfélszolgálatai, a járási (fővárosi kerületi) hivatal kormányablakai, illetve a települési ügysegéd az e törvény, illetve a végrehajtására kiadott rendelet szerinti aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhető ügytípusok tekintetében – ha az ügyintézés feltételei nem állnak fenn – aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta mellőzésével is eljárhat.
+(9) A Kormány összehangolt védelmi tevékenység elrendelése esetén rendeletében előírhatja, hogy a fővárosi és megyei kormányhivatal ügyfélszolgálatai, a járási (fővárosi kerületi) hivatal kormányablakai, illetve a települési ügysegéd az e törvény, illetve a végrehajtására kiadott rendelet szerinti aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta használatával intézhető ügytípusok tekintetében – ha az ügyintézés feltételei nem állnak fenn – aláírópad, illetve kormányhivatali aláírásminta-nyilvántartásban található aláírásminta mellőzésével is eljárhat.
 
 7. § (1) A kormányhivatali aláírásminta-nyilvántartás tartalmazza az ügyfél
 
@@ -149,7 +149,7 @@ a területi közigazgatás működésével kapcsolatos egyes kérdésekről, val
 - b) nyomozó hatóságnak bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - c) ügyészségnek közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) nemzetbiztonsági szolgálatnak felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
-- e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
+- e) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott bűncselekmények megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 - f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából,
 - g) Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak (a továbbiakban: NVVH) bűncselekmények felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából
 
@@ -246,7 +246,7 @@ az ügyfelet.
 - b) nyomozó hatóságnak bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - c) ügyészségnek közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) nemzetbiztonsági szolgálatnak felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
-- e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
+- e) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott bűncselekmények megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 - f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából,
 - g) a szabálysértési hatóságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint szabálysértési eljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - h) a Nemzeti Adatvédelmi és Információszabadság Hatóságnak a személyes adatok védelméhez való jog érvényesülésének ellenőrzésével és annak elősegítésével összefüggő feladat- és hatáskörének gyakorlása céljából,
@@ -411,7 +411,7 @@ biztosító elektronikus felületet (a továbbiakban: Hazaváró Portál) műkö
 - b) nyomozó hatóságnak bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - c) ügyészségnek közérdekvédelmi és törvényességi felügyeleti feladatainak ellátása, valamint a bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) nemzetbiztonsági szolgálatnak felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
-- e) a rendőrségről szóló törvény szerinti terrorizmust elhárító szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése, illetve megszakítása, továbbá elhárítási, információszerzési, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
+- e) az általános rendőrségi feladatok ellátására létrehozott szervnek a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott bűncselekmények megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
 - f) a rendőrségről szóló törvény szerinti belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szervnek a hatáskörébe tartozó bűncselekmények megelőzése, felderítése céljából,
 - g) szabálysértési hatóságnak az előtte folyamatban lévő eljárásban részt vevő személyekre vonatkozó tényállítások helytállóságának, továbbá a bemutatott okirat adattartalma valódiságának ellenőrzése, valamint szabálysértési eljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - h) Nemzeti Adatvédelmi és Információszabadság Hatóságnak a személyes adatok védelméhez való jog érvényesülésének ellenőrzésével és annak elősegítésével összefüggő feladat- és hatáskörének gyakorlása céljából,
@@ -460,8 +460,8 @@ rendeletben határozza meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-- a) a fővárosi és vármegyei kormányhivatalok informatikai működésére vonatkozó szakmai követelményeket,
-- b) a fővárosi és vármegyei kormányhivataloknál az ügyfelek megőrzésében maradó papír alapú iratok körét, a megőrzés időtartamát
+- a) a fővárosi és megyei kormányhivatalok informatikai működésére vonatkozó szakmai követelményeket,
+- b) a fővárosi és megyei kormányhivataloknál az ügyfelek megőrzésében maradó papír alapú iratok körét, a megőrzés időtartamát
 
 rendeletben határozza meg.
 

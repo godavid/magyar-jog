@@ -2003,7 +2003,7 @@ E törvény értelmében közigazgatási ágazathoz tartozó szervezetnek a köv
 - 8a. a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal,
 - 9. a Magyar Nemzeti Bank,
 - 10. a Magyar Honvédség,
-- 11. a fővárosi és vármegyei kormányhivatalok, a vármegyei közgyűlések hivatalai,
+- 11. a fővárosi és megyei kormányhivatalok, a megyei közgyűlések hivatalai,
 - 12. a megyei jogú városok és a fővárosi kerületi önkormányzatok képviselő-testületének hivatalai,
 - 13. a települések képviselő-testületének hivatalai,
 - 14. a központi szolgáltató,

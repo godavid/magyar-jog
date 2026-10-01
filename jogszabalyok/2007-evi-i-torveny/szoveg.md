@@ -859,7 +859,7 @@ meghosszabbítása
 - c) a cégnyilvántartásban szereplő személyek személyazonosságának ellenőrzéséhez a céginformációs és az elektronikus cégeljárásban közreműködő szolgálat,
 - d) a 75. § (1) bekezdés a)–c) és g) pontjában foglalt résznyilvántartásokból
   - da) a közúti közlekedési nyilvántartásban szereplő személyek személyazonosságának ellenőrzése céljából a közúti közlekedési nyilvántartást vezető szerv,
-  - db) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, a kijelölt kormányhivatal, a helyi önkormányzat hatósági feladatot ellátó szerve, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szerv
+  - db) a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szerv, a kijelölt kormányhivatal, a helyi önkormányzat hatósági feladatot ellátó szerve, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a nyugdíjbiztosítási igazgatási szerv
 
 részére az adatszolgáltatás céljának és jogalapjának megjelölése mellett szolgáltathat adatot.
 

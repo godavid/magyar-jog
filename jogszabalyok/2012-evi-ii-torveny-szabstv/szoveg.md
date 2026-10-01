@@ -315,7 +315,7 @@ pénzbírságot vagy helyszíni bírságot kell kiszabni.
 
 (9) A próbaidő eredményes leteltével a végrehajtásában felfüggesztett szabálysértési elzárás büntetést kitöltöttnek kell tekinteni, kivéve, ha az (5) bekezdés alapján az elzárás foganatosítása szükséges.
 
-28. § (1) E törvény alkalmazásában katona a honvéd, a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség hivatásos állományú tagja.
+28. § (1) E törvény alkalmazásában katona a honvéd, a rendőrség, a hivatásos katasztrófavédelmi szerv, a büntetés-végrehajtási szervezet, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
 
 (2) A katona által a szolgálati viszony tartama alatt a szolgálati helyen, illetve a szolgálattal összefüggésben elkövetett szabálysértést – a szabálysértési elzárással is büntethető szabálysértés kivételével – fegyelmi eljárás keretében kell elbírálni. Ha a katona szolgálati viszonya a fegyelmi eljárás befejezése előtt megszűnt, a szabálysértést a szabálysértési hatóság, illetve a bíróság bírálja el.
 
@@ -465,7 +465,7 @@ van helye.
 
 (5) Ha vitás, hogy több szabálysértési hatóság közül melyik köteles eljárni, a hatáskörrel, illetékességgel rendelkező szabálysértési hatóságot
 
-- a) rendőrkapitányság esetén a vármegyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
+- a) rendőrkapitányság esetén a megyei (fővárosi) rendőr-főkapitányság, Nemzeti Adó- és Vámhivatal területi szerve esetén a Központi Irányítás,
 - b) több rendőr-főkapitányság illetékességi területe esetén az Országos Rendőr-főkapitányság,
 - c) az a) és b) pontban foglaltak hiányában a szabálysértési szabályozásért felelős miniszter
 
@@ -475,7 +475,7 @@ jelöli ki.
 
 (7) A szabálysértési hatóság kijelöléséről hozott határozat ellen jogorvoslatnak nincs helye.
 
-40/A. § A vármegyei (fővárosi) rendőr-főkapitányság vezetője az illetékességi területén a szabálysértési eljárásban kiszabott pénzbírság és helyszíni bírság végrehajtása iránti eljárásra illetékes szabálysértési hatóság helyett más szabálysértési hatóság illetékességét is megállapíthatja.
+40/A. § A megyei (fővárosi) rendőr-főkapitányság vezetője az illetékességi területén a szabálysértési eljárásban kiszabott pénzbírság és helyszíni bírság végrehajtása iránti eljárásra illetékes szabálysértési hatóság helyett más szabálysértési hatóság illetékességét is megállapíthatja.
 
 #### 30. A bíróság hatásköre és illetékessége
 
@@ -587,7 +587,7 @@ jelöli ki.
 
 (2) Ha az ügyész a kizárási okot nem maga jelentette be, a bejelentés elintézéséig eljárhat az ügyben.
 
-(3) A kizárás indokoltságáról a helyi ügyészségi ügyész esetében a helyi vezető ügyész, a helyi vezető ügyész és a vármegyei főügyészségi ügyész esetében a vármegyei főügyész dönt. Ha helyt ad a kizárási bejelentésnek, kijelöli a továbbiakban eljáró ügyészt is.
+(3) A kizárás indokoltságáról a helyi ügyészségi ügyész esetében a helyi vezető ügyész, a helyi vezető ügyész és a megyei főügyészségi ügyész esetében a megyei főügyész dönt. Ha helyt ad a kizárási bejelentésnek, kijelöli a továbbiakban eljáró ügyészt is.
 
 #### 38. A bíró kizárása
 
@@ -3049,7 +3049,7 @@ követ el, úgyszintén, aki e cselekmények elkövetését megkísérli, szabá
 
 (2a) Aki földmérési jelet vagy az államhatár megjelölésére szolgáló jelet elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
 
-(3) Aki a kulturális örökség védett elemeit, a vármegye-, város-, községhatár vagy a birtokhatár megjelölésére szolgáló hivatalos jelet vagy létesítményt, tömegközlekedési vagy távközlési eszközt, közúti jelzést, parkot vagy ahhoz tartozó felszerelést, természetvédelmi hatósági és tájékoztató táblát vagy egyéb közérdeket szolgáló jelet vagy létesítményt gondatlanul megsemmisít, megrongál, elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
+(3) Aki a kulturális örökség védett elemeit, a megye-, város-, községhatár vagy a birtokhatár megjelölésére szolgáló hivatalos jelet vagy létesítményt, tömegközlekedési vagy távközlési eszközt, közúti jelzést, parkot vagy ahhoz tartozó felszerelést, természetvédelmi hatósági és tájékoztató táblát vagy egyéb közérdeket szolgáló jelet vagy létesítményt gondatlanul megsemmisít, megrongál, elvisz, áthelyez vagy elmozdít, szabálysértést követ el.
 
 (4) Az (1) bekezdés a) pontjában meghatározott szabálysértés miatt a közterület-felügyelő, az erdészeti hatóság arra felhatalmazott ügyintézője, a halászati őr, valamint a mezőőr, a természeti, védett természeti és Natura 2000 területeken a természetvédelmi őr, helyi jelentőségű védett természeti területen az önkormányzati természetvédelmi őr is szabhat ki helyszíni bírságot.
 

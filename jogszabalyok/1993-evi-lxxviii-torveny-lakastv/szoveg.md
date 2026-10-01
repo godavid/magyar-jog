@@ -14,7 +14,7 @@ Az Országgyűlés a lakások és helyiségek bérletére vonatkozó szabályok 
 
 1/A. § (1) E törvényt és az e törvény végrehajtására kiadott rendeletet kell alkalmazni a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti mező- és erdőgazdasági hasznosítású földnek nem minősülő ingatlan tulajdonjogának külföldi jogi személy vagy külföldi természetes személy által történő megszerzésére, ide nem értve az öröklés esetét.
 
-(2) A külföldi jogi személy vagy a külföldi természetes személy az (1) bekezdés szerinti ingatlant az ingatlan fekvése szerint illetékes fővárosi és vármegyei kormányhivatal (a továbbiakban: kormányhivatal) engedélyével szerezheti meg.
+(2) A külföldi jogi személy vagy a külföldi természetes személy az (1) bekezdés szerinti ingatlant az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) engedélyével szerezheti meg.
 
 (2a) Az ingatlan tulajdonjogának az (1) bekezdés szerinti megszerzése nem engedélyezhető, ha az a közérdeket sértené. A közérdek sérelmének minősül, ha a kérelmező külföldi természetes személy büntetett előéletű. Külföldi jogi személy kérelmező esetén a közérdek sérelme akkor valósul meg, ha a fióktelep vagy kereskedelmi képviselet a jogi személlyel szemben alkalmazható büntetőjogi intézkedésekről szóló törvény szerint alkalmazott tevékenység korlátozására vonatkozó intézkedés hatálya alatt áll. Az e törvény végrehajtására kiadott kormányrendelet a közérdek sérelmének a tulajdonjog megszerzése engedélyezését kizáró további eseteit állapíthatja meg.
 
@@ -570,7 +570,7 @@ illeti meg.
 
 (2)
 
-(3) Az életvédelem céljait szolgáló helyiséget a vármegyei (fővárosi) polgári védelmi parancsnokság hozzájárulásával lehet elidegeníteni.
+(3) Az életvédelem céljait szolgáló helyiséget a megyei (fővárosi) polgári védelmi parancsnokság hozzájárulásával lehet elidegeníteni.
 
 (4) A műemléképületben lévő lakást vagy helyiséget a műemléki hatóság hozzájárulásával, a külön jogszabály rendelkezéseinek figyelembevételével lehet elidegeníteni.
 

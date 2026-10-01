@@ -244,7 +244,7 @@ beavatkozás, ideértve a tereprendezést, depó, feltöltés, töltés kialakí
 
 - a) a Magyar Nemzeti Múzeum Közgyűjteményi Központ (a továbbiakban: MNM KK),
 - b) a Budapesti Történeti Múzeum,
-- c) a vármegyei hatókörű városi múzeum,
+- c) a megyei hatókörű városi múzeum,
 - d) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 - e) a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmény,
 - f) a HUN-REN Bölcsészettudományi Kutatóközpont,
@@ -320,7 +320,7 @@ beavatkozás, ideértve a tereprendezést, depó, feltöltés, töltés kialakí
 (5) Megelőző feltárást végezhet
 
 - a) a régészeti gyűjtőkörrel és a feltárás helye szerinti gyűjtőterülettel rendelkező területi múzeum (a továbbiakban: területi múzeum), Budapesten a Budapesti Történeti Múzeum, ha a beruházással érintett terület nem lépi túl a területi múzeum gyűjtőterületét;
-- b) a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, ha
+- b) a gyűjtőterületén érintett megyei hatókörű városi múzeum, ha
   - ba) nincs területi múzeum a beruházással érintett területen,
   - bb) a területi múzeum kapacitása nem teszi lehetővé az önálló feladatellátást, vagy
   - bc) a beruházással érintett terület túllépi a területi múzeum gyűjtőterületét;
@@ -404,7 +404,7 @@ beavatkozás, ideértve a tereprendezést, depó, feltöltés, töltés kialakí
 
 (2)
 
-(2a) A nagyberuházást megelőző feltárást a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum végezheti jogszabályban meghatározottak szerint.
+(2a) A nagyberuházást megelőző feltárást a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum végezheti jogszabályban meghatározottak szerint.
 
 (2b) A nagyberuházást megelőző feltárás régészeti szaktevékenységének elvégzésébe
 
@@ -413,7 +413,7 @@ beavatkozás, ideértve a tereprendezést, depó, feltöltés, töltés kialakí
 
 (3) A (2b) bekezdés szerinti bevont régészeti terepmunka elvégzésére jogosult intézmény a régészeti szaktevékenység ellátásában – a régészeti bontómunka kivételével – további közreműködőt nem vehet igénybe.
 
-(4) Ha a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a megelőző feltárásra vonatkozó szerződést a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül nem köti meg, akkor a jogszabályban kijelölt örökségvédelmi szerv gondoskodik a régészeti feladatellátás elvégzéséről.
+(4) Ha a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum a megelőző feltárásra vonatkozó szerződést a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül nem köti meg, akkor a jogszabályban kijelölt örökségvédelmi szerv gondoskodik a régészeti feladatellátás elvégzéséről.
 
 (4a)
 
@@ -491,7 +491,7 @@ elvégzéséről és e feladatokra vonatkozó szerződést a beruházóval a 22.
 
 (3) A (2) és (4) bekezdésben meghatározott feladatok elvégzésébe jogszabályban meghatározott módon bevonható
 
-- a) a gyűjtőterületén érintett vármegyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum,
+- a) a gyűjtőterületén érintett megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum,
 - b) a gyűjtőterületén érintett területi múzeum vagy
 - c) a régészeti terepmunkára jogosult intézmény vagy szervezet.
 
@@ -546,7 +546,7 @@ elvégzéséről és e feladatokra vonatkozó szerződést a beruházóval a 22.
 (2) A régészeti terepmunka során előkerült leletek végleges befogadásáról
 
 - a) a területi múzeum, Budapesten a Budapesti Történeti Múzeum gondoskodik, ha a régészeti terepmunka csak annak gyűjtőterületére terjed ki,
-- b) a vármegyei hatókörű városi múzeum gondoskodik, ha a feltárással érintett területen nincs területi múzeum, vagy a feltárással érintett terület túlnyúlik annak gyűjtőterületén,
+- b) a megyei hatókörű városi múzeum gondoskodik, ha a feltárással érintett területen nincs területi múzeum, vagy a feltárással érintett terület túlnyúlik annak gyűjtőterületén,
 - c) az MNM KK gondoskodik, ha
   - ca) az a) és b) pont szerint a gyűjtőterületén érintett múzeum nem tudja biztosítani a leletanyag végleges befogadását,
   - cb) a terepmunkát a 20. § (6) bekezdés e)–h) pontja szerinti, egyéb terepmunkára jogosult intézmény végezte, és a terepmunkával érintett területen gyűjtőkörrel rendelkező múzeum a terepmunkát végző intézmény megkeresésétől számított 8 napon belül nem nyilatkozik a leletbefogadásról a terepmunkát végző intézmény felé,
@@ -599,7 +599,7 @@ elvégzéséről és e feladatokra vonatkozó szerződést a beruházóval a 22.
 - b) a Nemzeti Közszolgálati Egyetem,
 - c) az MNM KK,
 - d) a Budapesti Történeti Múzeum,
-- e) a vármegyei hatókörű városi múzeum,
+- e) a megyei hatókörű városi múzeum,
 - f) a régészeti gyűjtőkörrel rendelkező területi múzeum,
 - g) a régészet szakon mesterképzés folytatására jogosult felsőoktatási intézmény,
 - h) a HUN-REN Bölcsészettudományi Kutatóközpont,
@@ -637,7 +637,7 @@ elvégzéséről és e feladatokra vonatkozó szerződést a beruházóval a 22.
 (3) A hadtörténeti örökség terepi kutatása során előkerült ingó elemek végleges közgyűjteményi befogadásáról a HM Hadtörténeti Intézet és Múzeum gondoskodik, amennyiben élt tárgykiválasztási jogával, ennek hiányában
 
 - a) a területi múzeum, Budapesten a Budapesti Történeti Múzeum gondoskodik, ha a hadtörténeti örökség terepi kutatása csak annak gyűjtőterületére terjed ki,
-- b) a vármegyei hatókörű városi múzeum gondoskodik, ha a hadtörténeti örökség terepi kutatásával érintett területen nincs területi múzeum, vagy a hadtörténeti örökség terepi kutatásával érintett terület túlnyúlik annak gyűjtőterületén,
+- b) a megyei hatókörű városi múzeum gondoskodik, ha a hadtörténeti örökség terepi kutatásával érintett területen nincs területi múzeum, vagy a hadtörténeti örökség terepi kutatásával érintett terület túlnyúlik annak gyűjtőterületén,
 - c) az MNM KK gondoskodik, ha az a) vagy b) pont szerinti múzeum nem tudja biztosítani a hadtörténeti örökség ingó elemének végleges befogadását.
 
 (4) Az (1)–(3) bekezdésben foglaltak megfelelően irányadóak a régészeti terepmunka során előkerült hadtörténeti örökségi elemek vonatkozásában is.
@@ -1236,7 +1236,7 @@ ingyenesen, nyilvántartási értéken, a c) pont szerinti szerződésben meghat
 
 92/G. § E törvénynek az általános közigazgatási rendtartásról szóló törvény és a közigazgatási perrendtartásról szóló törvény hatálybalépésével összefüggő egyes törvények módosításáról szóló 2017. évi L. törvénnyel (a továbbiakban: Ákr.-Kp. Módtv.) megállapított rendelkezéseit az Ákr.-Kp. Módtv. hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni.
 
-92/H. § (1) A vármegyei hatókörű városi múzeumoknak, a Budapesti Történeti Múzeumnak, valamint a jogszabályban kijelölt örökségvédelmi szervnek – amennyiben a feladat ellátására szerződéssel nem rendelkeznek, vagy a feladat esetleges jogutódlását követően ilyen tárgyú kötelezettségvállalással várhatóan nem fognak rendelkezni – közbeszerzési eljárást kell kiírni a 23. § (2) bekezdés, valamint a 23/C. § (8) bekezdése szerinti, a régészeti feladatellátáshoz kapcsolódó földmunka biztosítása érdekében.
+92/H. § (1) A megyei hatókörű városi múzeumoknak, a Budapesti Történeti Múzeumnak, valamint a jogszabályban kijelölt örökségvédelmi szervnek – amennyiben a feladat ellátására szerződéssel nem rendelkeznek, vagy a feladat esetleges jogutódlását követően ilyen tárgyú kötelezettségvállalással várhatóan nem fognak rendelkezni – közbeszerzési eljárást kell kiírni a 23. § (2) bekezdés, valamint a 23/C. § (8) bekezdése szerinti, a régészeti feladatellátáshoz kapcsolódó földmunka biztosítása érdekében.
 
 (2) E törvénynek a kulturális örökség védelméről szóló 2001. évi LXIV. törvény és egyes kapcsolódó törvények módosításáról szóló 2017. évi CLXXXI. törvénnyel (a továbbiakban: Módtv5.) megállapított 22. § (2)–(2b) és (8) bekezdését, 23. § (2) és (2a) bekezdését, 23/C. § (6)–(8) bekezdését és 23/E. § (1)–(6) bekezdését az (1) bekezdésben meghatározott közbeszerzési eljárások lefolytatása után indult eljárásokban és megkötött szerződésekre kell alkalmazni.
 

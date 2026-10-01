@@ -168,9 +168,9 @@ a szülői felelősséget érintő nemzetközi igazságügyi együttműködésr�
 
 31. § (1) Az eljárt gyámhatóság kérelemre kiállítja a Rendelet 36. cikk (1) bekezdésének b) pontja szerinti tanúsítványt a Rendelet III. mellékletében, a Rendelet 47. cikk (1) bekezdésének a) pontja szerinti tanúsítványt a Rendelet V. mellékletében, és a Rendelet 49. cikk (1) bekezdése szerinti tanúsítványt a Rendelet VII. mellékletében közzétett formanyomtatvány felhasználásával.
 
-(2) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal kérelemre vagy hivatalból kijavítja az (1) bekezdés szerinti, a Rendelet III. és V. mellékletében közzétett formanyomtatvány felhasználásával az illetékességi területén működő gyámhatóság által kiállított tanúsítványt.
+(2) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal kérelemre vagy hivatalból kijavítja az (1) bekezdés szerinti, a Rendelet III. és V. mellékletében közzétett formanyomtatvány felhasználásával az illetékességi területén működő gyámhatóság által kiállított tanúsítványt.
 
-(3) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és vármegyei kormányhivatal az (1) bekezdés szerinti, a Rendelet V. mellékletében közzétett formanyomtatvány felhasználásával az illetékességi területén működő gyámhatóság által kiállított tanúsítványt kérelemre vagy hivatalból visszavonja. A visszavonásról szóló határozat ellen a felek közigazgatási pert kezdeményezhetnek.
+(3) A gyermekvédelmi és gyámügyi feladatkörében eljáró fővárosi és megyei kormányhivatal az (1) bekezdés szerinti, a Rendelet V. mellékletében közzétett formanyomtatvány felhasználásával az illetékességi területén működő gyámhatóság által kiállított tanúsítványt kérelemre vagy hivatalból visszavonja. A visszavonásról szóló határozat ellen a felek közigazgatási pert kezdeményezhetnek.
 
 32. § A Polgári Törvénykönyvről szóló 2013. évi V. törvény 4:166. §-át és 4:175. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy ha a gyermek huzamos időtartamú vagy letelepedés céljából történő külföldi tartózkodási helyének kijelölése iránti kérelem szülői felügyelettel kapcsolatos bírósági keresetben vagy szülői felügyelettel kapcsolatos per megindítását követően kerül előterjesztésre, a kérelemről a bíróság dönt. A gyermek huzamos időtartamú vagy letelepedés céljából történő külföldi tartózkodási helyének kijelölése esetén a bíróság és a gyámhatóság kérelemre vagy a gyermek érdekében hivatalból dönt a kapcsolattartásról is.
 
@@ -206,40 +206,40 @@ a szülői felelősséget érintő nemzetközi igazságügyi együttműködésr�
 
 #### 16. Módosító rendelkezések
 
-38. §
+#### 38. §
 
-39. §
+#### 39. §
 
-40. §
+#### 40. §
 
-41. §
+#### 41. §
 
-42. §
+#### 42. §
 
-43. §
+#### 43. §
 
-44. §
+#### 44. §
 
-45. §
+#### 45. §
 
-46. §
+#### 46. §
 
-47. §
+#### 47. §
 
-48. §
+#### 48. §
 
-49. §
+#### 49. §
 
-50. §
+#### 50. §
 
-51. §
+#### 51. §
 
-52. §
+#### 52. §
 
-53. §
+#### 53. §
 
-54. §
+#### 54. §
 
-55. §
+#### 55. §
 
-56. §
+#### 56. §

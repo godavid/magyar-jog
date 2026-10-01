@@ -79,7 +79,7 @@ a következő törvényt alkotja:
 
 6/B. § (1) Az állam az egészségügyi alapellátás körében – a települési önkormányzattal együttműködésben – gondoskodik a védőnői ellátásról.
 
-(2) A védőnői ellátás biztosításáért a Kormány által rendeletben kijelölt állami intézményfenntartó szerv – az irányító vármegyei intézmény útján – felelős azzal, hogy
+(2) A védőnői ellátás biztosításáért a Kormány által rendeletben kijelölt állami intézményfenntartó szerv – az irányító megyei intézmény útján – felelős azzal, hogy
 
 - a) az ellátás jogszabályban előírt tárgyi feltételeit az állam a települési önkormányzattal kötött megállapodás útján is biztosíthatja, és
 - b) a Kormány által rendeletben kijelölt állami intézményfenntartó szerv a települési önkormányzat részére tájékoztatásul megküldi a védőnői ellátás megszervezésével összefüggő, a személyi és a tárgyi feltételek biztosítására vonatkozó döntéseket.
@@ -205,7 +205,7 @@ a következő törvényt alkotja:
 
 (6) A védőnői ellátás részletes szakmai szabályait a miniszter rendeletben határozza meg.
 
-14. § (1) Az egészségügyi államigazgatási szerv jogszabályban foglaltak szerint járási, vármegyei, valamint országos hatáskörrel védőnői hatósági felügyeleti tevékenységet lát el.
+14. § (1) Az egészségügyi államigazgatási szerv jogszabályban foglaltak szerint járási, megyei, valamint országos hatáskörrel védőnői hatósági felügyeleti tevékenységet lát el.
 
 (2) Az egészségügyi szolgáltatás irányításáért felelős szerv, az országos szakmai vezető védőnő irányításával a védőnői szolgáltatás szakmai irányítását, felügyeletét és megfelelőségének ellenőrzését végzi a kollegiális védőnői mentorrendszeren keresztül a védőnői ellátás egységes színvonalú biztosítása érdekében.
 

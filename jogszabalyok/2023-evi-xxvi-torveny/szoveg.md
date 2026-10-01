@@ -62,7 +62,7 @@ Az Országgyűlés a közfeladatok ellátásáról való állami és önkormány
 
 (4) Az igazgatási szünet alatt felmentési, illetve felmondási idejét töltő foglalkoztatott számára a (3) bekezdés alapján az igazgatási szünet azon részére rendelhető el munkavégzés, amely vonatkozásában nem mentesítették a munkavégzési kötelezettség alól.
 
-(5) A (3) és (4) bekezdés szerinti esetben a hivatali szervezet vezetője – területi kormányzati igazgatási szervek esetében a főispán – a foglalkoztatott jogviszonyának létesítő okiratában meghatározottól eltérő munkavégzési helyet is kijelölhet azzal, hogy ebben az esetben a Kit. 99. § (4) és (5) bekezdését és az Mt. 53. § (3) bekezdését alkalmazni kell, továbbá az intézkedés a foglalkoztatottra nézve – különösen a korára, egészségi állapotára vagy egyéb körülményeire tekintettel – aránytalan sérelemmel nem járhat.
+(5) A (3) és (4) bekezdés szerinti esetben a hivatali szervezet vezetője – területi kormányzati igazgatási szervek esetében a kormánymegbízott – a foglalkoztatott jogviszonyának létesítő okiratában meghatározottól eltérő munkavégzési helyet is kijelölhet azzal, hogy ebben az esetben a Kit. 99. § (4) és (5) bekezdését és az Mt. 53. § (3) bekezdését alkalmazni kell, továbbá az intézkedés a foglalkoztatottra nézve – különösen a korára, egészségi állapotára vagy egyéb körülményeire tekintettel – aránytalan sérelemmel nem járhat.
 
 (6) A foglalkoztatottat az (3)–(5) bekezdésben foglaltakról az igazgatási szünet alatti munkavégzés időpontját legalább két nappal megelőzően, rövid úton tájékoztatni kell.
 
@@ -117,7 +117,7 @@ jogosult.
 
 - a) a települési önkormányzat képviselő-testületének polgármesteri hivatala, közös önkormányzati hivatala és a közterület-felügyelet tekintetében a települési önkormányzat képviselő-testülete,
 - b) a főpolgármesteri hivatal tekintetében a fővárosi közgyűlés,
-- c) a vármegyei önkormányzati hivatal tekintetében a vármegyei közgyűlés.
+- c) a megyei önkormányzati hivatal tekintetében a megyei közgyűlés.
 
 (2) Az igazgatási szünet elrendelése esetén figyelembe kell venni a 6. § (2) bekezdésében foglaltakat.
 
@@ -130,7 +130,7 @@ jogosult.
 - c) a 3. § (7) bekezdését arra az esetre kell alkalmazni, ha a foglalkoztatotti jogviszonyt a foglalkoztatott a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 60. § (2) bekezdés e) pontja alapján vagy az Mt. 79. § (1) bekezdés a) pontja alapján szünteti meg az igazgatási szünet alatt,
 - d) az (1) bekezdés szerinti hivatal vezetője határozhatja meg a hivatal igazgatási szünet alatti – 3. § (1) bekezdésétől eltérő – működésének és ügyfélfogadásának rendjét,
 - e) az igazgatási szünet alatti működés, illetve ügyfélfogadás d) pont szerinti elrendelése esetén a munkáltatói jogkör gyakorlója rendelheti el a hivatal foglalkoztatottjai vonatkozásában az igazgatási szünet alatti munkavégzést,
-- f) az igazgatási szünet elrendelése esetén annak időtartama – a 3. § (2) bekezdésében foglaltakon túl – nem számít bele az igazgatási szünettel érintett polgármester, főpolgármester, vármegyei közgyűlés elnöke, jegyző, közterület-felügyelet, polgármesteri hivatal és közös önkormányzati hivatal ügyintézője hatáskörébe tartozó államigazgatási ügyek és az önkormányzati hatósági ügyek intézésének határidejébe sem,
+- f) az igazgatási szünet elrendelése esetén annak időtartama – a 3. § (2) bekezdésében foglaltakon túl – nem számít bele az igazgatási szünettel érintett polgármester, főpolgármester, megyei közgyűlés elnöke, jegyző, közterület-felügyelet, polgármesteri hivatal és közös önkormányzati hivatal ügyintézője hatáskörébe tartozó államigazgatási ügyek és az önkormányzati hatósági ügyek intézésének határidejébe sem,
 - g) ha az igazgatási szünet alatti munkavégzés elrendelése esetén a munkáltatói jogkör gyakorlója a foglalkoztatott jogviszonyának létesítő okiratában meghatározottól eltérő munkavégzési helyet jelöl ki, a Kttv. 51. § (2) és (6) bekezdését, illetve az Mt. 53. § (3) bekezdését kell alkalmazni,
 - h) a 2. § (5) bekezdése alapján a foglalkoztatott szabadságának a szabadságolási tervtől eltérő kiadására az Mt. 122. § (2) bekezdését kell alkalmazni,
 - i) a 3. § (6) bekezdése és az 5. § nem alkalmazható.

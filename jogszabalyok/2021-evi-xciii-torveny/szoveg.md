@@ -66,7 +66,7 @@ alapul, amelyek előmozdításához és szervezéséhez szükséges alapvető fe
 - 8. rendvédelmi szerv: a rendőrség, a Nemzeti Adó- és Vámhivatal, a büntetés-végrehajtási szervezet, valamint a hivatásos katasztrófavédelmi szerv;
 - 9. rögzített védelmi ipari kapacitás: a nemzetgazdaság védelmi és biztonsági célú mozgósítási feladataira kijelölt szolgáltató olyan békeidőszakban nem, vagy csökkentett mértékben üzemelő, vagy békeidőszakon kívül más célokra használható kapacitását jelenti, amelyek a gazdaságmozgósítás esetén a védelmi célú ellátás érdekében aktiválhatók, és amelyeket a jogszabályban meghatározott szerv ilyen kapacitásként kijelölt;
 - 10. szövetségesi kötelezettség: a NATO és az EU, illetve más nemzetközi, az Országgyűlés által törvényben kihirdetett, kollektív védelmi együttműködés keretében teljesítendő – különösen honvédelmi, rendvédelmi és nemzetbiztonsági jellegű – tervezési, szervezési, felkészülési, felkészültségi, együttműködési és képesség alapú feladatok összessége;
-- 11. területi védelmi bizottság: a főváros és a vármegyék területére kiterjedő illetékességgel, e törvényben meghatározottak szerint létesített, a Kormány irányítása alatt álló, testületi szervként működő területi közigazgatási szerv;
+- 11. területi védelmi bizottság: a főváros és a megyék területére kiterjedő illetékességgel, e törvényben meghatározottak szerint létesített, a Kormány irányítása alatt álló, testületi szervként működő területi közigazgatási szerv;
 - 12. védelmi és biztonsági célú adat: a védelmi és biztonsági igazgatás központi szervének az 52. §-ban, az 53. § (1) bekezdésében, valamint a 71. § (2) bekezdésében meghatározott védelmi és biztonsági feladatainak ellátásával, az összehangolt védelmi tevékenységgel, valamint a különleges jogrendi működéssel közvetlenül összefüggő adat.
 - 13. védelmi és biztonsági célú felkészítés: az állami szervek személyi állománya védelmi és biztonsági tudatosságának és további védelmi és biztonsági ismereteinek fejlesztése, naprakészen tartása és fokozása, jogszabályban meghatározott képzési rendszer keretében;
 - 14. védelmi és biztonsági érdek: Magyarország szuverenitásának, függetlenségének, területi épségének, állami, társadalmi és gazdasági stabilitásának, valamint működőképességének, továbbá a magyar állampolgárok és az ország lakossága jogai általános érvényesülésének megóvásával, védelmével, illetve károsulásuk, sérelmük esetén ezek helyreállításával összefüggő érdekek összessége;
@@ -82,7 +82,7 @@ alapul, amelyek előmozdításához és szervezéséhez szükséges alapvető fe
   - i) a kiberbiztonsági válsághelyzet;
 - 16. védelmi és biztonsági igazgatás: a közigazgatás részét képező feladat- és szervezetrendszer, amely a Kormány irányítása mellett a Magyarországot és annak lakosságát veszélyeztető fenyegetésekkel és támadásokkal szembeni fellépésre létrehozott, illetve jogszabályban ilyen feladatra kijelölt állami szervek központilag összehangolt tervező, végrehajtó és rendelkező tevékenysége, különös tekintettel a válsághelyzetek kezelésére, a különleges jogrend kihirdetésére, valamint a védelem- és biztonságtudatosság polgári és állami fokozásával összefüggő feladatokra és az ezekre való felkészülésre, beleértve a honvédelmi igazgatást és az annak részét képző katonai igazgatást, továbbá a kapcsolódó rendvédelmi szervek által ellátott igazgatást;
 - 17. védelmi és biztonsági kötelezettségek: az ország és a nemzet védelme és biztonságának fenntartása és fejlesztése érdekében az állam által természetes személyek, jogi személyek, valamint jogi személyiséggel nem rendelkező szervezetek részére meghatározható kötelezettségek;
-- 18. védelmi és biztonsági szervezetek: a Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség.
+- 18. védelmi és biztonsági szervezetek: a Honvédség, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok;
 - 19. az ország védelme és biztonsága szempontjából jelentős infrastruktúra: az általános kijelölő hatóság vagy a honvédelmi ágazati kijelölő hatóság által kijelölt olyan eszköz, létesítmény, építmény, berendezés, hálózat, rendszer, vagy ezek része, amely az alapvető szolgáltatás nyújtásához szükséges,
 - 20. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli infrastruktúra: az az ország védelme és biztonsága szempontjából jelentős infrastruktúra, amelyet honvédelmi ágazati kijelölő hatóság jelölt ki honvédelmi ágazatban,
 - 21. az ország védelme és biztonsága szempontjából jelentős honvédelmi ágazaton belüli szervezet: az az ország védelme és biztonsága szempontjából jelentős szervezet, amelyet honvédelmi ágazati kijelölő hatóság jelölt ki honvédelmi ágazatban,
@@ -169,7 +169,7 @@ kötelezettséget foglalja magában.
 - c) a szakmai felsővezető, a vezetői megbízású, valamint feladatköre szerint katasztrófavédelmi feladatot ellátó kormánytisztviselő, köztisztviselő és közalkalmazott,
 - d) a jegyző,
 - e) az alkotmánybíró és az Alkotmánybíróság Hivatalának foglalkoztatottja, a bíró, az ügyész, a közjegyző, a bírósági végrehajtó,
-- f) a Honvédség tényleges állományú, a rendvédelmi szervek, a nemzetbiztonsági szolgálatok, valamint az Országgyűlési Őrség hivatásos állományú tagja, e szervek alkalmazottja,
+- f) a Honvédség tényleges állományú, a rendvédelmi szervek hivatásos állományú, valamint a nemzetbiztonsági szolgálatok hivatásos állományú tagja, e szervek alkalmazottja,
 - g) az egészségügyi államigazgatási szerv kormánytisztviselője,
 - h) a fekvőbeteg, a járóbeteg- és alapellátást végző orvos és szakképzett szakdolgozó,
 - i) az állami mentőszolgálat dolgozója, betegszállító szervezet dolgozója,
@@ -189,7 +189,7 @@ miatt nem, vagy a polgári védelmi szolgálat teljesítésével elérhető elő
 
 (4) Az (1) vagy (2) bekezdés hatálya alá tartozó, valamint a (3) bekezdés alapján mentesített természetes személyek megjelenésre és szolgálatadásra nem kötelezhetőek, polgári védelmi szervezetbe nem oszthatóak be, vagy ilyen beosztásukat meg kell szüntetni.
 
-(5) A (2) bekezdés f) pontja szerinti természetes személyek adatszolgáltatási kötelezettsége a (2) bekezdés f) pontja hatálya alá tartozás tekintetében áll fenn. A polgári védelmi szolgálat (2) bekezdés f) pontja alapján történő ellátása tekintetében a Honvédség központi nyilvántartó szerve, a rendvédelmi szerv, a nemzetbiztonsági szolgálat, az Országgyűlési Őrség nyilatkozata irányadó. Az (1)–(2) bekezdés szerinti további mentesülési okok igazolásának módját jogszabály határozza meg.
+(5) A (2) bekezdés f) pontja szerinti természetes személyek adatszolgáltatási kötelezettsége a (2) bekezdés f) pontja hatálya alá tartozás tekintetében áll fenn. A polgári védelmi szolgálat (2) bekezdés f) pontja alapján történő ellátása tekintetében a Honvédség központi nyilvántartó szerve, a rendvédelmi szerv, a nemzetbiztonsági szolgálat nyilatkozata irányadó. Az (1)–(2) bekezdés szerinti további mentesülési okok igazolásának módját jogszabály határozza meg.
 
 11. § (1) A polgári védelmi szervezet tagja kiképzésre és gyakorlatra osztható be (a továbbiakban: felhívás), amelynek időtartama évente nem haladhatja meg kiképzés céljából a 40, gyakorlat esetében a 72 órát. A megjelenésre kötelezett a felhívásban megjelölt helyen és időpontban köteles megjelenni.
 
@@ -278,7 +278,7 @@ miatt nem, vagy a polgári védelmi szolgálat teljesítésével elérhető elő
 
 15. § (1) A szolgáltatások igénybevételéről feladatkörét érintően dönthet
 
-- a) az ország egész területére vagy annak több vármegyét érintő részére rendeletben a Kormány, vagy a Kormány felhatalmazása alapján az adott tevékenységért felelős miniszter,
+- a) az ország egész területére vagy annak több megyét érintő részére rendeletben a Kormány, vagy a Kormány felhatalmazása alapján az adott tevékenységért felelős miniszter,
 - b) illetékességi területén határozatban a területi védelmi bizottság elnöke, valamint a polgármester,
 - c) a törvényben meghatározott esetben, jogszabályban meghatározottak szerint, határozatban a védelmi és biztonsági igazgatási feladatokat ellátó ágazati igazgatási szerv vezetője, vagy hadiállapotban a katonai szervezet parancsnoka
 
@@ -554,11 +554,11 @@ intézkedések és feladatok összessége.
 
 36. § A nemzetgazdaság védelmi és biztonsági célú felkészítésével és mozgósításával kapcsolatos kártalanítás összegét az állam fizeti meg.
 
-37. § (1) A kártalanításra jogosult a felmerült kár megtérítésére vonatkozó igényét a székhelye vagy lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes, ingatlan igénybevételét is magában foglaló igénybevétel esetében az ingatlan fekvése szerint illetékes járási kormányhivatalnál terjesztheti elő, amely azt a kárigény megalapozottságára vonatkozó véleményével ellátva 15 napon belül felterjeszti a fővárosi, vármegyei kormányhivatalhoz.
+37. § (1) A kártalanításra jogosult a felmerült kár megtérítésére vonatkozó igényét a székhelye vagy lakóhelye, ennek hiányában belföldi tartózkodási helye szerint illetékes, ingatlan igénybevételét is magában foglaló igénybevétel esetében az ingatlan fekvése szerint illetékes járási kormányhivatalnál terjesztheti elő, amely azt a kárigény megalapozottságára vonatkozó véleményével ellátva 15 napon belül felterjeszti a fővárosi, megyei kormányhivatalhoz.
 
-(2) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására – a 39. § szerinti kivétellel – a fővárosi, vármegyei kormányhivatal jogosult. A fővárosi, vármegyei kormányhivatal a kárigény benyújtását követő 3 napon belül, 15 napos határidő tűzésével felhívja az igénybe vevő szervet, hogy nyilatkozzon a kárigény megalapozottságáról.
+(2) A kártalanítási eljárás lefolytatására és a kártalanítás összegének megállapítására – a 39. § szerinti kivétellel – a fővárosi, megyei kormányhivatal jogosult. A fővárosi, megyei kormányhivatal a kárigény benyújtását követő 3 napon belül, 15 napos határidő tűzésével felhívja az igénybe vevő szervet, hogy nyilatkozzon a kárigény megalapozottságáról.
 
-(3) A fővárosi, vármegyei kormányhivatal a kárigény benyújtásától számított 60 napon belül dönt.
+(3) A fővárosi, megyei kormányhivatal a kárigény benyújtásától számított 60 napon belül dönt.
 
 (4) A kártalanítás összegének megállapításánál figyelembe kell venni
 
@@ -577,7 +577,7 @@ intézkedések és feladatok összessége.
 
 40. § A kártalanítás ügyében hozott döntés közigazgatási perben megtámadható.
 
-41. § (1) Ha az összehangolt védelmi tevékenység meghosszabbítása miatt, vagy más okból az igénybe vevő szerv az igénybevétel tárgyát képező ingatlant a törvényben meghatározott határidőig nem szolgáltatta vissza a jogosultnak, továbbá ha az eredeti állapot helyreállítása nem lehetséges vagy aránytalan költséggel jár, vagy az ingatlan rendeltetésszerű használata az igénybevétellel összefüggésben jelentős mértékben romlik, a tulajdonos ezen az alapon kérelmezheti a fővárosi, vármegyei kormányhivatalnál, hogy az igénybe vevő szervet kötelezze az ingatlan állam nevében és az állam javára való kisajátításra vonatkozó kérelem benyújtására.
+41. § (1) Ha az összehangolt védelmi tevékenység meghosszabbítása miatt, vagy más okból az igénybe vevő szerv az igénybevétel tárgyát képező ingatlant a törvényben meghatározott határidőig nem szolgáltatta vissza a jogosultnak, továbbá ha az eredeti állapot helyreállítása nem lehetséges vagy aránytalan költséggel jár, vagy az ingatlan rendeltetésszerű használata az igénybevétellel összefüggésben jelentős mértékben romlik, a tulajdonos ezen az alapon kérelmezheti a fővárosi, megyei kormányhivatalnál, hogy az igénybe vevő szervet kötelezze az ingatlan állam nevében és az állam javára való kisajátításra vonatkozó kérelem benyújtására.
 
 (2) Az (1) bekezdés szerinti esetben a kisajátítási kérelem benyújtására kötelezés iránti kérelem a visszaszolgáltatás késedelme esetén a határidő lejártától, egyéb esetekben a visszaszolgáltatás időpontjától számított 30 napon belül terjeszthető elő.
 
@@ -895,11 +895,11 @@ vonatkozó rendelkezéseit kell alkalmazni.
 
 53. § (1) A területi védelmi bizottságok irányítását a Kormány – az ágazati védekezési és felkészülési feladatok irányítását ide nem értve – a védelmi és biztonsági igazgatás központi szerve útján látja el.
 
-(2) A területi védelmi bizottság elnöke a fővárosi, vármegyei főispán, általános elnökhelyettese a fővárosi, vármegyei kormányhivatal főigazgatója. Szakmai elnökhelyettesek – a védelmi és biztonsági igazgatás központi szervének vezetője egyetértésével – a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője, honvédelmi feladatok tekintetében a honvédelemért felelős miniszter által kijelölt, a Honvédség tényleges állományának tiszti állománycsoportba tartozó tagja.
+(2) A területi védelmi bizottság elnöke a fővárosi, megyei kormánymegbízott, általános elnökhelyettese a fővárosi, megyei kormányhivatal főigazgatója. Szakmai elnökhelyettesek – a védelmi és biztonsági igazgatás központi szervének vezetője egyetértésével – a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője, honvédelmi feladatok tekintetében a honvédelemért felelős miniszter által kijelölt, a Honvédség tényleges állományának tiszti állománycsoportba tartozó tagja.
 
 (3) A területi védelmi bizottság tagja az elnökön és az elnökhelyetteseken kívül
 
-- a) a vármegyei közgyűlés elnöke – a fővárosban a főpolgármester – vagy az általa helyettesítésre kijelölt személy,
+- a) a megyei közgyűlés elnöke – a fővárosban a főpolgármester – vagy az általa helyettesítésre kijelölt személy,
 - b) a megyei jogú város polgármestere vagy az általa helyettesítésre kijelölt személy,
 - c) a területi katonai igazgatási szervének vezetője,
 - d) a bizottság szakmai elnökhelyettese kivételével a bizottság illetékességi területén működő, önálló hatáskörrel rendelkező rendvédelmi szerv illetékes vezetője,
@@ -909,18 +909,18 @@ vonatkozó rendelkezéseit kell alkalmazni.
 
 (4) A területi védelmi bizottság szervezeti és működési rendjét – a védelmi és biztonsági igazgatás központi szerve vezetőjének egyetértésével – maga állapítja meg.
 
-(5) A területi védelmi bizottság költségeinek fedezetét a fővárosi, vármegyei kormányhivatal részére az egyes védelmi és biztonsági feladatokra biztosított költségvetési összegből, céltámogatásból, az illetékességi területhez tartozó településekre háruló védelmi és biztonsági feladatok és a lakosság létszámának arányában meghatározott állami támogatásból kell biztosítani.
+(5) A területi védelmi bizottság költségeinek fedezetét a fővárosi, megyei kormányhivatal részére az egyes védelmi és biztonsági feladatokra biztosított költségvetési összegből, céltámogatásból, az illetékességi területhez tartozó településekre háruló védelmi és biztonsági feladatok és a lakosság létszámának arányában meghatározott állami támogatásból kell biztosítani.
 
 (6) A területi védelmi bizottság hatáskörébe utalt hatósági, valamint más döntési jogköröket a bizottság elnöke kiadmányozza. Ha a bizottsági ülés megtartásának feltételei idő hiányában vagy más okból hiányoznak, vagy a bizottság a döntéshozatalban bármely okból akadályoztatott, halaszthatatlan esetben a bizottság elnöke egy személyben gyakorolja. A bizottság jogkörében eljáró elnök a szakmailag érintett elnökhelyettes véleményének kikérését követően hozhatja meg a döntését, amelyről a területi védelmi bizottságot az akadályoztatás megszűnését követően haladéktalanul tájékoztatja.
 
-(7) A területi védelmi bizottság elnöke az igazgatási feladatait a fővárosi, vármegyei kormányhivatal közreműködésével látja el. Az összehangolt védelmi tevékenységgel összefüggésben, valamint különleges jogrend idején bevezetett intézkedések végrehajtásából eredő feladatok ellátása érdekében, a szükséges mértékben a fővárosi, vármegyei kormányhivatal valamennyi kormánytisztviselője és munkavállalója rendkívüli munkavégzésre kötelezhető.
+(7) A területi védelmi bizottság elnöke az igazgatási feladatait a fővárosi, megyei kormányhivatal közreműködésével látja el. Az összehangolt védelmi tevékenységgel összefüggésben, valamint különleges jogrend idején bevezetett intézkedések végrehajtásából eredő feladatok ellátása érdekében, a szükséges mértékben a fővárosi, megyei kormányhivatal valamennyi kormánytisztviselője és munkavállalója rendkívüli munkavégzésre kötelezhető.
 
 54. § (1) A területi védelmi bizottság illetékességi területén ellátja a válsághelyzetekre és különleges jogrendre történő felkészülés, továbbá a védelmi és biztonsági események kezelésében, valamint a különleges jogrendi feladatokban történő közreműködés törvényben vagy a Kormány rendeletében meghatározott területi feladatait.
 
 (2) A területi védelmi bizottság a védelmi és biztonsági tevékenysége keretében
 
 - a) irányítja a helyi védelmi bizottságokat,
-- b) összehangolja a főpolgármester, a vármegyei közgyűlés elnöke és a polgármesterek helyi védelmi bizottságok védelmi és biztonsági igazgatási feladataiban együttműködő szervezetek tevékenységét,
+- b) összehangolja a főpolgármester, a megyei közgyűlés elnöke és a polgármesterek helyi védelmi bizottságok védelmi és biztonsági igazgatási feladataiban együttműködő szervezetek tevékenységét,
 - c) a szükséges feltételek fennállása esetén elrendeli a védelmi és biztonsági szervezetek és a védelmi és biztonsági tevékenységben közreműködő egyéb szervek számára szükséges ingó, ingatlan, szolgáltatás igénybevételét, a területi gazdasági és anyagi szolgáltatási kötelezettségeket, amelyről gazdasági és anyagi szolgáltatási nyilvántartást vezet, és az elrendelésről értesíti a polgármestert,
 - d) biztosítja a védelmi és biztonsági igazgatási szervek működésének feltételeit, és irányítja a rendkívüli intézkedésekkel hatáskörébe utalt feladatok végrehajtását,
 - e) kezdeményezi Kormány vagy más szerv hatáskörébe tartozó védelmi és biztonsági intézkedések megtételét,
@@ -933,15 +933,15 @@ vonatkozó rendelkezéseit kell alkalmazni.
 
 (3) A területi védelmi bizottság a védelmi és biztonsági tevékenységre való felkészülés keretében
 
-- a) irányítja a helyi védelmi bizottságok és összehangolja főpolgármester, a vármegyei közgyűlés elnöke és a polgármesterek védelmi és biztonsági felkészítését,
+- a) irányítja a helyi védelmi bizottságok és összehangolja főpolgármester, a megyei közgyűlés elnöke és a polgármesterek védelmi és biztonsági felkészítését,
 - b) megállapítja a védelmi és biztonsági tevékenységben közreműködő szervek részére a védelmi és biztonsági felkészítés követelményeit és feladatait, összehangolja azok végrehajtását,
 - c) megszervezi az illetékességi területén található települések, kerületek, valamint a lakosság és a védekezésben érintett szervezetek közötti riasztás, kiértesítés és tájékoztatás, valamint kölcsönös segítségnyújtás rendjét,
-- d) gondoskodik a közigazgatási szervekkel, a védelmi és biztonsági szervezetekkel, és a civil szervezetekkel, valamint más vármegyékkel és a fővárossal történő együttműködés, kölcsönös segítségnyújtás feltételeinek és rendjének biztosításáról,
+- d) gondoskodik a közigazgatási szervekkel, a védelmi és biztonsági szervezetekkel, és a civil szervezetekkel, valamint más megyékkel és a fővárossal történő együttműködés, kölcsönös segítségnyújtás feltételeinek és rendjének biztosításáról,
 - e) felelős a polgári védelmi kötelezettségen alapuló területi polgári védelmi szervezetek létrehozásáért, valamint a területi veszélyelhárítási terv elkészítéséért,
 - f) illetékességi területén felelős a védelmi és biztonsági tevékenység koordinációjához és irányításához szükséges feltételek biztosításáért,
 - g) védelmi és biztonsági felkészítés feladatainak gyakorlása és ellenőrzése céljából a védelmi és biztonsági igazgatás központi szervének tájékoztatásával gyakorlatot vezethet a polgármesterek, valamint a védelmi és biztonsági tevékenységben közreműködő szervek közreműködésével,
 - h) irányítja a hatáskörébe tartozó katasztrófavédelmi tervező tevékenységet,
-- i) a fővárosi, vármegyei védelmi bizottság ülésének napirendjére tűzi a védekezésben részt vevő szervek felkészültségéről szóló beszámolót,
+- i) a fővárosi, megyei védelmi bizottság ülésének napirendjére tűzi a védekezésben részt vevő szervek felkészültségéről szóló beszámolót,
 - j) az éves feladattervben meghatározza a polgármesterek felkészítésével kapcsolatos feladatokat,
 - k) egyetértési jogot gyakorol a területi polgári védelmi szervezetek felépítésére, létszámára vonatkozó – a területileg illetékes hivatásos katasztrófavédelmi szerv által tett – javaslatokkal kapcsolatosan,
 - l) a katasztrófák elleni védekezésért felelős miniszter részére felterjeszti az illetékességi területén lévő települések polgármestereinek a települések katasztrófavédelmi besorolására vonatkozó javaslatait.
@@ -950,12 +950,12 @@ vonatkozó rendelkezéseit kell alkalmazni.
 
 55. § (1) A helyi védelmi bizottság illetékességi területe a járásokhoz, a fővárosban a fővárosi kerületekhez igazodik.
 
-(2) A helyi védelmi bizottság elnöke a fővárosi, vármegyei kormányhivatal járási, fővárosi kerületi hivatalának vezetője, szakmai elnökhelyettese a honvédelmi feladatok tekintetében a Honvédség állományából vezényelt katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy.
+(2) A helyi védelmi bizottság elnöke a fővárosi, megyei kormányhivatal járási, fővárosi kerületi hivatalának vezetője, szakmai elnökhelyettese a honvédelmi feladatok tekintetében a Honvédség állományából vezényelt katona, a katasztrófák elleni védekezés tekintetében a hivatásos katasztrófavédelmi szerv területi szervének vezetője által kijelölt személy.
 
 (3) A helyi védelmi bizottság tagja az elnökön és az elnökhelyetteseken kívül:
 
 - a) a bizottság szakmai elnökhelyettese kivételével a bizottság illetékességi területén működő, önálló hatáskörrel rendelkező rendvédelmi szerv illetékes vezetője,
-- b) a fővárosi, vármegyei kormányhivatal képviselője,
+- b) a fővárosi, megyei kormányhivatal képviselője,
 - c) a területi katonai igazgatási szervének képviselője,
 - d) az árvízi védekezésért felelős szervezetnek a bizottság illetékességi területe szerinti vezetője,
 - e) a helyi védelmi bizottság titkára.
@@ -972,7 +972,7 @@ vonatkozó rendelkezéseit kell alkalmazni.
 
 (2) A helyi védelmi bizottság a védelmi és biztonsági tevékenysége keretében
 
-- a) működési területén összehangolja a polgármesterek, valamint a védekezésben részt vevő szervek, szervezetek tevékenységét, a főpolgármester és a vármegyei közgyűlés elnöke kivételével utasíthatja őket a hatáskörükbe tartozó intézkedések megtételére,
+- a) működési területén összehangolja a polgármesterek, valamint a védekezésben részt vevő szervek, szervezetek tevékenységét, a főpolgármester és a megyei közgyűlés elnöke kivételével utasíthatja őket a hatáskörükbe tartozó intézkedések megtételére,
 - b) irányítja és összehangolja a Honvédség hadkiegészítésével összefüggő közigazgatási feladatok végrehajtását,
 - c) összehangolja az illetékességi területére háruló gazdasági és anyagi szolgáltatási kötelezettségek teljesítését,
 - d) közreműködik a különleges jogrendben hozott rendkívüli intézkedésekből adódó feladatok végrehajtásában,
@@ -980,7 +980,7 @@ vonatkozó rendelkezéseit kell alkalmazni.
 - f) utasíthatja a védekezés irányítása során a védekezésben részt vevő szervezetek vezetőit a hatáskörükbe tartozó intézkedések megtételére,
 - g) intézkedik a védekezéshez igénybe vehető állomány és eszközök átcsoportosítására és bevonására.
 
-(3) A helyi védelmi bizottság elnökének az (2) bekezdésben meghatározott irányítási és utasítási jogköre nem terjed ki a főpolgármesterre és a vármegyei közgyűlés elnökére.
+(3) A helyi védelmi bizottság elnökének az (2) bekezdésben meghatározott irányítási és utasítási jogköre nem terjed ki a főpolgármesterre és a megyei közgyűlés elnökére.
 
 (4) A helyi védelmi bizottság a védelmi és biztonsági tevékenységre való felkészülés keretében
 
@@ -993,7 +993,7 @@ vonatkozó rendelkezéseit kell alkalmazni.
 
 (5) A helyi védelmi bizottság elnöke a települési veszélyelhárítási tervet a hivatásos katasztrófavédelmi szerv helyi szerve vezetőjének egyetértésével hagyja jóvá.
 
-57. § Ha a területi, illetve a helyi szintű védekezésben egyidejűleg a védelmi és biztonsági igazgatás több területi szervének együttműködése szükséges, a védekezés közvetlen irányításáért felelős vezetőt illetékességi területén a területi védelmi bizottság elnöke, több vármegye területét illetően a védelmi és biztonsági igazgatás központi szerve jelöli ki. A kijelölésig az események következményeinek felszámolásában elsődlegesen érintett szerv vezetője végzi a védekezés irányítását.
+57. § Ha a területi, illetve a helyi szintű védekezésben egyidejűleg a védelmi és biztonsági igazgatás több területi szervének együttműködése szükséges, a védekezés közvetlen irányításáért felelős vezetőt illetékességi területén a területi védelmi bizottság elnöke, több megye területét illetően a védelmi és biztonsági igazgatás központi szerve jelöli ki. A kijelölésig az események következményeinek felszámolásában elsődlegesen érintett szerv vezetője végzi a védekezés irányítását.
 
 58. § (1) A polgármester illetékességi területén ellátja a védelmi és biztonsági tevékenységekkel kapcsolatos, jogszabályban és a helyi védelmi bizottság által számára megállapított, települési szintű feladatokat, irányítja és összehangolja azok végrehajtását.
 
@@ -1012,7 +1012,7 @@ vonatkozó rendelkezéseit kell alkalmazni.
 - k) biztosítja a lakosság riasztására szolgáló és a közigazgatási területén lévő, rendelkezésre bocsátott technikai berendezések működtetését,
 - l) részt vesz a feladatainak ellátása érdekében, a hivatásos katasztrófavédelmi szerv által szervezett felkészítéseken.
 
-(3) A főpolgármester és a vármegyei közgyűlés elnöke szervezi és irányítja a fővárosi és a megyei önkormányzat közfeladataihoz kapcsolódó védelmi és biztonsági tevékenységekkel kapcsolatos (2) bekezdés szerinti felkészülési feladatokat.
+(3) A főpolgármester és a megyei közgyűlés elnöke szervezi és irányítja a fővárosi és a megyei önkormányzat közfeladataihoz kapcsolódó védelmi és biztonsági tevékenységekkel kapcsolatos (2) bekezdés szerinti felkészülési feladatokat.
 
 59. § (1) A polgármester a települési szintű védelmi és biztonsági tevékenysége keretében:
 
@@ -1025,7 +1025,7 @@ vonatkozó rendelkezéseit kell alkalmazni.
 - g) együttműködik más települések polgármestereivel, a védekezésbe bevont más szervezetekkel,
 - h) szervezi és irányítja az anyagi javak védelmét, a lakosság létfenntartáshoz szükséges anyagi javakkal történő ellátását.
 
-(2) A főpolgármester és a vármegyei közgyűlés elnöke szervezi és irányítja a fővárosi és a vármegyei önkormányzat közfeladataihoz kapcsolódó védelmi és biztonsági tevékenységekkel kapcsolatos (1) bekezdés szerinti feladatok ellátását.
+(2) A főpolgármester és a megyei közgyűlés elnöke szervezi és irányítja a fővárosi és a megyei önkormányzat közfeladataihoz kapcsolódó védelmi és biztonsági tevékenységekkel kapcsolatos (1) bekezdés szerinti feladatok ellátását.
 
 #### 24. A védelmi és biztonsági célú adatkezelés szervei
 
@@ -1207,7 +1207,7 @@ a védelmi és biztonsági feladat ellátásához feltétlenül szükséges idő
 
 adatszolgáltatása alapján kezeli.
 
-(3) A nemzetbiztonsági szolgálatok és a terrorizmust elhárító szerv által kezelt adatok tekintetében az adatszolgáltatást az érintett főigazgató nemzetbiztonsági érdekből megtagadhatja.
+(3) A nemzetbiztonsági szolgálatok által kezelt adatok tekintetében az adatszolgáltatást az érintett főigazgató nemzetbiztonsági érdekből megtagadhatja.
 
 (4) A közvetlen elektronikus adatkapcsolat útján együttműködő szerv adatkezelési rendszere elérését biztosító felülete kiépítésének és működtetésének költségét az adatot szolgáltató szerv viseli, az azon keresztül történő adatelérést a védelmi és biztonsági igazgatás központi szervének térítésmentesen biztosítja.
 
@@ -1305,7 +1305,7 @@ alkalmas.
 
 ### VIII. Fejezet — A VÉDELMI ÉS BIZTONSÁGI KÖTELEZETTSÉGEKKEL KAPCSOLATOS SZABÁLYSZEGÉS MEGÁLLAPÍTÁSA
 
-70. § (1) A védelmi és biztonsági igazgatás központi szerve, a területi védelmi bizottság elnöke, elnökhelyettese, a helyi védelmi bizottság elnöke, a polgármester, valamint az e törvény alapján védelmi és biztonsági igazgatási feladatokat ellátó ágazati igazgatási szervek vezetője kezdeményezése alapján a fővárosi, vármegyei kormányhivatal – ha törvény súlyosabb jogkövetkezmény alkalmazását nem rendeli – közigazgatási hatósági eljárást folytat le azzal a természetes személlyel, jogi személlyel, jogi személyiséggel nem rendelkező jogalannyal szemben, aki
+70. § (1) A védelmi és biztonsági igazgatás központi szerve, a területi védelmi bizottság elnöke, elnökhelyettese, a helyi védelmi bizottság elnöke, a polgármester, valamint az e törvény alapján védelmi és biztonsági igazgatási feladatokat ellátó ágazati igazgatási szervek vezetője kezdeményezése alapján a fővárosi, megyei kormányhivatal – ha törvény súlyosabb jogkövetkezmény alkalmazását nem rendeli – közigazgatási hatósági eljárást folytat le azzal a természetes személlyel, jogi személlyel, jogi személyiséggel nem rendelkező jogalannyal szemben, aki
 
 - a) az e törvényben meghatározott polgári védelmi, valamint gazdasági és anyagi szolgáltatási kötelezettségét nem vagy nem megfelelően teljesíti,
 - b) a nemzetgazdaság védelmi és biztonsági célú felkészítésével összefüggő kötelezettségének nem tesz eleget, vagy
@@ -1313,9 +1313,9 @@ alkalmas.
 
 (2) Az (1) bekezdés szerinti eljárás legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg.
 
-(3) A fővárosi, vármegyei kormányhivatal az (1) bekezdés szerinti eljárásban, kormányrendeletben meghatározottak szerint védelmi és biztonsági bírságot szabhat ki.
+(3) A fővárosi, megyei kormányhivatal az (1) bekezdés szerinti eljárásban, kormányrendeletben meghatározottak szerint védelmi és biztonsági bírságot szabhat ki.
 
-(4) A fővárosi, vármegyei kormányhivatal a védelmi és biztonsági bírság összegét kormányrendeletben meghatározottak szerint mérsékelheti vagy korlátlanul enyhítheti, megfizetésére részletfizetést engedélyezhet.
+(4) A fővárosi, megyei kormányhivatal a védelmi és biztonsági bírság összegét kormányrendeletben meghatározottak szerint mérsékelheti vagy korlátlanul enyhítheti, megfizetésére részletfizetést engedélyezhet.
 
 ### IX. Fejezet — A VÉDELMI ÉS BIZTONSÁGI CÉLÚ RIASZTÁS RENDSZERE
 
@@ -1649,7 +1649,7 @@ sarkalatosnak minősül.
 - 1. Országgyűlés Hivatala,
 - 2. Sándor-palota,
 - 3. Alkotmánybíróság Hivatala,
-- 4. Országgyűlési Őrség,
+- 4.
 - 5. Magyar Nemzeti Bank,
 - 6. Országos Bírósági Hivatal,
 - 7. Legfőbb Ügyészség,

@@ -207,7 +207,7 @@ tekintetében közhiteles nyilvántartásnak minősül.
 
 (4) Az adóhatóság biztosítja a (3) bekezdésben meghatározott adatokat tartalmazó adatbázis elérhetőségét a társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter részére az általa működtetett információs portálon történő közzététel, adatfeldolgozás és rendszerezés céljából.
 
-(5) A kedvezményezettet kérelmére az adóhatóság elektronikus úton térítésmentesen tájékoztatja a javára rendelkező – az adatszolgáltatás időpontjában – érvényes és érvénytelen, valamint el nem bírált nyilatkozatot tevők számáról, régiónkénti, vármegyénkénti, korcsoportonkénti megoszlásáról, az érvénytelenséget okozó – az 5/A. § (1) bekezdés a)–d) pontjának megfelelően részletezett – okokról és azok arányáról.
+(5) A kedvezményezettet kérelmére az adóhatóság elektronikus úton térítésmentesen tájékoztatja a javára rendelkező – az adatszolgáltatás időpontjában – érvényes és érvénytelen, valamint el nem bírált nyilatkozatot tevők számáról, régiónkénti, megyénkénti, korcsoportonkénti megoszlásáról, az érvénytelenséget okozó – az 5/A. § (1) bekezdés a)–d) pontjának megfelelően részletezett – okokról és azok arányáról.
 
 (5a) A 4/A. § (1) bekezdés a) pontjában meghatározott kedvezményezettet elektronikus úton benyújtott kérelmére, az állami adóhatóság a kérelem benyújtását követő 30 napon belül, de legkorábban október 15-től elektronikus úton térítésmentesen tájékoztatja a javára rendelkező nyilatkozatot tevők számának településenkénti megoszlásáról.
 

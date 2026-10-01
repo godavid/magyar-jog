@@ -211,7 +211,7 @@ kerül sor.
 - e) az elérhetőség-javulásból fakadó térségi gazdaságélénkítő hatás,
 - f) nemzetközi együttműködés elősegítése,
 - g) a hátrányos térségek, települések felzárkóztatásának célja,
-- h) az országos, regionális, kiemelt térségi, vármegyei, valamint helyi területfejlesztési és -rendezési célok,
+- h) az országos, regionális, kiemelt térségi, megyei, valamint helyi területfejlesztési és -rendezési célok,
 - i) a közúthálózat-fejlesztéssel szorosan összefüggő egyéb sajátos szempontok, különös tekintettel a honvédelmi, idegenforgalmi és vidékfejlesztési szempontokra.
 
 ### Az országos közúthálózat tervezése és fejlesztése
@@ -245,7 +245,7 @@ kerül sor.
 - e) az összegző értékelésben figyelembe nem vehető egyedi sajátosság alapján vagy
 - f) egyéb jelentős társadalmi, gazdasági érdek alapján.
 
-11/D. § (1) Az országos közutak szerkezetének, térbeli rendjének tervezését, és a fejlesztésre vonatkozó program készítését a miniszter irányítja. A Fejlesztési Program beruházásaival és ütemezésével, valamint a Terv hálózati változataival kapcsolatban – azok jóváhagyása előtt – társadalmi egyeztetést kell biztosítani, továbbá írásban és közvetlen egyeztetésen ki kell kérni az érintett vármegyei önkormányzatok véleményét. A társadalmi egyeztetés legalább egy országos napilapban való tájékoztatással, a vizsgálati dokumentáció honlapon és ügyfélszolgálaton történő megtekintésének biztosításával, az érintett nyilvánosság észrevételeinek kikérésével, az észrevételek és a kapcsolódó tervezői válaszok teljes körű dokumentálásával és közreadásával, továbbá a környezet védelmének általános szabályairól szóló törvényben meghatározott környezeti vizsgálatra vonatkozó egyeztetési követelmények szerint történik.
+11/D. § (1) Az országos közutak szerkezetének, térbeli rendjének tervezését, és a fejlesztésre vonatkozó program készítését a miniszter irányítja. A Fejlesztési Program beruházásaival és ütemezésével, valamint a Terv hálózati változataival kapcsolatban – azok jóváhagyása előtt – társadalmi egyeztetést kell biztosítani, továbbá írásban és közvetlen egyeztetésen ki kell kérni az érintett megyei önkormányzatok véleményét. A társadalmi egyeztetés legalább egy országos napilapban való tájékoztatással, a vizsgálati dokumentáció honlapon és ügyfélszolgálaton történő megtekintésének biztosításával, az érintett nyilvánosság észrevételeinek kikérésével, az észrevételek és a kapcsolódó tervezői válaszok teljes körű dokumentálásával és közreadásával, továbbá a környezet védelmének általános szabályairól szóló törvényben meghatározott környezeti vizsgálatra vonatkozó egyeztetési követelmények szerint történik.
 
 (2) A 11/A. § (2) bekezdése szerinti országos közutak tervezésének előkészítési szakaszában, az útépítés lehetséges nyomvonalváltozatait magába foglaló döntés-előkészítő tanulmány vagy tanulmányterv és környezeti vizsgálat elkészítése során költség-haszon vizsgálatot és összegző értékelést kell készíteni, amelynek eredményét felhasználva a 11. § (2) bekezdés a)–i) pontjában meghatározott szempontokból összességében legelőnyösebb változatot, vagy az értékelési eredményt tekintve lényeges különbséget nem mutató változatokat kell kiválasztani a létesítéshez szükséges nyomvonalsáv meghatározására és biztosítására, továbbá a környezetvédelmi engedélyezéshez előírt vizsgálatokra.
 
@@ -264,34 +264,21 @@ kerül sor.
 - a) a gépjárművek közlekedésére szolgáló közút területén, a közút úttesten kívüli burkolatlan területe kivételével,
 - b) a gépjárművek közlekedésére szolgáló közút felett, annak műtárgyán, tartozékán, a járda, a gyalogút, valamint a kerékpárút kivételével.
 
-(3b) Reklámtábla, reklámhordozó és egyéb reklámcélú berendezés közvilágítási-, villany-, és telefonoszlopon az adott ellátási területen működő áram-, illetve telefonszolgáltató engedélyével helyezhető el. Reklámtábla, reklámhordozó és egyéb reklámcélú berendezés közvilágítási-, villany-, és telefonoszlopon történő elhelyezése esetén az elhelyező köteles a közterület-használati díjak megfizetésére.
+(3b) Reklámtábla, reklámhordozó, egyéb reklámcélú berendezés és tájékozódást segítő jelzést megjelenítő reklámcélú eszköz a magyar építészetről szóló törvényben meghatározott esetekben közvilágítási-, villany- és telefonoszlopon, illetve segélykérő telefonon vagy annak tartószerkezetén nem helyezhető el. Új hirdetőoszlop nem helyezhető el. A magyar építészetről szóló törvény szerinti citylight reklámeszközt szabadon állóan nem lehet elhelyezni, kizárólag utcabútoron.
 
-(3c) Tájékozódást segítő jelzést megjelenítő reklámcélú eszköz a közvilágítási-, villany- és telefonoszlopon az áram-, telefonszolgáltató vagy áramhálózati engedélyes, valamint az oszlop tulajdonosának a hozzájárulásával helyezhető el; az elhelyezést az eszközzel érintett oszlop alatti földterület tulajdonosa és az eszközzel érintett oszlop alatti földterülettel szomszédos ingatlan tulajdonosa tűrni köteles.
+(3c)
 
-(3d) A tájékozódást segítő jelzést megjelenítő reklámcélú eszköz (3c) bekezdés szerinti elhelyezése esetén
+(3d)
 
-- a) nem kell alkalmazni a magyar építészetről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
-- b) a közterület igénybevétele rendeltetésszerű igénybevételnek, a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz pedig a közúti közlekedés szervezésének és irányításának céljait szolgáló berendezésnek minősül,
-- c) a közterület b) pont szerinti rendeltetésszerű igénybe vétele közterület használati díjfizetési kötelezettséggel nem jár, a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz elhelyezéséért az elhelyezőnek a közút kezelője részére elhelyezési díjat kell fizetnie,
-- d) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges.
-- e) a közvilágítási-, villany- és telefonoszlopon elhelyezett tájékozódást segítő jelzést megjelenítő reklámcélú eszköz nem minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontja szerinti gazdasági reklámnak.
+(3e) A gépjárművek közlekedésére szolgáló közút lakott területen kívüli szakaszának a 42/A. § (1) bekezdés a) pontja szerinti területén nem lehet reklámtábla, reklámhordozó vagy egyéb reklámcélú berendezés, valamint a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz. A tilalom nem vonatkozik az üzemanyagtöltő állomások területén elhelyezett cégjelzésre, és üzemanyagárakat tartalmazó táblákra, az építményeken, az építmények telkén elhelyezett olyan feliratra, amelyek az építményben működő cég nevét, jelét – piktogramját –, vagy tevékenységét jelzik.
 
-(3e) A gépjárművek közlekedésére szolgáló közút lakott területen kívüli szakasza mellett nem lehet reklámtábla, reklámhordozó vagy egyéb reklámcélú berendezés, valamint a tájékozódást segítő jelzést megjelenítő reklámcélú eszköz. A tilalom nem vonatkozik a 2010. december 31-éig a nem gyorsforgalmi utak mentén kihelyezett 12A/0-ás ív méretű reklámfelülettel rendelkező reklámtáblákra, az üzemanyagtöltő állomások területén elhelyezett cégjelzésre, és üzemanyagárakat tartalmazó táblákra, az építményeken, az építmények telkén elhelyezett olyan feliratra, amelyek az építményben működő cég nevét, jelét (piktogramját), vagy tevékenységét jelzik, továbbá azokra a – közvetlenül a közút mellett elhelyezett – berendezésekre, amelyek közlekedés biztonságát elősegítő közérdekű tájékoztató táblák szakmai tartalmát, valamint engedélyezésüket meghatározó testület által engedélyezett a közlekedés biztonságát elősegítő közérdekű tájékoztatást tartalmaznak.
+(3f)
 
-(3f) A segélykérő telefon e törvény alkalmazásában életmentő funkciót ellátó reklámcélú eszköznek minősül a következő feltételekkel:
-
-- a) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés a nyilvános telefonállomás üzemeltetője engedélyével helyezhető el a segélykérő telefon tartószerkezetén,
-- b) reklámtábla, reklámhordozó és egyéb reklámcélú berendezés segélykérő telefon tartószerkezetén történő elhelyezése esetén az elhelyező életmentő funkciót ellátó reklámcélú eszközönként 3000 forint/hó összegű díj megfizetésére köteles,
-- c) elhelyezése esetén nem kell alkalmazni a magyar építészetről szóló törvény szerinti településképi bejelentési eljárásra vonatkozó szabályokat,
-- d) a közterület igénybevétele rendeltetésszerű igénybevételnek minősül, amely közterület-használati díjfizetési kötelezettséggel nem jár, az elhelyezőnek a közút kezelője részére csak a b) pont szerinti elhelyezési díjat kell fizetnie,
-- e) az elhelyezéshez a közterület használatra vonatkozó jogszabályok szerinti hatósági engedély, illetve polgári jogi jogviszony nem szükséges, és
-- f) az életmentő funkciót ellátó reklámcélú eszközre az (5) bekezdésben foglaltak irányadók.
-
-(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 156 000 forinttól 780 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
+(4) A közlekedési hatóság annak az ingatlannak – az ingatlan-nyilvántartás szerinti – tulajdonosát, amelynek területén a (3a), a (3b), illetve a (3e) bekezdésben megállapított tilalmat megszegik, a jel, jelzés, reklámtábla, reklámhordozó, egyéb reklámcélú berendezés, tájékozódást segítő jelzést megjelenítő reklámcélú eszköz vagy egyéb tárgy eltávolítására és 156 000 forinttól 780 000 forintig terjedő bírság megfizetésére kötelezi. A bírság ismételten is kiszabható.
 
 (4a) A közlekedési hatóság a (4) bekezdés szerinti bírság összegének meghatározása során a közigazgatási szabályszegések szankcióiról szóló törvényben meghatározott szempontok mellett a közvetlen balesetveszély lehetőségét is mérlegeli.
 
-(4b) Nincs helye figyelmeztetés alkalmazásának a (3a) és a (3e) bekezdésben meghatározott jogsértés miatt indult közigazgatási hatósági eljárásban.
+(4b) Nincs helye figyelmeztetés alkalmazásának a (3a), a (3b) és a (3e) bekezdésben meghatározott jogsértés miatt indult közigazgatási hatósági eljárásban.
 
 (5) A közút kezelője a hozzájárulása nélkül vagy attól eltérő módon az út területén elhelyezett reklámtáblát, reklámhordozót, egyéb reklámcélú berendezést és tájékozódást segítő jelzést megjelenítő reklámcélú eszközt a reklám célú tárgy tulajdonosának, közvilágítási-, villany-, telefonoszlop esetében az oszlop tulajdonosának vagy a reklámtábla tulajdonosának költségére eltávolíthatja.
 
@@ -451,7 +438,7 @@ jogosultak.
 
 16. § (1) Olyan elemi csapás vagy rendkívüli hóakadály elhárítására, amely a közutak forgalmát, a személy- és áruszállítást, emiatt a lakosság ellátását széles körben és jelentősen akadályozza, a védekezés és mentés egységes, központi irányítására, ezen belül a veszélyeztetett terület lakosságának ellátására a miniszter – az érintett tárcák és szervek bevonásával – bizottságot alakít.
 
-(2) Ha az elemi csapás vagy rendkívüli hóakadály elhárítása egységes, központi irányítást nem igényel, a védekezés és mentés irányítása – az érdekeltek bevonásával – a polgármester vagy a főpolgármester, illetőleg a fővárosi és vármegyei kormányhivatalnak a feladata.
+(2) Ha az elemi csapás vagy rendkívüli hóakadály elhárítása egységes, központi irányítást nem igényel, a védekezés és mentés irányítása – az érdekeltek bevonásával – a polgármester vagy a főpolgármester, illetőleg a fővárosi és megyei kormányhivatalnak a feladata.
 
 ### A közúti közlekedési szakértő
 
@@ -1198,7 +1185,8 @@ követő hat hónapig kezeli.
 - c) a bíróság, az ügyészség, az NVVH és a nyomozó hatóság büntetőeljárás lefolytatása érdekében,
 - d) a nemzetbiztonsági szolgálatok törvényben meghatározott feladataik ellátása érdekében,
 - e) a szervezett bűnözés elleni fellépés koordinációjáért felelős szerv az elemző-értékelő tevékenysége céljából,
-- f) a terrorizmust elhárító szerv.
+- f) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 1. § (2) bekezdés 15a. pontjában meghatározott feladata ellátása érdekében,
+- g) az általános rendőrségi feladatok ellátására létrehozott szerv a személyvédelmi és létesítménybiztosítási feladatai ellátása érdekében.
 
 (9) A (3) bekezdés szerinti adatokat a Nemzeti Tengelysúlymérő Rendszerből
 
@@ -1280,9 +1268,11 @@ kapcsolatos hatósági ellenőrzések eredménye és a rendelkezésre álló egy
 
 (5) A kockázatértékelő rendszerből igényelheti
 
-- a) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, a nemzetbiztonsági szolgálatok, a terrorizmust elhárító szerv a törvényben meghatározott feladataik ellátásához szükséges adatokat,
+- a) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, a nemzetbiztonsági szolgálatok a törvényben meghatározott feladataik ellátásához szükséges adatokat,
 - b) a közlekedési hatóságok, valamint a 20. § (11) bekezdés a) pont aa) és ac) alpontja, b) pont ba) és bb) alpontja, c)–h) pontja, a (11a) és a (11b) bekezdése szerinti, a közúti járművek közlekedésének ellenőrzésére jogosult szervezetek az e törvényben megjelölt feladataik ellátásához szükséges adatokat,
 - c) a vállalkozás a kockázati profiljával kapcsolatban kezelt adatokat.
+- d) az általános rendőrségi feladatok ellátására létrehozott szerv az Rtv. 1. § (2) bekezdés 15a. pontjában meghatározott feladata ellátásához szükséges adatokat,
+- e) az általános rendőrségi feladatok ellátására létrehozott szerv a személyvédelmi és létesítménybiztosítási feladatai ellátásához szükséges adatokat.
 
 21/N. § (1) A 20. és 21. § alapján folytatott közigazgatási hatósági eljárásban, ha az ügyfélnek a végleges határozattal lezárt ügyben a határozat véglegessé válását követően jutott tudomására a határozat meghozatala előtt már meglévő, az eljárásban még el nem bírált és az ügy elbírálása szempontjából lényeges tény, adat vagy más bizonyíték, a tudomásszerzéstől számított tizenöt napon belül újrafelvételi kérelmet nyújthat be, feltéve, hogy az elbírálása esetén a kérelmezőre kedvezőbb határozatot eredményezett volna.
 
@@ -1945,7 +1935,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (6) A használatidíj-rendszer üzemeltetése, működtetése és fejlesztése közfeladat, amelyet az útdíjszolgáltatási gazdasági társaság lát el. E feladatai ellátása tekintetében az útdíjszolgáltatási gazdasági társaság jogosult a közúti közlekedési nyilvántartás adataihoz a közúti közlekedési nyilvántartásról szóló törvényben foglaltak szerint hozzáférni. Ennek végrehajtása érdekében az útdíjszolgáltatási gazdasági társaság által ellátott közfeladatok biztosítására vonatkozó szerződés megkötésével kapcsolatos feladatokat az útdíjfizetési-szolgáltatásért felelős miniszter látja el.
 
-(6a) Ha az útdíjszolgáltatási gazdasági társaság más, jogszabályban meghatározott feladatokat is ellát, akkor az útdíjszolgáltatási gazdasági társasági feladatait e gazdasági társaság különálló szervezeti egysége útján végzi. A különálló szervezeti egység vezetője felett a szervezet ügyvezető szervének elnöke gyakorolja az utasítási jogot. A különálló szervezeti egység az útdíjszolgáltatási tevékenység ellátása érdekében a jogszabályban kijelölt szervezetétől független műszaki, gazdasági, jogi, személyzeti, beszerzési és ügyfélszolgálati szervezetet működtet. E szervezeti egység az útdíjszolgáltatási gazdasági társasági tevékenységével kapcsolatos ügyekben önálló jogképességgel és ügyfélképességgel rendelkezik, képviseletét ezekben az ügyekben a különálló szervezeti egység vezetője látja el.
+(6a) Ha az útdíjszolgáltatási gazdasági társaság más, jogszabályban meghatározott feladatokat is ellát, akkor az útdíjszolgáltatási gazdasági társasági feladatait e gazdasági társaság különálló szervezeti egysége (a továbbiakban: különálló szervezeti egység) útján végzi, amely az útdíjszolgáltatási tevékenység tekintetében számviteli szempontból elkülönített nyilvántartásokat vezet. A különálló szervezeti egység működésére vonatkozó részletes szabályokat kormányrendelet határozza meg. A különálló szervezeti egység az útdíjszolgáltatási gazdasági társasági tevékenységével kapcsolatos ügyekben önálló jogképességgel és ügyfélképességgel rendelkezik, képviseletét ezekben az ügyekben a különálló szervezeti egység vezetője látja el.
 
 (6b) Ha az útdíjszolgáltatási gazdasági társasági feladatok, és az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény szerinti útdíjszedői, útdíjellenőrzés-támogatói, illetve egyetemes útdíjszolgáltatói feladatok ellátására ugyanaz a szervezet került kijelölésre, akkor e feladatokat a (6a) bekezdésben meghatározott szervezeti egység együttesen látja el.
 
@@ -1961,7 +1951,7 @@ jogcímeken kell elszámolni és befizetni a központi költségvetésbe.
 
 (3) A használati díj nem tartalmazhat sem közvetett, sem közvetlen megkülönböztetést, így különösen tilos a diszkrimináció a gépjárművek nemzetisége vagy a gépjárművek tulajdonosának (üzemben tartójának) nemzetisége, illetve letelepedési országa, valamint a járművek nyilvántartásba vételi helye, illetve a közlekedési tevékenység kiindulási pontja vagy rendeltetési helye alapján.
 
-(3a) Az útdíjszolgáltatási gazdasági társaság a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint terrorizmust elhárító szerv, a nemzetbiztonsági szolgálatok, továbbá a Nemzeti Adó- és Vámhivatal jogszabályban meghatározott feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az adat rögzítését követő három évig kezeli a díjfizetés ellenében használható gyorsforgalmi útszakaszokat használati díj megfizetése ellenében igénybe vevő gépjárművek forgalmi rendszámát, valamint az úthasználat helyét és idejét.
+(3a) Az útdíjszolgáltatási gazdasági társaság a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, az előkészítő eljárást folytató szerv, a Rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, a nemzetbiztonsági szolgálatok, továbbá a Nemzeti Adó- és Vámhivatal jogszabályban meghatározott feladatainak, valamint az általános rendőrségi feladatok ellátására létrehozott szerv az Rtv. 1. § (2) bekezdés 15a. pontjában meghatározott feladatának, továbbá személyvédelmi és létesítménybiztosítási feladatainak ellátásához szükséges adatszolgáltatás teljesítése érdekében az adat rögzítését követő három évig kezeli a díjfizetés ellenében használható gyorsforgalmi útszakaszokat használati díj megfizetése ellenében igénybe vevő gépjárművek forgalmi rendszámát, valamint az úthasználat helyét és idejét.
 
 (4) A használati díj beszedésére jogosult szervezetek a használati díj megfizetésének elmulasztása esetén a használati díj megfizetése ellenében használható autópályákról, autóutakról, főutakról és azok díjáról szóló miniszteri rendelet szerinti pótdíj behajtása céljából, továbbá a (8) bekezdésben meghatározott szervezetek a díjfizetés ellenőrzése és a hatáskörükbe tartozó pótdíjkövetelés, vagy a pótdíjkülönbözetre vonatkozó követelés behajtására irányuló eljárás megindítása céljából az adat rögzítésétől a követelés elévülésének vagy az (5) bekezdésben meghatározott jogvesztő határidő eredménytelen elteltének időpontjáig jogosultak kezelni
 
@@ -2092,7 +2082,7 @@ használható fel.
 
 (4) A kártalanítás az igénybevétellel okozott érdeksérelem bekövetkezésekor esedékes, az ingatlan tulajdonosa ez iránti igényét a felszín alatti közútépítési jog alapján létesített felszín alatti közút forgalomba helyezésétől (ideértve az ideiglenes forgalomba helyezést is) számított két évig érvényesítheti a közút építtetőjével szemben. A kártalanítást – a felek eltérő megállapodásának hiányában – pénzben kell megfizetni.
 
-(5) Megegyezés hiányában bármelyik fél kérelmére a kártalanítást a fővárosi és vármegyei kormányhivatal állapítja meg a kisajátítási kártalanításra vonatkozó szabályok szerint. A megegyezés hiányának minősül az is, ha a felszín alatti közút építtetője a kártalanítási igény hozzá való megérkezésétől számított 45 napon belül nem tesz ajánlatot egyezségre vagy a vele közölt ajánlatra nem nyilatkozik. A fővárosi és vármegyei kormányhivatal eljárására és a határozata elleni jogorvoslatra a kisajátításról szóló törvényben meghatározott rendelkezéseket kell alkalmazni.
+(5) Megegyezés hiányában bármelyik fél kérelmére a kártalanítást a fővárosi és megyei kormányhivatal állapítja meg a kisajátítási kártalanításra vonatkozó szabályok szerint. A megegyezés hiányának minősül az is, ha a felszín alatti közút építtetője a kártalanítási igény hozzá való megérkezésétől számított 45 napon belül nem tesz ajánlatot egyezségre vagy a vele közölt ajánlatra nem nyilatkozik. A fővárosi és megyei kormányhivatal eljárására és a határozata elleni jogorvoslatra a kisajátításról szóló törvényben meghatározott rendelkezéseket kell alkalmazni.
 
 35/C. § (1) Ha a felszín alatti közútépítési jog alapján történő igénybevétel akár a létesítés, akár az üzemeltetés során a felszín alatti közútépítési joggal terhelt ingatlan rendeltetésszerű használatát megszünteti vagy jelentős mértékben akadályozza, az építtető az ingatlan megvásárlását, ennek sikertelensége esetén kisajátítását kezdeményezi.
 
@@ -2467,7 +2457,9 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 
 #### 46/F. §
 
-46/G. § Az e törvénynek az egyes közlekedési tárgyú törvények módosításáról szóló 2012. évi CXIX. törvénnyel megállapított 12. § (3)–(3c) bekezdése szerinti tilalommal érintett jelet, jelzést, egyéb tárgyat, berendezést, reklámtáblát, reklámhordozót és egyéb reklámcélú berendezést 2012. szeptember 30-ig el kell távolítani.
+46/G. § (1) E törvénynek a gyűlöletkeltésre alkalmas politikai reklámok visszaszorításáról, a gazdasági reklámok településképi illeszkedésének biztosításáról, valamint egyes beruházási szabályok módosításáról szóló 2026. évi XX. törvénnyel megállapított 12. § (3b) és (3e) bekezdése szerinti tilalommal érintett reklámtáblát, reklámhordozót, egyéb reklámcélú berendezést és tájékozódást segítő jelzést megjelenítő reklámcélú eszközt 2026. december 31-ig el kell távolítani.
+
+(2) A 12. § (3a), (3b) és (3e) bekezdése szerinti tilalommal, továbbá az (1) bekezdés szerinti kötelezettséggel összefüggésben az államot, a helyi önkormányzatot, illetve a közút kezelőjét kártalanítási kötelezettség nem terheli.
 
 #### 46/H. §
 
@@ -2495,7 +2487,7 @@ során – adatrögzítés nélkül – elektronikus berendezéssel távoli kép
 
 (2) A Módtv4. által megállapított 24/A. § (4) bekezdését a Módtv4. hatálybalépésekor a vizsgálóállomás vezető tisztségviselői, képviselői tevékenységet ellátó személy esetében nem kell alkalmazni.
 
-46/P. § (1) A tájékozódást segítő jelzést megjelenítő reklámcélú eszköz 12. § (3c) bekezdése szerinti elhelyezése esetén, ha az elhelyezéshez kapott hozzájárulás időbeli hatálya az Ukrajna területén fennálló fegyveres konfliktusra, illetve humanitárius katasztrófára tekintettel, valamint ezek magyarországi következményeinek az elhárítása és kezelése érdekében kihirdetett veszélyhelyzet idején járt le, a hozzájárulás és az azt tartalmazó szerződés időbeli hatálya e veszélyhelyzet megszűnéséig meghosszabbodik.
+46/P. § (1)
 
 (2) Az e törvénynek az Ukrajna területén fennálló fegyveres konfliktusra tekintettel kihirdetett veszélyhelyzeti rendeletek törvényi szintre emeléséről szóló 2025. évi L. törvény által megállapított 29. § (1g)–(1k) és (2b) bekezdésében foglaltakat a folyamatban lévő ügyekben is alkalmazni kell.
 

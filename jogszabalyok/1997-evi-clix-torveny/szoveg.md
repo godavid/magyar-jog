@@ -6,7 +6,7 @@ Az Országgyűlés az állam működése, illetőleg a lakosság ellátása szem
 
 ### I. Fejezet — A fegyveres biztonsági őrség
 
-1. § (1) Fegyveres biztonsági őrséggel kell védeni az állam működése, illetőleg a lakosság ellátása szempontjából kiemelkedően fontos tevékenységet, létesítményt, szállítmányt, ha a védelemre a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, valamint az Országgyűlés biztonságáról gondoskodó Országgyűlési Őrség, illetve a Nemzeti Adó- és Vámhivatal jogszabállyal nem kötelezettek, de az őrzés a közbiztonság vagy a nemzeti vagyon védelme érdekében indokolt. Így különösen:
+1. § (1) Fegyveres biztonsági őrséggel kell védeni az állam működése, illetőleg a lakosság ellátása szempontjából kiemelkedően fontos tevékenységet, létesítményt, szállítmányt, ha a védelemre a Magyar Honvédség, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal jogszabállyal nem kötelezettek, de az őrzés a közbiztonság vagy a nemzeti vagyon védelme érdekében indokolt. Így különösen:
 
 - a) az állam biztonsága, illetve a honvédelem szempontjából fontos létesítményt;
 - b) a nemzetközi személy- vagy teherforgalomban működő repülőteret;
@@ -88,7 +88,7 @@ határozattal felhívja a kötelezettet vagy – a c) pontban meghatározott ese
 - a) a (3) bekezdés a) és b) pontjában foglalt esetben tizenöt napon belül,
 - b) a (3) bekezdés c) pontjában foglalt esetben 24 órán belül
 
-nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes vármegyei (fővárosi) rendőr-főkapitányság ötszázezertől kétmillió forintig terjedő összegű közigazgatási bírságot szabhat ki.
+nem tesz eleget, a fegyveres biztonsági őrség működése szerint illetékes megyei (fővárosi) rendőr-főkapitányság ötszázezertől kétmillió forintig terjedő összegű közigazgatási bírságot szabhat ki.
 
 (4a) Ha a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet a közigazgatási bírság ismételt kiszabását követően sem teljesíti a (3) bekezdés szerinti határozatban foglaltakat, a fegyveres biztonsági őrzést – a kötelezett vagy a fegyveres biztonsági őrséget működtető szervezet költségére – a rendőrség hajtja végre.
 
@@ -247,7 +247,7 @@ kezeli.
 
 8. § (1) A fegyveres biztonsági őröket formaruhával és szolgálati jelvénnyel kell ellátni.
 
-(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok, valamint az Országgyűlés biztonságáról gondoskodó Országgyűlési Őrség egyenruhájától, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
+(2) A formaruhának egyértelműen különböznie kell a Magyar Honvédség, illetve a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény szerinti rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok egyenruhájától, valamint a Nemzeti Adó- és Vámhivatal pénzügyőri státuszú foglalkoztatottjainak egyenruhájától. E rendelkezés nem alkalmazható a Magyar Honvédség létesítményeit őrző fegyveres biztonsági őrség önkéntes tartalékos tagjaira.
 
 (3) A fegyveres biztonsági őrt az őrség működési területén, szolgálati úton, szállítmánykísérés során szolgálati igazolványa és jelvénye igazolja. A formaruhán ,,fegyveres biztonsági őr'' felirat helyezhető el. A munkáltatói hovatartozás a ruházat karrészén jelezhető.
 
@@ -316,9 +316,9 @@ kezeli.
 
 (3) Az (1) bekezdés c) pontja alapján rögzített adat csak a rögzítés helyszínén elkövetett bűncselekmény, szabálysértés miatt indult büntető-, szabálysértési vagy más hatósági eljárás során, vagy intézkedés jogszerűségének közigazgatási eljárásban történő vizsgálata céljából, valamint az érintett személy jogainak gyakorlása érdekében használható fel.
 
-(4) Az, akinek jogát vagy jogos érdekét az (1) bekezdés c) pontja alapján rögzített adat rögzítése érinti, a rögzítéstől számított harminc napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy az adatot a kezelője ne semmisítse meg, illetve ne törölje. A bíróság, az ügyészség, az NVVH, a nyomozó hatóság, a büntetőeljárás során eljáró előkészítő eljárást folytató szerv, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, a szabálysértési hatóság, a körözési eljárást folytató szerv, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság a rögzítéstől számított harminc napon belül kezdeményezhetik, hogy az adatot kezelője ne semmisítse meg, illetve ne törölje.
+(4) Az, akinek jogát vagy jogos érdekét az (1) bekezdés c) pontja alapján rögzített adat rögzítése érinti, a rögzítéstől számított harminc napon belül jogának vagy jogos érdekének igazolásával kérheti, hogy az adatot a kezelője ne semmisítse meg, illetve ne törölje. A bíróság, az ügyészség, az NVVH, a nyomozó hatóság, a büntetőeljárás során eljáró előkészítő eljárást folytató szerv, a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatkörében eljáró rendőrség, a szabálysértési hatóság, a körözési eljárást folytató szerv, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság a rögzítéstől számított harminc napon belül kezdeményezhetik, hogy az adatot kezelője ne semmisítse meg, illetve ne törölje.
 
-(5) Az (1) bekezdés c) pontja alapján rögzített adatot – a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági célból – a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, a büntetőeljárás során eljáró előkészítő eljárást folytató szerv, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv, a szabálysértési hatóság, a körözési eljárást folytató szerv, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy részére lehet átadni.
+(5) Az (1) bekezdés c) pontja alapján rögzített adatot – a jogszabályban meghatározott szabálysértési, bűnüldözési, igazságszolgáltatási, valamint nemzetbiztonsági célból – a bíróság, az ügyészség, az NVVH, a nyomozó hatóság, a büntetőeljárás során eljáró előkészítő eljárást folytató szerv, a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatkörében eljáró rendőrség, a szabálysértési hatóság, a körözési eljárást folytató szerv, a nemzetbiztonsági szolgálatok, nemzetközi jogsegély keretében külföldi hatóság, jogainak gyakorlása érdekében az érintett, valamint a jogszabály alapján eljárás kezdeményezésére irányuló jogának gyakorlása érdekében harmadik személy részére lehet átadni.
 
 (6) Az (1) bekezdés c) pontja alapján rögzített adatokat az (5) bekezdés szerinti felhasználás hiányában – ha jogszabály eltérően nem rendelkezik – a rögzítéstől számított harmincegyedik napon meg kell semmisíteni, illetve törölni kell.
 
@@ -381,7 +381,7 @@ alkalmazhat, illetve használhat.
 
 (5) A rendőrség a panaszról a beérkezését követő naptól számított tizenöt napon belül – a közigazgatási hatósági eljárás szabályai szerint – dönt.
 
-10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a Rendőrségről szóló törvény hatálya alá tartozó rendőri szervekkel, a hivatásos katasztrófavédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszerveivel, az önkormányzati és létesítményi tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal). Az atomenergia alkalmazása körében működő fegyveres biztonsági őrségek az Országos Atomenergia Hivatallal is együttműködnek.
+10/B. § A fegyveres biztonsági őrség tevékenysége során együttműködik a Rendőrségről szóló törvény hatálya alá tartozó rendőri szervekkel, a hivatásos katasztrófavédelmi szervvel, a Nemzeti Adó- és Vámhivatal vámszerveivel, az önkormányzati és létesítményi tűzoltósággal, a természetvédelmi őrszolgálattal, az erdészeti hatósággal, a vadászati hatósággal, a halászati hatósággal, az önkormányzati szervekkel, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával (a továbbiakban: járási hivatal). Az atomenergia alkalmazása körében működő fegyveres biztonsági őrségek az Országos Atomenergia Hivatallal is együttműködnek.
 
 10/C. § A munka törvénykönyvéről szóló 2012. évi I. törvény 86. § (1) bekezdésében foglalt rendelkezéstől eltérően a honvédelemért felelős miniszter által létrehozott fegyveres biztonsági őrségnél foglalkoztatott fegyveres biztonsági őr munkaidejéhez nem kell hozzászámítani az előírt formaruha fel- és levételének, valamint a fegyver átvételének és leadásának időtartamát.
 

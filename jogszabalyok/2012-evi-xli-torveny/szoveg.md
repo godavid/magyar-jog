@@ -10,7 +10,7 @@ a személyszállítási szolgáltatásokról
 
 [4] A jogalkotó célja, hogy a törvényben kifejtett elvek gyakorlatba ültetésével Magyarország közlekedési közszolgáltatási rendszerében egységes és logikus szabályozás szerint készüljenek a szolgáltatói menetrendek, valamint megszűnjenek a szolgáltatási színvonalban korábban tapasztalható egyenetlenségek és egyenlőtlenségek.
 
-[5] E törvény tartalmazza a különböző településtípusok esetében nyújtandó szolgáltatások mennyiségi és minőségi jellemzőit. Lépcsőzetesen – települési, járás- és vármegyeszékhelyi szinten, illetve a főváros és vonzáskörzete tekintetében – határozza meg, hol, milyen alapellátás biztosításával érvényesülnek a polgárok személyszállítási közszolgáltatásokkal kapcsolatos jogai.
+[5] E törvény tartalmazza a különböző településtípusok esetében nyújtandó szolgáltatások mennyiségi és minőségi jellemzőit. Lépcsőzetesen – települési, járás- és megyeszékhelyi szinten, illetve a főváros és vonzáskörzete tekintetében – határozza meg, hol, milyen alapellátás biztosításával érvényesülnek a polgárok személyszállítási közszolgáltatásokkal kapcsolatos jogai.
 
 [6] A személyszállítási közszolgáltatások igénybevételére vonatkozó alapvető joggal kapcsolatos törvény ezért a személyszállítási jogok legfőbb kódexe és kiindulópontja. A jövőben mobilitási közszolgáltatás csak e jogok tiszteletben tartásával és érvényesítésével szervezhető meg és működtethető Magyarországon.
 
@@ -94,7 +94,7 @@ a személyszállítási szolgáltatásokról
 - 24. menetrend szerinti személyszállítási szolgáltatás: személyek szállítására meghatározott rendszerességgel, meghatározott útvonalon, a fel- és leszállásra előzetesen kijelölt megállóhelyek között, vagy azok érintésével közlekedő, díj ellenében bárki által igénybe vehető járattal végzett vasúti, vízi vagy közúti személyszállítási szolgáltatás;
 - 25. nemzetközi személyszállítási szolgáltatás: olyan személyszállítási szolgáltatás, amelynek során a járat valamely, az Európai Gazdasági Térségről szóló megállapodásban részes állam (a továbbiakban: EGT-állam) legalább egy határán áthalad, és amelynek fő célja a különböző EGT-államok állomásai vagy megállóhelyei közötti személyszállítás; vasúti járművel végzett személyszállítás esetén a vonatot egyesíthetik és szétválaszthatják, továbbá a különböző vasúti szerelvények különböző kiindulási és célállomással rendelkezhetnek, feltéve hogy valamennyi vasúti kocsi legalább egy államhatáron áthalad;
 - 26. országos személyszállítási szolgáltatás: regionális, elővárosi vagy helyi személyszállítási szolgáltatásnak nem minősülő személyszállítási szolgáltatás;
-- 27. regionális személyszállítási szolgáltatás: a vármegye határán belül vagy a vármegyehatár átlépése esetén 100 km-t meg nem haladó, elővárosi személyszállítási szolgáltatásnak nem minősülő belföldi személyszállítási szolgáltatás;
+- 27. regionális személyszállítási szolgáltatás: a megye határán belül vagy a megyehatár átlépése esetén 100 km-t meg nem haladó, elővárosi személyszállítási szolgáltatásnak nem minősülő belföldi személyszállítási szolgáltatás;
 - 28. saját számlás személyszállítás: a jármű üzemeltetőjével munkavégzésre irányuló jogviszonyban álló személyek haszonszerzési cél nélkül, nem üzletszerűen és az üzemeltető által nem főtevékenységként végzett szállítása, amennyiben
   - a) az a személyszállítást végző üzemeltető tulajdonában lévő, tartósan bérelt vagy lízingelt járművel történik, és
   - b) a járművet a személyszállítást végző üzemeltető, annak tagja, a vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személy vezeti;
@@ -923,9 +923,9 @@ közfeladatainak egységes ellátására – az ellátásért felelős előzetes
 (4) Az országos, regionális és elővárosi személyszállítási közszolgáltatást igénybe vevő – az államháztartás teherbíró képességének keretein és az infrastrukturális adottságon belül, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott esetek kivételével, térítés ellenében – az alapellátás keretében legalább a következő szolgáltatások igénybevételére jogosult:
 
 - a) adott település és a járásközpont közötti közvetlen eljutási lehetőség,
-- b) a járásközpont és a vármegyeszékhely közötti közvetlen eljutási lehetőség,
-- c) a szomszédos vármegyeszékhelyek közötti közvetlen eljutási lehetőség, valamint
-- d) a főváros és a vármegyeszékhelyek közötti közvetlen eljutási lehetőség.
+- b) a járásközpont és a megyeszékhely közötti közvetlen eljutási lehetőség,
+- c) a szomszédos megyeszékhelyek közötti közvetlen eljutási lehetőség, valamint
+- d) a főváros és a megyeszékhelyek közötti közvetlen eljutási lehetőség.
 
 (4a) Az alapellátásban részesülő települési önkormányzattal egyeztetve a (4) bekezdés a) pontjában foglalt közvetlen eljutási lehetőséget a megrendelő eltérő járásközpontba vagy a gyakorlatban kialakult vonzáskörzeti központba is biztosíthatja.
 

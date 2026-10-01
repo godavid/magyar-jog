@@ -1108,7 +1108,7 @@ az ügyfélszolgálatán és a honlapján mindenki számára díjmentesen hozzá
 
 - a) a Koordináló szerv a hulladékgazdálkodási közszolgáltatással összefüggő (7) bekezdésben meghatározott,
 - b) a helyi önkormányzat – szükség esetén ideértve az önkormányzati társulást is – a hulladékgazdálkodási közszolgáltatással nem érintett hulladékgazdálkodási tevékenység ellátásába bevont önkormányzati vagyonelemekkel kapcsolatos, az önkormányzati vagyonkataszterben szereplő,
-- c) a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter – a fővárosi és vármegyei kormányhivatalok bevonásával – a nem hulladékgazdálkodási közszolgáltatási tevékenységet végző gazdálkodó szervezeteknek a hulladék gyűjtéséhez, szállításához, közvetítéséhez, kereskedelméhez és a hasznosítás kivételével a kezeléséhez igénybevett – ideértve a bérletet vagy lízinget is – vagyonelemek hulladékgazdálkodási engedélyében szereplő
+- c) a helyi önkormányzatok törvényességi felügyeletéért felelős miniszter – a fővárosi és megyei kormányhivatalok bevonásával – a nem hulladékgazdálkodási közszolgáltatási tevékenységet végző gazdálkodó szervezeteknek a hulladék gyűjtéséhez, szállításához, közvetítéséhez, kereskedelméhez és a hasznosítás kivételével a kezeléséhez igénybevett – ideértve a bérletet vagy lízinget is – vagyonelemek hulladékgazdálkodási engedélyében szereplő
 
 adatokat.
 
@@ -1870,7 +1870,7 @@ részére adható át.
 
 (4) Az e törvényben meghatározott hulladékgazdálkodási feladatok ellátása érdekében a 86. § (11) és (13) bekezdése szerinti szervezetek, valamint az utak és a vasutak vonatkozásában elhelyezett informatikai rendszerek adatgazdái kötelesek a hulladékgazdálkodási hatósággal szorosan együttműködni, és minden szükséges információt megadni a hulladékgazdálkodási hatóság hatékony tevékenységének elősegítése érdekében. E szervezetek a hulladékgazdálkodási hatóság megkeresésére a hulladékgazdálkodási hatóság rendelkezésére bocsátják a feladatkörükben tudomásra jutott, a hulladékgazdálkodás szempontjából jelentős áruforgalmi, rendészeti és határellenőrzési adatokat.
 
-(5) A miniszter szakmai irányító tevékenysége keretében a vármegyei kormányhivatalok – személyes adatok kivételével – adatgyűjtést végeznek, nyilvántartást vezetnek, valamint adatot küldenek a miniszternek az országos adatbázisok kialakítása és fenntartása érdekében.
+(5) A miniszter szakmai irányító tevékenysége keretében a megyei kormányhivatalok – személyes adatok kivételével – adatgyűjtést végeznek, nyilvántartást vezetnek, valamint adatot küldenek a miniszternek az országos adatbázisok kialakítása és fenntartása érdekében.
 
 78/C. § (1) A hulladékgazdálkodási hatóság a közigazgatási hatósági feladataival összefüggésben nyilvántartást vezet.
 

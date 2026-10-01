@@ -401,12 +401,12 @@ is felhasználható.
 
 (2) A kamara a feladatait
 
-- a) a vármegyékben és a fővárosban működő területi szervezetei (a továbbiakban együtt: területi szervezet), valamint
+- a) a megyékben és a fővárosban működő területi szervezetei (a továbbiakban együtt: területi szervezet), valamint
 - b) országos szervezete
 
 útján látja el.
 
-(3) Területi szervezetet több vármegye közösen is létrehozhat. Ez esetben az érintett vármegyékben külön vármegyei szervezetek nem hozhatók létre.
+(3) Területi szervezetet több megye közösen is létrehozhat. Ez esetben az érintett megyékben külön megyei szervezetek nem hozhatók létre.
 
 (4) A kamara területi szervezetei, valamint országos szervezete jogi személyek.
 
@@ -851,7 +851,7 @@ előzetesen rögzíti (a továbbiakban: előzetes rögzítés).
 
 (7) A tömegrendezvény szervezője az (1) bekezdés szerinti kötelezettség teljesítése érdekében rögzített adatokat
 
-- a) a Rendőrségről szóló törvény szerinti terrorizmust elhárító szerv,
+- a) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott, valamint a személyvédelmi vagy létesítménybiztosítási feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szerv,
 - b) a Rendőrségről szóló törvényben, valamint a Nemzeti Adó- és Vámhivatalról szóló törvényben meghatározott bűnmegelőzési célból folytatott titkos információgyűjtést végző szerv,
 - c) a büntetőeljárásról szóló törvényben meghatározott előkészítő eljárásban az előkészítő eljárást folytató szerv,
 - d) a büntetőeljárásról szóló törvény alapján folytatott büntetőeljárás során a nyomozó hatóság, az ügyészség, az NVVH és a bíróság, valamint

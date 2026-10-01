@@ -58,9 +58,9 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - 5. határ menti térség: országhatár menti járás vagy járások összessége, ahol az államhatár befolyással van az ott élők életére;
 - 6. Integrált Területi Program: Terület- és Településfejlesztési Operatív Program, a Versenyképes Közép-magyarországi Operatív Program, illetve a Terület- és Településfejlesztési Operatív Program Plusz területi szereplők számára allokált forrásainak felhasználását támogató területi programozási eszköz, ami lehetőséget ad az egyes intézkedésre eső forráskeret részbeni vagy teljes elosztására;
 - 7. kedvezményezett járások és települések: az érvényes területfejlesztési célok figyelembevételével, statisztikai jellemzők alapján meghatározott térségek köre, amelyek közigazgatási területén megvalósítani tervezett fejlesztési programok és projektek pénzügyi, gazdasági ösztönzőkkel kiemelten támogathatók;
-- 8. kiemelt térség: az Országgyűlés által meghatározott, egy vagy több vármegyére, illetve a fővárosra, vagy azok meghatározott területére kiterjedő, társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő térség, amely egységes tervezéséhez és fejlesztéséhez országos érdek fűződik;
-- 9. nagytérség: több vármegyét magába foglaló, összefüggő országrész, amely önálló fejlesztési stratégiával rendelkezik;
-- 10. nagytérségi területfejlesztési stratégia: a vármegyei területfejlesztési koncepciókat összefogó, azoknak, valamint a vármegyehatárokon átnyúló területi tervezésnek keretet adó tervdokumentum;
+- 8. kiemelt térség: az Országgyűlés által meghatározott, egy vagy több megyére, illetve a fővárosra, vagy azok meghatározott területére kiterjedő, társadalmi, gazdasági vagy környezeti szempontból együtt kezelendő térség, amely egységes tervezéséhez és fejlesztéséhez országos érdek fűződik;
+- 9. nagytérség: több megyét magába foglaló, összefüggő országrész, amely önálló fejlesztési stratégiával rendelkezik;
+- 10. nagytérségi területfejlesztési stratégia: a megyei területfejlesztési koncepciókat összefogó, azoknak, valamint a megyehatárokon átnyúló területi tervezésnek keretet adó tervdokumentum;
 - 11. operatív program: az Európai Unió pénzügyi tervezési időszakaihoz kapcsolódó, összefüggő prioritások mentén fejlesztési stratégiát meghatározó, strukturális és kohéziós alapok felhasználásával ágazati vagy területi szempontú fejlesztéseket finanszírozó terv, amelyet a Kormány döntése alapján, a tagállami benyújtást követően az Európai Bizottság hagy jóvá;
 - 12. partnerség elve: a többszintű kormányzási megközelítésre épül és biztosítja a regionális, helyi, városi és egyéb hatóságok, a civil társadalom, a gazdasági és a szociális partnerek, továbbá adott esetben a kutatószervezetek és az egyetemek részvételét;
 - 13. partnerségi megállapodás: tagállam által készített dokumentum, amely a 2021. január 1. és 2027. december 31. közötti időszakra vonatkozóan meghatározza az ERFA, az ESZA+, a Kohéziós Alap, az IÁA és az ETHAA programozásának stratégiai irányvonalát, valamint az ezen alapok hatékony és eredményes felhasználását szolgáló szabályozást;
@@ -135,10 +135,10 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - 12. gondoskodik – a területrendezésért felelős miniszter közreműködésével a – TeIR működéséről, valamint az adatszolgáltatás rendjéről;
 - 13. üzemelteti az ország egészére, továbbá a területfejlesztés beavatkozási térségeire kiterjedő területi monitoring rendszert és nyomon követés, értékelés során visszajelzést nyújt a programozási ciklus egyes fázisaihoz;
 - 14. együttműködik a területfejlesztésben érdekelt felsőoktatási intézményekkel, részt vesz szakmai képzések módszertanának, ismeretanyagának összeállításában;
-- 15. meghatározza a vármegyei önkormányzatok és a fővárosi önkormányzat, továbbá a térségi fejlesztési tanácsok területfejlesztési tevékenységében végzett beszámolási kötelezettségét, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működését;
-- 16. előzetesen állást foglal a vármegyei, illetve a fővárosi területfejlesztési koncepció és program tekintetében;
+- 15. meghatározza a megyei önkormányzatok és a fővárosi önkormányzat, továbbá a térségi fejlesztési tanácsok területfejlesztési tevékenységében végzett beszámolási kötelezettségét, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működését;
+- 16. előzetesen állást foglal a megyei, illetve a fővárosi területfejlesztési koncepció és program tekintetében;
 - 17. jóváhagyja az együtt kezelendő térség területfejlesztési programját;
-- 18. évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a vármegyei önkormányzatok és a fővárosi önkormányzat területfejlesztési feladatairól, valamint a térségi fejlesztési tanácsok működéséről.
+- 18. évente, a tárgyévet követő június 15-éig beszámol a Kormánynak a megyei önkormányzatok és a fővárosi önkormányzat területfejlesztési feladatairól, valamint a térségi fejlesztési tanácsok működéséről.
 
 (2) Az érintett miniszterek feladataik ellátása során érvényre juttatják az e törvényben rögzített célokat, részt vesznek a területfejlesztéssel összefüggő és szakterületüket érintő kormányzati feladatok ellátásában, különösen a területfejlesztési koncepciók és programok, területrendezési tervek feladatkörüket érintő munkarészeinek kidolgozásában, összehangolásában és érvényesítésében.
 
@@ -152,9 +152,9 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 
 (2) A Területfejlesztési Szolgálat stratégiai tervezést és programozást segítő feladatkörében
 
-- a) az OFTK-val összhangban – a vármegyei önkormányzatok, valamint a fővárosi önkormányzat bevonásával – részt vesz a nagytérségi területfejlesztési stratégia elkészítésében;
+- a) az OFTK-val összhangban – a megyei önkormányzatok, valamint a fővárosi önkormányzat bevonásával – részt vesz a nagytérségi területfejlesztési stratégia elkészítésében;
 - b) nagytérségi területfejlesztési stratégia alapján elkészíti – a kiemelt térségek kivételével – az együtt kezelendő térségekkel együttműködve azok területfejlesztési programjait külön figyelemmel arra, hogy lehetnek olyan együtt kezelendő térségek, amelyek átlépik a nagytérségi határokat, és összehangolt végrehajtást igényelnek;
-- c) előzetesen véleményezi az országos, valamint a vármegyét vagy a fővárost érintő ágazati fejlesztési koncepciókat és programokat a vármegyék, a megyei jogú városok önkormányzatai és fővárosi, valamint a kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevételével;
+- c) előzetesen véleményezi az országos, valamint a megyét vagy a fővárost érintő ágazati fejlesztési koncepciókat és programokat a megyék, a megyei jogú városok önkormányzatai és fővárosi, valamint a kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevételével;
 - d) a tervezés és a végrehajtás során gondoskodik a partnerség elvének érvényesítéséről;
 - e) elősegíti a területi tervezés módszertani megújítását, tudományos megalapozását és a tapasztalatok és a jó gyakorlatok megosztását ezzel elősegítve a fejlesztési-tervezési gyakorlat fejlődését.
 
@@ -170,7 +170,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - h) a települési önkormányzatok felkérése alapján elősegíti a helyi önkormányzatok területfejlesztési társulásainak szerveződését;
 - i) szakmai kapacitásával segíti a területfejlesztési önkormányzati társulások és a térségi fejlesztési tanácsok tervező, döntés-előkészítő tevékenységét;
 - j) a területfejlesztési programokhoz kapcsolódó egyeztetési és tájékoztatási feladatokat lát el;
-- k) figyelemmel kíséri az operatív programok megvalósítását, beleértve a határon átnyúló és más nemzetközi programok végrehajtását, a vármegyék és a megyei jogú városok önkormányzatai és a fővárosi és kerületi önkormányzatok bevonásával.
+- k) figyelemmel kíséri az operatív programok megvalósítását, beleértve a határon átnyúló és más nemzetközi programok végrehajtását, a megyék és a megyei jogú városok önkormányzatai és a fővárosi és kerületi önkormányzatok bevonásával.
 
 (4) A Területfejlesztési Szolgálat területi koordinációs feladatkörében
 
@@ -182,46 +182,46 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 
 ### III. Fejezet — A TERÜLETFEJLESZTÉST ELLÁTÓ TERÜLETI SZERVEK ÉS FELADATAIK
 
-#### 8. A vármegyei önkormányzat és a fővárosi önkormányzat területfejlesztési feladatai
+#### 8. A megyei önkormányzat és a fővárosi önkormányzat területfejlesztési feladatai
 
-10. § (1) A vármegyei önkormányzat és a fővárosi önkormányzat a területfejlesztési tervezéssel összefüggő feladatok ellátása keretében
+10. § (1) A megyei önkormányzat és a fővárosi önkormányzat a területfejlesztési tervezéssel összefüggő feladatok ellátása keretében
 
-- a) az OFTK-val összhangban – a megyei jogú városok önkormányzatainak, valamint a fővárosi kerületi önkormányzatok bevonásával – kidolgozza és határozattal elfogadja a vármegyei és a fővárosi területfejlesztési koncepciót, illetve – a vármegyei és a fővárosi területfejlesztési koncepció és a vármegyei területrendezési terv figyelembevételével – a vármegyei és a fővárosi területfejlesztési programot, a területfejlesztésért felelős miniszter állásfoglalásának beszerzésével;
+- a) az OFTK-val összhangban – a megyei jogú városok önkormányzatainak, valamint a fővárosi kerületi önkormányzatok bevonásával – kidolgozza és határozattal elfogadja a megyei és a fővárosi területfejlesztési koncepciót, illetve – a megyei és a fővárosi területfejlesztési koncepció és a megyei területrendezési terv figyelembevételével – a megyei és a fővárosi területfejlesztési programot, a területfejlesztésért felelős miniszter állásfoglalásának beszerzésével;
 - b) részt vesz az OFTK, valamint az operatív programok kidolgozásában, a megyei jogú városok önkormányzata és a fővárosi kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevétel;
-- c) előzetesen véleményezi az országos, valamint a vármegyét vagy a fővárost érintő ágazati fejlesztési stratégiákat, koncepciókat és akcióterveket a megyei jogú városok önkormányzata és fővárosi kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevételével;
+- c) előzetesen véleményezi az országos, valamint a megyét vagy a fővárost érintő ágazati fejlesztési stratégiákat, koncepciókat és akcióterveket a megyei jogú városok önkormányzata és fővárosi kerületi önkormányzatok kötelező bevonásával, észrevételeik figyelembevételével;
 - d) előzetesen véleményezi a területét érintő térségi fejlesztési programokat;
 - e) gondoskodik a partnerség elvének érvényesítéséről a tervezés és a végrehajtás során;
-- f) képviseli a vármegyét a határon átnyúló nemzetközi fejlesztési programjainak tervezésében, kidolgozásában;
+- f) képviseli a megyét a határon átnyúló nemzetközi fejlesztési programjainak tervezésében, kidolgozásában;
 - g) elkészíti a területi szempontú operatív program megvalósítása érdekében Integrált Területi Programot.
 
-(2) A vármegyei önkormányzat és a fővárosi önkormányzat a területfejlesztési programok végrehajtásával kapcsolatos feladatok ellátása keretében
+(2) A megyei önkormányzat és a fővárosi önkormányzat a területfejlesztési programok végrehajtásával kapcsolatos feladatok ellátása keretében
 
-- a) a Területfejlesztési Szolgálattal együttműködve nyomon követi és értékeli a vármegyei vagy fővárosi területfejlesztési koncepció és a vármegyei vagy fővárosi területfejlesztési programok végrehajtását;
+- a) a Területfejlesztési Szolgálattal együttműködve nyomon követi és értékeli a megyei vagy fővárosi területfejlesztési koncepció és a megyei vagy fővárosi területfejlesztési programok végrehajtását;
 - b) dönt a hatáskörébe utalt fejlesztési források felhasználásáról;
 - c) közreműködik – a monitoring bizottság vagy más döntéshozó szerv útján – a területi szempontú operatív programok irányításában, megvalósításuk végrehajtásában;
-- d) közreműködik a vármegyei önkormányzatokkal és az államigazgatási szervekkel együtt – a monitoring bizottság vagy más döntéshozó szerv útján – a határon átnyúló nemzetközi fejlesztési programok irányításában, részt vesz azok lebonyolításában, végrehajtásában;
-- e) gazdaságfejlesztési, befektetés-ösztönző tevékenységet lát el a vármegye gazdaságának és foglalkoztatásának fellendítése érdekében, e célból külön szervezetet hozhat létre vagy megállapodás alapján más szervezettel működhet együtt;
-- f) figyelemmel kíséri az operatív programok vármegyében vagy a fővárosban jelentkező feladatainak megvalósítását a megyei jogú városok önkormányzatai és a kerületi önkormányzatok bevonásával, észrevételeik figyelembevételével.
+- d) közreműködik a megyei önkormányzatokkal és az államigazgatási szervekkel együtt – a monitoring bizottság vagy más döntéshozó szerv útján – a határon átnyúló nemzetközi fejlesztési programok irányításában, részt vesz azok lebonyolításában, végrehajtásában;
+- e) gazdaságfejlesztési, befektetés-ösztönző tevékenységet lát el a megye gazdaságának és foglalkoztatásának fellendítése érdekében, e célból külön szervezetet hozhat létre vagy megállapodás alapján más szervezettel működhet együtt;
+- f) figyelemmel kíséri az operatív programok megyében vagy a fővárosban jelentkező feladatainak megvalósítását a megyei jogú városok önkormányzatai és a kerületi önkormányzatok bevonásával, észrevételeik figyelembevételével.
 
-(3) A vármegyei önkormányzat és a fővárosi önkormányzat területfejlesztési koordinációval kapcsolatos feladatok ellátása érdekében
+(3) A megyei önkormányzat és a fővárosi önkormányzat területfejlesztési koordinációval kapcsolatos feladatok ellátása érdekében
 
 - a) összehangolja a nemzetközi és határon átnyúló együttműködésből adódó feladatait, biztosítja azok összhangját;
 - b) a települési önkormányzatok felkérése alapján elősegíti a helyi önkormányzatok területfejlesztési társulásainak szerveződését;
 - c) szakmai kapacitásával segíti a területfejlesztési önkormányzati társulások és a térségi fejlesztési tanácsok fejlesztési célokat feltáró, pályázatokat megalapozó tevékenységét;
-- d) vizsgálja és értékeli a vármegye vagy a főváros társadalmi és gazdasági helyzetét, környezeti állapotát, adottságait, a vizsgálatok során felhasznált információkat és a vizsgálatok eredményeit a TeIR rendelkezésére bocsátja;
-- e) kölcsönös információcserével segíti a TeIR működését, információkat biztosít a területfejlesztési programok készítéséhez, valamint fogadja a törvényben szereplő vármegyei szintre delegált feladatok elvégzése érdekében a központi adatbázisok adatait;
-- f) együttműködik a települési önkormányzatokkal, a vármegye fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, az érdekelt civil és szakmai szervezetekkel.
+- d) vizsgálja és értékeli a megye vagy a főváros társadalmi és gazdasági helyzetét, környezeti állapotát, adottságait, a vizsgálatok során felhasznált információkat és a vizsgálatok eredményeit a TeIR rendelkezésére bocsátja;
+- e) kölcsönös információcserével segíti a TeIR működését, információkat biztosít a területfejlesztési programok készítéséhez, valamint fogadja a törvényben szereplő megyei szintre delegált feladatok elvégzése érdekében a központi adatbázisok adatait;
+- f) együttműködik a települési önkormányzatokkal, a megye fejlesztésében közvetlenül és közvetve közreműködő területi államigazgatási szervekkel, az érdekelt civil és szakmai szervezetekkel.
 
-(4) A vármegyei önkormányzat a vidékfejlesztési koordinációval kapcsolatos feladatok ellátása érdekében
+(4) A megyei önkormányzat a vidékfejlesztési koordinációval kapcsolatos feladatok ellátása érdekében
 
-- a) összehangolja a vidékfejlesztési stratégiákat és akciókat a vármegyei fejlesztési és területfejlesztési koncepciókkal és programokkal;
-- b) előzetesen állást foglal a vármegye területét érintő vidékfejlesztési stratégiák, akciók tekintetében;
+- a) összehangolja a vidékfejlesztési stratégiákat és akciókat a megyei fejlesztési és területfejlesztési koncepciókkal és programokkal;
+- b) előzetesen állást foglal a megye területét érintő vidékfejlesztési stratégiák, akciók tekintetében;
 - c) elláthatja a helyi akciócsoportok, a közösségvezérelt helyi fejlesztésben érintett szervezetek munkaszervezeti feladatait;
 - d) részt vehet a helyi akciócsoportok és a közösségvezérelt helyi fejlesztésben érintett szervezetek tevékenységében;
 - e) külön megállapodás alapján a vidékfejlesztési akciók végrehajtása során koordinációs és döntéshozatali feladatokat láthat el;
 - f) nyomon követi és értékeli a vidékfejlesztési akciók lebonyolítását és monitoring bizottsági feladatokat lát el a programok végrehajtásához kapcsolódóan.
 
-(5) Az (1) bekezdés a) pontja szerinti vármegyei, illetve fővárosi területfejlesztési koncepció és program a területfejlesztésért felelős miniszter állásfoglalásának beszerzését követően fogadható el. Az állásfoglalást a területfejlesztésért felelős miniszter az állásfoglalást kérő irat beérkezését követő 30 napon belül adja ki. Ha e határidőn belül nem történik meg az állásfoglalás kiadása, akkor az állásfoglalást egyetértőnek kell tekinteni.
+(5) Az (1) bekezdés a) pontja szerinti megyei, illetve fővárosi területfejlesztési koncepció és program a területfejlesztésért felelős miniszter állásfoglalásának beszerzését követően fogadható el. Az állásfoglalást a területfejlesztésért felelős miniszter az állásfoglalást kérő irat beérkezését követő 30 napon belül adja ki. Ha e határidőn belül nem történik meg az állásfoglalás kiadása, akkor az állásfoglalást egyetértőnek kell tekinteni.
 
 #### 9. A térségi fejlesztési tanács
 
@@ -235,7 +235,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 
 (5) A térségi fejlesztési tanács működtetését a tagok által képviselt szervezetek befizetései és egyéb bevételek biztosítják. A működtetéshez a központi költségvetés támogatást nem nyújt.
 
-(6) A térségi fejlesztési tanács működésének törvényességi felügyeletét a térségi fejlesztési tanács székhelye szerint illetékes fővárosi vagy vármegyei kormányhivatal látja el. Ennek keretében a kormányhivatal kezdeményezheti az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 68/B. §-a szerinti kincstári ellenőrzést, valamint a térségi fejlesztési tanácsok gazdálkodását érintően tájékoztathatja az Állami Számvevőszéket az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 23. § (2) bekezdésében foglalt feladatkörét érintő intézkedés érdekében.
+(6) A térségi fejlesztési tanács működésének törvényességi felügyeletét a térségi fejlesztési tanács székhelye szerint illetékes fővárosi vagy megyei kormányhivatal látja el. Ennek keretében a kormányhivatal kezdeményezheti az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 68/B. §-a szerinti kincstári ellenőrzést, valamint a térségi fejlesztési tanácsok gazdálkodását érintően tájékoztathatja az Állami Számvevőszéket az Állami Számvevőszékről szóló 2011. évi LXVI. törvény 23. § (2) bekezdésében foglalt feladatkörét érintő intézkedés érdekében.
 
 (7) A térségi fejlesztési tanács
 
@@ -244,19 +244,19 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - c) az OFTK-val összhangban kidolgozza a térség területfejlesztési koncepcióját és programját;
 - d) megállapodást köthet az érintett miniszterekkel a térségi fejlesztési program finanszírozásáról;
 - e) figyelemmel kíséri az operatív programok térséget érintő feladatainak végrehajtását, erre irányuló kormányzati döntés esetén közreműködik az operatív programok térséget érintő feladatainak végrehajtásában;
-- f) előzetesen véleményezi az illetékességi területe szerinti vármegyék területfejlesztési koncepcióját és programját;
+- f) előzetesen véleményezi az illetékességi területe szerinti megyék területfejlesztési koncepcióját és programját;
 - g) tevékenységéről a tárgyévet követő év március 31-éig beszámolót készít, amelyet megküld a területfejlesztésért felelős miniszternek.
 
 12. § (1) A térségi fejlesztési tanács tagjai
 
-- a) a térségi fejlesztési tanács illetékességi területén működő vármegyei közgyűlés elnöke és a vármegyei közgyűlés egy további delegáltja;
+- a) a térségi fejlesztési tanács illetékességi területén működő megyei közgyűlés elnöke és a megyei közgyűlés egy további delegáltja;
 - b) a területfejlesztésért felelős miniszter képviselője.
 
 (2) A térségi fejlesztési tanács ülésein állandó meghívottként részt vesz
 
 - a) a térségi fejlesztési tanács illetékességi területe szerinti
   - aa) területi gazdasági kamarák egy-egy képviselője;
-  - ab) vármegyei kormányhivatalok vezetője és állami főépítésze;
+  - ab) megyei kormányhivatalok vezetője és állami főépítésze;
 - b) a gazdaságfejlesztésért felelős miniszter képviselője.
 
 (3) A térségi fejlesztési tanács üléseire a tanács döntése alapján egyéb, a feladatellátásban érdekelt szervezetek is meghívást kaphatnak.
@@ -316,7 +316,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - e) a kormányzati stratégiák kidolgozásának támogatásáért felelős miniszter képviselője;
 - f) a területrendezésért felelős miniszter képviselője;
 - g) az egészségügyért felelős miniszter képviselője;
-- h) a szociálpolitikáért felelős miniszter képviselője;
+- h)
 - i) a köznevelésért felelős miniszter képviselője;
 - j) a vízgazdálkodásért és a vízvédelemért felelős miniszter képviselője;
 - k) a felsőoktatásért felelős miniszter képviselője;
@@ -342,7 +342,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 (6) A Szigetköz Fejlesztési Tanács tagjai:
 
 - a) a 12. § (1) bekezdése szerinti tagok;
-- b) a térségi fejlesztési tanács illetékességi területén működő vármegyei közgyűlés további két delegáltja;
+- b) a térségi fejlesztési tanács illetékességi területén működő megyei közgyűlés további két delegáltja;
 - c) az európai uniós források felhasználásáért felelős miniszter képviselője;
 - d) az aktív Magyarországért felelős miniszter képviselője;
 - e) az állami beruházásokért felelős miniszter képviselője;
@@ -375,8 +375,8 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 - d) operatív program;
 - e) kiemelt térség területfejlesztési programja;
 - f) a nem kiemelt térségekben működő térségi fejlesztési tanácsok által a 11. § (7) bekezdés c) pontja alapján készített területfejlesztési koncepció és program;
-- g) vármegyei és fővárosi területfejlesztési koncepció és területfejlesztési program;
-- h) vármegyei és fővárosi Integrált Területi Program;
+- g) megyei és fővárosi területfejlesztési koncepció és területfejlesztési program;
+- h) megyei és fővárosi Integrált Területi Program;
 - i) együtt kezelendő térség területfejlesztési programja.
 
 (2) Az (1) bekezdés szerinti tervek egymásra épülő rendszert alkotnak. A felsorolásban hátrébb álló, kisebb területi szintű tervnek meg kell felelnie a felsorolásban előrébb álló, magasabb területi szintű terv célrendszerével, azzal ellentétes elemet nem tartalmazhat.
@@ -391,7 +391,7 @@ Magyarország kiegyensúlyozott területi fejlődése, az ország térségeit je
 
 (2) Az országos szintű területfejlesztési és fejlesztési koncepció tartalmazza az egyes szakpolitikai stratégiák hosszú és középtávú irányait.
 
-(3) A települési szintű terveknek meg kell felelnie a vármegyei szintű területfejlesztési koncepciónak és területrendezési tervnek.
+(3) A települési szintű terveknek meg kell felelnie a megyei szintű területfejlesztési koncepciónak és területrendezési tervnek.
 
 (4) Az ágazati terveknek az OFTK-ból levezethető területi célokat kijelölő tartalommal kell rendelkezniük.
 
@@ -437,7 +437,7 @@ amely a területi tervek alapján valósul meg.
 
 20. § (1) Az egyes szakpolitikai stratégiák és a hálózati fejlesztési terv szakpolitikai tartalmat adnak az országos területrendezési terv kidolgozásához.
 
-(2) A települési szintű terveknek meg kell felelnie a vármegyei szintű területfejlesztési koncepciónak és – a tervhierarchia figyelembevételével – a területrendezési tervnek.
+(2) A települési szintű terveknek meg kell felelnie a megyei szintű területfejlesztési koncepciónak és – a tervhierarchia figyelembevételével – a területrendezési tervnek.
 
 #### 14. A területrendezésért felelős központi állami szervek feladat-és hatásköre
 
@@ -474,47 +474,47 @@ amely a területi tervek alapján valósul meg.
 
 (2) A településfejlesztésért és településrendezésért felelős miniszter javaslatot tesz a kedvezményezett települések besorolásának feltételrendszerére és besorolására a területfejlesztésért felelős miniszter közreműködésével.
 
-#### 16. A vármegyei önkormányzat és a fővárosi önkormányzat területrendezési feladatai
+#### 16. A megyei önkormányzat és a fővárosi önkormányzat területrendezési feladatai
 
-25. § (1) A vármegyei önkormányzat és a fővárosi önkormányzat a területfejlesztési koordinációval kapcsolatos feladatok ellátása érdekében kölcsönös információcserével segíti a TeIR működését, információkat biztosít a területi tervek készítéséhez, valamint fogadja a törvényben szereplő vármegyei szintre delegált feladatok elvégzése érdekében a központi adatbázisok adatait.
+25. § (1) A megyei önkormányzat és a fővárosi önkormányzat a területfejlesztési koordinációval kapcsolatos feladatok ellátása érdekében kölcsönös információcserével segíti a TeIR működését, információkat biztosít a területi tervek készítéséhez, valamint fogadja a törvényben szereplő megyei szintre delegált feladatok elvégzése érdekében a központi adatbázisok adatait.
 
-(2) A vármegyei önkormányzat területrendezési feladatkörében
+(2) A megyei önkormányzat területrendezési feladatkörében
 
 - a) előzetesen véleményezi az országos, valamint a területét érintő területrendezési terveket,
-- b) az érintett települési önkormányzatok és a megyei jogú városok önkormányzata kötelező bevonásával, észrevételeik figyelembevételével – az országos területrendezési tervvel összhangban – elfogadja a vármegye területrendezési tervét, amely – a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényben rögzített egyedileg meghatározott vármegyei övezet kivételével – nem terjed ki a 21. § a) pontjában meghatározott kiemelt térségek területére,
+- b) az érintett települési önkormányzatok és a megyei jogú városok önkormányzata kötelező bevonásával, észrevételeik figyelembevételével – az országos területrendezési tervvel összhangban – elfogadja a megye területrendezési tervét, amely – a Magyarország és egyes kiemelt térségeinek területrendezési tervéről szóló törvényben rögzített egyedileg meghatározott megyei övezet kivételével – nem terjed ki a 21. § a) pontjában meghatározott kiemelt térségek területére,
 - c) a tervezés és a végrehajtás során gondoskodik a partnerség elvének érvényesítéséről,
-- d) együttműködik a többi érintett vármegyei önkormányzattal a 21. § a) pontja alá nem tartozó kiemelt térségek összehangolt tervezése érdekében,
+- d) együttműködik a többi érintett megyei önkormányzattal a 21. § a) pontja alá nem tartozó kiemelt térségek összehangolt tervezése érdekében,
 - e) megküldi az elfogadott területrendezési terv kihirdetésétől számított 15 napon belül a terv elfogadásáról szóló rendeletet a rajzi munkarészek vektoros állományaival együtt a dokumentációk gyűjtésére e törvény felhatalmazása alapján kiadott kormányrendeletben kijelölt szervnek.
 
 (3) A fővárosi önkormányzat területrendezési feladatkörében
 
 - a) közreműködik a Budapesti Agglomeráció területrendezési tervének kidolgozásában és egyeztetésében,
-- b) előzetesen véleményezi az országos területrendezési tervet és Pest vármegye területrendezési tervét,
+- b) előzetesen véleményezi az országos területrendezési tervet és Pest megye területrendezési tervét,
 - c) a tervezés és a végrehajtás során gondoskodik a partnerség elvének érvényesítéséről.
 
 (4) A fővárosi kerületi önkormányzat
 
 - a) részt vesz a Budapesti Agglomeráció területrendezési tervének egyeztetésében,
-- b) előzetesen véleményezi az országos területrendezési tervet és Pest vármegye területrendezési tervét.
+- b) előzetesen véleményezi az országos területrendezési tervet és Pest megye területrendezési tervét.
 
-26. § A vármegyei önkormányzat koordinációs feladatkörében
+26. § A megyei önkormányzat koordinációs feladatkörében
 
-- a) összehangolja a vidékfejlesztési stratégiákat és akciókat a vármegyét érintő területrendezési tervekkel,
-- b) koncepcionálisan összehangolja az illetékességi területéhez tartozó települések településrendezési terveinek kidolgozását a vármegyei területrendezési tervhez való illeszkedésük érdekében,
-- c) előzetesen véleményezi a vármegye településeinek településrendezési terveit, különösen a vármegyei területfejlesztési koncepcióhoz és programhoz való illeszkedésük érdekében,
-- d) véleményezi az illetékességi területéhez tartozó települések településrendezési terveit, a vármegyei területrendezési tervvel való összhang megteremtése érdekében.
+- a) összehangolja a vidékfejlesztési stratégiákat és akciókat a megyét érintő területrendezési tervekkel,
+- b) koncepcionálisan összehangolja az illetékességi területéhez tartozó települések településrendezési terveinek kidolgozását a megyei területrendezési tervhez való illeszkedésük érdekében,
+- c) előzetesen véleményezi a megye településeinek településrendezési terveit, különösen a megyei területfejlesztési koncepcióhoz és programhoz való illeszkedésük érdekében,
+- d) véleményezi az illetékességi területéhez tartozó települések településrendezési terveit, a megyei területrendezési tervvel való összhang megteremtése érdekében.
 
 #### 17. A területi államigazgatási szervek feladatai
 
 27. § (1) A területi államigazgatási szervek területrendezéssel összefüggő kormányzati feladatok végrehajtásában, érvényesítésének ellenőrzésében, a térségi fejlesztés és tervezés koordinálásában szakmai segítségnyújtással és információszolgáltatással, valamint hatósági ellenőrzéssel vesznek részt.
 
-(2) A területrendezésért felelős miniszter feladatkörébe tartozó egyes területrendezési hatósági eljárással összefüggő hatósági feladatokat az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal látja el.
+(2) A területrendezésért felelős miniszter feladatkörébe tartozó egyes területrendezési hatósági eljárással összefüggő hatósági feladatokat az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal látja el.
 
-(3) Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal
+(3) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal
 
 - a) véleményezi illetékességi területén a területrendezési tervek tervezetét, és indokolt esetben javaslatot tehet a területrendezési tervek módosítására,
 - b) véleményezi az országos, valamint az illetékességi területét érintő, 14. § (1) bekezdés d)–h) pontjában foglalt területi tervek tervezetét és azoknak a területrendezési tervekkel való összhangját,
-- c) nyilatkozik a vármegyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési terveknek az országos, a kiemelt térségi, a vármegyei és a különös szabályozást igénylő területre készülő területrendezési tervekkel való összhangjáról.
+- c) nyilatkozik a megyei területrendezési tervnek az országos és a kiemelt térségi tervekkel, továbbá a településrendezési terveknek az országos, a kiemelt térségi, a megyei és a különös szabályozást igénylő területre készülő területrendezési tervekkel való összhangjáról.
 
 #### 18. A területrendezés céljainak érvényesülését biztosító tervek
 
@@ -522,16 +522,16 @@ amely a területi tervek alapján valósul meg.
 
 - a) országos területrendezési terv,
 - b) kiemelt térségi területrendezési terv, amely legalább a Budapesti Agglomeráció és a Balaton Kiemelt Üdülőkörzet területére vonatkozóan készül,
-- c) vármegyei területrendezési terv,
+- c) megyei területrendezési terv,
 - d) különös szabályozást igénylő területre készülő területrendezési terv, amely legalább a Balaton vízparti területeire készül.
 
-(2) Az (1) bekezdés szerinti területrendezési tervek, továbbá a településrendezési tervek egymásra épülő rendszert alkotnak. A kiemelt térség és a vármegye területrendezési terve nem lehet ellentétes az ország területrendezési tervével. A különös szabályozást igénylő területre készülő területrendezési terv nem lehet ellentétes az ország területrendezési tervével és a kiemelt térségi vagy a vármegyei területrendezési tervvel.
+(2) Az (1) bekezdés szerinti területrendezési tervek, továbbá a településrendezési tervek egymásra épülő rendszert alkotnak. A kiemelt térség és a megye területrendezési terve nem lehet ellentétes az ország területrendezési tervével. A különös szabályozást igénylő területre készülő területrendezési terv nem lehet ellentétes az ország területrendezési tervével és a kiemelt térségi vagy a megyei területrendezési tervvel.
 
 (3) A települési tervnek meg kell felelnie
 
-- a) a vármegyei szintű területfejlesztési koncepciónak,
+- a) a megyei szintű területfejlesztési koncepciónak,
 - b) az országos területrendezési tervnek,
-- c) a kiemelt térségi területrendezési tervnek vagy a vármegyei területrendezési tervnek és
+- c) a kiemelt térségi területrendezési tervnek vagy a megyei területrendezési tervnek és
 - d) a különös szabályozást igénylő területre készülő területrendezési tervnek.
 
 (4) A területrendezési terv tartalmazza
@@ -540,36 +540,36 @@ amely a területi tervek alapján valósul meg.
 - b) a térségi övezeti tervlapokat és
 - c) a területrendezési szabályozási előírásokat.
 
-29. § (1) A kiemelt térség és vármegye területrendezési terve a térség területi határát, térségi szerkezeti tervét, térségi övezeteit és területrendezési szabályzatát foglalja magában, továbbá tartalmazhat ajánlásokat és intézkedési javaslatot.
+29. § (1) A kiemelt térség és megye területrendezési terve a térség területi határát, térségi szerkezeti tervét, térségi övezeteit és területrendezési szabályzatát foglalja magában, továbbá tartalmazhat ajánlásokat és intézkedési javaslatot.
 
-(2) Az ország és a kiemelt térség területrendezési terveit egy időben kell készíteni. A vármegye területrendezési tervét, illetve annak módosítását az ország és a kiemelt térség területrendezési terve átfogó módosításának elfogadását követő egy éven belül kell elfogadni.
+(2) Az ország és a kiemelt térség területrendezési terveit egy időben kell készíteni. A megye területrendezési tervét, illetve annak módosítását az ország és a kiemelt térség területrendezési terve átfogó módosításának elfogadását követő egy éven belül kell elfogadni.
 
 (3) A területrendezési tervek felülvizsgálata legalább hétévente, az európai uniós tervezési ciklushoz igazodóan történik. Az ország területrendezési tervét az OFTK elfogadását követő egy éven belül el kell fogadni.
 
 #### 19. A területrendezési terv készítésére és elfogadására vonatkozó eljárási szabályok
 
-30. § (1) Az ország, a kiemelt térség és a vármegye területrendezési tervének, valamint a különös szabályozást igénylő területre készülő területrendezési tervnek a tervezetét egyeztetni kell az e törvény végrehajtására kiadott kormányrendeletben meghatározott államigazgatási, önkormányzati és érdek-képviseleti szervekkel. A véleményezésre a területrendezési terv tervezetének kézbesítésétől számított legalább egy hónap határidőt kell biztosítani.
+30. § (1) Az ország, a kiemelt térség és a megye területrendezési tervének, valamint a különös szabályozást igénylő területre készülő területrendezési tervnek a tervezetét egyeztetni kell az e törvény végrehajtására kiadott kormányrendeletben meghatározott államigazgatási, önkormányzati és érdek-képviseleti szervekkel. A véleményezésre a területrendezési terv tervezetének kézbesítésétől számított legalább egy hónap határidőt kell biztosítani.
 
 (2) Az ország területrendezési tervét meg kell küldeni – a külpolitikáért felelős miniszter útján – a szomszédos országok területrendezésért felelős minisztereinek.
 
-(3) A vármegyei területrendezési terv tervjavaslatát és a vármegyei területrendezési terv elfogadásáról szóló rendelettervezetet az egyeztetést követően az elfogadott és el nem fogadott vélemények indoklásával együtt állásfoglalásra meg kell küldeni a területrendezésért felelős miniszternek.
+(3) A megyei területrendezési terv tervjavaslatát és a megyei területrendezési terv elfogadásáról szóló rendelettervezetet az egyeztetést követően az elfogadott és el nem fogadott vélemények indoklásával együtt állásfoglalásra meg kell küldeni a területrendezésért felelős miniszternek.
 
-(4) A rendelettervezethez csatolni kell az állami főépítész nyilatkozatát a vármegyei területrendezési tervnek az országos és a kiemelt térségi területrendezési tervekkel való összhangjáról. Az állami főépítész a vármegyei területrendezési terv tervezetének kézbesítésétől számított 15 napon belül adja ki nyilatkozatát, ha e határidőn belül nem nyilatkozik, nyilatkozatát egyetértőnek kell tekinteni.
+(4) A rendelettervezethez csatolni kell az állami főépítész nyilatkozatát a megyei területrendezési tervnek az országos és a kiemelt térségi területrendezési tervekkel való összhangjáról. Az állami főépítész a megyei területrendezési terv tervezetének kézbesítésétől számított 15 napon belül adja ki nyilatkozatát, ha e határidőn belül nem nyilatkozik, nyilatkozatát egyetértőnek kell tekinteni.
 
-(5) A vármegyei önkormányzat a területrendezési tervről szóló rendeletét a területrendezésért felelős miniszter állásfoglalásának beszerzését követően fogadhatja el. A területrendezésért felelős miniszter a vármegyei területrendezési terv tervezetének kézbesítésétől számított egy hónapon belül adja ki állásfoglalását, ha e határidőn belül nem nyilatkozik, úgy állásfoglalását egyetértőnek kell tekinteni.
+(5) A megyei önkormányzat a területrendezési tervről szóló rendeletét a területrendezésért felelős miniszter állásfoglalásának beszerzését követően fogadhatja el. A területrendezésért felelős miniszter a megyei területrendezési terv tervezetének kézbesítésétől számított egy hónapon belül adja ki állásfoglalását, ha e határidőn belül nem nyilatkozik, úgy állásfoglalását egyetértőnek kell tekinteni.
 
-(6) A vármegyei jegyző a terv elfogadásáról szóló rendeletet előzményeivel, azaz a vármegyei területrendezési terv tervezetével, az elfogadott és el nem fogadott vélemények indokolásával, az állami főépítész nyilatkozatával és a területrendezésért felelős miniszter állásfoglalásával együtt küldi meg a kormányhivatalnak. Ha a (4) bekezdés szerinti állami főépítészi nyilatkozat nem vagy nem határidőre került kiadásra, azt nem kell csatolni a rendelet előzményeihez.
+(6) A megyei jegyző a terv elfogadásáról szóló rendeletet előzményeivel, azaz a megyei területrendezési terv tervezetével, az elfogadott és el nem fogadott vélemények indokolásával, az állami főépítész nyilatkozatával és a területrendezésért felelős miniszter állásfoglalásával együtt küldi meg a kormányhivatalnak. Ha a (4) bekezdés szerinti állami főépítészi nyilatkozat nem vagy nem határidőre került kiadásra, azt nem kell csatolni a rendelet előzményeihez.
 
 (7) A területrendezési tervek rajzi munkarészeit egységes országos vetületi rendszerben, vektoros állományokkal, térinformatikai rendszerben kell elkészíteni.
 
-(8) A földmérési és térinformatikai államigazgatási szerv a területrendezésért felelős miniszter, valamint a vármegyei önkormányzat számára térítésmentesen biztosítja a Mezőgazdasági Parcella Azonosító Rendszer felszínborítási rétegét a területrendezési tervek készítéséhez szükséges adattartalommal.
+(8) A földmérési és térinformatikai államigazgatási szerv a területrendezésért felelős miniszter, valamint a megyei önkormányzat számára térítésmentesen biztosítja a Mezőgazdasági Parcella Azonosító Rendszer felszínborítási rétegét a területrendezési tervek készítéséhez szükséges adattartalommal.
 
 #### 20. A területrendezési hatósági eljárások általános szabályai és az eljárások keretében kiadható térségi területfelhasználási engedélyek
 
-31. § (1) Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal területrendezési hatósági eljárás keretében kiadott térségi területfelhasználási engedélye szükséges
+31. § (1) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal területrendezési hatósági eljárás keretében kiadott térségi területfelhasználási engedélye szükséges
 
 - a) a területrendezési tervekben nem szereplő, az e törvény felhatalmazása alapján kiadott kormányrendeletben meghatározott műszaki infrastruktúrahálózatok és egyedi építmények területi elhelyezéséhez,
-- b) a településrendezési terv hiányában vagy a tervi elem településrendezési mélységű lehatárolásának hiányában a kiemelt térségi vagy a vármegyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosításához,
+- b) a településrendezési terv hiányában vagy a tervi elem településrendezési mélységű lehatárolásának hiányában a kiemelt térségi vagy a megyei területrendezési terv övezeti tervlapjain meghatározott övezeti határok és a térségi szerkezeti tervben meghatározott műszaki infrastruktúrahálózatok nyomvonalainak településrendezési mélységű pontosításához,
 - c) a kiváló termőhelyi adottságú szántóterület övezetében, a magterület övezetében, az ökológiai folyosó övezetében, valamint a kiemelt térség területrendezési tervére vonatkozó törvény hatálya alá tartozó település közigazgatási határától számított 200 méternél közelebbi területen a beépítésre szánt terület kivételes kijelöléséhez,
 - d) a Budapesti Agglomeráció Területrendezési Tervének hatálya alá tartozó települések területén a területcseréhez.
 
@@ -577,15 +577,15 @@ amely a területi tervek alapján valósul meg.
 
 (3) A térségi területfelhasználási engedély kiadása – az összhang igazolására vonatkozó kérelem kivételével – csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival, a magyar építészetről szóló törvényben foglalt követelményekkel vagy a termőföld védelméről szóló 2007. évi CXXIX. törvény 6/B. §-ával és 8. §-ával.
 
-(4) Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal a területrendezési hatósági eljárást követően a térségi területfelhasználási engedélyt, valamint annak mellékleteként az engedélyezési tervdokumentációt közli a vármegyei önkormányzattal.
+(4) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a területrendezési hatósági eljárást követően a térségi területfelhasználási engedélyt, valamint annak mellékleteként az engedélyezési tervdokumentációt közli a megyei önkormányzattal.
 
-(5) A kiemelt térségi területrendezési tervvel vagy vármegyei területrendezési tervvel összhangban nem lévő településrendezési tervet az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal térségi területfelhasználási engedélye birtokában a területrendezési tervvel összhangban lévőnek kell tekinteni, a vármegyei területrendezési terv előzetes módosítása nem szükséges.
+(5) A kiemelt térségi területrendezési tervvel vagy megyei területrendezési tervvel összhangban nem lévő településrendezési tervet az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal térségi területfelhasználási engedélye birtokában a területrendezési tervvel összhangban lévőnek kell tekinteni, a megyei területrendezési terv előzetes módosítása nem szükséges.
 
-(6) Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal a területrendezési hatósági eljárásban kiadott térségi területfelhasználási engedélyekről nyilvántartást vezet.
+(6) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal a területrendezési hatósági eljárásban kiadott térségi területfelhasználási engedélyekről nyilvántartást vezet.
 
 (7) A kiadott térségi területfelhasználási engedélyek okán felmerülő – az országos és a kiemelt térségi területrendezési terveket érintő – területhasználati változásokat a területrendezésért felelős miniszter – amennyiben a kiadott térségi területfelhasználási engedélyek számossága ezt indokolja – évente rendeletében kihirdeti.
 
-32. § Az állami főépítészi hatáskörében eljáró fővárosi és vármegyei kormányhivatal felügyeleti szerve a területrendezésért felelős miniszter.
+32. § Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal felügyeleti szerve a területrendezésért felelős miniszter.
 
 33. § A területrendezéssel összefüggésben megőrzendő dokumentumok gyűjtéséről, határozatlan idejű megőrzéséről, nyilvántartásáról és hasznosításáról a területrendezésért felelős miniszter gondoskodik.
 
@@ -652,7 +652,7 @@ rendeletben állapítsa meg.
 (2) Felhatalmazást kap a helyi önkormányzat, hogy
 
 - a) a területfejlesztési és vidékfejlesztési koordináció részletes szabályait, valamint
-- b) a vármegyei területrendezési tervet
+- b) a megyei területrendezési tervet
 
 rendeletben állapítsa meg.
 

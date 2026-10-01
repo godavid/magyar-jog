@@ -602,13 +602,15 @@ amennyiben az a)–c) pont szerinti adatok az (1) bekezdés szerinti tevékenys�
 
 - a) büntetőügyben a bíróság, az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), a nyomozó hatóság, az előkészítő eljárást folytató szerv, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági ügyben a közigazgatási hatóság, az ügyészség a bíróság, az igazságügyi szakértő,
 - b) szabálysértési eljárás során az eljárást lefolytató szervek,
-- c) hadköteles személy esetén a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
+- c) hadköteles személy esetén a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek, valamint a katonai egészségügyi alkalmasságot megállapító bizottság,
 - d) a nemzetbiztonsági szolgálatok, a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
 - e) a Magyar Honvédség központi nyilvántartó szerve és a területi katonai igazgatási szervek, a kiképzett hadkötelesek békeidőszakban történő hadi beosztásra történő kiírása és a kiképzett hadkötelesek gyors és differenciált behívása érdekében, a honvédelemről szóló törvényben meghatározott körben,
 - f) az egészségügyi dolgozóval szemben folyamatban lévő etikai eljárás során az eljárás lefolytatása hatáskörrel és illetékességgel rendelkező kamarai szerv,
-- g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szervek a törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
+- g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv a törvényben meghatározott feladatok ellátása érdekében, az abban kapott felhatalmazás körében,
 - h) halottvizsgálat során a halottvizsgálatot végző orvos,
 - i) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben, valamint a polgári légiközlekedési balesetek és repülőesemények vizsgálatáról és megelőzéséről és a 94/56/EK irányelv hatályon kívül helyezéséről szóló, 2010. október 20-i 996/2010/EU európai parlamenti és tanácsi rendeletben meghatározott szakmai vizsgálat során a közlekedésbiztonsági szerv.
+- j) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatkörében eljáró rendőri szerv,
+- k) a személyvédelmi vagy létesítménybiztosítási feladatokat ellátó rendőri szerv.
 
 (2) A megkeresésben vagy adatkérésben az adatkezelés pontos célját és a kért adatok körét meg kell jelölni.
 

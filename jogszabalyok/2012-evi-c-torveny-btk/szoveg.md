@@ -1408,7 +1408,7 @@ felel meg.
 
 ### Az elkövetők
 
-127. § (1) E törvény alkalmazásában katona a honvéd, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
+127. § (1) E törvény alkalmazásában katona a honvéd, a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, valamint a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja.
 
 (2) E törvény rendelkezéseit a katonákra az e fejezetben foglalt eltérésekkel kell alkalmazni.
 
@@ -1502,7 +1502,7 @@ büntetés mellett szabható ki.
 
 140. § (1) A várakozási idő meghosszabbítása esetén a honvéd és a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagja soron következő rendfokozatba előlépésre előírt várakozási ideje meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a rendfokozatra előírt várakozási idő felét.
 
-(1a) A várakozási idő meghosszabbítása esetén a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet és a hivatásos katasztrófavédelmi szerv hivatásos állományú tagja esetében a soron következő fizetési fokozatba előresorolásra előírt várakozási idő meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a fizetési fokozathoz rendelt várakozási idő felét.
+(1a) A várakozási idő meghosszabbítása esetén a rendőrség, a büntetés-végrehajtási szervezet és a hivatásos katasztrófavédelmi szerv hivatásos állományú tagja esetében a soron következő fizetési fokozatba előresorolásra előírt várakozási idő meghosszabbodik. A meghosszabbítást években kell meghatározni, annak tartama nem haladhatja meg a fizetési fokozathoz rendelt várakozási idő felét.
 
 (2) A várakozási időt akkor kell meghosszabbítani, ha a katonának az előléptetést vagy az előresorolást hosszabb várakozási idő eltöltésével kell kiérdemelnie.
 
@@ -6381,14 +6381,14 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
   - a) a köztársasági elnök,
   - b) az országgyűlési képviselő, a nemzetiségi szószóló és a Magyarországon megválasztott európai parlamenti képviselő,
   - c) az alkotmánybíró,
-  - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár és a főispán,
+  - d) a miniszterelnök, a miniszter, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár és a kormánymegbízott,
   - e) a bíró, az ügyész és a választottbíró,
   - f) az alapvető jogok biztosa és helyettese,
   - g) a közjegyző és a közjegyzőhelyettes,
   - h) az önálló bírósági végrehajtó, az önálló bírósági végrehajtó-helyettes és a végrehajtói kézbesítésre felhatalmazott önálló bírósági végrehajtó jelölt,
   - i) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja,
   - j) a Magyar Honvédség állományilletékes parancsnoka, és az úszólétesítmény vagy a légi jármű parancsnoka, ha a nyomozó hatóságra vonatkozó rendelkezések alkalmazására jogosult,
-  - k) az Alkotmánybíróságnál, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál, bíróságnál, ügyészségnél, központi államigazgatási szervnél, az Országgyűlési Őrségnél, fővárosi vagy vármegyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
+  - k) az Alkotmánybíróságnál, a Sándor-palotánál, az Országgyűlés Hivatalánál, az Alapvető Jogok Biztosának Hivatalánál, a Magyar Nemzeti Banknál, az Állami Számvevőszéknél, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnál, bíróságnál, ügyészségnél, központi államigazgatási szervnél, fővárosi vagy megyei kormányhivatalnál, önkormányzati igazgatási szervnél vagy köztestületnél közhatalmi feladatot ellátó vagy szolgálatot teljesítő személy, akinek a tevékenysége a szerv rendeltetésszerű működéséhez tartozik,
   - l) a választási bizottság tagja;
 - 12. közfeladatot ellátó személy:
   - a) a szolgálati feladatot teljesítő honvéd,
@@ -6488,7 +6488,7 @@ tart magánál, vagy a bűncselekményt az a)–d) pontban meghatározottak utá
 
 (3) Ahol e törvény honvédet, műveleti területet, szövetséges fegyveres erőt vagy békefenntartást említ, azon a honvédelemről és a Magyar Honvédségről szóló törvényben meghatározott fogalmakat kell érteni.
 
-(3a) Ahol e törvény rendfokozatot említ, azon a honvéd és a polgári nemzetbiztonsági szolgálat hivatásos állományú tagja esetében a viselt rendfokozatot, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet és a hivatásos katasztrófavédelmi szerv hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.
+(3a) Ahol e törvény rendfokozatot említ, azon a honvéd és a polgári nemzetbiztonsági szolgálat hivatásos állományú tagja esetében a viselt rendfokozatot, a rendőrség, a büntetés-végrehajtási szervezet és a hivatásos katasztrófavédelmi szerv hivatásos állományú tagja esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozatot kell érteni.
 
 (4) Ahol e törvény szigorúan titkos, titkos, bizalmas, illetve korlátozott terjesztésű minősítésű adatot említ, azon a minősített adat védelméről szóló törvényben meghatározott nemzeti vagy külföldi minősített adatot kell érteni.
 

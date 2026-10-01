@@ -85,7 +85,7 @@ továbbá a c)—f) pontokban megjelölt tevékenységeket folytató természete
 (3) A (2) bekezdésben foglaltakra tekintettel, azon állami tulajdonban lévő vizek és vízilétesítmények, amelyek
 
 - a) vonatkozásában vízitársulat vagyonkezelői joga vagy kezelői joga van bejegyezve az ingatlan-nyilvántartásba, vagy
-- b) vízitársulat üzemeltetésében állnak és az ingatlan-nyilvántartásba bejegyzett vagyonkezelő Nemzeti Földalap kezelésére kijelölt szerv, a Magyar Nemzeti Vagyonkezelő Zrt., a fővárosi, vármegyei kormányhivatal, illetve az előbbiek bármelyikének valamely jogelőd szerve, vagy a vízitársulat üzemeltetésében állnak, és amelyek vonatkozásában nincsen bejegyezve az ingatlan-nyilvántartásba vagyonkezelő vagy kezelő,
+- b) vízitársulat üzemeltetésében állnak és az ingatlan-nyilvántartásba bejegyzett vagyonkezelő Nemzeti Földalap kezelésére kijelölt szerv, a Magyar Nemzeti Vagyonkezelő Zrt., a fővárosi, megyei kormányhivatal, illetve az előbbiek bármelyikének valamely jogelőd szerve, vagy a vízitársulat üzemeltetésében állnak, és amelyek vonatkozásában nincsen bejegyezve az ingatlan-nyilvántartásba vagyonkezelő vagy kezelő,
 - c) vonatkozásában olyan gazdálkodó szervezet kezelői joga van bejegyezve az ingatlan-nyilvántartásba, amelynek kezelői joga a törvény erejénél fogva megszűnt és nem rendelkezik az állami tulajdonú ingatlan tulajdonosi joggyakorlójával megkötött ingatlan használatára jogcímet biztosító szerződéssel, valamint amennyiben vagyonkezelése, üzemeltetése e törvény előírása szerint a vízügyi igazgatási szerv feladatkörébe tartozik,
 
 e törvény erejénél fogva a működési terület szerinti vízügyi igazgatási szerv vagyonkezelésébe kerülnek.
@@ -222,7 +222,7 @@ adottságok.
 
 (2) A területi közcélú vízilétesítmények, illetve a közcélú vízimunkák költségeit, vízitársulat esetén a tagok külön törvény szerint, vízitársulat hiányában az érdekeltek érdekeltségük arányában kötelesek viselni (közcélú érdekeltségi hozzájárulás). A közcélú érdekeltségi hozzájárulás hektáronként fizetendő mértékét a vízgazdálkodásért felelős miniszter rendeletben állapítja meg.
 
-(3) Vízitársulat hiányában a (2) bekezdés szerinti költségeket az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint lefolytatott eljárásban hozott határozatával érdekeltségük arányában az érdekeltekre a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala veti ki.
+(3) Vízitársulat hiányában a (2) bekezdés szerinti költségeket az általános közigazgatási rendtartásról szóló törvény rendelkezései szerint lefolytatott eljárásban hozott határozatával érdekeltségük arányában az érdekeltekre a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala veti ki.
 
 9. § (1)
 
@@ -710,11 +710,11 @@ hatáskörébe tartozik.
 
 (3) A saját szervezettel védekező települések által fenntartott műveken az árvíz- és belvízvédekezés műszaki feladatait a település közigazgatási határán belül — a vízügyi igazgatási szervnek szakmai irányításával — a polgármester (Budapesten a főpolgármester) a polgármesteri (főpolgármesteri) hivatal útján látja el.
 
-(4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a vármegyei, fővárosi védelmi bizottság elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
+(4) Az árvíz- és belvízvédekezés, valamint a helyi vízkár-elhárítás államigazgatási feladat- és hatáskörét — a külön jogszabályban meghatározottak szerint — a megyei, fővárosi védelmi bizottság elnöke, illetőleg a polgármester, fővárosban a főpolgármester látja el.
 
 (5) A vizek kártételei elleni védekezés részletes feladatait, módját és a vízügyi igazgatási szervek irányításáért felelős miniszter jogkörét a Kormány rendeletben állapítja meg.
 
-(6) A főpolgármester, a vármegyei, fővárosi védelmi bizottság elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
+(6) A főpolgármester, a megyei, fővárosi védelmi bizottság elnöke, illetve a polgármester rendeli el az árvíz- és belvízvédekezéssel, valamint a helyi vízkárelhárítással kapcsolatos – a külön jogszabályban meghatározott államigazgatási feladatok körében – a kitelepítést, a kimenekítést, a visszatelepítést, továbbá közreműködik az ezzel kapcsolatos egyéb feladatok végrehajtásában.
 
 (7) A polgármester (főpolgármester) az árvíz- és belvízvédekezéssel kapcsolatos államigazgatási feladat- és hatáskörében
 
@@ -1168,11 +1168,11 @@ céljából jogosult.
 - f) vizsgálja a víziközmű társulati tevékenység műszaki előkészítésének folyamatát, ezen belül az engedélyezési és kiviteli terveket (műszaki dokumentációkat),
 - g) értékeli és ellenőrzi a víziközmű társulat által megvalósítandó fejlesztéseket, terveket.
 
-(4) Ha a vízügyi igazgatási szerv a (3) bekezdés szerinti szakmai ellenőrzés során szakmai hiányosságot, szabálytalanságot tapasztal, felhívja a víziközmű társulatot a hiányosság, szabálytalanság megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a vízügyi igazgatási szervet tájékoztatni. Ha a víziközmű társulat a megadott határidőn belül a hiányosságot, szabálytalanságot nem szünteti meg, a vízügyi igazgatási szerv a jogszabálysértő állapot megszüntetése érdekében kezdeményezi a vízügyi hatóságnál, illetve a fővárosi és vármegyei kormányhivatalnál a feladat- és hatáskörébe tartozó hatósági eljárás megindítását.
+(4) Ha a vízügyi igazgatási szerv a (3) bekezdés szerinti szakmai ellenőrzés során szakmai hiányosságot, szabálytalanságot tapasztal, felhívja a víziközmű társulatot a hiányosság, szabálytalanság megszüntetésére. Az érintett a felhívásban foglaltakat köteles megvizsgálni és a megadott határidőn belül az annak alapján tett intézkedésről vagy egyet nem értéséről a vízügyi igazgatási szervet tájékoztatni. Ha a víziközmű társulat a megadott határidőn belül a hiányosságot, szabálytalanságot nem szünteti meg, a vízügyi igazgatási szerv a jogszabálysértő állapot megszüntetése érdekében kezdeményezi a vízügyi hatóságnál, illetve a fővárosi és megyei kormányhivatalnál a feladat- és hatáskörébe tartozó hatósági eljárás megindítását.
 
-(4a) A fővárosi és vármegyei kormányhivatal jogosult a víziközmű társulat működését hatósági ellenőrzés keretében vizsgálni. A fővárosi és vármegyei kormányhivatal a hatósági ellenőrzése során felkérheti a vízügyi igazgatási szervet, hogy folytasson le szakmai ellenőrzést, továbbá a vízügyi igazgatási szervtől a víziközmű társulatra vonatkozó, a vízügyi igazgatási szervnél rendelkezésre álló adatokat és információt kérhet, amely a megkeresést öt munkanapon belül teljesíti. A vízügyi igazgatási szerv a felkérés alapján az ellenőrzést soron kívül, de legfeljebb tizenöt napon belül lefolytatja és megállapításairól a fővárosi és vármegyei kormányhivatalt az ellenőrzés befejezésétől számított öt munkanapon belül értesíti.
+(4a) A fővárosi és megyei kormányhivatal jogosult a víziközmű társulat működését hatósági ellenőrzés keretében vizsgálni. A fővárosi és megyei kormányhivatal a hatósági ellenőrzése során felkérheti a vízügyi igazgatási szervet, hogy folytasson le szakmai ellenőrzést, továbbá a vízügyi igazgatási szervtől a víziközmű társulatra vonatkozó, a vízügyi igazgatási szervnél rendelkezésre álló adatokat és információt kérhet, amely a megkeresést öt munkanapon belül teljesíti. A vízügyi igazgatási szerv a felkérés alapján az ellenőrzést soron kívül, de legfeljebb tizenöt napon belül lefolytatja és megállapításairól a fővárosi és megyei kormányhivatalt az ellenőrzés befejezésétől számított öt munkanapon belül értesíti.
 
-(4b) Ha a fővárosi és vármegyei kormányhivatal a hatósági ellenőrzés során jogszabálysértést tár fel, megkeresheti a cégbíróságot, hogy tizenöt napon belül jelölje ki az elszámoló bizottság tagjait az elszámolási eljárás haladéktalan lefolytatása érdekében, illetve saját hatáskörben intézkedhet a tagok által befizetett hozzájárulások egészének, vagy azok egy részének visszafizetése iránt.
+(4b) Ha a fővárosi és megyei kormányhivatal a hatósági ellenőrzés során jogszabálysértést tár fel, megkeresheti a cégbíróságot, hogy tizenöt napon belül jelölje ki az elszámoló bizottság tagjait az elszámolási eljárás haladéktalan lefolytatása érdekében, illetve saját hatáskörben intézkedhet a tagok által befizetett hozzájárulások egészének, vagy azok egy részének visszafizetése iránt.
 
 (5) A víziközmű társulat működésével kapcsolatos panaszok és közérdekű bejelentések esetében a feladatkörét érintően a működési területével érintett vízügyi igazgatási szerv jár el, és a (3) bekezdés szerinti szakmai ellenőrzés elvégzésére, valamint a (4) és (6) bekezdés szerinti intézkedések megtételére jogosult.
 
@@ -1581,7 +1581,7 @@ E törvény alkalmazásában
   - a) nagyvízi meder: a vízfolyást vagy állóvizet magában foglaló terület, amelyet az árvíz levonulása során a víz rendszeresen elborít, és amelyet a mértékadó árvízszint vagy az eddig előfordult legnagyobb árvízszint közül a magasabb jelöl ki;
   - b) nagyvízi meder kezelés: a terület hasznosítása és használata, a terület felmérése és nyilvántartása, megóvása, őrzése, fenntartása érdekében végzett tevékenység;
 - 13. Mezőgazdasági célú vízgazdálkodás: a mezőgazdaság feladatait, érdekeit szolgáló vízhasznosítási és vízkárelhárítási tevékenység;
-- 14. regionális víziközmű: az egymással oly módon összefüggő — műszakilag elkülönítve gazdaságosan nem üzemeltethető — víziközművek, melyek egységes rendszert alkotnak, és a rendszer több települést (vármegyét) átfogó, összefüggő földrajzi területen (országrész, régió) nagyszámú, jellemzően vízbázistól távol fekvő település részére a vízkitermelést, -tisztítást, -elosztást — amelyhez a fogyasztók közműves ivóvízellátása, szennyvízelvezetés is tartozhat — látják el.
+- 14. regionális víziközmű: az egymással oly módon összefüggő — műszakilag elkülönítve gazdaságosan nem üzemeltethető — víziközművek, melyek egységes rendszert alkotnak, és a rendszer több települést (megyét) átfogó, összefüggő földrajzi területen (országrész, régió) nagyszámú, jellemzően vízbázistól távol fekvő település részére a vízkitermelést, -tisztítást, -elosztást — amelyhez a fogyasztók közműves ivóvízellátása, szennyvízelvezetés is tartozhat — látják el.
 - 15. szennyvízelvezetéssel összefüggő
   - a) agglomeráció: olyan terület, amelyen belül a népesség és/vagy a gazdasági tevékenység elegendően koncentrált ahhoz, hogy a települési szennyvizet összegyűjtsék, szennyvíztisztító telepre és végső kibocsátási pontra vezessék,
   - b) lakosegyenérték: szerves, biológiailag lebontható terhelés, amelynek ötnapos biokémiai oxigénigénye (BOI 5) 60 g oxigén/nap;

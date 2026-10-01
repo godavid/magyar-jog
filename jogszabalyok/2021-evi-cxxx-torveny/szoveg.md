@@ -199,7 +199,7 @@ fizetési moratórium hatálya alá tartozó, természetes személy hitelkártya
 
 (4) Az oltási regisztrációs felületet fenntartó szerv a TAJ számmal rendelkező személyek védőoltásra történő regisztrációja során megadott (3) bekezdés szerinti adatait a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) részére átadja.
 
-(5) A NEAK a védőoltás igénybevételének szervezésével kapcsolatos feladatát az egészségügyi szolgáltató, az egészségügyi államigazgatási szerv, az Országos Kórházi Főigazgatóság, a Magyar Államkincstár, az Oktatási Hivatal, a Nemzeti Szakképzési és Felnőttképzési Hivatal, valamint a fővárosi és vármegyei kormányhivatal (a továbbiakban együtt: közreműködő szerv) bevonásával látja el.
+(5) A NEAK a védőoltás igénybevételének szervezésével kapcsolatos feladatát az egészségügyi szolgáltató, az egészségügyi államigazgatási szerv, az Országos Kórházi Főigazgatóság, a Magyar Államkincstár, az Oktatási Hivatal, a Nemzeti Szakképzési és Felnőttképzési Hivatal, valamint a fővárosi és megyei kormányhivatal (a továbbiakban együtt: közreműködő szerv) bevonásával látja el.
 
 (6) A NEAK, illetve a közreműködő szerv a NEAK által meghatározott, védőoltásra regisztráló személyeket a védőoltás igénybevételének rendjéről postai, illetve elektronikus vagy telefonos úton értesíti.
 
@@ -218,7 +218,7 @@ fizetési moratórium hatálya alá tartozó, természetes személy hitelkártya
 
 (2) Az (1) bekezdés szerinti személy regisztrációjára
 
-- a) a Kormány által rendeletben kijelölt, a fővárosi és vármegyei kormányhivatalok járási hivatalaiban (a továbbiakban: járási hivatal) vagy kormányablakaiban személyesen, a magyar igazolványa bemutatása és a születési ideje megadása mellett, vagy
+- a) a Kormány által rendeletben kijelölt, a fővárosi és megyei kormányhivatalok járási hivatalaiban (a továbbiakban: járási hivatal) vagy kormányablakaiban személyesen, a magyar igazolványa bemutatása és a születési ideje megadása mellett, vagy
 - b) az oltási regisztrációs felületen elektronikus úton
 
 kerül sor. Az elektronikus úton történt regisztráció során megadott adatokat az elektronikus felület működtetője átadja a Kormány rendeletében kijelölt járási hivatalnak.

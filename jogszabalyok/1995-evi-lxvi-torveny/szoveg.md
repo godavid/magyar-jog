@@ -247,7 +247,7 @@ eltelt.
 
 - a) a közfeladatot ellátó szerv az illetékes közlevéltárral egyetértésben,
 - b) a központi államigazgatási szerv a Magyar Nemzeti Levéltárral, az illetékes szaklevéltárral és a köziratok kezelésének szakmai irányításáért felelős miniszterrel egyetértésben,
-- c) a Főpolgármesteri Hivatal, a polgármesteri hivatal, a vármegyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala (a továbbiakban együtt: önkormányzati hivatal) számára a jegyző (főjegyző) a Magyar Nemzeti Levéltárral, a 18. §-ban meghatározott esetekben a Budapest Főváros Önkormányzata által fenntartott levéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
+- c) a Főpolgármesteri Hivatal, a polgármesteri hivatal, a megyei önkormányzati hivatal, a közös önkormányzati hivatal, a társult képviselő-testületek közös hivatala és a nemzetiségi önkormányzat hivatala (a továbbiakban együtt: önkormányzati hivatal) számára a jegyző (főjegyző) a Magyar Nemzeti Levéltárral, a 18. §-ban meghatározott esetekben a Budapest Főváros Önkormányzata által fenntartott levéltárral és a Kormány általános hatáskörű területi államigazgatási szervével egyetértésben.
 
 (2) Egységes iratkezelési szabályzatot ad ki:
 
@@ -380,9 +380,9 @@ során a kultúráért felelős miniszter véleményezési jogot gyakorol.
 
 (3) A nemzeti levéltár a Magyar Nemzeti Levéltár.
 
-17. § (1) A Magyar Nemzeti Levéltár központi általános levéltár, amely vármegyei szervezeti egységekkel (tagintézményekkel) rendelkezik. A tagintézmény
+17. § (1) A Magyar Nemzeti Levéltár központi általános levéltár, amely megyei szervezeti egységekkel (tagintézményekkel) rendelkezik. A tagintézmény
 
-- a) vármegyei szinten ellátja a Magyar Nemzeti Levéltár feladatait,
+- a) megyei szinten ellátja a Magyar Nemzeti Levéltár feladatait,
 - b) a Magyar Nemzeti Levéltár költségvetésén belül az egyes tagintézmények szakmai feladatainak figyelembevételével meghatározott éves elkülönített költségvetési kerettel működik,
 - c) vezetőjét (igazgatóját) a Magyar Nemzeti Levéltár főigazgatója nevezi ki a kultúráért felelős miniszter egyetértésével.
 
@@ -589,7 +589,7 @@ iratkezelésére és irataira, továbbá mindezek jogelődeinek, a jogelődei á
 
 34. § (1) Az a tulajdonos, aki 50 évnél régebben keletkezett iratait, továbbá a 33. § (1) bekezdésének a)–b) és d) pontjában meghatározott iratait – a nyilvános árverésen történő értékesítés kivételével – kereskedelmi forgalomba kívánja bocsátani, köteles azt először a Magyar Nemzeti Levéltárnak megvételre felajánlani vagy védetté nyilvánítás céljából bemutatni. Ha a Magyar Nemzeti Levéltár megállapítja, hogy a bemutatott irat (irategyüttes) tartalmát vagy egyéb jellegzetességeit tekintve megfelel a 3. § j) pontjában meghatározott ismérveknek, de a tulajdonos által megjelölt vételárat nem tudja kifizetni, kezdeményezi a hatóságnál az irat (irategyüttes) védetté nyilvánítását.
 
-(2) Ha az (1) bekezdésben felsorolt iratokat, valamint a védetté nyilvánított levéltári anyagot a tulajdonos vagy annak hozzájárulásával a jogos birtokos külföldre kívánja vinni, a kiviteli engedély iránti kérelmét a Magyar Nemzeti Levéltárnál vagy annak bármely vármegyei szervezeti egységénél nyújthatja be. A levéltár a kérelmet – a szakvéleményével együtt – a hatósághoz továbbítja.
+(2) Ha az (1) bekezdésben felsorolt iratokat, valamint a védetté nyilvánított levéltári anyagot a tulajdonos vagy annak hozzájárulásával a jogos birtokos külföldre kívánja vinni, a kiviteli engedély iránti kérelmét a Magyar Nemzeti Levéltárnál vagy annak bármely megyei szervezeti egységénél nyújthatja be. A levéltár a kérelmet – a szakvéleményével együtt – a hatósághoz továbbítja.
 
 (3) Állami gazdálkodó szervezet működése során keletkezett irattári anyagot a gazdálkodó szervezet privatizálását követően is csak az illetékes közlevéltár által meghatározott szempontok szerint lehet selejtezni. Ha a nem selejtezhető iratokat az új tulajdonos nem kívánja megőrizni, azokat az illetékes közlevéltár részére át kell adnia. Ha az új tulajdonos a nem selejtezhető iratokra igényt tart, az illetékes közlevéltár kezdeményezheti az iratok védetté nyilvánítását.
 

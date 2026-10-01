@@ -449,7 +449,7 @@ véleményét a pályázóról.
 
 #### 11. A kirendelés
 
-27. § (1) Az ügyészt – hozzájárulása nélkül – háromévenként, ezen belül legfeljebb egy évre lehet ügyészségi érdekből vagy szakmai fejlődésének elősegítése érdekében ügyészi munkakörbe, ideiglenesen – szolgálati helyével azonos vármegyében lévő – más szolgálati helyre kirendelni. A fővárosban, illetve Pest vármegyében szolgálatot teljesítő ügyész a fővárosban vagy Pest vármegye területén lévő más szolgálati helyre rendelhető ki. A kirendelésnél az ügyész méltányos érdekét figyelembe kell venni. A kirendelést – a megkezdése előtt legalább tizenöt nappal – az ügyésszel írásban közölni kell, megjelölve a kirendelés helyét, kezdetét és annak időtartamát.
+27. § (1) Az ügyészt – hozzájárulása nélkül – háromévenként, ezen belül legfeljebb egy évre lehet ügyészségi érdekből vagy szakmai fejlődésének elősegítése érdekében ügyészi munkakörbe, ideiglenesen – szolgálati helyével azonos megyében lévő – más szolgálati helyre kirendelni. A fővárosban, illetve Pest megyében szolgálatot teljesítő ügyész a fővárosban vagy Pest megye területén lévő más szolgálati helyre rendelhető ki. A kirendelésnél az ügyész méltányos érdekét figyelembe kell venni. A kirendelést – a megkezdése előtt legalább tizenöt nappal – az ügyésszel írásban közölni kell, megjelölve a kirendelés helyét, kezdetét és annak időtartamát.
 
 (2) Az ügyész – hozzájárulásával – az (1) bekezdésben meghatározott időtartamon túl, illetve az (1) bekezdésben nem említett szolgálati helyre is kirendelhető.
 

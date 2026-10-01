@@ -40,7 +40,7 @@ lát el.
 - c) az otthonában élő rászoruló személy védelmében, a polgárok és javaik védelmében, az állami és önkormányzati vagyon megóvásában,
 - d) a közterületen közbiztonsági, bűnmegelőzési, valamint bűnüldözési célból elhelyezett képfelvevő által rögzített felvételek megfigyelésében,
 - e) a rendezvények helyszínének biztosításában,
-- f) a Rendőrségről szóló törvény alapján a rendőrkapitány, a vármegyék (főváros) tekintetében a rendőrfőkapitány és a polgárőr szervezet működési területén illetékes helyi önkormányzat által létrehozott bűnmegelőzési és közbiztonsági, valamint baleset-megelőzési bizottság munkájában,
+- f) a Rendőrségről szóló törvény alapján a rendőrkapitány, a megyék (főváros) tekintetében a rendőrfőkapitány és a polgárőr szervezet működési területén illetékes helyi önkormányzat által létrehozott bűnmegelőzési és közbiztonsági, valamint baleset-megelőzési bizottság munkájában,
 - g) az önálló, valamint közös feladat- vagy szolgálatellátás útján az együttműködő szervek szakmai tevékenységének segítésében,
 - h) a polgárőr egyesület feladataival összefüggő oktatási, kulturális, ismeretterjesztő tevékenységben,
 - i) a körözött tárgyak, személyek és holttestek azonosításában és felkutatásában, valamint
@@ -61,7 +61,7 @@ a cél elérése érdekében feltétlenül szükséges mértékben a közreműk�
 
 4. § (1) A polgárőr egyesület a 3. § (1) bekezdésében meghatározott alapfeladatokat akkor kezdheti meg, valamint végezheti, ha
 
-- a) a működési területén illetékes vármegyei (fővárosi) rendőr-főkapitánysággal írásbeli együttműködési megállapodást kötött, valamint
+- a) a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal írásbeli együttműködési megállapodást kötött, valamint
 - b) az Országos Polgárőr Szövetség és a területi polgárőr szövetség tagja.
 
 (2) A polgárőr egyesület a 3. § (2) bekezdés a) pontjában meghatározott, a katasztrófák elleni védekezéssel összefüggő kiegészítő feladat ellátását akkor kezdheti meg, valamint végezheti, ha rendelkezik a hivatásos katasztrófavédelmi szerv illetékes területi szervének előzetes írásbeli egyetértésével.
@@ -79,7 +79,7 @@ is kiterjedhet.
 
 (5) A (4) bekezdés szerinti együttműködési megállapodással rendelkező polgárőr egyesület működési területe – a (3) bekezdésen túl – kiterjed a közforgalmú vasúti személyszállítási eszköz, valamint a közforgalmú közúti személyszállítást végző autóbusz területére és a vasúti, valamint az autóbuszos személyszállító szolgáltató által használt, a nyilvánosság számára megnyitott területekre, építményekre is.
 
-5. § (1) A polgárőr egyesület a helyi rendőri szervnél kezdeményezi a 4. § (1) bekezdés a) pontja szerinti együttműködési megállapodás megkötését. A helyi rendőri szerv az együttműködési megállapodás megkötésére irányuló kérelmet – a kézhezvételt követő – 30 napon belül, javaslatával együtt köteles felterjeszteni a vármegyei (fővárosi) rendőr-főkapitányságra. A vármegyei (fővárosi) rendőr-főkapitányság az együttműködési megállapodást a kérelem és a helyi rendőri szerv javaslatának kézhezvételét követő 30 napon belül köti meg.
+5. § (1) A polgárőr egyesület a helyi rendőri szervnél kezdeményezi a 4. § (1) bekezdés a) pontja szerinti együttműködési megállapodás megkötését. A helyi rendőri szerv az együttműködési megállapodás megkötésére irányuló kérelmet – a kézhezvételt követő – 30 napon belül, javaslatával együtt köteles felterjeszteni a megyei (fővárosi) rendőr-főkapitányságra. A megyei (fővárosi) rendőr-főkapitányság az együttműködési megállapodást a kérelem és a helyi rendőri szerv javaslatának kézhezvételét követő 30 napon belül köti meg.
 
 (2) Az együttműködési megállapodás tartalmazza különösen
 
@@ -105,7 +105,7 @@ is kiterjedhet.
 
 (7) Az együttműködési megállapodás vonatkozásában – e törvényben foglalt kivételekkel – a Polgári Törvénykönyv, az azzal kapcsolatos jogvita bíróság előtti eljárására a polgári perrendtartásról szóló törvény szabályai az irányadók.
 
-(8) Ha a polgárőr egyesületnek korábban azért kellett az e törvény szerinti tevékenységével felhagynia, mert az együttműködési megállapodást a vármegyei (fővárosi) rendőr-főkapitányság felmondta, akkor e polgárőr egyesülettel, valamint a tagjai által alapított új polgárőr egyesülettel a felmondás dátumától számított 1 éven belül nem köthető újabb együttműködési megállapodás.
+(8) Ha a polgárőr egyesületnek korábban azért kellett az e törvény szerinti tevékenységével felhagynia, mert az együttműködési megállapodást a megyei (fővárosi) rendőr-főkapitányság felmondta, akkor e polgárőr egyesülettel, valamint a tagjai által alapított új polgárőr egyesülettel a felmondás dátumától számított 1 éven belül nem köthető újabb együttműködési megállapodás.
 
 (9) A 4. § (4) bekezdésben meghatározott együttműködési megállapodásra az (1)–(8) bekezdésben meghatározott előírásokat kell értelemszerűen alkalmazni, azzal, hogy a közforgalmú vasúti, illetve autóbuszos személyszállítási szolgáltatást végző vállalkozás a polgárőr részére írásbeli igazolást állít ki a tevékenység folytatásához.
 
@@ -117,13 +117,13 @@ is kiterjedhet.
 
 #### 3. A területi polgárőr szövetség
 
-7. § (1) Területi polgárőr szövetségnek minősül a polgárőr egyesületek olyan szövetsége, amelyet azonos vármegyében (fővárosban) székhellyel rendelkező polgárőr egyesületek alkotnak, az e törvényben meghatározott feladatokat látja el és az Országos Polgárőr Szövetség tagja. Vármegyénként, illetve a főváros területén kizárólag egy területi polgárőr szövetség működhet.
+7. § (1) Területi polgárőr szövetségnek minősül a polgárőr egyesületek olyan szövetsége, amelyet azonos megyében (fővárosban) székhellyel rendelkező polgárőr egyesületek alkotnak, az e törvényben meghatározott feladatokat látja el és az Országos Polgárőr Szövetség tagja. Megyénként, illetve a főváros területén kizárólag egy területi polgárőr szövetség működhet.
 
-(2) A területi polgárőr szövetség a 8. § (4b) bekezdése szerint akkor kérheti felvételét az Országos Polgárőr Szövetségbe, ha a székhelye szerint illetékes vármegyei (fővárosi) rendőr-főkapitánysággal megkötött együttműködési megállapodással rendelkezik.
+(2) A területi polgárőr szövetség a 8. § (4b) bekezdése szerint akkor kérheti felvételét az Országos Polgárőr Szövetségbe, ha a székhelye szerint illetékes megyei (fővárosi) rendőr-főkapitánysággal megkötött együttműködési megállapodással rendelkezik.
 
 (3) A területi polgárőr szövetség működési területe
 
-- a) a székhelyének helyt adó vármegye, vagy
+- a) a székhelyének helyt adó megye, vagy
 - b) a fővárosban működő területi polgárőr szövetség esetében Budapest
 
 közigazgatási területére terjed ki.
@@ -134,10 +134,10 @@ közigazgatási területére terjed ki.
 
 (6) A területi polgárőr szövetség
 
-- a) képviseli tagjai közös érdekeit a területi állami szervek, a vármegyei (fővárosi) önkormányzatok, valamint más civil szervezetek előtt,
+- a) képviseli tagjai közös érdekeit a területi állami szervek, a megyei (fővárosi) önkormányzatok, valamint más civil szervezetek előtt,
 - b) összehangolja tagjai tevékenységét,
-- c) együttműködik a működési területén illetékes állami szervekkel, vármegyei (fővárosi) önkormányzatokkal, valamint a vármegyei (fővárosi) rendőr-főkapitánysággal a polgárőri szolgálat ellátása feltételeinek fejlesztése érdekében,
-- d) előzetesen véleményezi a polgárőr egyesület által a működési területén illetékes vármegyei (fővárosi) rendőr-főkapitánysággal megkötendő együttműködési megállapodást,
+- c) együttműködik a működési területén illetékes állami szervekkel, megyei (fővárosi) önkormányzatokkal, valamint a megyei (fővárosi) rendőr-főkapitánysággal a polgárőri szolgálat ellátása feltételeinek fejlesztése érdekében,
+- d) előzetesen véleményezi a polgárőr egyesület által a működési területén illetékes megyei (fővárosi) rendőr-főkapitánysággal megkötendő együttműködési megállapodást,
 - e) a működési területén működő polgárőr egyesület Országos Polgárőr Szövetségbe való felvételre irányuló kérelmét befogadja, majd felvételi javaslatával ellátva továbbítja,
 - f) elfogadja a területi polgárőr szövetség éves költségvetését, valamint a költségvetés végrehajtásáról szóló beszámolót, valamint
 - g) elbírálja a működési támogatásra vonatkozó kérelmet.
@@ -204,7 +204,7 @@ közigazgatási területére terjed ki.
 - h) kapcsolatot tart a polgárőri tevékenységet ellátó külföldi szervezetekkel,
 - i) a polgárőröket a polgárőr tevékenység végzésére jogosító igazolvánnyal ellátja, az ifjú polgárőröket a 9/A. § (2) bekezdésében meghatározott feladatok ellátására jogosító ifjú polgárőr igazolvánnyal ellátja.
 
-(3) Az Országos Polgárőr Szövetség működési, elhelyezési feltételeit az általános rendőrségi feladatok ellátására létrehozott szerv központi szervével kötött együttműködési megállapodásban meghatározott módon az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve vagy a vármegyei (fővárosi) rendőr-főkapitányság biztosíthatja.
+(3) Az Országos Polgárőr Szövetség működési, elhelyezési feltételeit az általános rendőrségi feladatok ellátására létrehozott szerv központi szervével kötött együttműködési megállapodásban meghatározott módon az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve vagy a megyei (fővárosi) rendőr-főkapitányság biztosíthatja.
 
 (4) Az Országos Polgárőr Szövetség felkérésére az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve gondoskodik a polgárőrök képzésében, szakmai ismereteinek bővítésében való rendőrségi közreműködésről.
 
@@ -365,10 +365,11 @@ tartalmazza.
 - c) a nyomozó hatóság bűncselekmények megelőzése, felderítése, büntetőeljárás lefolytatása vagy büntetés és intézkedés végrehajtása céljából,
 - d) a nemzetbiztonsági szolgálatok a törvényben meghatározott felderítési, nemzetbiztonsági védelmi és elhárítási, információszerzési, továbbá nemzetbiztonsági, iparbiztonsági, belső biztonsági és bűnmegelőzési ellenőrzési célból,
 - e) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve a hatáskörébe tartozó bűncselekmények megelőzése és felderítése céljából,
-- f) a rendőrség terrorizmust elhárító szerve terrorcselekmények vagy azzal összefüggésben elkövetett más bűncselekmények megelőzése, felderítése és megszakítása, továbbá kiemelt személyvédelmi feladatai ellátása céljából,
+- f) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pont a) alpontjában meghatározott bűncselekmények megszakítása céljából,
 - g) az általános rendőrségi feladatok ellátására létrehozott szerv közbiztonság-védelmi feladatainak, valamint közrendvédelmi, határrendészeti feladatainak ellátása során az együttműködési megállapodás megkötéséhez szükséges, az e törvényben meghatározott rendelkezések vizsgálata céljából,
-- h) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben eljáró hatóság, valamint
-- i) jogának vagy jogos érdekének érvényesítése érdekében a magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
+- h) a szabálysértési eljárás lefolytatásához a szabálysértési ügyekben eljáró hatóság,
+- i) az általános rendőrségi feladatok ellátására létrehozott szerv a személyvédelmi feladatai ellátása céljából, valamint
+- j) jogának vagy jogos érdekének érvényesítése érdekében a magánszemély, jogi személy vagy jogi személyiséggel nem rendelkező szervezet.
 
 (6) Az adattovábbítás iránti kérelemnek tartalmaznia kell az adatigénylés céljának igazolását és a jogalapot, valamint az adatigénylés tárgyának azonosításához szükséges adatokat.
 
@@ -380,7 +381,7 @@ tartalmazza.
 
 - a) a területileg illetékes polgárőr egyesülettel közösen látja el tevékenységét,
 - b) arra a polgárőr egyesület a 6. § (1) bekezdésben meghatározott szervekkel együttműködési megállapodást kötött,
-- c) a polgárőr egyesületet, vagy a területi polgárőr szövetséget a vármegyei (fővárosi) rendőr-főkapitányság felkéri a vármegye (főváros) közigazgatási területén való tevékenységellátásra,
+- c) a polgárőr egyesületet, vagy a területi polgárőr szövetséget a megyei (fővárosi) rendőr-főkapitányság felkéri a megye (főváros) közigazgatási területén való tevékenységellátásra,
 - d) a polgárőr egyesület az érintett önkormányzattal írásban erre irányuló együttműködési megállapodást kötött, vagy
 - e) a polgárőr egyesület a – 3. § (2) bekezdés j) pontjában meghatározott feladat ellátására – közforgalmú vasúti, illetve autóbuszos személyszállítási szolgáltatást végző vállalkozással együttműködési megállapodást kötött.
 
@@ -426,7 +427,7 @@ tartalmazza.
 
 (2) A polgárőr a rendőri intézkedést igénylő baleset helyszínére érkezését követően haladéktalanul értesíti az általános rendőrségi feladatok ellátására létrehozott szervet. Az értesítés kiterjed a baleset jellegére, a sérültek számára, valamint arra, hogy a polgárőr megítélése szerint milyen veszélyhelyzet állt elő.
 
-(3) A polgárőr – a bölcsőde, az óvoda, valamint az általános és középiskola fenntartójának értesítése mellett – a vármegyei (fővárosi) rendőr-főkapitánysággal kötött együttműködési megállapodása alapján jogosult a gyermekek úttesten történő biztonságos átkelésének elősegítése érdekében a bölcsődék, az óvodák és az általános iskolák közvetlen közelében jelzőőri feladatokat ellátni.
+(3) A polgárőr – a bölcsőde, az óvoda, valamint az általános és középiskola fenntartójának értesítése mellett – a megyei (fővárosi) rendőr-főkapitánysággal kötött együttműködési megállapodása alapján jogosult a gyermekek úttesten történő biztonságos átkelésének elősegítése érdekében a bölcsődék, az óvodák és az általános iskolák közvetlen közelében jelzőőri feladatokat ellátni.
 
 (4) Az (1) és a (3) bekezdésben foglalt célból a jelzőőr nappal jelzőtárcsával, éjszaka és korlátozott látási viszonyok esetén piros fényt adó lámpával irányítja a forgalmat. Munkáját jól látható és hallható jelzésekkel köteles összehangolni. A jelzőőri tevékenységet végzőnek és jelzéseinek a megállási látótávolságból folyamatosan láthatóknak kell lenniük.
 

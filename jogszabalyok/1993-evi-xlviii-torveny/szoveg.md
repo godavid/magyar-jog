@@ -68,7 +68,7 @@ A szénhidrogén tulajdonjoga az a) pontban meghatározott összeg megfizetésé
 (1a) Az ásványi nyersanyag a kitermeléssel
 
 - a) az (1b) bekezdés szerinti eset kivételével a bányafelügyelet engedélyétől eltérő, más hatósági engedéllyel rendelkező,
-- b) katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra történő felhasználás, hasznosítás vagy értékesítés esetén a vármegyei, fővárosi védelmi bizottság határozata szerint kitermelésre jogosult
+- b) katasztrófaveszély vagy az Alaptörvény 53. cikke szerinti veszélyhelyzet megszűnését követően más célra történő felhasználás, hasznosítás vagy értékesítés esetén a megyei, fővárosi védelmi bizottság határozata szerint kitermelésre jogosult
 
 személy tulajdonába kerül.
 
@@ -180,7 +180,7 @@ tartozása van, vagy
 
 (5) Az e törvény alapján engedélyköteles bányászati tevékenységre vonatkozó jogvesztő határidőbe, illetve a bányászati tevékenység végzésére engedélyezett időtartamba nem számít bele az a kieső időtartam, amely – a hatóságnak az eljárás lefolytatásával összefüggő, az arra jogszabály alapján nyitva álló határidőn belül folytatott tevékenysége szerinti időtartamot ide nem értve – a bányavállalkozó önhibáján kívül a hatóság döntése, intézkedése vagy mulasztása miatt következett be. Az önhiba hiányát a bányavállalkozónak kell igazolnia.
 
-(6) A kulturális örökség védelméről szóló törvény által nemzeti emlékhellyé nyilvánított kegyhelyen, valamint annak 5 km sugarú környezetében – a kegyhely méltóságának megőrzése érdekében – külfejtéses művelésű bányatelket csak akkor lehet megállapítani, horizontálisan bővíteni vagy a megállapított bányatelken feltárási, kitermelési tevékenységet folytatni, ha azzal a bányatelek fekvése szerinti fővárosi és vármegyei kormányhivatal kulturális örökségvédelmi szempontból egyetért. Egyetértés hiányában a bányafelügyelet az engedély, műszaki üzemi terv jóváhagyása iránti kérelmet elutasítja.
+(6) A kulturális örökség védelméről szóló törvény által nemzeti emlékhellyé nyilvánított kegyhelyen, valamint annak 5 km sugarú környezetében – a kegyhely méltóságának megőrzése érdekében – külfejtéses művelésű bányatelket csak akkor lehet megállapítani, horizontálisan bővíteni vagy a megállapított bányatelken feltárási, kitermelési tevékenységet folytatni, ha azzal a bányatelek fekvése szerinti fővárosi és megyei kormányhivatal kulturális örökségvédelmi szempontból egyetért. Egyetértés hiányában a bányafelügyelet az engedély, műszaki üzemi terv jóváhagyása iránti kérelmet elutasítja.
 
 6. § (1) A hatósági engedély alapján gyakorolt bányászati jog kérelemre, a bányafelügyelet hozzájárulásával átruházható. A hozzájárulás iránti kérelmet a bányászati jogot átvevő nyújtja be.
 

@@ -37,7 +37,7 @@ származó, egyedi döntés alapján nyújtott, pályázati úton vagy pályáza
   - da) a köztársasági elnök,
   - db) a Kormány tagja, a miniszterelnök politikai igazgatója, a miniszterelnök nemzetbiztonsági főtanácsadója, a kormánybiztos, a miniszterelnöki biztos, a miniszteri biztos, az államtitkár, a közigazgatási államtitkár, a helyettes államtitkár,
   - dc) az országgyűlési képviselő és a Magyarországon megválasztott európai parlamenti képviselő,
-  - dd) a polgármester, a főpolgármester, továbbá a vármegyei közgyűlés elnöke,
+  - dd) a polgármester, a főpolgármester, továbbá a megyei közgyűlés elnöke,
   - de) a db) alpont alá nem eső további, az Országgyűlés által választott vagy a köztársasági elnök által kinevezett tisztségviselő,
   - df) a kormányzati igazgatásról szóló 2018. évi CXXV. törvény (a továbbiakban: Kit.) szerinti politikai vagy biztosi szolgálati jogviszonyban álló tisztségviselő,
   - dg) a rendőrségi szerv országos parancsnoka és országos főigazgatója,
@@ -45,7 +45,7 @@ származó, egyedi döntés alapján nyújtott, pályázati úton vagy pályáza
   - di) a Honvéd Vezérkar főnöke,
   - dj) a területfejlesztésről és a területrendezésről szóló törvény által meghatározott regionális fejlesztési ügynökség vezető tisztségviselői, felügyelőbizottsága tagjai, illetve az Ágazati Operatív Programok Közreműködő szervezetei vezető tisztségviselői és ellenőrző szervének tagjai;
 - e) nem kizárt közjogi tisztségviselő:
-  - ea) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja, a helyi önkormányzat képviselő-testülete bizottságának tagja, valamint a vármegyei közgyűlés tagja, az alpolgármester, illetve a főpolgármester-helyettes,
+  - ea) a helyi önkormányzati és a nemzetiségi önkormányzati képviselő-testület tagja, a helyi önkormányzat képviselő-testülete bizottságának tagja, valamint a megyei közgyűlés tagja, az alpolgármester, illetve a főpolgármester-helyettes,
   - eb) a nemzetiségi szószóló, az országgyűlési képviselői mandátummal nem rendelkező háznagy,
   - ec) a belső kontrollrendszer működtetésére kötelezett szervezet első számú vezetője,
   - ed) a Kit. szerinti – a d) pont alá nem eső – szakmai felsővezető,
@@ -134,9 +134,9 @@ felkérésére kizárólag a pályázat kiírásáról hozott döntés meghozata
 
 (6) Az (1) bekezdés alkalmazásában nem minősül tisztségviselőnek a vagyonkezelő alapítvány és a közfeladatot ellátó közérdekű vagyonkezelő alapítvány vagyonellenőre.
 
-7. § (1) Ha a pályázatot helyi önkormányzat, nemzetiségi önkormányzat, helyi önkormányzati költségvetési szerv, országos nemzetiségi önkormányzati költségvetési szerv vagy ezek tulajdonában álló gazdasági társaság vagy közhasznú társaság nyújtotta be, a helyi önkormányzati képviselőtestület tagja, a nemzetiségi önkormányzati testület tagja, valamint a projekt megvalósulásával érintett vármegye (főváros) területén fekvő választókerületben megválasztott vagy a projekt megvalósulásával érintett településen lakóhellyel rendelkező országgyűlési képviselő a támogatási döntés meghozatalában nem vehet részt, de – ha a döntésre testület jogosult – a testület ülésén részt vehet.
+7. § (1) Ha a pályázatot helyi önkormányzat, nemzetiségi önkormányzat, helyi önkormányzati költségvetési szerv, országos nemzetiségi önkormányzati költségvetési szerv vagy ezek tulajdonában álló gazdasági társaság vagy közhasznú társaság nyújtotta be, a helyi önkormányzati képviselőtestület tagja, a nemzetiségi önkormányzati testület tagja, valamint a projekt megvalósulásával érintett megye (főváros) területén fekvő választókerületben megválasztott vagy a projekt megvalósulásával érintett településen lakóhellyel rendelkező országgyűlési képviselő a támogatási döntés meghozatalában nem vehet részt, de – ha a döntésre testület jogosult – a testület ülésén részt vehet.
 
-(2) Az (1) bekezdés nem akadálya annak, hogy a vármegyei közgyűlés elnöke vagy tagja, a fővárosi közgyűlés esetében a főpolgármester vagy a fővárosi közgyűlés tagja a támogatási döntés meghozatalát megelőzően a pályázat előzetes véleményezésében részt vegyen.
+(2) Az (1) bekezdés nem akadálya annak, hogy a megyei közgyűlés elnöke vagy tagja, a fővárosi közgyűlés esetében a főpolgármester vagy a fővárosi közgyűlés tagja a támogatási döntés meghozatalát megelőzően a pályázat előzetes véleményezésében részt vegyen.
 
 8. § (1) Ha a pályázó
 

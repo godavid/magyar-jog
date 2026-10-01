@@ -67,7 +67,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 - 2. felügyeletet ellátó szerv: a Pmt. 5. §-ában meghatározott szerv;
 - 3. harmadik ország: az Európai Unión kívüli állam;
 - 4. harmadik személy: az e törvény szerinti nyilvántartó szervtől, a hatóságtól, az ügyészségtől, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivataltól (a továbbiakban: NVVH), a bíróságtól, a felügyeletet ellátó szervtől, a szolgáltatótól, valamint az adatszolgáltatótól eltérő személy;
-- 5. hatóság: a pénzügyi információs egységként működő hatóság, a nyomozó hatóság, az általános rendőri feladatok ellátására létrehozott szerv, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, valamint a rendőrség terrorizmust elhárító szerve, továbbá az állami adó- és vámhatóság;
+- 5. hatóság: a pénzügyi információs egységként működő hatóság, a nyomozó hatóság, az általános rendőrségi feladatok ellátására létrehozott szerv, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, továbbá az állami adó- és vámhatóság;
 - 6. központi bankszámla- és széfnyilvántartás: a fizetésiszámla- és a széfszolgáltatási szerződések adataira vonatkozó nyilvántartás;
 - 7. központi nyilvántartások: a tényleges tulajdonosi nyilvántartás és a központi bankszámla- és széfnyilvántartás;
 - 8. nemzeti nyilvántartási szám: a tényleges tulajdonosi nyilvántartásban az adatszolgáltatóhoz hozzárendelt egyedi azonosító;

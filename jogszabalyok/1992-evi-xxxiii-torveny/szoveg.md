@@ -68,7 +68,7 @@ a közalkalmazottak jogállásáról
 6. § (1) A munkaügyi kapcsolatokat és a közalkalmazotti jogviszonyt érintő
 
 - a) ágazati jelentőségű kérdésekben az ágazati miniszter (a továbbiakban: miniszter) az országos önkormányzati érdek-képviseleti szervezetek bevonásával az érintett ágazatban, alágazatban, szakágazatban (a továbbiakban együtt: ágazat) reprezentatív szakszervezetekkel a KOMT-ban vagy a (6) bekezdés szerinti ágazati érdekegyeztető fórumban,
-- b) területi (vármegyei) vagy települési jelentőségű, ezen belül egyes ágazatokba tartozó közalkalmazottak jogviszonyát érintő kérdésekben a fenntartó az érintett, területi vagy települési szinten reprezentatív szakszervezetekkel a fenntartói szintű érdekegyeztető fórumban
+- b) területi (megyei) vagy települési jelentőségű, ezen belül egyes ágazatokba tartozó közalkalmazottak jogviszonyát érintő kérdésekben a fenntartó az érintett, területi vagy települési szinten reprezentatív szakszervezetekkel a fenntartói szintű érdekegyeztető fórumban
 
 egyeztet.
 
@@ -94,10 +94,10 @@ tervezetét.
 
 6/A. § (1) Az 5–6. §-ban meghatározott jogokat az a szakszervezet gyakorolja, amely az adott körben reprezentatív.
 
-(2) Területi (vármegyei) vagy települési szinten azt a szakszervezetet kell reprezentatívnak tekinteni,
+(2) Területi (megyei) vagy települési szinten azt a szakszervezetet kell reprezentatívnak tekinteni,
 
-- a) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (vármegyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
-- b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (vármegyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át.
+- a) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatók által foglalkoztatott közalkalmazottak létszámának 10%-át, vagy
+- b) amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri a fenntartó által területi (megyei) vagy települési szinten fenntartott munkáltatóknál az adott ágazatban foglalkoztatott közalkalmazottak létszámának 10%-át.
 - c)
 
 (3) Ágazati (alágazati, szakágazati) szinten azt a szakszervezetet kell reprezentatívnak tekinteni, amely közalkalmazotti jogviszonyban álló tagjainak száma tekintetében eléri az ágazatban (alágazatban, szakágazatban) foglalkoztatott közalkalmazottak létszámának 10%-át.

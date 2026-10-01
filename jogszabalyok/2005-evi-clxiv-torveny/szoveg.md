@@ -17,7 +17,7 @@ Az Országgyűlés abból kiindulva, hogy a kereskedelem a nemzetgazdaság megha
 - 3. bevásárlóközpont: olyan komplex kialakítású, vegyes rendeltetésű épület, amelyben állandó jelleggel több kereskedő folytat túlnyomórészt üzletekben különböző típusú kereskedelmi tevékenységet, és ahol emellett jellemzően a szabadidő eltöltésével összefüggő szolgáltatási tevékenységet is folytatnak;
 - 4. csomagküldő kereskedelem: az a kereskedelmi tevékenység, amelynek során a kereskedő a termék jellemzőit és árát feltüntető, ezáltal a vásárló számára az áru megvételére vonatkozó ügyleti döntés meghozatalát lehetővé tevő kereskedelmi kommunikációt bocsátja a vásárló rendelkezésére, és az ilyen kereskedelmi kommunikáció alapján megrendelt terméket szállítja (szállíttatja) a megjelölt címre;
 - 5. forgalmazás: kereskedelmi tevékenység keretében valamely termék értékesítése, fogyasztás vagy használat, illetve igénybevétel céljára ellenérték fejében történő rendelkezésre bocsátása;
-- 5a. helyi termelői piac: olyan piac, ahol a kistermelő a piac fekvése szerinti vármegyében, vagy a piac 40 km-es körzetében, vagy Budapesten fekvő piac esetében az ország területén bárhol működő gazdaságából származó mezőgazdasági-, illetve élelmiszeripari termékét értékesíti.
+- 5a. helyi termelői piac: olyan piac, ahol a kistermelő a piac fekvése szerinti megyében, vagy a piac 40 km-es körzetében, vagy Budapesten fekvő piac esetében az ország területén bárhol működő gazdaságából származó mezőgazdasági-, illetve élelmiszeripari termékét értékesíti.
 - 6. idegenvezetői tevékenység: üzletszerű gazdasági tevékenység keretében a turisztikai szempontból jelentős értékeknek és egyéb látnivalóknak az azokat látogató személyek számára a helyszínen való részletes ismertetése és ehhez kapcsolódóan a látogatók számára nem ismert helyen való eligazodás érdekében általános tájékoztatás, illetve adott esetben segítség nyújtása;
 - 7. jelentős piaci erő: olyan piaci helyzet, amelynek következtében a kereskedő a beszállító számára termékeinek, illetve szolgáltatásainak a vásárlókhoz való eljuttatása során ésszerűen megkerülhetetlen szerződéses partnerré válik, illetve vált, és forgalmi részesedésének mértéke miatt képes egy termék, termékcsoport piacra jutását regionálisan vagy országosan befolyásolni;
 - 8. kereskedelmi jellegű turisztikai szolgáltatási tevékenység: az idegenvezetői tevékenység, a lovas szolgáltató tevékenység, a szálláshely-szolgáltatási tevékenység, a tartós szálláshasználati szolgáltatási tevékenység, valamint az utazásszervezői és utazásközvetítői tevékenység;
@@ -133,8 +133,8 @@ egyéb feltételei
 5/C. § (1) Az árubemutatóval egybekötött termékértékesítést végző kereskedő a fogyasztók bejelentéseinek intézésére, panaszainak kivizsgálására és orvoslására, valamint a fogyasztók tájékoztatása céljából
 
 - a) székhelyén vagy telephelyén, valamint fióktelepén;
-- b) az árubemutatóval egybekötött termékértékesítés helye szerinti vármegyeszékhelyen;
-- c) a szervezett utazáshoz történő csatlakozásra a fogyasztók számára biztosított valamennyi indulási hely szerinti vármegyeszékhelyen;
+- b) az árubemutatóval egybekötött termékértékesítés helye szerinti megyeszékhelyen;
+- c) a szervezett utazáshoz történő csatlakozásra a fogyasztók számára biztosított valamennyi indulási hely szerinti megyeszékhelyen;
 - d) az árubemutatóval egybekötött termékértékesítés helyén, az árubemutató és a termékértékesítés időtartama alatt;
 
 köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint írásban, telefonon és elektronikus úton történő ügyintézési lehetőséggel, a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: fogyasztóvédelemről szóló törvény) 17/B. § (3) bekezdésének megfelelően.

@@ -1561,29 +1561,29 @@ A törvényszékek, valamint a járásbíróságok illetékességi területe
 
 - 1. Fővárosi Ítélőtábla
 - 1.1. Budapest főváros
-- 1.2. Nógrád vármegye
-- 1.3. Pest vármegye
+- 1.2. Nógrád megye
+- 1.3. Pest megye
 - 2. Szegedi Ítélőtábla
-- 2.1. Csongrád-Csanád vármegye
-- 2.2. Bács-Kiskun vármegye
-- 2.3. Békés vármegye
-- 2.4. Jász-Nagykun-Szolnok vármegye
+- 2.1. Csongrád-Csanád megye
+- 2.2. Bács-Kiskun megye
+- 2.3. Békés megye
+- 2.4. Jász-Nagykun-Szolnok megye
 - 3. Pécsi Ítélőtábla
-- 3.1. Baranya vármegye
-- 3.2. Somogy vármegye
-- 3.3. Tolna vármegye
-- 3.4. Zala vármegye
+- 3.1. Baranya megye
+- 3.2. Somogy megye
+- 3.3. Tolna megye
+- 3.4. Zala megye
 - 4. Debreceni Ítélőtábla
-- 4.1. Hajdú-Bihar vármegye
-- 4.2. Borsod-Abaúj-Zemplén vármegye
-- 4.3. Szabolcs-Szatmár-Bereg vármegye
-- 4.4. Heves vármegye
+- 4.1. Hajdú-Bihar megye
+- 4.2. Borsod-Abaúj-Zemplén megye
+- 4.3. Szabolcs-Szatmár-Bereg megye
+- 4.4. Heves megye
 - 5. Győri Ítélőtábla
-- 5.1. Fejér vármegye
-- 5.2. Győr-Moson-Sopron vármegye
-- 5.3. Komárom-Esztergom vármegye
-- 5.4. Vas vármegye
-- 5.5. Veszprém vármegye
+- 5.1. Fejér megye
+- 5.2. Győr-Moson-Sopron megye
+- 5.3. Komárom-Esztergom megye
+- 5.4. Vas megye
+- 5.5. Veszprém megye
 
 ### 3. melléklet a 2010. évi CLXXXIV. törvényhez
 
@@ -1591,29 +1591,29 @@ A törvényszékek, valamint a járásbíróságok illetékességi területe
 
 - 1. Fővárosi Törvényszék Katonai Tanácsa
 - 1.1. Budapest főváros
-- 1.2. Fejér vármegye
-- 1.3. Heves vármegye
-- 1.4. Jász-Nagykun-Szolnok vármegye
-- 1.5. Komárom-Esztergom vármegye
-- 1.6. Nógrád vármegye
-- 1.7. Pest vármegye
+- 1.2. Fejér megye
+- 1.3. Heves megye
+- 1.4. Jász-Nagykun-Szolnok megye
+- 1.5. Komárom-Esztergom megye
+- 1.6. Nógrád megye
+- 1.7. Pest megye
 - 2. Szegedi Törvényszék Katonai Tanácsa
-- 2.1. Bács-Kiskun vármegye
-- 2.2. Békés vármegye
-- 2.3. Csongrád-Csanád vármegye
+- 2.1. Bács-Kiskun megye
+- 2.2. Békés megye
+- 2.3. Csongrád-Csanád megye
 - 3. Győri Törvényszék Katonai Tanácsa
-- 3.1. Győr-Moson-Sopron vármegye
-- 3.2. Vas vármegye
-- 3.3. Veszprém vármegye
+- 3.1. Győr-Moson-Sopron megye
+- 3.2. Vas megye
+- 3.3. Veszprém megye
 - 4. Debreceni Törvényszék Katonai Tanácsa
-- 4.1. Borsod-Abaúj-Zemplén vármegye
-- 4.2. Hajdú-Bihar vármegye
-- 4.3. Szabolcs-Szatmár-Bereg vármegye
+- 4.1. Borsod-Abaúj-Zemplén megye
+- 4.2. Hajdú-Bihar megye
+- 4.3. Szabolcs-Szatmár-Bereg megye
 - 5. Kaposvári Törvényszék Katonai Tanácsa
-- 5.1. Baranya vármegye
-- 5.2. Somogy vármegye
-- 5.3. Tolna vármegye
-- 5.4. Zala vármegye
+- 5.1. Baranya megye
+- 5.2. Somogy megye
+- 5.3. Tolna megye
+- 5.4. Zala megye
 
 ### 4. melléklet a 2010. évi CLXXXIV. törvényhez
 
@@ -1622,31 +1622,31 @@ A törvényszékek, valamint a járásbíróságok illetékességi területe
 - 1. Fővárosi Törvényszék
 - 1.1. Budapest főváros
 - 2. Budapest Környéki Törvényszék
-- 2.1. Nógrád vármegye
-- 2.2. Pest vármegye
+- 2.1. Nógrád megye
+- 2.2. Pest megye
 - 3. Debreceni Törvényszék
-- 3.1. Hajdú-Bihar vármegye
-- 3.2. Jász-Nagykun-Szolnok vármegye
-- 3.3. Szabolcs-Szatmár-Bereg vármegye
+- 3.1. Hajdú-Bihar megye
+- 3.2. Jász-Nagykun-Szolnok megye
+- 3.3. Szabolcs-Szatmár-Bereg megye
 - 4. Győri Törvényszék
-- 4.1. Győr-Moson-Sopron vármegye
-- 4.2. Komárom-Esztergom vármegye
-- 4.3. Vas vármegye
+- 4.1. Győr-Moson-Sopron megye
+- 4.2. Komárom-Esztergom megye
+- 4.3. Vas megye
 - 5. Miskolci Törvényszék
-- 5.1. Borsod-Abaúj-Zemplén vármegye
-- 5.2. Heves vármegye
+- 5.1. Borsod-Abaúj-Zemplén megye
+- 5.2. Heves megye
 - 6. Pécsi Törvényszék
-- 6.1. Baranya vármegye
-- 6.2. Somogy vármegye
-- 6.3. Tolna vármegye
+- 6.1. Baranya megye
+- 6.2. Somogy megye
+- 6.3. Tolna megye
 - 7. Szegedi Törvényszék
-- 7.1. Bács-Kiskun vármegye
-- 7.2. Békés vármegye
-- 7.3. Csongrád-Csanád vármegye
+- 7.1. Bács-Kiskun megye
+- 7.2. Békés megye
+- 7.3. Csongrád-Csanád megye
 - 8. Veszprémi Törvényszék
-- 8.1. Fejér vármegye
-- 8.2. Veszprém vármegye
-- 8.3. Zala vármegye
+- 8.1. Fejér megye
+- 8.2. Veszprém megye
+- 8.3. Zala megye
 
 ### 5. melléklet a 2010. évi CLXXXIV. törvényhez
 

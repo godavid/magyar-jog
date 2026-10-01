@@ -138,7 +138,7 @@ során.
 
 6. § (1) A területi szervezet testületi szervei a közgyűlés, valamint a 8. és 9. §-ban meghatározott szervek (a továbbiakban együtt: területi ügyintéző szervek). A területi szervezet önálló költségvetés alapján működik és ellátja az e törvényben és az Alapszabályban hatáskörébe utalt feladatokat.
 
-(2) A területi szervezet az Alapszabályban meghatározott területen és székhelyen működik. A területi szervezet területe összefüggő, legalább egy vármegye területére terjedhet ki. Egy vármegye területén kizárólag egy területi szervezet működhet.
+(2) A területi szervezet az Alapszabályban meghatározott területen és székhelyen működik. A területi szervezet területe összefüggő, legalább egy megye területére terjedhet ki. Egy megye területén kizárólag egy területi szervezet működhet.
 
 (3) A területi szervezet elnevezésében utalni kell annak illetékességi területére.
 
@@ -261,7 +261,7 @@ során.
 - a) az élelmiszerlánc-felügyeleti szervnél vezetői munkakört betöltve közszolgálati tisztviselői jogviszonyban áll,
 - b) olyan államigazgatási szervnél folytat főállásban (legalább heti 36 órás) állatorvosi végzettséghez kötött közszolgálati tisztviselői tevékenységet, amely államigazgatási szerv illetékességi területe részben vagy egészben egybeesik az adott kamarai szervezet illetékességi területével,
 - c) politikai pártban tisztséget tölt be,
-- d) országgyűlési vagy európai parlamenti képviselő, állami vezető, vármegyei közgyűlés elnöke vagy alelnöke, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes.
+- d) országgyűlési vagy európai parlamenti képviselő, állami vezető, megyei közgyűlés elnöke vagy alelnöke, polgármester, alpolgármester, főpolgármester, főpolgármester-helyettes.
 
 (3) A (2) bekezdés c) pontja szerinti összeférhetetlenségi ok fennállása kérdésében, amennyiben az kétséges, a politikai párt nyilatkozata az irányadó.
 

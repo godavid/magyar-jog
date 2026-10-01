@@ -863,7 +863,7 @@ az adópolitikáért felelős miniszter által vezetett minisztérium honlapján
 
 45. § A helyi önkormányzat az ügykörébe tartozó adók és illetékek hatékony beszedésének elősegítésére a feltárt és beszedett adóhiányból, valamint a beszedett adó- és illetéktartozásból az önkormányzatokat megillető bevétel terhére rendeletében szabályozhatja az anyagi érdekeltség feltételeit.
 
-Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címzettjei, továbbá a polgármesteri (főpolgármesteri), valamint a vármegyei önkormányzati hivatal adó- vagy illetékügyi feladatokat ellátó köztisztviselői részesülhetnek.
+Az érdekeltségi célú juttatásból az adó- és az illetékhatáskör címzettjei, továbbá a polgármesteri (főpolgármesteri), valamint a megyei önkormányzati hivatal adó- vagy illetékügyi feladatokat ellátó köztisztviselői részesülhetnek.
 
 #### 46. §
 
@@ -984,7 +984,7 @@ elektronikus úton megküldi az állami adóhatóság részére.
 
 52. § E törvény alkalmazásában:
 
-- 1. önkormányzat illetékességi területe: a települési önkormányzat illetékességi területe vagy a vármegyei önkormányzat illetékességi területe;
+- 1. önkormányzat illetékességi területe: a települési önkormányzat illetékességi területe vagy a megyei önkormányzat illetékességi területe;
 - 2. külföldi: az a természetes személy, akinek állandó lakóhelye külföldön van és nem tartózkodik Magyarországon 183 napnál hosszabb időtartamban; továbbá az a jogi személy, gazdálkodó szervezet vagy más személyi egyesülés, amelynek székhelye (központja) külföldön van, ide nem értve a Magyarországon működő telepeit, fiókjait, képviseleteit,
 - 3. vagyoni értékű jog: az építményi jog, a kezelői jog, a vagyonkezelői jog, a tartós földhasználat, a haszonélvezet, a használat joga – ideértve a külföldiek ingatlanhasználati jogát is –, a lízingbevevői jog, tulajdonjog-fenntartáshoz kapcsolódó vevői jog, a földhasználat és a lakásbérlet;
 - 4. külterület: a település közigazgatási határának belterületén kívül eső földrészlete, ideértve a zártkertet is,

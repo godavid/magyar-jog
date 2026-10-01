@@ -169,7 +169,7 @@ ha az e törvényben és más jogszabályokban meghatározott feltételek szerin
 
 - a) a helyi önkormányzat képviselő-testülete,
 - b) a települési önkormányzat jegyzője (a továbbiakban: jegyző),
-- c) a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal),
+- c) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal),
 - d) a szociális hatóság, vagy
 - e) a szociálpolitikáért felelős miniszter
 
@@ -222,7 +222,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 
 (5) A vállalkozási tevékenység akkor tekinthető megszűntnek, ha az egyéni vállalkozói tevékenység az egyéni vállalkozóról szóló törvényben meghatározottak szerint megszűnt, az őstermelői igazolványt visszaadták vagy visszavonták, illetőleg a társas vállalkozást vagy az egyéni céget törölték a cégjegyzékből.
 
-(6) Ha a települési önkormányzat, a járási hivatal vagy a fővárosi és vármegyei kormányhivatal a hivatalos tudomása vagy környezettanulmány lefolytatása alapján a kérelmező életkörülményeire tekintettel az (1) bekezdés szerinti jövedelemnyilatkozatban foglaltakat vitatja, felhívhatja a kérelmezőt az általa lakott lakás, illetve saját és a családja tulajdonában álló vagyon fenntartási költségeit igazoló dokumentumok benyújtására. Abban az esetben, ha a fenntartási költségek meghaladják a jövedelemnyilatkozatban szereplő jövedelem 50%-át, a jövedelem a fenntartási költségek figyelembevételével vélelmezhető.
+(6) Ha a települési önkormányzat, a járási hivatal vagy a fővárosi és megyei kormányhivatal a hivatalos tudomása vagy környezettanulmány lefolytatása alapján a kérelmező életkörülményeire tekintettel az (1) bekezdés szerinti jövedelemnyilatkozatban foglaltakat vitatja, felhívhatja a kérelmezőt az általa lakott lakás, illetve saját és a családja tulajdonában álló vagyon fenntartási költségeit igazoló dokumentumok benyújtására. Abban az esetben, ha a fenntartási költségek meghaladják a jövedelemnyilatkozatban szereplő jövedelem 50%-át, a jövedelem a fenntartási költségek figyelembevételével vélelmezhető.
 
 (7) A szociális hatáskört gyakorló szervek megkeresésére az állami adóhatóság köteles közölni a szociális ellátást igénylő, valamint – írásbeli felhatalmazás alapján – az egy főre jutó havi jövedelem kiszámításánál figyelembe veendő személy személyi jövedelemadójának alapját.
 
@@ -408,7 +408,7 @@ kell figyelembe venni, azzal, hogy a b) pont szerinti számításnál azon hóna
 - a) a szociális ellátások tekintetében a 18/A. § d) és e) pontjában, és
 - b) a gyermekvédelmi ellátások tekintetében a Gyvt. 138. § (1) bekezdés d) pontjában
 
-meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, a gyermekvédelmi és gyámügyi feladatkörében, a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, a rehabilitációs hatóságként, a családtámogatási feladatokat ellátó szervként, az állami foglalkoztatási szervként, az áldozatsegítő szolgálatként, a jogi segítségnyújtó szolgálatként, illetve a pártfogó felügyelői szolgálatként eljáró fővárosi és vármegyei kormányhivatal, továbbá annak járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatainak ellátása céljából.
+meghatározott adatkörben közvetlen hozzáférést biztosít a szociális hatáskörében, a gyermekvédelmi és gyámügyi feladatkörében, a nyugdíjbiztosítási igazgatási szervként, egészségbiztosítási pénztári feladatkörében, a rehabilitációs hatóságként, a családtámogatási feladatokat ellátó szervként, az állami foglalkoztatási szervként, az áldozatsegítő szolgálatként, a jogi segítségnyújtó szolgálatként, illetve a pártfogó felügyelői szolgálatként eljáró fővárosi és megyei kormányhivatal, továbbá annak járási (fővárosi kerületi) hivatala számára a törvényben meghatározott feladatainak ellátása céljából.
 
 (2) Ha a szabad mozgás és tartózkodás jogával rendelkező személy három hónapnál hosszabb ideig részesül időskorúak járadékában, továbbá ha az aktív korúak ellátására való jogosultsága három hónapot meghaladó időtartamban fennáll, a járási hivatal erről a tényről értesíti a szabad mozgás és tartózkodás jogával rendelkező személy lakóhelye szerint illetékes területi idegenrendészeti hatóságot.
 
@@ -1569,7 +1569,7 @@ esetében kell vizsgálni.
 
 (7) A társulás keretében megszervezett falugondnoki szolgáltatás csak azon települések tekintetében működtethető, amelyek megfelelnek a (2) bekezdésben meghatározott feltételeknek. A társulás keretében megszervezett tanyagondnoki szolgáltatás csak azon ellátási területen működtethető, amely megfelel a (3) bekezdésben meghatározott feltételeknek.
 
-(8) A falugondnoki, illetve tanyagondnoki képzés szervezését a szolgáltatás helye szerint illetékes vármegyei önkormányzat látja el a szociálpolitikáért felelős miniszter által jóváhagyott képzési program alapján.
+(8) A falugondnoki, illetve tanyagondnoki képzés szervezését a szolgáltatás helye szerint illetékes megyei önkormányzat látja el a szociálpolitikáért felelős miniszter által jóváhagyott képzési program alapján.
 
 #### 61. §
 
@@ -2102,8 +2102,8 @@ biztosítható.
 
 - a) a harmincezer főnél nagyobb állandó lakosságszámú településeken a fogyatékos személyek gondozóháza, a pszichiátriai betegek és szenvedélybetegek átmeneti otthona megszervezéséről és fenntartásáról,
 - b) a fővárosban a pszichiátriai betegek, a szenvedélybetegek, fogyatékos személyek szakosított ellátásának a megszervezéséről és fenntartásáról,
-- c) a vármegye területén a szakosított ellátások megszervezéséről és fenntartásáról, azzal, hogy a megyei jogú város területére is kiterjedően köteles gondoskodni azokról az ellátásokról, amelyek megszervezésére a megyei jogú város a 90. § (2) bekezdése alapján nem köteles,
-- d) a vármegye területén a támogatott lakhatás megszervezéséről és fenntartásáról,
+- c) a megye területén a szakosított ellátások megszervezéséről és fenntartásáról, azzal, hogy a megyei jogú város területére is kiterjedően köteles gondoskodni azokról az ellátásokról, amelyek megszervezésére a megyei jogú város a 90. § (2) bekezdése alapján nem köteles,
+- d) a megye területén a támogatott lakhatás megszervezéséről és fenntartásáról,
 - e) a fejlesztő foglalkoztatásról.
 
 (2) A fővárosi önkormányzat köteles gondoskodni
@@ -2148,7 +2148,7 @@ tehet eleget.
 
 (4)
 
-(5) A (3) bekezdés szerinti jogkörében a szociálpolitikáért felelős miniszter az adott vármegye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
+(5) A (3) bekezdés szerinti jogkörében a szociálpolitikáért felelős miniszter az adott megye, város szolgáltatástervezési koncepciójában foglaltak figyelembevételével, az elérhető szolgáltatások és az adott szolgáltatás iránti társadalmi szükséglet alapján dönt.
 
 (6) Ha a (2) bekezdés a) pontja szerinti szolgáltató, intézmény fenntartója megváltozik, és az intézményben foglalkoztatott közalkalmazott
 
@@ -2185,7 +2185,7 @@ rendeletet alkot.
 
 (6)
 
-(6a) A vármegye, a főváros területén működő egyházi fenntartók és nem állami fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
+(6a) A megye, a főváros területén működő egyházi fenntartók és nem állami fenntartók kötelesek együttműködni és adatot szolgáltatni a koncepció készítése során.
 
 (7)
 
@@ -3484,7 +3484,7 @@ járul hozzá.
 
 (8) A beteg – a jövedelem- és vagyonnyilatkozat kivételével – mentesül a szociális intézményi jogviszony létesítéséhez előírt dokumentumok benyújtásának kötelezettsége alól.
 
-(9) A szakápolási központ soron kívül fogadja az átadás-átvétellel érintett fekvőbeteg-ellátást biztosító egészségügyi intézményből, továbbá a szakápolási központ székhelye szerinti vármegye egészségügyi szolgáltatójának fekvőbeteg-ellátást nyújtó osztályáról a szakorvosi javaslatra érkező beteget.
+(9) A szakápolási központ soron kívül fogadja az átadás-átvétellel érintett fekvőbeteg-ellátást biztosító egészségügyi intézményből, továbbá a szakápolási központ székhelye szerinti megye egészségügyi szolgáltatójának fekvőbeteg-ellátást nyújtó osztályáról a szakorvosi javaslatra érkező beteget.
 
 ### VIII. Fejezet — ZÁRÓ RENDELKEZÉSEK
 

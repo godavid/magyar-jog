@@ -705,7 +705,7 @@ számított százhúsz napon belül bejelenti, és
 - e) a háztartási méretű kiserőművekről a külön jogszabályban meghatározott nyilvántartás vezetése,
 - f) az e törvény alapján védendő felhasználókkal kapcsolatos, külön jogszabályban meghatározott feladatok ellátása,
 - g) a mérési, leolvasási és számlázási rendszerek fejlesztéséről a működési engedélyben meghatározott időszakonként beszámoló készítése, illetve a számlázási rendszer lényeges megváltoztatása előtt a Hivatallal történő egyeztetés,
-- h) állandó ügyfélszolgálati irodák működtetése – a Vhr. rendelkezéseinek alkalmazásával – telefonos és elektronikus eléréssel, valamint az ügyfelek részére nyitva álló helyiségben a működési területén lévő vármegyeszékhelyen és megyei jogú városban, vagy, ha a működési területén ilyen város nincs, az ellátotti települések közül a legtöbb felhasználóval rendelkező településen, és
+- h) állandó ügyfélszolgálati irodák működtetése – a Vhr. rendelkezéseinek alkalmazásával – telefonos és elektronikus eléréssel, valamint az ügyfelek részére nyitva álló helyiségben a működési területén lévő megyeszékhelyen és megyei jogú városban, vagy, ha a működési területén ilyen város nincs, az ellátotti települések közül a legtöbb felhasználóval rendelkező településen, és
 - i) az elosztó hálózathoz történő csatlakozás és hozzáférés, valamint az ezekkel kapcsolatos információk biztosítása – a csatlakozási földrajzi elhelyezkedését, a csatlakozási díj hozzávetőleges mértékét, a rugalmas hálózati csatlakozási szerződés lehetőségét is ideértve –, beleértve az erőművi hálózati hozzáférés érdekében az elosztó hálózaton kiadható csatlakozási kapacitás mértékének meghatározását is és
 - j) olyan adatforgalmi és informatikai rendszer működtetése, amely biztosítja az adatcserét.
 

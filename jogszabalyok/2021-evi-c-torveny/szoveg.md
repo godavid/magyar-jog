@@ -866,7 +866,7 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
 72/B. § (1) Ha a védelmi és biztonsági tevékenységek összehangolásáról szóló 2021. évi XCIII. törvény 5. § 15. pontja szerinti védelmi és biztonsági esemény (a továbbiakban: védelmi és biztonsági esemény) bekövetkezése, illetve az ingatlan-nyilvántartás vezetését támogató informatikai rendszer egyéb okból bekövetkező üzemzavara miatt az elektronikus ügyintézés szünetel (a továbbiakban: elektronikus ügyintézés szünetelése), e törvény rendelkezéseit az ezen alcímben foglalt eltérésekkel kell alkalmazni.
 
-(2) Az ingatlan-nyilvántartási beadványokat papíralapon az ingatlan fekvése szerint illetékes fővárosi és vármegyei kormányhivatal által üzemeltetett kormányablakban, az ingatlanügyi hatóság ügyfélfogadásra nyitva álló szervezeti egységénél kell benyújtani vagy postai úton az illetékes fővárosi és vármegyei kormányhivatalnak megküldeni.
+(2) Az ingatlan-nyilvántartási beadványokat papíralapon az ingatlan fekvése szerint illetékes fővárosi és megyei kormányhivatal által üzemeltetett kormányablakban, az ingatlanügyi hatóság ügyfélfogadásra nyitva álló szervezeti egységénél kell benyújtani vagy postai úton az illetékes fővárosi és megyei kormányhivatalnak megküldeni.
 
 (3) Az ingatlan-nyilvántartási eljárásért fizetendő igazgatási szolgáltatási díj pénztári befizetéssel vagy átutalással teljesíthető. A beadvány benyújtásával egyidejűleg az igazgatási szolgáltatási díj megfizetését igazolni vagy a díjmentesség fennállásáról nyilatkozni kell.
 
@@ -890,7 +890,7 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
 (10) A beadványok elbírálása során automatikus döntéshozatalnak nincs helye.
 
-(11) A beadványok intézése során a beadvánnyal érintett ingatlan fekvése szerinti fővárosi és vármegyei kormányhivatal jogosult eljárni.
+(11) A beadványok intézése során a beadvánnyal érintett ingatlan fekvése szerinti fővárosi és megyei kormányhivatal jogosult eljárni.
 
 #### 40/C. A 2025. január 14-én meglévő – közérdekű használati joggal nem biztosított – közművek helyzetének rendezése
 
@@ -931,7 +931,7 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 
 (5) A (4) bekezdés nem vonatkozik arra az esetre, ha az adatszolgáltatást vagy lekérdezést a tulajdonos valamennyi ingatlanáról
 
-- a) a bíróság, az NVVH, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a terrorizmust elhárító szerv, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
+- a) a bíróság, az NVVH, a bírósági végrehajtó, az adóhatóság, a nemzetbiztonsági szolgálat, a nyomozó hatóság, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv vagy a Belső Ellenőrzési és Integritási Igazgatóság törvényben meghatározott feladatai ellátása céljából,
 - b) az ügyészség büntetőügyben vagy a közérdekvédelmi feladatai ellátásához,
 - c) a jegyző a hagyatéki leltár elkészítéséhez vagy a közjegyző a hagyatéki eljárás lefolytatásához, illetve az örökhagyó tulajdonában álló magyarországi ingatlan adatainak a külföldi hagyatéki eljárás céljára történő tanúsításához,
 - d) a mezőgazdasági igazgatási szerv, erdészeti hatóság,
@@ -940,8 +940,9 @@ per megindítása tényének bejegyzését az ingatlan-nyilvántartásba.
 - g) a szociális feladat- és hatáskörben eljáró szerv a pénzbeli és természetbeni ellátások eljárásaihoz,
 - h) a bejegyzett tulajdonos vagy teljes bizonyító erejű magánokiratba foglalt meghatalmazással rendelkező meghatalmazottja,
 - i) az európai öröklési bizonyítvánnyal igazolt örökös az örökhagyó valamennyi ingatlanának az ingatlan-nyilvántartásból történő megállapításához,
-- j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásában a jogosultságvizsgálat elvégzéséhez, vagy
-- k) törvényben meghatározott egyéb szerv vagy személy az ott meghatározott célból
+- j) a Családi Csődvédelmi Szolgálat a természetes személyek adósságrendezési eljárásában a jogosultságvizsgálat elvégzéséhez,
+- k) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása céljából, vagy
+- l) törvényben meghatározott egyéb szerv vagy személy az ott meghatározott célból
 
 kéri.
 
@@ -979,9 +980,9 @@ kéri.
 
 #### 43. Tulajdonilap-másolatba történő betekintés
 
-78. § (1) Természetes személy kérelmére a saját és olyan ingatlan tulajdonilap-másolatába, amelyen jogosultként szerepel, a fővárosi és vármegyei kormányhivatal saját számítástechnikai eszközével betekintést biztosít.
+78. § (1) Természetes személy kérelmére a saját és olyan ingatlan tulajdonilap-másolatába, amelyen jogosultként szerepel, a fővárosi és megyei kormányhivatal saját számítástechnikai eszközével betekintést biztosít.
 
-(2) Társasházi közös képviselő vagy az intézőbizottság elnöke részére, azon társasházingatlanhoz tartozó tulajdonilap-másolatokba, amelynél a közösség képviseletét a társasházakról szóló törvény alapján elláthatja, e feladatai ellátásával összefüggő célból, a fővárosi és vármegyei kormányhivatal saját számítástechnikai eszközével betekintést biztosít.
+(2) Társasházi közös képviselő vagy az intézőbizottság elnöke részére, azon társasházingatlanhoz tartozó tulajdonilap-másolatokba, amelynél a közösség képviseletét a társasházakról szóló törvény alapján elláthatja, e feladatai ellátásával összefüggő célból, a fővárosi és megyei kormányhivatal saját számítástechnikai eszközével betekintést biztosít.
 
 #### 44. Földkönyvi adatszolgáltatás
 
@@ -1062,7 +1063,7 @@ biztosítja.
 (2) Az ingatlan-nyilvántartási eljárás díja alól teljes személyes díjmentességben részesül:
 
 - a) a magyar állam,
-- b) a fővárosi és vármegyei kormányhivatal, valamint a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala,
+- b) a fővárosi és megyei kormányhivatal, valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
 - c) az egyházi jogi személy,
 - d) az Észak-atlanti Szerződés Szervezete, továbbá az Észak-atlanti Szerződés tagállamainak és az Észak-atlanti Szerződés Szervezetével aláírt „Békepartnerség” program Keretdokumentumának törvénybe iktatásáról, és annak a Magyar Köztársaság által történő végrehajtásáról szóló törvényben kihirdetett Békepartnerség más részt vevő államainak Magyarországon tartózkodó fegyveres erői – ideértve az azok alkalmazásában álló nem magyar állampolgárságú, hivatásos szolgálatban lévő és polgári állományú személyeket is – kizárólag a szolgálati kötelezettségükkel összefüggő ingatlanügyek tekintetében.
 
@@ -1149,7 +1150,8 @@ bejegyzésére, módosítására, törlésére irányul;
 - 1. közigazgatási hatósági eljáráshoz kérik,
 - 2. hagyatéki eljárás lefolytatásához kérik,
 - 3. közérdekű bejelentés, javaslat és panasz elbírálására irányuló eljáráshoz kérik,
-- 4. a nyomozó és a szabálysértési hatóság, továbbá a szabálysértési elzárással is büntethető szabálysértések esetében az előkészítő eljárást lefolytató szerv, a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv vagy a nemzetbiztonsági szolgálatok feladataik ellátása érdekében kérik,
+- 4. a nyomozó hatóság, a szabálysértési hatóság, a szabálysértési elzárással is büntethető szabálysértések esetében az előkészítő eljárást lefolytató szerv vagy a nemzetbiztonsági szolgálatok feladataik ellátása érdekében kérik,
+- 4a. az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladata, valamint személyvédelmi és létesítménybiztosítási feladatai ellátása érdekében kéri,
 - 5. a helyi önkormányzatok vagy társulásaik közszolgáltatásait érintő beruházások megvalósítása érdekében benyújtandó közösségi, illetve nemzeti forrásból nyújtott támogatással megvalósuló pályázatok dokumentációjának elkészítéséhez kérik,
 - 6. a vízügyi igazgatási szerv törvényben meghatározott közfeladatainak teljesítése céljából kéri,
 - 7. a vízügyi hatóság és a vízvédelmi hatóság a vízgazdálkodási és vízvédelmi hatósági eljárással összefüggő feladatai ellátásához, valamint a hivatásos katasztrófavédelmi szerv az integrált hatósági ügyviteli rendszerhez kapcsolódó feladatai ellátása érdekében kéri,

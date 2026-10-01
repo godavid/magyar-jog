@@ -356,7 +356,7 @@ tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 
 9. § (1) Az agrárkamara tagjának joga, hogy
 
-- a) részt vegyen a vármegyei küldöttek megválasztásában, e törvényben foglaltak és e törvény felhatalmazása alapján megalkotott szabályok szerint,
+- a) részt vegyen a megyei küldöttek megválasztásában, e törvényben foglaltak és e törvény felhatalmazása alapján megalkotott szabályok szerint,
 - b) küldöttnek vagy a testületi szervek tagjának válasszák,
 - c) a küldöttgyűlésben vagy a testületi szervekben tisztséget viseljen,
 - d) az agrárkamara tisztségviselőitől a feladatkörükbe tartozó kérdésben tájékoztatást kérjen,
@@ -425,7 +425,7 @@ tekinthet be a tagjegyzékbe, valamint a gazdaságszerkezeti nyilvántartásba.
 
 (2) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény alapján a helyi földbizottság feladatkörében eljáró agrárkamarát a helyi földbizottság állásfoglalása ellen előterjesztett kifogás elbírálására irányuló eljárásban – ideértve a jogorvoslati eljárásokat is – az ügyfél jogállása, továbbá a kifogás elbírálásáról szóló döntés elleni közigazgatási per vonatkozásában keresetindítási jog illeti meg.
 
-(3) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti helyi földbizottság feladatkörében az agrárkamarának a szerződéssel érintett föld fekvése szerinti területi szerve alatt az agrárkamara föld fekvése szerinti vármegyei elnökségét kell érteni.
+(3) A mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény szerinti helyi földbizottság feladatkörében az agrárkamarának a szerződéssel érintett föld fekvése szerinti területi szerve alatt az agrárkamara föld fekvése szerinti megyei elnökségét kell érteni.
 
 #### 1. Az agrárkamara igazgatási jellegű közfeladatai
 
@@ -618,7 +618,7 @@ felelős.
 
 ### Az országos küldöttgyűlés
 
-19. § (1) Az agrárkamara legfőbb szerve az öt évre választott országos küldöttgyűlés. Az országos küldöttgyűlés tagjai az országos küldöttek, valamint az agrárkamara vármegyei szervezeteinek elnökei.
+19. § (1) Az agrárkamara legfőbb szerve az öt évre választott országos küldöttgyűlés. Az országos küldöttgyűlés tagjai az országos küldöttek, valamint az agrárkamara megyei szervezeteinek elnökei.
 
 (2) Az országos küldöttgyűlés kizárólagos hatáskörébe tartozik
 
@@ -636,7 +636,7 @@ felelős.
 
 (3) Az alapszabály – a (2) bekezdésben meghatározottakon túl – más ügyet is az országos küldöttgyűlés hatáskörébe utalhat.
 
-(4) Az országos küldöttgyűlés hatáskörébe tartozik az országos, valamint a vármegyei küldöttgyűlési küldöttek választása rendjének a megállapítása azzal, hogy az országos küldöttgyűlés egyes döntéseket más agrárkamarai testületi szerv hatáskörébe utalhat.
+(4) Az országos küldöttgyűlés hatáskörébe tartozik az országos, valamint a megyei küldöttgyűlési küldöttek választása rendjének a megállapítása azzal, hogy az országos küldöttgyűlés egyes döntéseket más agrárkamarai testületi szerv hatáskörébe utalhat.
 
 20. § (1) Az országos küldöttgyűlést az alapszabályban meghatározott időközönként, de legalább évente egyszer össze kell hívni. Az országos küldöttgyűlést akkor is össze kell hívni, ha azt legalább a küldöttek egyötöde – az ok és a cél megjelölésével – írásban kéri.
 
@@ -666,27 +666,27 @@ felelős.
 
 (3) Az elektronikus hírközlő eszköz alkalmazásával tartott országos küldöttgyűlésen elhangzottakat és meghozott határozatokat úgy kell rögzíteni, hogy azok utóbb is ellenőrizhetőek legyenek.
 
-20/C. § A vármegyei (fővárosi) küldöttgyűlésre a 20/A. és 20/B. §-ban foglaltakat kell alkalmazni.
+20/C. § A megyei (fővárosi) küldöttgyűlésre a 20/A. és 20/B. §-ban foglaltakat kell alkalmazni.
 
-### Az agrárkamara vármegyei szervezete
+### Az agrárkamara megyei szervezete
 
-21. § (1) A vármegyékben, valamint a fővárosban az alapszabályban meghatározottak szerint működik az agrárkamara területi szervezete.
+21. § (1) A megyékben, valamint a fővárosban az alapszabályban meghatározottak szerint működik az agrárkamara területi szervezete.
 
-(2) A vármegyei (fővárosi) küldöttgyűlés az agrárkamara területi önkormányzatiságának szervezete.
+(2) A megyei (fővárosi) küldöttgyűlés az agrárkamara területi önkormányzatiságának szervezete.
 
-(3) A vármegyei (fővárosi) küldöttgyűlés feladata:
+(3) A megyei (fővárosi) küldöttgyűlés feladata:
 
 - a) az agrárkamara területi szervezete elnökének, valamint alapszabályban meghatározott tisztségviselőinek megválasztása,
 - b) az országos küldöttek megválasztása,
 - c) az alapszabályban meghatározott döntések meghozatala.
 
-(4) A vármegyei (fővárosi) elnök:
+(4) A megyei (fővárosi) elnök:
 
 - a) tagja az országos küldöttgyűlésnek,
 - b) tagja az országos elnökségnek, továbbá
 - c) ellátja az e törvényben, valamint az alapszabályban meghatározott feladatokat.
 
-(5) Az agrárkamara vármegyei (fővárosi) szervezetében az alapszabályban meghatározottak szerinti testületi szervek működnek.
+(5) Az agrárkamara megyei (fővárosi) szervezetében az alapszabályban meghatározottak szerinti testületi szervek működnek.
 
 ### Az elnökség
 
@@ -696,14 +696,14 @@ felelős.
 
 - a) az agrárkamara elnöke,
 - b) az agrárkamara alelnökei,
-- c) az agrárkamara vármegyei szervezetének elnökei,
+- c) az agrárkamara megyei szervezetének elnökei,
 - d) országos etikai bizottság elnöke.
 
 (3) Az elnökség ülésein az agrárkamara főigazgatója, valamint az országos kamarai osztályok elnökei állandó meghívottként tanácskozási és javaslattételi joggal vesznek részt.
 
 ### Az elnök, az alelnökök
 
-23. § (1) Az agrárkamarát az elnök önállóan képviseli. Az elnök a képviseleti jogát a 23. § (2) bekezdés szerinti alelnökre, az agrárkamara vármegyei szervezetének elnökére, az agrárkamara alkalmazásában álló személyre írásban átruházhatja. Az elnök a főigazgató akadályoztatása esetén, valamint ha a főigazgató tisztség nincs betöltve, a főigazgatói jogkörök gyakorlását magához vonhatja, illetve e jogkör gyakorlását az elnök általános helyettesítésével kapcsolatos feladatok ellátásáért felelős alelnökre, a főigazgató helyettesítésére az agrárkamara szervezeti és működési szabályzata alapján feljogosított személyre ruházhatja át.
+23. § (1) Az agrárkamarát az elnök önállóan képviseli. Az elnök a képviseleti jogát a 23. § (2) bekezdés szerinti alelnökre, az agrárkamara megyei szervezetének elnökére, az agrárkamara alkalmazásában álló személyre írásban átruházhatja. Az elnök a főigazgató akadályoztatása esetén, valamint ha a főigazgató tisztség nincs betöltve, a főigazgatói jogkörök gyakorlását magához vonhatja, illetve e jogkör gyakorlását az elnök általános helyettesítésével kapcsolatos feladatok ellátásáért felelős alelnökre, a főigazgató helyettesítésére az agrárkamara szervezeti és működési szabályzata alapján feljogosított személyre ruházhatja át.
 
 (2) Az agrárkamara országos küldöttgyűlése alelnököket választ.
 
@@ -753,19 +753,19 @@ felelős.
 
 (5) A főigazgató az agrárkamara ügyintéző szervezetében dolgozó munkavállalók felett a munkáltatói jogokat – a (6), a (7) bekezdésben foglalt eset kivételével – önállóan gyakorolja.
 
-(6) A főigazgató vármegyei (fővárosi) ügyintéző szervezet vezetője felett a munkáltatói jogokat a főigazgató gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az agrárkamara adott vármegyei szervezete elnökével történt előzetes egyeztetés alapján dönthet.
+(6) A főigazgató megyei (fővárosi) ügyintéző szervezet vezetője felett a munkáltatói jogokat a főigazgató gyakorolja, azzal, hogy a munkaviszony létesítéséről, megszüntetéséről csak az agrárkamara adott megyei szervezete elnökével történt előzetes egyeztetés alapján dönthet.
 
 (7) Az elnök közvetlen irányítása alá tartozó szervezeti egység vezetője felett a munkáltatói jogokat az elnök, az érintett szervezeti egység munkavállalói felett pedig az elnök által irányított szervezeti egység vezetője gyakorolja.
 
-(8) Az igazgató az agrárkamara országos ügyintéző szervezet önálló szervezeti egységének, a vármegyei (fővárosi) ügyintéző szervezetének vezetője, aki az agrárkamarával munkaviszonyban áll. Igazgató csak az lehet, aki a kormányzati igazgatásról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető.
+(8) Az igazgató az agrárkamara országos ügyintéző szervezet önálló szervezeti egységének, a megyei (fővárosi) ügyintéző szervezetének vezetője, aki az agrárkamarával munkaviszonyban áll. Igazgató csak az lehet, aki a kormányzati igazgatásról szóló törvény szerint kormányzati szolgálati viszonyba kinevezhető.
 
 (9) Az igazgatót az agrárkamara szervezeti és működési szabályzatában meghatározottak szerint az elnök, valamint a főigazgató irányítja.
 
 (10) Az agrárkamara hatáskörébe utalt közigazgatási ügyekben az agrárkamara szervezeti és működési szabályzatában meghatározottak szerint a főigazgató a közigazgatási szerv vezetőjeként jár el. Ezekben az ügyekben ügyintézőként csak az járhat el, aki a kormányzati igazgatásról szóló törvény szerint kormánytisztviselőnek kinevezhető.
 
-(11) Az agrárkamara ügyintéző szervezete országos és vármegyei ügyintéző szervezetekből áll. Az agrárkamara ügyintéző szervezetének szervezeti és működési szabályzatát a főigazgató javaslata alapján az alapszabályban rögzítettek szerint az elnök állapítja meg.
+(11) Az agrárkamara ügyintéző szervezete országos és megyei ügyintéző szervezetekből áll. Az agrárkamara ügyintéző szervezetének szervezeti és működési szabályzatát a főigazgató javaslata alapján az alapszabályban rögzítettek szerint az elnök állapítja meg.
 
-27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, – jogszabály eltérő rendelkezése hiányában – első fokon a 15/B. §-ban meghatározott ügyek kivételével az agrárkamara vármegyei ügyintéző szervezete jár el. A 15/B. §-ban meghatározott feladatokat a központi ügyintéző szervezet látja el. A vármegyei ügyintéző szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az agrárkamara országos ügyintéző szervezete jogosult.
+27/A. § Ha törvény vagy kormányrendelet rendelkezése alapján valamely közigazgatási hatósági eljárás lefolytatására az agrárkamara jogosult, – jogszabály eltérő rendelkezése hiányában – első fokon a 15/B. §-ban meghatározott ügyek kivételével az agrárkamara megyei ügyintéző szervezete jár el. A 15/B. §-ban meghatározott feladatokat a központi ügyintéző szervezet látja el. A megyei ügyintéző szervezet döntése ellen fellebbezésnek van helye, amelynek elbírálására az agrárkamara országos ügyintéző szervezete jogosult.
 
 #### 28. §
 
@@ -830,17 +830,17 @@ felelős.
 
 #### 36. §
 
-37. § (1) Ha e törvény eltérően nem rendelkezik, országos, illetve vármegyei küldöttnek
+37. § (1) Ha e törvény eltérően nem rendelkezik, országos, illetve megyei küldöttnek
 
 - a) az a gazda választható, aki nagykorú, és az agrárkamara tagja,
 - b) az a gazdálkodó szervezet választható, amely az agrárkamara tagja.
 
-(2) Nem választható országos, illetve vármegyei küldöttnek, aki
+(2) Nem választható országos, illetve megyei küldöttnek, aki
 
 - a) cselekvőképességet korlátozó vagy kizáró gondnokság alatt áll;
 - b) büntetett előéletű.
 
-(3) Gazdálkodó szervezet törvényes képviselője a gazdálkodó szervezet országos, illetve vármegyei küldötti jogait abban az esetben gyakorolhatja, ha vele szemben a (2) bekezdésben foglalt kizárási ok nem áll fenn.
+(3) Gazdálkodó szervezet törvényes képviselője a gazdálkodó szervezet országos, illetve megyei küldötti jogait abban az esetben gyakorolhatja, ha vele szemben a (2) bekezdésben foglalt kizárási ok nem áll fenn.
 
 ### VII. Fejezet — AZ AGRÁRKAMARA MŰKÖDÉSE
 
@@ -954,7 +954,7 @@ felelős.
 
 53. § (1) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
-- a) az ingatlanügyi hatóság, az adóhatóság, a Nemzeti Kifizető Ügynökség és a fővárosi és vármegyei kormányhivatal általi, az agrárkamara részére térítésmentesen történő adatszolgáltatási kötelezettség szabályait;
+- a) az ingatlanügyi hatóság, az adóhatóság, a Nemzeti Kifizető Ügynökség és a fővárosi és megyei kormányhivatal általi, az agrárkamara részére térítésmentesen történő adatszolgáltatási kötelezettség szabályait;
 - b) az agrárkamara hatáskörébe tartozó igazgatási feladatok ellátásával és azok elvégzésének díjával kapcsolatos részletes szabályokat.
 
 (2) Felhatalmazást kap a Kormány, hogy egyes agrárigazgatási hatósági feladatok tekintetében eljáró hatóságként, egyes feladatok tekintetében mezőgazdasági igazgatási szervként az agrárkamarát rendeletben kijelölje és megállapítsa e hatósági feladatok ellátásáért fizetendő igazgatási szolgáltatási díjat, valamint megfizetésének szabályait.

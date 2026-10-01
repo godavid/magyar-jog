@@ -646,7 +646,7 @@ szerinti szálláshelyét állandó lakóhelynek kell tekinteni.
 
 (3) A szakhatósági közreműködés keretében a honvédelemért felelős miniszter azt vizsgálja, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerint vagy további feltételek mellett biztosíthatók-e.
 
-86. § (1) Az e Fejezet szerinti, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű vasúti építménnyel kapcsolatos környezetvédelmi hatósági eljárások tekintetében, ideértve az ezen ingatlanokkal összefüggő környezetvédelmi hatósági ügyeket is, Jász-Nagykun-Szolnok Vármegyei Kormányhivatal az illetékes hatóság.
+86. § (1) Az e Fejezet szerinti, az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű vasúti építménnyel kapcsolatos környezetvédelmi hatósági eljárások tekintetében, ideértve az ezen ingatlanokkal összefüggő környezetvédelmi hatósági ügyeket is, Jász-Nagykun-Szolnok Megyei Kormányhivatal az illetékes hatóság.
 
 (2) Az (1) bekezdés szerinti környezetvédelmi hatósági ügyben hozott elsőfokú döntést az első fokon eljáró hatóság fellebbezésre tekintet nélkül azonnal végrehajthatónak nyilváníthatja.
 
@@ -656,7 +656,7 @@ szerinti szálláshelyét állandó lakóhelynek kell tekinteni.
 
 (5) A 83. § (1) bekezdése szerinti kijelölt beruházások megvalósításával összefüggő építésügyi hatósági engedély vagy környezetvédelmi hatósági engedély felülvizsgálatára irányuló közigazgatási perben nincs helye azonnali jogvédelemnek.
 
-87. § Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű vasúti építményre irányuló beruházás esetében a helyi önkormányzat által megállapított, a fás szárú növényekre vonatkozó követelmények nem alkalmazandók, továbbá a kivágáshoz szükséges engedélyezési hatáskört Jász-Nagykun-Szolnok Vármegye Kormányhivatala gyakorolja.
+87. § Az ország védelme és biztonsága szempontjából jelentős honvédelmi kijelölésű vasúti építményre irányuló beruházás esetében a helyi önkormányzat által megállapított, a fás szárú növényekre vonatkozó követelmények nem alkalmazandók, továbbá a kivágáshoz szükséges engedélyezési hatáskört Jász-Nagykun-Szolnok Megye Kormányhivatala gyakorolja.
 
 88. § (1) E Fejezet rendelkezéseit az e Fejezet hatálybalépésekor folyamatban lévő közigazgatási hatósági eljárásokban, valamint a megismételt eljárásokban is alkalmazni kell.
 

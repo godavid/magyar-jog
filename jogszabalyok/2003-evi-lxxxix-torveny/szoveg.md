@@ -90,7 +90,7 @@ bocsát ki.
 
 (4) A talajterhelési díj számításának részletes szabályait e törvény 3. számú melléklete határozza meg.
 
-13. §
+#### 13. §
 
 14. § A talajterhelési díj alapja csökkenthető azzal a számlákkal igazolt mennyiséggel, amelyet a kibocsátó szennyvíztárolójából, olyan arra feljogosított szervezettel szállíttat el, amely a folyékony hulladék jogszabályi előírások szerinti elhelyezését igazolja.
 
@@ -124,7 +124,7 @@ bocsát ki.
 
 18. § A kibocsátó a levegőterhelési díjat, a vízterhelési díjat, valamint a vízjogi engedély alapján végzett tevékenységéhez kapcsolódó talajterhelési díjat az állami adóhatóság által vezetett számla javára fizeti be.
 
-19. §
+#### 19. §
 
 ### A levegőterhelési díj, a vízterhelési díj és a vízjogi engedély hatálya alá tartozó tevékenységhez kapcsolódó talajterhelési díj fizetési kötelezettség bevallása, adatszolgáltatás
 
@@ -154,7 +154,7 @@ bocsát ki.
 
 22. § Amennyiben a kibocsátó a 15. §-ban meghatározott beruházást a kivitelezési engedélyben meghatározott határidőig, illetve legfeljebb a véglegessé vált engedély kiadásától számított öt évig nem helyezi üzembe, úgy a díjkedvezményt a mindenkori jegybanki alapkamat kétszeresével növelt összegben kell visszafizetnie.
 
-23. §
+#### 23. §
 
 ### Egyes eljárási szabályok
 
@@ -174,9 +174,9 @@ bocsát ki.
 
 (4) A települési önkormányzatok rendeletben állapítják meg a helyi vízgazdálkodási hatósági jogkörbe tartozó szennyvízelhelyezéshez kapcsolódó talajterhelési díjjal kapcsolatban a 12. §-ban meghatározott általány megállapításának szempontjait, valamint a 21/A. §-ban meghatározottakat.
 
-27. § (1) A levegőterhelési díj fizetésére kötelezett kibocsátó a 2004. évben az e törvény alapján megállapított levegőterhelési díj 40%-át, 2005. évben 40%-át, 2006. évben 75%-át, 2007. évben 90%-át, a 2008. évtől 100%-át köteles megfizetni. A vízterhelési díj fizetésére kötelezett kibocsátó a 2004. évben az e törvény alapján megállapított vízterhelési díj 30%-át, 2005. évben 30%-át, 2006. évben 50%-át, 2007. évben 80%-át, 2008. évtől kezdődően 100%-át köteles megfizetni. A talajterhelési díj fizetésére kötelezett kibocsátó a 2004. évben az e törvény alapján megállapított talajterhelési díj 20%-át, 2005. évben 20%-át, 2006. évben 50%-át, 2007. évben 75%-át, 2008. évben 90%-át, a 2009. évtől 100%-át köteles megfizetni.
+27. § (1) A 16. § (1) bekezdésétől eltérően a 2026. év negyedik negyedévi levegőterhelési díjelőleg összege a 2025. évi tényleges kibocsátások alapján fizetett teljes levegőterhelési díj összegének a fele.
 
-(2) A 2004. évben a negyedéves díjelőleg a 2003. évi tényleges kibocsátási adatok alapján egy naptári évre számított díj negyedének megfelelő összeg (képzett díjelőleg). Amennyiben a vízterhelési díj fizetésére kötelezett kibocsátónál a 2003. évi tényleges kibocsátási adatok nem állnak rendelkezésre, úgy a vízjogi engedélyben meghatározott kibocsátási adatokat kell figyelembe venni.
+(2) A 16. § (1) bekezdésétől eltérően a 2027. évben fizetendő negyedévi levegőterhelési díjelőleg összege a 2026. évi tényleges kibocsátások alapján fizetett teljes levegőterhelési díj összegének a fele.
 
 (3) Az a kibocsátó, aki hulladékhasznosítást végez, az új termékbe beépülő hazai hulladék mennyisége arányának megfelelően jogosult a negyedévenként esedékes levegő és vízterhelési díjelőleget csökkenteni.
 
@@ -196,11 +196,11 @@ LTD (Ft/év) = (Mi [kg/év] x Pi [Ft/kg])
 | Mi: | az adott (i-edik) levegőterhelő anyag kibocsátott éves mennyisége, |
 | Pi: | az adott (i-edik) levegőterhelő anyagra érvényes, a következő táblázatban meghatározott egységdíj: |
 
-| Levegőterhelő anyag | Egységdíj mértéke Pi (Ft/kg) |
+| Levegőterhelő anyag | Egységdíj mértékePi (Ft/kg) |
 | --- | --- |
-| Kén-dioxid | 50 |
-| Nitrogén-oxidok | 120 |
-| Szilárd anyag (nem toxikus) | 30 |
+| Kén-dioxid | 100 |
+| Nitrogén-oxidok | 240 |
+| Szilárd anyag (nem toxikus) | 60 |
 
 ### 2. számú melléklet a 2003. évi LXXXIX. törvényhez
 
@@ -221,7 +221,7 @@ VTD (Ft/év) = ∑(Mi [kg/év] x Pi [Ft/kg]) x T x I
 
 A területérzékenységi szorzó mértéke
 
-- 1. számú táblázat Területi kategóriák: „A” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően a Balaton, valamint vízgyűjtő területe, „B” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően az egyéb védett területek (befogadók), „C” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően az általánosan védett felszíni vízminőségvédelmi területek (befogadók). Az iszapelhelyezési szorzó mértéke
+- 1. számú táblázat
 
 | Területi kategória | Szorzótényező (T) |
 | --- | --- |
@@ -229,7 +229,17 @@ A területérzékenységi szorzó mértéke
 | B | 1,0 |
 | C | 0,7 |
 
-- 2. számú táblázat Az egységdíj mértéke Az egységdíj mértéke
+Területi kategóriák:
+
+„A” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően a Balaton, valamint vízgyűjtő területe,
+
+„B” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően az egyéb védett területek (befogadók),
+
+„C” kategória: a külön jogszabályban meghatározott területi lehatárolásnak megfelelően az általánosan védett felszíni vízminőségvédelmi területek (befogadók).
+
+Az iszapelhelyezési szorzó mértéke
+
+- 2. számú táblázat
 
 |  | Iszapszorzó (I) |  |  |
 | --- | --- | --- | --- |
@@ -243,6 +253,10 @@ A területérzékenységi szorzó mértéke
 | lerakó (csak iszap vagy települési szilárd hulladékkal együtt) | 1,2 | 1,1 | 1,0 |
 | regionális lerakó (csak iszap vagy települési szilárd hulladékkal együtt) | 1,1 | 1,0 | 1,0 |
 |  |  |  |  |
+
+Az egységdíj mértéke
+
+Az egységdíj mértéke
 
 - 3. számú táblázat
 

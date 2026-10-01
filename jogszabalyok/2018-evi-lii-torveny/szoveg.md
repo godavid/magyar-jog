@@ -539,7 +539,7 @@ tanúsítja, az a) és b) pont szerinti esetben az igazolás vagy a diákigazolv
   - g) a nevelőszülői foglalkoztatási jogviszony,
   - h) az ösztöndíjas foglalkoztatási jogviszony,
   - i) a közfoglalkoztatási jogviszony,
-  - j) a Magyar Honvédség, a rendvédelmi szervek, az Országgyűlési Őrség, a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának e jogviszonya,
+  - j) a Magyar Honvédség, a rendvédelmi szervek, a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjának e jogviszonya,
   - k) a Magyar Honvédség szerződéses állományú tagjának e jogviszonya,
   - l) a katonai szolgálatot teljesítő önkéntes tartalékos katona e jogviszonya,
   - m) a nemzeti felsőoktatásról szóló törvényben meghatározott hallgatói munkaszerződés alapján létrejött munkaviszony,

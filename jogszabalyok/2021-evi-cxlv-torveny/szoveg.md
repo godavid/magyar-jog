@@ -27,7 +27,7 @@ Az Országgyűlés annak érdekében, hogy az Alkotmánybíróság 4/2018. (IV. 
 
 #### 3. A kompenzációra való jogosultság megállapítása
 
-3. § (1) A kompenzációra való jogosultság megállapítása az ingatlanügyi hatósági jogkörben eljáró Pest Vármegyei Kormányhivatal (a továbbiakban: ingatlanügyi hatóság) hatáskörébe tartozik.
+3. § (1) A kompenzációra való jogosultság megállapítása az ingatlanügyi hatósági jogkörben eljáró Pest Megyei Kormányhivatal (a továbbiakban: ingatlanügyi hatóság) hatáskörébe tartozik.
 
 (2) A 2. § szerinti jogosult az e törvény szerinti kompenzációra való jogosultságának megállapítására és a kárpótlási jegyben vagy kárpótlási utalványban megállapított kárpótlás összegének megfelelő aranykorona-érték meghatározására irányuló – az 1. melléklet szerinti adattartalmú – kérelmet (a továbbiakban: kérelem) 2022. március 31-ig nyújthatja be az ingatlanügyi hatósághoz. A határidő elmulasztása esetén igazolásnak van helye.
 

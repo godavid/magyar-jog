@@ -225,7 +225,7 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 - c) a KSH,
 - d) a rendőrség.
 - e) a helyi önkormányzat, valamint
-- f) a fővárosi, vármegyei kormányhivatal.
+- f) a fővárosi, megyei kormányhivatal.
 - g) az Üzemeltető.
 
 (4) A helyi önkormányzat, valamint a KSH a hatáskörükbe tartozó feladatok ellátása során nem kérhetnek olyan adatot, amely a Nemzeti Turisztikai Adatszolgáltató Központban az (1)–(3) bekezdés szerinti hozzáférési jogosultság alapján a rendelkezésükre áll.
@@ -260,7 +260,7 @@ személyes adatot nem tartalmazó adatkörökbe tartozó, a szálláshely-szolg�
 
 (2a) Az (1) bekezdés a) pontja szerinti adatokat a szálláshely-szolgáltató a 14 év alatti szálláshely-szolgáltatást igénybe vevő vonatkozásában a képviselőjének nyilatkozata alapján is rögzítheti. A 14 év alatti szálláshely-szolgáltatást igénybe vevő esetében a (2) bekezdéstől eltérően az (1) bekezdés b) pontja szerinti okmányt nem kell bemutatni és nem kell rögzíteni az okmány azonosító adatait.
 
-(2b) Az (1) bekezdéstől eltérően a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szervnél hivatásos szolgálati viszonyban álló, személyvédelmi szolgálati feladatot ellátó tagja (1) bekezdés a) és b) pontja szerinti adatait a személyi állomány védelme érdekében nem kell rögzíteni. A hivatásos állományba tartozást és a szolgálati jogosultságokat igazoló szolgálati igazolványt a szálláshely-szolgáltatónak be kell mutatni, azonban nem kell rögzíteni a szolgálati igazolvány okmányazonosító adatait.
+(2b)
 
 (3) A szálláshely-szolgáltató a szálláshely-szolgáltatást igénybe vevő (1) bekezdés a) és b) pontjában meghatározott adatait az (1) bekezdésben meghatározott célból az adatszolgáltatási kötelezettség teljesítéséig kezeli a szálláshelykezelő szoftverben.
 

@@ -889,7 +889,7 @@ alapján indul meg.
 
 (2) A központi és területi államigazgatási szerv, helyi önkormányzat, a bíróság és az 5. §-ban meghatározott felügyeletet ellátó szerv köteles a pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében kért (1) bekezdésben meghatározott adatot, titkot a pénzügyi információs egység rendelkezésére bocsátani.
 
-44. § (1) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni nyomozó hatóság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nemzetbiztonsági szolgálat, rendőrségről szóló törvényben meghatározott, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv által kezelt adatot.
+44. § (1) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében a feladatainak ellátásához szükséges mértékben jogosult megismerni és kezelni nyomozó hatóság, ügyészség, Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal, nemzetbiztonsági szolgálat, valamint a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv által kezelt adatot, továbbá az általános rendőrségi feladatok ellátására létrehozott szerv által a terrorcselekmények felderítési feladataival összefüggésben kezelt adatokat.
 
 (2) A pénzügyi információs egység elemző-értékelő és felügyeleti tevékenysége keretében adat szolgáltatását kérheti az (1) bekezdésben meghatározott szervtől, amelynek átadását a megkeresett szerv – a (4) bekezdésben meghatározott eset kivételével – nem tagadhatja meg.
 
@@ -976,7 +976,10 @@ alapján indul meg.
 - b) az ügyészség, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal;
 - c) a bíróság;
 - d) a nemzetbiztonsági szolgálat;
-- e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó, valamint a terrorizmust elhárító szerv
+- e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
+- f) az általános rendőrségi feladatok ellátására létrehozott szervnek a terrorcselekmények felderítési feladatait ellátó szervezeti egysége;
+- g) a Rendőrségről szóló 1994. évi XXXIV. törvény 1. § (2) bekezdés 15a. pontjában meghatározott feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szerv;
+- h) a személyvédelmi és létesítménybiztosítási feladatkörében eljáró általános rendőrségi feladatok ellátására létrehozott szerv
 
 részére.
 

@@ -14,10 +14,10 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 - b) gazdasági kamara tagja: az a gazdálkodó szervezet, amely a tagsággal járó jogokat és kötelezettségeket önkéntesen vállalja, a gazdasági kamarába tagként felvették és a tagokról vezetett nyilvántartásba bejegyezték;
 - c) kézműipari tevékenység: az a tevékenység, amely a gazdálkodó szervezet vagyonának, forgalmának mértékét, üzemméretét, alkalmazottainak számát és szakképesítését, a termelő, a kereskedelmi, illetve a szolgáltató tevékenység jellegét, a gazdálkodó szervezet tagjának a munka végzésében való személyes közreműködését figyelembe véve a kézműipari szakmák jegyzékébe került felvételre, ideértve a művészi kézművességet is;
 - d)
-- e) országos gazdasági érdek-képviseleti szervezet: gazdasági érdek-képviseleti célra létrehozott olyan egyesület, illetve egyesületek szövetsége, amelynek legalább 10 vármegyére vagy legalább 9 vármegyére és a fővárosra kiterjedően van tagsága;
+- e) országos gazdasági érdek-képviseleti szervezet: gazdasági érdek-képviseleti célra létrehozott olyan egyesület, illetve egyesületek szövetsége, amelynek legalább 10 megyére vagy legalább 9 megyére és a fővárosra kiterjedően van tagsága;
 - f) képviseletre jogosult természetes személy: az egyéni vállalkozó, a gazdálkodó szervezet tagja (részvényese), vezető tisztségviselője, illetőleg alkalmazottja, továbbá az egyéni vállalkozó alkalmazottja és segítő családtagja;
 - g) gazdasági kamara: a kereskedelmi és iparkamara területi és országos szervezetei;
-- h) területi gazdasági kamaraterületi gazdasági kamara>: a vármegyei (fővárosi) és a vármegyeszékhelyen kívüli megyei jogú városi kamara.
+- h) területi gazdasági kamaraterületi gazdasági kamara>: a megyei (fővárosi) és a megyeszékhelyen kívüli megyei jogú városi kamara.
 
 ### II. Fejezet — A GAZDASÁGI KAMARÁK
 
@@ -31,11 +31,11 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (4) A gazdasági kamarák feladatainak ellátása nem érinti az egyesülési szabadság érvényesülését, így különösen nem korlátozza az egyesületek ahhoz való jogát, hogy tevékenységük célját – az egyesülési jogról szóló törvény rendelkezéseivel összhangban – szabadon határozzák meg.
 
-4. § (1) A területi gazdasági kamarák a vármegyékben, a vármegyeszékhelyen kívüli megyei jogú városokban és a fővárosban működnek.
+4. § (1) A területi gazdasági kamarák a megyékben, a megyeszékhelyen kívüli megyei jogú városokban és a fővárosban működnek.
 
-(2) A vármegyénként, a vármegyeszékhelyen kívüli megyei jogú városokban, illetve a fővárosban alakult gazdasági kamarák egyesülhetnek; az új kamara illetékességi területe az egyesülő kamarák illetékességi területével megegyezik.
+(2) A megyénként, a megyeszékhelyen kívüli megyei jogú városokban, illetve a fővárosban alakult gazdasági kamarák egyesülhetnek; az új kamara illetékességi területe az egyesülő kamarák illetékességi területével megegyezik.
 
-(3) A (2) bekezdés szerint létrejött gazdasági kamara szétválásával vármegyénként, a vármegyeszékhelyen kívüli megyei jogú városokban, illetve a fővárosban működő gazdasági kamarák hozhatók létre.
+(3) A (2) bekezdés szerint létrejött gazdasági kamara szétválásával megyénként, a megyeszékhelyen kívüli megyei jogú városokban, illetve a fővárosban működő gazdasági kamarák hozhatók létre.
 
 5. § A gazdasági kamara – alapszabályának megfelelően – helyi szervezeti egységet hozhat létre.
 
@@ -114,7 +114,7 @@ Az állam gazdasági szerepvállalásának csökkentéséhez szükség van a gaz
 
 (5) A gazdálkodó szervezet a megszűnése, vagy a kamarai nyilvántartásban szereplő adataiban történt változás esetén köteles tizenöt munkanapon belül a nyilvántartást vezető területi gazdasági kamaránál a kamarai nyilvántartásból való törlését, illetve az adatmódosítást kezdeményezni. A kamarai nyilvántartásból való törlésért, illetve a változás-bejelentés alapján történő adatmódosításért díjat nem kell fizetni.
 
-(6) A gazdálkodó szervezetek kamarai nyilvántartásában szereplő adatok nyilvánosak. A kamarai nyilvántartásból országos vagy több vármegyét érintő adatszolgáltatásra az országos gazdasági kamara, kizárólag a területi gazdasági kamara illetékességét érintő adatszolgáltatásra az érintett területi kamara jogosult. Az elektronikus regisztrációra, a nyilvántartás vezetésére és annak a (2) bekezdésben foglaltakon felüli, önkéntes adatszolgáltatáson alapuló adattartalmára, valamint a kamarai nyilvántartásból történő adatszolgáltatásra, annak a felmerülő költségekkel arányos díjára vonatkozó részletes szabályokat az országos gazdasági kamara alapszabálya állapítja meg.
+(6) A gazdálkodó szervezetek kamarai nyilvántartásában szereplő adatok nyilvánosak. A kamarai nyilvántartásból országos vagy több megyét érintő adatszolgáltatásra az országos gazdasági kamara, kizárólag a területi gazdasági kamara illetékességét érintő adatszolgáltatásra az érintett területi kamara jogosult. Az elektronikus regisztrációra, a nyilvántartás vezetésére és annak a (2) bekezdésben foglaltakon felüli, önkéntes adatszolgáltatáson alapuló adattartalmára, valamint a kamarai nyilvántartásból történő adatszolgáltatásra, annak a felmerülő költségekkel arányos díjára vonatkozó részletes szabályokat az országos gazdasági kamara alapszabálya állapítja meg.
 
 8/B. § (1) Az üzleti forgalom biztonságának, valamint a gazdaság fejlesztésének előmozdítása érdekében az országos kamara a kamarai nyilvántartás részeként, a gazdálkodó szervezetek iránti bizalom megítélését elősegítő és gazdasági tevékenységüket jellemző, nyilvánosan elérhető és közhiteles nyilvántartásból származó nyilvános információkat tartalmazó adatbázist hoz létre és működtet.
 
@@ -192,7 +192,7 @@ az üzleti forgalom biztonságával kapcsolatban
 - e) határozatban figyelmeztetik a fogyasztók érdekeivel ellentétes gazdasági tevékenységet folytató és ezzel a gazdálkodó szervezetek széles körének jó hírnevét sértő vagy veszélyeztető kamarai tag gazdálkodó szervezeteket, és – az etikai szabályzatban meghatározott esetekben és módon – a figyelmeztetést nyilvánosságra hozzák, súlyosabb vagy ismétlődő esetben kezdeményezhetik a tevékenység gyakorlásának meghatározott időre történő felfüggesztéséhez szükséges intézkedések meghozatalát; ha a gazdálkodó szervezet gazdasági tevékenysége a fogyasztók széles körét érintő vagy jelentős nagyságú hátrányt is okoz, pert indíthatnak a fogyasztók polgári jogi igényeinek érvényesítése iránt;
 - f) együttműködnek a fogyasztóvédelmi hatósággal és a Gazdasági Versenyhivatallal, amelyek az általuk hozott jogerős határozatokat az illetékes gazdasági kamarákkal közlik;
 - g) minősítő és ellenőrzési rendszereket működtetnek;
-- h) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) alapján törvényességi felügyeleti eljárást kezdeményezhetnek, illetve a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) az egyéni vállalkozói tevékenység megszüntetését kezdeményezhetik és a járási hivatal az egyéni vállalkozói tevékenység megszüntetéséről az egyéni vállalkozó székhelye szerinti jegyzőt értesíti,
+- h) a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló 2006. évi V. törvény (a továbbiakban: Ctv.) alapján törvényességi felügyeleti eljárást kezdeményezhetnek, illetve a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál (a továbbiakban: járási hivatal) az egyéni vállalkozói tevékenység megszüntetését kezdeményezhetik és a járási hivatal az egyéni vállalkozói tevékenység megszüntetéséről az egyéni vállalkozó székhelye szerinti jegyzőt értesíti,
 - i) működtetik a fogyasztóvédelemről szóló 1997. évi CLV. törvény alapján működő békéltető testületeket;
 - j) közreműködnek a gazdálkodó szervezetek nemzetközi gazdasági kapcsolataival összefüggő minőségvédelmi és szállítmányozási kárügyek intézésében.
 
@@ -469,7 +469,7 @@ a tisztségviselőkkel szemben támasztott követelmények
 
 (3)
 
-(4) A választási névjegyzékkel és a tagjegyzékkel kapcsolatos kifogást a közszemlére tétel időtartama alatt írásban kell a gazdasági kamara alapszabályban kijelölt testületi szervével közölni, amely az alaptalannak tartott kifogást legkésőbb a beérkezést követő 3 napon belül átteszi a vármegyeszékhelyen működő járásbírósághoz, Budapesten a Pesti Központi Kerületi Bírósághoz.
+(4) A választási névjegyzékkel és a tagjegyzékkel kapcsolatos kifogást a közszemlére tétel időtartama alatt írásban kell a gazdasági kamara alapszabályban kijelölt testületi szervével közölni, amely az alaptalannak tartott kifogást legkésőbb a beérkezést követő 3 napon belül átteszi a megyeszékhelyen működő járásbírósághoz, Budapesten a Pesti Központi Kerületi Bírósághoz.
 
 (5) A bíróság a kifogásról a beérkezésétől számított 3 napon belül, polgári nemperes eljárásban határoz. Ha a bíróság a kifogást alaposnak tartja, elrendeli a választási névjegyzék vagy a tagjegyzék kiigazítását, ellenkező esetben a kifogást elutasítja. A bíróság határozata ellen további jogorvoslatnak nincs helye.
 
@@ -614,7 +614,7 @@ kamarai feladatokkal összefüggő tevékenység folytatására. A névhasznála
 
 (3) A gazdasági kamarák 2000. október 31. napjáig kötelesek ellátni mindazokat a közfeladatokat és közigazgatási feladatokat, amelyeket jogszabály a feladat- és hatáskörükbe utal.
 
-49. § E törvény végrehajtását – a soron kívüli kamarai választások lebonyolításáig – főispán felügyeli. Felhatalmazást kap a Kormány, hogy a főispán feladat- és hatáskörét rendeletben szabályozza.
+49. § E törvény végrehajtását – a soron kívüli kamarai választások lebonyolításáig – kormánymegbízott felügyeli. Felhatalmazást kap a Kormány, hogy a kormánymegbízott feladat- és hatáskörét rendeletben szabályozza.
 
 50. § Felhatalmazást kap a Kormány, hogy azokban a közigazgatási ügyekben, amelyekben a gazdasági kamarák nem törvény rendelkezése alapján járnak el, rendelkezzen e feladatok további ellátásáról.
 

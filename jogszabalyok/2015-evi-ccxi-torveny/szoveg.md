@@ -24,7 +24,7 @@ Az Országgyűlés a kéményseprő-ipari tevékenység hosszú távú, zavartal
 - 14. tartalék (biztonsági) égéstermék-elvezető: olyan égéstermék-elvezető, amely a tartalékfűtés célját szolgálja, üzemképes állapotban van, de nincs rácsatlakoztatva tüzelőberendezés;
 - 15. tüzelőberendezés: szilárd, cseppfolyós vagy légnemű energiatermelő anyaggal üzemelő berendezés, amelyben a működés során égéstermék keletkezik;
 - 16. egylakásos ingatlan: nem társasházként vagy szövetkezeti házként nyilvántartott lakóingatlan;
-- 17. ellátási terület: a vármegye (főváros) közigazgatási területének azon része, amelyen
+- 17. ellátási terület: a megye (főváros) közigazgatási területének azon része, amelyen
   - a) a kéményseprő-ipari szerv a 10. § (1) bekezdés b) pontja szerinti esetben a 2. § (1) bekezdés a) pontja szerinti ingatlanok körében, valamint a 2. § (11) bekezdés szerinti esetben a 2. § (1) bekezdés a) és b) pontja szerinti ingatlanok körében,
   - b) a kéményseprő-ipari szolgáltató – a tűzvédelmi hatóság által a 7. § (4) bekezdése szerint vezetett nyilvántartásba történt felvételt követően – a 2. § (1) bekezdés b) pontja szerinti ingatlanok körében, vagy
   - c) a 10. § (3) bekezdése szerinti szolgáltató a 10. § (1) bekezdés a) pontja szerinti esetben a 2. § (1) bekezdés a) és b) pontja szerinti ingatlanok körében
@@ -94,7 +94,7 @@ kell elvégezni.
 
 (10) A kéményseprő-ipari szolgáltató a kéményseprő-ipari tevékenység megkezdése előtt köteles a tevékenység folytatására irányuló szándékát a székhelye szerint illetékes tűzvédelmi hatóságnak jogszabályban meghatározott módon bejelenteni.
 
-(11) A kéményseprő-ipari szerv látja el a kéményseprő-ipari tevékenységet megrendelés alapján költségtérítés ellenében az (1) bekezdés b) pontja alá tartozó ingatlanok esetében is, ha a vármegyei ellátási területen nem működik kéményseprő-ipari szolgáltató.
+(11) A kéményseprő-ipari szerv látja el a kéményseprő-ipari tevékenységet megrendelés alapján költségtérítés ellenében az (1) bekezdés b) pontja alá tartozó ingatlanok esetében is, ha a megyei ellátási területen nem működik kéményseprő-ipari szolgáltató.
 
 (12) A társasházi és lakásszövetkezeti lakóépületben lévő ingatlanok (6) bekezdés szerinti tulajdoni viszonyairól a tárgyév január elsejei állapot szerint a kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató felhívására a társasház közös képviselője, valamint a lakásszövetkezet elnöke nyilatkozik.
 

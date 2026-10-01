@@ -69,7 +69,7 @@ során kell alkalmazni.
 - 13. munkáltatás: a reintegrációs tevékenység azon formája, amikor az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető munkavégzése szervezetten, rendszeresen, haszon- vagy bevételszerzési céllal, a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) által szabályozott munkaviszonytól eltérő, jogszabályban meghatározott feltételekkel és díjazás ellenében történik, az így létrejövő munkáltatási jogviszony alanyai munkáltatóként a bv. intézet, a fogvatartottak kötelező foglalkoztatására létrehozott gazdasági társaság vagy a bv. szerv szerződése és az elítéltek vagy a kényszerintézkedés hatálya alatt álló személy és a szabálysértési elzárásra kötelezett elkövető hozzájárulása alapján más gazdálkodó szervezet, valamint munkavégzőként – a reintegrációs őrizetben lévő elítélt kivételével – az elítélt, a kényszerintézkedés hatálya alatt álló személy vagy a szabálysértési elzárásra kötelezett elkövető;
 - 14. munkaterápiás foglalkoztatás: a reintegrációs tevékenység azon formája, amikor elsősorban a kényszergyógykezelt, az előzetes kényszergyógykezelt és a gyógyító-reintegráló csoportba helyezett, valamint a megváltozott munkaképességű vagy egyébként az egészségi állapota miatt a munkáltatásban részt venni nem képes elítélt foglalkoztatása szervezetten, rendszeresen, e törvényben meghatározott feltételekkel és térítési díj ellenében, büntetés-végrehajtási jogviszony keretében történik,
 - 14a. rendelkezési jogkör gyakorlója: a letartóztatással összefüggésben a bíróságnak a tárgyalás előkészítése során hozott határozatáig az ügyészség, illetve a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal (a továbbiakban: NVVH), ezt követően a bíróság; a szabadságvesztés végrehajtása esetén az elítélttel szemben szabadságvesztéssel fenyegetett bűncselekmény miatt indult büntetőeljárással összefüggésben az a bíróság, illetve ügyészség, amely előtt a büntetőeljárás folyamatban van, vagy az NVVH, ha a büntetőeljárás előtte van folyamatban,
-- 14b. rendfokozat: a honvéd és a polgári nemzetbiztonsági szolgálat hivatásos állományú tagja esetében a viselt rendfokozat, a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat,
+- 14b. rendfokozat: a honvéd és a polgári nemzetbiztonsági szolgálat hivatásos állományú tagja esetében a viselt rendfokozat, a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv esetében a betöltött szolgálati beosztás besorolása és fizetési fokozata alapján meghatározott rendfokozat,
 - 14c. tényleges tartózkodási hely: lakcím hiányában vagy a lakcímtől eltérően az az ingatlan, ahol az elítélt vagy az egyéb jogcímen fogvatartott ténylegesen tartózkodik, továbbá közérdekű munka vagy pártfogó felügyelet végrehajtása szempontjából az elítélt munkahelye,
 - 15. védő: a Be. szerinti védő, valamint a büntetések és az intézkedések végrehajtása alatt az elítélt vagy az egyéb jogcímen fogvatartott büntetés-végrehajtási ügyében eljáró ügyvéd,
 - 16. végrehajtásért felelős szerv: a büntetés-végrehajtási szervezet, a javítóintézet, a pártfogó felügyelői szolgálatként a Kormány által kijelölt szerv (a továbbiakban: pártfogó felügyelői szolgálat).
@@ -380,7 +380,7 @@ azzal, hogy körözés elrendelésére és elfogatóparancs kibocsátására kiz
 
 (7) Ha e törvény elrendeli, a végrehajtásért felelős szerv vagy szervezeti egység vezetője az (1)–(3) bekezdés szerinti intézkedéséről, döntéséről – az ott meghatározott eljárásban – határozatot hoz.
 
-(8) A bv. intézet parancsnokának, az agglomerációs központ vezetőjének, a büntetés-végrehajtás országos parancsnokának (a továbbiakban: országos parancsnok), a büntetés-végrehajtásért felelős miniszternek, valamint a javítóintézeti parancsnok döntése – ha jogszabály kivételt nem tesz – végrehajtható.
+(8) A bv. intézet parancsnokának, az agglomerációs központ vezetőjének, a büntetés-végrehajtás országos parancsnokának (a továbbiakban: országos parancsnok), a büntetés-végrehajtásért felelős miniszternek, valamint a javítóintézet igazgatójának döntése – ha jogszabály kivételt nem tesz – végrehajtható.
 
 (9) Érdemi vizsgálat nélkül el lehet utasítani
 
@@ -1844,7 +1844,7 @@ történik.
 - g) a közérdekű munkára ítélt társadalombiztosítási azonosító jelére, egészségügyi adataira, szociális helyzetére, foglalkozására, munkahelyére, munkarendjére és tanulói jogviszonyára, tanulmányi rendjére, valamint családi körülményeire vonatkozó adataira, továbbá – ha azokat megadja – a levelezési címére, telefonszámára, illetve e-mail címére, valamint a végrehajtás helyére, kezdő és befejező időpontjára, valamint a ledolgozott napok számára,
 - h) a közügyektől eltiltott esetén a népképviseleti szerv testületében vagy bizottságában korábban betöltött tagságára, civil szervezetben betöltött vezetői tisztségére, köztestületben vagy közalapítványban viselt tisztségére, volt katonai rendfokozatára, volt címzetes rendfokozatára, volt belföldi vagy külföldi kitüntetésére, a hivatalos személyi minőséget korábban megalapozó jogviszonyára, törvényben kihirdetett nemzetközi szerződéssel létrehozott szervezet közgyűlésébe, testületébe történt korábbi delegálására vonatkozó adataira, illetve az arra vonatkozó adatokra, hogy korábban védőként vagy jogi képviselőként járt el,
 - i) a pártfogó felügyelet alatt álló b) pont szerinti adataira, egészségügyi adataira, esetleges káros szenvedélyeire, foglalkozására, munkahelyére vagy tanulói jogviszonyára, szociális helyzetére, így különösen családi körülményeire, lakáskörülményeire, jövedelmi és vagyoni körülményeire vonatkozó adataira, valamint a bűnismétlési kockázatok valószínűségére és az azt megalapozó adatokra, így a bűnügyi személyes adataira, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére, továbbá a külön magatartási szabály végrehajtásával összefüggésben a sértett vagy egyéb érintett természetes személyazonosító adataira, lakcímére, értesítési címére, tényleges tartózkodási helyére, kézbesítési címére, elektronikus levelezési címére, hangkapcsolatot biztosító vagy más elektronikus elérhetőségére,
-- j) a kényszergyógykezelés és a javítóintézeti nevelés hatálya alatt álló arcképmására és hangjára, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi viszonyaira, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére, továbbá javítóintézeti nevelés esetén a végrehajtás helyére, kezdő és befejező időpontjára,
+- j) a kényszergyógykezelés és a javítóintézeti nevelés hatálya alatt álló arcképmására, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi viszonyaira, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira, fiatalkorú esetén tanulmányi eredményeire, az oktatási intézményben tanúsított magaviseletére, pedagógiai jellemzésére, továbbá javítóintézeti nevelés esetén a végrehajtás helyére, kezdő és befejező időpontjára,
 - k) az utógondozott társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, szociális helyzetére, így különösen családi viszonyaira, lakáskörülményeire, valamint jövedelmi és vagyoni körülményeire vonatkozó adataira,
 - l) a kényszerintézkedés hatálya alatt álló arcképmására és hangjára, társadalombiztosítási azonosító jelére, egészségügyi adataira, esetleges káros szenvedélyeire, valamint a végrehajtás helyére, kezdő és befejező időpontjára,
 - m) az elítélt vagy az egyéb jogcímen fogvatartott jogai gyakorlásához és kötelezettségei teljesítéséhez szükséges további személyes adatokra, különösen az egészségügyi állapotára, esetleges káros szenvedélyeire vonatkozó vagy a bűnügyi személyes adataira, valamint külföldi állampolgárságú elítélt vagy egyéb jogcímen fogvatartott esetén az idegenrendészeti kiutasítására vonatkozó adataira,
@@ -1870,7 +1870,7 @@ történik.
 
 (3a) Az elítélt vagy az egyéb jogcímen fogvatartott (2) bekezdés szerinti adatai, valamint az elektronikus megfigyelési eszköz által rögzített felvétel és az abban szereplő személyes adat – a 150. § (7) bekezdésében meghatározott korlátok között – a büntetés-végrehajtási szervezetről szóló 1995. évi CVII. törvény 27/A. § (1) bekezdése alapján folytatott biztonsági kockázatelemzés során felhasználhatók.
 
-(3b) Az elítélt vagy az egyéb jogcímen fogvatartott arcképmás- és a hangazonosításhoz szükséges adata a bv. intézet, illetve a javítóintézet területén való tartózkodási helyének meghatározása, mozgásának és tevékenységének ellenőrzése, élete és testi épsége megóvása, bűncselekmény, szabálysértés vagy fegyelmi vétség elkövetőjének, illetve a rendkívüli esemény résztvevőjének azonosítása céljából arcképfelismerő vagy hangfelismerő rendszer alkalmazása során felhasználható.
+(3b) Az elítélt vagy az egyéb jogcímen fogvatartott arcképmás- és a hangazonosításhoz szükséges adata a bv. intézet területén való tartózkodási helyének meghatározása, mozgásának és tevékenységének ellenőrzése, élete és testi épsége megóvása, bűncselekmény, szabálysértés vagy fegyelmi vétség elkövetőjének, illetve a rendkívüli esemény résztvevőjének azonosítása céljából arcképfelismerő vagy hangfelismerő rendszer alkalmazása során felhasználható.
 
 (3c) A (3b) bekezdés alkalmazásában
 
@@ -1885,7 +1885,7 @@ kell érteni.
 
 (2) A büntetés-végrehajtásért felelős miniszter a 76. § (2) bekezdésében meghatározott adatok közül a büntetések félbeszakítása iránti kérelmek elbírálásához szükséges személyes adatokat ismerheti meg és kezelheti.
 
-(3) Az országos parancsnok a 76. § (2) bekezdésében meghatározott adatok közül a javítóintézeti nevelés félbeszakítása iránti kérelmek elbírálásához szükséges személyes adatokat ismerheti meg és kezelheti.
+(3) A gyermekek és az ifjúság védelméért felelős miniszter a 76. § (2) bekezdésében meghatározott adatok közül a javítóintézeti nevelés félbeszakítása iránti kérelmek elbírálásához szükséges személyes adatokat ismerheti meg és kezelheti.
 
 78. § (1) A rendőrség a 76. § (2) bekezdésében meghatározott adatok közül
 
@@ -2685,12 +2685,12 @@ idézik.
 
 (7) A bírósági ügyekben való előállításra vonatkozó szabályokat a közjegyzői eljárásra is megfelelően alkalmazni kell.
 
-(8) Az (1) bekezdés a) és b) pontja szerinti esetben, ha a büntető ügyben eljáró bíróság az elítéltet több egymást követő napra személyes megjelenéssel idézi, és a bíróság székhelye szerinti vármegyében
+(8) Az (1) bekezdés a) és b) pontja szerinti esetben, ha a büntető ügyben eljáró bíróság az elítéltet több egymást követő napra személyes megjelenéssel idézi, és a bíróság székhelye szerinti megyében
 
 - a) nincsen bv. intézet vagy
 - b) a bv. intézet a bíróság székhelyétől távolabb helyezkedik el, mint a rendőrségi fogda,
 
-az elítélt az idézésben megjelölt munkanapokon a bíróság székhelye szerinti vármegyében lévő rendőrségi fogdán elhelyezhető.
+az elítélt az idézésben megjelölt munkanapokon a bíróság székhelye szerinti megyében lévő rendőrségi fogdán elhelyezhető.
 
 114. § (1) A nyomozó hatóság az elítéltet az ügyészség, illetve az NVVH engedélye alapján – a bv. intézettel való előzetes egyeztetés szerint – az intézetben kihallgathatja, illetve ha az elítéltek ugyanabban az intézetben vannak fogva tartva, a nyomozó hatóság a szembesítést az intézetben is végrehajthatja, továbbá biztosíthatja a Be. 352. § (1) bekezdése szerinti ügyirat megismerés jogát. A nyomozó hatóság az elítélt intézetben lévő érték- vagy tárgyletétjéből lefoglalhat. Az ügyészség, illetve az NVVH más eljárási cselekmények intézetben történő elvégzésére is engedélyt adhat. Az elítélt részvételével lefolytatandó eljárási cselekményen történő részvétel céljából megjelenő védőnek és törvényes képviselőnek a bv. intézetbe történő belépését engedélyezni kell.
 
@@ -2714,7 +2714,7 @@ az elítélt az idézésben megjelölt munkanapokon a bíróság székhelye szer
 
 (6) Az elítélt törvényes jogait a kiadás ideje alatt is biztosítani kell. A kiadás időtartama a szabadságvesztés idejébe beszámít.
 
-115. § Ha a szabadságvesztés végrehajtása során a pártfogó felügyelői vélemény és a környezettanulmány elkészítésével, a 185. § (6) bekezdés a)–d) pontja szerinti gondozás körébe tartozó tevékenységgel, a reintegrációs őrizettel, a pártfogó felügyelettel, valamint az utógondozással kapcsolatos feladatok elvégzésére vonatkozó illetékességi szabály szerinti vármegyében nincs bv. intézet, a büntetés-végrehajtás országos parancsnoka által kijelölt bv. intézet büntetés-végrehajtási pártfogó felügyelője jár el.
+115. § Ha a szabadságvesztés végrehajtása során a pártfogó felügyelői vélemény és a környezettanulmány elkészítésével, a 185. § (6) bekezdés a)–d) pontja szerinti gondozás körébe tartozó tevékenységgel, a reintegrációs őrizettel, a pártfogó felügyelettel, valamint az utógondozással kapcsolatos feladatok elvégzésére vonatkozó illetékességi szabály szerinti megyében nincs bv. intézet, a büntetés-végrehajtás országos parancsnoka által kijelölt bv. intézet büntetés-végrehajtási pártfogó felügyelője jár el.
 
 ### Félbeszakítás
 
@@ -4125,7 +4125,7 @@ lehet.
 
 193. § (1) Biztosítani kell, hogy a fiatalkorú szakképzésben vagy betanított munkás-képzésben vegyen részt, és lehetővé kell tenni, hogy középfokú iskolai tanulmányokat folytasson.
 
-(2) A fiatalkorú a tankötelezettségét a külön törvényben meghatározott életévének betöltéséig köteles folytatni.
+(2) A szabadságvesztés végrehajtása alatt a fiatalkorú köteles a köznevelési alapfokú oktatásban, illetve annak elvégzése után képességeinek megfelelően, a büntetés-végrehajtási szervezet által biztosított módon a köznevelési középfokú oktatásban, szakképzésben vagy felnőttképzésben részt venni.
 
 (3) A fiatalkorú dicsérő oklevéllel is jutalmazható.
 
@@ -4133,7 +4133,7 @@ lehet.
 
 (5) A bv. intézet a fiatalkorú elítéltről az oktatási intézménytől, gyermekvédelmi intézménytől pedagógiai véleményt kér a fiatalkorú megismerése érdekében, különösen a magatartás, a szorgalom, a fejlesztést igénylő területek, a családi háttér adataira vonatkozóan. Az adatok az egyéni fejlesztési terv, a fiatalkorú védelme, valamint a kockázatbecslés érdekében használhatók fel.
 
-(6) A bv. intézet a nevelési programját, a fiatalkorú egyéni fejlesztési tervét a fiatalkorú társadalmi beilleszkedésének elősegítése, ennek érdekében beilleszkedési zavarai enyhítése, pszichés állapota rendezése, iskolázottsága, szakmai képzettségének fejlesztése, az alapvető erkölcsi normák elfogadtatása, az egészséges életmódra való felkészítése érdekében a javítóintézetek szakmai tapasztalatai felhasználásával, azokkal együttműködve alakíthatja ki.
+(6) A bv. intézet a nevelési programját, a fiatalkorú egyéni fejlesztési tervét a fiatalkorú társadalmi beilleszkedésének elősegítése, ennek érdekében beilleszkedési zavarai enyhítése, pszichés állapota rendezése, iskolázottsága, szakmai képzettségének fejlesztése, az alapvető erkölcsi normák elfogadtatása, az egészséges életmódra való felkészítése érdekében a gyermekek és az ifjúság védelméért felelős miniszter felügyelete alá tartozó javítóintézetek szakmai tapasztalatai felhasználásával, azokkal együttműködve alakíthatja ki.
 
 194. § (1) A fiatalkorú saját vagy a törvényes képviselő kérelmére és a bv. intézet engedélyével, háromhavonta családi konzultáción vehet részt, amely a bv. intézetben megvalósuló kötetlen kapcsolattartási forma. A családi konzultáción a szülő, valamint az vehet részt, aki a Polgári Törvénykönyv alapján a fiatalkorúval kapcsolattartásra jogosult, kivéve, ha a bíróság vagy a gyámhatóság a kapcsolattartási jogot korlátozta vagy megvonta.
 
@@ -5321,7 +5321,7 @@ vonatkozó szabályokat kell alkalmazni.
 
 298. § (1) A járművezetéstől eltiltás végrehajtására az előző fejezet rendelkezéseit értelemszerűen alkalmazni kell.
 
-(2) A járművezetéstől eltiltás esetén az ezzel összefüggő feladatok ellátásáról a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a bíróság értesítése alapján gondoskodik.
+(2) A járművezetéstől eltiltás esetén az ezzel összefüggő feladatok ellátásáról a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: járási hivatal) a bíróság értesítése alapján gondoskodik.
 
 (3) Ha jogszabály a járművezetés újbóli gyakorlását a járművezetéshez szükséges jártasság igazolásától teszi függővé, az elítélt a járművezetés újbóli gyakorlását mindaddig nem kezdheti meg, amíg a járművezetéshez szükséges jártasságot a (2) bekezdésben meghatározott járási hivatalnál nem igazolja.
 
@@ -5907,7 +5907,7 @@ terhelik.
 
 343. § (1) A javítóintézeti nevelés végrehajtása során a fiatalkorúval szemben emberi méltósága tiszteletben tartásával, életkori szükségletei figyelembevételével kell bánni, és a törvényben meghatározott korlátozások kivételével gondoskodni kell jogai megkülönböztetés nélküli biztosításáról és védelméről.
 
-(2) A javítóintézeti nevelés végrehajtása alatt a törvényes képviselő gondozási és nevelési joga szünetel, ez a jog a javítóintézet nevelési tevékenységért felelős vezetőjét (a továbbiakban: nevelési vezető) illeti meg.
+(2) A javítóintézeti nevelés végrehajtása alatt a törvényes képviselő gondozási és nevelési joga szünetel, ez a jog a javítóintézet igazgatóját (a továbbiakban: igazgató) illeti meg.
 
 (3) A törvényes képviselőt és a szülőt tájékoztatni kell az őket érintő szabályokról, különösen a levelezés, a csomagküldés, a telefonbeszélgetés, a látogatás rendjéről, valamint a fiatalkorú eltávozásra, szabadságra menetelének lehetőségéről.
 
@@ -5917,43 +5917,23 @@ terhelik.
 
 (6) E fejezet alkalmazásában fiatalkorú alatt érteni kell a tizennyolcadik életévét betöltött, de huszonegyedik életévét meg nem haladott javítóintézeti neveltet is.
 
-### A javítóintézeti nevelés célja
+### A javítóintézeti nevelés célja és felügyelete
 
 344. § A javítóintézetben folyó nevelés célja a fiatalkorú társadalmi beilleszkedésének elősegítése, ennek érdekében beilleszkedési zavarai enyhítése, pszichés állapota rendezése, iskolázottsága, szakmai képzettsége fejlesztése, az alapvető erkölcsi normák elfogadtatása, az egészséges életmódra való felkészítése.
 
-### A javítóintézet irányítása és vezetése
+#### 344/A. §
 
-344/A. § (1) A bíróság által javítóintézeti nevelésre utalt vagy oda letartóztatásba helyezett fiatalkorú nevelésének, ellátásának feltételeiről a büntetés-végrehajtásért felelős miniszter gondoskodik. A javítóintézeti nevelést a javítóintézet hajtja végre, amely a büntetés-végrehajtásért felelős miniszter irányítása alatt álló központi költségvetési szerv. A javítóintézet irányításában az országos parancsnok közreműködik.
+#### 344/B. §
 
-(2) A büntetés-végrehajtásért felelős miniszter a rendszerszintű problémák és hiányosságok feltárása, illetve a javítóintézetek irányításával kapcsolatos feladatköre ellátása céljából – a jogszabályban meghatározottak szerint – átfogó vizsgálatot folytathat a javítóintézetben, ha felmerül, hogy a szolgáltatás, ellátás nyújtása súlyosan sérti az ellátott fiatalkorúak érdekeit.
+345. § (1) A javítóintézeti nevelést a gyermekek és az ifjúság védelméért felelős miniszter felügyelete és közvetlen irányítása alatt álló javítóintézet hajtja végre.
 
-344/B. § (1) Az országos parancsnok a javítóintézet irányítása körében
+(2) A javítóintézet biztonsági követelményeit a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fiatalkorú elítéltek szabadságvesztésének végrehajtását biztosító bv. intézetek szakmai tapasztalatai felhasználásával kell kialakítani. A javítóintézet és a bv. szerv a biztonsági követelmények kialakításában való közreműködésre és a rendészek kiegészítő képzésének megszervezésére együttműködési megállapodást köt.
 
-- a) kinevezi és felmenti tisztségéből a javítóintézeti parancsnokot,
-- b) jóváhagyja a javítóintézet szervezeti és működési szabályzatát, házirendjét, valamint szakmai programját,
-- c) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § e) pontja szerinti ellenőrzés alapján évente egy alkalommal értékeli a javítóintézetekben zajló szakmai munka eredményességét, valamint a szakmai program végrehajtását,
-- d) az Áht. 9. § e) pontja szerinti ellenőrzés alapján évente egy alkalommal értékeli a javítóintézetek gazdálkodásának szabályszerűségét és hatékonyságát,
-- e) gondoskodik a javítóintézeti szakemberek képzéséről, továbbképzéséről,
-- f) gondoskodik a javítóintézetek tekintetében az érdek-képviseleti fórum megalakításának feltételeiről,
-- g) kivizsgálja a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 36. § (2) bekezdése alapján hozzá érkező panaszokat és szükség esetén intézkedik a panaszt kiváltó okok megszüntetése iránt,
-- h) gondoskodik a javítóintézetben működő biztonsági rendszer kialakításáról, továbbá jogosult a biztonsági rendszer ellenőrzésére, valamint
-- i) gyakorolja a javítóintézetek tekintetében az Áht. 9. § f), h) és i) pontjában meghatározott hatáskört.
-
-(2) Az (1) bekezdés szerinti jogköreinek gyakorlása során az országos parancsnok
-
-- a) megtagadja a javítóintézet szervezeti és működési szabályzatának jóváhagyását abban az esetben, ha az jogszabályt sért,
-- b) megtagadja a javítóintézet szakmai programjának jóváhagyását abban az esetben, ha az nem felel meg az e törvényben vagy a szakmai jogszabályokban előírt követelményeknek, valamint
-- c) a szakmai munka eredményességét különösen az Országos Gyermekvédelmi Szakértői Névjegyzékben szereplő szakértő által készített szakértői vélemény, az ügyészség ellenőrzése, illetve a javítóintézet által készített beszámoló alapján értékeli.
-
-345. § (1) A javítóintézetet a hivatásos büntetés-végrehajtási szolgálati jogviszonyban álló javítóintézeti parancsnok vezeti.
-
-(2) A javítóintézet biztonsági követelményeit a büntetés-végrehajtásért felelős miniszter felügyelete alá tartozó, a fiatalkorú elítéltek szabadságvesztésének végrehajtását biztosító bv. intézetek szakmai tapasztalatai felhasználásával, azokkal együttműködve kell kialakítani.
-
-(3) A javítóintézet vagy a javítóintézetben a köznevelési oktatást végző köznevelési intézmény fiatalkorúak részvételével lebonyolított tanóráin, foglalkozásain, tantestületi és nevelőtestületi értekezletein a büntetés-végrehajtási szervezet hivatásos büntetés-végrehajtási szolgálati jogviszonyban álló tagja jelen lehet és a javítóintézet rendjének fenntartása érdekében intézkedhet.
+(3)
 
 ### A végrehajtás rendje
 
-346. § (1) A javítóintézeti nevelést a bíróság jogerős ügydöntő határozata alapján, e törvény és a javítóintézetek rendtartásáról szóló jogszabályban meghatározott intézeti rend szerint kell végrehajtani. A Gyvt. 66/N. § (2) bekezdése szerinti házirendet – a 344/B. § (1) bekezdés b) pontjában foglaltakra figyelemmel – a javítóintézeti parancsnok állapítja meg.
+346. § (1) A javítóintézeti nevelést a bíróság jogerős ügydöntő határozata alapján, e törvény és a javítóintézetek rendtartásáról szóló jogszabályban meghatározott intézeti rend szerint kell végrehajtani. A javítóintézet belső életének rendjét a házirend tartalmazza, amit az igazgató állapít meg. A házirend jóváhagyása a gyermekek és az ifjúság védelméért felelős miniszter hatáskörébe tartozik.
 
 (2) A fiatalkorú gondozását és nevelését a gyermekek védelméről szóló törvény rendelkezései és a javítóintézetek működése során irányadó szakmai szabályokban meghatározott elvek szerint kell biztosítani.
 
@@ -5961,7 +5941,7 @@ terhelik.
 
 (4) A javítóintézet rendjének fenntartása érdekében gondoskodni kell – az ébresztőtől a takarodóig – a fiatalkorú folyamatos felügyeletéről, tevékenysége irányításáról, valamint éjszakai nyugalma biztosítása érdekében a hálótermek rendszeres ellenőrzéséről.
 
-(5) A javítóintézeti nevelés végrehajtása alatt a fiatalkorú köteles a köznevelési oktatásban részt venni.
+(5)
 
 347. § (1) A befogadás során a javítóintézet a fiatalkorú személyazonosságát ellenőrzi.
 
@@ -5982,28 +5962,27 @@ terhelik.
 
 ### A javítóintézeti tanács
 
-347/A. § (1) A javítóintézetben, valamint annak telephelyén működő javítóintézeti tanács (a továbbiakban: intézeti tanács) a fiatalkorúak értékelésével, nevelésével és fejlesztésével kapcsolatos feladatokat ellátó szakmai, valamint döntéselőkészítő testület.
+347/A. § (1) A javítóintézetben működő javítóintézeti tanács (a továbbiakban: intézeti tanács) a fiatalkorúak értékelésével, nevelésével és fejlesztésével kapcsolatos feladatokat ellátó szakmai, valamint döntéselőkészítő testület.
 
-(2) Az intézeti tanács vezetője a nevelési vezető. Az intézeti tanács tagja a növendékügyi iroda vezetője, a fiatalkorú csoportnevelője, a biztonsági szolgálat vezetője, az otthonvezető, a szakértői csoport vezetője, a pszichológus, továbbá tagja lehet a munkafoglalkoztatás vezetője és az orvos.
+(2) Az igazgató a (4) bekezdés a) pontja szerinti javaslat meghozatala során szavazati joggal nem rendelkezik.
 
 (3) Az intézeti tanács
 
-- a) dönt a fiatalkorúnak a fejlesztését és reintegrációját elősegítő foglalkozáson, programon való részvételéről,
-- b) a fiatalkorú magatartása, tanulmányi eredményei és szorgalma, a fiatalkorú fejlesztését és reintegrációját elősegítő foglalkozáson, programon való részvétele, aktivitása, együttműködési készsége alapján kéthavonta értékelést végez, és szükség szerint dönt a fejlesztés, illetve a reintegráció előmozdítását célzó foglalkozás, program megváltoztatásáról, valamint
-- c) dönt a fiatalkorú eltávozásának engedélyezéséről.
+- a) véleményezi a javítóintézet szakmai programját,
+- b) dönt a fiatalkorúak fejlesztését és reintegrációját elősegítő foglalkozások, programok működtetéséről, és évente értékeli azokat.
 
 (4) Az intézeti tanács javaslatot tesz
 
-- a) a javítóintézeti parancsnoknak a fiatalkorú
+- a) az igazgatónak a fiatalkorú
   - aa) zárt jellegű javítóintézeti részlegben történő elhelyezésére vagy ennek mellőzésére, a zárt jellegű javítóintézeti részlegben történő elhelyezés meghosszabbítására és az elhelyezés megszüntetésére,
-  - ab) szabadságának engedélyezésére vagy megtagadására,
+  - ab) eltávozásának és szabadságának engedélyezésére vagy megtagadására,
   - ac) gyermekével történő együttes elhelyezésének engedélyezésére vagy megtagadására,
   - ad) utógondozó részlegen való elhelyezésének engedélyezésére vagy a fiatalkorú erre irányuló kérelme elutasítására, továbbá
 - b) a büntetés-végrehajtási bírónak a fiatalkorú ideiglenes elbocsátására vagy ennek mellőzésére.
 
-(5) Az intézeti tanács működésének részletes szabályait a szervezeti és működési szabályzat határozza meg.
+(5) Az intézeti tanács egyebekben a gyermekek védelméről szóló törvény javítóintézeti tanácsra vonatkozó rendelkezései szerint működik.
 
-(6) Az intézeti tanács legalább havonta ülésezik. Az intézeti tanácsot az intézeti tanács vezetője hívja össze, de az összehívását az intézeti tanács bármely tagja kezdeményezheti.
+(6)
 
 ### Elkülönítés
 
@@ -6011,7 +5990,7 @@ terhelik.
 
 (2) A fiatalkorúak életkoruk, továbbá egészségügyi és nevelési szempontok szerint csoportosíthatók.
 
-(3) A tizenhatodik életévüket be nem töltött és a tizenhatodik életévüket betöltött javítóintézeti nevelteket a javítóintézetben külön lakóegységben kell elhelyezni, kivéve ha a fiatalkorú érdekében a nevelési vezető ettől eltérően rendelkezik.
+(3) A tizenhatodik életévüket be nem töltött és a tizenhatodik életévüket betöltött javítóintézeti nevelteket a javítóintézetben külön lakóegységben kell elhelyezni, kivéve ha a fiatalkorú érdekében az igazgató ettől eltérően rendelkezik.
 
 ### A javítóintézeti nevelés kezdő napja és a tájékoztatás
 
@@ -6025,9 +6004,9 @@ terhelik.
 
 (2) A fiatalkorú személyiségének, értelmi képességeinek, egészségi állapotának a feltárása érdekében a javítóintézet – jogszabályban meghatározott működési rend szerint – szakértői csoportot működtet, amelynek pszichológus, gyógypedagógus és orvos tagja végzi el a befogadáskor a szükséges vizsgálatokat.
 
-(3) A szakértői csoport a vizsgálat eredményei alapján javaslatot tesz a nevelési vezető számára a fiatalkorú végleges csoportba helyezésére és jelzi, ha a fiatalkorú fogyatékossága miatt gyógypedagógiai nevelésre szorul, vagy személyiségzavara, egészségi állapota miatt sajátos nevelést, oktatást, gyógyítást igényel.
+(3) A szakértői csoport a vizsgálat eredményei alapján javaslatot tesz az igazgatónak a fiatalkorú végleges csoportba helyezésére és jelzi, ha a fiatalkorú fogyatékossága miatt gyógypedagógiai nevelésre szorul, vagy személyiségzavara, egészségi állapota miatt sajátos nevelést, oktatást, gyógyítást igényel.
 
-(4) A végleges csoportba helyezésről a nevelési vezető vagy e feladattal megbízott helyettese dönt.
+(4) A végleges csoportba helyezésről az igazgató vagy e feladattal megbízott helyettese dönt.
 
 (5) A javítóintézet a fiatalkorú részére a gyermekek védelméről szóló törvény szerint teljes körű ellátást biztosít és ellátja a fiatalkorú gondozását, nevelését és felügyeletét.
 
@@ -6035,7 +6014,7 @@ terhelik.
 
 ### A fiatalkorúnak és gyermekének együttes elhelyezése
 
-351. § (1) A fiatalkorú kérelmére gyermeke vele együtt helyezhető el a javítóintézetnek erre a célra létrehozott részlegében, a kérelemről a nevelési vezető dönt.
+351. § (1) A fiatalkorú kérelmére gyermeke vele együtt helyezhető el a javítóintézetnek erre a célra létrehozott részlegében, a kérelemről az igazgató határozattal dönt.
 
 (2) Az együttes elhelyezés akkor engedélyezhető, ha
 
@@ -6054,7 +6033,7 @@ terhelik.
 
 (6) A gyermek felett szülői felügyeletet gyakorló vagy a gyermekkel kapcsolattartásra jogosult másik szülő, a testvér és a gyermekkel kapcsolattartásra jogosult nagyszülő, valamint a gyám részére heti egy alkalommal a kapcsolattartást és a gyermek fejlődéséről a megfelelő tájékoztatást biztosítani kell.
 
-351/A. § (1) Ha fiatalkorú a vele együttesen elhelyezett gyermekét elhanyagolja, bántalmazza vagy fejlődését egyéb módon veszélyezteti, a nevelési vezető határozattal dönt a fiatalkorú és gyermeke együttes elhelyezésének megszüntetéséről, és erről haladéktalanul értesíti a gyámhatóságot.
+351/A. § (1) Ha fiatalkorú a vele együttesen elhelyezett gyermekét elhanyagolja, bántalmazza vagy fejlődését egyéb módon veszélyezteti, az igazgató határozattal dönt a fiatalkorú és gyermeke együttes elhelyezésének megszüntetéséről, és erről haladéktalanul értesíti a gyámhatóságot.
 
 (2) Az (1) bekezdésben meghatározott esetben a javítóintézet intézkedik a gyermeknek fiatalkorútól való elkülönítése iránt, és a gyámhatóság intézkedéséig biztosítja a gyermek teljes körű ellátását az együttes elhelyezést biztosító részlegen.
 
@@ -6118,9 +6097,9 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 356. § (1) A javítóintézeti nevelés végrehajtása során a fiatalkorú köteles – különösen –
 
 - a) az intézkedés végrehajtásának rendjét, az intézet házirendjét, biztonsági és higiéniai követelményeit megtartani,
-- b) javítóintézetben a nevelési vezető által kijelölt csoportban nevelkedni,
+- b) javítóintézetben az igazgató által kijelölt csoportban nevelkedni,
 - c) a javítóintézet elhagyásához engedélyt kérni,
-- d) tanulmányait a köznevelésről szóló törvényben meghatározott életkorig, vagy a köznevelésről szóló törvényben meghatározott feltételek fennállása esetében azt követően is folytatni,
+- d) a köznevelési alapfokú oktatásban, illetve annak elvégzése után képességeinek megfelelően, a javítóintézet által biztosított módon a köznevelési középfokú oktatásban, szakképzésben vagy felnőttképzésben részt venni,
 - e) alávetni magát a szükséges orvosi vizsgálatnak és gyógykezelésnek, az invazív eljárásra az egészségügyi jogszabályokat kell alkalmazni,
 - f) a gondozása és az eredményes nevelése érdekében a javítóintézet dolgozóival együttműködni,
 - g) a katasztrófahelyzet elhárításához szükséges tevékenységben közreműködni,
@@ -6145,9 +6124,9 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 (4) A javítóintézettel kötött megállapodás alapján az egyházi jogi személy vagy a vallási egyesület által megbízott más személy, jogvédő vagy karitatív tevékenységet folytató civil szervezet tagja, képviselője vagy ilyen szervezet megbízásából eljáró személy is ellenőrzés nélkül tarthat kapcsolatot a fiatalkorúval.
 
-(5) A javítóintézeti nevelés végrehajtása során a fiatalkorú kérelmére a nevelési vezető az (1), (3) és (4) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.
+(5) A javítóintézeti nevelés végrehajtása során a fiatalkorú kérelmére az igazgató az (1), (3) és (4) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.
 
-(6) A fiatalkorúnak a hozzátartozóján kívüli más személlyel való kapcsolattartása a fiatalkorú fejlődése, nevelése érdekében korlátozható, amiről a nevelési vezető dönt.
+(6) A fiatalkorúnak a hozzátartozóján kívüli más személlyel való kapcsolattartása a fiatalkorú fejlődése, nevelése érdekében korlátozható, amiről az igazgató dönt.
 
 (7) A javítóintézet a kapcsolattartásra jogosult személyeket a fiatalkorúak nyilvántartásában rögzíteni kell.
 
@@ -6200,7 +6179,7 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 (4) A látogatás félbeszakítható, ha a fiatalkorú vagy látogatója a látogatás rendjét megsérti, és a szabálysértő viselkedéssel figyelmeztetés ellenére sem hagy fel. A látogatást félbe kell szakítani, ha a fiatalkorú vagy látogatója magatartása az intézet biztonságát közvetlenül sérti, vagy veszélyezteti.
 
-(5) A javítóintézeti parancsnok indokolt esetben rendkívüli látogatást is engedélyezhet.
+(5) Az igazgató indokolt esetben rendkívüli látogatást is engedélyezhet.
 
 (6) Jogi személyiséggel rendelkező vallási közösség, civil szervezet vagy karitatív szervezet képviselője részéről a fiatalkorú hetente egyszer jogosult látogató fogadására.
 
@@ -6222,7 +6201,7 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 (2) A szabadság engedélyezése előtt be kell szerezni a fiatalkorút a szabadság alatt fogadó szülő, gyám vagy más hozzátartozó nyilatkozatát arról, hogy a fiatalkorú lakhatását, ellátását, felügyeletét ez idő alatt biztosítja, továbbá vállalja az utazás költségeit, és gondoskodik a fiatalkorú visszatéréséről az intézetbe.
 
-(2a) A szabadság engedélyezéséről – az intézeti tanács javaslatára – a javítóintézeti parancsnok dönt.
+(2a) A szabadság engedélyezéséről – az intézeti tanács javaslatára – az igazgató dönt.
 
 (3) Az utazás költségei a fiatalkorú kérelmére zsebpénzéből vagy letéti pénzéből is biztosíthatók. Ha az utazás költségei sem az előző módon, sem a fogadó szülő, gyám vagy más hozzátartozó által nem biztosítottak, azokat a javítóintézet megelőlegezheti.
 
@@ -6230,9 +6209,9 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 ### Családi konzultáció és családterápiás foglalkozás
 
-365. § (1) A fiatalkorú vagy a törvényes képviselő kérelmére, a nevelési vezető engedélyével, háromhavonta családi konzultáción vehet részt, amely a javítóintézetben megvalósuló kötetlen kapcsolattartási forma. A családi konzultáción a szülő, valamint az vehet részt, aki a Polgári Törvénykönyv alapján a fiatalkorúval kapcsolattartásra jogosult, kivéve ha a bíróság, vagy a gyámhatóság a kapcsolattartási jogot korlátozta vagy megvonta.
+365. § (1) A fiatalkorú vagy a törvényes képviselő kérelmére, az igazgató engedélyével, háromhavonta családi konzultáción vehet részt, amely a javítóintézetben megvalósuló kötetlen kapcsolattartási forma. A családi konzultáción a szülő, valamint az vehet részt, aki a Polgári Törvénykönyv alapján a fiatalkorúval kapcsolattartásra jogosult, kivéve ha a bíróság, vagy a gyámhatóság a kapcsolattartási jogot korlátozta vagy megvonta.
 
-(2) A fiatalkorú vagy a törvényes képviselő kérelmére, a nevelési vezető engedélyével családterápiás foglalkozáson vehet részt. A családterápiás foglalkozáson nem vehet részt a szülő, ha kapcsolattartásra nem jogosult. A családterápiás foglalkozások számát a terápiás szükségletek határozzák meg.
+(2) A fiatalkorú vagy a törvényes képviselő kérelmére, az igazgató engedélyével családterápiás foglalkozáson vehet részt. A családterápiás foglalkozáson nem vehet részt a szülő, ha kapcsolattartásra nem jogosult. A családterápiás foglalkozások számát a terápiás szükségletek határozzák meg.
 
 (3) A fiatalkorú családterápiás foglalkozáson való részvétele kivételesen a javítóintézeten kívül is engedélyezhető.
 
@@ -6240,7 +6219,7 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 ### Rendkívüli eltávozás
 
-366. § (1) A hozzátartozó igazolt súlyos betegsége vagy halála esetén a nevelési vezető – a 363. § szerinti eltávozáson kívül – öt nap rendkívüli eltávozást engedélyezhet, amelybe az utazás ideje is beszámít.
+366. § (1) A hozzátartozó igazolt súlyos betegsége vagy halála esetén az igazgató – a 363. § szerinti eltávozáson kívül – öt nap rendkívüli eltávozást engedélyezhet, amelybe az utazás ideje is beszámít.
 
 (2) A rendkívüli eltávozás időtartama a javítóintézeti nevelés tartamába beszámít.
 
@@ -6248,13 +6227,13 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 ### A javítóintézetből engedéllyel történő távollétre vonatkozó szabályok
 
-367. § (1) A fiatalkorú kérelmére a nevelési vezető engedélyezheti, hogy a fiatalkorú az intézeten kívül vehessen részt istentiszteleten.
+367. § (1) A fiatalkorú kérelmére az igazgató engedélyezheti, hogy a fiatalkorú az intézeten kívül vehessen részt istentiszteleten.
 
-(2) A fiatalkorú és törvényes képviselője közös kérelmére, valamint a köznevelési vagy szakképzési intézménynek a fiatalkorú felvételére kötelezettséget vállaló nyilatkozata alapján a nevelési vezető engedélyezheti, hogy a fiatalkorú a javítóintézeten kívül folytassa a tanulmányait.
+(2) A fiatalkorú és törvényes képviselője közös kérelmére, valamint a köznevelési vagy szakképzési intézménynek a fiatalkorú felvételére kötelezettséget vállaló nyilatkozata alapján az igazgató engedélyezheti, hogy a fiatalkorú a javítóintézeten kívül folytassa a tanulmányait.
 
-(3) Ha a javítóintézetben a szükséges orvosi ellátás nem biztosítható, a fiatalkorú gyógyulása érdekében, szakorvosi vizsgálat és javaslat alapján a nevelési vezető engedélyezheti, hogy a fiatalkorú tartósan a javítóintézeten kívül töltse azt az időt, amely a gyógyulásához szükséges.
+(3) Ha a javítóintézetben a szükséges orvosi ellátás nem biztosítható, a fiatalkorú gyógyulása érdekében, szakorvosi vizsgálat és javaslat alapján az igazgató engedélyezheti, hogy a fiatalkorú tartósan a javítóintézeten kívül töltse azt az időt, amely a gyógyulásához szükséges.
 
-(4) Ha a fiatalkorúval szemben kábítószer birtoklása miatt megindult büntetőügyben feltételes ügyészi felfüggesztést rendeltek el és más ügyben javítóintézeti nevelést tölt, a nevelési vezető gondoskodik arról, hogy – ha a javítóintézetben ennek feltételei nem biztosítottak – a fiatalkorú a javítóintézeten kívül kábítószer-függőséget gyógyító kezelésen vegyen részt, vagy kábítószer-használatot kezelő más ellátásban vagy megelőző-felvilágosító szolgáltatásban részesüljön. E feladatok ellátása során a javítóintézet a pártfogó felügyelővel együttműködik.
+(4) Ha a fiatalkorúval szemben kábítószer birtoklása miatt megindult büntetőügyben feltételes ügyészi felfüggesztést rendeltek el és más ügyben javítóintézeti nevelést tölt, az igazgató gondoskodik arról, hogy – ha a javítóintézetben ennek feltételei nem biztosítottak – a fiatalkorú a javítóintézeten kívül kábítószer-függőséget gyógyító kezelésen vegyen részt, vagy kábítószer-használatot kezelő más ellátásban vagy megelőző-felvilágosító szolgáltatásban részesüljön. E feladatok ellátása során a javítóintézet a pártfogó felügyelővel együttműködik.
 
 ### Kényszerítő eszköz alkalmazása
 
@@ -6270,18 +6249,24 @@ törvényben meghatározott korlátozásoknak megfelelően gyakorolható.
 
 (4) Testi kényszer a fiatalkorúval szemben
 
-- a) a javítóintézeti parancsnok vagy távollétében az ügyeletes vezető, ezek távollétében a biztonsági szolgálat vezetője rendelkezése alapján, vagy
+- a) az igazgató vagy távollétében az ügyeletes vezető, ezek távollétében a biztonsági vagy rendészeti részleg vezetőjének rendelkezése alapján, vagy
 - b) sürgős szükség esetén – így különösen súlyos fegyelmi vétség elkövetésének megakadályozása, a fiatalkorú saját vagy más személy életét vagy testi épségét veszélyeztető magatartásának elhárítása érdekében – az a) pont szerinti rendelkezés hiányában, haladéktalan intézkedésként
 
-alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges kiegészítő képzésben részesült vagy megfelelő szakirányú képesítéssel, képzettséggel rendelkező javítóintézeti rendész alkalmazhat
+alkalmazható.
+
+(4a) Testi kényszert a fiatalkorúval szemben az ehhez szükséges kiegészítő képzésben részesült vagy megfelelő szakirányú képesítéssel, képzettséggel rendelkező javítóintézeti rendész alkalmazhat.
 
 (5) Kényszerítő eszköz nem alkalmazható a magatehetetlen személlyel szemben. A tizennegyedik életévét be nem töltött fiatalkorúval szemben kizárólag korlátozott testi kényszer alkalmazható. Korlátozott testi kényszernek minősül a lefogás, megfogás.
 
 (6) Nincs helye kényszerítő eszköz további alkalmazásának, ha az ellenszegülés megtört vagy az intézkedés eredményessége e nélkül is biztosítható.
 
-(7) A kényszerítő eszköz alkalmazását a javítóintézeti parancsnok részére haladéktalanul jelenteni kell. A kényszerítő eszköz alkalmazásának a jogszerűségét a javítóintézeti parancsnok köteles megvizsgálni.
+(7) A kényszerítő eszköz alkalmazását az igazgató részére haladéktalanul jelenteni kell. A kényszerítő eszköz alkalmazásának a jogszerűségét az igazgató köteles megvizsgálni.
 
 (8) A jogszerűtlennek minősített kényszerítő eszköz használatáról a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészséget nyolc napon belül, ha a kényszerítő eszköz használata testi sérülést vagy halált okozott, haladéktalanul értesíteni kell.
+
+(9) A javítóintézeti rendész a javítóintézet vagy a javítóintézetben köznevelési oktatást, szakképzést vagy felnőttképzést végző intézmény fiatalkorúak részvételével lebonyolított tanóráin, foglalkozásain, programjain az igazgató vagy távollétében az ügyeletes vezető rendelkezése alapján a javítóintézet rendjét sértő cselekmény megelőzése céljából jelen lehet.
+
+(10) A kényszerítő eszköz alkalmazása jogszerűségének vizsgálati eredményéről és a jogorvoslati lehetőségről a javítóintézetnek a fiatalkorút tájékoztatnia kell.
 
 ### Biztonsági intézkedések
 
@@ -6290,7 +6275,7 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 - a) biztonsági ellenőrzés, vizsgálat és szemle, személyes használati tárgyainak és ruházatának átvizsgálása, csomag átvizsgálása, valamint elektronikus megfigyelési eszköz alkalmazható,
 - b) biztonsági elkülönítése rendelhető el.
 
-(2) A biztonsági elkülönítést a fiatalkorú felügyeletét ellátó dolgozó kezdeményezésére, a javítóintézeti parancsnok vagy távollétében az ügyeletes vezető írásban rendelheti el. Az elrendelésről értesíteni kell a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészséget.
+(2) A biztonsági elkülönítést a fiatalkorú felügyeletét ellátó dolgozó kezdeményezésére, az igazgató vagy távollétében az ügyeletes vezető írásban rendelheti el. Az elrendelésről értesíteni kell a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészséget.
 
 (3) A biztonsági elkülönítés elrendelésével egyidejűleg intézkedni kell a fiatalkorú haladéktalan orvosi vizsgálatáról. A biztonsági elkülönítés az orvos által szükségesnek tartott ideig, de legfeljebb huszonnégy óráig tarthat. Ha a fiatalkorú magatartása ezt követően sem rendeződik, a pszichiátriai kezelését a pszichiáter szakorvos rendelkezése szerint a biztonsági elkülönítőben vagy az intézet egészségügyi részlegén vagy fekvőbeteg-ellátó intézményben folytatni kell.
 
@@ -6302,15 +6287,15 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 
 ### Rendkívüli esemény
 
-370. § (1) A javítóintézeti nevelés végrehajtása során bekövetkezett rendkívüli eseményről haladéktalanul értesíteni kell a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészséget és a büntetés-végrehajtásért felelős minisztert.
+370. § (1) A javítóintézeti nevelés végrehajtása során bekövetkezett rendkívüli eseményről haladéktalanul értesíteni kell a büntetés-végrehajtás törvényességi felügyeletét ellátó ügyészséget és a gyermekek és az ifjúság védelméért felelős minisztert.
 
 (2) Az (1) bekezdés alkalmazásában rendkívüli eseménynek minősül minden olyan esemény, amely a javítóintézet rendjét súlyosan sérti vagy veszélyezteti, így különösen a fiatalkorú szökése, az intézet területén elkövetett bűncselekmény, a fiatalkorú biztonsági elkülönítése, öngyilkossági kísérlete, balesete, halála.
 
 ### A javítóintézeti nevelés félbeszakítása
 
-371. § (1) A javítóintézeti nevelést fontos okból – a fiatalkorú személyi vagy családi körülményei, egészségi állapota miatt – egy évben tíz naptól három hónapig terjedő időtartamra a nevelési vezető félbeszakíthatja. A félbeszakítás engedélyezéséről vagy a kérelem elutasításáról határozatot kell hozni.
+371. § (1) A javítóintézeti nevelést fontos okból – a fiatalkorú személyi vagy családi körülményei, egészségi állapota miatt – egy évben tíz naptól három hónapig terjedő időtartamra az igazgató félbeszakíthatja. A félbeszakítás engedélyezéséről vagy a kérelem elutasításáról határozatot kell hozni.
 
-(2) Ha a fiatalkorú egészségi állapota indokolja, az (1) bekezdés szerinti félbeszakítás időtartamát az országos parancsnok legfeljebb – a félbeszakítás (1) bekezdés szerinti engedélyezésétől számított – egy évig meghosszabbíthatja. A félbeszakításról való döntés érdekében a javítóintézet előterjesztést tesz, amelynek részét képezi a javítóintézet orvosának a fiatalkorú egészségi állapotára vonatkozó véleménye.
+(2) Ha a fiatalkorú egészségi állapota indokolja, az (1) bekezdés szerinti félbeszakítás időtartamát a gyermekek és az ifjúság védelméért felelős miniszter legfeljebb – a félbeszakítás (1) bekezdés szerinti engedélyezésétől számított – egy évig meghosszabbíthatja. A félbeszakításról való döntés érdekében a javítóintézet előterjesztést tesz, amelynek részét képezi a javítóintézet orvosának a fiatalkorú egészségi állapotára vonatkozó véleménye.
 
 (3) A félbeszakítás tartama a javítóintézeti nevelésbe nem számít be.
 
@@ -6318,7 +6303,7 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 
 372. § (1) Büntetőügyben – ideértve a közvetítői eljárást is – történő idézés alapján a fiatalkorút a javítóintézet a megjelölt helyre és időre előállítja. Értesítésre a fiatalkorút akkor kell előállítani, ha megjelenését ő, védője vagy törvényes képviselője kéri.
 
-(2) A fiatalkorút a javítóintézetben az ügyészség, a nyomozó hatóság vagy hatósági ügyben eljáró más szerv – a javítóintézeti parancsnokkal egyeztetett időpontban – kihallgathatja. A kihallgatáson történő részvétel céljából megjelenő törvényes képviselőnek, állama konzuli tisztviselőjének, valamint a védőnek a javítóintézetbe történő belépését engedélyezni kell.
+(2) A fiatalkorút a javítóintézetben az ügyészség, a nyomozó hatóság vagy hatósági ügyben eljáró más szerv – az igazgatóval egyeztetett időpontban – kihallgathatja. A kihallgatáson történő részvétel céljából megjelenő törvényes képviselőnek, állama konzuli tisztviselőjének, valamint a védőnek a javítóintézetbe történő belépését engedélyezni kell.
 
 (3) A fiatalkorú – eljárási cselekmények lefolytatása, valamint a Bnytv.-ben meghatározott bűnügyi nyilvántartási adat mintavétele céljából – a nyomozó hatóság részére kiadható.
 
@@ -6337,7 +6322,7 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 (2) A jutalmazás formái:
 
 - a) nevelői dicséret,
-- b) parancsnoki dicséret,
+- b) igazgatói dicséret,
 - c) tárgyjutalom,
 - d) korábban kiszabott fegyelmi büntetés elengedése vagy enyhítése,
 - e) egyéni vagy csoportos kulturális vagy sportrendezvényen való részvétel engedélyezése,
@@ -6347,7 +6332,7 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 
 (3) A jutalom kimenő havonta egyszer legfeljebb tizenkét óra időtartamban, a jutalom eltávozás évente két alkalommal legfeljebb öt napra, a jutalom szabadság évente egy alkalommal legfeljebb tíz napra adható. A jutalom kimenő, eltávozás és szabadság a kapcsolattartásként engedélyezett kimenő, eltávozás és szabadság tartamán felül adható, és az a javítóintézeti nevelés tartamába beszámít.
 
-(4) A (2) bekezdés b)–h) pontjában megjelölt jutalmazási forma alkalmazására a nevelési vezető jogosult.
+(4) A (2) bekezdés b)–h) pontjában megjelölt jutalmazási forma alkalmazására az igazgató jogosult.
 
 ### A fiatalkorú fegyelmi büntetése
 
@@ -6356,7 +6341,7 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 (2) A fegyelmi vétséget elkövető fiatalkorúval szemben a kiszabható fegyelmi büntetések:
 
 - a) nevelői figyelmeztetés,
-- b) a parancsnoki megrovás,
+- b) az igazgatói megrovás,
 - c) az egyes társas szórakozástól, programtól vagy rendezvénytől eltiltás, amely legfeljebb egy hónapra vonatkozhat,
 - d) a kimenő megvonása, amely legfeljebb két hónapra vonatkozhat,
 - e) az eltávozás megvonása, amely legfeljebb három hónapra vonatkozhat,
@@ -6395,7 +6380,7 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 
 377. § (1) A fiatalkorúnak a javítóintézetből, vagy engedélyezett távolléte alatt a kijelölt tartózkodási helyéről való engedély nélküli eltávozása, továbbá az engedélyezett távollét lejártával a javítóintézetbe való vissza nem térése – e fejezet alkalmazásában – szökésnek minősül. A szökés fegyelmi vétség.
 
-(2) Szökés esetén a javítóintézet jelentést készít, és a javítóintézeti parancsnok a jelentés megküldésével haladéktalanul előterjesztést tesz a büntetés-végrehajtási bírónak a fiatalkorúval szemben elfogatóparancs kibocsátására.
+(2) Szökés esetén a javítóintézet jelentést készít, és az igazgató a jelentés megküldésével haladéktalanul előterjesztést tesz a büntetés-végrehajtási bírónak a fiatalkorúval szemben elfogatóparancs kibocsátására.
 
 (3) A jelentés tartalmazza a fiatalkorú természetes személyazonosító adatait, az ügydöntő határozatot hozó bíróság megnevezését és határozatának számát, keltét, a fiatalkorú személyleírását, vélt feltalálási helyét és a szökés körülményeit. A jelentéshez mellékelni kell a fiatalkorú fényképét.
 
@@ -6409,13 +6394,13 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 
 ### Zárt jellegű javítóintézeti részleg
 
-378. § (1) Ha a fegyelmi eljárás során megállapítást nyer, hogy a fiatalkorú az intézet rendjét súlyosan megsértette, a fegyelmi bizottság indítványozza a javítóintézeti parancsnoknak az intézeti tanács összehívását.
+378. § (1) Ha a fegyelmi eljárás során megállapítást nyer, hogy a fiatalkorú az intézet rendjét súlyosan megsértette, a fegyelmi bizottság indítványozza az igazgatónak az intézeti tanács összehívását.
 
-(2) Az intézeti tanács az eset összes körülményeit és a fiatalkorú eddigi intézeti életútját megvizsgálja, a fiatalkorút meghallgatja, és javaslatot tesz a javítóintézeti parancsnoknak a fiatalkorú zárt jellegű javítóintézeti részlegben való elhelyezésére vagy annak mellőzésére. Ha az intézeti tanács nem javasolja az elhelyezést, vagy az intézeti tanács javaslata ellenére a javítóintézeti parancsnok mellőzi a fiatalkorú elhelyezését, úgy a fegyelmi bizottság más büntetést szab ki.
+(2) Az intézeti tanács az eset összes körülményeit és a fiatalkorú eddigi intézeti életútját megvizsgálja, a fiatalkorút meghallgatja, és javaslatot tesz az igazgatónak a fiatalkorú zárt jellegű javítóintézeti részlegben való elhelyezésére vagy annak mellőzésére. Ha az intézeti tanács nem javasolja az elhelyezést, vagy az intézeti tanács javaslata ellenére az igazgató mellőzi a fiatalkorú elhelyezését, úgy a fegyelmi bizottság más büntetést szab ki.
 
-(3) A javítóintézeti parancsnok az intézeti tanács javaslatára legfeljebb két hónapi időtartamra zárt jellegű javítóintézeti részlegbe helyezheti a fiatalkorút, ha a javítóintézet rendjét ismételten és súlyosan megsértette. E döntés előtt a nevelő és a pszichológus véleményét be kell szerezni.
+(3) Az igazgató az intézeti tanács javaslatára legfeljebb két hónapi időtartamra zárt jellegű javítóintézeti részlegbe helyezheti a fiatalkorút, ha a javítóintézet rendjét ismételten és súlyosan megsértette. E döntés előtt a nevelő és a pszichológus véleményét be kell szerezni.
 
-(4) A zárt jellegű javítóintézeti részlegbe helyezést az intézeti tanács javaslatára a nevelési vezető a fiatalkorú magaviselete alapján egy alkalommal további egy hónappal meghosszabbíthatja; a döntéshez a nevelő és a pszichológus véleményét ismételten be kell szerezni.
+(4) A zárt jellegű javítóintézeti részlegbe helyezést az intézeti tanács javaslatára az igazgató a fiatalkorú magaviselete alapján egy alkalommal további egy hónappal meghosszabbíthatja; a döntéshez a nevelő és a pszichológus véleményét ismételten be kell szerezni.
 
 (5) A zárt jellegű javítóintézeti részlegben való elhelyezés ideje alatt a fiatalkorú a javítóintézeten kívüli programon – ide nem értve a 367. § (3) bekezdésében felsorolt esetet – nem vehet részt, kimenőre, eltávozásra – a rendkívüli eltávozás esetét kivéve –, valamint szabadságra nem mehet.
 
@@ -6449,7 +6434,7 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 
 (2) Ha az ideiglenesen elbocsátott fiatalkorú javítóintézeti nevelésének folytatását vagy ideiglenes foganatba vételét rendelték el, a fiatalkorút az az intézet fogadja vissza, amelyikből elbocsátották.
 
-382. § (1) Ha a fiatalkorú a huszonegyedik életévét betöltötte, a nevelési vezető a javítóintézetből elbocsátja.
+382. § (1) Ha a fiatalkorú a huszonegyedik életévét betöltötte, az igazgató a javítóintézetből elbocsátja.
 
 (2) Az (1) bekezdésben meghatározott eseteken kívül megszűnik a javítóintézeti nevelés, ha
 
@@ -6481,9 +6466,9 @@ alkalmazható. Testi kényszert a fiatalkorúval szemben az ehhez szükséges ki
 
 a javítóintézet utógondozó részleget működtet.
 
-(2) Az utógondozói részlegen történő elhelyezés engedélyezéséről – a fiatalkorú írásbeli kérelmére – az intézeti tanács javaslatára a nevelési vezető dönt.
+(2) Az utógondozói részlegen történő elhelyezés engedélyezéséről – a fiatalkorú írásbeli kérelmére – az intézeti tanács javaslatára az igazgató dönt.
 
-(3) Az elhelyezést a nevelési vezető megszünteti
+(3) Az elhelyezést az igazgató megszünteti
 
 - a) a fiatalkorú kérelmére,
 - b) ha az elhelyezés okai megszűntek,
@@ -6532,7 +6517,7 @@ alapján fogadja be.
 
 ### A letartóztatás végrehajtásának helye
 
-388. § (1) A letartóztatást – a rendelkezési jogkör gyakorlójának vagy jogszabály eltérő rendelkezésének hiányában – a rendelkezési jogkör gyakorlójának székhelye szerint illetékes vármegyei (fővárosi) bv. intézetben kell végrehajtani. Az országos parancsnok erre a célra – kivételesen – más bv. intézetet is kijelölhet.
+388. § (1) A letartóztatást – a rendelkezési jogkör gyakorlójának vagy jogszabály eltérő rendelkezésének hiányában – a rendelkezési jogkör gyakorlójának székhelye szerint illetékes megyei (fővárosi) bv. intézetben kell végrehajtani. Az országos parancsnok erre a célra – kivételesen – más bv. intézetet is kijelölhet.
 
 (1a) A letartóztatást az anya-gyermek részlegen kell végrehajtani annak a nőnek az esetében, akinek
 
@@ -6960,7 +6945,7 @@ kérelmezi.
 
 (2) A letartóztatásban lévő fiatalkorú, ha fekvőbeteg-ellátásra szorul, vagy egészségi állapota kórházi kivizsgálást igényel, egészségügyi ellátását és vizsgálatát lehetőség szerint büntetés-végrehajtási egészségügyi intézetben kell biztosítani.
 
-415. § (1) Ha a fiatalkorú tartósan szembeszegül a javítóintézet rendjével, társai vagy a javítóintézeti dolgozók testi épségét, illetve a javítóintézet biztonságát súlyosan veszélyeztető magatartást tanúsít, a javítóintézeti parancsnok az ügyészségnél kezdeményezheti a letartóztatás végrehajtási helye megváltoztatásának indítványozását.
+415. § (1) Ha a fiatalkorú tartósan szembeszegül a javítóintézet rendjével, társai vagy a javítóintézeti dolgozók testi épségét, illetve a javítóintézet biztonságát súlyosan veszélyeztető magatartást tanúsít, az igazgató az ügyészségnél kezdeményezheti a letartóztatás végrehajtási helye megváltoztatásának indítványozását.
 
 (2) Ha a bíróság a letartóztatás végrehajtási helyének megváltoztatását rendeli el, a javítóintézet a fiatalkorú átszállítása érdekében megkeresi a javítóintézet székhelye szerint illetékes rendőrkapitányságot.
 
@@ -6996,13 +6981,13 @@ kérelmezi.
 
 között.
 
-(3) A fiatalkorú kérelmére, a rendelkezési jogkör gyakorlójának egyetértésével a nevelési vezető az (1)–(2) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.
+(3) A fiatalkorú kérelmére, a rendelkezési jogkör gyakorlójának egyetértésével az igazgató az (1)–(2) bekezdésben meghatározottakon túl más személy számára is engedélyezheti a kapcsolattartást.
 
 420. § (1) Büntetőügyben történő idézés alapján a javítóintézet megkeresi a bíróság székhelye szerint illetékes rendőrkapitányságot a letartóztatott fiatalkorúnak a megjelölt helyre és időre történő előállítása, majd a javítóintézetbe visszaszállítása érdekében. A nyomozó hatóság részéről kért előállítás a rendelkezési jog gyakorlójának hozzájárulásával történhet.
 
 (2) Az (1) bekezdésben foglaltak szerint kell eljárni akkor is, ha a bíróság értesítése alapján a letartóztatott fiatalkorú vagy a védője kéri az előállítását.
 
-(3) A letartóztatott fiatalkorút a nyomozó hatóság – a rendelkezési jogkör gyakorlójának engedélyével – a javítóintézeti parancsnokkal egyeztetett időpontban, a javítóintézetben is kihallgathatja.
+(3) A letartóztatott fiatalkorút a nyomozó hatóság – a rendelkezési jogkör gyakorlójának engedélyével – a javítóintézet igazgatójával egyeztetett időpontban, a javítóintézetben is kihallgathatja.
 
 (4) A letartóztatott fiatalkorúnak a nyomozó hatóság részére történő kiadását a rendelkezési jogkör gyakorlója engedélyezi.
 
@@ -7097,7 +7082,7 @@ kell töltenie.
 
 (8) A fogvatartásért
 
-- a) rendőrkapitányság fogdájában és a vármegyei (fővárosi) rendőr-főkapitánysági (központi) fogdában a rendőrfőkapitány,
+- a) rendőrkapitányság fogdájában és a megyei (fővárosi) rendőr-főkapitánysági (központi) fogdában a rendőrfőkapitány,
 - b) a Készenléti Rendőrség Nemzeti Nyomozó Iroda fogdájában a Készenléti Rendőrség parancsnoka
 
 felelős.
@@ -7195,7 +7180,7 @@ felelős.
 
 434. § (1) Felhatalmazást kap a Kormány, hogy a pártfogó felügyelői szolgálatot rendeletben jelölje ki.
 
-(1a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a javítóintézet irányítására és szervezetére vonatkozó – az e törvényben meg nem határozott – szabályokat, ennek részeként különösen a javítóintézeti parancsnok és a nevelési vezető jogállására és tevékenységére vonatkozó szabályokat.
+(1a)
 
 (2) Felhatalmazást kap az igazságügyért felelős miniszter, hogy rendeletben állapítsa meg
 
@@ -7224,9 +7209,9 @@ felelős.
 
 (5) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős és az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtás során elrendelt elővezetés végrehajtásával, az elítélt vagy a kényszergyógykezelt elfogása és megtalálása esetén meghatározott bíróság, ügyészség vagy végrehajtásért felelős szerv elé állításával, valamint az elítélt vagy az egyéb jogcímen fogvatartott kérelmére történő előállítás során felmerült költség megtérítésének részletes szabályait, ide nem értve az elővezetés költsége mértékének megállapítását.
 
-(6) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a javítóintézeti rendészek kiegészítő képzésének és a vizsgájának részletes tartalmi feltételeit vagy ezek díját, a vizsgaszabályzatot, valamint a kiegészítő képzésnek és vizsgának megfelelő szakirányú képesítések és képzettségek jegyzékét a rendészetért felelős miniszterrel, a gyermekek és az ifjúság védelméért felelős miniszterrel, valamint a köznevelésért felelős miniszterrel egyetértésben rendeletben szabályozza.
+(6) Felhatalmazást kap a rendészetért felelős miniszter, hogy a javítóintézeti rendészek kiegészítő képzésének és a vizsgájának részletes tartalmi feltételeit vagy ezek díját; a vizsgaszabályzatot; valamint a kiegészítő képzésnek és vizsgának megfelelő szakirányú képesítések és képzettségek jegyzékét a gyermekek és az ifjúság védelméért felelős miniszterrel és a köznevelésért felelős miniszterrel egyetértésben rendeletben szabályozza.
 
-(7) Felhatalmazást kap a büntetés-végrehajtásért felelős miniszter, hogy a javítóintézetek rendtartását az igazságügyért felelős miniszterrel, valamint a gyermekek és az ifjúság védelméért felelős miniszterrel egyetértésben kiadott rendeletben állapítsa meg.
+(7) Felhatalmazást kap a gyermekek és az ifjúság védelméért felelős miniszter, hogy a javítóintézetek rendtartását az igazságügyért felelős miniszterrel és a büntetés-végrehajtásért felelős miniszterrel egyetértésben rendeletben állapítsa meg.
 
 ### Hatálybalépés
 

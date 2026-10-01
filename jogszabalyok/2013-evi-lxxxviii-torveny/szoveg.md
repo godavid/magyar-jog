@@ -341,7 +341,7 @@ meghatározott adat.
 - e) az ügyészség a törvényességi felügyelet gyakorlása céljából,
 - f) a rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv a rendőrségről szóló törvényben meghatározott határrendészeti feladatainak ellátása céljából, továbbá az ezzel kapcsolatos személyazonosság megállapítása céljából,
 - g) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv bűnüldözési feladatai ellátása céljából,
-- h) a rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv a rendőrségről szóló törvény alapján hatáskörébe tartozó bűncselekmények megelőzése, illetve megszakítása, továbbá személyvédelmi és létesítménybiztosítási feladatai ellátása céljából,
+- h) az általános rendőrségi feladatok ellátására létrehozott szerv a Rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 1. § (2) bekezdés 15a. pont a) alpontjában meghatározott bűncselekmények megszakítása céljából,
 - i) a Nemzeti Információs Központ elemzés-értékelés, valamint hírigény teljesítése céljából,
 - j) a Nemzeti Adó- és Vámhivatal vámellenőrzési feladatai ellátása céljából,
 - k) a bíróság, az ügyészség, az NVVH, a nyomozó hatóság és az előkészítő eljárást folytató szerv a büntetőeljárás lefolytatása céljából.
@@ -351,7 +351,7 @@ meghatározott adat.
 
 (3) A menekültügyi hatóság, az állampolgársági ügyben eljáró szerv és az idegenrendészeti hatóság a személyazonosság megállapítása céljából közvetlen hozzáféréssel jogosult átvenni adatot – a rejtett ellenőrzés és a célzott ellenőrzés céljából elrendelt körözés adatainak kivételével – a körözött személyek nyilvántartásából és a körözött dolgok nyilvántartásából a körözött okmányokra vonatkozóan.
 
-(4) Az Országgyűlési Őrség az Országgyűlésről szóló törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
+(4)
 
 (4a) A rendőrségről szóló törvényben meghatározott, az általános rendőrségi feladatok ellátására létrehozott szerv a törvényben meghatározott személyvédelmi és létesítménybiztosítási feladatainak ellátása céljából közvetlen hozzáféréssel jogosult átvenni adatot a körözött személyek nyilvántartásából.
 
@@ -621,7 +621,7 @@ előírja.
 
 (5)
 
-(5a) A rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és vármegyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során a szabálysértési eljárás alá vont személlyel kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában. Ha az eljáró szerv a szabálysértési eljárás alá vont személyt a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti, illetve kezdeményezi a törvény szerint szükséges intézkedések végrehajtását.
+(5a) A rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala, a Nemzeti Adó- és Vámhivatal feladat- és hatáskörrel rendelkező szerve, valamint a járásbíróság az általa lefolytatott szabálysértési eljárás során a szabálysértési eljárás alá vont személlyel kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában. Ha az eljáró szerv a szabálysértési eljárás alá vont személyt a körözött személyek nyilvántartásában azonosítja, e tényről a rendőrséget értesíti, illetve kezdeményezi a törvény szerint szükséges intézkedések végrehajtását.
 
 (5b) A rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szerv az általa lefolytatott közigazgatási hatósági eljárások során az ügyféllel kapcsolatos körözés tényének fennállását ellenőrzi a körözött személyek nyilvántartásában. Ha az eljáró szerv az ügyfelet a körözött személyek nyilvántartásában azonosítja, kezdeményezi a törvény szerint szükséges intézkedések végrehajtását.
 
@@ -864,7 +864,7 @@ vonatkozó rendelkezéseit megfelelően alkalmazni kell.
 
 (2) Ha a körözési eljárás lefolytatásához szükséges adattal más hatóság, egyéb állami, önkormányzati szerv vagy – ha törvény lehetővé teszi – egyéb szerv vagy személy rendelkezik, a körözési eljárást lefolytató szerv e szervet megkeresheti a szükséges adat megismerése érdekében. A megkeresést harminc napon belül teljesíteni kell.
 
-(3) A körözési eljárást lefolytató szerv a rendőrségről szóló 1994. évi XXXIV. törvény (a továbbiakban: Rtv.) 84. § (2) bekezdésében foglalt nyilvántartásokból, valamint az Interpol nyilvántartásából automatizált rendszer-rendszer kapcsolat, valamint közvetlen hozzáférés vagy adatigénylés útján adatot igényelhet a körözési eljárás lefolytatása céljából.
+(3) A körözési eljárást lefolytató szerv az Rtv. 84. § (2) bekezdésében foglalt nyilvántartásokból, valamint az Interpol nyilvántartásából automatizált rendszer-rendszer kapcsolat, valamint közvetlen hozzáférés vagy adatigénylés útján adatot igényelhet a körözési eljárás lefolytatása céljából.
 
 (4) A körözési eljárást lefolytató szerv a körözési eljárás során törvénnyel kihirdetett nemzetközi szerződés alapján a gépjármű, valamint ennek tulajdonosa, illetve üzembentartója adataival kapcsolatban a nemzetközi szerződés részes államainak a nemzetközi szerződés hatálya alá tartozó gépjárműadat-nyilvántartásaiban a nemzetközi szerződés által meghatározott automatizált keresést rendelhet el. Az automatizált keresést a nemzeti kapcsolattartó pont teljesíti, amely a keresés eredményéről haladéktalanul tájékoztatja a körözési eljárást lefolytató szervet. A keresés tényéről és eredményéről az intézkedés befejezését követően értesíteni kell a rendőrség nemzetközi bűnügyi együttműködési központját.
 

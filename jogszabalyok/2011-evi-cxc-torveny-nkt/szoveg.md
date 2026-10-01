@@ -121,7 +121,7 @@ lehet,
 - 19. nevelési év: az óvodában szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
 - 20. nevelőtestület: a nevelési-oktatási intézményben köznevelési foglalkoztatotti jogviszony, egyházi szolgálati jogviszony keretében pedagógus-munkakörben, a felsőfokú végzettséggel rendelkező, nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
 - 21. óraadó: megbízási szerződés keretében legfeljebb heti tizennégy óra vagy foglalkozás megtartására alkalmazott pedagógus, oktató,
-- 22. országos feladat ellátása: országos feladatot lát el a köznevelési intézmény, ha a szolgáltatásait igénybe vevők legalább ötvenegy százaléka – feladatellátási helyenként külön-külön vizsgálva, leszámítva azt a vármegyét (fővárost), ahol a feladatellátási hely található – legkevesebb öt különböző vármegyéből (fővárosból) élők közül kerül ki, feltéve, hogy az adott feladatot ellátó, szolgáltatást nyújtó köznevelési intézményből legfeljebb három működik az országban; továbbá, ha nemzetiségi nevelés, oktatás feladatait látja el, vagy vallási, világnézeti tekintetben elkötelezett nevelést, oktatást folytat és az országban legfeljebb egy ilyen intézmény található, amelyik egy településen, a fővárosban egy kerületben működik,
+- 22. országos feladat ellátása: országos feladatot lát el a köznevelési intézmény, ha a szolgáltatásait igénybe vevők legalább ötvenegy százaléka – feladatellátási helyenként külön-külön vizsgálva, leszámítva azt a megyét (fővárost), ahol a feladatellátási hely található – legkevesebb öt különböző megyéből (fővárosból) élők közül kerül ki, feltéve, hogy az adott feladatot ellátó, szolgáltatást nyújtó köznevelési intézményből legfeljebb három működik az országban; továbbá, ha nemzetiségi nevelés, oktatás feladatait látja el, vagy vallási, világnézeti tekintetben elkötelezett nevelést, oktatást folytat és az országban legfeljebb egy ilyen intézmény található, amelyik egy településen, a fővárosban egy kerületben működik,
 - 23. óvodai csoport, iskolai osztály, kollégiumi csoport: az a legalább egy nevelési évre, tanévre alkotott oktatásszervezési egység, amely meghatározott közös pedagógiai feladatok végrehajtására alakul az óvodába, iskolába, kollégiumba felvételt nyert, azonos feladatellátási helyre járó gyermekekből, tanulókból,
 - 24. összevont osztály: az általános iskola alsó tagozatán, az alapfokú művészeti iskolában, gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben legalább kettő, legfeljebb négy iskolai évfolyam tanulóiból alkotott osztály,
 - 25. sajátos nevelési igényű gyermek, tanuló: az a különleges bánásmódot igénylő gyermek, tanuló, aki a szakértői bizottság szakértői véleménye alapján mozgásszervi, érzékszervi (látási, hallási), értelmi vagy beszédfogyatékos, több fogyatékosság együttes előfordulása esetén halmozottan fogyatékos, autizmus spektrum zavarral vagy egyéb pszichés fejlődési zavarral (súlyos tanulási, figyelem- vagy magatartásszabályozási zavarral) küzd,
@@ -142,7 +142,7 @@ lehet,
 - 32b. tanulmányi rendszer üzemeltetője: a tanulmányi rendszerrel kapcsolatos fejlesztéseket, funkcionális üzemeltetést, továbbá a jogszabályban vagy szerződésben meghatározott egyéb feladatokat ellátó szervezet vagy szervezetek;
 - 33. tanuló- és gyermekbaleset: minden olyan baleset, amely a gyermeket, a tanulót az alatt az idő alatt vagy tevékenység során éri, amikor a nevelési-oktatási intézmény felügyelete alatt áll,
 - 34. telephely: a székhelyen kívül működő feladatellátási hely,
-- 35. térségi feladat ellátása: térségi feladatot lát el a köznevelési intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több vármegyében, vagy a főváros határain kívül élők veszik igénybe,
+- 35. térségi feladat ellátása: térségi feladatot lát el a köznevelési intézmény, ha öt év átlagában szolgáltatásait legalább ötvenegy százalékban – az intézmény székhelyét leszámítva – kettőnél több megyében, vagy a főváros határain kívül élők veszik igénybe,
 - 36. egyházi köznevelési intézmény: a 2. § (3) bekezdés b) pont bb) alpontjában meghatározott személy által fenntartott köznevelési intézmény,
 - 37. lemorzsolódással veszélyeztetett tanuló: az a tanuló, akinek az adott tanévben a tanulmányi átlageredménye közepes teljesítmény alatti vagy a megelőző tanévi átlageredményéhez képest legalább 1,1 mértékű romlást mutat, és esetében komplex, rendszerszintű pedagógiai intézkedések alkalmazása válik szükségessé,
 - 38.
@@ -820,7 +820,7 @@ kezeli.
 
 - a) az intézményre kiterjedő veszélyhelyzet esetében az igazgató,
 - b) a településre kiterjedő veszélyhelyzet esetében a jegyző a fenntartó egyidejű értesítése mellett,
-- c) a vármegyére, fővárosra kiterjedő veszélyhelyzet esetében a hivatal
+- c) a megyére, fővárosra kiterjedő veszélyhelyzet esetében a hivatal
 
 rendkívüli szünetet rendel el.
 
@@ -1363,7 +1363,7 @@ továbbítható.
 
 (8) A területileg illetékes tankerületi központ meghatározza és közzéteszi az iskolák felvételi körzetét, továbbá a pedagógiai szakszolgálatot ellátó intézmény működési körzetét. A felvételi körzetek megállapításához a területileg illetékes tankerületi központnak be kell szereznie az érdekelt települési önkormányzatok véleményét.
 
-(9) A sajátos nevelési igényű tanulók nevelés-oktatását több vármegyére, országrészre kiterjedően ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt az intézmény székhelye szerint illetékes tankerületi központnak be kell szereznie az érdekelt tankerületi központok véleményét.
+(9) A sajátos nevelési igényű tanulók nevelés-oktatását több megyére, országrészre kiterjedően ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt az intézmény székhelye szerint illetékes tankerületi központnak be kell szereznie az érdekelt tankerületi központok véleményét.
 
 (10) A nemzetiségek jogairól szóló törvény szerinti nemzetiségi köznevelési intézmény vonatkozásában, a nemzetiséghez tartozó gyermekek óvodai nevelését, iskolai nevelés-oktatását ellátó nevelési-oktatási intézmény működési, felvételi körzetének meghatározása előtt be kell szerezni az érdekelt települési nemzetiségi vagy országos feladatot ellátó iskola esetén az országos nemzetiségi önkormányzat egyetértését. Több településre kiterjedő működési, felvételi körzet esetén valamennyi érintett települési nemzetiségi önkormányzat egyetértését be kell szerezni, érintett települési nemzetiségi önkormányzat hiányában a területileg illetékes, érintett területi nemzetiségi önkormányzat véleményét kell kikérni.
 
@@ -1692,7 +1692,7 @@ fegyelmi büntetés szabható ki.
 - d) a 3. § (3) bekezdésében foglaltak megtartásával saját világnézete és értékrendje szerint végezze nevelő, oktató munkáját, anélkül, hogy annak elfogadására kényszerítené vagy késztetné a gyermeket, tanulót,
 - e) hozzájusson a munkájához szükséges ismeretekhez, intézményi és fenntartói információkhoz,
 - f) a nevelőtestület tagjaként részt vegyen a nevelési-oktatási intézmény pedagógiai programjának megalkotásában, elfogadásában és értékelésében, gyakorolja a nevelőtestület tagjait megillető jogokat,
-- g) szakmai ismereteit, tudását szervezett továbbképzésben való részvétel útján gyarapítsa, részt vegyen a köznevelési rendszer működtetésével, ellenőrzésével kapcsolatos vármegyei és országos feladatokban, pedagógiai kísérletekben, tudományos kutatómunkában,
+- g) szakmai ismereteit, tudását szervezett továbbképzésben való részvétel útján gyarapítsa, részt vegyen a köznevelési rendszer működtetésével, ellenőrzésével kapcsolatos megyei és országos feladatokban, pedagógiai kísérletekben, tudományos kutatómunkában,
 - h) szakmai egyesületek tagjaként vagy képviseletében részt vegyen helyi, regionális és országos közneveléssel foglalkozó testületek munkájában,
 - i) az iskola könyvtárán keresztül használatra megkapja a munkájához szükséges tankönyveket, tanári segédkönyveket, az intézmény SZMSZ-ében meghatározottak szerinti informatikai eszközöket,
 - j) az állami szervek és a helyi önkormányzatok által fenntartott könyvtárakat, muzeális intézményeket és más kiállító termeket, színházakat jogszabályban meghatározott kedvezményekre való jogosultságát igazoló pedagógusigazolvánnyal látogassa,
@@ -2008,7 +2008,7 @@ illeti meg.
 - a) rendszeresen, de legalább ötévenként értékeli – az általa létrehozott tanács közreműködésével – az Óvodai nevelés országos alapprogramja és a Nat bevezetésével és alkalmazásával kapcsolatos tapasztalatokat, szükség esetén kezdeményezi a Kormánynál a szükséges módosítást,
 - b) ellenőrzi a tankönyvkiadást és tankönyvforgalmazást, szabályozza a tankönyvekkel kapcsolatos támogatások rendszerét,
 - c) gondoskodik – az országos pedagógiai-szakmai szolgáltatásokról és az állami nevelési-oktatási intézmények számára ingyenesen nyújtott pedagógiai-szakmai szolgáltatások megszervezéséről,
-- d) gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai munka országos, térségi, vármegyei, fővárosi szintű szakmai ellenőrzéséről, értékeléséről a hivatal közreműködésével,
+- d) gondoskodik a nevelési-oktatási intézményekben folyó pedagógiai munka országos, térségi, megyei, fővárosi szintű szakmai ellenőrzéséről, értékeléséről a hivatal közreműködésével,
 - e) felügyeli a KIR és az INYR működését,
 - f) működteti az oktatási jogok biztosának hivatalát,
 - g) javaslatot tesz statisztikai adatszolgáltatásra,

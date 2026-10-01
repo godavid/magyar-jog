@@ -215,11 +215,11 @@ A közigazgatási perben vagy az egyéb közigazgatási bírósági eljárásban
 
 - a) ingatlanhoz kapcsolódó jog vagy kötelezettség, illetve ingatlanra vonatkozó jogviszony esetében az ingatlan fekszik,
 - b) tevékenység bejelentése vagy engedélyezése esetében a tevékenység gyakorolásának helye, vagy tervezett helye található,
-- c) az a) és b) pontban meghatározottak kivételével, a több mint egy vármegyére kiterjedő illetékességgel eljáró közigazgatási szerv közigazgatási tevékenysége esetében a felperes lakóhelye, tartózkodási helye, székhelye található,
+- c) az a) és b) pontban meghatározottak kivételével, a több mint egy megyére kiterjedő illetékességgel eljáró közigazgatási szerv közigazgatási tevékenysége esetében a felperes lakóhelye, tartózkodási helye, székhelye található,
 - d) az a)–c) pontban meghatározottak kivételével a mulasztó közigazgatási szerv székhelye található,
 - e) az a)–d) pontban meghatározottak hiányában a per tárgyává tett közigazgatási cselekmény – többfokú eljárásban megvalósított cselekmény esetén az elsőfokú közigazgatási cselekmény – megvalósult.
 
-(2) A közigazgatási tevékenység megvalósulása helyének a fővárosi székhelyű, de Pest vármegye területére vagy annak egy részére illetékes közigazgatási szerv székhelyén megvalósult tevékenység esetében Pest vármegyét kell tekinteni.
+(2) A közigazgatási tevékenység megvalósulása helyének a fővárosi székhelyű, de Pest megye területére vagy annak egy részére illetékes közigazgatási szerv székhelyén megvalósult tevékenység esetében Pest megyét kell tekinteni.
 
 (3) A Fővárosi Törvényszék kizárólagosan illetékes
 
@@ -604,7 +604,7 @@ bírálja el.
 
 #### 40. § [A keresetlevél továbbítása]
 
-(1) A keresetlevelet a benyújtástól számított harminc napon belül kell az ügy irataival együtt a hatáskörrel és illetékességgel rendelkező bírósághoz továbbítani. Többfokú közigazgatási eljárásban hozott cselekmény esetében az elsőfokon eljárt közigazgatási szerv a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a másodfokon eljárt közigazgatási szervhez, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz. A járási (fővárosi kerületi) hivatal eljárásában hozott cselekmény esetében a járási (fővárosi kerületi) hivatal a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a fővárosi és vármegyei kormányhivatalhoz, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz.
+(1) A keresetlevelet a benyújtástól számított harminc napon belül kell az ügy irataival együtt a hatáskörrel és illetékességgel rendelkező bírósághoz továbbítani. Többfokú közigazgatási eljárásban hozott cselekmény esetében az elsőfokon eljárt közigazgatási szerv a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a másodfokon eljárt közigazgatási szervhez, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz. A járási (fővárosi kerületi) hivatal eljárásában hozott cselekmény esetében a járási (fővárosi kerületi) hivatal a keresetlevelet a benyújtástól számított tizenöt napon belül az ügy irataival együtt felterjeszti a fővárosi és megyei kormányhivatalhoz, amely azokat a benyújtástól számított harminc napon belül továbbítja a bírósághoz.
 
 (2) Ha a keresetlevél azonnali jogvédelem iránti kérelmet is tartalmaz, a keresetlevelet a benyújtástól számított öt, többfokú közigazgatási eljárásban hozott cselekmény, illetve a járási (fővárosi kerületi) hivatal eljárása esetén – a benyújtástól számított három napon belüli felterjesztést követően – nyolc napon belül kell az ügy irataival együtt a bírósághoz továbbítani.
 
