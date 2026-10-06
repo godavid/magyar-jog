@@ -73,5 +73,10 @@
     "datum": "2026-06-29",
     "verzio": 15,
     "sha": "340a3e6079ca47f81aed9c89a3423c17f36d34c5"
+  },
+  {
+    "datum": "2026-10-01",
+    "verzio": 16,
+    "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
   }
 ]

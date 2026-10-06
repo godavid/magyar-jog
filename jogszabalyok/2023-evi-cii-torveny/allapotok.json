@@ -38,5 +38,10 @@
     "datum": "2026-03-22",
     "verzio": 10,
     "sha": "d52b8cf9ede0244ade198ec477beea2c3ee6c04d"
+  },
+  {
+    "datum": "2026-10-01",
+    "verzio": 11,
+    "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
   }
 ]

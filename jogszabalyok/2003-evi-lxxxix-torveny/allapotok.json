@@ -28,5 +28,10 @@
     "datum": "2018-01-01",
     "verzio": 9,
     "sha": "aa6600340b9846bdd33cf8169646ba29f3da215f"
+  },
+  {
+    "datum": "2026-10-01",
+    "verzio": 10,
+    "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
   }
 ]

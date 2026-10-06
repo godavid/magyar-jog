@@ -538,5 +538,10 @@
     "datum": "2026-05-14",
     "verzio": 113,
     "sha": "c84bb08a061a860c37f1a5b046e430a1cc041b9d"
+  },
+  {
+    "datum": "2026-10-01",
+    "verzio": 114,
+    "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
   }
 ]
