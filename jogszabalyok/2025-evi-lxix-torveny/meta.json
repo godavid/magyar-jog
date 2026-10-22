@@ -9,27 +9,27 @@
   "allapotok": [
     {
       "datum": "2025-10-01",
-      "verzio": 1,
-      "sha": "78ae8b0ad52be91b4a18aad2a502914d4f8b59c3"
+      "verzio": 1
     },
     {
       "datum": "2025-12-17",
-      "verzio": 3,
-      "sha": "b06dc9a42acc779be45640eba6fb7ba2da39ba48"
+      "verzio": 3
     },
     {
       "datum": "2026-01-01",
-      "verzio": 2,
-      "sha": "751cb950ce6eaae8d168db35cd94add760c27f35"
+      "verzio": 2
     },
     {
       "datum": "2026-05-14",
-      "verzio": 4,
-      "sha": "c84bb08a061a860c37f1a5b046e430a1cc041b9d"
+      "verzio": 4
     },
     {
       "datum": "2026-08-14",
       "verzio": 5
+    },
+    {
+      "datum": "2026-10-22",
+      "verzio": 6
     }
   ]
 }

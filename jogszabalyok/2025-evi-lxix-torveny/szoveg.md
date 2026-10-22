@@ -2,79 +2,53 @@
 
 Magyarország 2026. évi központi költségvetéséről
 
-[1] Háborúellenes költségvetés
+[1] A valóság költségvetése
 
-[2] A 2026-os év legnagyobb kérdése, hogy Ukrajnába megy-e a magyarok pénze? A brüsszeli bürokrácia és az Európai Parlament többsége Ukrajna felfegyverzésére és az ukránok pénzügyi támogatására akarja kötelezni az európai országokat, így Magyarországot is! A 2026-os költségvetésben nem Ukrajnára, hanem a magyar családok támogatására fordítjuk Magyarország forrásait! A 2026-os költségvetés ezért egy háborúellenes költségvetés, amelyben a gyermekes családokat helyezzük az első helyre.
+[2] Magyarország választópolgárai 2026. április 12-én a rendszerváltás óta mért legmagasabb részvétel mellett választottak Országgyűlést, amelyben az új kormány kétharmados felhatalmazást kapott. A magyar emberek ezzel egy olyan korszakra is egyértelmű nemet mondtak, amelyben a költségvetési fegyelem rendszeresen alárendelődött a politikai érdekeknek. Az egyik legsürgetőbb feladat annak megállapítása volt, hogy milyen állapotban van az ország költségvetése. A 2026. évi központi költségvetést az előző Országgyűlés 2025 nyarán fogadta el, olyan feltételezések mellett, amelyek már akkor sem voltak köszönőviszonyban a reális várakozásokkal, és amelyeket az azóta eltelt időszak gazdasági folyamatai egyáltalán nem igazoltak vissza. Ráadásul az előző kormány a politikai kampány oltárán a saját terveit is feláldozta, számos intézkedésével felülírta az elfogadott költségvetést, így az teljesen elszakadt a valóságtól.
 
-[3] Nehéz évek vannak mögöttünk: a Covid-járvány, a brüsszeli szankciók okozta energiaválság, az áremelkedések és a szomszédunkban folytatódó háború megterhelték a gazdaságot és megnehezítették sok magyar család életét. 2026-ra egy olyan költségvetést állítottunk össze, amely kivédi a háború káros hatásait. A költségvetés a gyermeket nevelő családok támogatását, a fiatalok életkezdésének segítését és a nyugdíjasok védelmét helyezi a középpontba. A kormány Európa legnagyobb családi adócsökkentési programját hajtja végre. A gyermekek után járó családi adókedvezmény 2026. január 1-től a jelenlegi duplájára nő. A négygyermekes édesanyák mellett 2025. október 1-jétől a háromgyermekes édesanyák is SZJA-mentesek lesznek, majd 2026. január 1-jétől életbe lép a 40 év alatti kétgyermekes édesanyák SZJA-mentessége is. 2026-ban is fenntartjuk a rezsicsökkentést és garantáljuk a 13. havi nyugdíj kifizetését. 2026. januárjától 13 százalékkal nő a minimálbér. A költségvetés biztosítja a hathavi fegyverpénz kifizetését a rendvédelmi és honvédelmi dolgozók részére. Csökkentjük a hiányt, az államadósságot, az inflációt és egyszerűsítjük az adórendszert.
+[3] Egy költségvetési törvény akkor tölti be a rendeltetését, ha a valóságot képezi le, és stabil horgonyként tud szolgálni, azaz nem esik át tucatnyi, sok esetben még a tárgyévet megelőzően végrehajtott módosításon. Ezzel szemben az elmúlt években a költségvetés elvesztette iránytű szerepét és komolyan vehetőségét, mert a tényleges folyamatok számottevően eltértek a tervezettől anélkül, hogy ezeket a változásokat a kormány átlátható módon, a költségvetési törvények módosításával bemutatta volna az Országgyűlésnek és a nyilvánosságnak. Az éves költségvetések megbízhatatlansága a gazdaságpolitika egészének hitelességét ásta alá. A tizenhat év végére odáig jutott Magyarország, hogy az elfogadott költségvetés egyre kevésbé a valóságot, egyre inkább az aktuális politikai célokat tükrözte. Ennek árát a teljes nemzetgazdaság és Magyarország minden polgára megfizette: Magyarország GDP-arányos állami kamatkiadása az Európai Unióban az elmúlt időszakban a legmagasabbra emelkedett.
 
-[4] A világban jelentős gazdasági és politikai változások történnek. Az Egyesült Államokban kedvező politikai változások zajlottak le. A korábban a nyugati világban eddig szinte egyeduralkodó globális-liberális világképet, nemzeti érdekű politika váltotta fel. Ez esélyt teremt arra, hogy a Nyugat is versenyben maradjon a gazdaságilag egyre erősödő Kelet mellett. Ehhez a magyar gazdaságpolitikának is alkalmazkodnia kell, amely továbbra is jó kapcsolatot szeretne fenntartani mind a Kelettel, mind a Nyugattal.
+[4] A módosítás célja, hogy a költségvetési törvény a tényleges gazdasági és államháztartási folyamatokat tükrözze, és egyúttal erősítse a közpénzügyi gazdálkodás átláthatóságát, kiszámíthatóságát és hitelességét.
 
-[5] Európa egyre több fenyegető kihívással néz szembe. Az Ukrajnában zajló véres háború, a vámháború, a tíz éve tartó folyamatos migráció, az elhibázott brüsszeli politika miatt bekövetkezett energiaválság, Brüsszel háborúpárti politikája és Ukrajna erőltetett és gyorsított uniós csatlakozása mind veszélyt jelentenek. Ukrajna EU-tagsága óriási költségeket és gazdasági terhet jelentene Európának és benne Magyarországnak is. A gyors változások és fenyegető veszélyek miatt a magyaroknak nem csak egyenként, de közösségként, nemzetként is helyt kell állniuk. Fel kell készülnünk arra, hogy a veszélyek korában a világpolitikai helyzet gyorsan változik, a nemzeti érdekek és szuverenitás védelme az első!
+[5] A 2026-os költségvetés 4,1 százalékos gazdasági növekedéssel kalkulált. Ehhez képest a 2026-os GDP-növekedés ennek kevesebb, mint a fele lehet, hasonlóan a 2025-ös növekedéshez, ami szintén 2 százalékponttal alacsonyabb lett az eredetileg tervezettnél. A két év során összességében így jelentősen eltérő, annál jóval negatívabb gazdasági környezet alakult ki, mint amellyel a költségvetés megtervezésre került.
 
-[6] A nemzeti kormány következetesen háborúellenes stratégiát követ. A mi olvasatunkban a háború végső mérlege mindig negatív, a békéé mindig pozitív. A háborúellenes stratégia tehát a gazdasági prosperitás stratégiájaként is értelmezhető. Ez a politika garantálja, hogy az európai háborús készülődés ellenére a magyar emberek a jövőben is békében és biztonságban éljenek. Ennek szellemében nyújtjuk be a 2026-os költségvetést, amelynek középpontjában a gyermekes családok, a fiatalok és a nyugdíjasok állnak.
+[6] A Magyarország 2026. évi központi költségvetéséről szóló 2025. évi LXIX. törvényt az Országgyűlés a bruttó hazai termék 3,7 százalékának megfelelő hiánnyal fogadta el. A Pénzügyminisztérium által elvégzett és 2026 júliusában nyilvánosságra hozott átvilágítás alapján azonban a kormányváltás és a kormányzati intézkedések nélkül a 2026. évi hiány elérte volna a GDP 8,3 százalékát. A papíron szereplő 3,7 százalék és a feltárt 8,3 százalék közötti különbség mutatja meg a legvilágosabban, milyen állapotban adta át az előző kormány az ország pénzügyeit.
 
-[7] A 2025-ös költségvetés elfogadása eltért a korábban megszokottól, a háborús helyzet miatt őszre tevődött át. Most visszatérünk a korábban megszokott rendszerhez és várhatóan a tavaszi ülésszak végén fogadjuk el a költségvetést.
+[7] A korábbi kormány által hátrahagyott költségvetés tarthatatlanságát támasztják alá a tényadatok is: 2026 első negyedévében az Európai Unióban az egyik legmagasabb, 9 százalék volt a magyar költségvetés eredményszemléletű hiánya. Ekkora eltérés mellett a hatályos törvény előirányzatai nem alkalmasak a költségvetés iránytű szerepének ellátására, ezért a törvény módosítása nem politikai mérlegelés kérdése, hanem a felelős államháztartási gazdálkodás követelménye.
 
-[8] 2026-ban a családpolitikai célokra 4800 milliárd forintot fordítunk, így a rezsivédelemre szolgáló 800 milliárd forinttal együtt 5600 milliárd forintot biztosítunk családok támogatására.
+[8] A költségvetés átvilágítása tételesen is feltárta az eltérés okait. A kormányváltást követő átadás-átvétel során megismert belső előrejelzés is már 6,8 százalékos hiányt jelzett előre. A GDP-arányos 3,1 százalékpontos eltérés kialakulásában döntő szerepet játszottak az előző kormány kampánykiadásai, az állam számára előnytelen szerződések, a kontrollálatlan, pazarló kiadások, a jogszabályellenes adóintézkedéseket eltörlő uniós bírósági döntések és azok következményei, valamint a tervezettnél számottevően gyengébb gazdasági pálya. A részletes átvilágítás további, a GDP 0,4 százalékának megfelelő hiánynövelő tételt tárt fel: az önkormányzati egyenleg nagyobb hiányát, az N7 állami védelmi ipari céggel és egy űrkutatási szolgáltatási szerződéssel kapcsolatos be nem tervezett kiadást, az M49-es útfejlesztések többletkiadását, valamint az egészségügyi kiadások további emelkedését kellett számba venni. Ezeken felül, a költségvetés a GDP 1,1 százalékát kitevő összegben számolt olyan európai uniós forrással, amelyet az előző kormányzat a jogállamisági és antikorrupciós szupermérföldkövek teljesítésének hiányában nem tudott volna lehívni a Helyreállítási és Ellenállóképességi Eszközből (RRF). Ezekre a forrásokra már a tervezés pillanatában sem volt esély, mivel a mérföldkövek teljesítésére a politikai szándék teljes mértékben hiányzott, így az előző kormány a szükséges jogállamisági és antikorrupciós szupermérföldköveket nem teljesítette. Vagyis olyan európai uniós bevételeket írtak be a magyar költségvetésbe, amelyek mögött a szükséges feltételek teljesítése hiányában nem állt ténylegesen lehívható forrás. Ennek következményeit már az új kormánynak kellett kezelnie. A valós örökséget ezért az e bevételek nélkül számított hiány jelenti.
 
-[9] Európa legnagyobb adócsökkentési programját hajtjuk végre a két- és háromgyermekes anyák személyi jövedelemadó mentességével, ami kiegészül a családi adó- és járulékkedvezmény mértékének megduplázásával, a CSED, a GYED és az örökbefogadói díj SZJA-mentességével és a 30 év alatti anyák adómentességének kiterjesztésével. A családpolitikán belül a három gyereket nevelő anyák kedvezményére, illetve a két gyermeket nevelő anyák szja-mentességére 320 milliárd forintot fordítunk. A családi adókedvezmény megduplázására pedig 290 milliárd forintot különít el a költségvetés. 2026 a gyermekes családok éve lesz, hiszen az adókedvezmények minden eddiginél több pénzt hagynak náluk. Ez közel 1300 milliárd forintot jelent. A családi adó- és járulékkedvezmény 2011-től 2026 végéig összesen akár 5 ezer milliárd forintot jelenthet a családoknak. 2011 óta számos további jelentős adócsökkentésről döntött a kormány. Ezek közül a legfontosabb, hogy a munkát terhelő adókat csökkentettük, az SZJA 32 százalékról 15 százalékra csökkent, a hazai vállalkozások támogatására 19 százalékról 9 százalékra csökkentettük a társasági adót, így jelenleg Magyarországon van Európa legalacsonyabb társasági adókulcsa. Az otthonteremtési és családvédelmi program keretében az új lakóingatlanok értékesítésére 5 százalékos kedvezményes adómértéket vezettünk be.
+[9] Az új kormány a hivatalba lépése után néhány hónap alatt érdemben javította az örökölt 2026. évi hiányt. Az előző kormány által elveszített források ügyében megállapodást kötött az uniós intézményekkel, ami 0,5 százalékponttal, a közfeladatot ellátó közérdekű vagyonkezelő alapítványi (KEKVA) kör átalakítása 0,2 százalékponttal, a forint erősödése, az állampapírhozamok és a kamattámogatott termékek kiadásának csökkenése további 0,1 százalékponttal javítja az egyenleget. Az új kormány első intézkedései és az Európai Unióval történt megállapodás hatására a júliusi költségvetési leltár már az örökölt 8,3 százalékos hiánypályánál kedvezőbb, 7,5 százalékos várható hiánnyal kalkulált – további intézkedések nélkül.
 
-[10] 2026-ban a költségvetés nyugellátásokra és nyugdíjszerű ellátásokra összesen mintegy 7700 milliárd forintot fordít, ami a költségvetés egyik legnagyobb tétele. A kormány továbbra is garantálja a nyugdíj- és nyugdíjszerű ellátások inflációkövető emelését és a 13. havi nyugdíjat és nyugdíjszerű ellátásokat; a 13. havi nyugdíjra és nyugdíjszerű ellátásokra 585 milliárd forintot tartalmaz a költségvetés.
+[10] A módosított költségvetés a leltárral megegyező, GDP-arányosan 7,5 százalékos ESA-hiányt tartalmaz. A számos ponton terhelt örökség, továbbá az aszály és az energiaválság miatt szükséges egy 500 milliárd forintos Havária Alap létrehozása. Ennek a hatását azonban a pazarlást és a közpénzek eltulajdonítását felváltó felelős gazdálkodás ellensúlyozni tudja. Miközben az Orbán-kormány rengeteg pénzt költött ésszerűtlenül és kevesek gazdagodását szolgálva, számos szükséges beruházás nem valósult meg az elmúlt években. Ezért az örökségnek nemcsak a magas hiány és a növekvő államadósság a része, hanem az elavult, sebezhető energetikai, közlekedési, vízgazdálkodási infrastruktúra is, amire szükséges költeni.
 
-[11] 2026-ban jelentős béremelésekre kerül sor, ezen felül kifizetésre kerül a hathavi fegyverpénz is a rendvédelmi, a honvédelmi és más hivatásos dolgozók részére 450 milliárd forint összegben. A tanári béremelést folytatjuk. A minimálbér-emelésben a bérmegállapodásnak megfelelő 13 százalékkal számolunk 2026-ra, amely a központi igazgatásban is megvalósul. A tizezer fő alatti önkormányzatok esetén is béremelést hajtunk végre: az idei évben már 15 százalékkal, jövő év januárjától meg további 15 százalékkal emeljük az önkormányzati köztisztviselők illetményét. Egyéb ágazati béremelést is végrehajtunk az alkotmányos szervezeteknél, például az igazságügyben.
+[11] Az országot sújtó rendkívüli aszályhelyzet és az örökölt energiakrízis kezelésére, valamint egyéb előre nem látható kiadásokra a kormány létrehozza a Havária Alapot 500 milliárd forintos összeggel. Az Alap rendeltetése, hogy egyrészt elkülönített fedezetet biztosítson két, egymást erősítő hatás költségvetési következményeinek a kezelésére. Az idei szárazság az ország csaknem teljes területét érinti, és ez a vízhiány az energiaellátásban is közvetlenül megjelenik. Az előirányzat elkülönítése az átlátható költségvetési tervezést szolgálja. Emellett a Havária Alap egyéb, külső körülmények miatt felmerülő nem tervezett kiadások fedezetéül is szolgál.
 
-[12] Gazdaságfejlesztésre közel 5050 milliárd forintot fordítunk, amelyből 2200 milliárd forintot uniós, körülbelül 2850 milliárd forintot pedig hazai költségvetési forrásokból fogunk biztosítani. A 2026-os költségvetés továbbra is biztosítja a fedezetet az Új Gazdaságpolitikai Akcióterv (21 lépés) megvalósítására. Az akcióterv fő pilléreit képezik a jövedelmek vásárlóerejének növelése, a megfizethető lakhatás biztosítása, valamint a Demján Sándor Program keretében a hazai kis- és középvállalkozások támogatása. Ahhoz, hogy minden magyar számára, aki dolgozni akar, biztosítsuk, hogy a jövőben is legyen munkája, a meghirdetett 100 új gyár programot 150-re bővítjük, amelyhez a költségvetés nyújt majd támogatást.
+[12] A felelős közpénzügyi gazdálkodás megerősítése ugyanakkor folytatódik a túlárazott, pazarló és nem hatékony kiadások felszámolásával. A közpénzek felhasználásában az állam mindenekelőtt magát kötelezi takarékosságra. Az új kormány alapelvei a közpénzügyek terén a felelős gazdálkodás, a hatékonyság és a korrupcióval szembeni zéró tolerancia. Az elmúlt években ennek éppen az ellenkezője valósult meg: a kivételezettek magánérdeke megelőzte a közérdeket, szükségtelen, pazarló és nem hatékony kiadások valósultak meg, és mindezek révén közpénzek vándoroltak magánzsebekbe. Ennek a korszaknak vége: a magyar emberek pénze újra a magyar állam működését és a magyar emberek érdekeit fogja szolgálni.
 
-[13] 2026-ban tovább nő az oktatás támogatása. Oktatásra több mint 4 ezer milliárd forintot biztosít a 2026-os költségvetés, amely 2010-hez képest közel háromszoros növekedést (180 százalék többletet) jelent. A 2025-ös évhez viszonyítva pedig több mint 160 milliárd forinttal többet fordítunk a területre. 2025 januárjától átlagosan 21,2 százalékkal nőtt a tanárok, az óvónők és a szakképzésben oktatók bére. A pedagógusok bére így elérte a diplomás átlagbér 80%-át. A béremelés 2026-ban is folytatódik, így négy év alatt közel megduplázódik a tanárok bére.
+[13] A felelős gazdálkodás már eddig is érzékelhető javulást eredményezett a költségvetésben. Az új kormány megalakulása óta a tárcák elkezdték felülvizsgálni a korábbi szerződéseket és kötelezettségvállalásokat, és folyamatos a visszásságok feltárása. A 2026-os költségvetés módosítása mintegy 400 milliárd forint értékben tartalmaz konkrét, már meghozott hiányjavító lépéseket. Ezek a lépések a túlárazás letöréséhez, a pazarlás megszüntetéséhez, az előző kormányhoz köthető üzleti köröknek adott támogatások és a propagandakiadások felszámolásához, az államigazgatás saját működésének az ésszerűsítéséhez és a beruházások rangsorolásához kapcsolódnak. Ilyen intézkedések a kormánytagok és képviselők fizetéscsökkentése, a Mohácsi Duna-híd költségeinek mérséklése, valamint a Szuverenitásvédelmi Hivatal megszüntetése. Szintén érezhető már a hiteles gazdaságpolitikának az adósságfinanszírozás költségeire gyakorolt kedvező hatása: az állampapír hozamok a kormányváltás óta 1,1–1,3 százalékponttal csökkentek.
 
-[14] Tovább nő az egészségügy támogatása is, ami 3919 milliárd forintot tesz ki a 2026-os évben. Ez több mint háromszorosa annak, mint amennyi az utolsó baloldali kormány által benyújtott költségvetésben szerepelt. A 2025-ös évhez képest pedig 280 milliárd forinttal többet biztosít a költségvetés erre a területre. Az egészségügyben az elmúlt évtizedek egyik legnagyobb béremelési programját hajtottuk végre, az orvosok és az ápolók bére is többszörösére nőtt 2010 óta.
+[14] A módosított költségvetés a május óta tartó felelős gazdálkodásra épül, ami várhatóan mintegy 300 milliárd forint további megtakarítást hoz a túlárazott, pazarló és indokolatlan kiadások megszüntetésével. A túlárazás és a pazarlás felszámolása, a közpénz magáncélra való felhasználásának megakadályozása, a felelős gazdálkodás nem csak az idei hiány csökkentését szolgálja, hanem a 2027-es hiánycsökkentést is megalapozza.
 
-[15] A nemzeti kormány elkötelezett Magyarország biztonsága és védelme mellett. Továbbra is garantáljuk a határok védelmét, az illegális migráció elleni védekezéshez és a közbiztonság megerősítéséhez szükséges erőforrásokat. A békéhez erő kell, a védelemhez pedig megfelelő hadsereg. A NATO kötelezettségeinknek megfelelően a kétszázalékos GDP-arányos védelmi kiadást biztosítjuk, a 2026. évi költségvetés 2016 milliárd forintot tartalmaz e célra és garantáljuk a rendvédelem fenntartásához szükséges forrásokat.
+[15] A költségvetés módosítása emellett tartalmazza az új kormány által hozott szociális intézkedések hatását is. A kormány 100 ezer forintos támogatást biztosít több mint 400 ezer rászoruló gyermek számára az iskolakezdéshez, a vényköteles gyógyszerek áfamentessé válnak, míg a tűzifa áfakulcsa 27 százalékról 5 százalékra csökken. A szociális tűzifa keretét, ami már az év első felében szinte teljes egészében elfogyott, a költségvetésben a duplájára emeljük.
 
-[16] 2026-ban a költségvetés a magyar családoknak fizet ki 800 milliárd forintot a lakossági állampapírok kamataira! Nem a külföldieket, hanem a magyar családok megtakarításait támogatjuk!
+[16] A kormány elkötelezett az államadósság-ráta csökkentése iránt. Az örökölt magas költségvetési hiány és a költségvetési törvényben szereplőtől lényegesen elmaradó 2026-os nominális GDP miatt ugyanakkor az államadósság-ráta 2026-ban átmenetileg emelkedni fog: a tavaly év végi 74,6 százalékról 77,5 százalékra nőhet. A GDP-arányos államadósság csökkenése 2026 után tud újra indulni.
 
-[17] A Költségvetési Tanács véleménye alapján a kiadásokat 142 milliárd forinttal csökkentette a kormány, amely összeget a költségvetés végrehajtása során az adóbevételek megfelelő alakulása esetén az adott területekre visszapótolunk. Ennek megfelelően a Miniszterelnökség beruházásaira 2 milliárd forint, az Építési és Közlekedési Minisztérium beruházásaira 35 milliárd forint, az Energiaügyi Minisztérium beruházásaira 59 milliárd forint, további állami beruházásokra 10 milliárd forint, az állami vagyonnal kapcsolatos kiadásokra 11 milliárd forint, a központi költségvetési szervek kiadásaira pedig 25 milliárd forint visszapótlására kerülhet sor a 2026. év során.
+[17] Az örökölt hiány csökkentése fontos lépés a Kormány azon céljának eléréséhez, hogy Magyarország 2030-ra megteremtse az euró bevezetésének gazdasági és költségvetési feltételeit. Ez a módosítás az első lépés afelé, hogy Magyarország költségvetése visszanyerje hitelességét, kiszámítható, átlátható és a hazai, valamint az európai uniós adósság- és hiányszabályokkal összhangban álló legyen, megteremtve az euróbevezetés feltételeit. Az ország pénzügyi helyzetének helyreállítása több évet vesz igénybe; ennek a munkának az őszinte számvetés a kezdete.
 
-[18] A kormány a 2026-os költségvetésben is jelentős mértékű beruházásokról döntött. Ennek célja a gazdaság dinamizálása és a munkahelyteremtés. A következő évben több száz beruházás indul, folytatódik, vagy kerül átadásra, többek között a közlekedési infrastruktúra, az oktatás és az egészségügy területén.
+[18] Áprilisban a magyar emberek soha nem látott határozottsággal döntöttek a felelőtlen helyett egy felelősen működő kormány és ezzel a költségvetési fegyelem mellett is. Az április óta eltelt időszak államháztartási eredményei megerősítik a választói felhatalmazást: idén áprilisig a hiány elérte a 3850 milliárd forintot, amely 919 milliárd forinttal magasabb az egy évvel korábbinál. Ezzel szemben a május–július hónapokban többlettel zárt a költségvetés, összesen közel 1000 milliárd forint összegben, mely 848 milliárd forinttal magasabb, mint az előző év azonos időszakában. Fordulat történt tehát a költségvetési fegyelemben, a takarékosabb állami működés, a pazarlás megszüntetése és a közpénzek védelme kezd megmutatkozni a számokban. Ezzel együtt az igaz, hogy az említett kedvező számoknak csak egy része épül be tartósan az éves egyenlegbe, és a hiány egész évre várható értéke továbbra is egyértelműen mutatja az előző rendszer nehéz örökségét.
 
-[19] A beruházások közül kiemelkednek a következők: a Steindl Imre program részeként a Kossuth Lajos téri Igazságügyi Palota és Agrárminisztérium épület rekonstrukciója; Budapest-Pesthidegkúti új református gyülekezeti központ; Magyar Falu Program keretében megvalósuló templom-felújítási alprogram; Magyarországi Baptista Egyház debreceni gyülekezeti központ; Hungaroring Sport Zrt. Stratégiai Fejlesztési Program II. ütem; a Betegápoló Irgalmasrend Budai Irgalmasrendi Kórház Budapest, Frankel Leó út 54. szám alatti székhelyű telephelye komplex felújítása; Szegedi ipari parkhoz kapcsolódó útfelújítás; DGÖ víziközmű Debrecen szennyvíz- és ivóvíz-infrastruktúra fejlesztése; DGÖ víziközmű balmazújvárosi Keleti-főcsatornához tartozó vízműtelep-fejlesztés előkészítése és megvalósítása; Mohács 500 emlékévhez kapcsolódó fejlesztések és Mohács Nemzeti Emlékhely; Tatabánya–Oroszlány–Tata és térsége ipari parki fejlesztések; Debreceni Déli Gazdasági Övezet ipari parki fejlesztések; Északkelet-Magyarországon megvalósuló nagyberuházásokhoz szükséges villamosenergia-hálózatfejlesztés; Szeged ipari parki fejlesztések; Ács ipari parki fejlesztések; Öntözésfejlesztés: Mórahalmi harmadlagos mű kiépítése, Siófoki öntözőrendszer modernizálása, környezeti körzeti tervek készítése a fenntartható vízgazdálkodási közösségeknek; a Molekuláris- Ujjlenyomat Kutató Központ Nonprofit Korlátolt Felelősségű Társaság (CMF) 2030-ig tartó stratégiai céljainak megvalósításához szükséges fejlesztések; Budai Egészségközpont Zrt. Beruházásának támogatása; Dunakiliti – Dobrohošt (Doborgaz) közötti gyalogos-kerékpáros Duna-híd; Szegedi Ipari Park közúti kapcsolatainak fejlesztése; M49 gyorsforgalmi út, M3 autópálya – (Őr) – Ököritófülpös (Porcsalma) közötti szakasz; M4 gyorsforgalmi út, Törökszentmiklós (Nyugat) és Kisújszállás (Kelet) közötti szakasz; SE II. sz. Patológiai Intézet Nemzeti Orvosi Innovációs Képző Központ; Pázmány Péter Katolikus Egyetem Campus; Országos Rabbiképző Egyetem; Debreceni Szakképzési Centrum fejlesztései.
-
-[20] Mindezekre tekintettel az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarország 2026. évi központi költségvetéséről a következő törvényt alkotja:
+[19] Mindezekre tekintettel az Országgyűlés az Alaptörvény 36. cikk (1) bekezdése alapján Magyarország 2026. évi központi költségvetéséről a következő törvényt alkotja:
 
 ### I. Fejezet — A KÖZPONTI ALRENDSZER KIADÁSAINAK ÉS BEVÉTELEINEK FŐÖSSZEGE, A HIÁNY ÉS AZ ÁLLAMADÓSSÁG ÉRTÉKE
 
 #### 1. Az államháztartás központi alrendszerének egyenlege és főösszegei
 
-1. § (1) Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2026. évi
+1. § Az Országgyűlés az államháztartás központi alrendszerének (a továbbiakban: központi alrendszer) 2026. évi
 
-- a) kiadási főösszegét 43 781 310,5 millió forintban,
-- b) bevételi főösszegét 39 562 775,9 millió forintban,
-- c) hiányát 4 218 534,6 millió forintban
-
-állapítja meg.
-
-(2) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés a hazai működési költségvetés 2026. évi
-
-- a) kiadási főösszegét 37 383 814,9 millió forintban,
-- b) bevételi főösszegét 37 383 814,9 millió forintban,
-- c) egyenlegét 0,0 millió forintban
-
-állapítja meg.
-
-(3) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés a hazai felhalmozási költségvetés 2026. évi
-
-- a) kiadási főösszegét 2 847 340,0 millió forintban,
-- b) bevételi főösszegét 374 937,3 millió forintban,
-- c) hiányát 2 472 402,7 millió forintban
-
-állapítja meg.
-
-(4) Az (1) bekezdésben meghatározott bevételi és kiadási főösszegeken belül az Országgyűlés az európai uniós fejlesztési költségvetés 2026. évi
-
-- a) kiadási főösszegét 3 550 155,6 millió forintban,
-- b) bevételi főösszegét 1 804 023,7 millió forintban,
-- c) hiányát 1 746 131,9 millió forintban
+- a) kiadási főösszegét 49 025 644,9 millió forintban,
+- b) bevételi főösszegét 41 915 521,8 millió forintban,
+- c) hiányát 7 110 123,1 millió forintban
 
 állapítja meg.
 
@@ -82,9 +56,9 @@ Magyarország 2026. évi központi költségvetéséről
 
 #### 2. Az államadósság értéke
 
-3. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 4. § (1) bekezdése alapján, a Gst. 2. §-a szerint számított államadósság-mutató 2026. december 31-ére tervezett értéke 72,3%.
+3. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény (a továbbiakban: Gst.) 4. § (1) bekezdése alapján, a Gst. 2. §-a szerint számított államadósság-mutató 2026. december 31-ére tervezett mértéke 77,5%.
 
-(2) Az Országgyűlés megállapítja, hogy az államadósság-mutató (1) bekezdés szerinti értéke a 2025. év utolsó napján várható 73,1%-hoz képest az Alaptörvény 36. cikk (5) bekezdésében meghatározott államadósság-mutató csökkenése követelményének eleget tesz.
+(2) Az Országgyűlés megállapítja, hogy az államadósság-mutató (1) bekezdés szerinti mértéke a 2025. év utolsó napján fennálló 74,6%-hoz képest az Alaptörvény 36. cikk (5) bekezdésében meghatározott követelményének – figyelemmel az Alaptörvény 36. cikk (6) bekezdésében foglaltakra – eleget tesz.
 
 ### II. Fejezet — A KÖZPONTI ALRENDSZER EGYES ELŐIRÁNYZATAINAK MEGÁLLAPÍTÁSÁVAL, TELJESÍTÉSÉVEL ÉS FELHASZNÁLÁSÁVAL KAPCSOLATOS RENDELKEZÉSEK
 
@@ -104,15 +78,15 @@ Magyarország 2026. évi központi költségvetéséről
 
 (3) A XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 46. cím, 2. Közfeladatot ellátó intézmények rezsikompenzációja alcím biztosít fedezetet mind a Kormány irányítása alá tartozó, mind a Kormánytól független költségvetési szervek vagy más, közfeladatot ellátó jogi személyek, illetve a nem állami, nem helyi önkormányzati szociális, gyermekvédelmi, kulturális, köznevelési, szakképző, felsőoktatási és egészségügyi intézményt fenntartók rezsikompenzációjára. Az előirányzat felhasználásáról egyedi határozattal a Kormány dönt.
 
-(4) Központi tartalék szolgál a XVI. Építési és Közlekedési Minisztérium fejezet, 11. cím, 4. alcím, 6. Közlekedési közszolgáltatások energiaköltségének támogatása jogcímcsoporton a világpiaci energiaár-emelkedés hatásainak mérséklése és a rezsicsökkentés eredményeinek megőrzése érdekében szükséges kiadások fedezetére. Az előirányzat felhasználásáról egyedi határozattal a Kormány dönt.
+(4) Központi tartalék szolgál a XVI. Közlekedési és Beruházási Minisztérium fejezet, 11. cím, 4. alcím, 6. Közlekedési közszolgáltatások energiaköltségének támogatása jogcímcsoporton a világpiaci energiaár-emelkedés hatásainak mérséklése és a rezsicsökkentés eredményeinek megőrzése érdekében szükséges kiadások fedezetére. Az előirányzat felhasználásáról egyedi határozattal a Kormány dönt.
 
-(5) Központi tartalék szolgál a XVII. Energiaügyi Minisztérium fejezet, 21. cím, 23. Lakossági Rezsivédelmi Alap alcímen a világpiaci energiaár-emelkedés hatásainak mérséklése és a rezsicsökkentés eredményeinek megőrzése érdekében szükséges kiadások fedezetére. Az előirányzat felhasználásáról egyedi határozattal a Kormány dönt.
+(5) Központi tartalék szolgál a XVII. Gazdasági és Energetikai Minisztérium fejezet, 21. cím, 23. Lakossági Rezsivédelmi Alap alcímen a világpiaci energiaár-emelkedés hatásainak mérséklése és a rezsicsökkentés eredményeinek megőrzése érdekében szükséges kiadások fedezetére. Az előirányzat felhasználásáról egyedi határozattal a Kormány dönt.
 
 (6) A XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 46. cím, 4. Az állami vagyon növelését szolgáló tartalék alcím biztosít fedezetet az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 19. § (3) bekezdése szerinti tulajdonosi ügyletek fedezetére, amelyek nem érintik a Gst. 1. § c) pontja szerinti kormányzati szektor egyenleg alakulását.
 
 (7) A (6) bekezdés szerinti tartalékról az államháztartásért felelős miniszter a Kormány tulajdonosi ügylet jóváhagyásra vonatkozó döntése alapján átcsoportosíthat, amennyiben a tartalék felhasználása az Alaptörvény 37. cikk (2) és (3) bekezdéseiben meghatározott államadósság-mutató csökkenése követelmény teljesülését nem veszélyezteti.
 
-(8) A XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Védelmi tartalék cím biztosít fedezetet a védelmi kiadások növekedéséből levezethető általános vagy védelemspecifikus rugalmassági mozgástér felhasználásakor teljesített kiadásokra.
+(8) A XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 44. Gazdaságfejlesztési Keret cím biztosít fedezetet a védelmi kiadások növekedéséből levezethető általános vagy védelemspecifikus rugalmassági mozgástér felhasználásakor teljesített kiadásokra.
 
 (9) A (8) bekezdés szerinti tartalékról a Kormány az Európai Parlament és Tanács (EU) 2024/1263 rendelete 26. cikk szerinti országspecifikus mentesítési rendelkezések aktiválása esetén az uniós szabályokból fakadó általános vagy védelemspecifikus rugalmassági mozgástér mértékéig – legfeljebb összesen 860 milliárd forint összegben – átcsoportosíthat.
 
@@ -120,6 +94,10 @@ Magyarország 2026. évi központi költségvetéséről
 
 - a) a (8) és (9) bekezdésben leírt általános vagy védelem specifikus mozgástér felhasználásakor az EU 2024/1263 rendelet 22. cikkében leírt kontrollszámla hatályos uniós szabályok szerinti egyenlege 2026-ban a szankciómentességi plafon alatt marad, és
 - b) a tartalék felhasználása az Alaptörvény 37. cikk (2) és (3) bekezdéseiben meghatározott államadósságra vonatkozó követelmény teljesíthetőségét nem veszélyezteti.
+
+(11) A XLII. A költségvetés közvetlen bevételei és kiadásai fejezet 46. cím, 5. Havária Alap alcím biztosít fedezetet a rendkívüli időjárási viszonyok, az energiakrízis vagy egyéb, előre nem látható ok miatti kiadási többletekre.
+
+(12) A (11) bekezdés szerinti előirányzatról a Kormány az Áht. 33. § (2) bekezdése szerint, nyilvános határozatban átcsoportosíthat.
 
 #### 4. Az állam vagyonával kapcsolatos rendelkezések
 
@@ -188,7 +166,7 @@ előirányzat-átcsoportosítást hajthat végre az államháztartásért felel�
 
 11. § (1) A Szabályozott Tevékenységek Felügyeleti Hatósága 685,0 millió forintot köteles a 2026. évben befizetni a bevételeiből a központi költségvetés részére, amelyek esedékessége az első három negyedév vonatkozásában a negyedévet követő hónap 20. napja, a negyedik negyedévben december 10-e.
 
-(2) Az Építési és Közlekedési Minisztérium igazgatása a 2026. évben
+(2) Az Közlekedési és Beruházási Minisztérium igazgatása a 2026. évben
 
 - a) a bevételeiből 24 285,8 millió forintot, továbbá
 - b) a közhatalmi bevételei 24 285,8 millió forintot meghaladó részének 30%-át
@@ -206,6 +184,22 @@ köteles befizetni a központi költségvetés részére.
 (7) A Szellemi Tulajdon Nemzeti Hivatala 51,0 millió forintot köteles fizetni a bevételeiből a 2026. évben a központi költségvetés javára, havi 1/12-ed részenként február hónaptól minden hónap 20. napjáig, illetve további 1/12-ed részt december hónapban 10-ei befizetési időpontra.
 
 (8) A Kormány irányítása vagy felügyelete alá tartozó költségvetési szervek az öregségi nyugdíjkorhatárt betöltött és az öregségi teljes nyugdíjhoz szükséges szolgálati időt megszerzett közalkalmazotti vagy kormányzati szolgálati jogviszonyban állók jogviszonyának megszüntetéséből eredő kiadási megtakarításaikat – a 2026. évi költségvetésbe már beépült megtakarítások kivételével – kötelesek befizetni a Magyar Államkincstár (a továbbiakban: Kincstár) „A zárolt álláshelyekhez kapcsolódó megtakarítások befizetései” megnevezésű, 10032000-01034286-00000000 számú számlájára, a központi költségvetés javára.
+
+(9) A Honvédelmi Minisztérium a 2026. évben 1414,7 millió forintot az eredeti bevételi előirányzatain felüli bevételeiből köteles befizetni a központi költségvetés részére legkésőbb 2026. december 10-ig.
+
+(10) A Kormány irányítása vagy felügyelete alá tartozó költségvetési fejezetek 300 000 millió forintot kötelesek befizetni a Magyar Államkincstár „Költségvetési befizetési kötelezettségek” megnevezésű, 10032000-01200021-09060018 számú számla javára 2026. november 15-ig.
+
+(11) A (10) bekezdésben meghatározott befizetési kötelezettség költségvetési fejezetekre, vagy – indokolt esetben – a fejezeteken belüli előirányzatokra történő felosztásáról a Kormány 2026. november 5-ig dönt.
+
+(12) A külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény 23. § (1) bekezdése értelmében amerikai dollárban meghatározott járandóságokon a tervezési árfolyamhoz viszonyított, a kedvezőbb árfolyam miatti megtakarításokat a Külügyminisztérium köteles befizetni 2026. évben a központi költségvetés javára. A befizetési kötelezettség mértékét a tárgyév negyedik negyedévének november hónapjára vonatkozó kimutatás eredménye figyelembevételével kell meghatározni és pénzügyileg teljesíteni. A befizetés teljesítésének esedékessége 2026. december 15-e.
+
+(13) A Gazdasági és Energetikai Minisztérium 4200,0 millió forintot köteles befizetni a 2026. évben a központi költségvetés javára, amely befizetés esedékessége 2026. december 10-e.
+
+(14) A Gazdasági és Energetikai Minisztérium a 2026. évben az 1+1 KKV Beruházás-élénkítő Támogatási Programon meghiúsulás miatt keletkező előirányzat-maradványból 1000,0 millió forintot köteles befizetni a központi költségvetés részére legkésőbb 2026. december 10-ig.
+
+(15) A Tudományos és Technológiai Minisztérium igazgatása a 2026. évben 115,0 millió forintot köteles befizetni a központi költségvetés részére legkésőbb 2026. december 10-ig.
+
+(16) A költségvetési hiány csökkentése érdekében egyes támogatások fel nem használt részének visszafizetése miatt a 2026. évben az Élő Környezetért Felelős Minisztérium a víziközművekkel és vízgazdálkodással összefüggő térségi fejlesztések visszafolyó, felhasználásra nem kerülő támogatásaihoz kapcsolódóan 4769,6 millió forintot köteles befizetni a központi költségvetés részére 2026. november 30-ig.
 
 #### 6. Az elkülönített állami pénzalapokkal összefüggő rendelkezések
 
@@ -260,7 +254,7 @@ csoportosíthat át.
 
 (9) Az egészségbiztosításért felelős miniszter az államháztartásért felelős miniszter egyetértésével az egészségügyi szolgáltatók likviditási helyzetének stabilizálása érdekében a LXXII. Egészségbiztosítási Alap fejezet, 2. cím, 7. alcím, 13. Egészségügyi szolgáltatók kiegészítő finanszírozása jogcímcsoportról az alcím 9. jogcímcsoportjára és 10. jogcímcsoportjának jogcímeire átcsoportosíthat.
 
-(10) Az aktív fekvőbeteg-ellátást nyújtó központi költségvetési szervek részére biztosított ingatlanüzemeltetési szolgáltatásokkal összefüggésben az egészségbiztosításért felelős miniszter az államháztartásért felelős miniszter egyetértésével a XXIII. Nemzetgazdasági Minisztérium fejezet és a LXXII. Egészségbiztosítási Alap fejezet között átcsoportosíthat.
+(10) Az aktív fekvőbeteg-ellátást nyújtó központi költségvetési szervek részére biztosított ingatlanüzemeltetési szolgáltatásokkal összefüggésben az egészségbiztosításért felelős miniszter az államháztartásért felelős miniszter egyetértésével a XXIII. Pénzügyminisztérium fejezet és a LXXII. Egészségbiztosítási Alap fejezet között átcsoportosíthat.
 
 16. § A LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai címen belül az időarányoshoz viszonyított évközi előirányzat-túllépést a 7. Gyógyító-megelőző ellátás alcím, a 10. Gyógyszertámogatás alcím, a 11. Gyógyászati segédeszköz támogatás alcím, továbbá a 14. alcím, 2. Külföldön tervezett egészségügyi ellátások megtérítése jogcímcsoport esetében az államháztartásért felelős miniszter a kiadások alakulásának figyelembevételével engedélyezheti.
 
@@ -297,8 +291,8 @@ előirányzatainak – az 50. §-ban meghatározottak kivételével történő �
 
 (4) Az Országgyűlés – az Áht. 30. § (3) bekezdése és 40. § (4) bekezdése szerinti esetek, valamint a fejezetet irányító szervek vezetőinek a költségvetési fejezetek között együttesen kezdeményezett előirányzat-átcsoportosítása kivételével – magának tartja fenn a jogot
 
-- a) az I. Országgyűlés fejezet, a II. Köztársasági Elnökség fejezet, a III. Alkotmánybíróság fejezet, a IV. Alapvető Jogok Biztosának Hivatala fejezet, az V. Állami Számvevőszék fejezet, a VI. Bíróságok fejezet, a VII. Integritás Hatóság fejezet, a VIII. Ügyészség fejezet, a XXIV. Szuverenitásvédelmi Hivatal fejezet, a XXX. Gazdasági Versenyhivatal fejezet, a XXXII. Európai Támogatásokat Auditáló Főigazgatóság fejezet, a XXXIII. Magyar Tudományos Akadémia fejezet, és a XXXIV. Magyar Művészeti Akadémia fejezet kiadási és bevételi előirányzatai főösszegének,
-- b) a XI. Miniszterelnökség fejezet, 30. cím, 1. alcím, 30. Egyházi célú központi költségvetési hozzájárulások jogcímcsoport előirányzatai
+- a) az I. Országgyűlés fejezet, a II. Köztársasági Elnökség fejezet, a III. Alkotmánybíróság fejezet, a IV. Alapvető Jogok Biztosának Hivatala fejezet, az V. Állami Számvevőszék fejezet, a VI. Bíróságok fejezet, a VII. Integritás Hatóság fejezet, a VIII. Ügyészség fejezet, a XXXVI. Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatal fejezet, a XXX. Gazdasági Versenyhivatal fejezet, a XXXII. Európai Támogatásokat Auditáló Főigazgatóság fejezet, a XXXIII. Magyar Tudományos Akadémia fejezet, és a XXXIV. Magyar Művészeti Akadémia fejezet kiadási és bevételi előirányzatai főösszegének,
+- b) a XXII. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium fejezet, 20. cím, 2. Egyházi célú központi költségvetési hozzájárulások alcím előirányzatai
 
 csökkentésére.
 
@@ -323,11 +317,11 @@ csökkentésére.
 
 - a) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 1. Állami kitüntetések jogcímcsoport terhére átcsoportosíthat a II. Köztársasági Elnökség fejezet, 1. Sándor-palota cím javára,
 - b) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 3. jogcímcsoport, 1. Államfői Protokoll kiadásai jogcím terhére átcsoportosíthat a II. Köztársasági Elnökség fejezet, 1. Sándor-palota cím javára,
-- c) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 3. jogcímcsoport, 1. Államfői Protokoll kiadásai jogcím terhére a XVIII. Külgazdasági és Külügyminisztérium fejezet javára átcsoportosíthat, ha az államfői protokollal kapcsolatos feladatok ellátása érdekében szükséges,
+- c) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 3. jogcímcsoport, 1. Államfői Protokoll kiadásai jogcím terhére a XVIII. Külügyminisztérium fejezet javára átcsoportosíthat, ha az államfői protokollal kapcsolatos feladatok ellátása érdekében szükséges,
 - d) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 3. jogcímcsoport, 1. Államfői Protokoll kiadásai jogcím terhére a XIII. Honvédelmi Minisztérium fejezet javára átcsoportosíthat, ha az államfői protokollal kapcsolatos feladatok ellátása érdekében szükséges,
 - e) a II. Köztársasági Elnökség fejezet, 2. cím, 2. alcím, 4. Magyar Corvin-lánc Testület és Iroda működésének támogatása jogcímcsoport terhére átcsoportosíthat a II. Köztársasági Elnökség fejezet, 1. Sándor-palota cím javára.
 
-(2) Az (1) bekezdés c) és d) pontja szerint átcsoportosított előirányzat terhére történő visszarendezésre a XVIII. Külgazdasági és Külügyminisztérium fejezetet, valamint a XIII. Honvédelmi Minisztérium fejezetet irányító szerv vezetője jogosult.
+(2) Az (1) bekezdés c) és d) pontja szerint átcsoportosított előirányzat terhére történő visszarendezésre a XVIII. Külügyminisztérium fejezetet, valamint a XIII. Honvédelmi Minisztérium fejezetet irányító szerv vezetője jogosult.
 
 (3) Az Országos Bírósági Hivatal elnöke a VI. Bíróságok fejezet, 4. Fejezeti kezelésű előirányzatok cím terhére átcsoportosíthat a VI. Bíróságok fejezet, 1. Bíróságok és 2. Kúria cím javára.
 
@@ -337,33 +331,33 @@ csökkentésére.
 
 (6) A X. Igazságügyi Minisztérium fejezetet irányító szerv vezetője a X. Igazságügyi Minisztérium fejezet, 20. cím, 5. Az igazságügyi modernizációval összefüggő intézkedések alcím terhére átcsoportosíthat a VI. Bíróságok fejezet és a VIII. Ügyészség fejezet előirányzatai javára. Az e bekezdés szerinti fejezetek közötti átcsoportosítás esetén az átcsoportosított előirányzat terhére történő visszarendezésre az átcsoportosított előirányzatot átvevő fejezet irányító szervének vezetője jogosult.
 
-24. § (1) A XI. Miniszterelnökség fejezetet irányító szerv vezetője a XI. Miniszterelnökség fejezet, 30. cím, 3. Nemzetpolitikai tevékenységek és határon túli magyarok támogatása alcím terhére átcsoportosíthat a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség igazgatása cím javára.
+24. § (1) A XXII. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium fejezetet irányító szerv vezetője a XXII. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium fejezet, 20. cím, 5. Nemzetpolitikai tevékenységek és határon túli magyarok támogatása alcím terhére átcsoportosíthat a XXII. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium fejezet, 1. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium igazgatása cím javára.
 
-(2) A XXI. Miniszterelnöki Kabinetiroda fejezetet irányító szerv vezetője a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. cím, 1. alcím, 24. Kiemelt társadalmi kapcsolatok jogcímcsoport, illetve a 20. cím, 1. alcím, 27. Nonprofit, társadalmi, civil szervezetek és köztestületek támogatása jogcímcsoport terhére átcsoportosíthat a XXI. Miniszterelnöki Kabinetiroda fejezet, 20. cím, 1. alcím 2. Kormányzati kommunikációval és konzultációval kapcsolatos feladatok jogcímcsoport javára.
+(2) A XI. Miniszterelnökség fejezetet irányító szerv vezetője a XI. Miniszterelnökség fejezet, 30. cím, 1. alcím, 3. Kiemelt társadalmi kapcsolatok jogcímcsoport, és a 30. cím, 1. alcím, 17. Nonprofit, társadalmi, civil szervezetek és köztestületek forrásjuttatása jogcímcsoport terhére átcsoportosíthat a XI. Miniszterelnökség fejezet, 30. cím, 1. alcím, 2. Kormányzati kommunikációval és konzultációval kapcsolatos feladatok jogcímcsoport javára.
 
-(3) A XVIII. Külgazdasági és Külügyminisztérium fejezetet irányító szerv vezetője a XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. cím, 1. alcím, 16. Protokoll kiadások jogcímcsoport alá besorolt jogcímek között, továbbá a jogcímcsoport alá besorolt jogcímek terhére fejezeten belül más cím javára, illetve a II. Köztársasági Elnökség fejezet és a XXI. Miniszterelnöki Kabinetiroda fejezet javára – az államháztartásért felelős miniszter utólagos tájékoztatása mellett – átcsoportosíthat, amennyiben az államfői, a kormányfői, illetve az egyéb kormányzati protokollal kapcsolatos feladatok ellátása érdekében szükséges. E bekezdés szerinti fejezetek közötti átcsoportosítás esetén az átcsoportosított előirányzat terhére történő visszarendezésre az átcsoportosított előirányzatot átvevő fejezet irányító szervének vezetője jogosult.
+(3) A XVIII. Külügyminisztérium fejezetet irányító szerv vezetője a XVIII. Külügyminisztérium fejezet, 7. cím, 1. alcím, 16. Protokoll kiadások jogcímcsoport alá besorolt jogcímek között, továbbá a jogcímcsoport alá besorolt jogcímek terhére fejezeten belül más cím javára, illetve a II. Köztársasági Elnökség fejezet és a XI. Miniszterelnökség fejezet javára – az államháztartásért felelős miniszter utólagos tájékoztatása mellett – átcsoportosíthat, amennyiben az államfői, a kormányfői, és az egyéb kormányzati protokollal kapcsolatos feladatok ellátása érdekében szükséges. E bekezdés szerinti fejezetek közötti átcsoportosítás esetén az átcsoportosított előirányzat terhére történő visszarendezésre az átcsoportosított előirányzatot átvevő fejezet irányító szervének vezetője jogosult.
 
-(4) A XXI. Miniszterelnöki Kabinetiroda fejezetet irányító szerv vezetője a XXI. Miniszterelnöki Kabinetiroda fejezet, 1. Miniszterelnöki Kabinetiroda cím terhére a XVIII. Külgazdasági és Külügyminisztérium fejezet javára átcsoportosíthat, ha az a kormányfői protokollal kapcsolatos feladatok ellátása érdekében szükséges. Az átcsoportosított előirányzat terhére történő visszarendezésre a XVIII. Külgazdasági és Külügyminisztérium fejezetet irányító szerv vezetője jogosult.
+(4) A XI. Miniszterelnökség fejezetet irányító szerv vezetője a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség igazgatása cím terhére a XVIII. Külügyminisztérium fejezet javára átcsoportosíthat, ha az a kormányfői protokollal kapcsolatos feladatok ellátása érdekében szükséges. Az átcsoportosított előirányzat terhére történő visszarendezésre a XVIII. Külügyminisztérium fejezetet irányító szerv vezetője jogosult.
 
-25. § (1) A XII. Agrárminisztérium fejezet, 20. cím, 3. alcím, 1. Nemzeti agrártámogatások jogcímcsoport kiadási előirányzatáról kell teljesíteni a folyó költségként elszámolható, megszűnő agrár- és vidékfejlesztési támogatások korábbi években vállalt és a 2026. évet terhelő áthúzódó fizetési kötelezettségeit.
+25. § (1) A XII. Agrár- és Élelmiszergazdaságért Felelős Minisztérium fejezet, 20. cím, 3. alcím, 1. Nemzeti agrártámogatások jogcímcsoport kiadási előirányzatáról kell teljesíteni a folyó költségként elszámolható, megszűnő agrár- és vidékfejlesztési támogatások korábbi években vállalt és a 2026. évet terhelő áthúzódó fizetési kötelezettségeit.
 
-(2) A fejezetet iránytó szerv a XII. Agrárminisztérium fejezet 20. cím 3. alcím 1. Nemzeti agrártámogatások jogcímcsoport alá tartozó jogcímek között előirányzat-átcsoportosítást hajthat végre az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
+(2) A fejezetet iránytó szerv a XII. Agrár- és Élelmiszergazdaságért Felelős Minisztérium fejezet 20. cím 3. alcím 1. Nemzeti agrártámogatások jogcímcsoport alá tartozó jogcímek között előirányzat-átcsoportosítást hajthat végre az államháztartásért felelős miniszter egyidejű tájékoztatása mellett.
 
 26. § (1) A rendészetért felelős miniszter a XIV. Belügyminisztérium fejezet, 20. cím, 11. A hivatásos életpályával, valamint a hivatásos állomány lakhatásával kapcsolatos kiadások alcím terhére a költségvetési szervek részére a hivatásos állomány tagjainak jogszabályon alapuló személyi juttatásainak kifizetése érdekében előirányzat-átcsoportosítást hajthat végre. Az előirányzat-átcsoportosítás az adott költségvetési szerv személyi juttatásai költségvetési előirányzatának megnövelésére az Áht. 33. § (4a) bekezdése alapján meghatározott mértéken felül irányulhat az államháztartásért felelős miniszter egyetértésével.
 
 (2) A XIV. Belügyminisztérium fejezetet irányító szerv vezetője a XIV. Belügyminisztérium fejezet, 20. cím, 19. A Nemzeti Bűnmegelőzési Stratégia feladatrendszerének támogatása alcím terhére a fejezeten belül és más fejezetek javára előirányzat-átcsoportosítást hajthat végre, amely átcsoportosítás alapján a személyi juttatások költségvetési előirányzata az Áht. 33. § (4a) bekezdése alapján meghatározott mértéken felül megnövelhető az államháztartásért felelős miniszter egyetértésével. A más fejezetek javára átcsoportosított előirányzat terhére történő visszarendezésre annak a fejezetnek az irányító szerve jogosult, amely javára az átcsoportosítás történt.
 
-27. § (1) Az Európai Beruházási Bank és a Beruházási Bizottság által az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2003/87/EK európai parlamenti és tanácsi irányelv) 10d. cikke szerint visszaigazolt és jóváhagyott programok keretösszegének mértékéig az energiapolitikáért felelős miniszter a XVII. Energiaügyi Minisztérium fejezet, 20. cím, 34. Zöld Beruházási Rendszer végrehajtásának feladatai alcím terhére kötelezettséget vállalhat.
+27. § (1) Az Európai Beruházási Bank és a Beruházási Bizottság által az üvegházhatást okozó gázok kibocsátási egységei Közösségen belüli kereskedelmi rendszerének létrehozásáról és a 96/61/EK tanácsi irányelv módosításáról szóló, 2003. október 13-i 2003/87/EK európai parlamenti és tanácsi irányelv (a továbbiakban: 2003/87/EK európai parlamenti és tanácsi irányelv) 10d. cikke szerint visszaigazolt és jóváhagyott programok keretösszegének mértékéig az energiapolitikáért felelős miniszter a XVII. Gazdasági és Energetikai Minisztérium fejezet, 20. cím, 34. Zöld Beruházási Rendszer végrehajtásának feladatai alcím terhére kötelezettséget vállalhat.
 
-(2) A XVII. Energiaügyi Minisztérium fejezet, 20. cím, 34. Zöld Beruházási Rendszer végrehajtásának feladatai alcím előirányzatát az energiapolitikáért felelős miniszter az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény (a továbbiakban: Éhvt.) alapján létrehozott kiotói egységek átruházásából pénzforgalmilag teljesült bevétel 100%-ával, az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkr. tv.) hatálya alá tartozó ESD-egységek és ESR-egységek értékesítéséből pénzforgalmilag teljesült bevétel 100%-ával, továbbá a 2003/87/EK európai parlamenti és tanácsi irányelv 10d. cikke szerinti bevétel 100%-ával növelheti meg.
+(2) A XVII. Gazdasági és Energetikai Minisztérium fejezet, 20. cím, 34. Zöld Beruházási Rendszer végrehajtásának feladatai alcím előirányzatát az energiapolitikáért felelős miniszter az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény (a továbbiakban: Éhvt.) alapján létrehozott kiotói egységek átruházásából pénzforgalmilag teljesült bevétel 100%-ával, az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény (a továbbiakban: Ügkr. tv.) hatálya alá tartozó ESD-egységek és ESR-egységek értékesítéséből pénzforgalmilag teljesült bevétel 100%-ával, továbbá a 2003/87/EK európai parlamenti és tanácsi irányelv 10d. cikke szerinti bevétel 100%-ával növelheti meg.
 
-(3) Az energiapolitikáért felelős miniszter az Éhvt. alapján létrehozott kiotói egységek átruházásából és az Ügkr. tv. hatálya alá tartozó ESD-egységek és ESR-egységek értékesítéséből befolyó bevételek elszámolására a XVII. Energiaügyi Minisztérium fejezet, 21. cím, 3. alcím, 1. Az EM tulajdonosi joggyakorlásával kapcsolatos bevételek jogcímcsoporton belül új jogcímeket hozhat létre.
+(3) Az energiapolitikáért felelős miniszter az Éhvt. alapján létrehozott kiotói egységek átruházásából és az Ügkr. tv. hatálya alá tartozó ESD-egységek és ESR-egységek értékesítéséből befolyó bevételek elszámolására a XVII. Gazdasági és Energetikai Minisztérium fejezet, 21. cím, 3. alcím, 1. A GEM tulajdonosi joggyakorlásával kapcsolatos bevételek jogcímcsoporton belül új jogcímeket hozhat létre.
 
 (4) Az Ügkr. tv. által létrehozott kibocsátási egységek 2026. évi értékesítéséből pénzforgalmilag teljesült bevételnek a 2026. évben fel nem használt része 2030-ig a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (4) bekezdésében és 10. cikk (3) bekezdésében meghatározott céloknak megfelelően kerül felhasználásra.
 
-(5) A XVII. Energiaügyi Minisztérium fejezet, 20. cím, 35. Energia- és klímapolitikai modernizációs rendszer alcím előirányzatait az energiapolitikáért felelős miniszter a kibocsátási egységek 2026. évi értékesítéséből az e törvényben
+(5) A XVII. Gazdasági és Energetikai Minisztérium fejezet, 20. cím, 35. Energia- és klímapolitikai modernizációs rendszer alcím előirányzatait az energiapolitikáért felelős miniszter a kibocsátási egységek 2026. évi értékesítéséből az e törvényben
 
-- a) megtervezett, pénzforgalmilag teljesült – az Európai Unió közös költségvetését a kibocsátási egységek értékesítésére tekintettel megillető saját forrás nagyságával csökkentett mértékű – bevétel és a XVII. Energiaügyi Minisztérium fejezet, 20. cím, 35. Energia- és klímapolitikai modernizációs rendszer alcím eredeti kiadási előirányzatai közötti különbözet összegével,
+- a) megtervezett, pénzforgalmilag teljesült – az Európai Unió közös költségvetését a kibocsátási egységek értékesítésére tekintettel megillető saját forrás nagyságával csökkentett mértékű – bevétel és a XVII. Gazdasági és Energetikai Minisztérium fejezet, 20. cím, 35. Energia- és klímapolitikai modernizációs rendszer alcím eredeti kiadási előirányzatai közötti különbözet összegével,
 - b) megtervezetten felül pénzforgalmilag teljesült – az Európai Unió közös költségvetését a kibocsátási egységek értékesítésére tekintettel megillető saját forrás nagyságával csökkentett mértékű – bevételnek megfelelő összeggel,
 
 de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (4) bekezdésében és a 10. cikk (3) bekezdésében meghatározott céloknak megfelelő, a célhoz kötött felhasználásra vonatkozóan ott előírt minimális mértékig növelheti meg.
@@ -372,23 +366,23 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 (7) A fejlődő országok részére nyújtandó klímafinanszírozás kiadásait az (5) bekezdésben meghatározott – az Ügkr. tv. hatálya alá tartozó kibocsátási egységek 2026. évi értékesítéséből pénzforgalmilag teljesült bevételhez kötött mértékű – kiadási előirányzat terhére kell teljesíteni.
 
-(8) A XVII. Energiaügyi Minisztérium fejezet, 20. cím, 35. Energia- és klímapolitikai modernizációs rendszer alcím előirányzatairól az év során fel nem használt összegeket az év végén kötelezettségvállalással terhelt maradványként kell kimutatni.
+(8) A XVII. Gazdasági és Energetikai Minisztérium fejezet, 20. cím, 35. Energia- és klímapolitikai modernizációs rendszer alcím előirányzatairól az év során fel nem használt összegeket az év végén kötelezettségvállalással terhelt maradványként kell kimutatni.
 
-28. § (1) A XXIII. Nemzetgazdasági Minisztérium fejezet, 10. cím, 4. Turisztikai fejlesztési feladatok alcím tartalmazza a turizmusfejlesztési hozzájárulásból származó bevétel mértékének megfelelő támogatást. Amennyiben e hozzájárulás 2026. évben pénzforgalmilag teljesülő bevétele meghaladja a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 2. cím, 7. Turizmusfejlesztési hozzájárulás alcím eredeti költségvetési bevételi előirányzat időarányosan számított részét, akkor a XXIII. Nemzetgazdasági Minisztérium fejezet, 10. cím, 4. Turisztikai fejlesztési feladatok alcím kiadási előirányzat megnövelését a Kormány engedélyezi minden hónapban a 2026. január 1. és a tárgyhónap utolsó napja közötti időszakban pénzforgalmilag teljesült turizmusfejlesztési hozzájárulás és a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 2. cím, 7. Turizmusfejlesztési hozzájárulás alcím eredeti költségvetési bevételi előirányzat tárgyhónap utolsó napjáig időarányosan számított összegének különbségével, amelyből levonásra kerül az ezen bekezdés alapján a Turisztikai fejlesztési feladatokon korábban végrehajtott keretemelések összege.
+28. § (1) A XVII. Gazdasági és Energetikai Minisztérium fejezet, 20. cím, 46. Turisztikai fejlesztési feladatok alcím tartalmazza a turizmusfejlesztési hozzájárulásból származó bevétel mértékének megfelelő támogatást. Amennyiben e hozzájárulás 2026. évben pénzforgalmilag teljesülő bevétele meghaladja a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 2. cím, 7. Turizmusfejlesztési hozzájárulás alcím eredeti költségvetési bevételi előirányzat időarányosan számított részét, akkor a XVII. Gazdasági és Energetikai Minisztérium fejezet, 20. cím, 46. Turisztikai fejlesztési feladatok alcím kiadási előirányzat megnövelését a Kormány engedélyezheti minden hónapban a 2026. január 1. és a tárgyhónap utolsó napja közötti időszakban pénzforgalmilag teljesült turizmusfejlesztési hozzájárulás és a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 2. cím, 7. Turizmusfejlesztési hozzájárulás alcím eredeti költségvetési bevételi előirányzat tárgyhónap utolsó napjáig időarányosan számított összegének különbségével, amelyből levonásra kerül az ezen bekezdés alapján a Turisztikai fejlesztési feladatok alcímen korábban végrehajtott keretemelések összege.
 
-(2) Amennyiben az (1) bekezdés szerinti hozzájárulás 2026. december 16-ig pénzforgalmilag teljesült bevétel mértéke meghaladja a XXIII. Nemzetgazdasági Minisztérium fejezet, 10. cím, 4. Turisztikai fejlesztési feladatok alcím kiadási előirányzatán az (1) bekezdés szerinti jogcímen rendelkezésre bocsátott összeget, az államháztartásért felelős miniszter legkésőbb 2026. december 18-ig megnöveli a XXIII. Nemzetgazdasági Minisztérium fejezet, 10. cím, 4. Turisztikai fejlesztési feladatok alcím kiadási előirányzatát a pénzforgalmilag teljesült bevétel és a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 2. cím, 7. Turizmusfejlesztési hozzájárulás alcím eredeti költségvetési bevételi előirányzatának az (1) bekezdés szerinti jogcímen rendelkezésre bocsátott összeggel növelt mértéke különbségének megfelelő összeggel.
+(2) Amennyiben az (1) bekezdés szerinti hozzájárulás 2026. december 16-ig pénzforgalmilag teljesült bevétel mértéke meghaladja a XVII. Gazdasági és Energetikai Minisztérium fejezet, 20. cím, 46. Turisztikai fejlesztési feladatok alcím kiadási előirányzatán az (1) bekezdés szerinti jogcímen rendelkezésre bocsátott összeget, az államháztartásért felelős miniszter legkésőbb 2026. december 18-ig megnövelheti a XVII. Gazdasági és Energetikai Minisztérium fejezet, 20. cím, 46. Turisztikai fejlesztési feladatok alcím kiadási előirányzatát a pénzforgalmilag teljesült bevétel és a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 2. cím, 7. Turizmusfejlesztési hozzájárulás alcím eredeti költségvetési bevételi előirányzatának az (1) bekezdés szerinti jogcímen rendelkezésre bocsátott összeggel növelt mértéke különbségének megfelelő összeggel.
 
-29. § (1) A XIII. Honvédelmi Minisztérium fejezet, 21. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok címhez tartozó alcímek költségvetési kiadási előirányzatai – a (2) bekezdésben foglaltak kivételével – tartalmazzák a sportról szóló 2004. évi I. törvény (a továbbiakban: Sport tv.) 56. § (2) bekezdése szerinti bevételek mértékének megfelelő támogatást.
+29. § (1) A XIV. Belügyminisztérium fejezet, 20. cím, 31. Sport feladatokhoz kapcsolódó fejezeti kezelésű előirányzatok alcímhez tartozó jogcímcsoportok költségvetési kiadási előirányzatai – a (2) bekezdésben foglaltak kivételével – tartalmazzák a sportról szóló 2004. évi I. törvény (a továbbiakban: Sport tv.) 56. § (2) bekezdése szerinti bevételek mértékének megfelelő támogatást.
 
-(2) A XIII. Honvédelmi Minisztérium fejezet, 21. cím, 2. A Magyar Labdarúgó Szövetség feladatainak támogatása alcím költségvetési kiadási előirányzata tartalmazza a bukmékeri rendszerű fogadások játékadójának ötven százalékából, a távszerencsejáték játékadójából, valamint a sportfogadások játékadójából származó bevétel mértékének megfelelő támogatást. Amennyiben e három játékadó 2026. évben pénzforgalmilag teljesült bevétele együttesen meghaladja a XIII. Honvédelmi Minisztérium fejezet, 21. cím, 2. A Magyar Labdarúgó Szövetség feladatainak támogatása alcím eredeti költségvetési kiadási előirányzatát, akkor az eredeti kiadási előirányzat és a teljesült bevétel különbségének biztosítására a Kormány határozatával a Sport tv. 56. § (2) bekezdésében meghatározott célra új kiadási előirányzatot hozhat létre a XIII. Honvédelmi Minisztérium fejezetben, vagy engedélyezheti a XIII. Honvédelmi Minisztérium fejezet, 21. cím, 2. A Magyar Labdarúgó Szövetség feladatainak támogatása alcím előirányzat kiadási előirányzatának növelését.
+(2) A XIV. Belügyminisztérium fejezet, 20. cím, 31. alcím, 2. A Magyar Labdarúgó Szövetség feladatainak támogatása jogcímcsoport költségvetési kiadási előirányzata tartalmazza a bukmékeri rendszerű fogadások játékadójának ötven százalékából, a távszerencsejáték játékadójából, valamint a sportfogadások játékadójából származó bevétel mértékének megfelelő támogatást. Amennyiben e három játékadó 2026. évben pénzforgalmilag teljesült bevétele együttesen meghaladja a XIV. Belügyminisztérium fejezet, 20. cím, 31. alcím, 2. A Magyar Labdarúgó Szövetség feladatainak támogatása jogcímcsoport eredeti költségvetési kiadási előirányzatát, akkor az eredeti kiadási előirányzat és a teljesült bevétel különbségének biztosítására a Kormány határozatával a Sport tv. 56. § (2) bekezdésében meghatározott célra új kiadási előirányzatot hozhat létre a XIII. Honvédelmi Minisztérium fejezetben, vagy engedélyezheti a XIV. Belügyminisztérium fejezet, 21. cím, 2. A Magyar Labdarúgó Szövetség feladatainak támogatása alcím előirányzat kiadási előirányzatának növelését.
 
-(3) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 25/B. §-a szerint befizetésre kerülő igazgatási szolgáltatási díj és fenntartási díj (a továbbiakban e bekezdés alkalmazásában: díj) 67,14%-át a XIV. Belügyminisztérium fejezet, 20. cím, 33. alcím, 2. Egészségügyi intézmények fejlesztése és rendkívüli támogatása jogcímcsoport javára kell bevételként elszámolni azzal, hogy ha a díj az egészségügyért felelős miniszter rendelete alapján több szerv között oszlik meg, ezen elszámolási kötelezettséget csak a gyógyszerészeti államigazgatási szervet megillető díjrész tekintetében kell alkalmazni.
+(3) Az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 25/B. §-a szerint befizetésre kerülő igazgatási szolgáltatási díj és fenntartási díj (a továbbiakban e bekezdés alkalmazásában: díj) 67,14%-át a XXVII. Egészségügyi Minisztérium fejezet, 10. cím, 1. alcím, 2. Egészségügyi intézmények fejlesztése és rendkívüli támogatása jogcímcsoport javára kell bevételként elszámolni azzal, hogy ha a díj az egészségügyért felelős miniszter rendelete alapján több szerv között oszlik meg, ezen elszámolási kötelezettséget csak a gyógyszerészeti államigazgatási szervet megillető díjrész tekintetében kell alkalmazni.
 
-(4) A XIV. Belügyminisztérium fejezetet irányító szerv vezetője az államháztartásért felelős miniszter egyetértésével a XIV. Belügyminisztérium fejezet, 3. cím, 1. Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím, valamint a 20. cím, 32. alcím, 1. Szociális célú nem állami humánszolgáltatások támogatása jogcímcsoport között – a közfeladatok változására tekintettel – a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 63. §-a, 65/A. §-a, 65/C. §-a, 65/E. §-a és 65/F. §-a szerinti szolgáltatások biztosítása érdekében átcsoportosíthat.
+(4) A XXVIII. Szociális és Családügyi Minisztérium fejezetet irányító szerv vezetője az államháztartásért felelős miniszter egyetértésével a XXVIII. Szociális és Családügyi Minisztérium fejezet, 2. cím, 1. Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím, valamint a 10. cím, 2. alcím, 1. Szociális célú nem állami humánszolgáltatások támogatása jogcímcsoport között – a közfeladatok változására tekintettel – a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (a továbbiakban: Szoctv.) 63. §-a, 65/A. §-a, 65/C. §-a, 65/E. §-a és 65/F. §-a szerinti szolgáltatások biztosítása érdekében átcsoportosíthat.
 
-(5) A gyermekek és az ifjúság védelméért felelős miniszter az államháztartásért felelős miniszter tájékoztatása mellett év közben, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 189. § (6) bekezdése alapján a XIV. Belügyminisztérium fejezet, 3. cím, 1. Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím kiadási előirányzatát – a pénzforgalmilag teljesült bevétel mértékével – emeli meg.
+(5) A gyermekek és az ifjúság védelméért felelős miniszter az államháztartásért felelős miniszter tájékoztatása mellett év közben, a szabálysértésekről, a szabálysértési eljárásról és a szabálysértési nyilvántartási rendszerről szóló 2012. évi II. törvény 189. § (6) bekezdése alapján a XXVIII. Szociális és Családügyi Minisztérium fejezet, 2. cím, 1. Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím kiadási előirányzatát – a pénzforgalmilag teljesült bevétel mértékével – emeli meg.
 
-30. § A szakképzésért felelős miniszter a XX. Kulturális és Innovációs Minisztérium fejezet, 20. cím, 14. Állami szakképző intézmények szakképzésről szóló törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása alcím terhére átcsoportosíthat a XX. Kulturális és Innovációs Minisztérium fejezet, 6. Szakképzési Centrumok cím javára.
+30. § A szakképzésért felelős miniszter a XXVI. Oktatási és Gyermekügyi Minisztérium fejezet, 20. cím, 5. Állami szakképző intézmények szakképzésről szóló törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása alcím terhére átcsoportosíthat a XXVI. Oktatási és Gyermekügyi Minisztérium fejezet, 7. Szakképzési Centrumok cím javára.
 
 #### 12. Az európai uniós források felhasználásával kapcsolatos szabályok
 
@@ -416,15 +410,15 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 34. § (1) Az EMGA által támogatott programok és intézkedések finanszírozásával összefüggő kockázatok kezelésére képzett céltartalék a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 38. Árfolyamkockázat és egyéb, EU által nem térített kiadások cím előirányzatán kizárólag jogszabályban meghatározott célokra használható fel.
 
-(2) A XII. Agrárminisztérium fejezet, 21. cím, 2. Uniós programok kiegészítő támogatása alcím előirányzata esetében a tárgyévet követő évre szóló központi költségvetési törvény kihirdetéséig a tárgyévi törvényi előirányzat 60%-áig vállalható éven túli fizetési kötelezettség.
+(2) A XII. Agrár- és Élelmiszergazdaságért Felelős Minisztérium fejezet, 21. cím, 2. Uniós programok kiegészítő támogatása alcím előirányzata esetében a tárgyévet követő évre szóló központi költségvetési törvény kihirdetéséig a tárgyévi törvényi előirányzat 60%-áig vállalható éven túli fizetési kötelezettség.
 
-(3) A XII. Agrárminisztérium fejezetet irányító szerv az általa irányított fejezetbe sorolt XII. Agrárminisztérium fejezet, 21. cím, 2. Uniós programok kiegészítő támogatása alcím és a XII. Agrárminisztérium fejezet, 1. Agrárminisztérium igazgatása cím előirányzat között a támogatás végrehajtásához kapcsolódó költségek erejéig, saját hatáskörben előirányzat-átcsoportosítást hajthat végre.
+(3) A XII. Agrár- és Élelmiszergazdaságért Felelős Minisztérium fejezetet irányító szerv az általa irányított fejezetbe sorolt XII. Agrár- és Élelmiszergazdaságért Felelős Minisztérium fejezet, 21. cím, 2. Uniós programok kiegészítő támogatása alcím és a XII. Agrár- és Élelmiszergazdaságért Felelős Minisztérium fejezet, 1. Agrár- és Élelmiszergazdaságért Felelős Minisztérium igazgatása cím előirányzat között a támogatás végrehajtásához kapcsolódó költségek erejéig, saját hatáskörben előirányzat-átcsoportosítást hajthat végre.
 
 35. § (1) A 2021–2027-es programozási időszak operatív programjai és a Belügyi Alapok programjai esetében az 5. mellékletben meghatározott forráskeret kötelezettségvállalással még nem terhelt összegének és az ahhoz kapcsolódó központi költségvetési forrás együttes összegének erejéig vállalható tárgyévi és éven túli fizetési kötelezettség.
 
 (2) A XIV. Belügyminisztérium fejezetet irányító szerv az általa irányított fejezetbe sorolt XIV. Belügyminisztérium fejezet, 21. Központi kezelésű előirányzatok cím, 6. Belügyi Alapok 2021–2027 alcím és a XIV. Belügyminisztérium fejezet, 1. Belügyminisztérium igazgatása cím előirányzat között a támogatás végrehajtásához kapcsolódó költségek erejéig, saját hatáskörben előirányzat-átcsoportosítást hajthat végre.
 
-(3) A támogatások maradéktalan felhasználása érdekében, az (1) bekezdésben meghatározott mértéken túl, a Kormány egyetértésével vállalható tárgyévi és éven túli fizetési kötelezettség.
+(3) A támogatások maradéktalan felhasználása érdekében, az (1) bekezdésben meghatározott mértéken túl, az államháztartásért felelős miniszter egyetértésével vállalható tárgyévi és éven túli fizetési kötelezettség.
 
 (4) Az Európai Területi Együttműködési programok magyarországi partnereire jutó uniós forráshoz kapcsolódó központi költségvetési forrás, valamint az ezen uniós források megelőlegezésére szolgáló visszatérítendő támogatás biztosítása céljából tárgyévi és éven túli kötelezettség vállalható.
 
@@ -436,7 +430,7 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 (3) Az (1) bekezdés szerinti állami térítési kötelezettség érvényesítéséből származó követelések behajtása során az MFB Zrt.-nél felmerülő költségeket a XIX. Uniós Fejlesztések fejezet, 2. cím, 7. alcím, 2. Fejezeti általános tartalék jogcímcsoport előirányzat terhére kell teljesíteni.
 
-(4) A (2) bekezdés szerinti állami térítési kötelezettség érvényesítéséből származó, az MFB Zrt. által behajtott követelés összege a XXIII. Nemzetgazdasági Minisztérium fejezet, 10. cím, 21. Egyes korábban kihelyezett támogatások elszámolása alcím előirányzatát illeti.
+(4) A (2) bekezdés szerinti állami térítési kötelezettség érvényesítéséből származó, az MFB Zrt. által behajtott követelés összege a XXIII. Pénzügyminisztérium fejezet, 10. cím, 21. Egyes korábban kihelyezett támogatások elszámolása alcím előirányzatát illeti.
 
 (5) A (3) bekezdés szerinti állami térítési kötelezettség érvényesítéséből származó követelések behajtása során az MFB Zrt.-nél felmerült költségek térülésének összege a XIX. Uniós Fejlesztések fejezet, 2. cím, 7. alcím, 2. Fejezeti általános tartalék jogcímcsoport előirányzatát illeti meg.
 
@@ -497,7 +491,7 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 (4c) Az önkormányzatnak nem kell megfizetnie az önkormányzati szolidaritási hozzájárulást, ha annak a 2. melléklet 62. pontja szerint számított összege nem haladja meg az 50,0 millió forintot.
 
-(5) Az önkormányzat a helyi iparűzési adóbevétel többlete alapján a 10. melléklet szerint meghatározott fizetési kötelezettségének beszámítása a települési önkormányzat számára folyósítandó támogatás összegéből a nettó finanszírozás keretében történik. Ennek összegét a XXV. Közigazgatási és Területfejlesztési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 8. Területfejlesztési Alap alcímen kell elszámolni.
+(5) Az önkormányzat a helyi iparűzési adóbevétel többlete alapján a 10. melléklet szerint meghatározott fizetési kötelezettségének beszámítása a települési önkormányzat számára folyósítandó támogatás összegéből a nettó finanszírozás keretében történik. Ennek összegét a XXV. Vidék- és Településfejlesztési Minisztérium fejezet, 10. Fejezeti kezelésű előirányzatok cím, 8. Területfejlesztési Alap alcímen kell elszámolni.
 
 (6) Ha a települési önkormányzatot az (1) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források az (5) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, a Kincstár az Áht. 83. § (3) bekezdése alapján havonta beszedési megbízást nyújt be a települési önkormányzattal szemben. Ha a települési önkormányzatnak 2026. december 16-án bármilyen elmaradása van az (5) bekezdés szerinti befizetési kötelezettsége tekintetében, a Kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára beszedési megbízást nyújt be.
 
@@ -557,7 +551,7 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 (4) Az egyházi jogi személy a (2) bekezdés szerinti kiegészítő támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét a humánszolgáltatást ellátó intézményei, illetve azok humánszolgáltatásai támogatására fordítani.
 
-(5) Az (1) bekezdés szerinti támogatás és a (2) bekezdés szerinti kiegészítő támogatás elszámolása a XIV. Belügyminisztérium fejezet terhére, illetve javára történik.
+(5) Az (1) bekezdés szerinti támogatás és a (2) bekezdés szerinti kiegészítő támogatás elszámolása a XXVIII. Szociális és Családügyi Minisztérium fejezet terhére, illetve javára történik.
 
 (6) A Gyvt. 44. §-a szerinti munkahelyi bölcsőde fenntartóját – az (1) és (2) bekezdéstől eltérően – a 2. melléklet 1.3.2.12. Családi bölcsőde jogcímmel azonos mértékű támogatás illeti meg.
 
@@ -565,7 +559,7 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 47. § (1) Az Országgyűlés az országos, valamint a települési és területi nemzetiségi önkormányzatok részére nyújtandó támogatásokat és keretösszegeket a 9. melléklet szerint állapítja meg.
 
-(2) A XI. Miniszterelnökség fejezet, 30. cím, 1. alcím, 31. jogcímcsoport, 1. Nemzetiségi támogatások jogcím szerinti pályázati támogatások tekintetében a nemzetiségpolitikáért felelős miniszter a Nemzetiségi Támogatási Bizottság támogatási összeg felosztására tett javaslata alapján dönt.
+(2) A XXII. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium fejezet, 20. cím, 3. alcím, 1. Nemzetiségi támogatások jogcímcsoport szerinti pályázati támogatások tekintetében a nemzetiségpolitikáért felelős miniszter a Nemzetiségi Támogatási Bizottság támogatási összeg felosztására tett javaslata alapján dönt.
 
 (3) A (2) bekezdés szerinti bizottság legfeljebb kilenc főből áll, amelybe
 
@@ -575,7 +569,7 @@ de legfeljebb a 2003/87/EK európai parlamenti és tanácsi irányelv 3d. cikk (
 
 delegál.
 
-(4) A XIV. Belügyminisztérium fejezet, 20. cím, 5. Társadalmi felzárkózást segítő programok alcím szerinti pályázati támogatások tekintetében a nemzetiségpolitikáért a roma nemzetiség vonatkozásában felelős miniszter a Roma Nemzetiségi Támogatási Bizottság támogatási összeg felosztására tett javaslata alapján dönt.
+(4) A XXII. Társadalmi Kapcsolatokért és Kultúráért Felelős Minisztérium fejezet, 20. cím, 6. Társadalmi felzárkóztatást segítő programok alcím szerinti pályázati támogatások tekintetében a nemzetiségpolitikáért felelős miniszter a Roma Nemzetiségi Támogatási Bizottság támogatási összeg felosztására tett javaslata alapján dönt.
 
 (5) A (4) bekezdés szerinti bizottság legfeljebb tizenegy főből áll, amelybe
 
@@ -855,7 +849,7 @@ esetén.
 - c) a 46. § (7) bekezdésében meghatározott támogatás igénylési feltételeit, az igény bejelentésének, megállapításának, a többlettámogatás folyósításának, elszámolásának és a felhasználás ellenőrzésének részletes szabályait,
 - d) a 2026/2027. tanévre leadott iskolai tankönyvrendeléseknél a 65. §-ban rögzített támogatási összegeknél magasabb támogatási összegeket.
 
-(2) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy rendeletben állapítsa meg a XIV. Belügyminisztérium fejezet, 21. cím, 7. Gyógyszertári tulajdoni hányad állami elővásárlása és értékesítése alcím kiadásának felhasználásával kapcsolatos szabályokat.
+(2) Felhatalmazást kap az egészségbiztosításért felelős miniszter, hogy rendeletben állapítsa meg a XXVII. Egészségügyi Minisztérium fejezet, 11. cím, 1. Gyógyszertári tulajdoni hányad állami elővásárlása és értékesítése alcím kiadásának felhasználásával kapcsolatos szabályokat.
 
 (3) Felhatalmazást kap a helyi önkormányzat képviselő-testülete, hogy rendeletében
 
@@ -877,6 +871,8 @@ határozzon meg.
 (2) Az 1–20. §, a 21. § (1) és (3)–(5) bekezdés, a 22–38. §, a 40–42. §, a 43. § (1)–(3), (5) és (6) bekezdés és a 44–76. §, a 78. § (1)–(3), (5) és (6) bekezdés, az 1. melléklet és a 4–10. melléklet 2026. január 1-jén lép hatályba.
 
 ### 1. melléklet a 2025. évi LXIX. törvényhez
+
+6X05213.pdf
 
 ### 2. melléklet a 2025. évi LXIX. törvényhez
 
@@ -1101,7 +1097,7 @@ ahol:KT = korrekciós tényező,L = az önkormányzat 1.3. pont szerinti lakoss�
 - 3.3. A támogatás fajlagos összege:
   - a) Budapest Főváros Önkormányzata és a 30 000 fő lakosságszám feletti, nem városi jogállású támogatásra jogosult önkormányzatok esetén 6 994 000 forint/fő,
   - b) a legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok esetén 9 280 000 forint/fő.
-- 3.4. A legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét kizárólag az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják.
+- 3.4. A legfeljebb 30 000 fő lakosságszámú, továbbá a városi jogállású 30 000 fő feletti lakosságszámú támogatásra jogosult önkormányzatok a tárgyévben e jogcímen kapott támogatásnak a tárgyévet megelőző évi, önkormányzati hivatal működésének támogatása jogcímen kapott támogatáshoz képesti növekményét az önkormányzati hivatalban foglalkoztatott köztisztviselők illetményének emelésére fordíthatják. Amennyiben a köztisztviselők tekintetében legalább 15%-os mértékű tárgyévi illetményemelés megvalósul, úgy a növekmény fennmaradó összege a 2.2.1. pont szerinti feltételek szerint használható fel.
 - 3.5. Az elismert hivatali létszám a számított alaplétszám korrekciós tényezőkkel korrigált összege. Önálló polgármesteri hivatal esetében az elismert hivatali létszám megegyezik a számított alaplétszámmal. Budapest Főváros Önkormányzata esetében az elismert hivatali létszám 470 fő.
 - 3.6. A számított alaplétszám számításakor a település típusára, a lakosságszám-kategóriákra és az elismert köztisztviselői létszámra vonatkozó adatokat az alábbi paramétertábla szerint kell figyelembe venni:
 
@@ -1824,7 +1820,7 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 | --- | --- | --- | --- |
 | 1 | 2. | A helyi önkormányzatok működési célú kiegészítő támogatásai |  |
 | 2 | 2.1. | A helyi önkormányzatok általános feladatainak működési célú kiegészítő támogatása |  |
-| 3 | 2.1.1. | Polgármesteri illetményhez és költségtérítéshez nyújtott támogatás | 34 460,5 |
+| 3 | 2.1.1. | Polgármesteri illetményhez és költségtérítéshez nyújtott támogatás | 29 960,5 |
 | 4 | 2.1.2. | A kötelezően ellátandó helyi közösségi közlekedési feladat támogatása | 12 000,0 |
 | 5 | 2.1.3. | A nem közművel összegyűjtött háztartási szennyvíz ideiglenes begyűjtésére kijelölt közérdekű közszolgáltató meg nem térülő költségeinek támogatása | 280,0 |
 | 6 | 2.1.4. | Önkormányzatok rendkívüli támogatása | 5 500,0 |
@@ -1833,7 +1829,7 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 | 9 | 2.2. | A települési önkormányzatok köznevelési feladatainak működési célú kiegészítő támogatása |  |
 | 10 | 2.2.1. | Esélyteremtési illetményrész támogatása | 15 200,0 |
 | 11 | 2.3. | A települési önkormányzatok egyes szociális és gyermekjóléti feladatainak működési célú kiegészítő támogatása |  |
-| 12 | 2.3.1. | A települési önkormányzatok szociális célú tüzelőanyag vásárlásához kapcsolódó támogatása | 5 000,0 |
+| 12 | 2.3.1. | A települési önkormányzatok szociális célú tüzelőanyag vásárlásához kapcsolódó támogatása | 9 500,0 |
 | 13 | 2.3.2. | Szociális ágazati összevont pótlék és egészségügyi kiegészítő pótlék | 32 227,5 |
 | 14 | 2.4. | A települési önkormányzatok kulturális feladatainak működési célú kiegészítő támogatása |  |
 | 15 | 2.4.1. | Vármegyei hatókörű városi múzeumok feladatainak támogatása | 3 778,3 |
@@ -1849,11 +1845,11 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 | 25 | 3.2. | Kompok, révek fenntartásának, felújításának támogatása | 390,0 |
 | 26 | 3.3. | Ózdi martinsalak felhasználása miatt kárt szenvedett lakóépületek tulajdonosainak kártalanítása | 300,0 |
 | 27 | 3.4. | A mohácsi csata 500 éves évfordulójáról történő méltó megemlékezés támogatása | 400,0 |
-| 28 | 3.5. | Karcag Város Önkormányzata Kossuth téri ingatlanfejlesztésének támogatása | 4 491,9 |
+| 28 |  |  |  |
 | 29 | 3.6. | Szenna Község Önkormányzata sportcsarnok felújításának támogatása | 79,0 |
 | 30 | 3.7. | Nagykörű Községi Önkormányzat orvosi rendelő tetőzete felújításának támogatása | 15,3 |
-| 31 | 3.8. | Vezseny Község Önkormányzata komp és kiszolgáló utak felújításának támogatása | 13,5 |
-| 32 | 3.9. | Budapest Főváros XVI. kerületi Önkormányzat Kertvárosi Olimpikonok parkjához kapcsolódó közterület-fejlesztések megvalósításának támogatása | 100,0 |
+| 31 |  |  |  |
+| 32 |  |  |  |
 
 #### II. Támogatások megállapításának, felhasználásának és elszámolásának szabályai
 
@@ -2027,10 +2023,7 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 - 21. 3.4. A mohácsi csata 500 éves évfordulójáról történő méltó megemlékezés támogatása jogcím
 - 21.1. A jogcím szolgál Mohács Város Önkormányzata által tervezett, a mohácsi csata 500. évfordulójával összefüggő kulturális és művészeti programok megvalósításához, valamint az Önkormányzat évfordulóhoz kapcsolódó feladatainak ellátásához biztosítandó támogatás fedezetéül.
 - 21.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Mohács Város Önkormányzata számára. A támogatás felhasználási határideje a tárgyévet követő év december 31-e.
-- 22. 3.5. Karcag Város Önkormányzata Kossuth téri ingatlanfejlesztésének támogatása jogcím
-- 22.1. A jogcím a címrendi kiegészítésről, a Központi Maradványelszámolási Alapból, valamint a Rezsivédelmi Alapból történő, fejezeten belüli és fejezetek közötti előirányzat-átcsoportosításról, előirányzat-túllépés engedélyezéséről, valamint kormányhatározat módosításáról szóló 1374/2024. (XII. 6.) Korm. határozat (a továbbiakban: 1374/2024. (XII. 6.) Korm. határozat) alapján biztosított támogatással együtt szolgálja Karcag Város Önkormányzata ingatlanfejlesztésének támogatását.
-- 22.2. A támogatás folyósítására csak abban az esetben kerülhet sor, ha Karcag Város Önkormányzata az 1374/2024. (XII. 6.) Korm. határozat alapján a helyi önkormányzatokért felelős miniszter által Karcag Város Önkormányzatának kiadott támogatói okirat szerint biztosított támogatásrészt felhasználja, és azzal legkésőbb tárgyév november 15-éig elszámol. A határidő be nem tartása esetén a támogatás biztosítására a tárgyévet követő évben kerül sor.
-- 22.3. A támogatás felhasználási határideje a tárgyévet követő harmadik év december 31-e.
+- 22.
 - 23. 3.6. Szenna Község Önkormányzata sportcsarnok felújításának támogatása jogcím
 - 23.1. A jogcím szolgál a Szenna Község Önkormányzata sportcsarnok felújításának támogatására.
 - 23.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Szenna Község Önkormányzata számára oly módon, hogy
@@ -2040,15 +2033,8 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 - 24. 3.7. Nagykörű Községi Önkormányzat orvosi rendelő tetőzete felújításának támogatása jogcím
 - 24.1. A jogcím szolgál Nagykörű Községi Önkormányzat orvosi rendelő tetőzete felújításának támogatására.
 - 24.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Nagykörű Községi Önkormányzat számára. A támogatás felhasználási határideje tárgyévet követő év december 31-e.
-- 25. 3.8. Vezseny Község Önkormányzata komp és kiszolgáló utak felújításának támogatása jogcím
-- 25.1. A jogcím szolgál Vezseny Község Önkormányzata komp és kiszolgáló utak felújításának támogatására.
-- 25.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Vezseny Község Önkormányzata számára. A támogatás felhasználási határideje tárgyévet követő év december 31-e.
-- 26. 3.9. Budapest Főváros XVI. kerületi Önkormányzat Kertvárosi Olimpikonok parkjához kapcsolódó közterület-fejlesztések megvalósításának támogatása jogcím
-- 26.1. A jogcím szolgál Budapest Főváros XVI. kerületi Önkormányzat Kertvárosi Olimpikonok parkjához kapcsolódó közterület-fejlesztések megvalósításának támogatására.
-- 26.2. A támogatás felhasználásának részletes szabályairól a helyi önkormányzatokért felelős miniszter támogatói okiratot ad ki Budapest Főváros XVI. kerületi Önkormányzat számára oly módon, hogy
-  - a) a támogatás 50%-ának megfelelő előleg folyósítása a támogatói okirat kiadását követő 30 napon belül történik és
-  - b) a további részletek tárgyévi – támogatói okirat szerinti – folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat az előleget felhasználja és azzal legkésőbb tárgyév november 15-éig elszámol.
-- 26.3. A támogatás felhasználási határideje – ideértve a tárgyév november 15-éig el nem számolt előleget is – tárgyévet követő év december 31-e.
+- 25.
+- 26.
 - 27. Az e melléklet szerinti támogatások igénylési és döntési eljárására nem kell alkalmazni az Ákr. szabályait.
 - 28. Ahol e melléklet a támogatás felhasználási határidejét nem rögzíti, ott az Áht. szerinti szabályozás alkalmazandó.
 - 29. Ahol e melléklet nem rögzíti, hogy a támogató a kedvezményezettel a támogatás felhasználásának részletes szabályairól támogatási szerződést köt, azon jogcímek esetében a támogató támogatói okiratot bocsát ki.
@@ -2062,41 +2048,41 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 | 1 | 1. | A teljesülés külön szabályozás nélkül is eltérhet az előirányzattól: |  |  |
 | 2 |  |  | X. IGAZSÁGÜGYI MINISZTÉRIUM fejezetben |  |
 | 3 |  |  |  | Igazságügyi miniszter feladatkörébe tartozó jogszabályok alapján teljesítendő fizetési kötelezettségek (20. cím, 2. alcím) |
-| 4 |  |  | XI. MINISZTERELNÖKSÉG fejezetben |  |
-| 5 |  |  |  | Átadásra nem került ingatlanok utáni járadék (30. cím, 1. alcím, 30. jogcímcsoport, 3. jogcím) |
-| 6 |  |  | XII. AGRÁRMINISZTÉRIUM fejezetben |  |
-| 7 |  |  |  | Állat-, növény- és GMO-kártalanítás (20. cím, 6. alcím) |
-| 8 |  |  | XIII. HONVÉDELMI MINISZTÉRIUM fejezetben |  |
-| 9 |  |  |  | Hozzájárulás a hadigondozásról szóló törvény végrehajtásához (8. cím, 2. alcím, 7. jogcímcsoport) |
-| 10 |  |  | XIV. BELÜGYMINISZTÉRIUM fejezetben |  |
-| 11 |  |  |  | Gyermekvédelmi Lakás Alap (20. cím, 32. alcím, 5. jogcímcsoport) |
-| 12 |  |  | XVII. ENERGIAÜGYI MINISZTÉRIUM fejezetben |  |
-| 13 |  |  |  | Uránbányászok és szénbányászok járadékainak és egyéb kártérítési kötelezettségeinek átvállalása (21. cím, 5. alcím) |
-| 14 |  |  | XX. KULTURÁLIS ÉS INNOVÁCIÓS MINISZTÉRIUM fejezetben |  |
-| 15 |  |  |  | Fiatalok első sikeres nyelvvizsgájának támogatása (20. cím, 9. alcím, 6. jogcímcsoport) |
-| 16 |  |  |  | Fiatalok vezetői engedélyének megszerzésével összefüggő hozzájárulás (20. cím, 9. alcím, 7. jogcímcsoport) |
-| 17 |  |  |  | GYES-en és GYED-en lévők hallgatói hitelének célzott támogatása (20. cím, 9. alcím, 10. jogcímcsoport) |
-| 18 |  |  | XLI. ADÓSSÁGSZOLGÁLATTAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK fejezetben |  |
-| 19 |  |  |  | Devizában fennálló adósság és követelések kamatelszámolásai (1. cím) |
-| 20 |  |  |  | A forintban fennálló adósság és követelések kamatelszámolásai (2. cím) |
-| 21 |  |  |  | Jutalékok és egyéb költségek (3. cím, 1. alcím) |
-| 22 |  |  | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI fejezetben |  |
-| 23 |  |  |  | Babaváró támogatások (24. cím) |
-| 24 |  |  |  | Diákhitel konstrukciók támogatása (25. cím) |
-| 25 |  |  |  | Munkáshitel (26. cím) |
-| 26 |  |  |  | Lakástámogatások (29. cím) |
-| 27 |  |  |  | Szociálpolitikai menetdíj támogatás (31. cím) |
-| 28 |  |  |  | Kárrendezési célelőirányzat és egyéb kártalanítási feladatok (32. cím, 1. alcím, 1. jogcímcsoport) |
-| 29 |  |  |  | Felszámolásokkal és szanálással kapcsolatos kiadások (32. cím, 1. alcím, 4. jogcímcsoport) |
-| 30 |  |  |  | Magán- és egyéb jogi személyek kártérítése (32. cím, 1. alcím, 6. jogcímcsoport) |
-| 31 |  |  |  | Egyéb vegyes kiadások (32. cím, 1. alcím, 11. jogcímcsoport) |
-| 32 |  |  |  | 1% SZJA közcélú felhasználása (32. cím, 1. alcím, 12. jogcímcsoport) |
-| 33 |  |  |  | Mehib és Eximbank behajtási jutaléka (32. cím, 1. alcím, 19. jogcímcsoport) |
-| 34 |  |  |  | Gazdálkodó szervezetek által befizetett termékdíj-visszaigénylés (32. cím, 1. alcím, 22. jogcímcsoport) |
-| 35 |  |  |  | Állam által vállalt kezesség és viszontgarancia érvényesítése (33. cím) |
-| 36 |  |  |  | Pénzbeli kárpótlás (34. cím) |
-| 37 |  |  |  | Tizenharmadik havi nyugdíj visszaépítésének támogatása (35. cím, 1. alcím, 6. jogcímcsoport) |
-| 38 |  |  |  | Nyugdíjprémium céltartalék támogatása (35. cím, 1. alcím, 7. jogcímcsoport) |
+| 4 |  |  | XII. AGRÁR- ÉS ÉLELMISZERGAZDASÁGÉRT FELELŐS MINISZTÉRIUM fejezetben |  |
+| 5 |  |  |  | Állat-, növény- és GMO-kártalanítás (20. cím, 6. alcím) |
+| 6 |  |  | XIII. HONVÉDELMI MINISZTÉRIUM fejezetben |  |
+| 7 |  |  |  | Hozzájárulás a hadigondozásról szóló törvény végrehajtásához (8. cím, 2. alcím, 7. jogcímcsoport) |
+| 8 |  |  | XVII. GAZDASÁGI ÉS ENERGETIKAI MINISZTÉRIUM fejezetben |  |
+| 9 |  |  |  | Uránbányászok és szénbányászok járadékainak és egyéb kártérítési kötelezettségeinek átvállalása (21. cím, 5. alcím) |
+| 10 |  |  | XXII. TÁRSADALMI KAPCSOLATOKÉRT ÉS KULTÚRÁÉRT FELELŐS MINISZTÉRIUM fejezetben |  |
+| 11 |  |  |  | Átadásra nem került ingatlanok utáni járadék (20. cím, 2. alcím, 3. jogcímcsoport) |
+| 12 |  |  | XXVI. OKTATÁSI ÉS GYERMEKÜGYI MINISZTÉRIUM fejezetben |  |
+| 13 |  |  |  | Fiatalok első sikeres nyelvvizsgájának támogatása (20. cím, 2. alcím, 4. jogcímcsoport) |
+| 14 |  |  |  | Fiatalok vezetői engedélyének megszerzésével összefüggő hozzájárulás (20. cím, 2. alcím, 5. jogcímcsoport) |
+| 15 |  |  | XXVIII. SZOCIÁLIS ÉS CSALÁDÜGYI MINISZTÉRIUM fejezetben |  |
+| 16 |  |  |  | Gyermekvédelmi Lakás Alap (10. cím, 2. alcím, 5. jogcímcsoport) |
+| 17 |  |  |  | GYES-en és GYED-en lévők hallgatói hitelének célzott támogatása (10. cím, 4. alcím, 4. jogcímcsoport) |
+| 18 |  |  |  | Bűncselekmények áldozatainak kárenyhítése (10. cím, 6. alcím) |
+| 19 |  |  | XLI. ADÓSSÁGSZOLGÁLATTAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK fejezetben |  |
+| 20 |  |  |  | Devizában fennálló adósság és követelések kamatelszámolásai (1. cím) |
+| 21 |  |  |  | A forintban fennálló adósság és követelések kamatelszámolásai (2. cím) |
+| 22 |  |  |  | Jutalékok és egyéb költségek (3. cím, 1. alcím) |
+| 23 |  |  | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI fejezetben |  |
+| 24 |  |  |  | Babaváró támogatások (24. cím) |
+| 25 |  |  |  | Diákhitel konstrukciók támogatása (25. cím) |
+| 26 |  |  |  | Munkáshitel (26. cím) |
+| 27 |  |  |  | Lakástámogatások (29. cím) |
+| 28 |  |  |  | Szociálpolitikai menetdíj támogatás (31. cím) |
+| 29 |  |  |  | Kárrendezési célelőirányzat és egyéb kártalanítási feladatok (32. cím, 1. alcím, 1. jogcímcsoport) |
+| 30 |  |  |  | Felszámolásokkal és szanálással kapcsolatos kiadások (32. cím, 1. alcím, 4. jogcímcsoport) |
+| 31 |  |  |  | Magán- és egyéb jogi személyek kártérítése (32. cím, 1. alcím, 6. jogcímcsoport) |
+| 32 |  |  |  | Egyéb vegyes kiadások (32. cím, 1. alcím, 11. jogcímcsoport) |
+| 33 |  |  |  | 1% SZJA közcélú felhasználása (32. cím, 1. alcím, 12. jogcímcsoport) |
+| 34 |  |  |  | Mehib és Eximbank behajtási jutaléka (32. cím, 1. alcím, 19. jogcímcsoport) |
+| 35 |  |  |  | Gazdálkodó szervezetek által befizetett termékdíj-visszaigénylés (32. cím, 1. alcím, 22. jogcímcsoport) |
+| 36 |  |  |  | Állam által vállalt kezesség és viszontgarancia érvényesítése (33. cím) |
+| 37 |  |  |  | Pénzbeli kárpótlás (34. cím) |
+| 38 |  |  |  | Tizenharmadik havi nyugdíj visszaépítésének támogatása (35. cím, 1. alcím, 6. jogcímcsoport) |
 | 39 |  |  |  | Nemzetközi pénzügyi intézmények felé vállalt kötelezettségek kiadásai (36. cím) |
 | 40 |  |  |  | Hozzájárulás az EU költségvetéséhez (37. cím) |
 | 41 |  |  |  | Árfolyamkockázat és egyéb, EU által nem térített kiadások (38. cím) |
@@ -2123,91 +2109,93 @@ kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 | 62 |  |  | LXXI. NYUGDÍJBIZTOSÍTÁSI ALAP fejezetben |  |
 | 63 |  |  |  | Öregségi nyugdíj (2. cím, 1. alcím, 1. jogcímcsoport) |
 | 64 |  |  |  | Hozzátartozói nyugellátás (2. cím, 1. alcím, 3. jogcímcsoport) |
-| 65 |  |  |  | Nyugdíjprémium céltartalék (2. cím, 1. alcím, 5. jogcímcsoport) |
-| 66 |  |  |  | Tizenharmadik havi nyugdíj (2. cím, 1. alcím, 6. jogcímcsoport) |
-| 67 |  |  |  | Nyugdíjbiztosítás egyéb kiadásai (2. cím, 4. alcím) |
-| 68 |  |  |  | Vagyongazdálkodás (3. cím) |
-| 69 |  |  | LXXII. EGÉSZSÉGBIZTOSÍTÁSI ALAP fejezetben |  |
-| 70 |  |  |  | Csecsemőgondozási díj (2. cím, 1. alcím) |
-| 71 |  |  |  | Táppénz (2. cím, 2. alcím) |
-| 72 |  |  |  | Kártérítési és baleseti járadék (2. cím, 4. alcím) |
-| 73 |  |  |  | Gyermekgondozási díj és örökbefogadói díj (2. cím, 5. alcím) |
-| 74 |  |  |  | Rokkantsági, rehabilitációs ellátások (2. cím, 6. alcím) |
-| 75 |  |  |  | Gyógyfürdő és egyéb gyógyászati ellátás támogatása (2. cím, 8. alcím) |
-| 76 |  |  |  | Anyatej-ellátás (2. cím, 9. alcím) |
-| 77 |  |  |  | Utazási költségtérítés (2. cím, 13. alcím) |
-| 78 |  |  |  | Sürgősségi ellátás (2. cím, 14. alcím, 1. jogcímcsoport) |
-| 79 |  |  |  | Külföldön történt speciális egészségügyi ellátások, igénybevett egészségügyi szolgáltatások (2. cím, 14. alcím, 3. jogcímcsoport) |
-| 80 |  |  |  | Kifizetőhelyeket megillető költségtérítés (2. cím, 16. alcím, 1. jogcímcsoport) |
-| 81 |  |  |  | Postaköltség (2. cím, 16. alcím, 2. jogcímcsoport) |
-| 82 |  |  |  | Egyéb kiadások (2. cím, 16. alcím, 3. jogcímcsoport) |
-| 83 |  |  |  | Vagyongazdálkodás (3. cím) |
-| 84 | 2. | Az előirányzat a Kormány jóváhagyásával túlléphető: |  |  |
-| 85 |  |  | VI. BÍRÓSÁGOK fejezetben |  |
-| 86 |  |  |  | A polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel és ügyvédi és kamarai jogtanácsosi költségből és pervesztésből eredő kiadások célelőirányzata (4. cím, 4. alcím) |
-| 87 |  |  | VIII. ÜGYÉSZSÉG fejezetben |  |
-| 88 |  |  |  | Jogerősen megállapított kártérítések célelőirányzata (3. cím, 4. alcím) |
-| 89 |  |  | XII. AGRÁRMINISZTÉRIUM fejezetben |  |
-| 90 |  |  |  | Peres ügyek (20. cím, 8. alcím) |
-| 91 |  |  | XIII. HONVÉDELMI MINISZTÉRIUM fejezetben |  |
-| 92 |  |  |  | NATO és EU felajánlás alapján kialakításra kerülő készenléti alegységek alkalmazásának kiadásai (8. cím, 2. alcím, 1. jogcímcsoport) |
-| 93 |  |  | XIV. BELÜGYMINISZTÉRIUM fejezetben |  |
-| 94 |  |  |  | Tömeges bevándorlás kezeléséhez kapcsolódó kiadások (20. cím, 21. alcím) |
-| 95 |  |  |  | A terrorellenes intézkedések megvalósításához kapcsolódó kiadások (20. cím, 22. alcím) |
-| 96 |  |  |  | Köznevelési célú humánszolgáltatás és működési támogatás (20. cím, 31. alcím, 1. jogcímcsoport) |
-| 97 |  |  |  | Hit- és erkölcstanoktatás, hittanoktatás és tankönyvtámogatás (20. cím, 31. alcím, 2. jogcímcsoport) |
-| 98 |  |  |  | Szociális célú nem állami humánszolgáltatások támogatása (20. cím, 32. alcím, 1. jogcímcsoport) |
-| 99 |  |  |  | Peres ügyek (20. cím, 35. alcím) |
-| 100 |  |  | XVI. ÉPÍTÉSI ÉS KÖZLEKEDÉSI MINISZTÉRIUM fejezetben |  |
-| 101 |  |  |  | Nemzetközi szerződésen alapuló vasúti fejlesztések (10. cím, 1. alcím, 2. jogcímcsoport, 2. jogcím) |
-| 102 |  |  |  | Gyorsforgalmi úthálózat rendelkezésre állási díj (11. cím, 3. alcím, 1. jogcímcsoport) |
-| 103 |  |  |  | M5, M6 autópálya rendelkezésre állási díjak (11. cím, 3. alcím, 2. jogcímcsoport) |
-| 104 |  |  |  | Autóbusszal végzett személyszállítási közszolgáltatások költségtérítése (11. cím, 4. alcím, 3. jogcímcsoport) |
-| 105 |  |  |  | Autóbusszal végzett személyszállítási közszolgáltatások ellentételezése (11. cím, 4. alcím, 5. jogcímcsoport) |
-| 106 |  |  |  | Közlekedési közszolgáltatások energiaköltségének támogatása (11. cím, 4. alcím, 6. jogcímcsoport) |
-| 107 |  |  | XVII. ENERGIAÜGYI MINISZTÉRIUM fejezetben |  |
-| 108 |  |  |  | Víz-, környezeti és természeti katasztrófa kárelhárítás (20. cím, 37. alcím) |
-| 109 |  |  |  | Lakossági Rezsivédelmi Alap (21. cím, 23. alcím) |
-| 110 |  |  | XVIII. KÜLGAZDASÁGI ÉS KÜLÜGYMINISZTÉRIUM fejezetben |  |
-| 111 |  |  |  | Kötött segélyhitelezés (7. cím, 1. alcím, 2. jogcímcsoport) |
-| 112 |  |  |  | Peres ügyek (7. cím, 5. alcím) |
-| 113 |  |  | XX. KULTURÁLIS ÉS INNOVÁCIÓS MINISZTÉRIUM fejezetben |  |
-| 114 |  |  |  | Állami szakképző intézmények szakképzésről szóló törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása (20. cím, 14. alcím) |
-| 115 |  |  | XXV. KÖZIGAZGATÁSI ÉS TERÜLETFEJLESZTÉSI MINISZTÉRIUM fejezetben |  |
-| 116 |  |  |  | Kormányhivatalok peres ügyei (10. cím, 5. alcím) |
-| 117 |  |  | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI fejezetben |  |
-| 118 |  |  |  | Védelmi tartalék (44. cím) |
-| 119 |  |  |  | Közfeladatot ellátó intézmények rezsikompenzációja (46. cím, 2. alcím) |
-| 120 |  |  |  | Eximbank Zrt. kamatkiegyenlítése (48. cím) |
-| 121 |  |  | XLIII. AZ ÁLLAMI VAGYONNAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK fejezetben |  |
-| 122 |  |  |  | Központi költségvetési szervek elhelyezésével kapcsolatos bérleti díjak (1. cím, 2. alcím, 1. jogcímcsoport, 8. jogcím) |
-| 123 |  |  | LXIII. NEMZETI FOGLALKOZTATÁSI ALAP fejezetben |  |
-| 124 |  |  |  | Start-munkaprogram (6. cím) |
-| 125 | 3. | Az európai uniós tagsághoz kapcsolódó támogatások felhasználása érdekében, illetve ha az átcsoportosítási szabályokban foglalt lehetőségek kimerültek, az együttes eredeti kiadási előirányzat 30%-ig az államháztartásért felelős miniszter engedélye, e fölött a Kormány döntése alapján túlléphető: |  |  |
-| 126 |  |  | XII. AGRÁRMINISZTÉRIUM fejezetben |  |
-| 127 |  |  |  | Uniós programok kiegészítő támogatása (21. cím, 2. alcím) |
-| 128 |  |  | XIV. BELÜGYMINISZTÉRIUM fejezetben |  |
-| 129 |  |  |  | Európai Uniós és nemzetközi projektek/programok megvalósításához kapcsolódó kiadások (21. cím, 4. alcím) |
-| 130 |  |  |  | Belügyi Alapok 2021-2027 (21. cím, 6. alcím) |
-| 131 |  |  | XIX. UNIÓS FEJLESZTÉSEK fejezetben |  |
-| 132 |  |  |  | Európai Területi Együttműködés (2021-2027) (3. cím, 3. alcím) |
-| 133 |  |  |  | Svájci-Magyar Együttműködési Program II. (3. cím, 5. alcím) |
-| 134 |  |  |  | Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021-2027 (3. cím, 7. alcím) |
-| 135 |  |  |  | Vidékfejlesztési Program (3. cím, 8. alcím, 1. jogcímcsoport) |
-| 136 |  |  |  | Magyar Halgazdálkodási Operatív Program Plusz (3. cím, 8. alcím, 3. jogcímcsoport) |
-| 137 |  |  |  | KAP Stratégiai Terv Vidékfejlesztési Intézkedései (3. cím, 8. alcím, 4. jogcímcsoport) |
-| 138 |  |  |  | Gazdaságfejlesztési és Innovációs OP Plusz (GINOP Plusz) (3. cím, 9. alcím, 1. jogcímcsoport) |
-| 139 |  |  |  | Integrált Közlekedésfejlesztés OP Plusz (IKOP Plusz) (3. cím, 9. alcím, 2. jogcímcsoport) |
-| 140 |  |  |  | Emberi Erőforrás Fejlesztési OP Plusz (EFOP Plusz) (3. cím, 9. alcím, 3. jogcímcsoport) |
-| 141 |  |  |  | Terület- és Településfejlesztési OP Plusz (TOP Plusz) (3. cím, 9. alcím, 4. jogcímcsoport) |
-| 142 |  |  |  | Környezeti és Energiahatékonysági OP Plusz (KEHOP Plusz) (3. cím, 9. alcím, 5. jogcímcsoport) |
-| 143 |  |  |  | Digitális Megújulás OP Plusz (DIMOP Plusz) (3. cím, 9. alcím, 6. jogcímcsoport) |
-| 144 |  |  |  | Végrehajtás OP Plusz (VOP Plusz) (3. cím, 9. alcím, 8. jogcímcsoport) |
-| 145 |  |  |  | Helyreállítási és Ellenállóképességi Eszköz (RRF) (3. cím, 10. alcím) |
-| 146 |  |  |  | Transznacionális és Interregionális Együttműködés (2021-2027) (3. cím, 12. alcím) |
-| 147 | 4. | A nyugdíjszerű ellátásban részesülő személyek évközi ellátás-emelése végrehajtásával összefüggésben tételes elszámolás alapján a nyugdíjpolitikáért felelős miniszter engedélyével túlléphető: |  |  |
-| 148 |  |  | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI fejezetben |  |
-| 149 |  |  |  | Egyéb térítések (47. cím, 4. alcím, 2. jogcímcsoport) |
+| 65 |  |  |  | Tizenharmadik havi nyugdíj (2. cím, 1. alcím, 6. jogcímcsoport) |
+| 66 |  |  |  | Nyugdíjbiztosítás egyéb kiadásai (2. cím, 4. alcím) |
+| 67 |  |  |  | Vagyongazdálkodás (3. cím) |
+| 68 |  |  | LXXII. EGÉSZSÉGBIZTOSÍTÁSI ALAP fejezetben |  |
+| 69 |  |  |  | Csecsemőgondozási díj (2. cím, 1. alcím) |
+| 70 |  |  |  | Táppénz (2. cím, 2. alcím) |
+| 71 |  |  |  | Kártérítési és baleseti járadék (2. cím, 4. alcím) |
+| 72 |  |  |  | Gyermekgondozási díj és örökbefogadói díj (2. cím, 5. alcím) |
+| 73 |  |  |  | Rokkantsági, rehabilitációs ellátások (2. cím, 6. alcím) |
+| 74 |  |  |  | Gyógyfürdő és egyéb gyógyászati ellátás támogatása (2. cím, 8. alcím) |
+| 75 |  |  |  | Anyatej-ellátás (2. cím, 9. alcím) |
+| 76 |  |  |  | Utazási költségtérítés (2. cím, 13. alcím) |
+| 77 |  |  |  | Sürgősségi ellátás (2. cím, 14. alcím, 1. jogcímcsoport) |
+| 78 |  |  |  | Külföldön történt speciális egészségügyi ellátások, igénybevett egészségügyi szolgáltatások (2. cím, 14. alcím, 3. jogcímcsoport) |
+| 79 |  |  |  | Kifizetőhelyeket megillető költségtérítés (2. cím, 16. alcím, 1. jogcímcsoport) |
+| 80 |  |  |  | Postaköltség (2. cím, 16. alcím, 2. jogcímcsoport) |
+| 81 |  |  |  | Egyéb kiadások (2. cím, 16. alcím, 3. jogcímcsoport) |
+| 82 |  |  |  | Vagyongazdálkodás (3. cím) |
+| 83 | 2. | Az előirányzat a Kormány jóváhagyásával túlléphető: |  |  |
+| 84 |  |  | VI. BÍRÓSÁGOK fejezetben |  |
+| 85 |  |  |  | A polgári peres eljárás elhúzódásával kapcsolatos vagyoni elégtétel és ügyvédi és kamarai jogtanácsosi költségből és pervesztésből eredő kiadások célelőirányzata (4. cím, 4. alcím) |
+| 86 |  |  | VIII. ÜGYÉSZSÉG fejezetben |  |
+| 87 |  |  |  | Jogerősen megállapított kártérítések célelőirányzata (3. cím, 4. alcím) |
+| 88 |  |  | XII. AGRÁR- ÉS ÉLELMISZERGAZDASÁGÉRT FELELŐS MINISZTÉRIUM fejezetben |  |
+| 89 |  |  |  | Peres ügyek (20. cím, 8. alcím) |
+| 90 |  |  | XIII. HONVÉDELMI MINISZTÉRIUM fejezetben |  |
+| 91 |  |  |  | NATO és EU felajánlás alapján kialakításra kerülő készenléti alegységek alkalmazásának kiadásai (8. cím, 2. alcím, 1. jogcímcsoport) |
+| 92 |  |  | XIV. BELÜGYMINISZTÉRIUM fejezetben |  |
+| 93 |  |  |  | Tömeges bevándorlás kezeléséhez kapcsolódó kiadások (20. cím, 21. alcím) |
+| 94 |  |  |  | A terrorellenes intézkedések megvalósításához kapcsolódó kiadások (20. cím, 22. alcím) |
+| 95 |  |  | XVI. KÖZLEKEDÉSI ÉS BERUHÁZÁSI MINISZTÉRIUM fejezetben |  |
+| 96 |  |  |  | Nemzetközi szerződésen alapuló vasúti fejlesztések (10. cím, 1. alcím, 2. jogcímcsoport, 2. jogcím) |
+| 97 |  |  |  | Gyorsforgalmi úthálózat rendelkezésre állási díj (11. cím, 3. alcím, 1. jogcímcsoport) |
+| 98 |  |  |  | M5, M6 autópálya rendelkezésre állási díjak (11. cím, 3. alcím, 2. jogcímcsoport) |
+| 99 |  |  |  | Autóbusszal végzett személyszállítási közszolgáltatások költségtérítése (11. cím, 4. alcím, 3. jogcímcsoport) |
+| 100 |  |  |  | Autóbusszal végzett személyszállítási közszolgáltatások ellentételezése (11. cím, 4. alcím, 5. jogcímcsoport) |
+| 101 |  |  |  | Közlekedési közszolgáltatások energiaköltségének támogatása (11. cím, 4. alcím, 6. jogcímcsoport) |
+| 102 |  |  | XVII. GAZDASÁGI ÉS ENERGETIKAI MINISZTÉRIUM fejezetben |  |
+| 103 |  |  |  | Lakossági Rezsivédelmi Alap (21. cím, 23. alcím) |
+| 104 |  |  | XVIII. KÜLÜGYMINISZTÉRIUM fejezetben |  |
+| 105 |  |  |  | Kötött segélyhitelezés (7. cím, 1. alcím, 2. jogcímcsoport) |
+| 106 |  |  |  | Peres ügyek (7. cím, 5. alcím) |
+| 107 |  |  | XXV. VIDÉK- ÉS TELEPÜLÉSFEJLESZTÉSI MINISZTÉRIUM fejezetben |  |
+| 108 |  |  |  | Kormányhivatalok peres ügyei (10. cím, 5. alcím) |
+| 109 |  |  | XXVI. OKTATÁSI ÉS GYERMEKÜGYI MINISZTÉRIUM fejezetben |  |
+| 110 |  |  |  | Köznevelési célú humánszolgáltatás és működési támogatás (20. cím, 1. alcím, 1. jogcímcsoport) |
+| 111 |  |  |  | Hit- és erkölcstanoktatás, hittanoktatás és tankönyvtámogatás (20. cím, 1. alcím, 2. jogcímcsoport) |
+| 112 |  |  |  | Állami szakképző intézmények szakképzésről szóló törvény szerinti ingyenes képzéseinek kiegészítő finanszírozása (20. cím, 5. alcím) |
+| 113 |  |  | XXVII. EGÉSZSÉGÜGYI MINISZTÉRIUM fejezetben |  |
+| 114 |  |  |  | Peres ügyek (10. cím, 2. alcím) |
+| 115 |  |  | XXVIII. SZOCIÁLIS ÉS CSALÁDÜGYI MINISZTÉRIUM fejezetben |  |
+| 116 |  |  |  | Szociális célú nem állami humánszolgáltatások támogatása (10. cím, 2. alcím, 1. jogcímcsoport) |
+| 117 |  |  | XXIX. ÉLŐ KÖRNYEZETÉRT FELELŐS MINISZTÉRIUM fejezetben |  |
+| 118 |  |  |  | Víz-, környezeti és természeti katasztrófa kárelhárítás (10. cím, 5. alcím) |
+| 119 |  |  | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI fejezetben |  |
+| 120 |  |  |  | Gazdaságfejlesztési Keret (44. cím) |
+| 121 |  |  |  | Közfeladatot ellátó intézmények rezsikompenzációja (46. cím, 2. alcím) |
+| 122 |  |  |  | Kamatkiegyenlítés (48. cím) |
+| 123 |  |  | XLIII. AZ ÁLLAMI VAGYONNAL KAPCSOLATOS BEVÉTELEK ÉS KIADÁSOK fejezetben |  |
+| 124 |  |  |  | Központi költségvetési szervek elhelyezésével kapcsolatos bérleti díjak (1. cím, 2. alcím, 1. jogcímcsoport, 8. jogcím) |
+| 125 |  |  | LXIII. NEMZETI FOGLALKOZTATÁSI ALAP fejezetben |  |
+| 126 |  |  |  | Start-munkaprogram (6. cím) |
+| 127 | 3. | Az európai uniós tagsághoz kapcsolódó támogatások felhasználása érdekében, illetve ha az átcsoportosítási szabályokban foglalt lehetőségek kimerültek, az együttes eredeti kiadási előirányzat 30%-ig az államháztartásért felelős miniszter engedélye, e fölött a Kormány döntése alapján túlléphető: |  |  |
+| 128 |  |  | XII. AGRÁR- ÉS ÉLELMISZERGAZDASÁGÉRT FELELŐS MINISZTÉRIUM fejezetben |  |
+| 129 |  |  |  | Uniós programok kiegészítő támogatása (21. cím, 2. alcím) |
+| 130 |  |  | XIV. BELÜGYMINISZTÉRIUM fejezetben |  |
+| 131 |  |  |  | Európai Uniós és nemzetközi projektek/programok megvalósításához kapcsolódó kiadások (21. cím, 4. alcím) |
+| 132 |  |  |  | Belügyi Alapok 2021-2027 (21. cím, 6. alcím) |
+| 133 |  |  | XIX. UNIÓS FEJLESZTÉSEK fejezetben |  |
+| 134 |  |  |  | Európai Területi Együttműködés (2021-2027) (3. cím, 3. alcím) |
+| 135 |  |  |  | Svájci-Magyar Együttműködési Program II. (3. cím, 5. alcím) |
+| 136 |  |  |  | Európai Hálózatfinanszírozási Eszköz (CEF) projektek 2021-2027 (3. cím, 7. alcím) |
+| 137 |  |  |  | Vidékfejlesztési Program (3. cím, 8. alcím, 1. jogcímcsoport) |
+| 138 |  |  |  | Magyar Halgazdálkodási Operatív Program Plusz (3. cím, 8. alcím, 3. jogcímcsoport) |
+| 139 |  |  |  | KAP Stratégiai Terv Vidékfejlesztési Intézkedései (3. cím, 8. alcím, 4. jogcímcsoport) |
+| 140 |  |  |  | Gazdaságfejlesztési és Innovációs OP Plusz (GINOP Plusz) (3. cím, 9. alcím, 1. jogcímcsoport) |
+| 141 |  |  |  | Integrált Közlekedésfejlesztés OP Plusz (IKOP Plusz) (3. cím, 9. alcím, 2. jogcímcsoport) |
+| 142 |  |  |  | Emberi Erőforrás Fejlesztési OP Plusz (EFOP Plusz) (3. cím, 9. alcím, 3. jogcímcsoport) |
+| 143 |  |  |  | Terület- és Településfejlesztési OP Plusz (TOP Plusz) (3. cím, 9. alcím, 4. jogcímcsoport) |
+| 144 |  |  |  | Környezeti és Energiahatékonysági OP Plusz (KEHOP Plusz) (3. cím, 9. alcím, 5. jogcímcsoport) |
+| 145 |  |  |  | Digitális Megújulás OP Plusz (DIMOP Plusz) (3. cím, 9. alcím, 6. jogcímcsoport) |
+| 146 |  |  |  | Végrehajtás OP Plusz (VOP Plusz) (3. cím, 9. alcím, 8. jogcímcsoport) |
+| 147 |  |  |  | Helyreállítási és Ellenállóképességi Eszköz (RRF) (3. cím, 10. alcím) |
+| 148 |  |  |  | Transznacionális és Interregionális Együttműködés (2021-2027) (3. cím, 12. alcím) |
+| 149 | 4. | A nyugdíjszerű ellátásban részesülő személyek évközi ellátás-emelése végrehajtásával összefüggésben tételes elszámolás alapján a nyugdíjpolitikáért felelős miniszter engedélyével túlléphető: |  |  |
+| 150 |  |  | XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI fejezetben |  |
+| 151 |  |  |  | Egyéb térítések (47. cím, 4. alcím, 2. jogcímcsoport) |
 
 ### 5. melléklet a 2025. évi LXIX. törvényhez
 
@@ -2868,13 +2856,13 @@ A támogatásra a Biztos Kezdet Gyerekház fenntartására vonatkozó támogatá
 
 - 1. 1.1.1. A települési és területi nemzetiségi önkormányzatok működésének támogatása jogcímre vonatkozó szabályok
 - 1.1. Az előirányzat összegének megbontása:
-- 1.1.1. A XI. Miniszterelnökség fejezetben rendelkezésre álló előirányzat összege – a roma helyi nemzetiségi önkormányzatok kivételével – a helyi nemzetiségi önkormányzat vonatkozásában 1 464,2 millió forint.
-- 1.1.2. A XIV. Belügyminisztérium fejezetben rendelkezésre álló előirányzat összege a roma helyi nemzetiségi önkormányzatok vonatkozásában 1 368,9 millió forint.
+- 1.1.1. A Települési és területi nemzetiségi önkormányzatok támogatása előirányzat összege – a roma helyi nemzetiségi önkormányzatok kivételével – a helyi nemzetiségi önkormányzat vonatkozásában 1 464,2 millió forint.
+- 1.1.2. A Roma települési és területi nemzetiségi önkormányzatok támogatása előirányzat összege a roma helyi nemzetiségi önkormányzatok vonatkozásában 1 368,9 millió forint.
 - 1.2. A működési támogatás megállapításának és folyósításának szabályai
 - 1.2.1. A működési támogatásra való jogosultság szempontjából települési nemzetiségi önkormányzatnak kell tekinteni az átalakult nemzetiségi önkormányzatot is.
 - 1.2.2. Az 1.1.1. A települési és területi nemzetiségi önkormányzatok működésének támogatása jogcím egész éves fajlagos összegére a 2026. január 1-jén a Kincstár által vezetett törzskönyvi nyilvántartásba bejegyzett helyi nemzetiségi önkormányzat jogosult. Amennyiben a helyi nemzetiségi önkormányzat év közben alakul, akkor a helyi nemzetiségi önkormányzat a törzskönyvi bejegyzést követő hónap első napjától jogosult az időarányos működési támogatásra.
 - 1.2.3. Amennyiben a helyi nemzetiségi önkormányzat év közben megszűnik, akkor a megszűnés hónapjának utolsó napjáig a működési támogatás időarányos része illeti meg.
-- 1.2.4. A Kincstár a nemzetiségpolitikáért megosztott hatáskörben felelős minisztereket (a továbbiakban: miniszter) 2026. január 10-éig tájékoztatja a törzskönyvi nyilvántartásba bejegyzett helyi nemzetiségi önkormányzatokról. Ha a helyi nemzetiségi önkormányzat év közben alakul, akkor a Kincstár a helyi nemzetiségi önkormányzat törzskönyvi bejegyzését követően haladéktalanul tájékoztatja ennek tényéről a minisztert.
+- 1.2.4. A Kincstár a nemzetiségpolitikáért felelős minisztert (a továbbiakban: miniszter) 2026. január 10-éig tájékoztatja a törzskönyvi nyilvántartásba bejegyzett helyi nemzetiségi önkormányzatokról. Ha a helyi nemzetiségi önkormányzat év közben alakul, akkor a Kincstár a helyi nemzetiségi önkormányzat törzskönyvi bejegyzését követően haladéktalanul tájékoztatja ennek tényéről a minisztert.
 - 1.2.5. A miniszter a helyi nemzetiségi önkormányzatokat megillető működési támogatás összegének honlapján való közzétételéről 2026. január 20-áig intézkedik. Ha a helyi nemzetiségi önkormányzat év közben alakul, akkor a miniszter a Kincstár 1.2.4. pont szerinti tájékoztatását követő 8 napon belül teszi közzé az érintett helyi nemzetiségi önkormányzatot megillető működési támogatás összegét.
 - 1.2.6. A működési támogatásról a miniszter támogatói okiratot ad ki. A támogatói okirat közlése a miniszter honlapján történő közzététellel valósul meg.
 - 1.2.7. A miniszter a működési támogatást az éves támogatásra jogosult helyi nemzetiségi önkormányzat részére két egyenlő részletben, 2026. január 31-éig és 2026. június 30-áig folyósítja a Kincstár útján, amennyiben a helyi nemzetiségi önkormányzat teljesítette a nemzetiségek jogairól szóló 2011. évi CLXXIX. törvény (a továbbiakban: Njtv.) 133. §-ában előírt kötelezettségeit. Ha a helyi nemzetiségi önkormányzat év közben alakul, akkor a működési támogatást a miniszter a Kincstár útján az 1.2.5. pont szerinti közzétételt követő hónap utolsó napjáig, a Magyar Államkincstárnál történő bejegyzést követően folyósítja.
@@ -2885,11 +2873,11 @@ A támogatásra a Biztos Kezdet Gyerekház fenntartására vonatkozó támogatá
 - 1.3.4. A működési támogatás felhasználásáról a kedvezményezett az Ávr. 93. §-a szerint számol el a miniszter felé.
 - 2. 1.1.2. A települési és területi nemzetiségi önkormányzatok feladatalapú támogatása jogcímre vonatkozó szabályok
 - 2.1. Az előirányzat összegének megbontása
-- 2.1.1. A XI. Miniszterelnökség fejezetben rendelkezésre álló előirányzat összege – a roma helyi nemzetiségi önkormányzatok kivételével – a helyi nemzetiségi önkormányzatok vonatkozásában 1187,1 millió forint.
-- 2.1.2. A XIV. Belügyminisztérium fejezetben rendelkezésre álló előirányzat összege a roma helyi nemzetiségi önkormányzatok vonatkozásában 560,0 millió forint.
+- 2.1.1. A Települési és területi nemzetiségi önkormányzatok támogatása előirányzat összege – a roma helyi nemzetiségi önkormányzatok kivételével – a helyi nemzetiségi önkormányzatok vonatkozásában 1187,1 millió forint.
+- 2.1.2. A Roma települési és területi nemzetiségi önkormányzatok támogatása előirányzat összege a roma helyi nemzetiségi önkormányzatok vonatkozásában 560,0 millió forint.
 - 2.2. A feladatalapú támogatás fajlagos összegének meghatározása
 
-A helyi nemzetiségi önkormányzatok 2026. évi feladatalapú támogatásának fajlagos összegét az 1.1.2. A települési és területi nemzetiségi önkormányzatok feladatalapú támogatása jogcím előirányzat összege és a 2.3. pont szerint a támogatásra való jogosultsági szabályoknak megfelelő helyi nemzetiségi önkormányzatok részére meghatározott összes pontszám hányadosaként kell meghatározni. A fajlagos összeg meghatározása fejezetenként, illetve a települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok esetében külön-külön történik.
+A helyi nemzetiségi önkormányzatok 2026. évi feladatalapú támogatásának fajlagos összegét az 1.1.2. A települési és területi nemzetiségi önkormányzatok feladatalapú támogatása jogcím előirányzat összege és a 2.3. pont szerint a támogatásra való jogosultsági szabályoknak megfelelő helyi nemzetiségi önkormányzatok részére meghatározott összes pontszám hányadosaként kell meghatározni. A fajlagos összeg meghatározása a települési nemzetiségi önkormányzatok és a területi nemzetiségi önkormányzatok esetében külön-külön történik.
 
 - 2.3. A feladatalapú támogatás megállapításának és folyósításának szabályai
 - 2.3.1. A feladatalapú támogatásra az a helyi nemzetiségi önkormányzat jogosult, amely együttesen teljesíti a 2.3.1.1. és a 2.3.1.2. pont szerinti feltételeket.
@@ -2927,7 +2915,7 @@ A helyi nemzetiségi önkormányzatok 2026. évi feladatalapú támogatásának 
 | 23 | 3.4 Szociális területen, idősgondozás területén történő feladatellátás |
 | 24 | 4. Az elérhető pontszám összesen: |  | 100 |
 
-- 2.3.5. Az 1.1.2. A települési és területi nemzetiségi önkormányzatok feladatalapú támogatása jogcímhez kapcsolódóan az egyes fejezeteknél rendelkezésre álló előirányzatot a települési nemzetiségi és területi nemzetiségi önkormányzatok között – a jogosult önkormányzatok száma alapján – oly módon kell megosztani, hogy a jogosult területi nemzetiségi önkormányzatok számát kétszeresen kell figyelembe venni. A feladatalapú támogatás összege a 2.3.3. pont alapján megállapított feladatmutató pontszám és a 2.2. pont szerint meghatározott fajlagos támogatási összeg szorzata.
+- 2.3.5. Az 1.1.2. A települési és területi nemzetiségi önkormányzatok feladatalapú támogatása jogcímhez kapcsolódóan az előirányzatokat a települési nemzetiségi és területi nemzetiségi önkormányzatok között – a jogosult önkormányzatok száma alapján – oly módon kell megosztani, hogy a jogosult területi nemzetiségi önkormányzatok számát kétszeresen kell figyelembe venni. A feladatalapú támogatás összege a 2.3.3. pont alapján megállapított feladatmutató pontszám és a 2.2. pont szerint meghatározott fajlagos támogatási összeg szorzata.
 - 2.3.6. A miniszter a feladatalapú támogatást megalapozó pontszámokat és a támogatás összegét 2026. április 15-éig a honlapján közzéteszi.
 - 2.3.7. A feladatalapú támogatásról a miniszter támogatói okiratot ad ki. A támogatói okirat közlése a miniszter honlapján történő közzététellel valósul meg.
 - 2.3.8. A miniszter a feladatalapú támogatást a jogosult helyi nemzetiségi önkormányzat részére két egyenlő részletben, 2026. április 30-áig és 2026. augusztus 15-éig folyósítja a Kincstár útján.
@@ -2939,8 +2927,8 @@ A helyi nemzetiségi önkormányzatok 2026. évi feladatalapú támogatásának 
 - 2.4.4. A feladatalapú támogatás felhasználásáról a kedvezményezett az Ávr. 93. §-a szerint számol el a miniszter felé.
 - 3. 1.2.1. Országos nemzetiségi önkormányzatok és média támogatása jogcímre vonatkozó szabályok
 - 3.1. Az előirányzat összegének megbontása
-- 3.1.1. A XI. Miniszterelnökség fejezetben rendelkezésre álló előirányzat összege a Magyarországi Romák Országos Önkormányzata kivételével 2 453,3 millió forint.
-- 3.1.2. A XIV. Belügyminisztérium fejezetben rendelkezésre álló előirányzat összege a Magyarországi Romák Országos Önkormányzata vonatkozásában 483,2 millió forint.
+- 3.1.1. Az Országos nemzetiségi önkormányzatok és média támogatása előirányzat összege – a Magyarországi Romák Országos Önkormányzata kivételével – 2 453,3 millió forint.
+- 3.1.2. A Magyarországi Romák Országos Önkormányzata működési és média támogatása előirányzat összege – a Magyarországi Romák Országos Önkormányzata vonatkozásában – 483,2 millió forint.
 - 3.2. Az Országos nemzetiségi önkormányzatok és média támogatása
 
 |  | A | B |
@@ -2971,8 +2959,8 @@ A helyi nemzetiségi önkormányzatok 2026. évi feladatalapú támogatásának 
 - 3.4.5. Az országos nemzetiségi önkormányzat, az általa fenntartott vagy közvetlenül támogatott nemzetiségi önkormányzati intézmény, a rendszeres vagy az időszaki lap kiadója és az elektronikus médium működtetője a támogatás felhasználásáról elkülönített számviteli nyilvántartást vezet az elfogadott éves intézményi költségvetésnek megfelelően.
 - 4. 1.2.2. Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása jogcímre vonatkozó szabályok
 - 4.1. Az előirányzat összegének megbontása
-- 4.1.1. A XI. Miniszterelnökség fejezetben rendelkezésre álló előirányzat összege a Magyarországi Romák Országos Önkormányzata kivételével 2 072,9 millió forint.
-- 4.1.2. A XIV. Belügyminisztérium fejezetben rendelkezésre álló előirányzat összege a Magyarországi Romák Országos Önkormányzata vonatkozásában 196,2 millió forint.
+- 4.1.1. Az Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása előirányzat összege a Magyarországi Romák Országos Önkormányzata kivételével 2 072,9 millió forint.
+- 4.1.2. A Magyarországi Romák Országos Önkormányzata által fenntartott intézmények támogatása előirányzat összege a Magyarországi Romák Országos Önkormányzata vonatkozásában 196,2 millió forint.
 - 4.2. Az Országos nemzetiségi önkormányzatok által fenntartott intézmények támogatása
 
 |  | A | B |
