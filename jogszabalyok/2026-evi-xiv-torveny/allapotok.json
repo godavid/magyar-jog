@@ -8,5 +8,10 @@
     "datum": "2026-05-15",
     "verzio": 2,
     "sha": "4a64a1f871f1f6b8e77e8a75d72c87fc7f6ae49e"
+  },
+  {
+    "datum": "2026-10-22",
+    "verzio": 3,
+    "sha": "ad830b360705d3eb40c71623d4e0075c25fe261d"
   }
 ]
