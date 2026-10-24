@@ -9127,6 +9127,11 @@
       "datum": "2026-10-01",
       "verzio": 91,
       "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
+    },
+    {
+      "datum": "2026-10-24",
+      "verzio": 92,
+      "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
     }
   ],
   "2011-evi-cciv-torveny-nftv": [
@@ -30873,6 +30878,11 @@
       "datum": "2026-10-01",
       "verzio": 146,
       "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
+    },
+    {
+      "datum": "2026-10-24",
+      "verzio": 147,
+      "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
     }
   ],
   "1997-evi-xxxiii-torveny": [
@@ -62041,6 +62051,11 @@
       "datum": "2026-10-01",
       "verzio": 70,
       "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
+    },
+    {
+      "datum": "2026-10-24",
+      "verzio": 71,
+      "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
     }
   ],
   "2008-evi-xlvii-torveny": [
@@ -62275,6 +62290,11 @@
       "datum": "2025-01-01",
       "verzio": 33,
       "sha": "8e258dc6485f773dfff40eb247f6234c38b194ab"
+    },
+    {
+      "datum": "2026-10-24",
+      "verzio": 34,
+      "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
     }
   ],
   "2008-evi-xlix-torveny": [
@@ -64157,6 +64177,11 @@
       "datum": "2026-10-01",
       "verzio": 72,
       "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
+    },
+    {
+      "datum": "2026-10-24",
+      "verzio": 73,
+      "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
     }
   ],
   "2009-evi-xlviii-torveny": [
@@ -72031,6 +72056,11 @@
       "datum": "2026-10-01",
       "verzio": 60,
       "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
+    },
+    {
+      "datum": "2026-10-24",
+      "verzio": 62,
+      "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
     }
   ],
   "2011-evi-i-torveny": [
@@ -81841,6 +81871,11 @@
       "datum": "2021-07-08",
       "verzio": 6,
       "sha": "0dc93a4d7a41ab51cb475bcf56eb07205fd79b05"
+    },
+    {
+      "datum": "2026-10-24",
+      "verzio": 7,
+      "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
     }
   ],
   "2012-evi-iii-torveny": [
@@ -90894,6 +90929,11 @@
       "datum": "2026-10-01",
       "verzio": 47,
       "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
+    },
+    {
+      "datum": "2026-10-24",
+      "verzio": 49,
+      "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
     }
   ],
   "2013-evi-xxxvii-torveny": [
@@ -126484,6 +126524,11 @@
       "datum": "2026-07-01",
       "verzio": 12,
       "sha": "b5c9c0cd1cc65179c465d120f17bcf7bcc68e1ea"
+    },
+    {
+      "datum": "2026-10-24",
+      "verzio": 14,
+      "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
     }
   ],
   "2020-evi-clxiv-torveny": [
