@@ -33,6 +33,7 @@ a bűnügyi nyilvántartási rendszerről, az Európai Unió tagállamainak bír
 - m) szakrendszeri azonosító kód: a szakértői nyilvántartó szerv által a DNS-profilhoz, valamint az ujj- és tenyérnyomathoz hozzárendelt egyedi alfanumerikus azonosító;
 - n) szájnyálkahártya-törlet: a szájüreg belső felületéről, annak sérelme nélkül, steril gézzel vagy más, az egészségügyben használatos hordozóval letörölt anyag;
 - o) testi kényszer: megfogás, lefogás, valamint testi erővel valamely cselekvés, magatartás abbahagyására vagy a mintavétel tűrésére kényszerítés.
+- p) természetes személyazonosító adat: a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény szerinti természetes személyazonosító adat.
 
 2/A. § (1) E törvény alkalmazásában harmadik országbeli állampolgár az a személy, aki nem az Európai Unió tagállamának állampolgára, a hontalan személy és az a személy, akinek az állampolgársága nem ismert.
 
@@ -1303,20 +1304,27 @@ lehet benyújtani.
   - bb) az érintett Btk. 52. § (3) bekezdése szerinti végleges hatályú foglalkozástól eltiltásához kapcsolódnak, és
 - c) az érintett emiatt a bűntettesek nyilvántartásában vagy a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásában szerepel, legfeljebb azonban a hátrányos jogkövetkezmények alatt álló, büntetlen előéletű személyek nyilvántartásába való felvételétől számított tizenkét évig.
 
-(3) Az érintettre vonatkozó adat megismerhetővé tétele a felületen akkor kezdeményezhető, ha
+(3) A felülethez való hozzáférés akkor kérelmezhető, ha
 
-- a) a kezdeményező olyan nagykorú személy, aki tizennyolcadik életévét be nem töltött személy
+- a) a kérelmező olyan nagykorú személy, aki a megismerhetővé tétel útján megszerzett információval védendő kiskorú személy (a továbbiakban: védendő kiskorú személy)
   - aa) hozzátartozója, vagy
   - ab) nevelését, felügyeletét vagy gondozását látja el
 
 (a továbbiakban együtt: az érintett adatainak megismerésére jogosult személy);
 
-- b) az érintett adatainak megismerésére jogosult személy megítélése szerint az adatok megismerése az (1) bekezdésben meghatározott célból feltehetően szükséges, és az erre vonatkozó adat más módon történő megismerése egyébként aránytalan nehézséggel járna, és
-- c) az érintett adatainak megismerésére jogosult személy
-  - ca) az adatmegismerés szükségességének b) pont szerinti feltételei fennállásáról nyilatkozik, valamint
-  - cb) megjelöli azon személy családi és utónevét, akire az adatmegismerési igény vonatkozik.
+- b) az érintett adatainak megismerésére jogosult személy megítélése szerint az adatok megismerése az (1) bekezdésben meghatározott célból szükséges, és az erre vonatkozó adat más módon történő megismerése nem lehetséges vagy annak beszerzése egyébként számára aránytalan nehézséggel járna, és
+- c) az érintett adatainak megismerésére jogosult személy a felülethez való hozzáférésre irányuló kérelmében
+  - ca) az a) pont aa) alpontja szerinti hozzátartozói minőségéről vagy az a) pont ab) alpont szerinti neveléssel, felügyelettel vagy gondozással összefüggő jogviszonyáról, illetve az adatmegismerés szükségességének b) pont szerinti feltételei fennállásáról érdemben nyilatkozik, valamint az a) pont ab) alpontja és a b) pont szerinti feltételek teljesülésének alátámasztásául szolgáló – a kérelem előterjesztésekor rendelkezésre álló – releváns adatokat, iratokat kérelméhez csatolja, valamint
+  - cb) megjelöli a védendő kiskorú személy természetes személyazonosító adatait, valamint azon személy családi és utónevét, akire – ha a felülethez való hozzáférésére irányuló kérelmének helyt adnának – a felületen keresést kíván végezni.
 
-75/C. § (1) Több találat esetén valamennyi érintett 75/B. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatait kell megismerhetővé tenni. A 75/B. § (1) bekezdésében meghatározott további adatok csak az érintett adatainak megismerésére jogosult személy által a gyermekkel közvetlen kapcsolatba kerülő személyként azonosított érintett vonatkozásában ismerhetők meg.
+(4) A bűnügyi nyilvántartó szerv a védendő kiskorú személy adatainak a személyiadat- és lakcímnyilvántartásban való szereplése ellenőrzését követően a (3) bekezdés szerinti kérelmet soron kívül, de legkésőbb nyolc napon belül bírálja el, azzal, hogy
+
+- a) – ha a kérelem a (3) bekezdés szerinti feltételeknek megfelel – az érintett adatainak megismerésére jogosult személynek a felülethez való, egyszeri munkamenet erejéig tartó hozzáférését jóváhagyja, vagy
+- b) – ha a kérelem a (3) bekezdés szerinti feltételeknek nem felel meg – a kérelmet elutasítja.
+
+(5) Ha a kérelmező (3) bekezdés szerinti kérelme egyértelműen megalapozatlan vagy – különösen annak ismétlődő vagy a felületen kezelt adatokkal való visszaélésre alkalmas jellege miatt – túlzó, a bűnügyi nyilvántartó szerv megtagadhatja a kérelem alapján történő intézkedést.
+
+75/C. § (1) Ha a bűnügyi nyilvántartó szerv a 75/B. § (3) bekezdése szerinti kérelem alapján az érintett adatainak megismerésére jogosult személynek a felülethez való hozzáférését jóváhagyja, az érintett adatainak megismerésére jogosult személy a felületen – a munkamenet befejezéséig – keresést végezhet. Ha a felületen való keresés több találatot eredményez, valamennyi érintett 75/B. § (1) bekezdés a) pont ac) és ad) alpontjában meghatározott adatait kell megismerhetővé tenni, azzal, hogy a 75/B. § (1) bekezdésében meghatározott további adatok csak az érintett adatainak megismerésére jogosult személy által a védendő kiskorú személlyel közvetlen kapcsolatba kerülő személyként azonosított érintett vonatkozásában ismerhetők meg.
 
 (2) A felületen keresztül megismert adatokat az érintett adatainak megismerésére jogosult személy köteles bizalmasan kezelni, azok kizárólag a 75/B. § (1) bekezdésében meghatározott célból használhatóak fel, és tehetők harmadik személy számára megismerhetővé. A felületen keresztül megismert adatokról másolat – így különösen képernyőfotó, kivonat vagy más összefoglaló – nem készíthető, továbbá azokat tilos nyilvánosságra hozni, sokszorosítani, nyilvántartásba rendezni vagy adatbázisba foglalni.
 
@@ -1852,6 +1860,8 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 100/C. § (1) E törvénynek a gyermekek védelme érdekében egyes törvények módosításáról szóló 2024. évi XXX. törvénnyel megállapított 33/C. §-át a 2024. július 1-jét követően érkező tagállami ítéletek vonatkozásában kell alkalmazni.
 
 (2) A bűnügyi nyilvántartó szerv 2025. július 1-jéig elvégzi a 2018. január 1. és 2024. június 30. között nyilvántartásba vett tagállami ítéletek 33/C. § (1) bekezdés szerinti ellenőrzését.
+
+100/D. § A bűnügyi nyilvántartó szerv a felülethez történő, az egyes törvényeknek a gyermekek jogainak és biztonságának megerősítését célzó módosításáról szóló 2026. évi LXII. törvénnyel (a továbbiakban: Módtv2.) megállapított 75/B. § (3)–(5) bekezdésének, valamint 75/C. § (1) bekezdésének megfelelő hozzáférést a felületnek a Módtv2. szerinti feltételeknek megfelelő rendelkezésre állását követően haladéktalanul, de legkésőbb 2027. február 1-jétől biztosítja.
 
 ### Módosuló jogszabályok
 

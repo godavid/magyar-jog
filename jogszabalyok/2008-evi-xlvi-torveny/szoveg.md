@@ -1497,6 +1497,7 @@ az államtól e törvény végrehajtására kiadott jogszabályban meghatározot
 - h) ha a növény-egészségügyi zárlattal érintett termőhelyen és annak szomszédságában a hatósági intézkedés tárgyát képező károsító ellen a korábban elrendelt növény-egészségügyi zárlatot még nem oldották fel és az újabb növényvédelmi intézkedésre a zárlat figyelmen kívül hagyása miatt kerül sor;
 - i) ha a növény-egészségügyi zárlat Magyarországon honos vagy megtelepedett károsító ellen irányul;
 - j) ha a termelő a növény-egészségügyi zárlat kapcsán meghatározott valamely kötelezettségének nem tesz eleget.
+- k) ha a termelő, illetve a földhasználó a növény-egészségügyi zárlati intézkedés esetén a kártalanítás feltételeként megállapított kötelezettség teljesítését nem vállalja vagy a vállalt kötelezettségnek határidőben nem tesz eleget.
 
 (3) A növényvédelmi védekezéssel okozott kárért nem jogosult kártalanításra az a méhész, aki letelepedésének bejelentését elmulasztotta.
 

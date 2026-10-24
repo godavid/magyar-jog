@@ -77,7 +77,7 @@ Az Országgyűlés a közösség és az egyén érdekeinek felismeréséből, a 
 
 (5) Azt a műsorszámot, amely alkalmas a tizenhat éven aluliak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy erőszakra, illetve szexualitásra utal, vagy témájának meghatározó eleme az erőszakos módon megoldott konfliktus, a IV. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizenhat éven aluliak számára nem ajánlott.
 
-(6) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak, a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának, valamint a homoszexualitásnak a népszerűsítése, megjelenítése, illetve a szexualitás közvetlen, naturális vagy öncélú ábrázolása, az V. kategóriába kell sorolni. Az ilyen műsorszám minősítése: tizennyolc éven aluliak számára nem ajánlott.
+(6) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme az erőszak vagy a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 6/A. §-ába ütköző tartalom, illetve a szexualitás közvetlen vagy naturális ábrázolása, az V. kategóriába kell sorolni, feltéve, hogy a műsorszám a (7) bekezdés alapján nem tartozik a VI. kategóriába. Az ilyen műsorszám minősítése: tizennyolc éven aluliak számára nem ajánlott.
 
 (7) Azt a műsorszámot, amely alkalmas a kiskorúak fizikai, szellemi vagy erkölcsi fejlődésének súlyos károsítására, különösen azáltal, hogy pornográfiát vagy szélsőséges, illetve indokolatlan erőszakot tartalmaz, a VI. kategóriába kell sorolni.
 
@@ -392,7 +392,7 @@ figyelemfelhívás.
 
 (4) Politikai reklám, közérdekű közlemény és társadalmi célú reklám közzétételekor a közzététel megrendelőjét egyértelműen meg kell nevezni.
 
-(4a) Nem minősül közérdekű közleménynek vagy társadalmi célú reklámnak az olyan műsorszám, amely alkalmas a gyermekek megfelelő fizikai, szellemi és erkölcsi fejlődésének a kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme a szexualitás öncélú ábrázolása, a pornográfia, továbbá a születési nemnek megfelelő önazonosságtól való eltérésnek, a nem megváltoztatásának, valamint a homoszexualitásnak a népszerűsítése, megjelenítése.
+(4a) Nem minősül közérdekű közleménynek vagy társadalmi célú reklámnak az olyan műsorszám, amely alkalmas a gyermekek fizikai, szellemi és erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy meghatározó eleme a szexualitás öncélú ábrázolása, a pornográfia, továbbá a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 6/A. §-ába ütköző tartalom.
 
 (5) A közérdekű közlemény közzétételéért a médiaszolgáltató ellenszolgáltatást nem kérhet.
 
@@ -3117,7 +3117,7 @@ a Biztos hivatalánál panasszal élhet.
 
 179. § (1) A más tagállamban letelepedett médiaszolgáltató audiovizuális médiaszolgáltatására e törvény és az Smtv. 13–20. §-a a (2)–(6) bekezdésben foglaltak szerint alkalmazandó, feltéve, hogy a más tagállamban letelepedett médiaszolgáltató az érintett audiovizuális médiaszolgáltatását teljes egészében vagy túlnyomórészt Magyarország területére irányítja.
 
-(2) Az (1) bekezdésben foglaltakkal kapcsolatban azonosított problémák, valamint e törvény és az Smtv. érintett rendelkezéseinek megsértése esetén a Médiatanács köteles kérni azon tagállam hatékony intézkedését, amelynek joghatósága alá az (1) bekezdés szerinti médiaszolgáltató tartozik. Ennek keretében a Médiatanács kéri, hogy a tagállam intézkedjen a Médiatanács által megjelölt jogsértések megszüntetése érdekében.
+(2) Az (1) bekezdésben foglaltakkal kapcsolatban azonosított problémák, valamint e törvény és az Smtv. érintett rendelkezéseinek megsértése esetén a Médiatanács kérheti azon tagállam hatékony intézkedését, amelynek joghatósága alá az (1) bekezdés szerinti médiaszolgáltató tartozik. Ennek keretében a Médiatanács kéri, hogy a tagállam intézkedjen a Médiatanács által megjelölt jogsértések megszüntetése érdekében.
 
 (3) Amennyiben más tagállam állapítja meg, hogy Magyarország joghatósága alá tartozó médiaszolgáltató audiovizuális médiaszolgáltatása teljes egészében vagy túlnyomórészt e tagállam területére irányul, és e tagállam felkéri Magyarországot, hogy kezelje az ezzel kapcsolatban azonosított problémákat, a Médiatanács mindent megtesz, hogy kölcsönösen megfelelő megoldást találjanak. Ennek keretében e tagállam indokolt kérelmére a Médiatanács intézkedik a tagállam által megjelölt jogsértések megszüntetése érdekében és rendszeresen tájékoztatja a tagállamot a megtett intézkedésekről. A kérelem kézhezvételétől számított két hónapon belül tájékoztatja továbbá a kérelmező tagállamot és az Európai Bizottságot az intézkedések eredményeiről vagy az eredménytelenség okairól.
 

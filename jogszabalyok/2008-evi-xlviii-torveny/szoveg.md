@@ -127,7 +127,9 @@ közvetlenül vagy közvetetetten tulajdoni részesedéssel rendelkezik.
 
 8. § (1) Tilos az olyan reklám, amely a gyermek- és fiatalkorúak fizikai, szellemi, érzelmi vagy erkölcsi fejlődését károsíthatja.
 
-(1a) Tilos az olyan reklámot tizennyolc éven aluliak számára elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
+(1a) Tilos tizennyolc éven aluliak számára olyan reklámot elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 6/A. §-ába ütközik.
+
+(1b) Tilos közterületen vagy más, bárki számára korlátozás nélkül hozzáférhető nyilvános helyen olyan reklámot közzétenni, amely tartalmára, képi vagy hanghatására, illetve megjelenítésének módjára tekintettel alkalmas arra, hogy a tizennyolc éven aluliak testi, értelmi, érzelmi vagy erkölcsi fejlődését kedvezőtlenül befolyásolja, így különösen indokolatlan félelem, szorongás vagy pszichés megterhelés kiváltásával.
 
 (2) Tilos az olyan gyermek-, illetve fiatalkorúaknak szóló reklám, amely alkalmas a gyermek-, illetve fiatalkorúak fizikai, szellemi, érzelmi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen azáltal, hogy erőszakra, szexualitásra utal vagy azt ábrázol, vagy témájának meghatározó eleme az erőszakos módon megoldott konfliktus.
 

@@ -46,7 +46,7 @@ Az Országgyűlés mindezen értékek megőrzése és erősítése céljából, 
 
 5. § E törvényben foglalt célok és a gyermekek védelme érdekében a médiaszolgáltatók kötelesek szolgáltatásaikat a házasság intézményének, valamint a család és a gyermeknevelés értékének tiszteletben tartásával nyújtani. Az állam ösztönzi a család és a gyermeknevelés értékét közvetítő műsorok, médiatartalmak bemutatását. A médiaszolgáltatók által elkövetett jogsértések esetén alkalmazható jogkövetkezményekről külön törvény rendelkezik.
 
-5/A. § E törvényben foglalt célok és a gyermekek védelme érdekében tilos tizennyolc éven aluliak számára pornográf, valamint olyan tartalmat elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
+5/A. § Az e törvényben foglalt célok és a gyermekek védelme érdekében tilos tizennyolc éven aluliak számára a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 6/A. §-ába ütköző tartalmat hozzáférhetővé tenni, illetve terjeszteni.
 
 6. § (1) Az állam elősegíti és támogatja a családbarát szemlélet kialakulását és fenntartását a társadalmi és a gazdasági élet valamennyi területén.
 

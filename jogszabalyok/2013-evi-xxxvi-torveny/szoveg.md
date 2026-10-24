@@ -1586,7 +1586,7 @@ lehet benyújtani.
 
 (2b) A plakáton nem tehető közzé kiskorúak testi, szellemi, erkölcsi vagy érzelmi fejlődésére káros képi vagy szöveges tartalom.
 
-(3) Plakát a kampányidőszakban – a (4)–(7) bekezdésben meghatározott kivételekkel – korlátozás nélkül elhelyezhető.
+(3) Plakát a kampányidőszakban – a (4)–(8) bekezdésben meghatározott kivételekkel – korlátozás nélkül elhelyezhető.
 
 (4) Plakátot elhelyezni
 
@@ -1600,6 +1600,8 @@ előzetes, írásbeli hozzájárulásával lehet.
 (6) A választási kampányt szolgáló önálló hirdetőberendezés elhelyezésére, valamint az óriásplakátok vonatkozásában a közterület-használatról szóló jogszabályokat kell alkalmazni.
 
 (7) A plakátot úgy kell elhelyezni, hogy az ne fedje más jelölt vagy jelölő szervezet plakátját, és károkozás nélkül eltávolítható legyen. A plakátot az, aki elhelyezte vagy akinek érdekében elhelyezték, a szavazást követő 30 napon belül köteles eltávolítani, vagy ennek elmaradása esetén az eltávolítás költségét viselni.
+
+(8) Plakát kampányidőszakban is kizárólag a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 6. § (8) bekezdésével összhangban készíthető és használható.
 
 #### 70. Választási gyűlés
 
@@ -1631,6 +1633,8 @@ előzetes, írásbeli hozzájárulásával lehet.
 (4) Az audiovizuális médiaszolgáltatásban közzétételre szánt politikai reklám megrendelője köteles a reklám feliratozásáról vagy jelnyelvi tolmácsolással való ellátásáról gondoskodni.
 
 (4a) A szavazás napján politikai reklámot nem lehet közzétenni.
+
+(4b) Politikai reklám és politikai hirdetés kizárólag akkor tehető közzé, ha az nem sérti a Gyvt. 6. § (8) bekezdésében foglalt előírásokat.
 
 (5) A politikai reklám közzétételére egyebekben az Mttv. rendelkezéseit kell alkalmazni.
 

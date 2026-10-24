@@ -119,7 +119,9 @@ ha az e törvényben és más jogszabályban meghatározott feltételek szerint,
 
 (7) A gyermeknek joga van ahhoz, hogy tudatos és felelősségteljes internet-, valamint médiahasználatot − ideértve a zaklatás internetes formáival szembeni hatékony fellépést − biztosító nevelésben, oktatásban és képzésben részesüljön.
 
-6/A. § E törvényben foglalt célok és gyermeki jogok biztosítása érdekében tilos tizennyolc éven aluliak számára pornográf, valamint olyan tartalmat elérhetővé tenni, amely a szexualitást öncélúan ábrázolja, illetve a születési nemnek megfelelő önazonosságtól való eltérést, a nem megváltoztatását, valamint a homoszexualitást népszerűsíti, jeleníti meg.
+(8) A gyermeknek joga van ahhoz, hogy közterületen vagy más, bárki számára korlátozás nélkül hozzáférhető nyilvános helyen ne legyen kitéve olyan vizuális, audiovizuális vagy hangalapú kommunikációnak, amely tartalmára, képi vagy hanghatására, illetve megjelenítésének módjára tekintettel alkalmas testi, értelmi, érzelmi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására, különösen indokolatlan félelem, szorongás vagy pszichés megterhelés kiváltásával.
+
+6/A. § Az e törvényben foglalt célok és a gyermeki jogok érvényesülésének biztosítása érdekében tilos tizennyolc éven aluliak számára pornográf, valamint életkoruknak és fejlettségi szintjüknek nem megfelelő, a szexualitást öncélúan ábrázoló, továbbá egyéb olyan tartalmat hozzáférhetővé tenni, illetve terjeszteni, amely szexuális erőszakot, szexuális kizsákmányolást, szexuális célú manipulációt vagy erre irányuló kapcsolatfelvételt, illetve más, a nemi élet szabadsága és a nemi erkölcs elleni bűncselekményt népszerűsít, igazol vagy azok elkövetésére ösztönöz, vagy amely a gyermek életkorára és fejlettségi szintjére, a tartalom jellegére és megjelenítésének körülményeire figyelemmel egyébként alkalmas a gyermek testi, értelmi, érzelmi vagy erkölcsi fejlődésének kedvezőtlen befolyásolására.
 
 6/B. § A gyermek- és ifjúságpolitikáért felelős miniszter feladata a gyermekeket érő elektroakusztikus zaj egészségkárosító hatásait mérséklő és e zajforrások által kiváltott hatásokkal szembeni védekezéssel összefüggő tudatosságot elősegítő intézkedések kezdeményezése. A miniszter e célok elérése érdekében tájékoztató kampányokat kezdeményez, amelyek segítik a szülői tudatosságot és ösztönözik az elektroakusztikus hangosítás igénybevétele mellett tartott nyilvános rendezvények szervezőit az egészségmegóvás támogatására.
 
@@ -167,6 +169,8 @@ ha az e törvényben és más jogszabályban meghatározott feltételek szerint,
 - b) gondozása és nevelése során jogait, személyes szabadságát korlátozó intézkedés alkalmazására csak feltétlenül indokolt esetben önmaga vagy mások veszélyeztetése esetén
 
 kerülhet sor.
+
+9/A. § A gyermeknek joga van ahhoz, hogy az egészségügyi intézményben történő tartózkodása kizárólag a fekvőbeteg-gyógyintézeti ellátás által indokolt ideig tartson, és a gyermek családi vagy gyermekvédelmi helyzetének rendezéséhez szükséges intézkedések a körülmények által lehetővé tett legrövidebb időn belül megtörténjenek.
 
 10. § (1) A gyermek kötelessége különösen, hogy
 

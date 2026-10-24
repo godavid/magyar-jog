@@ -17,6 +17,7 @@ Az Országgyűlés a szőlő-bor ágazat átlátható és fenntartható működ�
   - a) amelyet a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 4. § 23. pontja értelmében kapcsolt vállalkozások alkotnak, vagy
   - b) amelynek természetes személy tagjai, vagy jogi személy esetén a jogi személy természetes személy tagjai, egymás közeli hozzátartozójának minősülnek;
 - 5. dűlő: azonos földrajzi, illetve éghajlati adottságú, térképen a VINGIS-ben lehatárolt, nevesített terület;
+- 5a. egyéb szőlő: a Vitis vinifera subsp. sylvestris kivételével minden olyan, a Vitis nemzetséghez tartozó egyed, ezen egyedek társulása vagy ilyen egyedeket is tartalmazó növénytársulás, amely nem minősül szőlőültetvénynek;
 - 6. ePincekönyv rendszer: a szőlő-bor ágazat elektronikus információs rendszere;
 - 7. eredetmegjelölés: az 1308/2013/EU európai parlamenti és tanácsi rendelet 93. cikk (1) bekezdés a) pontja szerinti fogalom;
 - 8. élelmiszerlánc-esemény: az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Éltv.) Melléklet 22. pontja szerinti fogalom;
@@ -96,7 +97,7 @@ szükséges.
 
 5. § (1) A szőlőültetvényt az ültetvény használója köteles rendeltetésének megfelelően művelni, a tulajdonos köteles a szőlőültetvény rendeltetésnek megfelelő művelését biztosítani.
 
-(2) Amennyiben a szőlőültetvény a hegybíró és a hegyközség választmányának legalább egy tagja által közösen elvégzett helyszíni szemle megállapítása alapján egy vegetációs időszak során nem áll rendeltetésszerű művelés alatt, a hegybíró figyelmezteti az ültetvény használóját a szőlőültetvény rendeltetésszerű művelésére, valamint tulajdonosát a szőlőültetvény rendeltetésszerű művelésének biztosítására.
+(2) Amennyiben a szőlőültetvény a hegybíró és a hegyközség választmányának legalább egy tagja által közösen elvégzett helyszíni szemle megállapítása alapján nem áll rendeltetésszerű művelés alatt, a hegybíró figyelmezteti az ültetvény használóját a szőlőültetvény rendeltetésszerű művelésére, valamint tulajdonosát a szőlőültetvény rendeltetésszerű művelésének biztosítására.
 
 (3) A (2) bekezdés szerinti figyelmeztetést követően az ültetvény használójának, illetve tulajdonosának hét napon belül nyilatkoznia kell arról, hogy a szőlőültetvény rendeltetésszerű művelését megkezdte. Ha a tulajdonos a szőlőültetvény művelését más ültetvényhasználóval kívánja biztosítani, a tulajdonosnak a figyelmeztetéstől számított hét napon belül be kell mutatnia a szőlőültetvény megfelelő hasznosítását biztosító szerződést, vagy ha a tulajdonos maga kívánja a szőlőültetvényt művelni, nyilatkoznia kell erről.
 
@@ -108,6 +109,10 @@ szükséges.
 (5) A rendeltetésszerű művelés elmulasztása miatt kiszabott bírság 50%-a a szőlőültetvény fekvése szerinti hegyközség, 50%-a a HNT által a Hktv. 38. § (5) bekezdése szerint létrehozott alap (a továbbiakban: Alap) bevétele.
 
 (6) Ha az ültetvény tulajdonosa a (4) bekezdés szerinti kivágási kötelezettségének az azt elrendelő hatósági határozat ellenére sem tesz határidőre eleget, a hegybíró közérdekű kivágást rendel el.
+
+(6a) Ha a (4) bekezdés szerinti határozat az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény (a továbbiakban: Ákr.) 86. § (1) bekezdése alapján tekintendő kézbesítettnek vagy az Ákr. 88. § (1) bekezdése alapján a határozat közlését hirdetmény útján kell teljesíteni, az Ákr. 84. § a) pontja szerinti azonnali végrehajthatóság tekintetében a súlyos kárral való fenyegetés megállapítható, ha szőlőültetvénytől vagy egyéb szőlőtől legfeljebb 4 kilométeres távolságban más szőlőültetvény található.
+
+(6b) A (6a) bekezdés szerinti azonnali végrehajthatóság esetén a hegybíró elrendeli a (6) bekezdés szerinti közérdekű kivágást.
 
 (7) A közérdekű kivágás költségeinek megelőlegezését az Alapból kell biztosítani. A közérdekű kivágás elvégzését követően a költségek tizenöt napon belüli megtérítésére kell kötelezni a (6) bekezdés szerinti mulasztás elkövetőjét. A kötelezett nem fizetése esetén a közérdekű kivágás költségei adók módjára végrehajtandó köztartozásnak minősülnek, amelyet az állami adó- és vámhatóság hajt be az Alap javára.
 
@@ -124,6 +129,19 @@ szükséges.
 (13) A Hktv. 40. § (2) bekezdés l) pontja szerinti megsemmisítés közérdekű kivágásnak minősül, amelynek eljárásrendjére a (7)–(12) bekezdést kell alkalmazni.
 
 (14) Az élelmiszerlánc-felügyeleti szerv a szőlőtőkék Éltv. 48. § (1) bekezdés a) pontja szerint elrendelt megsemmisítéséről szóló határozata másolatát 7 napon belül megküldi a hegybíró részére. Amennyiben a megsemmisítést a kötelezett a határozatban szereplő határidőig nem végezte el, az élelmiszerlánc-felügyeleti szerv a határidő leteltét követő 7 napon belül tájékoztatja erről a hegybírót.
+
+5/A. § (1) Az egyéb szőlő területének használója, ennek hiányában tulajdonosa (e § alkalmazásában a továbbiakban együtt: egyéb szőlő használója) köteles a szőlőt rendeltetésének megfelelően művelni.
+
+(2) Az (1) bekezdés szerinti kötelezettséget a hegybíró és a hegyközség választmányának legalább egy tagja közösen elvégzett helyszíni szemle keretében jogosult ellenőrizni, ismert ügyfél esetében előzetes értesítést követően, ha
+
+- a) az élelmiszerlánc-felügyeleti szervnek az (EU) 2016/2031 európai parlamenti és tanácsi rendelet 18. cikke szerinti körülhatárolt terület kijelöléséről szóló határozata alapján az egyéb szőlő területe a körülhatárolt területbe esik, vagy
+- b) az országos főállatorvos az Éltv. 42. § (4) bekezdés d) pontja szerinti, rendkívüli élelmiszerlánc-eseményre vonatkozó határozatában szőlő aranyszínű sárgaság növénybetegséget okozó grapevine flavescence dorée phytoplasma károsítóra figyelemmel növény-egészségügyi zárlati intézkedést rendelt el.
+
+(3) Az egyéb szőlő használója köteles a használatában álló egyéb szőlőt az egyéb szőlő fekvése szerint illetékes hegybírónak a (2) bekezdés a) pontja szerinti körülhatárolt terület kijelöléséről szóló határozat közhírré tételét követő 30 napon belül bejelenteni.
+
+(4) A (2) bekezdés esetén az eljárásra az 5. § (2)–(4) és (6)–(14) bekezdésében foglaltakat kell alkalmazni azzal, hogy mulasztási bírság nem szabható ki.
+
+5/B. § Járványügyi intézkedést grapevine flavescence dorée phytoplasma károsítóra figyelemmel elrendelő határozat esetén az Éltv. 42. § (3) bekezdésének alkalmazása szempontjából a nagyszámú ügyfél érintettsége vélelmezendő.
 
 6. § (1) Ha a szőlőtermést nem az ültetvény használója dolgozza fel, a szőlőtermés felvásárlásáról a felvásárló felvásárlási jegyet készít, amelyet megküld a hegybírónak. A felvásárlási jegy a felvásárlási okirat Áfa tv.-ben meghatározott adatain kívül tartalmazza
 
@@ -384,11 +402,13 @@ tekintetében.
 
 21. § (1) A szüretelt szőlő mennyiségének és cukortartalmának ellenőrzésére a HNT főtitkára éves tervet készít, amelyet minden borpiaci év május 31. napjáig megküld a miniszter részére. A miniszter az éves ellenőrzési tervet a következő borpiaci év kezdetéig jóváhagyja. A jóváhagyott ellenőrzési terv alapján a borászati hatóság és a hegybíró a helyszínen jogosult ellenőrizni a szüretelt és feldolgozott szőlő, valamint az előállított szőlőmust, sűrített szőlőmust és finomított szőlőmustsűrítmény mennyiségét és cukortartalmát.
 
-(2) A borászati hatóság helyszíni ellenőrzésre feljogosított kormánytisztviselője, valamint jelenlétében a hegybíró, hatósági ellenőrzés végzése során – az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 69. §-ában foglaltakon túl – jogosult
+(2) A borászati hatóság helyszíni ellenőrzésre feljogosított kormánytisztviselője, valamint jelenlétében a hegybíró, hatósági ellenőrzés végzése során – az Ákr. 69. §-ában foglaltakon túl – jogosult
 
 - a) az ellenőrzés tárgyát képező vagy azzal kapcsolatos iratokról, dokumentációról, adathordozókról – az adatvédelemre, valamint a titoktartásra vonatkozó jogszabályok figyelembevételével – másolatot, illetve kivonatot készíteni,
 - b) hatósági mintavétel esetén az ügyfél kérésére – az e törvény végrehajtására kiadott rendeletben, valamint az Európai Unió közvetlenül alkalmazandó jogi aktusaiban meghatározott kivételek figyelembevételével – ellenmintát venni;
 - c) élelmiszerlánc-esemény alapos gyanúja esetén, továbbá élelmiszerlánc-esemény elhárítása, illetve a felügyeleti díj bevallási és fizetési kötelezettség ellenőrzése érdekében a lezárt terület, épület, helyiség felnyitásával, az ott tartózkodó személyek akarata ellenére, illetve a jogosult távollétében is a lezárt ingatlanok területére, üzlethelyiségbe, üzemi helyiségbe belépni és ott az ellenőrzést lefolytatni akkor is, ha azok egyidejűleg lakás céljára szolgálnak, továbbá szállítóeszközöket, dokumentációt, számviteli bizonylatokat ellenőrizni.
+
+(2a) Az 5. § (1) és (4) bekezdése, valamint az 5/A. § (1) bekezdése szerinti kötelezettség teljesítésének ellenőrzése érdekében a hegybíró és a hegyközség választmányának egy tagja jogosult a (2) bekezdés szerinti eljárási cselekmények foganatosítására.
 
 (3) A borászati hatóság az Éltv. 44. § (2)–(7) bekezdésében foglaltak alkalmazásával próbavásárlást végezhet.
 
@@ -501,6 +521,8 @@ esetén.
 
 25. § A 17. § (5) bekezdésében foglalt rendelkezés nem alkalmazható az e törvény hatálybalépésekor már forgalomban levő termékek esetében.
 
+25/A. § Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvénynek, valamint a szőlészetről és borászatról szóló 2020. évi CLXIII. törvénynek a szőlő aranyszínű sárgaság növénybetegséggel kapcsolatos módosításáról szóló 2026. évi LXVII. törvénnyel (a továbbiakban: Módtv.) megállapított 5/A. § (3) bekezdése szerinti bejelentési kötelezettségnek a Módtv. hatálybalépését követő 30. napig kell eleget tenni, amennyiben az 5/A. § (2) bekezdés a) pontja szerinti körülhatárolt terület kijelöléséről szóló határozat közhírré tételére a Módtv. hatálybalépésének napját megelőzően került sor.
+
 26. § E törvény
 
 - a) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról és a 922/72/EGK, a 234/79/EGK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet,
@@ -508,6 +530,7 @@ esetén.
 - c) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a szőlőtelepítésekre vonatkozó engedélyezési rendszer, a tanúsítás, a bevételezési és kiadási nyilvántartás, a kötelező bejelentések és értesítések tekintetében, valamint az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a releváns ellenőrzések tekintetében történő alkalmazására vonatkozó szabályok megállapításáról, továbbá az (EU) 2015/561 bizottsági végrehajtási rendelet hatályon kívül helyezéséről szóló, 2017. december 11-i (EU) 2018/274 bizottsági végrehajtási rendelet,
 - d) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek a borágazati eredetmegjelölésekre, földrajzi jelzésekre és hagyományos kifejezésekre vonatkozó oltalom iránti kérelmek, a kifogásolási eljárás, a használatra vonatkozó korlátozások, a termékleírások módosítása, az oltalom törlése, valamint a címkézés és a kiszerelés tekintetében történő kiegészítéséről szóló, 2018. október 17-i (EU) 2019/33 felhatalmazáson alapuló bizottsági rendelet,
 - e) az 1308/2013/EU európai parlamenti és tanácsi rendeletnek az alkoholtartalom-növelés engedélyezésére vonatkozó lehetőség által érintett szőlőtermő területek, az engedélyezett borászati eljárások és a szőlőből készült termékek előállítására és tartósítására alkalmazandó korlátozások, a melléktermékek százalékos arányban megadott minimális alkoholtartalma és a melléktermékek kivonása, valamint az OIV adatlapjainak közzététele tekintetében történő kiegészítéséről szóló, 2019. március 12-i (EU) 2019/934 felhatalmazáson alapuló bizottsági rendelet
+- f) a növénykárosítókkal szembeni védekező intézkedésekről, a 228/2013/EU, a 652/2014/EU és az 1143/2014/EU európai parlamenti és tanácsi rendelet módosításáról, valamint a 69/464/EGK, a 74/647/EGK, a 93/85/EGK, a 98/57/EK, a 2000/29/EK, a 2006/91/EK és a 2007/33/EK tanácsi irányelv hatályon kívül helyezéséről szóló, 2016. október 26-i (EU) 2016/2031 európai parlamenti és tanácsi rendelet
 
 végrehajtásához szükséges rendelkezéseket állapítja meg.
 
