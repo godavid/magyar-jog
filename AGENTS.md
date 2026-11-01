@@ -6,7 +6,7 @@ Parliament** (4,300+ acts, 1827–today), maintained as a git repository:
 - `jogszabalyok/<slug>/szoveg.md` — consolidated text of one act (HEAD = current state)
 - `jogszabalyok/<slug>/meta.json` — identifiers, title, source URL, list of point-in-time versions
 - `jogszabalyok/<slug>/allapotok.json` — versions of this act: `[{datum, verzio, sha}]`
-- `index/jogszabalyok.json` — list of all acts: slug, documentId, megjelölés (official designation), cím (title), rövidítés (abbreviation)
+- `index/jogszabalyok.json` — list of all acts: `[{slug, documentId, megjeloles, cim, rovidites}]` (official designation, title, abbreviation)
 - `index/allapotok.json` — all versions of all acts (4+ MB; prefer the per-act file)
 - `index/felvetel/YYYY-MM.jsonl` — **ingestion log**: one line per version added, with the time it entered the repo
 
@@ -55,8 +55,11 @@ git blame -L 120,140 -- jogszabalyok/<slug>/szoveg.md
 cat index/felvetel/2026-09.jsonl | jq -c 'select(.felveve > "2026-09-15T00:00:00Z")'
 ```
 
-Sections (§) are Markdown headings (`##`–`####`). A heading such as `18. § [Elővásárlási jog]`
-has the anchor `18-sz-elovasarlasi-jog` on the website (`/jogszabaly/<slug>#<anchor>`).
+Structural units (book, part, chapter, subtitle) and many sections (§) are Markdown headings (`##`–`####`),
+but not all: in many acts a § is plain text (e.g. `18. § (1) …`) under the nearest heading, and some acts have no headings at all.
+A heading such as `6:272. § [Megbízási szerződés]` (Ptk.) has the anchor `6-272-sz-megbizasi-szerzodes` on the
+website (`/jogszabaly/<slug>#<anchor>`). To get a § by number, call `szakasz` with `paragrafus` (e.g. `18. §`);
+do not build the anchor yourself.
 
 ## Caveats
 
