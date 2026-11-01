@@ -2553,16 +2553,16 @@ felhasznált, évente hektáronként legfeljebb 97 liter gázolaj megfizetett ad
 
 145. § (1) A jövedéki adó mértéke
 
-- a) a cigarettára 32 300 forint/ezer darab és a kiskereskedelmi eladási ár 24 százaléka, de legalább 45 200 forint/ezer darab,
-- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 5 230 forint/ezer darab,
-- c) a finomra vágott fogyasztási dohányra és az egyéb fogyasztási dohányra 28 060 forint/kilogramm,
-- d) a töltőfolyadékra 36 forint/milliliter,
-- e) az új dohánytermék-kategóriák dohányt tartalmazó vagy dohánnyal együtt fogyasztott
-  - ea) egyszer használatos termékeire 38 forint/darab (szál),
-  - eb) folyadékára 76 forint/milliliter,
-- f) a füst nélküli dohánytermékre 28 060 forint/kilogramm,
-- g) a dohányzást helyettesítő nikotintartalmú termékre 28 060 forint/kilogramm,
-- h) a hevített termékre 38 forint/darab (szál).
+- a) a cigarettára 36 720 forint/ezer darab és a kiskereskedelmi eladási ár 24 százaléka, de legalább 59 800 forint/ezer darab,
+- b) a szivarra, a szivarkára a kiskereskedelmi eladási ár 14 százaléka, de legalább 6 100 forint/ezer darab,
+- c) a finomra vágott fogyasztási dohányra és az egyéb fogyasztási dohányra 32 200 forint/kilogramm és a kiskereskedelmi eladási ár 5 százaléka,
+- d) a töltőfolyadékra 41 forint/milliliter,
+- e) az új dohánytermék-kategóriák dohányt tartalmazó, vagy dohánnyal együtt fogyasztott
+  - ea) egyszer használatos termékeire 50 forint/darab (szál),
+  - eb) folyadékára 100 forint/milliliter,
+- f) a füst nélküli dohánytermékre 32 200 forint/kilogramm,
+- g) a dohányzást helyettesítő nikotintartalmú termékre 31 610 forint/kilogramm,
+- h) a hevített termékre 50 forint/darab (szál).
 
 (1a) A 2025. évet követően az adó mértéke az (1) bekezdés szerinti esetekben a tárgyévet megelőző évi adó mértékének a tárgyévet megelőző év július hónapjára vonatkozó, a Központi Statisztikai Hivatal által közzétett fogyasztóiár-index előző év azonos időszakához viszonyított változásával valorizált összege. Az (1) bekezdés d)–e) és h) pontja szerinti adómértékeket 1 forintra, az (1) bekezdés a)–c) és f)–g) pontja szerinti adómértékeket 10 forintra kerekítve kell megállapítani. Az előbbiek szerint megállapított adómértékeket az állami adó- és vámhatóság internetes honlapján a tárgyévet megelőző év október 31-ig közzéteszi.
 
