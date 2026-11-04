@@ -468,7 +468,7 @@ iratkezelésére és irataira, továbbá mindezek jogelődeinek, a jogelődei á
 
 22. § (1) A közlevéltárban őrzött, a keletkezés naptári évétől számított harminc éven túli levéltári anyagban – a 24. §-ban és a 25. §-ban foglalt kivételekkel –, továbbá időbeli korlátozás nélkül abban a levéltári anyagban, amelyet már jogszerűen nyilvánosságra hoztak, vagy amelynek tartalma az adatvédelmi jogszabályok rendelkezései alapján bárki számára kutatható, a kutatni kívánt téma megjelölését tartalmazó kérelemre bármely természetes személy ingyenesen kutathat és a kutatásra kiadott levéltári anyagról saját költségén másolatot készíttethet.
 
-(2) A közlevéltár az őrizetében lévő levéltári anyagban kutatást végző személy részére – a kutatás megkezdése előtt – látogatói jegyet ad ki. A látogatói jegy tartalmazza a kutató természetes személyazonosító adatait és lakcímét. A látogatói jegy az adott közlevéltárban – évenkénti meghosszabbítással – folyamatosan használható.
+(2) A közlevéltár az őrizetében lévő levéltári anyagban kutatást végző személy (a továbbiakban: kutató) részére – a kutatás megkezdése előtt – látogatói jegyet ad ki. A látogatói jegy tartalmazza a kutató természetes személyazonosító adatait és lakcímét. A látogatói jegy az adott közlevéltárban – évenkénti meghosszabbítással – folyamatosan használható.
 
 (3) A látogatói jegy kiadásakor a közlevéltár nyilvántartásba veszi a kutató természetes személyazonosító adatait és lakcímét.
 
@@ -476,7 +476,7 @@ iratkezelésére és irataira, továbbá mindezek jogelődeinek, a jogelődei á
 
 23. § A keletkezés naptári évétől számított harminc év lejárta előtt is folytatható kutatás, ha azt az átadó szerv vagy annak az érintett levéltári anyag tekintetében illetékes jogutódja hozzájárulásával a levéltári anyagot őrző levéltár engedélyezi. Jogutód nélkül megszűnt szerv levéltári anyagában a kutatást a levéltári anyagot őrző közlevéltár engedélyezi.
 
-24. § (1) Ha törvény másként nem rendelkezik, a személyes adatot tartalmazó levéltári anyag az érintett halálozási évét követő harminc év után válik bárki számára kutathatóvá. A védelmi idő
+24. § (1) Ha törvény másként nem rendelkezik, a személyes adatot tartalmazó levéltári anyag az érintett halálozási évét követő öt év után válik bárki számára kutathatóvá. A védelmi idő
 
 - a) az érintett születésétől számított kilencven év, ha a halálozás ténye és annak ideje nem ismert, és az csak aránytalanul nagy erőfeszítéssel volna megállapítható, vagy
 - b) a levéltári anyag keletkezésétől számított hatvan év, ha az érintett születésének és halálozásának időpontja egyaránt nem ismert és azok ideje csak aránytalanul nagy erőfeszítéssel volna megállapítható.
