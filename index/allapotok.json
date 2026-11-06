@@ -145222,6 +145222,11 @@
       "datum": "2026-03-20",
       "verzio": 1,
       "sha": "03e15e711277d8008a00fa2df72c726c97f3429d"
+    },
+    {
+      "datum": "2026-04-24",
+      "verzio": 2,
+      "sha": "5abbb58adf7b013221333efba861a7fbb92346a3"
     }
   ],
   "2026-evi-vii-torveny": [
