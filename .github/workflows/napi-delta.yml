@@ -1,7 +1,9 @@
 # Napi delta — az aznap hatályba lépő új időállapotok commitolása.
-# Ez a fájl a magyar-jog adat-repo .github/workflows/ könyvtárában él;
-# a feldolgozó kód a godavid/gitjog repóból jön. Titok nem kell: a beépített
-# GITHUB_TOKEN commitol (contents: write) és riaszt issue-val (issues: write).
+# Ez a fájl a godavid/gitjog repó packages/pipeline/adatrepo/napi-delta.yml
+# másolata; a kettőt egy körben kell frissíteni (a gitjog kapuk.yml heti
+# `cmp`-je jelzi az elcsúszást). A beépített GITHUB_TOKEN commitol
+# (contents: write) és riaszt issue-val (issues: write). Az egyetlen titok az
+# opcionális NYILT_DB_URL a keresőindex-szinkronhoz; ha nincs, a delta kihagyja.
 name: Napi delta
 
 on:
@@ -39,11 +41,11 @@ jobs:
           path: kod
           persist-credentials: false
 
-      - uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+      - uses: pnpm/action-setup@73e46992e05b19abd31f2f3c20e0e7370d762115 # v6.1.1
         with:
-          version: 11
+          version: 12
 
-      - uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: 24
           cache: pnpm
@@ -64,3 +66,9 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           # keresőindex-szinkron; ha nincs beállítva, a delta kihagyja
           NYILT_DB_URL: ${{ secrets.NYILT_DB_URL }}
+
+      - name: Index-integritás
+        working-directory: kod
+        run: pnpm --filter @gitjog/pipeline index-ellenorzes
+        env:
+          NYILT_ADAT_REPO_DIR: ${{ github.workspace }}/adat
