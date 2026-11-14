@@ -1254,6 +1254,8 @@ közös szabályai
 
 (6) A Vet. szerinti integrált erőműépítési és környezetvédelmi engedélyezési eljárás részét képező környezeti hatásvizsgálat lefolytatására irányuló eljárásban az ügyintézési határidő nyolcvanöt nap.
 
+(7) Amennyiben a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló kormányrendeletben meghatározott nemzetközi környezeti hatásvizsgálati eljárásra kerül sor, a folyamatban lévő környezetvédelmi hatósági eljárás tekintetében az eljárásra irányadó ügyintézési határidő a nemzetközi környezeti hatásvizsgálati eljárás lezárásáról és eredményéről szóló tájékoztatásnak a környezetvédelmi hatósághoz történő megérkezését követő harmincadik napon, de legkorábban az irányadó ügyintézési határidők utolsó napján jár le. A nemzetközi környezeti hatásvizsgálati eljárással összefüggésben az általános közigazgatási rendtartásról szóló 2016. évi CL. törvény 48. § (1) bekezdés b) pontja szerinti felfüggesztésnek nincs helye.
+
 91/A. § (1) A külön jogszabály szerinti kármentesítési eljárás során a kivizsgálást – a kockázat mérlegelése alapján – a lehető leghamarabb meg kell kezdeni és kilencven napon belül le kell folytatni.
 
 (2) A külön jogszabály szerinti kármentesítési eljárás során a környezetvédelmi hatóság hatvan napon belül dönt és határozatot hoz
@@ -1593,6 +1595,8 @@ A KÖRNYEZETVÉDELEMBEN
 (6a) Nem minősül birtoklásban történő jogalap nélküli háborításnak, valamint mások, különösen a szomszédok szükségtelen zavarásának vagy jogaik gyakorlása veszélyeztetésének a jelentős tömeget mozgató, nemzetgazdasági, turisztikai, kulturális, szabadidős vagy sport szempontból kiemelkedő jelentőségű rendezvény vagy esemény zajkibocsátása, ha a jogszabályban, valamint az arra vonatkozó hatósági engedélyben meghatározott zajkibocsátási határértéket nem lépi túl.
 
 (6b) E törvénynek az egyes energetikai tárgyú törvények módosításáról szóló 2024. évi LXXXIX. törvénnyel megállapított 106. § (3)–(3c) bekezdésében foglaltakat hatálybalépésüket követően indult ügyekben kell alkalmazni.
+
+(6c) A környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény módosításáról szóló 2026. évi LXXI. törvénnyel (a továbbiakban: Módtv.) megállapított 91. § (7) bekezdését a Módtv. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.
 
 (7) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 

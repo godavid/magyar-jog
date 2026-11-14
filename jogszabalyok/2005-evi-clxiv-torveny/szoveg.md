@@ -175,7 +175,7 @@ köteles ügyfélszolgálat működtetéséről gondoskodni személyes, valamint
 
 (2a) A kereskedő az üzlet nyitvatartási idejének megváltozását a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló 2023. évi CIII. törvényben meghatározott írásbeli kapcsolattartás mellett a kereskedelmi hatóságnak elektronikus levelezési címén keresztül is bejelentheti.
 
-(3) December 24-én – a vendéglátó üzletek, szálláshelyek, a virág-, az édességüzletek és az üzemanyagtöltő állomások, továbbá a közforgalmú vasúti és buszpályaudvaron, repülőtéren, illetve az üzemanyagtöltő állomáson belül működő üzletek kivételével – az üzletek 14 óráig tarthatnak nyitva.
+(3)
 
 (4) A települési (Budapesten a kerületi) önkormányzat képviselő-testülete – a helyi sajátosságok figyelembevételével – rendeletben szabályozhatja
 
