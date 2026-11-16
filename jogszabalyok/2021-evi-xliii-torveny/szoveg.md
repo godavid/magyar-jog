@@ -36,7 +36,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 - 24. magánnyugdíjpénztár;
 - 25. egyéni cég;
 - 26. egyesület – a párt, a szakszervezet és a kölcsönös biztosító egyesület kivételével;
-- 27. az alapítvány – a közalapítvány és a pártalapítvány kivételével;
+- 27. az alapítvány, ideértve a vagyonkezelő alapítványt – a közalapítvány és a pártalapítvány kivételével;
 - 28. köztestület és
 - 29. jogszabály alapján a költségvetési szervek gazdálkodására vonatkozó szabályokat alkalmazó jogi személy, amennyiben annak állami vagy önkormányzati tulajdoni hányada közvetlenül, vagy a Ptk. 8:2. § (4) bekezdésében meghatározott módon közvetve nem éri el a 75%-ot.
 - 30. zártkörű befektetési alap.
@@ -70,28 +70,29 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 - 5. hatóság: a pénzügyi információs egységként működő hatóság, a nyomozó hatóság, az általános rendőrségi feladatok ellátására létrehozott szerv, a nemzetbiztonsági szolgálatok, a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, továbbá az állami adó- és vámhatóság;
 - 6. központi bankszámla- és széfnyilvántartás: a fizetésiszámla- és a széfszolgáltatási szerződések adataira vonatkozó nyilvántartás;
 - 7. központi nyilvántartások: a tényleges tulajdonosi nyilvántartás és a központi bankszámla- és széfnyilvántartás;
-- 8. nemzeti nyilvántartási szám: a tényleges tulajdonosi nyilvántartásban az adatszolgáltatóhoz hozzárendelt egyedi azonosító;
+- 8. nemzeti nyilvántartási szám: a tényleges tulajdonosi nyilvántartásban a nyilvántartott szervezethez hozzárendelt egyedi azonosító;
+- 8a. nyilvántartott szervezet: az adatszolgáltató, a bizalmi vagyonkezelési jogviszony és a vagyonkezelő alapítványokról szóló törvény szerint létrejött tartós vagyonkezelési jogviszony;
 - 9. pénzügyi információs egységként működő hatóság: a Pmt. 3. § 27. pontjában meghatározott hatóság;
 - 10. számlavezető: a pénzforgalmi szolgáltatás nyújtásáról szóló 2009. évi LXXXV. törvény szerinti fizetési számlát vezető szolgáltató;
 - 11. széfszolgáltató: a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény szerint meghatározott széfszolgáltatást nyújtó szolgáltató;
 - 12. szolgáltató: a Pmt. 1. § (1) és (1a) bekezdésében meghatározott szolgáltató;
 - 13. tényleges tulajdonos: az adatszolgáltató Pmt. 3. § 38. pont a) és b), valamint d)–g) alpontja szerint meghatározott tényleges tulajdonosa;
-- 14. tényleges tulajdonosi nyilvántartás: az e törvény hatálya alá tartozó adatszolgáltatók és a bizalmi vagyonkezelési jogviszonyok Pmt. szerinti tényleges tulajdonosi adatait tartalmazó nyilvántartás;
-- 15. TT index: a tényleges tulajdonosi központi nyilvántartásban az adatszolgáltató tényleges tulajdonosi adatához rendelt, annak megbízhatósági szintjét jelző, 1–10 közötti értékű mutatószám.
+- 14. tényleges tulajdonosi nyilvántartás: a nyilvántartott szervezetek Pmt. szerinti tényleges tulajdonosi adatait tartalmazó nyilvántartás;
+- 15. TT index: a tényleges tulajdonosi központi nyilvántartásban a nyilvántartott szervezet tényleges tulajdonosi adatához rendelt, annak megbízhatósági szintjét jelző, 1–10 közötti értékű mutatószám.
 
 ### II. Fejezet — A TÉNYLEGES TULAJDONOSI NYILVÁNTARTÁS
 
 #### 3. A tényleges tulajdonosi nyilvántartás általános szabályai
 
-4. § (1) A tényleges tulajdonosi nyilvántartás az adatszolgáltatók alábbi adatait tartalmazza:
+4. § (1) A tényleges tulajdonosi nyilvántartás a nyilvántartott szervezetek alábbi adatait tartalmazza:
 
-- a) az adatszolgáltató nemzeti nyilvántartási száma;
-- b) az adatszolgáltató neve, rövidített neve;
-- c) az adatszolgáltató székhelye, természetes személy bizalmi vagyonkezelő esetén lakcíme, ennek hiányában tartózkodási helye;
-- d) ha ilyennel rendelkezik, az adatszolgáltató adószáma;
-- e) cégbírósági nyilvántartásban szereplő adatszolgáltató cégjegyzékszáma, egyéb adatszolgáltató esetén a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
-- f) ha ilyennel rendelkezik, az adatszolgáltató európai egyedi azonosítója;
-- g) az adatszolgáltató tényleges tulajdonosának vagy tulajdonosainak
+- a) a nyilvántartott szervezet nemzeti nyilvántartási száma;
+- b) a nyilvántartott szervezet neve, rövidített neve;
+- c) a nyilvántartott szervezet székhelye, természetes személy bizalmi vagyonkezelő esetén lakcíme, ennek hiányában tartózkodási helye;
+- d) ha ilyennel rendelkezik, a nyilvántartott szervezet adószáma;
+- e) cégbírósági nyilvántartásban szereplő adatszolgáltató cégjegyzékszáma, egyéb nyilvántartott szervezet esetén a létrejöttéről (nyilvántartásba vételéről, bejegyzéséről) szóló határozat száma vagy nyilvántartási száma;
+- f) ha ilyennel rendelkezik, a nyilvántartott szervezet európai egyedi azonosítója;
+- g) a nyilvántartott szervezet tényleges tulajdonosának vagy tulajdonosainak
   - ga) családi és utóneve;
   - gb) születési családi és utóneve;
   - gc) állampolgársága;
@@ -112,15 +113,15 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 7. § (1) Az adatszolgáltató által fizetési számla vezetéséhez kapcsolódóan a Pmt. 9. §-a vagy 12. § (3) bekezdése szerint teljesített adatszolgáltatást vagy a 12. § (3) és (4) bekezdése szerint az adatszolgáltató által megtett adatmegerősítést követően a számlavezető a tárgyhó utolsó napján nyilvántartásaiban rendelkezésre álló, a 4. § (1) bekezdés b)–g) pontjai szerinti adatokat, valamint az egyes adatok rögzítésének dátumát minden naptári hónap utolsó napját követő 5 napon belül továbbítja a nyilvántartó szervnek a nyilvántartó szerv által meghatározott módon.
 
-(2) A nyilvántartó szerv a 4. § (1) bekezdésében meghatározott adatoknak a nyilvántartásba első alkalommal történő rögzítésének időpontjában nemzeti nyilvántartási számot hoz létre, amelyet hozzárendel ahhoz az adatszolgáltatóhoz, amelynek a 4. § (1) bekezdés b)–g) pontban meghatározott adatai a nyilvántartásba beérkeztek.
+(2) A nyilvántartó szerv a 4. § (1) bekezdésében meghatározott adatoknak a nyilvántartásba első alkalommal történő rögzítésének időpontjában nemzeti nyilvántartási számot hoz létre, amelyet hozzárendel ahhoz a nyilvántartott szervezethez, amelynek a 4. § (1) bekezdés b)–g) pontban meghatározott adatai a nyilvántartásba beérkeztek.
 
-(3) A nyilvántartó szerv rögzíti tényleges tulajdonosi nyilvántartásban a 4. § (1) bekezdésében meghatározott valamennyi adatot és azok változását, valamint az adatbenyújtás és az adatváltoztatás időpontját. A nyilvántartó szerv egy adott adatszolgáltatóról érkező több adatszolgáltatásból azokat az adatokat rögzíti, amelyeket a számlavezető későbbi időpontban rögzített.
+(3) A nyilvántartó szerv rögzíti tényleges tulajdonosi nyilvántartásban a 4. § (1) bekezdésében meghatározott valamennyi adatot és azok változását, valamint az adatbenyújtás és az adatváltoztatás időpontját. A nyilvántartó szerv egy adott nyilvántartott szervezetről érkező több adatszolgáltatásból azokat az adatokat rögzíti, amelyeket a számlavezető későbbi időpontban rögzített.
 
 (4) A tényleges tulajdonosi nyilvántartásban az (1) bekezdés szerinti adattovábbítás alapján rögzített tényleges tulajdonosi adatok TT indexe 10 pont.
 
-(5) A számlavezetőt jóhiszeműsége esetén akkor sem terheli polgári jogi vagy büntetőjogi felelősség az (1) bekezdésben meghatározott adattovábbítás vonatkozásában, ha az adatszolgáltató tényleges tulajdonosi adatai a 12. §-ban meghatározottak alapján „bizonytalan” vagy „megbízhatatlan” minősítést kapnak, vagy ha az adatszolgáltató vonatkozásában a 13–14. § alapján jogkövetkezmények kerülnek alkalmazásra.
+(5) A számlavezetőt jóhiszeműsége esetén akkor sem terheli polgári jogi vagy büntetőjogi felelősség az (1) bekezdésben meghatározott adattovábbítás vonatkozásában, ha a nyilvántartott szervezet tényleges tulajdonosi adatai a 12. §-ban meghatározottak alapján „bizonytalan” vagy „megbízhatatlan” minősítést kapnak, vagy ha a nyilvántartott szervezet vonatkozásában a 13–14. § alapján jogkövetkezmények kerülnek alkalmazásra.
 
-(6) A nyilvántartó szerv a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében az adatszolgáltatónak a tényleges tulajdonosi nyilvántartásban tárolt adatait az adatszolgáltató jogutód nélküli megszűnésétől számított 8 évig őrzi meg.
+(6) A nyilvántartó szerv a pénzmosás és a terrorizmus finanszírozása megelőzése és megakadályozása érdekében a nyilvántartott szervezetnek a tényleges tulajdonosi nyilvántartásban tárolt adatait a bizalmi vagyonkezelési jogviszony és a vagyonkezelő alapítványokról szóló törvény szerint létrejött tartós vagyonkezelési jogviszony megszűnésétől vagy az adatszolgáltató jogutód nélküli megszűnésétől számított 8 évig őrzi meg.
 
 #### 5. Hozzáférés a tényleges tulajdonosi nyilvántartásban tárolt adatokhoz
 
@@ -132,19 +133,19 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 - b) a Bűnügyi Együttműködés Európai Uniós Ügynökségének (Europol) és az Európai Csalás Elleni Hivatalnak (OLAF), valamint
 - c) harmadik ország hatóságának, ügyészségének, bíróságának, felügyeletet ellátó szervének, ha az adatkezelés megfelel a harmadik országok részére történő adatátadásra vonatkozó szabályokban foglalt feltételeknek.
 
-(2a) Jogszabályban meghatározott feladatainak ellátása érdekében az európai uniós források felhasználásával kapcsolatos irányító hatósági, nemzeti hatósági, közreműködő szervezeti vagy audit hatósági feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt minisztérium jogosult ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott adatszolgáltató tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ideértve a módosított korábbi adatokat, ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat és azok rögzítésének időpontját.
+(2a) Jogszabályban meghatározott feladatainak ellátása érdekében az európai uniós források felhasználásával kapcsolatos irányító hatósági, nemzeti hatósági, közreműködő szervezeti vagy audit hatósági feladatokat ellátó szerv, szervezet és az európai uniós források felhasználásáért felelős miniszter tevékenységének segítésére kijelölt minisztérium jogosult ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott nyilvántartott szervezet tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait, ideértve a módosított korábbi adatokat, ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat és azok rögzítésének időpontját.
 
 (2b) Az európai uniós költségvetési források felhasználásának ellenőrzéséről szóló 2022. évi XXVII. törvényben (a továbbiakban: Eufetv.) meghatározott feladatainak ellátása érdekében az Integritás Hatóság jogosult ingyenesen, a 21/B. §-a szerinti regisztráció nélkül, közvetlen adatkapcsolat keretében átvenni az általa a 4. § (1) bekezdés b) vagy d) pontja szerinti adatokkal meghatározott, az Eufetv. IV. Fejezete hatálya alá tartozó adatszolgáltató tényleges tulajdonosának a tényleges tulajdonosi nyilvántartásban tárolt természetes személyazonosító adatait és lakcímadatát.
 
-(3) A szolgáltató a számára a Pmt. 7–10. §-ában előírt ügyfél-átvilágítási intézkedések vagy a Pmt. 12. § (1) és (2) bekezdésében előírt adatellenőrzési kötelezettségek teljesítése érdekében ingyenesen, a nyilvántartó szerv által meghatározott módon hozzáférhet az adatszolgáltatók tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés a)–g) pontja szerinti adataihoz, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokhoz és azok rögzítésének időpontjához.
+(3) A szolgáltató a számára a Pmt. 7–10. §-ában előírt ügyfél-átvilágítási intézkedések vagy a Pmt. 12. § (1) és (2) bekezdésében előírt adatellenőrzési kötelezettségek teljesítése érdekében ingyenesen, a nyilvántartó szerv által meghatározott módon hozzáférhet a nyilvántartott szervezetek tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés a)–g) pontja szerinti adataihoz, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokhoz és azok rögzítésének időpontjához.
 
 (4) Az adatszolgáltató és a tényleges tulajdonos jogosult egyedi adatszolgáltatás keretében ingyenesen, a nyilvántartó szerv által meghatározott módon megismerni a tényleges tulajdonosi nyilvántartásban tárolt 4. § (1) bekezdés szerinti saját tényleges tulajdonosi adatait, valamint a 10. § (2) bekezdés és 11. § (2) bekezdés szerint közölt adatokat és azok rögzítésének időpontját. A tényleges tulajdonos egyedi adatszolgáltatási kérelmét – a tényleges tulajdonos meghatalmazása alapján – azon adatszolgáltató nyújtja be, amelynek tényleges tulajdonosa.
 
 (5)
 
-(6) Harmadik személy – az adatszolgáltatáshoz kapcsolódó arányos díj fizetése ellenében – a nyilvántartó szerv által meghatározott módon egyedi adatszolgáltatás keretében – anélkül, hogy erről értesítenék az érintett jogi személyt vagy kapcsolódó jogviszonyban érdekelt személyeket – megismerheti az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) és (2) bekezdése szerinti adatszolgáltató, valamint a bizalmi vagyonkezelési jogviszony tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait – ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat, valamint a módosított korábbi adatokat, beleértve az azon jogi személyek vagy jogviszonyok tényleges tulajdonosaira vonatkozó adatokat is, amelyek az előző 8 évben felszámolásra kerültek vagy megszűntek, ha az adat felhasználásának célját és az adat megismeréséhez fűződő vagy a pénzmosás és terrorizmus finanszírozása elleni küzdelemhez kapcsolódó jogos érdekét igazolja.
+(6) Harmadik személy – az adatszolgáltatáshoz kapcsolódó arányos díj fizetése ellenében – a nyilvántartó szerv által meghatározott módon egyedi adatszolgáltatás keretében – anélkül, hogy erről értesítenék az érintett jogi személyt vagy kapcsolódó jogviszonyban érdekelt személyeket – megismerheti az általa a 4. § (1) bekezdés b) pontja szerinti adatokkal meghatározott, az 1. § (1) és (2) bekezdése szerinti nyilvántartott szervezet tényleges tulajdonosának 4. § (1) bekezdés g) pontja szerinti adatait – ide nem értve a 10. § (2) bekezdése és 11. § (2) bekezdése szerint közölt adatokat, valamint a módosított korábbi adatokat, beleértve az azon jogi személyek vagy jogviszonyok tényleges tulajdonosaira vonatkozó adatokat is, amelyek az előző 8 évben felszámolásra kerültek vagy megszűntek, ha az adat felhasználásának célját és az adat megismeréséhez fűződő vagy a pénzmosás és terrorizmus finanszírozása elleni küzdelemhez kapcsolódó jogos érdekét igazolja.
 
-(6a) A (6) bekezdésben említett jogos érdek különösen igazoltnak tekintendő, ha az adatot igénylő harmadik személy és az adatigénylésben érintett adatszolgáltató, valamint a bizalmi vagyonkezelési jogviszony Pmt. szerinti valamely tényleges tulajdonosa
+(6a) A (6) bekezdésben említett jogos érdek különösen igazoltnak tekintendő, ha az adatot igénylő harmadik személy és az adatigénylésben érintett nyilvántartott szervezet Pmt. szerinti valamely tényleges tulajdonosa
 
 - a) a Ptk. 8:1. § (1) bekezdés 2. pontja szerinti hozzátartozói kapcsolatban áll,
 - b) ugyanazon jogi személy vagy jogi személyiséggel nem rendelkező szervezet tényleges tulajdonosa,
@@ -169,7 +170,7 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 (5) A miniszter a kiadott előzetes engedélyt a kérelem jóváhagyását követő 5 munkanapon belül a nyilvántartó szerv által meghatározott módon megküldi a nyilvántartó szervnek.
 
-(6) Az előzetes engedély egyszeri alkalommal biztosítja az abban meghatározott adatszolgáltatók tényleges tulajdonosi adatainak a megismerését, abban az esetben is, ha az adatigénylés nem az előzetes engedélyben megjelölt minden adatszolgáltató tényleges tulajdonosainak megismerésére vonatkozik.
+(6) Az előzetes engedély egyszeri alkalommal biztosítja az abban meghatározott nyilvántartott szervezetek tényleges tulajdonosi adatainak a megismerését, abban az esetben is, ha az adatigénylés nem az előzetes engedélyben megjelölt minden nyilvántartott szervezet tényleges tulajdonosainak megismerésére vonatkozik.
 
 (7) A nyilvántartó szerv a 8. § (6) és (7) bekezdése szerinti egyedi adatszolgáltatást az előzetes engedélyt alapul véve teljesíti.
 
@@ -189,12 +190,12 @@ E törvény célja a pénzügyi és egyéb szolgáltatók azonosítási feladat�
 
 (2) Ha a TT index értéke az (1) bekezdésben meghatározott eltérések jelzése következtében
 
-- a) 8 pont alá csökken, úgy az adatszolgáltató tényleges tulajdonosi adatai „bizonytalan” minősítést kapnak;
-- b) 6 pont alá csökken, úgy az adatszolgáltató tényleges tulajdonosi adatai – a (4) bekezdés szerinti tájékoztató adatszolgáltató általi átvételét követő 60 nap eredménytelen elteltét követően – „megbízhatatlan” minősítést kapnak.
+- a) 8 pont alá csökken, úgy a nyilvántartott szervezet tényleges tulajdonosi adatai „bizonytalan” minősítést kapnak;
+- b) 6 pont alá csökken, úgy a nyilvántartott szervezet tényleges tulajdonosi adatai – a (4) bekezdés szerinti tájékoztató adatszolgáltató általi átvételét követő 60 nap eredménytelen elteltét követően – „megbízhatatlan” minősítést kapnak.
 
-(3) Ha az adatszolgáltató tényleges tulajdonosi adatai a (2) bekezdés a) pontja alapján „bizonytalan” minősítést kapnak, a nyilvántartó szerv 5 munkanapon belül tájékoztatóban értesíti erről az adatszolgáltatót, és az e törvény szerinti jogkövetkezmények ismertetésével felhívja az adatszolgáltató figyelmét a tényleges tulajdonosi nyilvántartásban tárolt tényleges tulajdonosi adatok módosításának vagy megerősítésének lehetőségére a 7. §-ban meghatározottak szerint. A nyilvántartó szerv tájékoztatójában az adatszolgáltatóval nem közli a jelzést küldő személyét, valamint a 10. § (2) bekezdésében és a 11. § (2) bekezdésében meghatározott adatokat.
+(3) Ha a nyilvántartott szervezet tényleges tulajdonosi adatai a (2) bekezdés a) pontja alapján „bizonytalan” minősítést kapnak, a nyilvántartó szerv 5 munkanapon belül tájékoztatóban értesíti erről az adatszolgáltatót, és az e törvény szerinti jogkövetkezmények ismertetésével felhívja az adatszolgáltató figyelmét a tényleges tulajdonosi nyilvántartásban tárolt tényleges tulajdonosi adatok módosításának vagy megerősítésének lehetőségére a 7. §-ban meghatározottak szerint. A nyilvántartó szerv tájékoztatójában az adatszolgáltatóval nem közli a jelzést küldő személyét, valamint a 10. § (2) bekezdésében és a 11. § (2) bekezdésében meghatározott adatokat.
 
-(4) Ha az adatszolgáltató tényleges tulajdonosi adatainak TT indexének értéke 6 pont alá csökken, a nyilvántartó szerv 5 munkanapon belül tájékoztatóban értesíti erről az adatszolgáltatót, és az e törvény szerinti jogkövetkezmények ismertetésével felszólítja, hogy a tényleges tulajdonosi nyilvántartásban tárolt tényleges tulajdonosi adatok megerősítését vagy azok módosítását az értesítés átvételét követő 5 munkanapon belül végezze el számlavezetőjénél, a Pmt. 12. § (3) bekezdésében meghatározottak szerint.
+(4) Ha a nyilvántartott szervezet tényleges tulajdonosi adatainak TT indexének értéke 6 pont alá csökken, a nyilvántartó szerv 5 munkanapon belül tájékoztatóban értesíti erről az adatszolgáltatót, és az e törvény szerinti jogkövetkezmények ismertetésével felszólítja, hogy a tényleges tulajdonosi nyilvántartásban tárolt tényleges tulajdonosi adatok megerősítését vagy azok módosítását az értesítés átvételét követő 5 munkanapon belül végezze el számlavezetőjénél, a Pmt. 12. § (3) bekezdésében meghatározottak szerint.
 
 (5) Ha az adatszolgáltató megerősíti vagy módosítja a tényleges tulajdonosi adatait, a nyilvántartást vezető szerv a TT index értékét 10 pontra módosítja.
 

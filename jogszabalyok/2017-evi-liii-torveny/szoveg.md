@@ -105,7 +105,7 @@ meghatározott intézkedés.
   - a) egyes pénzügyi vagy befektetési szolgáltatások hitelintézet részére más hitelintézet általi biztosítása, ideértve különösen a fizetési számla vezetését, a készpénzellátást, a nemzetközi pénzátutalást, a csekkelszámolást és a devizaügyleteket,
   - b) kapcsolat kettő vagy több hasonló szolgáltatást nyújtó hitelintézet vagy pénzügyi szolgáltató között, ideértve különösen az értékpapírügyletek és a fizetési műveletek elszámolását, valamint a kriptoeszköz-szolgáltatás nyújtását;
 - 23a. megfelelési vezető: a szolgáltató 65. §-ban meghatározott belső szabályzatában kijelölt vezető beosztású foglalkoztatottja, aki a pénzmosás és a terrorizmusfinanszírozás megelőzésével és megakadályozásával kapcsolatos követelményeknek és elvárásoknak a szolgáltató foglalkoztatottjai általi végrehajtásáért felel;
-- 24. nemzeti kockázatértékelés: az a nemzeti szintű értékelés, amely alkalmas a pénzmosás és a terrorizmus finanszírozása kockázatainak feltárására, értékelésére, értelmezésére, azok folyamatos felülvizsgálatára, valamint a nemzeti kockázatkezelési eljárások meghatározására;
+- 24. nemzeti kockázatértékelés: az a nemzeti szintű értékelés, amely alkalmas a pénzmosás és a terrorizmus finanszírozása kockázatainak, valamint a proliferáció finanszírozásával kapcsolatos pénzügyi és vagyoni korlátozó intézkedések esetleges megsértése, megkerülése vagy végrehajtásának elmaradása kockázatainak feltárására, értékelésére, értelmezésére, azok folyamatos felülvizsgálatára, valamint a nemzeti kockázatkezelési eljárások meghatározására;
 - 25. pénzforgalmi intézmény: az Fsztv.-ben meghatározott pénzforgalmi intézmény, valamint a Posta Elszámoló Központot működtető intézmény;
 - 26. pénzmosás: a 2013. június 30-ig hatályban volt Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 303–303/A. §-ában, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 399–400. §-ában meghatározott elkövetési magatartások;
 - 27. pénzügyi információs egységként működő hatóság: a Nemzeti Adó- és Vámhivatal jogszabályban meghatározott szervezeti egysége;
@@ -149,7 +149,7 @@ meghatározott intézkedés.
   - b) az a természetes személy, aki jogi személyben vagy jogi személyiséggel nem rendelkező szervezetben – a Ptk. 8:2. § (2) bekezdésében meghatározott – meghatározó befolyással rendelkezik,
   - c) az a természetes személy, akinek megbízásából valamely ügyletet végrehajtanak, vagy aki egyéb módon tényleges irányítást, ellenőrzést gyakorol a természetes személy ügyfél tevékenysége felett,
   - d) alapítványok esetében az a természetes személy, da) aki az alapítvány vagyona legalább huszonöt százalékának a kedvezményezettje, ha a leendő kedvezményezetteket már meghatározták, vagy db) akinek érdekében az alapítványt létrehozták, illetve működtetik, ha a kedvezményezetteket még nem határozták meg, dc) aki tagja az alapítvány kezelő szervének, vagy meghatározó befolyást gyakorol az alapítvány vagyonának legalább huszonöt százaléka felett, vagy dd) a da)–dc) alpontban meghatározott természetes személy hiányában aki az alapítvány képviseletében eljár,
-  - e) bizalmi vagyonkezelési szerződés esetében az alábbi személyek: ea) a vagyonrendelő(k); nem természetes személy vagyonrendelő esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, eb) a vagyonkezelő(k); nem természetes személy vagyonkezelő esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, ec) a kedvezményezett vagy a kedvezményezettek csoportja; nem természetes személy kedvezményezett esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, ed) az a természetes személy, aki a kezelt vagyon felett egyéb módon ellenőrzést, irányítást gyakorol, valamint ee) adott esetben a vagyonkezelést ellenőrző személy(ek); nem természetes személy vagyonkezelést ellenőrző személy esetén annak a) vagy b) pont szerinti tényleges tulajdonosa, továbbá
+  - e) bizalmi vagyonkezelési szerződés és a vagyonkezelő alapítványokról szóló törvény szerint létrejött tartós vagyonkezelési jogviszony esetében az alábbi személyek: ea) a vagyonrendelő(k); az alapító(k); nem természetes személy vagyonrendelő vagy alapító esetén annak tényleges tulajdonosa, eb) a vagyonkezelő(k); nem természetes személy vagyonkezelő esetén annak tényleges tulajdonosa, az alapítvány ügyvezetését ellátó kuratórium tagja, ec) a kedvezményezett vagy a kedvezményezettek csoportja; nem természetes személy kedvezményezett esetén annak tényleges tulajdonosa, ed) az a természetes személy, aki a kezelt vagyon felett egyéb módon ellenőrzést, irányítást gyakorol, valamint ee) adott esetben a vagyonkezelést vagy vagyongazdálkodást ellenőrző személy(ek); nem természetes személy vagyonkezelést ellenőrző személy esetén annak tényleges tulajdonosa,
   - f) az a) és b) pontban meghatározott természetes személy hiányában a jogi személy vagy jogi személyiséggel nem rendelkező szervezet vezető tisztségviselője;
   - g) a 48. pont szerinti zártkörű befektetési alap tényleges tulajdonosa;
 - 38a. tényleges tulajdonosi nyilvántartás: a pénzügyi és egyéb szolgáltatók azonosítási feladatához kapcsolódó adatszolgáltatási háttér megteremtéséről és működtetéséről szóló 2021. évi XLIII. törvény (a továbbiakban: Afad-törvény) 3. § 14. pontjában meghatározott tényleges tulajdonosi nyilvántartás;
@@ -239,6 +239,8 @@ meghatározott intézkedés.
 
 6/B. § A pénzügyi szolgáltatók kizárólag olyan névre szóló bank- és fizetési számlákat, értékpapírszámlákat és ügyfélszámlákat, takarékbetétkönyveket és széfeket, virtuális fizetőeszköz-számlákat vezethetnek, amelyek esetében az ügyfél vagy az ügylet azonosítható. Amennyiben a pénzügyi szolgáltatóknál nem névre szóló bank- és fizetési számlák, takarékbetétkönyvek és széfek, vagy virtuális fizetőeszköz-számlák állnak fenn, azok tulajdonosaira és kedvezményezettjeire a 7. §-ban meghatározott ügyfél-átvilágítási intézkedéseket kell alkalmazni.
 
+6/C. § Amennyiben az ügyfél-átvilágítás során pénzmosásra, terrorizmus finanszírozására vagy dolog büntetendő cselekményből való származására utaló adat, tény, körülmény merül fel, a szolgáltató a 30. § (1) bekezdésében meghatározott bejelentés megtétele esetén jogosult alacsonyabb kockázati szintnek megfelelő ügyfél-átvilágítást elvégezni, amennyiben megítélése szerint a magasabb kockázati szintnek megfelelő ügyfél-átvilágítás elvégzése az 54. §-ban meghatározott tilalomba ütközne.
+
 #### 4. Ügyfél-átvilágítási intézkedések
 
 7. § (1) A szolgáltató köteles a 6. § (1) bekezdés a) és e)–h) pontjában meghatározott esetben az ügyfelet, annak a szolgáltatónál eljáró meghatalmazottját, rendelkezésre jogosultját, továbbá képviselőjét azonosítani és személyazonosságának igazoló ellenőrzését elvégezni.
@@ -297,6 +299,10 @@ meghatározott intézkedés.
 (10) A szolgáltató a (2)–(6) bekezdésben meghatározott intézkedéseket a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben foglaltak szerint is elvégezheti.
 
 (11) Az 5. §-ban meghatározott felügyeletet ellátó szerv a (10) bekezdésben meghatározottak végrehajtására útmutatót ad ki.
+
+7/A. § (1) Amennyiben a bizalmi vagyonkezelő bizalmi vagyonkezelői szerződés keretében eljárva létesít üzleti kapcsolatot vagy ad más szolgáltató részére a 6. § (1) bekezdés b)–e) pontjában meghatározott ügyleti megbízást, köteles közölni a szolgáltatóval a bizalmi vagyonkezelői jogállását és ennek változását.
+
+(2) A bizalmi vagyonkezelő az (1) bekezdésben meghatározott kötelezettségnek a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján vagy a digitális államról és a digitális szolgáltatások nyújtásának egyes szabályairól szóló törvényben foglaltak szerint is eleget tehet.
 
 8. § (1) A 6. § (1) bekezdésében meghatározott esetben a természetes személy ügyfél köteles – a szolgáltató által meghatározott módon – személyes megjelenéssel írásbeli nyilatkozatot tenni, vagy a szolgáltató által üzemeltetett, biztonságos, védett, az 5. §-ban meghatározott felügyeletet ellátó szerv által meghatározott módon, előzetesen auditált elektronikus hírközlő eszköz útján nyilatkozni, ha tényleges tulajdonos nevében vagy érdekében jár el.
 
@@ -445,10 +451,13 @@ haladéktalanul tájékoztatja.
 
 (3) A biztosító a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítások esetén az üzleti kapcsolat létesítését megelőzően az ügyfél és a tényleges tulajdonos azonosításán és személyazonosságának igazoló ellenőrzésén túlmenően köteles
 
-- a) a szerződés megkötésekor ismert kedvezményezett, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult nevét megállapítani, továbbá
-- b) a szerződés megkötésekor nem ismert kedvezményezettre, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosultra vonatkozó, a későbbi azonosításhoz szükséges valamennyi információt rögzíteni;
+- a) a szerződés megkötésekor ismert kedvezményezett, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult nevét megállapítani,
+- b) a szerződés megkötésekor nem ismert kedvezményezettre, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosultra vonatkozó, a későbbi azonosításhoz szükséges valamennyi információt rögzíteni, továbbá
+- c) a kedvezményezettre, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosultra vonatkozó információkat az ügyfél kockázati szintbe történő besorolása során figyelembe venni.
 
 (4) Ha a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítás kedvezményezettje, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosultak személye, továbbá a kedvezményezett által meghatározott teljesítés elfogadására jogosult személye a szerződés megkötésekor még nem ismert, a kedvezményezett, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult, továbbá a kedvezményezett által meghatározott teljesítés elfogadására jogosult személyazonosságának igazoló ellenőrzését legkésőbb a kifizetéssel egyidejűleg vagy a szerződésből (kötvényből) eredő jogoknak a jogosult általi érvényesítéséig lefolytatja.
+
+(4a) Amennyiben a Bit. 2. melléklete szerinti életbiztosítási ágba tartozó biztosítás kedvezményezettje, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult magas kockázatú jogi személy, a szolgáltató a kifizetés előtt a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedéseken túlmenően kockázatérzékenységi alapon további ügyfél-átvilágítási intézkedéseket végez, amelyek minden esetben magukban foglalják a kedvezményezett, illetve a biztosítási szerződés alapján a biztosító szolgáltatására jogosult tényleges tulajdonosának azonosítását és személyazonosságának ellenőrzését.
 
 (5) A fizetési számlanyitásra jogosult szolgáltató, valamint az ügyfélszámla, értékpapírszámla és értékpapír letéti számlanyitásra jogosult szolgáltató – abban az esetben, ha a jogszabályban foglalt feltételek fennállnak – jogosult a számla megnyitására, feltéve, ha biztosítja, hogy az ügyfél és a tényleges tulajdonos azonosítása és személyazonossága igazoló ellenőrzésének lefolytatásáig az ügyfél, valamint annak a szolgáltatónál eljáró meghatalmazottja, rendelkezésre jogosultja, továbbá képviselője nem végezhet műveletet.
 
@@ -556,7 +565,7 @@ meghatározott ügyfél-átvilágítási intézkedéseket – kockázatérzéken
 
 (2) A szolgáltató az (1) bekezdés b)–f) pontjában meghatározott esetekben a 7–12. §-ban meghatározott ügyfél-átvilágítási intézkedéseken túlmenően az alábbi ügyfél-átvilágítási intézkedéseket is köteles elvégezni:
 
-- a) az üzleti kapcsolat létesítésére kizárólag a szolgáltató kijelölt felelős vezetője jóváhagyását követően kerül sor,
+- a) az üzleti kapcsolat létesítésére vagy fenntartására kizárólag a szolgáltató kijelölt felelős vezetője jóváhagyását követően kerül sor,
 - b) az üzleti kapcsolat 11. § (1) bekezdésében meghatározott folyamatos figyelemmel kísérését a 65. § szerinti belső szabályzatban meghatározott megerősített eljárásban hajtja végre.
 
 (3) A szolgáltató az (1) bekezdés b)–f) pontjában meghatározott esetekben a (2) bekezdésben meghatározott ügyfél-átvilágítási intézkedések mellett a következő ügyfél-átvilágítási intézkedéseket alkalmazhatja:
@@ -718,6 +727,8 @@ vonatkozóan,
 
 27. § (1) Az e törvényben meghatározott kötelezettségek körébe tartozó feladatok teljesítésére a szolgáltató köteles az üzleti kapcsolat vagy ügyleti megbízás jellege és összege, valamint az ügyfél, termék, szolgáltatás, alkalmazott eszköz körülményei alapján – a szolgáltató jellegével és méretével arányos – a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok feltárása és a feltárt kockázathoz társított intézkedés meghatározása céljából belső kockázatértékelést készíteni.
 
+(1a) A szolgáltató az (1) bekezdésben foglaltakon túl köteles az új termék, szolgáltatás, üzleti gyakorlat, alkalmazott eszköz és technológia bevezetése vagy használata előtt a kockázatértékelést elvégezni, és annak eredményét rögzíteni a belső kockázatértékelésben.
+
 (2) Az (1) bekezdésben meghatározott belső kockázatértékelés elkészítéséhez a szolgáltató köteles a pénzmosással és a terrorizmus finanszírozásával, valamint a proliferáció finanszírozásával kapcsolatos kockázatok megállapítása és értékelése céljából feltárni és értékelni az üzleti kapcsolat vagy ügyleti megbízás jellegével és összegével, az ügyféllel, termékkel, szolgáltatással, földrajzi területtel és alkalmazott eszközzel kapcsolatos kockázati tényezőket.
 
 (3) Az (1) bekezdésben meghatározott belső kockázatértékelést a szolgáltató köteles írásban rögzíteni, naprakészen tartani és az illetékes hatóságok rendelkezésére bocsátani az engedélyezési, illetve a felügyeleti tevékenység gyakorlása során.
@@ -855,7 +866,7 @@ utaló adat, tény, körülmény (a továbbiakban együtt: bejelentés alapjául
 39. § A pénzügyi információs egység bejelentés alapjául szolgáló tény, adat, körülmény felmerülése esetén a 48. § (1) bekezdésében és a 49. § (1) bekezdésében meghatározott információtovábbítás teljesítése céljából operatív elemzést végez. A pénzügyi információs egység az operatív elemzése során:
 
 - a) összeveti a nemzeti kockázatértékelésben meghatározott kockázatok figyelembevételével a 40. §-ban meghatározottak szerint kapott információkat az elemző-értékelő tevékenység céljából kezelt adatokkal, és automatizált kockázatelemzést végez;
-- b) összeveti az e törvény, valamint az Unió területére belépő, illetve az Unió területét elhagyó készpénz ellenőrzéséről és az 1889/2005/EK rendelet hatályon kívül helyezéséről szóló 2018/1672 európai parlamenti és tanácsi rendelet végrehajtásáról szóló 2021. évi XLI. törvény (továbbiakban: készpénz ellenőrzéséről szóló törvény) alapján tudomására jutott információt, azon adatbázisok adatait, amelyekhez közvetlen hozzáféréssel rendelkezik, a nyilvános vagy bárki számára hozzáférhető adatokat, valamint az e törvény alapján beszerezhető adatokat, valamint az azok között fennálló összefüggéseket feltárja, értelmezi;
+- b) összeveti az e törvény, valamint a készpénz ellenőrzéséről szóló törvény alapján tudomására jutott információt, azon adatbázisok adatait, amelyekhez közvetlen hozzáféréssel rendelkezik, a nyilvános vagy bárki számára hozzáférhető adatokat, valamint az e törvény alapján beszerezhető adatokat, valamint az azok között fennálló összefüggéseket feltárja, értelmezi;
 - c) nyomon követi az a) pontban meghatározott adatokkal összefüggő pénzügyi műveleteket, folyamatokat, valamint az üzleti kapcsolatokat, ügyleti megbízásokat megvizsgálja;
 - d) dönt a 34. § (3) bekezdésében, a 35. § (4) bekezdésében, a 42–44. §-ban és a 46. §-ban meghatározottak végrehajtásának szükségességéről;
 - e) dönt az 49. §-ban meghatározott nemzetközi információcsere és együttműködés keretében alkalmazható intézkedésekről;
