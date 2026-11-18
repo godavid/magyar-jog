@@ -628,6 +628,14 @@ kapcsolatos feladatai ellátásához szükséges mértékben megilleti a fejezet
 
 (11) Az OBH elnöke az OBT-nek az OBT által a (3) bekezdés a) pontja szerint meghatározott költségvetésére vonatkozó javaslatát és az annak végrehajtására vonatkozó beszámolóját, változtatás nélkül rögzíti a bíróságok költségvetésére vonatkozó javaslatában és az annak végrehajtására vonatkozó beszámolójában.
 
+(11a) Az OBH elnöke a statisztikai adatgyűjtéssel kapcsolatos, a (4) bekezdés d) pontja szerinti feladatkörében eljárva minden év március 31. napjáig adatokat szolgáltat az igazságügyért felelős miniszter részére a megelőző naptári évben a közéleti részvételt akadályozó, visszaélésszerű bírósági eljárásokban alkalmazható eljárási biztosítékok tárgyában előterjesztett kérelmekről, és meghozott határozatokról összesített formában a következők szerint:
+
+- a) a vizsgált tárgyévben indított, a közéleti részvételt akadályozó, visszaélésszerű bírósági eljárások száma,
+- b) az érintett bírósági eljárások száma aszerinti bontásban, hogy
+  - ba) a felperes természetes vagy a polgári perrendtartásról szóló törvény szerinti nem természetes személy,
+  - bb) az alperes természetes vagy a polgári perrendtartásról szóló törvény szerinti nem természetes személy, valamint
+- c) a közéleti részvételt akadályozó, visszaélésszerű bírósági eljárásokban előterjesztett keresetek jogcímei.
+
 (12) Az OBH elnöke a statisztikai adatgyűjtéssel kapcsolatos, a (4) bekezdés d) pontja szerinti feladatkörében eljárva, az igazságügyért felelős miniszter megkeresésére a jogalkotás előkészítése, továbbá a jogszabályok hatályosulásának vizsgálata céljából egyedi, meghatározott célú statisztikai adatgyűjtés keretében tájékoztatja az igazságügyért felelős minisztert azokról az adatokról, amelyekből megállapítható a bíróságon folyamatban lévő és befejezett eljárás teljes időtartama az eljárás megindításától annak jogerős befejeződéséig, ideértve a bírósági eljárást megelőző, más szerv által lefolytatott hatósági vagy egyéb közhatalmi eljárás (a továbbiakban: megelőző eljárás), a rendes és a rendkívüli jogorvoslati eljárás, valamint a jogorvoslati eljárás alapján megismételt eljárás időtartamát is. Ezen adatgyűjtés alapján az eljárás teljes időtartama mellett annak is megállapíthatónak kell lennie, hogy annak kezdetétől a jogerős vagy végleges befejeződéséig meddig tartott a megelőző eljárás, illetve a bírósági eljárás.
 
 (12a) Az OBH elnöke a (8) bekezdés d) pontja szerinti feladatkörében az OBH kezelésében található összes anonimizált bírósági határozatot, ideértve azok teljes strukturált szövegét és az azokhoz kapcsolódó valamennyi metainformációt, az igazságügyért felelős miniszter részére folyamatosan, elektronikus úton, közvetlen rendszerkapcsolat biztosításával rendelkezésre bocsátja.
@@ -1708,13 +1716,23 @@ vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
 és a köztársasági elnök intézkedéseinek ellenjegyzésére vonatkozó rendelkezés
 
-175. § E törvény 1–8. §-a, 12–15. §-a, II. Fejezete, 7–12. alcíme, 41/A. és 41/B. §-a, 13. alcíme, 45. §-a, V. Fejezete, Harmadik és Negyedik Része, X., XI. és XIII/A. Fejezete, továbbá 197–197/B. §-a, 197/D. §-a, 197/E. §-a, 197/F. §-a, 207. §-a és 209. §-a az Alaptörvény 25. cikk (6) és (8) bekezdése alapján sarkalatosnak minősül.
+175. § E törvény
+
+- a) 1–8. §-a, 12–15. §-a, II. Fejezete, 7–12. alcíme, 41/A. és 41/B. §-a, 13. alcíme, 45. §-a, 19. alcíme, 21. alcíme, 23–25. alcíme, 89–102. §-a, 27–30. alcíme, 114. §-a, 117. §-a, 33–41. alcíme, IX–XI. Fejezete, XIII/A. Fejezete, 197–197/B. §-a, 197/D–197/F. §-a és 209. §-a az Alaptörvény 25. cikk (9) bekezdése,
+- b) 88. §-a, 31. alcíme az Alaptörvény 25. cikk (6) és (9) bekezdése,
+- c) 20. alcíme az Alaptörvény 25. cikk (6) bekezdése,
+- d) 22. alcíme az Alaptörvény 25. cikk (7) bekezdése,
+- e) 115. és 116. §-a az Alaptörvény 26. cikk (4) bekezdése
+
+alapján sarkalatosnak minősül.
 
 176. § A köztársasági elnöknek az e törvényben meghatározott tevékenysége során hozott döntéséhez és intézkedéséhez ellenjegyzés nem szükséges.
 
 #### 57/A. Az európai uniós követelményekre utaló rendelkezések
 
 176/A. § Ez a törvény a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 parlamenti és tanácsi irányelv 20. cikk (2) bekezdésének való megfelelést szolgálja.
+
+176/B. § A 76. § (11a) bekezdése, valamint a 163–166. § a közéletben részt vevő személyeknek a nyilvánvalóan megalapozatlan keresetekkel vagy visszaélésszerű bírósági eljárásokkal („közéleti részvételt akadályozó stratégiai perekkel”) szembeni védelméről szóló, 2024. április 11-i (EU) 2024/1069 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 ### XV. Fejezet — ÁTMENETI RENDELKEZÉSEK
 

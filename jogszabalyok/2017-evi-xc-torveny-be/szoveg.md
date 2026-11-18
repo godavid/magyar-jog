@@ -1827,7 +1827,7 @@ biztosítja.
 
 (3) Aki a nyilvánosság tájékoztatása céljából a bíróságtól, ügyészségtől vagy nyomozó hatóságtól tájékoztatást kér – ideértve a kép-, hang-, vagy a kép- és hangfelvétel készítésére vonatkozó engedélyt is –, indítványában köteles közölni a nevét, nem természetes személy esetén megnevezését, valamint elérhetőségét és azt, hogy a nyilvánosságot hogyan – különösen mely médiatartalom-szolgáltató vagy egyéb, az információs társadalommal összefüggő szolgáltatás útján – tájékoztatja.
 
-(4) A nyilvánosság tájékoztatására, illetve a büntetőeljárásról történő tájékoztatásra vonatkozó szabályok nem érintik a tárgyalás nyilvánosságára és a tárgyalás telekommunikációs eszköz útján történő nyomon követésére vonatkozó szabályok alkalmazását.
+(4)
 
 ### A nyilvánosság tájékoztatása a bíróság tárgyalásáról
 
@@ -6670,72 +6670,21 @@ zárt tárgyalást rendelhet el (a továbbiakban: zárt tárgyalás).
 
 (3) A bíróság nem hirdeti ki nyilvánosan azokat a határozat indokolásának részét képező adatokat, amelyek nyilvánosságra hozatala azon érdek sérelmét eredményezné, amelynek védelmében a zárt tárgyalást a bíróság elrendelte.
 
-### LXXI/A. Fejezet — HALLGATÓSÁG ONLINE JELENLÉTE A TÁRGYALÁSON
+### LXXI/A. Fejezet
 
-438/A. § (1) Ha annak a technikai feltételei fennállnak, a hallgatóság számára a nyilvános tárgyalás nyomon követése jogszabályban meghatározottak szerint, a bíróság által biztosított telekommunikációs eszköz útján is megvalósulhat (a továbbiakban: online hallgatóság).
+#### 438/A. §
 
-(2) A tárgyalás ideje alatt az eljáró bíróság és az online hallgatóság közötti egyirányú – a kapcsolatfelvétel szükségessége esetén kétirányú – kép- és hangkapcsolatot biztosító összeköttetést, az erre szolgáló informatikai rendszer működtetésével, az Országos Bírósági Hivatal biztosítja.
+#### 438/B. §
 
-(3) A tárgyalás online hallgatóság által történő nyomon követése esetén – ha jogszabály kivételt nem tesz – a használt telekommunikációs eszközzel felvételt kell rögzíteni.
+#### 438/C. §
 
-438/B. § (1) Az online hallgatóság létszáma legfeljebb száz személy lehet.
+#### 438/D. §
 
-(2) Az online hallgatóságnak a nyilvános tárgyalás nyomon követéséhez regisztrálnia kell. A regisztráció a Dáptv. szerinti eAzonosításhoz kötött.
+#### 438/E. §
 
-(3) A nyilvános tárgyaláson online hallgatóságként az első száz eredményesen regisztráló nagykorú természetes személy vehet részt.
+#### 438/F. §
 
-(4) A regisztráció eredménytelen, ha a jelentkező kifejezett nyilatkozatával nem fogadja el az online hallgatóságra vonatkozó szabályokat, valamint nem nyilatkozik arról, hogy a személyes adatok kezelésére vonatkozó tájékoztatást megismerte.
-
-438/C. § (1) A felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatót, valamint a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatóját vagy kutatóját – jogszabályban meghatározott – elsőbbségi regisztrációs jog illeti meg, ha tanulmányi, oktatási, vagy kutatási célból kíván online hallgatóságként a kitűzött tárgyaláson részt venni és hallgatói, oktatói, vagy kutatói minősége az oktatási nyilvántartásról szóló törvény szerinti felsőoktatási információs rendszer adatai alapján igazolást nyer.
-
-(2) Az oktató felel azért, hogy online hallgatóságként, illetve a megtekintett tárgyaláson történtek megvitatása során, a tanóra helyszínén
-
-- a) kizárólag egyénileg visszaigazolt regisztrációval rendelkező személyek legyenek jelen, valamint
-- b) ne legyen jelen olyan személy, akit online hallgatóként – az oktató tudomásával – a bíróság kizárt.
-
-438/D. § Az online hallgató a tárgyalásról kép- vagy hangfelvételt, illetve kép- és hangfelvételt nem készíthet, a tárgyalás nyomon követését más személynek egyidejű vagy késleltetett hozzáférés lehetővé tételével nem biztosíthatja, a tárgyalás anyagát más módon, részben vagy egészben nyilvánosságra nem hozhatja. Az online hallgatót előzetesen figyelmeztetni kell, hogy a tárgyalásról történő felvételkészítés illetve a felvétel, vagy a tárgyalás anyagának nyilvánosságra hozatala, valamint más személy részére a tárgyalás nyomon követésének bármilyen módon történő lehetővé tétele büntetőjogi, illetve polgári jogi felelősség megállapítását vonhatja maga után.
-
-438/E. § (1) A Dáptv. szerinti digitális állampolgárság szolgáltató a hallgatóságként regisztráló személy azonosíthatósága érdekében az eAzonosítást – valamint az f) és g) pont szerinti adatok tekintetében a személyi adat- és lakcímnyilvántartásból történő adatszolgáltatást – követően átadja az Országos Bírósági Hivatal részére a regisztráló személy következő azonosító adatait:
-
-- a) viselt neve,
-- b) születési neve,
-- c) születési helye,
-- d) születési ideje,
-- e) anyja neve,
-- f) lakcíme, valamint
-- g) arcképmása.
-
-(2) Az oktatási nyilvántartás vezetéséért felelős szerv – az eAzonosítást követően – tájékoztatást nyújt a felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatóként, illetve a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatóként vagy kutatóként regisztráló személy hallgatói, oktatói, illetve kutatói minősége fennállásáról vagy fenn nem állásáról.
-
-(3) Az Országos Bírósági Hivatal a regisztráció eredményes befejezését követően haladéktalanul tájékoztatja a bíróságot az online hallgatóként regisztrált személyre vonatkozó (1) és (2) bekezdés szerinti adatokról.
-
-(4) Az online hallgató eredményes regisztrációját követően, a személye és az általa követni kívánt tárgyalás azonosítására szolgáló, összekapcsolt adatokat az Országos Bírósági Hivatal, valamint a bíróság az eljárás tárgyát képező ügyirat selejtezéséig vagy levéltárba adásáig kezeli.
-
-(5) Az online hallgatóságnak jelentkező személy viselt és születési nevén kívül az egyéb személyes adatait a bíróság zártan kezeli.
-
-438/F. § (1) Nincs helye a tárgyalás online hallgatóság által történő nyomon követésének,
-
-- a) nemi élet szabadsága vagy nem erkölcs elleni bűncselekmény miatt folyamatban lévő eljárásban,
-- b) gyermekek érdekét sértő és a család elleni bűncselekmények miatt folyamatban lévő eljárásban,
-- c) ha az különleges bánásmódot igénylő személy kímélete vagy védelme érdekében szükséges,
-- d) ha védett adat védelme más módon nem biztosítható,
-- e) ha az eljárás adatai alapján feltételezhető, hogy a hallgatóság online jelenlétének biztosítása a bizonyítás eredményes lefolytatását veszélyeztetné,
-- f) ha az más büntetőeljárás eredményességét veszélyezteti, valamint
-- g) ha a tárgyaláson jelen lévő vádlottak vagy más, büntetőeljárásban részt vevő személyek jelentős számára tekintettel az online hallgatóság tagjának kizárásával kapcsolatos körülmények vagy a tárgyalás online hallgatóság által történő nyomon követésének feltételeivel kapcsolatos körülmények ellenőrzése veszélyeztetné a tárgyalás időszerű lefolytatását.
-
-(2) A bíróság kizárja az online hallgatóság azon tagját,
-
-- a) akinek a tárgyalás online hallgatóság által történő nyomon követésével kapcsolatos szabályok megszegése miatt büntetőjogi, illetve polgári jogi felelősségét jogerős, végleges, vagy egyéb, további jogorvoslattal nem támadható határozat megállapította,
-- b) aki a tárgyaláson hallgatóságként nem vehet részt, valamint
-- c) aki a tárgyalás online hallgatóság által történő nyomon követésével kapcsolatos szabályokat megszegi.
-
-438/G. § (1) Ha a tárgyalást online hallgatóság nyomon követi, akkor a bíróság a tárgyalás megnyitását követően tájékoztatja a jelenlévőket arról, hogy
-
-- a) a tárgyalás online hallgatóság által történő nyomon követésére kerül sor,
-- b) az online hallgatóság mely tagjának kizárására került sor, valamint
-- c) mennyi a regisztrált online hallgatók száma.
-
-(2) Az (1) bekezdésben meghatározott tájékoztatást követően az ügyész, a terhelt és a védő, valamint a tárgyaláson jelen lévő személyek indítványra az online hallgatók viselt és születési nevét, valamint arcképmását – erre irányuló indítvány alapján – megismerhetik és indítványt tehetnek a hallgatóság online jelenlétének, illetve az online hallgatók kizárására.
+#### 438/G. §
 
 ### LXXII. Fejezet — A TÁRGYALÁS VEZETÉSE, MÉLTÓSÁGÁNAK MEGŐRZÉSE ÉS RENDJÉNEK FENNTARTÁSA
 
@@ -6815,7 +6764,7 @@ készíthető.
 - f) a jelen lévő vádlott nevét, illetve – azonosításra alkalmas – megjelölését,
 - g) az e törvényben meghatározott más személyes adatokat,
 - h) az eljárási cselekményen jelen lévő egyéb személyek nevét és azt, hogy az eljárási cselekményen milyen minőségben van jelen,
-- i) azt, hogy hallgatóság jelen van-e vagy az online hallgatóság a tárgyalást nyomon követi-e.
+- i) azt, hogy hallgatóság jelen van-e.
 
 (2) A jegyzőkönyvnek tartalmaznia kell
 
@@ -9893,7 +9842,7 @@ eléri, kivéve az ügydöntő határozat kihirdetése után elrendelt vagy fenn
 
 (2) A bíróság elrendelheti, hogy a tárgyalásnak azt a részét a fiatalkorú távollétében tartsák meg, amely a fiatalkorú helyes irányú fejlődését károsan befolyásolhatja. Az így lefolytatott tárgyalás lényegét – legkésőbb a bizonyítási eljárás befejezetté nyilvánítása előtt – a fiatalkorúval ismertetni kell.
 
-(3) Fiatalkorú elleni büntetőeljárásban a tárgyalás online hallgatóság által történő nyomon követésének nincs helye.
+(3)
 
 692. § (1) A fiatalkorú elleni büntetőeljárásban ügyészségi fogalmazó és alügyész nem képviselheti a vádat.
 
@@ -10302,7 +10251,7 @@ tartja szükségesnek.
 - c) a bűncselekményre a törvény tízévi szabadságvesztésnél súlyosabb büntetést rendel, vagy
 - d) a bizonyítási eszközök nem állnak rendelkezésre.
 
-(5) Bíróság elé állítás esetén a tárgyalás online hallgatóság által történő nyomon követésének nincs helye.
+(5)
 
 729. § (1) A bíróság a tárgyalást egy alkalommal, legfeljebb tizenöt napra elnapolhatja.
 
@@ -11011,7 +10960,7 @@ a bíróság a tárgyalást a jogi képviselő költségére elhalasztja, illetv
 
 (6) A magánvádló és − ha a magánvádló jogi képviselete kötelező – a magánvádló jogi képviselője a tárgyalásról ismételt vagy súlyos rendzavarása esetén sem utasítható ki, illetve vezettethető ki.
 
-(7) Magánvádas eljárásban a tárgyalás online hallgatóság által történő nyomon követésének nincs helye.
+(7)
 
 774. § (1) A személyes meghallgatást követően a folyamatban lévő magánvádas ügyhöz más magánvádas ügyet nem lehet egyesíteni.
 
@@ -12572,7 +12521,7 @@ miatt került sor.
 - 3. a különleges bánásmódot igénylő személy részvételét igénylő eljárási cselekmény elvégzésére szolgáló helyiség kialakítására és ellenőrzésére vonatkozó szabályokat,
 - 4. a büntetőeljárás ügyiratai megismerésének szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
 - 5. a bűnügyi költség előlegezésének, valamint a büntetőeljárásban elrendelt elővezetés végrehajtásával, illetve a terhelt elfogatóparancs alapján történő előállításával felmerült, a Rendőrségről szóló törvény alapján igazolt költség megtérítésének – ide nem értve az elővezetés költsége mértéke megállapítását – a szabályait az államháztartásért felelős miniszterrel, a rendészetért felelős miniszterrel és a Nemzeti Adó- és Vámhivatalt irányító miniszterrel egyetértésben,
-- 6. a büntetőeljárásban a tárgyalás online hallgatóság által történő nyomon követésére vonatkozó szabályokat,
+- 6.
 - 7. a büntetőeljárásban a pártfogó ügyvéd és a kirendelt védő díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 - 8. a terhelt és a meghatalmazott védő költségeinek és a meghatalmazott védő díja állam, pótmagánvádló vagy magánvádló általi megtérítésének szabályait az államháztartásért felelős miniszterrel egyetértésben,
 - 9. a büntetőeljárásban részt vevő személyek és képviselőik díjára és költségeire vonatkozó szabályokat az államháztartásért felelős miniszterrel egyetértésben,

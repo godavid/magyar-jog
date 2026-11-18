@@ -513,7 +513,7 @@ az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabál
 
 (39) Az oktatási nyilvántartás működéséért felelős szerv a felsőoktatási alkalmazotti személyi törzsben szereplő elektronikus levélcím használatával teljesítheti a miniszter által elrendelt kutatást.
 
-(40) Az oktatási nyilvántartás vezetéséért felelős szerv a felsőoktatási információs rendszerből adatot szolgáltat az Országos Bírósági Hivatal részére a felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatójának hallgatói, valamint a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatójának, illetve kutatójának oktatói vagy kutatói jogviszonya igazolása érdekében, a bírósági tárgyaláson online hallgatóságként történő elsőbbségi részvétel biztosítása céljából.
+(40)
 
 7/A. § Az oktatási nyilvántartás működéséért felelős szerv a családtámogatási ellátásra való jogosultság megállapítása és ellenőrzése, továbbá a gyermekvédelmi ellátás szükségességének megállapítása céljából az egészségügyi államigazgatási szerv által működtetett ágazatközi központi kiszolgáló rendszeren keresztül továbbítja az INYR-ből a központi családtámogatási szerv részére a gyermek, tanuló sajátos nevelési igényének megállapításáról szóló végleges szakértői bizottsági szakértői vélemény adatait.
 

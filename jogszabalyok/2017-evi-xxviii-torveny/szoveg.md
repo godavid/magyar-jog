@@ -749,6 +749,10 @@ látja el, azzal, hogy a b) pont szerinti esetben a kézbesítést a címzett c�
 
 (3) Kártérítési járadék megállapítása vagy felemelése iránti perben eljárhat magyar bíróság akkor is, ha a jogosult lakóhelye belföldön van.
 
+94/A. § (1) Ha az Európai Unión kívül lakóhellyel vagy székhellyel rendelkező felperes a közéleti részvételt akadályozó, visszaélésszerű bírósági eljárást indít valamely harmadik állam bírósága előtt egy Magyarországon lakóhellyel vagy székhellyel rendelkező természetes vagy jogi személlyel szemben, a magyar bíróság eljárhat az utóbbi személy által a harmadik állam bírósága előtti eljárással összefüggésben felmerült károk és költségek megtérítésére indított eljárásban.
+
+(2) Ha az (1) bekezdés szerinti, harmadik állam bírósága előtt indított eljárás még folyamatban van, a bíróság az eljárását mindaddig felfüggeszti, amíg a harmadik államban az eljárás jogerősen be nem fejeződött.
+
 95. § Magyar bíróság eljárhat olyan eljárásban, amelynek tárgya az eljárás megindulásának időpontjában belföldön található ingó dolgon fennálló dologi jog.
 
 96. § Külföldi székhelyű vállalkozás elleni perben eljárhat magyar bíróság akkor is, ha a vállalkozás belföldön fiókteleppel vagy képviselettel rendelkezik, és a jogvita utóbbi tevékenységével kapcsolatos, ideértve azt az esetet is, amikor a szerződést belföldön, a külföldi székhelyű vállalkozás képviseletében kötötték.
@@ -879,6 +883,8 @@ látja el, azzal, hogy a b) pont szerinti esetben a kézbesítést a címzett c�
 - a) az ügyben a magyar bíróság joghatósága kizárt volt, vagy
 - b) az ügyben eljárt külföldi bíróság joghatósága a felek olyan megállapodásán alapult, amely a magyar jog rendelkezéseinek megfelelt.
 
+113/A. § Az Európai Unió valamely tagállamában lakóhellyel vagy székhellyel rendelkező természetes vagy a Pp. szerinti nem természetes személy ellen indított, a közéletben való részvételt akadályozó bírósági eljárásban hozott harmadik állambeli határozat nem ismerhető el és nem hajtható végre, ha az említett eljárás nyilvánvalóan megalapozatlannak vagy visszaélésszerűnek minősül a magyar jog szerint, kivéve, ha az elismerés vagy a végrehajtás megtagadása a harmadik állam és az Európai Unió vagy Magyarország közötti, 2024. május 6. előtt kötött két- vagy többoldalú nemzetközi szerződést sértené.
+
 114. § (1) A fizetésképtelenségi eljárásban hozott határozatok elismerésének további feltétele, hogy Magyarország és a határozatot hozó bíróság állama között viszonosság álljon fenn.
 
 (2) A külföldi fizetésképtelenségi főeljárás elismerése nem zárja ki, hogy magyar bíróság előtt másodlagos fizetésképtelenségi eljárás induljon.
@@ -995,7 +1001,13 @@ alkalmazandó jogot megállapító rendelkezéseit e törvény hatálybalépés�
 
 #### 45. Európai uniós követelményekre utaló rendelkezések
 
-127. § (1) E törvény 44. § (4) bekezdése a pénzügyi biztosítékokról szóló megállapodásokról szóló, 2002. június 6-i 2002/47/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
+127. § (1) E törvény
+
+- a) 44. § (4) bekezdése a pénzügyi biztosítékokról szóló megállapodásokról szóló, 2002. június 6-i 2002/47/EK európai parlamenti és tanácsi irányelv 9. cikkének,
+- b) 94/A. §-a a közéletben részt vevő személyeknek a nyilvánvalóan megalapozatlan keresetekkel vagy visszaélésszerű bírósági eljárásokkal („közéleti részvételt akadályozó stratégiai perekkel”) szembeni védelméről szóló, 2024. április 11-i (EU) 2024/1069 európai parlamenti és tanácsi irányelv [a továbbiakban: (EU) 2024/1069 irányelv] 17. cikkének,
+- c) 113/A. §-a az (EU) 2024/1069 irányelv 16. cikkének
+
+való megfelelést szolgálja.
 
 (2) E törvény
 

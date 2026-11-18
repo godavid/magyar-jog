@@ -2809,70 +2809,15 @@ elektronikus úton vagy az adatbázisok közvetlen elérésével is meggyőződh
 
 (5) Az e §-ban foglaltak betartásáról és a (4) bekezdésben említett személyek személyiségi jogainak védelméről a tárgyaláson az elnök a rendfenntartás keretében gondoskodik.
 
-#### 69/A. A tárgyalás online nyilvánossága
+#### 69/A.
 
-#### 232/A. § [Online hallgatóságként történő részvétel a tárgyaláson]
+#### 232/A. §
 
-(1) A hallgatóság online felületen keresztül is részt vehet a tárgyaláson (a továbbiakban: online hallgatóság), ha az ehhez szükséges technikai feltételek a bíróságon rendelkezésre állnak. A tárgyalás nyilvánosságára vonatkozó rendelkezéseket a tárgyalás online nyilvánossága tekintetében – a jelen alcímben foglalt eltérésekkel – kell alkalmazni.
+#### 232/B. §
 
-(2) Az (1) bekezdés szerinti online felületet, valamint a tárgyalás ideje alatt az eljáró bíróság és az online hallgatóság közötti egyirányú – a kapcsolatfelvétel szükségessége esetén kétirányú – kép- és hangkapcsolatot biztosító összeköttetést, az erre szolgáló informatikai rendszer működtetésével, az Országos Bírósági Hivatal biztosítja.
+#### 232/C. §
 
-(3) Egy tárgyaláson online hallgatóságként legfeljebb az első 100 eredményesen regisztráló nagykorú természetes személy vehet részt.
-
-(4) Az online hallgatóságként történő részvétel feltétele az arra szolgáló elektronikus felületen történő regisztráció, amely nem minősül e törvény szerinti eljárási cselekménynek. A regisztráció a Dáptv. szerinti eAzonosításhoz kötött.
-
-(5) Az online hallgatóságként jelentkező személynek a regisztráció során kifejezett nyilatkozatával el kell fogadnia az online hallgatóságként történő részvétel szabályait, valamint nyilatkoznia kell, hogy a személyes adatok védelmére vonatkozó adatkezelési tájékoztatót megismerte. Ezek hiányában eredményes regisztrációra nem kerülhet sor.
-
-(6) Ha a tárgyaláson az online hallgatóságként történő részvétel biztosított, az eljáró bíróság a tárgyalás megkezdését követően tájékoztatja a jelenlévőket, hogy
-
-- a) a tárgyalás online felületen keresztül is követhető,
-- b) az online hallgatóság mely tagjának kizárására került sor, valamint
-- c) mennyi a regisztrált online hallgatók száma.
-
-#### 232/B. § [Online hallgatóságként történő részvétel tanulmányi, oktatási, illetve kutatási célból]
-
-(1) A felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatót, valamint a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatóját vagy kutatóját – jogszabályban meghatározott – elsőbbségi regisztrációs jog illeti meg, ha tanulmányi, oktatási, vagy kutatási célból kíván online hallgatóságként a kitűzött tárgyaláson részt venni és hallgatói, oktatói, vagy kutatói minősége az oktatási nyilvántartásról szóló törvény szerinti felsőoktatási információs rendszer adatai alapján igazolást nyer.
-
-(2) Az oktató felel azért, hogy a tárgyalás tanóra keretében, online felületen keresztül történő nyomon követése, illetve a megtekintett tárgyaláson történtek megvitatása során, a tanóra helyszínén
-
-- a) kizárólag egyénileg visszaigazolt regisztrációval rendelkező személyek legyenek jelen, valamint
-- b) ne legyen jelen olyan személy, akinek a tárgyaláson történő részvételét – az oktató tudomásával – az eljáró bíróság kizárta.
-
-#### 232/C. § [A személyiségi jogok védelmének és a tárgyalás eredményességének biztosítása]
-
-(1) Az online hallgatóság a tárgyalásról kép- vagy hangfelvételt, illetve kép- és hangfelvételt nem készíthet, a tárgyalás nyomon követését más személynek egyidejű vagy késleltetett hozzáférés lehetővé tételével nem biztosíthatja, a tárgyalás anyagát más módon, részben vagy egészben nyilvánosságra nem hozhatja. Az online hallgatóság tagjait előzetesen figyelmeztetni kell, hogy a tárgyalásról történő felvételkészítés illetve a felvétel, vagy a tárgyalás anyagának nyilvánosságra hozatala, valamint más személy részére a tárgyalás nyomon követésének bármilyen módon történő lehetővé tétele büntetőjogi, illetve polgári jogi felelősség megállapítását vonhatja maga után.
-
-(2) Az eljáró bíróság – ha arról hivatalos tudomást szerez – az online hallgatóság tagjai közül kizárja azt a személyt, akinek az (1) bekezdésben meghatározott okból korábban büntetőjogi, illetve polgári jogi felelősségét jogerős, végleges, vagy egyéb, további jogorvoslattal nem támadható határozat megállapította.
-
-(3) Az eljáró bíróság az online hallgatóság tagjai közül kizárja azt a személyt, aki a hallgatóságként történő részvétel szabályait megszegi.
-
-(4) A tárgyaláson résztvevő peres fél, más perbeli személy, közreműködő, illetve érdekelt a tárgyalás megkezdésekor, illetve meghallgatása kezdetekor kérheti a tárgyalásra online hallgatóságként regisztrált személyek viselt és születési nevének, valamint arcképmásának megismerését, amelyet az eljáró bíróság a kérelmező számára biztosít.
-
-(5) Ha az arra jogosult az online hallgatóságként regisztrált személyek nevének és arcképmásának megismerését követően úgy nyilatkozik, hogy meghatározott személy tárgyaláson történő részvételét kizáró ok áll fenn és ezt valószínűsíti, a bíróság döntése előtt az ezzel kapcsolatos körülményeket megvizsgálja. A bíróság szükség szerint az online hallgatóságként bejelentkezett személyt, valamint a tárgyaláson részt vevő egyéb érintetteket nyilatkoztathatja, illetve szembesítheti.
-
-(6) A bíróság az online hallgatóság tárgyaláson történő részvételét a tárgyalás kitűzésekor előzetesen kizárhatja, ha a tárgyalásra megidézett személyek és közreműködők jelentős számára tekintettel az online hallgatóság tagjainak kizárásával kapcsolatos körülmények vagy a tárgyalás online hallgatóság által történő nyomon követésének feltételeivel kapcsolatos körülmények ellenőrzése veszélyeztetné a tárgyalás időszerű lefolytatását.
-
-(7) A bíróság a tárgyaláson történő részvétel kizárása esetén az online hallgatóságként regisztrált személy bejelentkezését meggátolja, a bejelentkezett személy vonatkozásában az összeköttetést megszakítja.
-
-#### 232/D. § [Az online hallgatóságként történő részvétellel kapcsolatos egyedi adatkezelés]
-
-(1) A Dáptv. szerinti digitális állampolgárság szolgáltató a hallgatóságként regisztráló személy azonosíthatósága érdekében az eAzonosítást – valamint az f) és g) pont szerinti adatok tekintetében a személyi adat- és lakcímnyilvántartásból történő adatszolgáltatást – követően átadja az Országos Bírósági Hivatal részére a regisztráló személy következő azonosító adatait:
-
-- a) viselt neve,
-- b) születési neve,
-- c) születési helye,
-- d) születési ideje,
-- e) anyja neve,
-- f) lakcíme, valamint
-- g) arcképmása.
-
-(2) Az oktatási nyilvántartás vezetéséért felelős szerv a rendelkezésére álló adatok alapján – az eAzonosítást követően – tájékoztatást nyújt a felsőoktatási intézmény jogi vagy államtudományi képzési területén tanuló hallgatóként, illetve a felsőoktatási intézmény jogi vagy államtudományi karán foglalkoztatott oktatóként vagy kutatóként regisztráló személy hallgatói, oktatói, illetve kutatói minősége fennállásáról vagy fenn nem állásáról.
-
-(3) Az Országos Bírósági Hivatal a regisztráció eredményes befejezését követően haladéktalanul tájékoztatja az eljáró bíróságot az online hallgatóságként regisztrált személyre vonatkozó (1) és (2) bekezdés szerinti adatokról.
-
-(4) Az online hallgatóságnak jelentkező személy eredményes regisztrációját követően, a személye és az általa követni kívánt tárgyalás azonosítására szolgáló, összekapcsolt adatokat az Országos Bírósági Hivatal, valamint az eljáró bíróság az eljárás tárgyát képező ügy iratainak selejtezéséig vagy levéltárba adásáig kezeli.
-
-(5) Az online hallgatóságnak jelentkező személy viselt és születési nevén kívül az egyéb személyes adatait az eljáró bíróság zártan kezeli, azokat csak a bíróság, a jegyzőkönyvvezető, a leíró, az ügyész vagy az annak megismerésére törvény alapján feljogosított személy jogosult megismerni, azokról felvilágosítás csak a 162. § (4) bekezdése szerinti feladat ellátása érdekében adható.
+#### 232/D. §
 
 #### 70. Pervezetés
 
@@ -4965,8 +4910,9 @@ követően megküldi az Alkotmánybíróságnak.
 
 (1) Ha az Alkotmánybíróság
 
-- a) alkotmányjogi panasz eljárásban a jogszabályt vagy jogszabályi rendelkezést megsemmisíti, és ezért az – az Alkotmánybíróság eltérő döntése hiányában – az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható, vagy
-- b) megállapítja a bírói döntés alaptörvény-ellenességét és a bírósági határozatot megsemmisíti,
+- a) alkotmányjogi panasz eljárásban a jogszabályt vagy jogszabályi rendelkezést megsemmisíti, és ezért az – az Alkotmánybíróság eltérő döntése hiányában – az Alkotmánybíróság eljárására okot adó ügyben nem alkalmazható,
+- b) megállapítja a bírói döntés alaptörvény-ellenességét és a bírósági határozatot megsemmisíti, vagy
+- c) alkotmányjogi panasz eljárásban megállapítja, hogy a korábban megsemmisített jogszabály vagy jogszabályi rendelkezés meghatározott ügyben nem alkalmazható,
 
 az alkotmányjogi panasz orvoslásának eljárási eszközét – az Alkotmánybíróság határozata alapján és a vonatkozó eljárási szabályok megfelelő alkalmazásával – a Kúria állapítja meg.
 
@@ -5073,9 +5019,7 @@ A felperes a keresetétől az eljárás bármely szakaszában az alperes hozzáj
 
 (5) Ha az ismételten előterjesztett ideiglenes intézkedés iránti kérelem tárgya a korábban elbírált kérelemmel tartalmilag azonos, és a kérelmező nem valószínűsíti a kérelmet megalapozó új körülmény fennállását, az ideiglenes intézkedés iránti kérelmet elutasító végzés esetén a 105. § (1) bekezdésének a végzés elleni fellebbezésre vonatkozó rendelkezése nem alkalmazható.
 
-#### 435/A. § [A tárgyalás online nyilvánosságának kizártsága]
-
-Személyi állapotot érintő perekben a tárgyalás online felületen keresztül nem követhető a hallgatóság számára.
+#### 435/A. §
 
 ### XXXII. Fejezet — GONDNOKSÁGI PEREK
 
@@ -5162,6 +5106,10 @@ Ha a bíróság az alperest gondnokság alá helyezi, erre irányuló kereseti k
 - a) az előzetes jognyilatkozat alkalmazása felől, ha az előzetes jognyilatkozat ítélettel érintett része alkalmazásának nincs törvényi akadálya,
 - b) arról, hogy a cselekvőképességében a jövedelemmel való szabad rendelkezés tekintetében részlegesen korlátozott személy jövedelme mekkora hányadával rendelkezhet a gondnoka hozzájárulása nélkül, és
 - c) a választójogból való kizárás tárgyában.
+
+#### 445/A. § [Rövidített indokolást tartalmazó ítélet alkalmazásának kizártsága]
+
+Ha a gondnoksági perben az ítélet bármilyen, a cselekvőképesség korlátozását eredményező rendelkezést tartalmaz, e törvénynek a rövidített indokolást tartalmazó ítéletre vonatkozó rendelkezései nem alkalmazhatók.
 
 #### 446. § [A gondnokság alá helyezés hatálya]
 
@@ -5582,9 +5530,7 @@ A pert a kiskorú gyermek lakóhelye vagy tartózkodási helye szerint illetéke
 
 (4) Ha a bíróság munkabérben vagy más jövedelemben részesülő személyt tartásdíj fizetésére kötelez – ideértve az ideiglenes intézkedéssel elrendelt tartást is –, köteles tájékoztatni a felet a közvetlen bírósági felhívás lehetőségéről.
 
-#### 492/A. § [A tárgyalás online nyilvánosságának kizártsága]
-
-A kiskorú gyermek tartása iránt indított perben a tárgyalás online felületen keresztül nem követhető a hallgatóság számára.
+#### 492/A. §
 
 ### XXXVIII. Fejezet — EGYES SZEMÉLYISÉGI JOGOK ÉRVÉNYESÍTÉSE IRÁNT INDÍTOTT PEREK
 
@@ -6632,6 +6578,63 @@ Az ítélet ellen fellebbezésnek van helye, amelynek elbírálására az által
 
 (4) Ha a rendelet szabályaiból más nem következik, a rendelet 20. cikk (2) bekezdésében meghatározott felülvizsgálatra a perújítás megengedhetőségének vizsgálatára vonatkozó rendelkezéseket kell alkalmazni.
 
+### XLV/A. Fejezet — KÜLFÖLDI ELEM ESETÉN, A KÖZÉLETI RÉSZVÉTELT AKADÁLYOZÓ, VISSZAÉLÉSSZERŰ BÍRÓSÁGI ELJÁRÁSOKBAN ALKALMAZHATÓ ELJÁRÁSI BIZTOSÍTÉKOK
+
+#### 155/A. Általános szabályok
+
+#### 603/A. § [Az eljárási biztosítékok alkalmazási köre]
+
+(1) E törvény rendelkezéseit a (2) bekezdés alapján határokon átnyúló vonatkozásúnak minősülő, közéleti részvételt akadályozó, visszaélésszerű bírósági eljárás esetén az e fejezetben foglalt eltérésekkel kell alkalmazni.
+
+(2) Határokon átnyúló vonatkozásúnak minősül a bírósági eljárás, kivéve, ha mindkét fél az Európai Uniónak a bírósági eljárás helye szerinti tagállamában rendelkezik lakóhellyel vagy székhellyel, és az érintett ügy szempontjából lényeges, minden egyedi körülmény kizárólag az említett tagállammal hozható összefüggésbe.
+
+#### 603/B. § [Fogalommeghatározások]
+
+E fejezet alkalmazásában:
+
+- 1. közéleti részvétel: valamely természetes vagy nem természetes személy által a véleménynyilvánítás és a tájékozódás szabadságához, a művészet és a tudomány szabadságához, vagy a gyülekezési és az egyesülési szabadsághoz való jog gyakorlása során bármely olyan nyilatkozat megtétele vagy bármely olyan tevékenység elvégzése, amely valamely közérdekű ügyet érint, valamint az ahhoz közvetlenül kapcsolódó bármely előkészítő, támogató vagy segítő tevékenység;
+- 2. a közéleti részvételt akadályozó, visszaélésszerű bírósági eljárás: olyan bírósági eljárás, amely nem valamely jog tényleges érvényesítésére vagy gyakorlására irányul, hanem fő célja a közéleti részvétel megakadályozása, korlátozása vagy szankcionálása, gyakran a felek közötti erőviszonyok kiegyensúlyozatlanságának kihasználásával, és amely megalapozatlan keresetek érvényesítésére irányul; ilyen célra utalhatnak például a következők:
+  - a) a követelés egészének vagy egy részének aránytalan, túlzott vagy észszerűtlen jellege, ideértve a túlzott pertárgyértéket is;
+  - b) a felperes vagy vele összeköttetésben álló felek által hasonló ügyekben indított több eljárás ténye;
+  - c) megfélemlítés, zaklatás vagy fenyegetés a felperes vagy a felperes képviselői részéről az eljárást megelőzően vagy annak során, valamint a felperes által hasonló vagy párhuzamos ügyekben tanúsított hasonló magatartás;
+  - d) olyan eljárási taktikák rosszhiszemű alkalmazása, mint az eljárás késleltetése, a legkedvezőbb igazságszolgáltatási fórum csalárd vagy visszaélésszerű kiválasztása, vagy az ügyeknek az eljárás egy későbbi szakaszában történő rosszhiszemű megszüntetése;
+- 3. közérdekű ügy: minden olyan ügy, amely a nyilvánosságot olyan mértékben érinti, hogy ahhoz a nyilvánosságnak jogos érdeke fűződhet, olyan területeken, mint:
+  - a) alapvető jogok, közegészségügy, biztonság, a környezet vagy az éghajlat;
+  - b) közszereplőnek minősülő természetes vagy nem természetes személynek a köz- vagy a magánszektorban végzett tevékenységei;
+  - c) törvényhozó, végrehajtó vagy igazságügyi szerv általi vizsgálat vagy bármely más hivatalos eljárás tárgyát képező ügy;
+  - d) korrupcióra, csalásra vonatkozó vagy az ilyen ügyekkel kapcsolatban bármely egyéb bűncselekményre vagy szabálysértésre vonatkozó állítások;
+  - e) az Európai Unióról szóló szerződés 2. cikkében rögzített értékek védelmére irányuló tevékenységek, ideértve a demokratikus folyamatok indokolatlan beavatkozással szembeni védelmét, különösen a dezinformáció elleni küzdelem révén.
+
+#### 155/B. Különös szabályok
+
+#### 603/C. § [Korai elutasítás]
+
+(1) Az alperes – az azt megalapozó körülmények egyidejű valószínűsítése mellett – kérelmezheti, hogy a bíróság a keresetet mint nyilvánvalóan megalapozatlant utasítsa el (a továbbiakban e fejezet alkalmazásában: korai elutasítás).
+
+(2) Az alperesnek a kereset korai elutasítására irányuló kérelmét legkésőbb – a (3) bekezdésben foglalt kivétellel – az írásbeli ellenkérelmében kell előterjesztenie.
+
+(3) Ha az alperes a kereset korai elutasítását megalapozó körülményről önhibáján kívül az írásbeli ellenkérelem előterjesztését követően szerez tudomást – a tudomásszerzés időpontjának valószínűsítése mellett –, a tudomásszerzést követő nyolc napon belül terjesztheti elő a kereset korai elutasítására irányuló kérelmét. Az e bekezdésben meghatározott esetben a kérelem előterjesztésének legfeljebb az elsőfokú ítélet meghozatalát megelőző tárgyalás berekesztéséig van helye. A kereset korai elutasítására irányuló kérelem benyújtására nyitva álló határidő elmulasztása esetén igazolásnak nincs helye.
+
+(4) Ha a kérelem elkésett, a bíróság azt további intézkedés nélkül visszautasítja, e végzés ellen fellebbezésnek van helye, a bíróság e végzését maga is megváltoztathatja.
+
+(5) A bíróság az ellenkérelem felperes részére történő kézbesítésével egyidejűleg – a (3) bekezdés szerinti esetben a kérelem bírósághoz történő érkezésétől számított három munkanapon belül – rövid határidő tűzésével felhívja a felperest, hogy érdemben nyilatkozzon a kérelemre, valamint a kereset megalapozottságát alátámasztó bizonyítékait, azzal kapcsolatos esetleges bizonyítási indítványait terjessze elő. A bíróságnak ezzel egyidejűleg tájékoztatást kell nyújtania a felperesnek arról, hogy a kereset megalapozottságát a felperesnek kell bizonyítania, valamint tájékoztatnia kell a bizonyítás sikertelenségének következményéről.
+
+(6) A bíróságnak a kérelemmel kapcsolatos felperesi nyilatkozat bírósághoz történő érkezését követően soron kívül, de legkésőbb negyvenöt napon belül érdemben határoznia kell a kereset korai elutasítása tárgyában.
+
+(7) A bíróság, ha a kérelem elbírálásához azt szükségesnek tartja – különösen akkor, ha biztosítékadás tárgyában is határoznia kell – elrendelheti a felek tárgyaláson kívüli meghallgatását, vagy tárgyalást tarthat a szükségesnek ítélt bizonyítás lefolytatása érdekében. Ha a fél a meghallgatásra vagy tárgyalásra kitűzött határnapot elmulasztja, a határnap elmulasztása miatt igazolásnak nincs helye.
+
+(8) Ha a kérelem alapos, a bíróság a keresetet mint nyilvánvalóan megalapozatlant ítélettel elutasítja, ellenkező esetben a kereset korai elutasítására irányuló kérelem teljesítését végzéssel megtagadja.
+
+(9) Ha a bíróság a keresetet mint nyilvánvalóan megalapozatlant elutasítja, határozatában a felperest – a jóhiszeműség követelményével ellentétes magatartás tanúsítása miatt – pénzbírsággal sújtja.
+
+#### 603/D. § [Perköltség-biztosíték]
+
+A felperes – ha az alperes valószínűsíti, hogy a bírósági eljárás közéleti részvételt visszaélésszerűen akadályozó célra irányulhat – az alperes kérelmére, az alperes perköltsége fedezése céljából biztosítékot köteles adni. A biztosítékadás iránti kérelem előterjesztése és elbírálása során az 595. § (3)–(8) bekezdését, valamint az 596. §-t kell alkalmazni. A biztosítékadás kérdésében a bíróság soron kívül határoz.
+
+#### 603/E. § [Honlapon történő tájékoztatás]
+
+Az Országos Bírósági Hivatal a honlapon történő folyamatos közzététel útján tájékoztatást nyújt a közéleti részvételt akadályozó visszaélésszerű bírósági eljárásokban alkalmazható eljárási biztosítékokról, az igénybe vehető költségkedvezményekről, a kapcsolódó jogi segítségnyújtás formáiról, a tárgykört érintő egyéb érdemi információkról, továbbá – amennyiben arról tudomással rendelkezik – a tárgykörre vonatkozó figyelemfelkeltő kampányokról.
+
 ## TIZEDIK RÉSZ — AZ ELEKTRONIKUS TECHNOLÓGIÁK ÉS ESZKÖZÖK ALKALMAZÁSA
 
 ### XLVI. Fejezet — AZ ELEKTRONIKUS KAPCSOLATTARTÁS
@@ -6910,7 +6913,7 @@ kapcsolatban, vagy
 - l) – az adópolitikáért felelős miniszterrel egyetértésben – az ítéletről és az ítélettel szembeni perorvoslat során hozott, az alsóbb fokú bíróságot új eljárásra és új határozat hozatalára utasító végzésről adott anonimizált másolat bíróságnak fizetendő díjára,
 - m) – a foglalkoztatáspolitikáért felelős miniszterrel egyetértésben – a munkavállalói költségkedvezmény vonatkozásában az 525. §-ban meghatározott mértékre, valamint a költségkedvezmény érvényesítésének eljárási szabályaira,
 - n) az eljárás anyagát rögzítő felvétel hitelesítésére, megtekintésére, illetve meghallgatására, az arról történő másolat készítésére és kiadására, valamint a felvétel tárolására, őrzésére és törlésére
-- o) a polgári per tárgyalásán online hallgatóságként történő részvételre
+- o)
 
 vonatkozó részletes szabályokat rendeletben állapítsa meg.
 
@@ -6970,7 +6973,7 @@ Ez a törvény 2018. január 1. napján lép hatályba.
 - 3. a feltételes hozzáférésen alapuló, vagy abból álló szolgáltatások jogi védelméről szóló, 1998. november 20-i 98/84/EK európai parlamenti és tanácsi irányelvnek,
 - 4. a határon átnyúló vonatkozású jogviták esetén az igazságszolgáltatáshoz való hozzáférés megkönnyítése érdekében az ilyen ügyekben alkalmazandó költségmentességre vonatkozó közös minimumszabályok megállapításáról szóló, 2003. január 27-i 2003/8/EK tanácsi irányelvnek,
 - 5. az európai szövetkezet statútumának a munkavállalói részvétel tekintetében történő kiegészítéséről szóló, 2003. július 22-i 2003/72/EK tanácsi irányelvnek,
-- 6.
+- 6. a közéletben részt vevő személyeknek a nyilvánvalóan megalapozatlan keresetekkel vagy visszaélésszerű bírósági eljárásokkal („közéleti részvételt akadályozó stratégiai perekkel”) szembeni védelméről szóló, 2024. április 11-i (EU) 2024/1069 európai parlamenti és tanácsi irányelvnek,
 - 7. az Unió polgárainak és családtagjaiknak a tagállamok területén történő szabad mozgáshoz és tartózkodáshoz való jogáról, valamint az 1612/68/EGK rendelet módosításáról, továbbá a 64/221/EGK, a 68/360/EGK, a 72/194/EGK, a 73/148/EGK, a 75/34/EGK, a 75/35/EGK, a 90/364/EGK, a 90/365/EGK és a 93/96/EGK irányelv hatályon kívül helyezéséről szóló, 2004. április 29-i 2004/38/EK európai parlamenti és tanácsi irányelvnek,
 - 8. a férfiak és a nők közötti esélyegyenlőség és egyenlő bánásmód elvének a foglalkoztatás és a munkavégzés területén történő megvalósításáról szóló, 2006. július 5-i 2006/54/EK parlamenti és tanácsi irányelvnek,
 - 9. a megtévesztő és összehasonlító reklámról szóló, 2006. december 12-i 2006/114/EK európai parlamenti és tanácsi irányelvnek,
