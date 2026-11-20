@@ -822,7 +822,7 @@ de legfeljebb öt év, életfogytig tartó szabadságvesztésből engedélyezett
 
 - a) ha azt nemzetközi jogi kötelezettség kizárja,
 - b) ha az elkövető a bűncselekményt bűnszervezetben követte el,
-- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, tudatmódosító anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, környezetkárosítás, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, hulladékgazdálkodás rendjének megsértése, ózonréteget lebontó anyaggal visszaélés, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
+- c) kábítószer-kereskedelem, kábítószer birtoklása, kábítószer készítésének elősegítése, kábítószer előállításához szükséges anyaggal visszaélés, tudatmódosító anyaggal visszaélés, teljesítményfokozó szerrel visszaélés, gyógyszerhamisítás, egészségügyi termék hamisítása, méreggel visszaélés, ártalmas közfogyasztási cikkel visszaélés, környezetkárosítás, uniós környezetvédelmi szabályok megszegése, természetkárosítás, állatkínzás, orvhalászat, orvvadászat, tiltott állatviadal szervezése, hulladékgazdálkodás rendjének megsértése, radioaktív anyaggal visszaélés, nukleáris létesítmény üzemeltetésével visszaélés, robbanóanyaggal vagy robbantószerrel visszaélés, lőfegyverrel vagy lőszerrel visszaélés, nemzetközi szerződés által tiltott fegyverrel visszaélés, haditechnikai termékkel vagy szolgáltatással visszaélés, kettős felhasználású termékkel visszaélés vagy veszélyes eb tartásával kapcsolatos kötelezettség megszegése esetén.
 
 ### A vagyonelkobzás
 
@@ -858,7 +858,7 @@ ideje alatt szerzett.
 (2) Az ellenkező bizonyításáig vagyonelkobzás alá eső vagyonnak kell tekinteni, és vagyonelkobzást kell elrendelni arra a vagyonra is, amelyet
 
 - a) a kábítószer forgalomba hozatala, illetve az azzal való kereskedés [176. § (1)–(4) és (6) bekezdés, 177. § (1) bekezdés b) pont, c) pont cb) alpont és (2)–(3) és (5) bekezdés], kábítószer termesztése, előállítása, az ország területére behozatala, kivitele, átszállítása [178. § (1)–(5) bekezdés és 179. §], a kábítószer készítésének elősegítése [182. § (1)–(4) bekezdés], a kábítószer-prekurzor forgalomba hozatala, szállítása, azzal közvetítői tevékenység végzése [183. § (1) bekezdés a) pont],
-- b)
+- b) üzletszerűen elkövetett természetkárosítás [242. § (2b) bekezdés],
 - c) az emberkereskedelem és kényszermunka [192. § (1)–(7) bekezdés],
 - d) a kerítés (200. §), a prostitúció elősegítése (201. §), a kitartottság (202. §), a gyermekprostitúció kihasználása [203. § (1) és (3)–(4) bekezdés], a tizennyolcadik életévét be nem töltött személyt ábrázoló pornográf felvétel kínálása, átadása, hozzáférhetővé tétele, készítése, forgalomba hozatala, azzal való kereskedelem, illetve nagy nyilvánosság számára hozzáférhetővé tétele [204. § (1) bekezdés b)–c) pont, (2)–(4) bekezdés, (5) bekezdés b) pont és (6) bekezdés], tizennyolcadik életévét be nem töltött személynek vagy személyeknek pornográf műsorban való szerepeltetése vagy ilyen pornográf műsor szervezése [204/A. § (1) bekezdés b) pont és (2)–(5) bekezdés],
 - e) a gyermekmunka (209. §), a harmadik országbeli állampolgár jogellenes foglalkoztatása [356. § (1)–(2) bekezdés],
@@ -877,7 +877,9 @@ ideje alatt szerzett.
 
 elkövetője a büntetőeljárás megindítását megelőző öt évben szerzett, ha a vagyon, illetve az elkövető életvitele az igazolható jövedelmi viszonyaihoz, személyi körülményeihez képest különösen aránytalan.
 
-(3) Nem rendelhető el vagyonelkobzás az (1) és (2) bekezdés esetében, ha az elkövető bizonyítja, hogy a vagyon nem bűncselekményből származik.
+(2a) Az ellenkező bizonyításáig vagyonelkobzás alá eső vagyonnak kell tekinteni, és vagyonelkobzást kell elrendelni arra a bűnszervezetben részt vevő személy elleni büntetőeljárás megindítását megelőző öt évben szerzett vagyonra is, amelyet más személy a bűnszervezetben részt vevő személytől szerzett, és a vagyon, illetve a vagyont megszerző személy életvitele az igazolható jövedelmi viszonyaihoz, személyi körülményeihez képest különösen aránytalan.
+
+(3) Nem rendelhető el vagyonelkobzás az (1)–(2a) bekezdés esetében, ha az elkövető vagy a (2a) bekezdésben meghatározott személy bizonyítja, hogy a vagyon nem bűncselekményből származik.
 
 75. § (1) A vagyonelkobzást pénzösszegben kifejezve kell elrendelni,
 
@@ -3084,19 +3086,42 @@ okoz.
 
 ### Környezetkárosítás
 
-241. § (1) Aki a földet, a levegőt, a vizet, az élővilágot, valamint azok összetevőit jelentős mértékű szennyezéssel vagy más módon
+241. § (1) Aki jogszabályban, hatósági határozatban, közvetlenül alkalmazandó uniós jogi aktusban megállapított, közvetlenül vagy közvetve a környezet védelmét szolgáló előírást megszeg, és ezzel valamely környezeti elemet veszélyezteti, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-- a) veszélyezteti,
-- b) olyan mértékben károsítja, hogy annak természetes vagy korábbi állapota csak beavatkozással állítható helyre,
-- c) olyan mértékben károsítja, hogy annak természetes vagy korábbi állapota nem állítható helyre,
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a bűncselekmény
 
-bűntett miatt az a) pontban meghatározott esetben három évig, a b) pontban meghatározott esetben egy évtől öt évig, a c) pontban meghatározott esetben két évtől nyolc évig terjedő szabadságvesztéssel büntetendő.
+- a) valamely környezeti elemben olyan mértékű károsodást okoz vagy okozhat, hogy annak természetes vagy korábbi állapota csak beavatkozással állítható helyre, vagy
+- b) maradandó fogyatékosságot vagy súlyos egészségromlást okoz vagy okozhat.
 
-(2) Aki a környezetkárosítást gondatlanságból követi el, vétség miatt az (1) bekezdés a) pontja esetén egy évig, b) pontja esetén két évig, c) pontja esetén három évig terjedő szabadságvesztéssel büntetendő.
+(3) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a bűncselekmény valamely környezeti elemben olyan mértékű károsodást okoz, hogy annak természetes vagy korábbi állapota nem állítható helyre.
 
-(3) Az (1) bekezdés a) pontjában, és a (2) bekezdés első és második fordulatában meghatározott esetben az elkövető nem büntethető, az (1) bekezdés b) pontja esetén pedig büntetése korlátlanul enyhíthető, ha az elsőfokú ügydöntő határozat meghozataláig a bűncselekmény által bekövetkezett veszélyt, illetve környezetkárosodást megszünteti, a károsodott környezet eredeti állapotát helyreállítja.
+(4) A büntetés öt évtől tíz évig terjedő szabadságvesztés, ha a környezetkárosítás halált okoz.
 
-(4) E § alkalmazásában szennyezés: a föld, a levegő, a víz, az élővilág, valamint azok összetevői jogszabályban vagy hatósági határozatban megállapított kibocsátási határértéket meghaladó terhelése.
+(5) Aki a környezetkárosítást gondatlanságból követi el, vétség miatt az (1) bekezdés esetén egy évig, a (2) bekezdés esetén két évig, a (3) bekezdés esetén három évig, a (4) bekezdés esetén egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+
+(6) Az (1) bekezdés esetén az elkövető nem büntethető, a (2) bekezdés a) pontja esetén pedig büntetése korlátlanul enyhíthető, ha az elsőfokú ügydöntő határozat meghozataláig a bűncselekmény által bekövetkezett veszélyt, illetve környezetkárosodást megszünteti, a károsodott környezet eredeti állapotát helyreállítja.
+
+(7) E § alkalmazásában környezeti elem
+
+- a) a föld, ideértve a föld felszínét, felszín alatti rétegeit, a talajt, a kőzeteket, az ásványokat,
+- b) a víz, ideértve a felszíni és felszín alatti vizeket, azok készleteit, minőségét és mennyiségét,
+- c) a levegő, ideértve a légkör egészét, annak folyamatait, összetételét és a klímát, valamint
+- d) az élővilág, ideértve az élő szervezeteket, azok életközösségeit, élőhelyeit és az ökológiai rendszert.
+
+### Uniós környezetvédelmi szabályok megszegése
+
+241/A. § (1) Aki
+
+- a) a hajók újrafeldolgozásáról, valamint az 1013/2006/EK rendelet és a 2009/16/EK irányelv módosításáról szóló, 2013. november 20-i 1257/2013/EU európai parlamenti és tanácsi rendelet 6. cikk (2) bekezdés a) pontjában meghatározott követelmény megszegésével hajót újrafeldolgoz,
+- b) az erdőirtáshoz és az erdőpusztuláshoz kapcsolódó egyes áruk és termékek uniós piacon történő forgalmazásáról és Unióból történő kiviteléről, valamint a 995/2010/EU rendelet hatályon kívül helyezéséről szóló, 2023. május 31-i (EU) 2023/1115 európai parlamenti és tanácsi rendelet 3. cikkében meghatározott tilalmat megszegve releváns árut vagy releváns terméket különösen nagy vagy azt meghaladó értékben az uniós piacon forgalomba hoz, forgalmaz vagy az uniós piacról kivisz,
+- c) az ózonréteget lebontó anyagokról és az 1005/2009/EK rendelet hatályon kívül helyezéséről szóló, 2024. február 7-i (EU) 2024/590 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2024/590 rendelet] 2. cikk a) pontjában meghatározott ózonkárosító anyagot akár önmagában, akár keverékként az (EU) 2024/590 rendelet megszegésével előállít, forgalomba hoz, felhasznál, kienged, az ország területére behoz, vagy onnan kivisz,
+- d) az (EU) 2024/590 rendelet 2. cikk b) pontjában meghatározott, ózonkárosító anyagokat tartalmazó, illetve ilyen anyagokkal működő terméket, berendezést, valamint azok részeit az (EU) 2024/590 rendelet megszegésével előállít, forgalomba hoz, felhasznál, az ország területére behoz, vagy onnan kivisz,
+- e) a fluortartalmú üvegházhatású gázokról, az (EU) 2019/1937 irányelv módosításáról és az 517/2014/EU rendelet hatályon kívül helyezéséről szóló, 2024. február 7-i (EU) 2024/573 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2024/573 rendelet] 2. cikk a) pontjában meghatározott fluortartalmú üvegházhatású gázt akár önmagában, akár keverékként az (EU) 2024/573 rendelet megszegésével előállít, forgalomba hoz, felhasznál, kienged, az ország területére behoz, vagy onnan kivisz, vagy
+- f) az (EU) 2024/573 rendelet 2. cikk b) pontjában meghatározott, fluortartalmú üvegházhatású gázokat tartalmazó vagy ilyen gázokkal működő terméket, berendezést, valamint azok részeit az (EU) 2024/573 rendelet megszegésével előállít, forgalomba hoz, felhasznál, az ország területére behoz, onnan kivisz, vagy ilyen terméket, berendezést üzembe helyez,
+
+bűntettet követ el, és egy évtől öt évig terjedő szabadságvesztéssel büntetendő.
+
+(2) Aki az (1) bekezdés b)–f) pontja szerinti bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
 ### Természetkárosítás
 
@@ -3104,9 +3129,12 @@ bűntett miatt az a) pontban meghatározott esetben három évig, a b) pontban m
 
 - a) fokozottan védett élő szervezet egyedét,
 - b) védett élő szervezet vagy az Európai Unióban természetvédelmi szempontból jelentős növény- vagy állatfaj egyedeit, feltéve, hogy azok külön jogszabályban meghatározott, pénzben kifejezett értékének együttes összege eléri a fokozottan védett élő szervezet egyedei esetében megállapított, pénzben kifejezett legalacsonyabb értéket,
-- c) a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló EK tanácsi rendelet A és B melléklete hatálya alá tartozó élő szervezet egyedét
+- c) a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló, 1996. december 9-i 338/97/EK tanácsi rendelet (a továbbiakban: 338/97/EK tanácsi rendelet) A vagy B melléklete hatálya alá tartozó élő szervezet egyedét
+- d) a jogszabályban meghatározott, egyes vadászható madárfajok egyedeit, feltéve, hogy azok jogszabályban meghatározott vadgazdálkodási értékének együttes összege eléri a vadászható apróvadfajok esetén megállapított, pénzben kifejezett legmagasabb értékének tízszeresét,
 
 jogellenesen megszerzi, tartja, forgalomba hozza, az ország területére behozza, onnan kiviszi, azon átszállítja, azzal kereskedik, illetve azt károsítja vagy elpusztítja, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
+
+(1a) Az (1) bekezdés szerint büntetendő, aki a 338/97/EK tanácsi rendelet C melléklete hatálya alá tartozó élő szervezet egyedét jogellenesen az Európai Unió területére Magyarországon keresztül behozza.
 
 (2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a természetkárosítás az élő szervezet egyedeinek olyan mértékű pusztulását okozza,
 
@@ -3115,11 +3143,13 @@ jogellenesen megszerzi, tartja, forgalomba hozza, az ország területére behozz
 
 (2a) A (2) bekezdés szerint büntetendő, aki a természetkárosítást méreg alkalmazásával vagy az állat elpusztítására alkalmas csalétek kihelyezésével, több állat életét veszélyeztetve követi el.
 
-(3) Aki a (2) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(2b) A (2) bekezdés szerint büntetendő, aki az (1) bekezdés, illetve az (1a) bekezdés szerinti bűncselekményt üzletszerűen követi el.
+
+(3) Aki a természetkárosítást gondatlanságból követi el, vétség miatt az (1) és (1a) bekezdés esetén egy évig, a (2) bekezdés esetén két évig terjedő szabadságvesztéssel büntetendő.
 
 (3a) Aki a (2) vagy a (2a) bekezdésben meghatározott bűncselekményre irányuló előkészületet követ el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
-(3b) Nem büntethető az (1) bekezdés c) pontja alapján, aki a természetkárosítást elhanyagolható mennyiségű egyedre követi el, ha jogszabály meghatározza a vadon élő állat- és növényfajok számára kereskedelmük szabályozása által biztosított védelemről szóló EK tanácsi rendelet hatálya alá tartozó élő szervezet egyedének elhanyagolható mennyiségét.
+(3b) Nem büntethető az (1) bekezdés c) pontja alapján, aki a természetkárosítást elhanyagolható mennyiségű egyedre követi el, ha jogszabály meghatározza a 338/97/EK tanácsi rendelet hatálya alá tartozó élő szervezet egyedének elhanyagolható mennyiségét.
 
 (4) E § alkalmazásában élő szervezet egyede:
 
@@ -3129,9 +3159,13 @@ jogellenesen megszerzi, tartja, forgalomba hozza, az ország területére behozz
 
 243. § (1) Aki Natura 2000 területet, védett barlangot, védett természeti területet vagy védett élő szervezetek életközösségét, illetve azok élőhelyét jogellenesen jelentős mértékben megváltoztatja, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
 
-(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a természetkárosítás a Natura 2000 terület, a védett barlang, a védett természeti terület vagy a védett élő szervezetek életközössége, illetve azok élőhelye jelentős károsodását vagy megsemmisülését okozza.
+(1a) Az (1) bekezdés szerint büntetendő, aki közösségi jelentőségű állatfaj egyedét Natura 2000 területen belül jogellenesen jelentős mértékben megzavarja.
 
-(3) Aki a (2) bekezdésben meghatározott bűncselekményt gondatlanságból követi el, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
+(2) A büntetés egy évtől öt évig terjedő szabadságvesztés, ha a természetkárosítás a Natura 2000 terület, a védett barlang, a védett természeti terület vagy a védett élő szervezetek életközössége, illetve azok élőhelye jelentős károsodását okozza.
+
+(2a) A büntetés két évtől nyolc évig terjedő szabadságvesztés, ha a természetkárosítás a Natura 2000 terület, a védett barlang, a védett természeti terület vagy a védett élő szervezetek életközössége, illetve azok élőhelye különösen jelentős károsodását vagy megsemmisülését okozza.
+
+(3) Aki a természetkárosítást gondatlanságból követi el, vétség miatt az (1a) bekezdés esetén egy évig, a (2) bekezdés esetén két évig, a (2a) bekezdés esetén három évig terjedő szabadságvesztéssel büntetendő.
 
 (4) E § alkalmazásában Natura 2000 terület alatt a természet védelméről szóló törvényben meghatározott fogalmat kell érteni.
 
@@ -3245,16 +3279,12 @@ terjedő szabadságvesztéssel büntetendő.
 
 (6) E § alkalmazásában
 
-- a) különös visszaesés szempontjából hasonló jellegű bűncselekmény a környezetkárosítás és a természetkárosítás;
+- a) különös visszaesés szempontjából hasonló jellegű bűncselekmény a környezetkárosítás, az uniós környezetvédelmi szabályok megszegése és a természetkárosítás;
 - b) hulladékgazdálkodási tevékenység a hulladékról szóló törvény szerinti hulladékgazdálkodás azzal, hogy a szállítás fogalmába bele kell érteni az országba történő behozatalt, onnan történő kivitelt, valamint az azon történő átszállítást;
 - c) jelentős mennyiségű hulladék az 500 kg-ot vagy a 5 köbmétert meghaladó mennyiségű hulladék;
 - d) különösen jelentős mennyiségű hulladék a jelentős mennyiségű hulladék tízszerese.
 
-### Ózonréteget lebontó anyaggal visszaélés
-
-249. § (1) Aki ózonréteget lebontó anyagot vagy ilyen anyagot tartalmazó terméket gyárt, felhasznál, az ország területére behoz, onnan kivisz vagy forgalomba hoz, bűntett miatt három évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Aki az ózonréteget lebontó anyaggal visszaélést gondatlanságból követi el, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
+#### 249. §
 
 ### Radioaktív anyaggal visszaélés
 
@@ -5675,18 +5705,7 @@ a hitelező vagy a hitelezők kielégítését részben vagy egészben meghiús�
 
 404/A. § Az a felszámoló, aki a felszámolási eljárás során hitelt érdemlő tudomást szerez a számvitel rendjének megsértése (403. §) vagy csődbűncselekmény (404. §) elkövetéséről, és erről a hatóságnak, mihelyt teheti, nem tesz jelentést, vétség miatt egy évig terjedő szabadságvesztéssel büntetendő.
 
-### Önkormányzati segélyhitellel összefüggésben elkövetett bűncselekmény
-
-404/B. § (1) Aki a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvényben meghatározott hitellel (e § alkalmazásában a továbbiakban: segélyhitel) összefüggésben
-
-- a) a konszolidált költségvetés készítésével,
-- b) a vagyonleltár készítésével,
-- c) az irányítási szervezetének és döntési eljárásának átalakításával, vagy
-- d) likviditási terv készítésével
-
-kapcsolatos kötelezettségét önhibájából megszegi, ha súlyosabb bűncselekmény nem valósul meg, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
-
-(2) Ha súlyosabb bűncselekmény nem valósul meg, az (1) bekezdés szerint büntetendő az is, aki a fővárosi önkormányzat csődjének elkerülését szolgáló hitel nyújtásáról szóló törvényben meghatározott segélyhitellel kapcsolatos kötelezettségeit a pénzeszközök jogosulatlan megszerzése érdekében, a bizonylatok felhasználásával önhibájából megszegi.
+#### 404/B. §
 
 ### Tartozás fedezetének elvonása
 
@@ -6664,6 +6683,8 @@ való megfelelést szolgálja.
 - 20. az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek,
 - 21. a vagyonvisszaszerzésről és -elkobzásról szóló, 2024. április 24-i (EU) 2024/1260 európai parlamenti és tanácsi irányelvnek,
 - 22. az emberkereskedelem megelőzéséről és az ellene folytatott küzdelemről, valamint az áldozatok védelméről szóló, 2011/36/EU irányelv módosításáról szóló, 2024. június 13-i (EU) 2024/1712 európai parlamenti és tanácsi irányelvnek
+- 23. a környezet büntetőjog általi védelméről, valamint a 2008/99/EK és a 2009/123/EK irányelv felváltásáról szóló, 2024. április 11-i (EU) 2024/1203 európai parlamenti és tanácsi irányelvnek,
+- 24. a 2004/757/IB tanácsi kerethatározat mellékletének a „kábítószer” fogalommeghatározását új pszichoaktív anyagokkal kiegészítő módosításáról szóló, 2025. október 14-i (EU) 2025/2062 bizottsági felhatalmazáson alapuló irányelvnek
 
 való megfelelést szolgálja.
 

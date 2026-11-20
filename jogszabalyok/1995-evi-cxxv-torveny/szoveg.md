@@ -2181,13 +2181,13 @@ Az utasadatok átvétele és kezelése céljából terrorista és súlyos bűncs
 
 2.24. szeméremsértés [Btk. 205. § (2) bekezdése],
 
-2.25. környezetkárosítás [Btk. 241. § (1) bekezdése, (2) bekezdés III. fordulata],
+2.25. környezetkárosítás [Btk. 241. § (1)–(4) bekezdése, (5) bekezdés III. és IV. fordulata],
 
-2.26. természetkárosítás [Btk. 242. § (1) és (2) bekezdése, 243. § (1) és (2) bekezdése],
+2.26. természetkárosítás [Btk. 242. § (1)–(2b) bekezdése, 243. § (1)–(2a) bekezdése],
 
 2.27. hulladékgazdálkodás rendjének megsértése [Btk. 248. § (1) és (2) bekezdése],
 
-2.28. ózonréteget lebontó anyaggal visszaélés [Btk. 249. § (1) bekezdése],
+2.28. uniós környezetvédelmi szabályok megszegése [Btk. 241/A. § (1) bekezdése],
 
 2.29. radioaktív anyaggal visszaélés [Btk. 250. § (1) bekezdés a) és b) pontja, (2)–(3) bekezdése],
 

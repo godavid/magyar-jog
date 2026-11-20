@@ -89,9 +89,9 @@ Kiadatás Magyarországról
 
 (4) Ha az Európai Unió tagállamának állampolgárságával rendelkező személy kiadatását a büntetőeljárás lefolytatása céljából kérik, és a rendelkezésre álló adatok alapján megtagadási ok nem állapítható meg, a bíróság a kiadni kért személy állampolgársága szerinti tagállam központi hatóságát tájékoztatja a kiadatási kérelem tényéről.
 
-14. § (1) Meg kell tagadni a Magyarország vagy az Európai Unió más tagállama által menekültként elismert személy kiadatását annak az államnak, ahonnan elmenekült. Magyarország vagy az Európai Unió más tagállama által menekültként elismert személy csak a menedékjogról szóló törvényben meghatározott biztonságos harmadik országnak adható ki.
+14. § (1) Meg kell tagadni a Magyarország vagy az Európai Unió más tagállama által menekültként elismert személy kiadatását, kivéve, ha azt a menedékjogról szóló törvényben meghatározott biztonságos harmadik ország kéri.
 
-(1a) Az (1) bekezdés szerint kell eljárni akkor is, ha a kiadni kért személy menekült jogállása azért szűnt meg, mert Magyarországon vagy az Európai Unió más tagállamában állampolgárságot kapott, azonban a menekültkénti elismerés feltételei továbbra is fennállnak. A menekültkénti elismerés feltételeinek fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter állásfoglalása irányadó.
+(1a)
 
 (2) A menedékes, a befogadott, az oltalmazott, valamint az Európai Unió tagállamában kiegészítő vagy ideiglenes védelemben részesített külföldi annak az államnak, ahonnan elmenekült, nem adható ki.
 

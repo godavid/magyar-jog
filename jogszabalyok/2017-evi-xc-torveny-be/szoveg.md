@@ -791,7 +791,7 @@ nem indítványozza a védő kizárását.
 44. § A büntetőeljárásban védő részvétele kötelező, ha
 
 - a) a bűncselekményre a törvény öt évig terjedő vagy ennél súlyosabb szabadságvesztés büntetés kiszabását rendeli,
-- b) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy személyi szabadságot érintő kényszerintézkedés hatálya alatt áll, más ügyben letartóztatás, előzetes kényszergyógykezelés hatálya alatt áll, valamint ha szabadságvesztést, elzárást vagy javítóintézeti nevelést tölt,
+- b) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy személyi szabadságot érintő kényszerintézkedés hatálya alatt áll, más ügyben letartóztatás, előzetes kényszergyógykezelés hatálya alatt áll, ha szabadságvesztést, elzárást vagy javítóintézeti nevelést tölt, valamint, ha letartóztatásának vagy előzetes kényszergyógykezelésének elrendelésére irányuló indítványról dönt a bíróság,
 - c) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy hallássérült, siketvak, vak, beszédfogyatékos, más okból kommunikációképtelen, vagy abban súlyos fokban korlátozott, továbbá – a beszámítási képességére tekintet nélkül – kóros elmeállapotú,
 - d) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy a magyar nyelvet nem ismeri,
 - e) a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy egyéb okból nem képes személyesen védekezni,
@@ -827,7 +827,7 @@ védőt rendel ki.
 
 (5) A bíróság, az ügyészség, illetve a nyomozó hatóság védőt rendel ki, ha a büntetőeljárásban védő részvétele nem kötelező, de a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy hatékony védelmének biztosítása végett azt szükségesnek tartja.
 
-(6) Az ügyészség és a nyomozó hatóság védőt rendel ki, ha a terhelt jövedelmi és vagyoni viszonyai miatt nem tud a védelméről gondoskodni és védő kirendelését indítványozza. A bíróság a vádemelés után a terhelt indítványára védőt rendel ki.
+(6) Az ügyészség és a nyomozó hatóság védőt rendel ki, ha a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy jövedelmi és vagyoni viszonyai miatt nem tud a védelméről gondoskodni és védő kirendelését indítványozza. A bíróság a vádemelés után a terhelt indítványára védőt rendel ki.
 
 (7) A védő kirendelése, illetve kijelölése ellen nincs helye jogorvoslatnak. A terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy – indokoltan – más védő kijelölését indítványozhatja. Az indítványról az a bíróság, ügyészség vagy nyomozó hatóság dönt, amely előtt az eljárás folyamatban van.
 
@@ -1303,18 +1303,18 @@ a polgári jog szabályai szerint érvényesen rendelkezhet.
 
 ### A költségkedvezmény
 
-75. § (1) A terhelt, valamint a természetes személy sértett, vagyoni érdekelt és egyéb érdekelt jogai érvényesítésének megkönnyítésére költségkedvezményben részesíthető, ha jövedelmi és vagyoni viszonyai miatt a bűnügyi költséget vagy annak egy részét nem képes viselni.
+75. § (1) A terhelt, a bűncselekmény elkövetésével megalapozottan gyanúsítható személy, valamint a természetes személy sértett, vagyoni érdekelt és egyéb érdekelt jogai érvényesítésének megkönnyítésére költségkedvezményben részesíthető, ha jövedelmi és vagyoni viszonyai miatt a bűnügyi költséget vagy annak egy részét nem képes viselni.
 
 (2) Különösen indokolt esetben a nem természetes személy sértett, vagyoni érdekelt és egyéb érdekelt is költségkedvezményben részesíthető, ha – különösen társasági formájára, profitorientáltságára, tagjainak pénzügyi teljesítőképességére és annak a lehetőségére figyelemmel, hogy utóbbiak biztosítani tudják-e az ehhez szükséges összeget – vagyoni helyzete az e törvény szerinti jogainak gyakorlását kizárja.
 
 (3) Jövedelmi és vagyoni helyzetétől függetlenül költségkedvezmény illeti meg
 
 - a) a polgári jogi igényt érvényesítő természetes személy sértettet,
-- b) a terheltet, a sértettet, a vagyoni érdekeltet vagy az egyéb érdekeltet a jogszabály által meghatározott ügyben.
+- b) a terheltet, a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt, a sértettet, a vagyoni érdekeltet vagy az egyéb érdekeltet a jogszabály által meghatározott ügyben.
 
 76. § (1) A költségkedvezmény
 
-- a) a terhelt esetén a kirendelt védő és az ügygondnok díjának és költségeinek állam általi előlegezésére és viselésére,
+- a) a terhelt és a bűncselekmény elkövetésével megalapozottan gyanúsítható személy esetén a kirendelt védő és az ügygondnok díjának és költségeinek állam általi előlegezésére és viselésére,
 - b) a sértett, a vagyoni érdekelt és az egyéb érdekelt esetén a pártfogó ügyvéd díjának és költségeinek állam általi előlegezésére és a jogi segítségnyújtásról szóló törvényben meghatározott esetekben viselésére, valamint az ügygondnok díjának és költségeinek állam általi előlegezésére,
 - c) a sértett által előterjesztett polgári jogi igény esetében a bírósági eljárási illeték előzetes megfizetésére,
 - d) a magánvádló esetén a pártfogó ügyvéd díjának és költségeinek állam általi előlegezésére és a jogi segítségnyújtásról szóló törvényben meghatározott esetekben viselésére,
@@ -1327,6 +1327,8 @@ terjed ki.
 77. § (1) A költségkedvezményt a büntetőeljárásban részt vevő személy kérelmére jogszabályban meghatározottak szerint a jogi segítségnyújtó szolgálat engedélyezi.
 
 (2) Ha a költségkedvezmény módosításának vagy visszavonásának lehet helye, a bíróság, az ügyészség és a nyomozó hatóság tájékoztatja a jogi segítségnyújtó szolgálatot a költségkedvezmény alapjául szolgáló feltételek megváltozásáról.
+
+(3) Ha a büntetőeljárás során a terhelt vagy a bűncselekmény elkövetésével megalapozottan gyanúsítható személy vonatkozásában olyan adat merül fel, amely alapján a költségkedvezmény engedélyezésének feltételei valószínűsíthetők, a bíróság, az ügyészség és a nyomozó hatóság a terheltet és a bűncselekmény elkövetésével megalapozottan gyanúsítható személyt ismételten tájékoztatja, hogy költségkedvezmény iránti kérelmet nyújthat be, és közreműködik a kérelem összeállításában, valamint annak a jogi segítségnyújtó szolgálathoz történő továbbításában.
 
 ### A nyelvhasználat biztosítása
 
@@ -3852,6 +3854,8 @@ kérhető.
 - b) egyéb úton teljesítendő kérelem esetén legalább nyolc, legfeljebb harmincnapos
 
 határidő állapítható meg.
+
+(3) A nyomozó hatóság vagyonvisszaszerzésért felelős szerve az adatszolgáltatásra legalább három-, legfeljebb hétnapos határidőt állapíthat meg, ha az adatszolgáltatásra egy másik tagállam vagyonvisszaszerzési hivatalának megkeresésére történő információátadás céljából van szükség.
 
 264. § (1) Az adatkérés keretében megkeresett szervezet – ha törvény másképp nem rendelkezik – köteles a kérelemben foglaltakat a megállapított határidő alatt teljesíteni vagy annak észlelését követően a teljesítés akadályát haladéktalanul közölni. Az adatszolgáltatást hiányos vagy töredékadatok esetén is teljesíteni kell.
 
@@ -12762,6 +12766,7 @@ az igazságügyért felelős miniszterrel egyetértésben rendeletben megállap�
 - 37. az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek
 - 38. a vagyonvisszaszerzésről és -elkobzásról szóló, 2024. április 24-i (EU) 2024/1260 európai parlamenti és tanácsi irányelvnek,
 - 39. az emberkereskedelem megelőzéséről és az ellene folytatott küzdelemről, valamint az áldozatok védelméről szóló, 2011/36/EU irányelv módosításáról szóló, 2024. június 13-i (EU) 2024/1712 európai parlamenti és tanácsi irányelvnek
+- 40. a környezet büntetőjog általi védelméről, valamint a 2008/99/EK és a 2009/123/EK irányelv felváltásáról szóló, 2024. április 11-i (EU) 2024/1203 európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

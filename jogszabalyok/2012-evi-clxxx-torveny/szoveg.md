@@ -68,7 +68,7 @@ kell érteni.
 - e) a terhelt olyan magyar állampolgár vagy olyan, az Európai Unió más tagállamának állampolgára, aki Magyarország területén lakcímmel rendelkezik, és a kibocsátó tagállami igazságügyi hatóság nem nyújt megfelelő jogi garanciát arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a terhelt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére, vagy
 - f) az európai elfogatóparancs végrehajtása súlyosan sértené a terheltet megillető, nemzetközi szerződésben vagy európai uniós jogi aktusban rögzített alapvető jogokat.
 
-(1a) Az (1) bekezdés f) pontját kell alkalmazni abban az esetben is, ha az európai elfogató parancs végrehajtását Magyarország vagy az Európai Unió más tagállama által menekültként elismert személlyel szemben bocsátotta ki olyan állam, ahonnan elmenekült. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha az eljárási cselekménnyel érintett személy menekült jogállása azért szűnt meg, mert Magyarországon vagy az Európai Unió más tagállamában állampolgárságot kapott, azonban a menekültkénti elismerés feltételei – ideértve a menedékjogról szóló 2007. évi LXXX. törvény 7. § (4) bekezdésében meghatározott esetet is – továbbra is fennállnak. A menekültkénti elismerés feltételeinek fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter állásfoglalása irányadó. Ha a menekültkénti elismerésre a menedékjogról szóló 2007. évi LXXX. törvény 7. § (4) bekezdésében meghatározott esetben került sor, akkor ennek feltételeit – e § vonatkozásában fennállónak kell tekinteni.
+(1a)
 
 (2) A bíróság az európai elfogatóparancs végrehajtását megtagadhatja, ha
 
@@ -336,14 +336,11 @@ illetve a büntetőeljárás megindításához való előzetes hozzájárulásr�
 
 (7) Ha a terhelt átadásának végrehajtására nem került sor, az átadási letartóztatás a (4)–(6) bekezdésben említett határidők lejártával megszűnik.
 
-(8) Ha a bíróság határozata a 13. § (1) bekezdése alapján a terhelt átadását rendelte el, és a terhelt átadásának végrehajtása előtt az átadás megtagadása céljából a legfőbb ügyész a törvényesség érdekében jogorvoslatot jelentett be, a jogorvoslat bejelentése a határozat végrehajtására halasztó hatályú.
+(8)
 
-(9) Ha a Kúria a törvényesség érdekében bejelentett jogorvoslatot alaposnak találja, a törvénysértő határozatot
+(9)
 
-- a) megváltoztathatja, vagy
-- b) hatályon kívül helyezheti, és az eljárást megszüntetheti, vagy az eljárt bíróságot új eljárásra utasíthatja.
-
-(10) A Kúria a törvényesség érdekében bejelentett jogorvoslat elbírálása során a 16. §-ban meghatározott határidők figyelembevételével jár el.
+(10)
 
 #### 11. Hozzájárulás, átadás végrehajtásának elhalasztása, ideiglenes átadás
 
@@ -651,7 +648,7 @@ a bíróság vagy az ügyészség az európai nyomozási határozat végrehajtá
 - h) az európai nyomozási határozatot nem szabályszerűen vagy nem magyar, angol, német vagy francia nyelven terjesztették elő,
 - i) az európai nyomozási határozat oly mértékben hiányos, pontatlan, hogy erre figyelemmel nem hajtható végre, és a kiegészítésre, illetve kijavításra tűzött határidő eredménytelenül telt el, vagy az európai nyomozási határozat a kiegészítést, illetve a kijavítást követően sem hajtható végre.
 
-(1a) Az (1) bekezdés a) pontját kell alkalmazni abban az esetben is, ha az európai nyomozási határozatot Magyarország vagy az Európai Unió más tagállama által menekültként elismert személlyel szemben bocsátotta ki olyan állam, ahonnan elmenekült. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha az eljárási cselekménnyel érintett személy menekült jogállása azért szűnt meg, mert Magyarországon vagy az Európai Unió más tagállamában állampolgárságot kapott, azonban a menekültkénti elismerés feltételei – ideértve a menedékjogról szóló 2007. évi LXXX. törvény 7. § (4) bekezdésében meghatározott esetet is – továbbra is fennállnak. A menekültkénti elismerés feltételeinek fennállása tekintetében az idegenrendészetért és menekültügyért felelős miniszter állásfoglalása irányadó. Ha a menekültkénti elismerésre a menedékjogról szóló 2007. évi LXXX. törvény 7. § (4) bekezdésében meghatározott esetben került sor, akkor ennek feltételeit – e § vonatkozásában – fennállónak kell tekinteni.
+(1a)
 
 (2) A bíróság vagy az ügyészség az európai nyomozási határozat végrehajtásának megtagadásáról a tagállami hatóságot a megtagadás indokainak megjelölésével, haladéktalanul tájékoztatja.
 
@@ -3805,7 +3802,7 @@ való megfelelést szolgálja.
 
 E törvény 3. § (2)–(3) bekezdése, 25. § (5) bekezdése, 41. § (2) bekezdés a) pontja, 71/A. § (3) bekezdése, 71/B. § (4) bekezdése és 145/A. § (2) bekezdés a) pontja értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-5X03552M.docx
+6X05316M.docx
 
 |  | A | B | C | D | E |
 | --- | --- | --- | --- | --- | --- |
@@ -3857,14 +3854,15 @@ E törvény 3. § (2)–(3) bekezdése, 25. § (5) bekezdése, 41. § (2) bekezd
 | 44. | számítógépes bűncselekmények | információs rendszer felhasználásával elkövetett csalás bűntette | 375. § | számítástechnikai rendszer és adatok elleni bűncselekmény készpénz-helyettesítő fizetési eszközzel visszaélés | 300/C. § (3)-(4 bekezdés 313/C. § (1)-(6) |
 | 45. |  | tiltott adatszerzés bűntette | 422. § (1) bekezdés d) pont, (3)–(4) bekezdés | magántitok jogosulatlan megismerése | 178/A. § |
 | 46. |  | információs rendszer vagy adat megsértésének bűntette | 423. § (2)–(4) bekezdés | számítástechnikai rendszer és adatok elleni bűntett | 300/C. § (3)–(4) bekezdés |
-| 47. | környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, a veszélyeztetett növény fajok és növényfajták tiltott kereskedelmét is | környezetkárosítás bűntette | 241. § (1) bekezdés | környezetkárosítás bűntette | 280. § (1)–(2) bekezdés |
-| 48. |  | helyrehozhatatlan károsodást okozó környezetkárosítás vétsége | 241. § (2) bekezdés 3. fordulata | helyrehozhatatlan károsodást okozó környezetkárosítás vétsége | 280. § (3) bekezdés 3. fordulata |
-| 49. |  | természetkárosítás bűntette | 242. § (1)–(2) bekezdés 243. § (1)–(2) bekezdés | természetkárosítás bűntette | 281. § (1)–(3) bekezdés |
+| 47. | környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, a veszélyeztetett növény fajok és növényfajták tiltott kereskedelmét is | környezetkárosítás bűntette | 241. § (1)–(4) bekezdés | környezetkárosítás bűntette | 280. § (1)–(2) bekezdés |
+| 48. |  | helyrehozhatatlan károsodást okozó környezetkárosítás vétsége | 241. § (5) bekezdés 3. fordulata | helyrehozhatatlan károsodást okozó környezetkárosítás vétsége | 280. § (3) bekezdés 3. fordulata |
+| 48a. |  | uniós környezetvédelmi szabályok megszegése bűntette | 241/A. § (1) bekezdés |  |  |
+| 49. |  | természetkárosítás bűntette | 242. § (1)–(2b) bekezdés 243. § (1)–(2a) bekezdés | természetkárosítás bűntette | 281. § (1)–(3) bekezdés |
 | 50. | állatkínzás bűntette | 244. § (2) bekezdés | állatkínzás bűntette | 266/B. § |
 | 51. | orvvadászat bűntette | 245. § | állatkínzás | 266/B. § (2) bekezdés |
 | 52. |  | tiltott állatviadal szervezésének bűntette | 247. § (1) bekezdés | állatkínzás | 266/B. § (2) bekezdés |
 | 53. |  | a hulladékgazdálkodás rendjének megsértése bűntette | 248. § (1)–(2) bekezdés | hulladékgazdálkodás rendjének megsértése bűntette | 281/A. § (1)–(2) bekezdés |
-| 54. |  | ózonréteget lebontó anyaggal visszaélés bűntette | 249. § (1) bekezdés | környezetkárosítás | 280. § (2) bekezdés |
+| 54. |  | a 2026. november 20-ig hatályban volt ózonréteget lebontó anyaggal visszaélés bűntette | 249. § (1) bekezdés | környezetkárosítás | 280. § (2) bekezdés |
 | 55. | segítségnyújtás jogellenes beutazáshoz és tartózkodáshoz | embercsempészés bűntette | 353. § a (2) bekezdés a) pont és (3) bekezdés d) pont kivételével | embercsempészés bűntette | 218. § a (2) bekezdés a) pont és a (3) bekezdés c) pont kivételével |
 | 56. | szándékos emberölés, súlyos testi sértés | emberölés bűntette | 160. § a (4) bekezdés kivételével | emberölés bűntette | 166. § a (4) bekezdés kivételével |
 | 57. |  | erős felindulásban elkövetett emberölés bűntette | 161. § | erős felindulásban elkövetett emberölés bűntette | 167. § |
@@ -4411,7 +4409,7 @@ E törvény 135/D. § (2) bekezdése értelmében a jelentés az alábbi adatoka
 
 E törvény 140/A. § (3) bekezdése értelmében a bűncselekményfajtákhoz a Btk. következő bűncselekményei tartoznak:
 
-5X03552N.docx
+6X05316N.docx
 
 |  | A | B | C | D |  | E |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4465,13 +4463,15 @@ E törvény 140/A. § (3) bekezdése értelmében a bűncselekményfajtákhoz a 
 | 46. | információs rendszer vagy adat megsértésének vétsége és bűntette | 423. § |  | számítástechnikai rendszer és adatok elleni vétség és bűntett | 300/C. § |  |
 | 47. | információs rendszer védelmét biztosító technikai intézkedés kijátszása vétsége | 424. § (1) bekezdés |  | számítástechnikai rendszer védelmét biztosító technikai intézkedés kijátszásának vétsége | 300/E. § |  |
 | 48. | környezettel kapcsolatos bűncselekmények, ideértve a veszélyeztetett állatfajok, a veszélyeztetett növényfajok és növényfajták tiltott kereskedelmét is | környezetkárosítás vétsége és bűntette | 241. § |  | környezetkárosítás vétsége és bűntette | 280. § |  |
+| 48a. | az uniós környezetvédelmi szabályok megszegése vétsége és bűntette | 241/A. § |  |  |  |  |
 | 49. | természetkárosítás vétsége és bűntette | 242–243. § |  | természetkárosítás vétsége és bűntette | 281. § |  |
 | 50. | állatkínzás vétsége és bűntette | 244. § |  | állatkínzás vétsége | 266/B. § (1) bekezdés |  |
+| 50a. | kedvtelésből tartott állatok kereskedelmével összefüggő visszaélés vétsége | 244/A. § |  |  |  |  |
 | 51. | orvvadászat bűntette | 245. § |  | állatkínzás bűntette | 266/B. § (2) bekezdés |  |
 | 52. | orvhalászat vétsége | 246. § |  | állatkínzás bűntette | 266/B. § (2) bekezdés |  |
 | 53. | tiltott állatviadal szervezése vétsége és bűntette | 247. § |  | tiltott állatviadal szervezése vétsége és bűntette | 266/A. § |  |
 | 54. | a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 248. § |  | hulladékgazdálkodás rendje megsértésének vétsége és bűntette | 281/A. § |  |
-| 55. | ózonréteget lebontó anyaggal visszaélés vétsége és bűntette | 249. § |  | környezetkárosítás | 280. § (2) bekezdés |  |
+| 55. | a 2026. november 20-ig hatályban volt ózonréteget lebontó anyaggal visszaélés vétsége és bűntette | 249. § |  | környezetkárosítás | 280. § (2) bekezdés |  |
 | 56. | jogellenes beutazás és tartózkodás elősegítése | embercsempészés vétsége és bűntette | 353. § a (2) bekezdés a) pont és (3) bekezdés d) pont kivételével |  | embercsempészés vétsége és bűntette | 218. § a (2) bekezdés a) pont és a (3) bekezdés c) pont kivételével |  |
 | 57. | szándékos emberölés, súlyos testi sértés | emberölés bűntette | 160. § a (4) bekezdés kivételével |  | emberölés bűntette | 166. § a (4) bekezdés kivételével |  |
 | 58. |  | erős felindulásban elkövetett emberölés bűntette | 161. § |  | erős felindulásban elkövetett emberölés bűntette | 167. § |  |
@@ -4560,7 +4560,7 @@ E törvény 140/A. § (3) bekezdése értelmében a bűncselekményfajtákhoz a 
 
 A kölcsönös elismerés elvének a pénzbüntetésekre való alkalmazásáról szóló 2005/214/IB tanácsi kerethatározat
 
-- 4. cikkében előírt
+4. cikkében előírt
 
 6K70889P_0
 
@@ -5086,14 +5086,16 @@ E törvény 143. § b) pont bb) alpontja értelmében a tanúsítvány az alább
 |  | haditechnikai termékkel vagy szolgáltatással visszaélés bűntette | 329. § | visszaélés haditechnikai termékkel és szolgáltatással, illetőleg kettős felhasználású termékkel bűntette | 263/B. § (1)-(4) bekezdés |
 | 16. | veszélyeztetett állatfajok tiltott kereskedelme | természetkárosítás bűntette | 242. § (1)-(2) bekezdés | természetkárosítás bűntette | 281. § (1)-(3) bekezdés |
 | 17. | veszélyeztetett növényfajok és -fajták tiltott kereskedelme | természetkárosítás bűntette | 242. § (1)-(2) bekezdés | természetkárosítás bűntette | 281. § (1)-(3) bekezdés |
-| 18. | környezeti bűnözés, ideértve a hajók okozta szennyezést is | környezetkárosítás vétsége és bűntette | 241. § (1)-(2) bekezdés | környezetkárosítás vétsége és bűntette | 280. § (1)-(3) bekezdés |
-|  |  | természetkárosítás vétsége és bűntette | 242-243. § | természetkárosítás bűntette | 281. § (1)-(3) bekezdés |
-|  |  | állatkínzás vétsége és bűntette | 244. § | állatkínzás vétsége és bűntette | 266/B. § |
-|  |  | orvvadászat bűntette | 245. § | állatkínzás | 266/B. § (2) bekezdés |
-|  |  | orvhalászat vétsége | 246. § | állatkínzás | 266/B. § (2) bekezdés |
-|  |  | tiltott állatviadal szervezése vétsége és bűntette | 247. § | tiltott állatviadal szervezése vétsége és bűntette | 266/A. § |
-|  |  | a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 248. § | a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 281/A. § (1)-(3) bekezdés |
-|  |  | ózonréteget lebontó anyaggal visszaélés bűntette | 249. § (1) bekezdés |  |  |
+| 18 | környezeti bűnözés, ideértve a hajók okozta szennyezést is | környezetkárosítás vétsége és bűntette | 241. § | környezetkárosítás vétsége és bűntette | 280. § (1)–(3) bekezdés |
+|  | uniós környezetvédelmi szabályok megszegése vétsége és bűntette | 241/A. § |  |  |
+|  | természetkárosítás vétsége és bűntette | 242–243. § | természetkárosítás bűntette | 281. § (1)–(3) bekezdés |
+|  | állatkínzás vétsége és bűntette | 244. § | állatkínzás vétsége és bűntette | 266/B. § |
+|  | kedvtelésből tartott állatok kereskedelmével összefüggő visszaélés vétsége | 244/A. § |  |  |
+|  | orvvadászat bűntette | 245. § | állatkínzás | 266/B. § (2) bekezdés |
+|  | orvhalászat vétsége | 246. § | állatkínzás | 266/B. § (2) bekezdés |
+|  | tiltott állatviadal szervezése vétsége és bűntette | 247. § | tiltott állatviadal szervezése vétsége és bűntette | 266/A. § |
+|  | a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 248. § | a hulladékgazdálkodás rendjének megsértése vétsége és bűntette | 281/A. § (1)–(3) bekezdés |
+|  | a 2026. november 20-ig hatályban volt ózonréteget lebontó anyaggal visszaélés bűntette | 249. § (1) bekezdés |  |  |
 | 19. | hormontartalmú anyagok és más, növekedésserkentők tiltott kereskedelme) | teljesítményfokozó szerrel visszaélés bűntette | 185. § (1)-(3) bekezdés |  |  |
 |  |  | gyógyszerhamisítás bűntette | 185/A. § |  |  |
 | 20. | terrorizmus | terrorcselekmény bűntette | 314. § 315. § a (3) bekezdés kivételével 316. § | terrorcselekmény bűntette | 261. § [kivéve a (3), a (6) és a (9) bekezdést] |

@@ -194,119 +194,508 @@ a pénzügyi közvetítőrendszert érintő törvények módosításáról
 
 #### 16. A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény módosítása
 
-#### 69. §
+69. § (1) A fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény (a továbbiakban: Fhtv.) 1. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
-#### 70. §
+(Nem kell alkalmazni e törvény rendelkezéseit:)
+
+„a) olyan bérleti- vagy lízingszerződésekre, amelyek nem állapítanak meg vételi kötelezettséget vagy vételi jogot a szerződés tárgya tekintetében,”
+
+(2) Az Fhtv. 1. § (2) bekezdés h) pontja helyébe a következő rendelkezés lép:
+
+(Nem kell alkalmazni e törvény rendelkezéseit:)
+
+„h) jogszabály szerint nyújtott hallgatói és képzési hitelre.”
+
+(3) Az Fhtv. 1. § (2) bekezdése a következő i) ponttal egészül ki:
+
+(Nem kell alkalmazni e törvény rendelkezéseit:)
+
+„i) halasztott fizetésre, ha
+
+ia) a termékértékesítő vagy a szolgáltató – anélkül, hogy harmadik fél hitelt ajánlana – időt biztosít a fogyasztónak a termék vagy a szolgáltatás kifizetésére,
+
+ib) a vételárat kamat és egyéb ellenszolgáltatás nélkül kell kifizetni, továbbá a késedelem esetén felszámított kamat nem haladja meg a jegybanki alapkamatot és
+
+ic) a teljes kifizetést a termékértékesítéstől vagy a szolgáltatásnyújtástól számított 50 napon belül kell teljesíteni.”
+
+(4) Az Fhtv. 1. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Mikro-, kis- vagy középvállalkozásnak nem minősülő termékértékesítő vagy szolgáltató által kínált halasztott fizetés esetében, ha az elektronikus kereskedelmi szolgáltatások, valamint az információs társadalommal összefüggő szolgáltatások egyes kérdéseiről szóló 2001. évi CVIII. törvényben meghatározott információs társadalommal összefüggő szolgáltatást kínálnak, amelyek távértékesítés keretében kötött szerződések megkötéséből állnak, a (2) bekezdés i) pontjától eltérően e törvény rendelkezéseit abban az esetben nem kell alkalmazni, ha
+
+- a) harmadik fél nem kínál vagy nyújt hitelt,
+- b) a teljes kifizetést a termékértékesítéstől vagy a szolgáltatásnyújtástól számított 14 napon belül kell teljesíteni és
+- c) a vételárat kamat és egyéb ellenszolgáltatás nélkül kell kifizetni, továbbá a késedelem esetén felszámított kamat nem haladja meg a jegybanki alapkamatot.”
+
+70. § (1) Az Fhtv. 2. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A hiteltúllépés esetén az 1–3. §, a 13/A. §, a 14. §, a 17/A. §, a 20/B. §, a 26/A. §, a 27. § (1) bekezdése, a 28. § (1) és (2) bekezdése, a 29. § (1) bekezdése és a 36. § alkalmazandó.”
+
+(2) Az Fhtv. 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A jelzáloghitelre – ideértve a földterület, vagy meglévő vagy tervezett épület tulajdonjogának megszerzését vagy fenntartását célzó hitelszerződést – a 3/B. §, a 4. § (2) bekezdés f) pontja és (2a)–(2c) bekezdése, az 5/A. §, a 6. §, a 8–11/A. §, a 14. § (3a), (7)–(9) bekezdése, a 14/A. § (3) bekezdés c) pontja, (4b) és (4c) bekezdése, a 14/C. §, a 16. § (1) bekezdése 9., 11., 19., 20., 26. pontja és (4) bekezdése, a 17. § (1) bekezdése, a 19. § és a 20. §, a 21. § és a 22. §, a 23. § (2) bekezdése, a 24. §, a 26. § és a 27/A. § nem alkalmazandó.”
+
+(3) Az Fhtv. 2. §-a a következő (7) és (8) bekezdéssel egészül ki:
+
+„(7) Olyan hitelre, amellyel kapcsolatban a fogyasztónak hitelkamatot és egyéb ellenszolgáltatást nem szükséges fizetnie, a 4. § (2) bekezdés d), f) és g) pontja, a 6. § (6) bekezdése és a 16. § (3) bekezdése nem alkalmazandó.
+
+(8) Ahol e törvény
+
+- a) hitelezőt említ, ott a halasztott fizetést biztosító termékértékesítő és szolgáltató,
+- b) hitelt említ, ott a halasztott fizetés keretében biztosított összeg
+
+is értelemszerűen értendő.”
 
 71. § (1)
 
 (2)
 
-(3)
+(3) Az Fhtv. 3. §-a a következő 33–37. ponttal egészül ki:
 
-#### 72. §
+(E törvény alkalmazásában:)
 
-#### 73. §
+„33. halasztott fizetésről szóló szerződés: a fogyasztóval áruszállítási vagy szolgáltatási jogviszonyban álló vállalkozás (a továbbiakban: termékértékesítő vagy szolgáltató) által e jogviszonyra tekintettel adott halasztott fizetésről vagy előlegről (kereskedelmi kölcsön) szóló megállapodás, ide nem értve a pénzügyi intézmény által kötött ilyen ügyleteket,
 
-#### 74. §
+34. Szerződés: hitelszerződés, halasztott fizetésről szóló szerződés,
 
-#### 75. §
+35. Szerződés megkötését megelőző tájékoztatás: az a tájékoztatás, amelyet azt megelőzően nyújtanak, hogy a fogyasztót kötné a Szerződés vagy egy kötelező erejű ajánlat, és amelynek segítségével a fogyasztó össze tudja hasonlítani a különböző ajánlatokat, valamint megalapozott döntést tud hozni a Szerződés megkötéséről,
 
-#### 76. §
+36. adósságkezelési tanácsadási szolgáltatás: személyre szabott szakmai, jogi vagy pszichológiai jellegű segítségnyújtás olyan fogyasztók számára, akik a pénzügyi kötelezettségvállalásaik teljesítése során nehézségekkel küzdenek vagy küzdhetnek,
 
-#### 77. §
+37. profilalkotás: a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről (általános adatvédelmi rendelet) szóló, 2016. április 27-i (EU) 2016/679 európai parlamenti és tanácsi rendeletben ekként meghatározott fogalom.”
 
-#### 78. §
+72. § Az Fhtv. a 3. §-t követően a következő alcímmel egészül ki:
 
-#### 79. §
+### „A fogyasztók díjmentes tájékoztatása
 
-#### 80. §
+3/A. § E törvényben előírt minden tájékoztatást a fogyasztók részére díj-, költség- és egyéb fizetési kötelezettségmentesen kell biztosítani a tájékoztatás nyújtásához használt adathordozótól függetlenül.”
 
-#### 81. §
+73. § Az Fhtv. a 3/A. §-t követően a következő alcímmel egészül ki:
 
-#### 82. §
+### „A megkülönböztetés tilalma
 
-#### 83. §
+3/B. § (1) A hitelező az EGT-államban tartózkodásra jogosult fogyasztóval szemben állampolgárság vagy tartózkodási hely alapján, vagy az Alapjogi Charta 21. cikkében említett bármely más ok alapján nem alkalmazhat megkülönböztetést a hitelnyújtás feltételei tekintetében a hitelszerződés kérelmezése, megkötése vagy fenntartása során.
 
-#### 84. §
+(2) Nem sérti az (1) bekezdésben meghatározott követelményt az eltérő hitelfeltételek ajánlása abban az esetben, ha az eltérő feltételeket objektív szempontok megfelelően indokolják.”
 
-#### 85. §
+74. § (1) Az Fhtv. 4. §-a a következő (1a) bekezdéssel egészül ki:
 
-#### 86. §
+„(1a) A hitelre vonatkozó kereskedelmi kommunikáció tartalmazza azt a feltűnő figyelmeztetést, hogy „a hitelfelvételnek ára és költségei vannak”, vagy azt, hogy „a hitelfelvétel nem ingyenes”.”
 
-#### 87. §
+(2) Az Fhtv. 4. §-a a következő (2a)–(2c) bekezdéssel egészül ki:
 
-#### 88. §
+„(2a) Indokolt esetben, ha a kereskedelmi kommunikációhoz használt adathordozó nem teszi lehetővé az információk vizuális megjelenítését, a (2) bekezdés f) és g) pontja szerinti adatokat nem szükséges megadni.
 
-#### 89. §
+(2b) Indokolt esetben, ha a kereskedelmi kommunikációhoz használt elektronikus adathordozó nem teszi lehetővé az információk feltűnő és egyértelmű módon történő vizuális megjelenítését, a fogyasztó számára biztosított a (2) bekezdés f) és g) pontjában meghatározott információk kattintással, görgetéssel vagy lapozással történő elérése.
 
-#### 90. §
+(2c) Tilos a hitelre vonatkozó olyan kereskedelmi kommunikáció, amely
 
-#### 91. §
+- a) a fogyasztót azzal ösztönzi a hitel felvételére, hogy az javítja a pénzügyi helyzetét,
+- b) azt állítja, hogy a fennálló hitelek vagy a hitelreferencia-szolgáltatás igénybevétele csak kis mértékben vagy egyáltalán nem befolyásolják a hitelkérelem elbírálását,
+- c) tévesen azt sugallja, hogy a hitel növeli az anyagi forrásokat, helyettesíti a megtakarításokat, vagy emelheti a fogyasztó életszínvonalát, vagy
+- d) azt állítja, hogy az árkedvezmény feltétele a hitelfelvétel.”
 
-#### 92. §
+75. § Az Fhtv. a következő 5/A. §-sal egészül ki:
 
-#### 93. §
+„5/A. § (1) A hitelező és a hitelközvetítő papíron vagy a fogyasztó választása szerinti más tartós adathordozón egyértelmű és érthető általános tájékoztatást nyújt a fogyasztónak a hitelre vonatkozóan. Az általános tájékoztatást, amelyet a hitelező vagy a hitelközvetítő az ügyfélfogadásra nyitva álló helyiségeiben elérhetővé tett, legalább papíron elérhetővé teszi a fogyasztó számára.
 
-#### 94. §
+(2) Az általános tájékoztatás tartalmazza
 
-#### 95. §
+- a) az általános tájékoztatás kibocsátójának nevét, címét, telefonszámát és e-mail címét,
+- b) a felhasználási célokat, amelyekre a hitel fordítható,
+- c) a hitel lehetséges futamidejét,
+- d) a hitel kamatozásának típusait, fix kamatozású, referencia-kamatlábhoz kötött vagy kamatperiódusokban rögzített, vagy ezek kombinációja, a kamatozás jellemzőinek rövid ismertetését, beleértve a fogyasztót érintő hatásokat; alkalmazása esetén kamatfelár, kamatváltoztatási vagy kamatfelár-változtatási mutatót,
+- e) egy reprezentatív példával a hitel teljes összegét, a hitel teljes díját, a fogyasztó által fizetendő teljes összeget és a teljes hiteldíj mutatót,
+- f) a hitel teljes díjába bele nem számított, a Szerződéssel kapcsolatban fizetendő további költségeket és díjakat,
+- g) a hitelező által kínált törlesztési lehetőségeket, beleértve a törlesztőrészletek számát, összegét és a törlesztés gyakoriságát,
+- h) az előtörlesztés lehetőségét és annak feltételeit,
+- i) az elállási jog ismertetését,
+- j) azokat a kapcsolódó szolgáltatásokat, amelyeket a fogyasztónak igénybe kell vennie a hitel felvételéhez vagy a meghirdetett feltételek melletti felvételéhez, ha van rá lehetőség, annak feltüntetését, hogy a kapcsolódó szolgáltatásokat a hitelezőtől eltérő szolgáltatótól is igénybe lehet venni, és
+- k) általános figyelmeztetést a Szerződés be nem tartásának lehetséges következményeire.”
 
-#### 96. §
+76. § Az Fhtv. 6. §-a helyébe a következő rendelkezés lép:
+
+„6. § (1) A Szerződésekre vonatkozó ajánlatok összehasonlítása és a Szerződés megkötése tekintetében hozandó megalapozott fogyasztói döntés érdekében a hitelező és a hitelközvetítő az 5. § szerinti felvilágosítás mellett, kellő időben, de azt megelőzően, hogy a fogyasztót bármilyen ajánlat vagy Szerződés kötné, a fogyasztó részére az általa megadott információk alapján szóba jöhető hiteltermék tekintetében egyértelmű és érthető, a hitelszerződés megkötését megelőző tájékoztatást nyújt.
+
+(2) Ha az (1) bekezdésben meghatározott tájékoztatásra kevesebb mint egy nappal azt megelőzően kerül sor, hogy a fogyasztót az ajánlat vagy Szerződés köti, a hitelező és a hitelközvetítő emlékeztetőt küld a fogyasztó részére a Szerződéstől való elállás lehetőségéről és az elállás esetén a 21. §-ban meghatározott eljárásról. A hitelező és a hitelközvetítő az emlékeztetőt papíron vagy a fogyasztó választása szerinti és a Szerződésben meghatározott más tartós adathordozón a Szerződés megkötését vagy a kötelező érvényű ajánlat fogyasztó által történő benyújtását követő egy és hét nap között bocsátja a fogyasztó rendelkezésére.
+
+(3) Az (1) bekezdésben meghatározott tájékoztatást – az 1. melléklet szerinti formanyomtatvány felhasználásával – papíron vagy a fogyasztó választása szerinti más tartós adathordozón kell nyújtani. A formanyomtatványon szereplő valamennyi információ egyformán feltűnő.
+
+(4) Az (1) bekezdésben meghatározott tájékoztatás az 1. melléklet szerinti formanyomtatvány első részében, egy oldalon, feltűnő módon megadja a következő elemeket:
+
+- a) a hitelező és adott esetben a hitelközvetítő neve,
+- b) a teljes hitelösszeg,
+- c) a hitel futamideje,
+- d) a hitelkamat, vagy ha eltérő körülmények között eltérő hitelkamat alkalmazandó, valamennyi hitelkamat,
+- e) a teljes hiteldíj mutató és a fogyasztó által fizetendő teljes összeg,
+- f) meghatározott termék vagy szolgáltatás nyújtásához kapcsolódó halasztott fizetés formájában nyújtott hitel esetén, valamint a kapcsolt hitelszerződés esetén a termék vagy szolgáltatás és annak készpénzára,
+- g) késedelmes teljesítés esetén felmerülő költségek, azaz a késedelmes teljesítés esetén alkalmazandó kamat és számítására vonatkozó rendelkezések, valamint a nemteljesítés esetén fizetendő díjak,
+- h) a fogyasztó által fizetendő törlesztőrészletek összege, a törlesztőrészletek száma és gyakorisága, valamint adott esetben a törlesztőrészleteknek a különböző hitelkamatú tartozásra történő elszámolásának sorrendje,
+- i) a fizetés elmulasztásának vagy a késedelmes teljesítésnek a következményeire vonatkozó figyelmeztetés,
+- j) az elállás lehetősége vagy hiánya, valamint adott esetben az elállási időszak,
+- k) az előtörlesztéshez való jog és a hitelező esetleges költségtérítéshez való jogára vonatkozó információ,
+- l) a hitelező és adott esetben a hitelközvetítő címe, telefonszáma és e-mail címe.
+
+(5) Ha nem lehet a (4) bekezdésben meghatározott elemeket feltűnő módon egy oldalon megadni az 1. melléklet szerinti formanyomtatvány első részében, akkor legfeljebb két oldalon lehet azokat megadni. Ebben az esetben a (4) bekezdés a)–g) pontjában említett elemek a formanyomtatvány első oldalán jelennek meg.
+
+(6) Az (1) bekezdésben meghatározott tájékoztatás tartalmazza a következő elemeket, amelyeket a (4) bekezdésben meghatározott elemek után, azoktól jól láthatóan elválasztva jelenik meg:
+
+- 1. a hitel típusa,
+- 2. a lehívás feltételei,
+- 3. a hitelkamat és amennyiben eltérő hitelkamatok alkalmazására van lehetőség, az egyes hitelkamatok alkalmazásának feltételei, alkalmazása esetén a vonatkozó referencia-kamatláb, kamatfelár, kamatváltoztatási vagy kamatfelár-változtatási mutató, valamint a hitelkamat módosulásának gyakorisága, feltételei és eljárási szabályai,
+- 4. ha a hitelszerződés eltérő módokat biztosít a lehívásra, amelyekhez eltérő díjak vagy hitelkamat kapcsolódik és a hitelező a teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló 83/2010. (III. 25.) Korm. rendelet 4. § (2) bekezdés e) pontjában meghatározott felvetést használja, annak feltüntetése, hogy a hitelszerződéshez kapcsolódó eltérő lehívási mód magasabb teljes hiteldíj mutatót eredményezhet,
+- 5. a fizetési számlához vagy készpénz-helyettesítő fizetési eszközhöz kapcsolódó valamennyi jutalékról, díjról, költségről vagy egyéb fizetési kötelezettségről, valamint azon feltételekről, amelyek mellett az említett díjak bármelyike megváltoztatható,
+- 6. a teljes hiteldíj mutatóról egy reprezentatív példával annak valamennyi feltételével,
+- 7. adott esetben a közjegyzői díj,
+- 8. a hitelhez kapcsolódó olyan szolgáltatások, amely a Szerződés megkötéséhez vagy a hitelező ajánlata szerinti megkötéséhez szükséges,
+- 9. a szükséges biztosítékok meghatározása,
+- 10. adott esetben az előtörlesztés 24. § szerinti költségei,
+- 11. a 14. § (3) bekezdése szerinti kötelezettség,
+- 12. a 9. § szerinti kötelezettség,
+- 13. adott esetben az, hogy az árat személyre szabták automatizált adatkezelés alapján, ideértve a profilalkotást is,
+- 14. a szerződéskötést megelőző tájékoztatásban megadott adatok esetleges időbeli korlátozása,
+- 15. a peren kívüli panasztételi és jogorvoslati eljárás igénybevételének lehetősége, az igénybevétel módja,
+- 16. a hitelhez kapcsolódó egyéb kötelezettségek nemteljesítésének következményeire vonatkozó figyelmeztetés,
+- 17. törlesztési ütemterv valamennyi fizetéssel és törlesztéssel, ideértve a kapcsolódó szolgáltatásokért teljesítendő fizetéseket, amelyben a fizetések és törlesztések – ha eltérő körülmények között eltérő hitelkamat alkalmazandó – a hitelkamat észszerű emelkedésén alapulnak.
+
+(7) Ha a (6) bekezdés 3. pontja szerinti egyes hitelkamatok alkalmazásának feltételei eltérnek egymástól, a hitelkamat módosításának gyakoriságára, feltételeire és eljárási szabályaira vonatkozó tájékoztatás valamennyi hitelkamatra kiterjed.
+
+(8) Ha a Szerződés az (EU) 2016/1011 európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdés 3. pontjában meghatározott referenciamutatóra hivatkozik, a hitelező és a hitelközvetítő az 1. melléklet szerinti formanyomtatványtól elkülönült dokumentumban közli a fogyasztóval a referenciamutatót és annak kezelőjének nevét, valamint következményeit a fogyasztóra nézve. E dokumentum mellékelhető az 1. melléklet szerinti formanyomtatványhoz.
+
+(9) Ha a fogyasztó a rendelkezésére bocsátott adatok alapján megjelöli az általa előnyben részesített hitel jellemzőit, a hitelező és a hitelközvetítő a teljes hiteldíj mutatóról és a fogyasztó által fizetendő teljes összegről ezek alapulvételével nyújt tájékoztatást.
+
+(10) Az 1. melléklet szerinti formanyomtatványon megjelenített információk következetesek. Azok jól olvashatók, figyelembe véve a használt adathordozó technikai lehetőségeit. Az információk megfelelő módon jelennek meg a különböző csatornákon, figyelembe véve az adott csatorna működtetésének sajátosságait, az egyes csatornák közötti átjárhatóságot.
+
+(11) A hitelező és a hitelközvetítő az e §-ban meghatározott adatokon kívül kizárólag külön dokumentumban, jól olvashatóan adhat tájékoztatást, amely mellékelhető az 1. melléklet szerinti formanyomtatványhoz.
+
+(12) Ha a fogyasztó által fizetett részletek nem eredményezik haladéktalanul a hitelösszeg törlesztését, hanem a hitelszerződésben, vagy ahhoz kapcsolódó megállapodásban meghatározott időszakokban és feltételek szerint tőkeképzésre fordítják, az (1) bekezdés szerinti tájékoztatás során a hitelező és a hitelközvetítő egyértelműen és tömören tájékoztatja a fogyasztót, hogy a részletek megfizetése nem eredményezi automatikusan a hitel teljes összegének visszafizetését, kivéve ha a felek kifejezetten erről állapodnak meg.
+
+(13) E § rendelkezései nem alkalmazandóak arra a termékértékesítőre vagy szolgáltatóra, aki kiegészítő jelleggel végzi a hitelközvetítést. Ez nem érinti a hitelező és a hitelközvetítő kötelezettségét arra, hogy biztosítsa a fogyasztó részére az e § rendelkezéseinek megfelelő tájékoztatást.”
+
+77. § Az Fhtv. 7. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A hitelközvetítő a hitelre vonatkozó kereskedelmi kommunikációban és dokumentumokban feltünteti jogosultságának terjedelmét és azt, hogy függő vagy független közvetítőként – egy vagy több hitelező képviseletében – jár el.”
+
+78. § Az Fhtv. 10. §-a helyébe a következő rendelkezés lép:
+
+„10. § Ha a Szerződés megkötése a fogyasztó kérése alapján a távollévők között kötött pénzügyi ágazati szolgáltatási szerződésekről szóló 2025. évi XCIX. törvény (a továbbiakban: Téttv.) szerinti hívás útján történik, a Téttv. 4. §-ában meghatározott tájékoztatás legalább a 6. § (4) bekezdésében foglalt adatokat tartalmazza. Ilyen esetekben a hitelező és a hitelközvetítő a Szerződés megkötését követően haladéktalanul eleget tesz a 6. és 7. § szerint a fogyasztóval szemben fennálló tájékoztatási kötelezettségének papíron vagy más tartós adathordozón.”
+
+79. § Az Fhtv. a következő 11/A. §-sal egészül ki:
+
+„11/A. § A hitelező és a hitelközvetítő világos és érthető módon tájékoztatja a fogyasztót, ha az adatok automatikus feldolgozásán alapuló, személyre szabott ajánlatot tesz.”
+
+80. § Az Fhtv. a következő 11/B. §-sal egészül ki:
+
+„11/B. § A hitelező és a hitelközvetítő felhívja a fogyasztó figyelmét arra, ha a Szerződés megkötése – a fogyasztó pénzügyi helyzetére tekintettel – konkrét kockázatot jelent számára.”
+
+81. § Az Fhtv. a 13. §-t követően a következő alcímmel egészül ki:
+
+### „A kéretlen hitelnyújtás tilalma
+
+13/A. § Tilos a fogyasztó részére történő hitelnyújtás a fogyasztó előzetes kérése és kifejezett hozzájárulása nélkül.”
+
+82. § (1) Az Fhtv. 14. § (1)–(3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(1) A hitelező a fogyasztó hitelképességét a rendelkezésére álló információk alapján értékeli a felelőtlen hitelezési gyakorlat és a túlzott eladósodottság megelőzése érdekében, és kizárólag abban az esetben tesz ajánlatot a fogyasztónak Szerződés megkötésére, ha a hitelképesség-vizsgálat eredményeként valószínűsíthető, hogy a fogyasztó képes a Szerződésből eredő kötelezettségeinek maradéktalan teljesítésére. A hitelképesség vizsgálatának részletes szabályait jogszabály állapítja meg.
+
+(2) Ha e törvény felhatalmazása alapján kiadott jogszabály eltérően nem rendelkezik, az információk a fogyasztó által nyújtott tájékoztatáson és a hitelreferencia-szolgáltatás igénybevételén alapulhatnak. A hitelképesség vizsgálata azonban nem alapulhat kizárólag a fogyasztó hiteltörténetén. A hitelreferencia-szolgáltatás igénybevételéről a hitelező előzetesen papíron vagy más tartós adathordozón tájékoztatja a fogyasztót.
+
+(3) A hitelező a hitelképesség vizsgálatát követően haladéktalanul tájékoztatja a fogyasztót a hitelkérelem elbírálásának eredményéről és adott esetben a fogyasztó által elérhető adósságkezelési tanácsadási szolgáltatásról.”
+
+(2) Az Fhtv. 14. §-a a következő (3a) bekezdéssel egészül ki:
+
+„(3a) A hitelező tájékoztatja a fogyasztót arról, ha a hitelkérelem elutasítására az adatok automatikus feldolgozásával került sor és a fogyasztónak az ember által végzett vizsgálathoz való jogáról és a döntés vitatására szolgáló eljárásról.”
+
+(3) Az Fhtv. 14. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A Szerződés megkötését követően a hitelező nem mondhatja fel, vagy nem módosíthatja a fogyasztó számára hátrányosan a Szerződést azzal az indokkal, hogy a hitelképesség vizsgálata nem volt megfelelő vagy a fogyasztó által közölt adatok hiányosak voltak.”
+
+(4) Az Fhtv. 14. §-a a következő (7)–(9) bekezdéssel egészül ki:
+
+„(7) Ha a hitelképesség vizsgálat személyes adatok automatikus feldolgozásával jár, a fogyasztó jogosult emberi beavatkozást kérni a hitelezőtől, ami a következőket jelenti:
+
+- a) a fogyasztó a hitelezőtől egyértelmű és érthető magyarázatot kérhet a hitelképesség vizsgálatról, többek között az automatizált személyesadat-kezelés logikájáról és kockázatairól, annak jelentőségéről és a döntésre gyakorolt hatásáról,
+- b) a fogyasztó kifejezheti saját álláspontját a hitelező felé, és
+- c) a fogyasztó a hitelképesség vizsgálat és a döntés felülvizsgálatát kérheti a hitelezőtől.
+
+(8) A hitelező tájékoztatja a fogyasztót a (7) bekezdésben meghatározott jogáról.
+
+(9) Termékértékesítő vagy szolgáltató által halasztott fizetés formájában nyújtott hitel esetén az (1)–(8) bekezdéstől eltérően a fogyasztó hitelképesség vizsgálata a fogyasztó nyilatkozata alapján is történhet.”
+
+83. § (1) Az Fhtv. 14/A. § (3) bekezdése a következő c) ponttal egészül ki:
+
+[Az (1) bekezdésben foglaltaktól eltérően:]
+
+„c) jelzáloghiteltől eltérő hitel esetén a hitelező az arányossági megfontolások figyelembevételével előírhatja a fogyasztó számára, hogy rendelkezzen a Szerződéshez kapcsolódó biztosítással.”
+
+(2) Az Fhtv. 14/A. §-a a következő (4b) és (4c) bekezdéssel egészül ki:
+
+„(4b) A fogyasztók onkológiai betegségeivel összefüggő személyes adatokat a fogyasztók gyógykezelésének végétől számított öt év elteltével nem használhatják fel a Szerződéshez kapcsolódó biztosítás céljából.
+
+(4c) A (3) bekezdés c) pontjában meghatározott, Szerződéshez kapcsolódó biztosítási ajánlatok összehasonlítása érdekében a biztosítási szerződés megkötése előtt a fogyasztónak legalább három napot kell biztosítani anélkül, hogy az ajánlatot megváltoztatnák, és erről a fogyasztót tájékoztatni kell. A fogyasztó a három nap letelte előtt is megkötheti a biztosítási szerződést, ha ezt kifejezetten kéri.”
+
+84. § Az Fhtv. a 14/B. §-t követően a következő alcímmel egészül ki:
+
+### „Vélelmezett egyetértés tilalma
+
+14/C. § (1) A hitelező és a hitelközvetítő nem vélelmezheti alapértelmezett beállításként – ideértve az előre kipipált jelölőnégyzetet – a fogyasztó Szerződés megkötésére vagy kapcsolódó szolgáltatás megvásárlására vonatkozó szándékát.
+
+(2) A hitelező és a hitelközvetítő biztosítja, hogy a fogyasztónak a Szerződéskötésre vagy a jelölőnégyzetekkel bemutatott kapcsolódó szolgáltatások megvásárlására vonatkozó szándékát olyan egyértelmű és félreérthetetlen cselekmény bizonyítsa, amely önkéntes, konkrét és megfelelő tájékoztatáson alapul és egyértelmű kinyilvánítása, hogy a fogyasztó jóváhagyja a jelölőnégyzetek tartalmát.”
+
+85. § (1) Az Fhtv. 16. § (1) bekezdés 2. és 3. pontja helyébe a következő rendelkezések lépnek:
+
+[A hitelszerződés – a (4) bekezdésben meghatározott eltéréssel – egyértelműen és tömören tartalmazza:]
+
+„2. a szerződő felek nevét (cégnevét), levelezési címét (székhelyét), telefonszámát és e-mail címét,
+
+3. a hitelközvetítő nevét (cégnevét), levelezési címét (székhelyét), telefonszámát és e-mail címét,”
+
+(2) Az Fhtv. 16. § (1) bekezdés 19. pontja helyébe a következő rendelkezés lép:
+
+[A hitelszerződés – a (4) bekezdésben meghatározott eltéréssel – egyértelműen és tömören tartalmazza:]
+
+„19. az elállási (felmondási) jogot, illetve annak fenn nem állását, azon időszakot, amely alatt az elállási jog fennáll, az elállási (felmondási) jog gyakorlásának feltételeit, módját és jogkövetkezményeit, ideértve a 21. § (4) és (5) bekezdésében foglaltakat, valamint a 21. § (3) bekezdésében meghatározott, az értesítéshez használandó tartós adathordozót,”
+
+(3) Az Fhtv. 16. § (1) bekezdés 23. pontja helyébe a következő rendelkezés lép:
+
+[A hitelszerződés – a (4) bekezdésben meghatározott eltéréssel – egyértelműen és tömören tartalmazza:]
+
+„23. rendelkezésre áll-e a fogyasztó számára a szerződésből eredő jogviták peren kívüli rendezésére olyan lehetőség, amelynek a hitelező aláveti magát, ha igen, igénybevételének módját,”
+
+(4) Az Fhtv. 16. § (1) bekezdése a következő 26–28. ponttal egészül ki:
+
+[A hitelszerződés – a (4) bekezdésben meghatározott eltéréssel – egyértelműen és tömören tartalmazza:]
+
+„26. a tartós adathordozó típusát, amelyen a fogyasztó választása szerint az alábbi információkat megkapja:
+
+a) a 6. § (2) bekezdésében meghatározott emlékeztetőt,
+
+b) a 18/A. §-ban meghatározott tájékoztatást,
+
+c) a hitel kamatfeltételeinek módosítása esetén a 18. § (1) bekezdésében meghatározott tájékoztatást,
+
+d) adott esetben a határozatlan idejű hitelszerződés felmondására vonatkozó, a 20. § (2) és (4) bekezdésében meghatározott tájékoztatást,
+
+27. az adósságkezelési tanácsadási szolgáltatást nyújtók elérhetőségeit, valamint a fogyasztónak szóló ajánlást arra, hogy törlesztési nehézségek esetén vegye fel a kapcsolatot az ilyen szolgáltatást nyújtókkal,
+
+28. adott esetben egyéb szerződési feltételeket.”
+
+(5) Az Fhtv. 16. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) Az (1) bekezdésben meghatározott információknak jól olvashatóknak kell lenniük igazodva a használt adathordozó technikai lehetőségeihez és különböző eszközökön alkalmas és megfelelő módon kell megjelenniük.”
+
+86. § Az Fhtv. 18. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Az (1) bekezdéstől eltérően a tájékoztatás a hitelkamat változásról rendszeres időközönként is megadható, ha
+
+- a) a felek a rendszeres időközönkénti tájékoztatásról állapodtak meg a hitelszerződésben,
+- b) a hitelkamat referencia-kamatlábhoz kötött,
+- c) az új referencia-kamatlábat kellő időben és megfelelő módon nyilvánosságra hozzák és
+- d) az új referencia-kamatlábra vonatkozó tájékoztatás közzétételre kerül,
+  - da) a hitelező ügyfelek számára nyitva álló helyiségében,
+  - db) amennyiben a hitelező honlappal rendelkezik, a honlapján és
+  - dc) amennyiben a hitelező mobilalkalmazással rendelkezik, a mobilalkalmazásán keresztül.”
+
+87. § Az Fhtv. 18/A. § a) pontja helyébe a következő rendelkezés lép:
+
+(A hitelező a hitel feltételeinek módosítása előtt tájékoztatja a fogyasztót)
+
+„a) a javasolt módosítás egyértelmű tartalmáról, valamint arról, ha ahhoz a fogyasztó beleegyezése szükséges, vagy jogszabály változása miatt szükséges módosítások magyarázatáról,”
+
+88. § (1) Az Fhtv. 19. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A hitelező a fogyasztót a fizetési számlához kapcsolódó hitelkeret esetén rendszeresen, de legalább havonta egyszer papíron vagy a hitelszerződésben meghatározott más tartós adathordozón a (3) bekezdésben foglaltakról tájékoztatja.”
+
+(2) Az Fhtv. 19. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A (4) bekezdéstől eltérően a tájékoztatás a hitelkamat változásról rendszeres időközönként is megadható, ha
+
+- a) a felek a rendszeres időközönkénti tájékoztatásról állapodtak meg a hitelszerződésben,
+- b) a hitelkamat referencia-kamatlábhoz kötött,
+- c) az új referencia-kamatlábat megfelelő módon nyilvánosságra hozzák és
+- d) az új referencia-kamatlábra vonatkozó tájékoztatás közzétételre kerül
+  - da) a hitelező ügyfelek számára nyitva álló helyiségében,
+  - db) amennyiben a hitelező honlappal rendelkezik, a honlapján és
+  - dc) amennyiben a hitelező mobilalkalmazással rendelkezik, a mobilalkalmazásán keresztül.”
+
+(3) Az Fhtv. 19. §-a a következő (6) és (7) bekezdéssel egészül ki:
+
+„(6) A hitelező a fizetési számlához kapcsolódó hitelkeret csökkenéséről vagy megszűnéséről a hitelkeret-szerződésben meghatározott módon, legalább harminc nappal a hitelkeret tényleges csökkenését vagy megszűnését megelőzően tájékoztatja a fogyasztót.
+
+(7) Ha a fizetési számlához kapcsolódó hitelkeret csökken vagy megszűnik, a hitelező a végrehajtás megindítása előtt díjmentesen felajánlja a fogyasztó részére, hogy a ténylegesen lehívott összeget – a csökkenés vagy megszűnés mértékéig – 12 egyenlő havi összegben törlessze, kivéve, ha a fogyasztó a hitelt korábban törleszti a hitelkeretre alkalmazott hitelkamattal.”
+
+89. § (1) Az Fhtv. 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A fogyasztó a határozatlan idejű hitelszerződést bármikor díjmentesen felmondhatja, kivéve, ha a felek felmondási időről állapodtak meg. Ha törvény eltérően nem rendelkezik, egy hónapnál hosszabb felmondási idő kikötése semmis.”
+
+(2) Az Fhtv. 20. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A hitelezőt nem terheli a (4) bekezdés szerinti tájékoztatási kötelezettség, ha a tájékoztatási kötelezettség teljesítését jogszabály vagy az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa kizárja, vagy a tájékoztatási kötelezettség teljesítése Magyarország biztonságát vagy közrendjét sérti.”
+
+90. § Az Fhtv. 20/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) A hitelező belső szabályzatában rögzíti azokat az átstrukturálási lehetőségeket és eljárásokat, amelyeket a végrehajtási eljárás megindítását megelőzően a fogyasztók részére biztosít. Az átstrukturálási lehetőségek kialakítása során figyelembe veszi többek között a fogyasztó egyéni körülményeit és egyéb lehetőségek között a következőket tartalmazhatják:
+
+- a) a Szerződés teljes vagy részleges refinanszírozása,
+- b) a hitel futamidejének meghosszabbítása,
+- c) a hitel típusának módosítása,
+- d) a törlesztési kötelezettség egészének vagy egy részének elhalasztása,
+- e) a kamatláb módosítása,
+- f) halasztott törlesztés,
+- g) a tartozás pénznemének módosítása,
+- h) a tartozás részleges elengedése és adósságkonszolidáció.”
+
+91. § (1) Az Fhtv. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Ha a fogyasztó a 15. és 16. §-sal összhangban a szerződési feltételeket és tájékoztatást a szerződéskötést követően kapja kézhez, elállási (felmondási) jogát az (1) bekezdésben meghatározott időponttól eltérően a tájékoztatás kézhezvételétől számított tizennégy napig gyakorolhatja.”
+
+(2) Az Fhtv. 21. §-a a következő (2a) és (2b) bekezdéssel egészül ki:
+
+„(2a) Ha a fogyasztó nem kapta kézhez a 15. és 16. § alapján a szerződési feltételeket és tájékoztatást, az elállási (felmondási) jogát legkésőbb a Szerződés megkötését követő tizenkét hónap és tizennégy nap elteltéig gyakorolhatja, kivéve, ha a fogyasztót a 16. § (1) bekezdés 19. pontjának megfelelően elállási jogáról nem tájékoztatták.
+
+(2b) A hitelhez kapcsolódó szolgáltatásra vonatkozó olyan szerződés esetén, amely tizennégy naptári napot meghaladó határozott időtartamra szóló teljes visszatérítést biztosít, a fogyasztó elállási (felmondási) jogának gyakorlására nyitva álló idő ezen időtartammal meghosszabbodik.”
+
+(3) Az Fhtv. 21. § (3)–(5) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(3) Az elállási (felmondási) jogot határidőben érvényesítettnek kell tekinteni, ha a fogyasztó az erre vonatkozó nyilatkozatát az (1) és (2) bekezdésben meghatározott határidő lejártáig – a 16. § (1) bekezdés 19. pontjának megfelelően – postára adja vagy egyéb, a fogyasztó választása szerinti, a Szerződésben meghatározott más tartós adathordozón azt a hitelezőnek elküldi.
+
+(4) A fogyasztó az elállásról (felmondásról) szóló nyilatkozatának elküldését követően indokolatlan késedelem nélkül, de legkésőbb harminc napon belül a felvett hitelösszeget és a hitel lehívásának időpontjától a visszafizetés időpontjáig felszámítható, a Szerződés szerint megállapított hitelkamatot a hitelezőnek visszafizeti.
+
+(5) A fogyasztó elállása esetén a hitelező a (4) bekezdés szerinti összegen kívül kizárólag arra az összegre jogosult, amelyet az államnak vagy önkormányzatnak, valamint jogszabály kötelező rendelkezése alapján közigazgatási szervnek és közjegyzőnek a hitellel kapcsolatosan megfizetett, ha annak visszatérítésére nincs mód.”
+
+(4) Az Fhtv. 21. §-a a következő (7) bekezdéssel egészül ki:
+
+„(7) A hitelhez kapcsolódó szolgáltatásra vonatkozó szerződésben a felek megállapodhatnak abban, hogy a fogyasztó elállása (felmondása) esetén a kapcsolt hitelszerződés tárgyát képező termék, vagy e termék értékesítéséből származó összeg hitelező részére történő átadása a hitel visszafizetésének minősül.”
+
+92. § (1) Az Fhtv. 23. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Előtörlesztés esetén a hitelező csökkenti a hitel fogyasztó által viselt teljes díját arányosan a hitelszerződés fennmaradó időtartamával, illetve összegével. A csökkentés kiszámításakor a hitelező által felszámított hitelkamatot, és hitelkamaton kívüli minden egyéb ellenszolgáltatást figyelembe kell venni, ideértve a hitelnyújtás időpontjában teljes mértékben kifizetett díjat és költséget is.”
+
+(2) Az Fhtv. 23. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Jelzáloghitel előtörlesztése esetén a hitelező csökkenti a hitel teljes díját az előtörlesztett részlet vonatkozásában a hitelszerződés eredeti lejárata szerint fennmaradó időtartamára vonatkozó, a hitel futamidejétől függő hitelkamattal, és hitelkamaton kívüli minden egyéb ellenszolgáltatással.”
+
+93. § Az Fhtv. 24. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Nem illeti meg a hitelezőt az (1) bekezdés szerinti költségtérítés, ha tizenkét hónap alatt egy alkalommal a fogyasztó által teljesített előtörlesztés összege nem haladja meg az ötszázezer forintot.”
+
+94. § (1) Az Fhtv. 26. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Az (1) bekezdés szerinti megállapodás esetén a hitelező a fogyasztót rendszeresen tájékoztatja papíron vagy a fogyasztó választása szerint a megállapodásban meghatározott más tartós adathordozón a hitelkamatról és a hitelkamat feltételeiről, a vonatkozó referencia-kamatlábról, a megállapodás megkötésének időpontjától alkalmazandó díjakról és adott esetben a díjak módosításának feltételeiről.”
+
+(2) Az Fhtv. 26. § (4) bekezdése a következő e) ponttal egészül ki:
+
+(A hitelező a következő adatokról tájékoztatja a fogyasztót:)
+
+„e) a visszafizetés határidejéről.”
+
+(3) Az Fhtv. 26. §-a a következő (5)–(7) bekezdéssel egészül ki:
+
+„(5) Rendszeres túllépés esetén a hitelező – amennyiben rendelkezésére áll – tanácsadási szolgáltatásokat nyújt a fogyasztó részére, valamint a fogyasztót díjmentesen az adósságkezelési tanácsadási szolgáltatások felé irányítja.
+
+(6) A hitelező az (1) bekezdés szerinti megállapodásban meghatározott módon tájékoztatja a fogyasztót a túllépés lehetőségének megszűnéséről vagy összegének csökkentéséről legalább harminc nappal a megszűnés vagy csökkentés hatálybalépését megelőzően.
+
+(7) Ha a túllépés lehetősége megszűnik vagy összege csökken, a hitelező a végrehajtás megindítása előtt díjmentesen felajánlja a fogyasztó részére, hogy a ténylegesen lehívott összeget – a csökkenés vagy megszűnés mértékéig – 12 egyenlő havi összegben törlessze, kivéve, ha a fogyasztó a hitelt korábban törleszti a hitelkeretre alkalmazott hitelkamattal.”
+
+95. § Az Fhtv. a 26. §-t követően a következő alcímmel egészül ki:
+
+### „Pénzügyi nehézséggel küzdő fogyasztóval kapcsolatos rendelkezések
+
+26/A. § (1) A hitelező belső szabályzatában rögzíti a pénzügyi nehézségekkel – ideértve a fizetési késedelmet is – küzdő fogyasztó korai azonosítására szolgáló körülményeket, elveket és eljárásokat.
+
+(2) A fogyasztót, akinek vonatkozásában az (1) bekezdés szerint megállapítható, hogy pénzügyi kötelezettségvállalásai teljesítése során nehézségekkel küzd, a hitelező a Családi Csődvédelmi Szolgálat által működtetett adósságkezelési tanácsadási szolgáltatóhoz irányítja.”
+
+96. § Az Fhtv. a 27. §-t követően a következő alcímmel egészül ki:
+
+### „Halasztott fizetést biztosító termékértékesítők vagy szolgáltatók nyilvántartásba vétele és felügyelete
+
+27/A. § (1) A termékértékesítő vagy szolgáltató, amennyiben az általa kínált termékek vagy szolgáltatások megvásárlásához halasztott fizetést kíván biztosítani, kezdeményezi nyilvántartásba vételét a Magyar Nemzeti Banknál, az elektronikus hírközlésről szóló törvényben meghatározott elektronikus hírközlési szolgáltató esetében a Nemzeti Média- és Hírközlési Hatóságnál. A nyilvántartásba vételt igazolja, ha a termékértékesítő vagy szolgáltató személyét a Magyar Nemzeti Bank, illetve a Nemzeti Média- és Hírközlési Hatóság a honlapján közzéteszi.
+
+(2) A Magyar Nemzeti Bank, illetve a Nemzeti Média- és Hírközlési Hatóság ellenőrzési tevékenységének ellátása és a fogyasztók érdekeinek védelme céljából nyilvántartást vezet az e törvény hatálya alá tartozó, halasztott fizetés formájában hitelt nyújtó termékértékesítőkről vagy szolgáltatókról, és felügyeli azokat. A Magyar Nemzeti Bank, illetve a Nemzeti Média- és Hírközlési Hatóság a nyilvántartásban a termékértékesítők, szolgáltatók következő adatait kezeli:
+
+- a) a neve, székhelye,
+- b) a tevékenység végzésének helye,
+- c) a nyilvántartásba vétel időpontja,
+- d) a tevékenységi ágazat,
+- e) vezető állású személyének tisztsége, neve, születési helye, ideje és anyja neve.
+
+(3) A termékértékesítőt vagy szolgáltatót a Magyar Nemzeti Bank, illetve a Nemzeti Média- és Hírközlési Hatóság a nyilvántartásba vételre irányuló kérelmének kézhezvételét követő harminc napon belül nyilvántartásba veszi.
+
+(4) A termékértékesítőt vagy szolgáltatót nyilvántartottnak kell tekinteni, ha a Magyar Nemzeti Bank, illetve a Nemzeti Média- és Hírközlési Hatóság a nyilvántartásba vételre irányuló kérelem kézhezvételét követő harminc napon belül azt nem teljesítette.
+
+(5) A termékértékesítő vagy szolgáltató a (2) bekezdés szerinti nyilvántartásba vételt követően végezhet az e törvény hatálya alá tartozó tevékenységet.
+
+(6) Nem kell alkalmazni az (1)–(5) bekezdést azon termékértékesítőre vagy szolgáltatóra, aki mikro-, kis- vagy középvállalkozásnak minősül és
+
+- a) kiegészítő jelleggel jár el hitelezőként az általa kínált termékek vagy szolgáltatások megvásárlásához halasztott fizetés formájában nyújtva hitelt,
+- b) a hitelt kamatmentesen nyújtja és
+- c) a késedelem esetén felszámított kamat nem haladja meg a jegybanki alapkamatot.”
 
 #### 97. §
 
-#### 98. §
+98. § Az Fhtv. a következő 36. §-sal egészül ki:
 
-#### 99. §
+„36. § A pénzügyi közvetítőrendszert érintő törvények módosításáról szóló 2025. évi C. törvénnyel megállapított rendelkezéseket – a 37. §-ban meghatározott kivétellel – nem kell alkalmazni a 2026. november 20-a előtt megkötött Szerződésekre.”
 
-#### 100. §
+99. § Az Fhtv. 37. §-a helyébe a következő rendelkezés lép:
 
-#### 101. §
+„37. § E törvény 18. § (1) és (4) bekezdését, 19. §-át, 20. §-át, 26. § (2), (3)–(5) bekezdését, valamint 28. § (1) és (2) bekezdését a 2026. november 20-án már megkötött határozatlan idejű hitelszerződések esetén alkalmazni kell.”
+
+100. § Az Fhtv. 38. § a) pontja helyébe a következő rendelkezés lép:
+
+(Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:)
+
+„a) a fogyasztói hitelmegállapodásokról és a 2008/48/EK irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2225 európai parlamenti és a tanácsi irányelv.”
+
+101. § Az Fhtv. 1. melléklete helyébe az 1. melléklet lép.
 
 102. § Az Fhtv.
 
-- 1.
-- 2.
-- 3.
-- 4.
-- 5.
-- 6.
-- 7.
-- 8.
-- 9.
-- 10.
+- 1. 3. § 10. pontjában a „hitelszerződés kapcsán” szövegrész helyébe a „Szerződés kapcsán” szöveg,
+- 2. 3. § 11. pontjában a „hitelszerződésben meghatározott” szövegrész helyébe a „Szerződésben meghatározott” szöveg,
+- 3. 3. § 14. pontjában a „hitelszerződésben meghatározott” szövegrész helyébe a „Szerződésben meghatározott” szöveg,
+- 4. 3. § 15. pontjában a „kapcsolt hitelszerződés: olyan hitelszerződés,” szövegrész helyébe a „kapcsolt hitelszerződés: olyan Szerződés” szöveg,
+- 5. 3. § 15. pont b) alpontjában a „hitelszerződés” szövegrészek helyébe a „Szerződés” szöveg és a „hitelszerződésben” szövegrész helyébe a „Szerződésben” szöveg,
+- 6. 3. § 18. pontjában a „hitelszerződésben” szövegrészek helyébe a „Szerződésben” szöveg és a „hitelszerződés” szövegrész helyébe a „Szerződés” szöveg,
+- 7. 3. § 27. pontjában a „hitelszerződéshez kapcsolódóan” szövegrész helyébe a „Szerződéshez kapcsolódóan” szöveg,
+- 8. 3. § 29. pont a) alpontjában a „jelzáloghitel-nyújtásban” szövegrész helyébe a „fogyasztónak nyújtott hitel nyújtásában” szöveg, a „jelzálog-hitelezéssel” szövegrész helyébe a „fogyasztónak nyújtott hitelezéssel” szöveg,
+- 9. 3. § 29. pont b) alpontjában a „jelzálog-hitelezéssel” szövegrész helyébe a „fogyasztónak nyújtott hitelezéssel” szöveg,
+- 10. 4. § (1) bekezdésében a „jól hallhatónak kell lennie.” szövegrész helyébe a „jól hallhatónak kell lennie és igazodnia kell a használt adathordozó technikai lehetőségeihez.” szöveg,
 - 11.
-- 12.
-- 13.
-- 14.
-- 15.
-- 16.
-- 17.
-- 18.
-- 19.
-- 20.
-- 21.
-- 22.
-- 23.
-- 24.
-- 25.
-- 26.
-- 27.
-- 28.
-- 29.
-- 30.
-- 31.
-- 32.
-- 33.
-- 34.
-- 35.
-- 36.
-- 37.
+- 12. 4. § (5) bekezdésében a „hitelszerződés megkötéséhez” szövegrész helyébe a „Szerződés megkötéséhez” szöveg,
+- 13. 5. § (1) bekezdését megelőző alcím címében a „hitelszerződés megkötését” szövegrész helyébe a „Szerződés megkötését” szöveg,
+- 14. 5. § (1) bekezdésében a „hitelszerződés megkötését” szövegrész helyébe a „Szerződés megkötését” szöveg, valamint a „hitelszerződés esetleges” szövegrész helyébe a „Szerződés esetleges” szöveg,
+- 15. 5. § (6) bekezdésében a „hitelszerződések és” szövegrész helyébe a „Szerződések és” szöveg,
+- 16. 7. § (2) bekezdésében a „hitelszerződés megkötését” szövegrész helyébe a „Szerződés megkötését” szöveg,
+- 17. 8. § (1) bekezdésében a „hitelszerződés megkötését” szövegrész helyébe a „Szerződés megkötését” szöveg,
+- 18. 8. § (2) bekezdésében a „hitelszerződést” szövegrész helyébe a „Szerződést” szöveg,
+- 19. 8. § (3) bekezdésében a „hitelszerződés megkötését” szövegrész helyébe a „Szerződés megkötését” szöveg,
+- 20. 9. §-ában a „hitelszerződés tervezetét” szövegrész helyébe a „Szerződés tervezetét” szöveg és a „rendelkezésére kell bocsátani” szövegrész helyébe a „papíron vagy más tartós adathordozón rendelkezésére kell bocsátani” szöveg,
+- 21. 14/A. § (1), (2) bekezdésében és (3) bekezdés a) pontjában a „jelzáloghitel” szövegrész helyébe a „hitel” szöveg,
+- 22. 14/A. § (1) és (2) bekezdésében a „jelzáloghitel-szerződés” szövegrész helyébe a „Szerződés” szöveg,
+- 23. 14/A. § (4) bekezdésében a „b) pontjában” szövegrész helyébe a „b) és c) pontjában” szöveg,
+- 24. 15. §-át megelőző alcím címében a „hitelszerződés” szövegrész helyébe a „Szerződés” szöveg,
+- 25. 15. §-ában a „hitelszerződés” szövegrész helyébe a „Szerződés” szöveg,
+- 26. 16. § (1) bekezdés nyitó szövegrészében az „A hitelszerződés” szövegrész helyébe az „A Szerződés” szöveg,
+- 27. 16. § (1) bekezdés 11. pontjában a „hitelszerződés” szövegrész helyébe a „Szerződés” szöveg,
+- 28. 16. § (1) bekezdés 22. pontjában a „hitelszerződésre” szövegrész helyébe a „Szerződésre” szöveg,
+- 29. 17/B. § (1) bekezdésében a „vonatkozó kikötést is,” szövegrész helyébe a „vonatkozó kikötést is, és ide nem értve a 19. § (6) és (7) bekezdésben foglaltakat” szöveg,
+- 30. 18. § (1) bekezdésében és 19. § (4) bekezdésében a „más tartós adathordozón” szövegrész helyébe a „Szerződésben meghatározott más tartós adathordozón” szöveg,
+- 31. 18/A. § nyitó szövegrészében a „tájékoztatja” szövegrész helyébe a „papíron vagy a Szerződésben meghatározott más tartós adathordozón tájékoztatja” szöveg,
+- 32. 20. § (2) bekezdésében a „más tartós adathordozón” szövegrész helyébe az „a hitelszerződésben meghatározott más tartós adathordozón” szöveg,
+- 33. 20. § (4) bekezdésében a „más tartós adathordozón” szövegrész helyébe a „hitelszerződésben meghatározott más tartós adathordozón” szöveg,
+- 34. 21. § (1) bekezdésében a „hitelszerződéstől” szövegrész helyébe a „Szerződéstől” szöveg, valamint a „hitelszerződést,” szövegrész helyébe a „Szerződést,” szöveg,
+- 35. 22. § (2) bekezdés záró szövegrészében a „hitelszerződés alapján” szövegrész helyébe a „Szerződés alapján” szöveg,
+- 36. 26. § (3) bekezdésében a „más tartós adathordozón” szövegrész helyébe az „a fogyasztó választása szerint az (1) bekezdés szerinti keretszerződésben meghatározott más tartós adathordozón” szöveg,
+- 37. 38. § d) pontjában a „(2a) bekezdése” szövegrész helyébe a „(8) bekezdése” szöveg
 
 lép.
 
-#### 103. §
+103. § Hatályát veszti az Fhtv.
+
+- a) 1. § (2) bekezdés b) és c) pontja,
+- b) 2. § (2) bekezdése,
+- c) 16. § (4) bekezdése,
+- d) 2. melléklete.
 
 #### 17. A postai szolgáltatásokról szóló 2012. évi CLIX. törvény módosítása
 
@@ -336,7 +725,13 @@ lép.
 
 #### 114. §
 
-#### 115. §
+115. § Az Mnbtv. 41. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+
+[Az MNB látja el a 4. § (9) bekezdésében meghatározott feladatkörében a fogyasztóvédelmi jogszabályok végrehajtásáért felelős nemzeti hatóságok közötti együttműködésről és a 2006/2004/EK rendelet hatályon kívül helyezéséről szóló, 2017. december 12-i (EU) 2017/2394 európai parlamenti és tanácsi rendelet [a továbbiakban: (EU) 2017/2394 rendelet] végrehajtását]
+
+„a) a fogyasztói hitelmegállapodásokról és a 2008/48/EK irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2225 európai parlamenti és a tanácsi irányelvet,”
+
+[átültető tagállami jogszabályokba ütköző Európai Gazdasági Térség (a továbbiakban: EGT) államán belüli jogsértések tekintetében.]
 
 #### 116. §
 
@@ -366,13 +761,25 @@ lép.
 
 126. § (1)
 
-(2)
+(2) Az Mnbtv. 185. §-a következő 27. ponttal egészül ki:
 
-#### 127. §
+(Ez a törvény)
+
+„27. a fogyasztói hitelmegállapodásokról és a 2008/48/EK irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2225 európai parlamenti és a tanácsi irányelvnek”
+
+(való megfelelést szolgálja.)
+
+127. § Az Mnbtv. 186. § (6) bekezdés c) pontja helyébe a következő rendelkezés lép:
+
+(A pénzügyi fogyasztói jogvita tekintetében)
+
+„c) a fogyasztói hitelmegállapodásokról és a 2008/48/EK irányelv hatályon kívül helyezéséről szóló, 2023. október 18-i (EU) 2023/2225 európai parlamenti és tanácsi irányelv, 40. cikk”
+
+(végrehajtásához szükséges rendelkezéseket állapítja meg az MNB feladatkörében és eljárásában.)
 
 128. § (1) Az Mnbtv.
 
-- a)
+- a) 53. § (4) bekezdésében az „anonim módon teszi közzé a Hpt.-ben, a Jht.-ban,” szövegrész helyébe az „anonim módon teszi közzé a Hpt.-ben, a Jht.-ban, a fogyasztónak nyújtott hitelről szóló törvényben,” szöveg,
 - b)
 - c)
 - d)
@@ -415,7 +822,11 @@ lép.
 
 (8)
 
-(9)
+(9) A Hpt. 6. § (1) bekezdés 42a. pontja helyébe a következő rendelkezés lép:
+
+(E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában)
+
+„42a. hiteltanácsadás: a fogyasztónak nyújtott hitelhez vagy pénzügyi lízinghez kapcsolódó – a hitel és pénzkölcsön, valamint pénzügyi lízing nyújtásától, továbbá a pénzügyi szolgáltatás közvetítésétől elkülönülő – személyre szabott ajánlások adása;”
 
 (10)
 
@@ -451,7 +862,15 @@ lép.
 
 #### 140. §
 
-#### 141. §
+141. § (1) A Hpt. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A függő ügynök – ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt – a 202. § szerinti nyilvántartásba vételt követően végezhet ügynöki tevékenységet.”
+
+(2) A Hpt. 21. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+„(1a) A függő ügynököt a Felügyelet a pénzügyi intézmény nyilvántartásba vételre irányuló kérelmének kézhezvételét követő harminc napon belül nyilvántartásba veszi. A nyilvántartásba vételt igazolja, ha a függő ügynök személyét a Felügyelet a honlapján közzéteszi.
+
+(1b) A függő ügynököt a nyilvántartásba vételre irányuló kérelem kézhezvételét követő harmincegyedik napon nyilvántartottnak kell tekinteni, ha a Felügyelet a nyilvántartásba vételre irányuló kérelem kézhezvételét követő harminc napon belül a kérelmet nem utasította el.”
 
 #### 142. §
 
@@ -463,7 +882,9 @@ lép.
 
 #### 146. §
 
-#### 147. §
+147. § A Hpt. 76/A. §-a helyébe a következő rendelkezés lép:
+
+„76/A. § Hiteltanácsadási tevékenység végzésére csak fogyasztónak nyújtott hitel vagy pénzügyi lízing nyújtására engedéllyel rendelkező pénzügyi intézmény, valamint ezen tevékenységeket végző közvetítő kaphat engedélyt.”
 
 #### 148. §
 
@@ -770,6 +1191,76 @@ való megfelelést szolgálja.
 (2) Ez a törvény a pénzügyi szolgáltatások, a tőkepiacok és a fenntarthatóság szempontjából lényeges, nyilvánosan elérhető információkhoz központosított hozzáférést biztosító egységes európai hozzáférési pont létrehozásáról szóló, 2023. december 13-i (EU) 2023/2859 európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
 
 ### 1. melléklet a 2025. évi C. törvényhez
+
+„1. melléklet a 2009. évi CLXII. törvényhez
+
+Általános tájékoztató a Szerződés megkötését megelőzően
+
+#### Kulcsfontosságú információk
+
+#### I. rész (Mindig az űrlap első oldalán)
+
+| Hitelező neve (cégneve) adott esetben a hitelközvetítő neve (cégneve) | …[név] …[név] |
+| --- | --- |
+| A hitel teljes összega Szerződésben szereplő hitel összege vagy a lehívható összeg felső határa |  |
+| A hitel futamideje |  |
+| A hitelkamat vagy hitelkamatok | …% …[rögzített vagy változó hitelkamat; az egyes hitelkamatok időtartamai] |
+| Teljes hiteldíj mutató (THM)a hitel teljes díjának aránya a hitel teljes összegéhez éves százalékban kifejezve; a THM a különböző ajánlatok összehasonlítását segíti |  |
+| Az Ön által fizetendő teljes összega tőke, valamint a hitelkamat és minden egyéb ellenszolgáltatás, ideértve a díjat, jutalékot és költséget | …[a hitel teljes összege és a hitel teljes díja] |
+| Adott esetben A termék értékesítéséhez vagy a szolgáltatás nyújtásához kapcsolódó halasztott fizetés formájában nyújtott hitel esetén a termék vagy szolgáltatás megnevezése és készpénzára |  |
+| Késedelmi kamat, vagy egyéb olyan fizetési kötelezettség, amely a szerződésben vállalt kötelezettség nem teljesítéséből származik | Az elmulasztott törlesztés esetén Önnek a következő fizetési kötelezettsége keletkezik: …[az alkalmazandó hitelkamat, valamint adott esetben a késedelmi kamat] |
+
+Az „adott esetben” kifejezés szerepeltetése esetén a hitelezőnek kizárólag akkor kell kitöltenie az adott mezőt az adat tekintetében, ha az a hitelre vonatkoztatható, ha nem, a sort törölni szükséges.A dőlt betűvel szedett magyarázatnak segítenie kell a fogyasztót a számadatok jobb megértésében.A […]-ben található szöveg magyarázatot nyújt a hitelezőnek vagy a hitelközvetítőnek és annak helyébe a vonatkozó adatokat kell beírni.
+
+#### II. rész (Ha a következő elemeket nem lehet feltűnő módon egy oldalon megjeleníteni az űrlap első részében, a második oldalon kell azokat megjeleníteni)
+
+| A törlesztőrészletek és adott esetben a törlesztőrészletek elszámolásának sorrendje | Önnek a következő fizetéseket kell teljesítenie: [A fogyasztó által teljesítendő törlesztések összege, száma és gyakorisága] Kamat és/vagy díjak fizetésének módja: |
+| --- | --- |
+| A fizetés elmulasztásának vagy a késedelmes teljesítésnek a következményeire vonatkozó figyelmeztetésA fizetés elmulasztása vagy a késedelmes fizetés komoly következményekkel járhat Önre nézve (pl.: zálogtárgy végrehajtása), és megnehezíti a jövőbeli hitelfelvételt. |  |
+| Elállási jogÖnnek 14 naptári napon belül joga van elállni a hitelszerződéstől. | Igen/nem |
+| ElőtörlesztésÖn bármikor jogosult a hitel részleges vagy teljes előtörlesztésére. Adott esetben Előtörlesztés esetén a hitelező jogosult költségtérítésre. | Igen |
+| Hitelező Levelezési címe Telefonszáma E-mail címe Internet címe (nem kötelező) |  |
+| Adott esetben Hitelközvetítő Levelezési címe Telefonszáma E-mail címe Internet címe (nem kötelező) |  |
+
+#### A hitelmegállapodással kapcsolatos kiegészítő tájékoztatás
+
+| 1. A hiteltermék fő jellemzőinek leírása |  |
+| --- | --- |
+| A hitel típusa |  |
+| A lehívásra irányadó feltételekEz azt jelenti, hogyan és mikor fogja Ön megkapni a pénzt. Adott esetben A hitelszerződésre vonatkozó más lehívási módok magasabb teljes hiteldíj mutatót eredményezhetnek | [Amennyiben a hitelszerződés különböző lehívási módokat biztosít, amelyekhez különböző díjak és hitelkamatok kapcsolódnak és a hitelező a 83/2010. (III. 25.) Korm. rendelet 4. § (2) bekezdés e) pontjában meghatározott felvetést használja, jeleznie kell, hogy a hitelszerződéshez kapcsolódó más lehívási módok magasabb teljes hiteldíj mutatót eredményezhetnek.] |
+| Adott esetben A szükséges biztosítékokEz a Szerződéshez kapcsolódóan Ön által nyújtandó biztosíték leírása. | [A biztosítékok típusa] |
+| Adott esetben A törlesztések nem eredményezik a hitelösszeg azonnali törlesztését. |  |
+| Adott esetben Az ár automatizált döntéshozatal alapján személyre szabott volt. |  |
+| 2. A hitel költségei |  |
+| Adott esetben A Szerződésre alkalmazott különböző hitelkamatok | [% – rögzített vagy – változó (a kiinduló referencia-kamatláb mértéke), – időtartamok, – az egyes hitelkamatok alkalmazására irányadó feltételek, – az egyes hitelkamatok módosítására vonatkozó időszakok, feltételek és eljárások] |
+| A teljes hiteldíj mutatót (THM) szemléltető reprezentatív példa és a fogyasztó által fizetendő teljes összeg | [% Az itt meghatározott THM kiszámításához használt valamennyi feltételt megemlítő reprezentatív példa] |
+| A hitel megszerzéséhez vagy a hitelnek a meghirdetett feltételek melletti megszerzéséhez kötelező-e kötni: – a hitelt biztosító biztosítást vagy – egyéb kapcsolódó szolgáltatási szerződést?Ha a hitelező e szolgáltatások költségeit nem ismeri, azok nem szerepelnek a THM-ben | Igen/nem [ha igen, a biztosítás típusa] Igen/nem [ha igen, a kapcsolódó szolgáltatás típusa] |
+| Kapcsolódó költségek |  |
+| Adott esetben Egy vagy több olyan fizetési számla számlavezetési díjai, amelyek szükségesek mind a fizetési műveletek, mind a lehívások rögzítéséhez |  |
+| Adott esetben Egy konkrét készpénz-helyettesítő fizetési eszközhöz (pl. hitelkártyához) kapcsolódó valamennyi jutalék, díj, költség vagy egyéb fizetési kötelezettség |  |
+| Adott esetben A Szerződésből eredő bármely egyéb költség |  |
+| Adott esetben A hitelszerződéshez kapcsolódó fenti költségek módosításának feltételei |  |
+| Adott esetben Közjegyzői díjak fizetésére vonatkozó kötelezettség |  |
+| 3. Egyéb fontos jogi tájékoztatás |  |
+| Adott esetben Előtörlesztés esetén a hitelező jogosult költségtérítésre | [A költségtérítés meghatározása (számítási módszer) a 24. § rendelkezéseinek megfelelően] |
+| Adatbázisok lekérdezéseA hitelezőnek haladéktalanul és díjmentesen tájékoztatnia kell Önt a hitelreferencia-szolgáltatás igénybevétele során történő adatátadás eredményéről, ha a hitelező a hitelkérelmet ennek alapján utasítja vissza. |  |
+| A Szerződés tervezetéhez való jogÖnnek joga van ahhoz, hogy a hitelező a hitelszerződés-tervezetének egy példányát díj-, költség- és egyéb fizetési kötelezettség mentesen rendelkezésére bocsássa. E rendelkezést akkor kell alkalmazni, ha a hitelező az Ön kérésének időpontjában kész megkötni Önnel a hitelszerződést. |  |
+| Adott esetben A tájékoztatás érvényességének időbeli korlátozása. | Ez a tájékoztatás […]-tól […]-ig érvényes. |
+| A jogorvoslatra vonatkozó tájékoztatásÖnnek joga van peren kívüli vitarendezési lehetőség igénybevételére. | [A fogyasztó számára rendelkezésre álló peren kívüli vitarendezési lehetőség és az igénybevétel módja] |
+| A nemteljesítés jogi és pénzügyi következményeire vonatkozó figyelmeztetésA Szerződéshez kapcsolódó kötelezettségek nemteljesítése – leszámítva a késedelmes fizetést vagy a fizetés elmulasztását – súlyos következményekkel járhat Önre nézve. |  |
+| Törlesztési ütemterv | [A fogyasztó által a Szerződés hatálya alatt teljesítendő valamennyi fizetést és törlesztést tartalmazó törlesztési ütemterv, ideértve a kapcsolódó szolgáltatásokért teljesítendő fizetéseket is] |
+| Adott esetben 4. A pénzügyi szolgáltatások távértékesítéssel történő forgalmazása esetén nyújtandó kiegészítő tájékoztatás |  |
+| a) A hitelezőre vonatkozó tájékoztatás |  |
+| Adott esetben A hitelező képviselője az Ön lakóhelye szerinti tagállamban Levelezési cím Telefonszám E-mail cím Internet címe (nem kötelező) | [Azonosítás] [A fogyasztó által használandó cím] |
+| Adott esetben A hitelező cégjegyzékszáma vagy bírósági nyilvántartásba vételi száma | [cégjegyzék, amelybe a hitelezőt bejegyezték, valamint cégjegyzékszáma vagy bírósági nyilvántartásba vételi szám] |
+| A felügyeleti hatóság |  |
+| b) A hitelszerződésre vonatkozó tájékoztatás |  |
+| Adott esetben Az elállási jog gyakorlása | [Az elállási (felmondási) jog gyakorlásának feltételei, ideértve e jog gyakorlására nyitva álló időtartamot, azt a címet, amelyre az elállási nyilatkozatot küldeni kell, és annak következményei, ha a fogyasztó nem él az elállási jogával] |
+| Adott esetben A Szerződés megkötését megelőzően a kapcsolatfelvételhez a hitelező által alkalmazandó jog |  |
+| Adott esetben A Szerződésre alkalmazandó jog, illetékes bíróság kikötése | [A vonatkozó szerződési rendelkezés meghatározása] |
+| Adott esetben Nyelvhasználat | A tájékoztatás és a szerződési feltételek [meghatározott nyelven] kerülnek megadásra. A Szerződés hatálya alatt a kapcsolattartás [meghatározott nyelven] történik. |
+
+”
 
 ### 2. melléklet a 2025. évi C. törvényhez
 

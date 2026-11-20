@@ -352,7 +352,7 @@ azzal, hogy körözés elrendelésére és elfogatóparancs kibocsátására kiz
 
 (2) A szabadságvesztés, a közérdekű munka és a pártfogó felügyelet végrehajtása körében a végrehajtásért felelős szerv is jogosult az elítélt lakcímének megállapítása iránt intézkedni.
 
-(3) Ha az elítélt vagy a kényszergyógykezelt lakcímének, tényleges tartózkodási helyének felkutatása iránt megtett intézkedés, vagy a végrehajtás foganatosítása érdekében elrendelt elővezetés nem vezetett eredményre, a bíróság elfogatóparancsot bocsát ki annak az ismeretlen helyen tartózkodó elítéltnek vagy kényszergyógykezeltnek a felkutatása érdekében, aki
+(3) Ha az elítélt vagy a kényszergyógykezelt lakcímének, tényleges tartózkodási helyének felkutatása iránt megtett intézkedés, vagy a végrehajtás foganatosítása érdekében elrendelt elővezetés vagy az előállítás nem vezetett eredményre, a bíróság elfogatóparancsot bocsát ki annak az ismeretlen helyen tartózkodó elítéltnek vagy kényszergyógykezeltnek a felkutatása érdekében, aki
 
 - a) a jogerősen kiszabott szabadságvesztés vagy elzárás, illetve a jogerősen elrendelt javítóintézeti nevelés vagy kényszergyógykezelés letöltését nem kezdte meg,
 - b) a bv. szerv őrizetéből megszökött,
@@ -678,6 +678,10 @@ szabadságvesztés végrehajthatósága.
 - c) rendeli el, ha a szabadságvesztés mellett kiutasítást szabott ki.
 
 (2) Az (1) bekezdés esetén a bíróság a székhelyén működő bv. intézet parancsnokától rövid úton büntetés-végrehajtási őr kirendelését kéri, és az elítéltet az őrnek adja át. Ha a bíróság székhelyén nincs bv. intézet, vagy a büntetés-végrehajtási őr kirendelésének akadálya van, a bíróság az elítéltnek a bv. intézetbe kísérése végett rövid úton a rendőrséget keresi meg.
+
+(3) Az (1) bekezdésben meghatározott esetben, ha a terhelt a nyilvános ülésen vagy a tárgyaláson nincs jelen, illetve ha a fellebbezést tanácsülésen bírálja el, a bíróság a szabadságvesztésről kiállított értesítőlapra bírói rendelvényt vezet, és az elítéltnek a lakcíme, illetve tényleges tartózkodási helye szerinti legközelebbi bv. intézetbe történő előállítása érdekében a rendőrséget keresi meg. Az elítélt befogadásáról történő értesítés alapján a bíróság haladéktalanul megküldi az értesítőlapot a befogadó bv. intézet részére.
+
+(4) Ha a terhelt előállítása nem vezetett eredményre, a bíróság – az azonnali foganatba vétel elrendeléséről szóló határozat, az értesítőlap és az előállításról készült rendőri jelentés megküldésével – elfogatóparancs kibocsátását kezdeményezi a büntetés-végrehajtási bírónál.
 
 38. § (1) Ha a végrehajtandó szabadságvesztést kiszabó ügydöntő határozat jogerőre emelkedésekor a terhelt nincs letartóztatásban, és a szabadságvesztés végrehajtásának azonnali foganatba vételét a bíróság nem rendelte el, az elítélttel szemben – a bv. intézetbe történő befogadásáig – a szabadságvesztés végrehajtásának biztosítására irányuló intézkedés rendelhető el, ha a bűncselekmény jellegére, a kiszabott szabadságvesztésre az elítélt személyi és családi körülményeire – különösen az egészségi állapotára, idős korára – tekintettel alaposan feltehető, hogy ezzel is biztosítható, hogy a terhelt szökésével vagy elrejtőzésével a büntetés végrehajtása alól ne vonja ki magát.
 
@@ -1565,7 +1569,7 @@ az elítélt meghallgatása után határoz.
 
 ### Az elítélttel szemben elrendelhető megelőző távoltartás
 
-75/A. § (1) A büntetés-végrehajtási bíró a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján a sértett kérelmére a szabadságvesztés büntetését töltő elítélt sértettől való megelőző távoltartását rendeli el.
+75/A. § (1) A büntetés-végrehajtási bíró a hozzátartozók közötti erőszak miatt alkalmazható távoltartásról szóló 2009. évi LXXII. törvény III/A. Fejezete alapján a sértett kérelmére a jogerősen szabadságvesztésre ítélt sértettől való megelőző távoltartását rendeli el.
 
 (2) A kérelemnek tartalmaznia kell:
 
@@ -2032,7 +2036,7 @@ végrehajtásához szükséges adatokat ismerheti meg és kezelheti.
 88. § A bv. intézet az elítéltet
 
 - a) a jogerős ügydöntő határozatról szóló értesítőlap,
-- b) az elővezetésről szóló rendelkezés,
+- b) az elővezetésről és az előállításról szóló rendelkezés,
 - c) az elfogatóparancs,
 - d) a szabadságvesztés letöltésére vonatkozó felhívás,
 - e) a szabadságvesztés ideiglenes foganatba vételére vonatkozó ügyészi vagy bírói rendelkezés, vagy
@@ -4017,7 +4021,7 @@ napjával,
 - a) az elítélt által elkövetett bűncselekményt, a kiszabott büntetés tartamát és a büntetésből még végrehajtásra váró részt,
 - b) az elítélt büntetés végrehajtása alatt tanúsított magatartását, kiemelten – a kezdeti kategória besoroláshoz és a szabadságvesztés letöltendő tartamához képest – a kategória-rendszerben való előmenetelét, valamint a visszaesési kockázatot csökkentő reintegrációs tevékenységben való részvételét,
 - c) az elítéltnek az általa elkövetett bűncselekményhez való viszonyulását és a bűncselekménnyel okozott hátrány jóvátételét eredményező vagy azt célzó magatartását,
-- d) ha az elítélt által elkövetett bűncselekménynek nem volt sértettje, az elítélt által az igazságügyért felelős miniszter által vezetett minisztérium „bűncselekmények áldozatainak kárenyhítése” megnevezésű célelőirányzata javára teljesített befizetés tényét,
+- d) ha az elítélt által elkövetett bűncselekménynek nem volt sértettje, az elítélt által az áldozatsegítésért felelős miniszter által vezetett minisztérium „bűncselekmények áldozatainak kárenyhítése” megnevezésű célelőirányzata javára teljesített befizetés tényét,
 - e) az elítélt törvénytisztelő életmód folytatására vonatkozó készségét
 
 vizsgálja.
@@ -7415,3 +7419,5 @@ a reintegrációs őrizet megszűnésének vagy megszüntetésének időpontjái
 (7) E törvény a büntetőeljárás során gyanúsított vagy vádlott gyermekek részére nyújtandó eljárási biztosítékokról szóló, 2016. május 11-i (EU) 2016/800 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
 (8) E törvény az uniós korlátozó intézkedések megsértése bűncselekményi tényállásainak és szankcióinak meghatározásáról és az (EU) 2018/1673 irányelv módosításáról szóló, 2024. április 24-i (EU) 2024/1226 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+(9) E törvény a környezet büntetőjog általi védelméről, valamint a 2008/99/EK és a 2009/123/EK irányelv felváltásáról szóló, 2024. április 11-i (EU) 2024/1203 európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

@@ -163,7 +163,7 @@ a hitelintézetekről és a pénzügyi vállalkozásokról
 - 42. hitelreferencia-szolgáltatás:
   - a) banktitkot nem sértő bankinformáció díjazás ellenében történő nyújtása vagy
   - b) a központi hitelinformációs rendszerről szóló törvényben meghatározott központi hitelinformációs rendszert kezelő pénzügyi vállalkozás által történő adatkezelés;
-- 42a. hiteltanácsadás: a jelzáloghitelhez vagy a fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízinghez kapcsolódó – a hitel és pénzkölcsön, valamint pénzügyi lízing nyújtásától, továbbá a pénzügyi szolgáltatás közvetítésétől elkülönülő – személyre szabott ajánlások adása;
+- 42a. hiteltanácsadás: a fogyasztónak nyújtott hitelhez vagy pénzügyi lízinghez kapcsolódó – a hitel és pénzkölcsön, valamint pénzügyi lízing nyújtásától, továbbá a pénzügyi szolgáltatás közvetítésétől elkülönülő – személyre szabott ajánlások adása;
 - 43. illetékes felügyeleti hatóság: az 575/2013/EU rendeletben illetékes hatóságként meghatározott fogalom;
 - 44. induló tőke: a jegyzett tőke – ide nem értve az osztalékelsőbbségi, a nyereséges évben az elmúlt év(ek) elmaradt hozamkifizetésére is feljogosító jegyzett és befizetett részvények névértékét –, a tőketartalék és az eredménytartalék összege; az alapítványi formában működő pénzügyi vállalkozás esetén az alapítvány létesítéséhez az alapító által tartósan, korlátlanul, tehermentesen az alapítványi cél megvalósítása érdekében az alapítvány rendelkezésére bocsátott tőke;
 - 45. intézményspecifikus anticiklikus tőkepuffer-követelmény: a hitelintézeti tevékenység prociklikusságának a csökkentésére irányuló, az ügyfél – akivel szemben a hitelezési kitettség fennáll – elhelyezkedésének figyelembevételével számított szavatolótőke-követelmény;
@@ -799,7 +799,11 @@ amennyiben az összevont alapú felügyeletet a Felügyelet látja el, vagy a p�
 
 #### 13. Függő és független közvetítő engedélyezése, bejelentése
 
-21. § (1) A függő ügynök – ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt – a Felügyelet engedélye nélkül, a 202. § szerinti nyilvántartásba vételt követően végezhet ügynöki tevékenységet.
+21. § (1) A függő ügynök – ide nem értve a jelzáloghitel közvetítői tevékenységet végző függő ügynököt – a 202. § szerinti nyilvántartásba vételt követően végezhet ügynöki tevékenységet.
+
+(1a) A függő ügynököt a Felügyelet a pénzügyi intézmény nyilvántartásba vételre irányuló kérelmének kézhezvételét követő harminc napon belül nyilvántartásba veszi. A nyilvántartásba vételt igazolja, ha a függő ügynök személyét a Felügyelet a honlapján közzéteszi.
+
+(1b) A függő ügynököt a nyilvántartásba vételre irányuló kérelem kézhezvételét követő harmincegyedik napon nyilvántartottnak kell tekinteni, ha a Felügyelet a nyilvántartásba vételre irányuló kérelem kézhezvételét követő harminc napon belül a kérelmet nem utasította el.
 
 (2) A pénzügyi intézmény az általa megbízott függő ügynök, többes ügynök és közvetítői alvállalkozó személyét, valamint az alkusz az általa megbízott közvetítői alvállalkozó személyét a Felügyelet által meghatározott módon és gyakorisággal bejelenti a Felügyeletnek.
 
@@ -1615,7 +1619,7 @@ a büntetett előélet jogkövetkezménye alóli mentesülésig,
 - b) részvénytársaságként vagy fióktelep formájában működik, és
 - c) megfelel a jogszabályban megállapított személyi és tárgyi feltételeknek.
 
-76/A. § Hitel-tanácsadási tevékenység végzésére csak jelzáloghitel vagy fogyasztónak nyújtott ingatlanra vonatkozó pénzügyi lízing nyújtására engedéllyel rendelkező pénzügyi intézmény, valamint jelzáloghitel közvetítői tevékenységet végző közvetítő kaphat engedélyt.
+76/A. § Hiteltanácsadási tevékenység végzésére csak fogyasztónak nyújtott hitel vagy pénzügyi lízing nyújtására engedéllyel rendelkező pénzügyi intézmény, valamint ezen tevékenységeket végző közvetítő kaphat engedélyt.
 
 #### 33. Fizetési rendszerhez történő hozzáférés
 
@@ -5690,8 +5694,6 @@ vonatkozó részletes szabályokat.
 (7) A 275. § (6) bekezdése szerinti kivonaton az OBA tagintézet felhívja a betétes figyelmét a 6. § (2) bekezdés 6. pontjának 2021. január 1-jén hatályba lépő módosítására.
 
 (8) Az a közvetítővel, közvetítői alvállalkozóval munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló természetes személy, aki 2021. december 31-én megfelelt a 74. § (1) bekezdés b) pontjában meghatározott követelményeknek, 2022. január 1-jét követően is munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban állhat közvetítővel, közvetítői alvállalkozóval.
-
-(9)
 
 (9) A hitelintézet 2026. november 30-tól 2027. május 15-ig jogosult az iskolakezdési utalványról szóló kormányrendeletben foglaltaknak megfelelően iskolakezdési utalvány beváltására.
 

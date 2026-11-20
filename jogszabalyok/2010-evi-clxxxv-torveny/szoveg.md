@@ -2059,7 +2059,8 @@ tudósítói hálózatot működtet.
 - g) ellátja az egyéb jogszabályban foglalt elektronikus hírközlési és postai hatósági feladatokat,
 - h) a gazdálkodás körében – e törvényben és más jogszabályokban foglaltak szerint – gyakorolja a rádiófrekvenciákra és azonosítókra vonatkozó állami tulajdonosi jogokat, gazdálkodást folytat a rádiófrekvenciák és azonosítók vonatkozásában,
 - i) ellátja a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendeletben (a továbbiakban: DSA rendelet) a Digitális Szolgáltatási Koordinátor számára meghatározott feladatokat, valamint
-- j) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.
+- j) ellátja az (EU) 2023/1544 európai parlamenti és tanácsi irányelv 2. cikk 1. pont a) alpontjában meghatározott szolgáltatókkal összefüggésben, valamint
+- k) ellátja az egyéb jogszabályban foglalt hatósági és nem hatósági feladatokat.
 
 (2) Az (1) bekezdés i) pontja tekintetében a DSA rendeletben a Digitális Szolgáltatási Koordinátor számára, valamint a tagállam illetékes hatósága számára meghatározott valamennyi hatáskört és feladatot a Hatóság Elnöke önállóan látja el. A Digitális Szolgáltatási Koordinátor eljárása nem érinti a más hatóság kizárólagos hatáskörébe utalt feladatok ellátását.
 
@@ -3971,6 +3972,7 @@ rendeletben megállapítsa.
 - e) az Európai Parlament és a Tanács 98/27/EK irányelve (1998. május 19.) a fogyasztói érdekek védelme érdekében a jogsértés megszüntetésére irányuló eljárásokról, 2. cikk (1) bekezdés és 4. cikk (1) bekezdés,
 - f) a tagállamok audiovizuális médiaszolgáltatások nyújtására vonatkozó egyes törvényi, rendeleti vagy közigazgatási rendelkezéseinek összehangolásáról szóló 2010/13/EU irányelvnek (Audiovizuális médiaszolgáltatásokról szóló irányelv) a változó piaci körülményekre tekintettel való módosításáról szóló, 2018. november 14-i (EU) 2018/1808 irányelv,
 - g) a digitális szolgáltatások egységes piacáról és a 2000/31/EK irányelv módosításáról szóló 2022. október 19-i (EU) 2022/2065 európai parlamenti és tanácsi rendelet.
+- h) a büntetőeljárásban az elektronikus bizonyítékok gyűjtése céljából a kijelölt telephelyek kijelöléséről és a jogi képviselők kinevezéséről szóló harmonizált szabályok meghatározásáról szóló, 2023. július 12-i (EU) 2023/1544 európai parlamenti és tanácsi irányelv.
 
 (2) Ez a törvény a következő európai uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg a Nemzeti Média- és Hírközlési Hatóság feladatkörében és eljárásában:
 

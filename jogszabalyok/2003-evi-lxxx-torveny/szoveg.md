@@ -193,7 +193,7 @@ Annak érdekében, hogy létrejöjjön a szociálisan hátrányos helyzetben lé
 17. § (1) Az állam a büntetőeljárásban jogi segítségnyújtás keretében a 18. §-ban és a 19. §-ban foglalt feltételek fennállása esetén a következő támogatásokat nyújtja:
 
 - a) a sértett, a magánvádló, a pótmagánvádló, a magánfél, a vagyoni érdekelt és az egyéb érdekelt részére a pártfogó ügyvéd díjának és költségeinek (a továbbiakban: pártfogó ügyvédi díj) állam általi előlegezése és jogszabályban meghatározott esetben viselése,
-- b) a terhelt részére a kirendelt védő díjának és költségeinek állam általi előlegezése és viselése.
+- b) a terhelt és a bűncselekmény elkövetésével megalapozottan gyanúsítható személy részére a kirendelt védő díjának és költségeinek állam általi előlegezése és viselése.
 
 (2) Az (1) bekezdésben foglalt támogatás tartalmát a büntetőeljárásról szóló 2017. évi XC. törvény (a továbbiakban: Be.) határozza meg.
 
@@ -581,7 +581,9 @@ követő 60 napon belül terjesztheti elő, ezt követően pedig akkor, ha igazo
 
 63. § (1) A 17. § (1) bekezdésében meghatározott támogatás (a továbbiakban e Fejezetben együtt: támogatás) engedélyezésére és igénybevételére a VI. Fejezetben foglalt szabályokat az e Fejezetben foglalt eltérésekkel kell alkalmazni.
 
-(2) A támogatás engedélyezése iránti kérelmet a büntetőeljárásban – ha a Be. másként nem rendelkezik – legkésőbb a bíróság ügydöntő határozatának meghozataláig lehet előterjeszteni a jogi segítségnyújtó szolgálathoz. A támogatás hatálya a kérelem előterjesztésétől a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tart, és kiterjed a perújításra, a felülvizsgálatra, az egyszerűsített felülvizsgálatra, valamint a különleges eljárásokra is.
+(2) A támogatás engedélyezése iránti kérelmet a büntetőeljárásban – ha a Be. másként nem rendelkezik – legkésőbb a bíróság ügydöntő határozatának meghozataláig lehet előterjeszteni a jogi segítségnyújtó szolgálathoz. A támogatás hatálya – a (2a) bekezdésben foglalt kivétellel – a kérelem előterjesztésétől a büntetőeljárásnak a bíróság jogerős ügydöntő határozatával vagy véglegessé vált nem ügydöntő végzésével történő befejezéséig, vagy az ügyészségnek, a Nemzeti Vagyonvisszaszerzési és Vagyonvédelmi Hivatalnak vagy a nyomozó hatóságnak a feltételes ügyészi felfüggesztés vagy közvetítői eljárás céljából történő felfüggesztésről szóló, illetve további jogorvoslattal nem támadható eljárást megszüntető határozata meghozataláig tart, és kiterjed a perújításra, a felülvizsgálatra, az egyszerűsített felülvizsgálatra, valamint a különleges eljárásokra is.
+
+(2a) A 17. § (1) bekezdés b) pontjában meghatározott támogatás hatálya a kérelem előterjesztését megelőzően felmerült díjakra és költségekre is kiterjed.
 
 (3) A kérelemben foglaltak ellenőrzése során a félen kívül a büntetőeljárásban részt vevő más személy meghallgatására nem kerül sor.
 
