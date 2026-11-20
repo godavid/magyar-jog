@@ -528,5 +528,10 @@
     "datum": "2026-10-24",
     "verzio": 147,
     "sha": "3b23e89e5770d797fdb39332aa31dd46151d64a7"
+  },
+  {
+    "datum": "2026-11-20",
+    "verzio": 149,
+    "sha": "4bdf6acd6072060b10182312ba8f87c3fbdea8c8"
   }
 ]
