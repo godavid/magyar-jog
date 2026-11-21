@@ -144680,6 +144680,11 @@
       "datum": "2026-11-20",
       "verzio": 19,
       "sha": "4bdf6acd6072060b10182312ba8f87c3fbdea8c8"
+    },
+    {
+      "datum": "2026-11-21",
+      "verzio": 20,
+      "sha": "4e2dab55d7748f78994c8743bd7b5cdde088de29"
     }
   ],
   "2025-evi-ci-torveny": [
@@ -145734,6 +145739,11 @@
       "datum": "2026-11-20",
       "verzio": 5,
       "sha": "4bdf6acd6072060b10182312ba8f87c3fbdea8c8"
+    },
+    {
+      "datum": "2026-11-21",
+      "verzio": 6,
+      "sha": "4e2dab55d7748f78994c8743bd7b5cdde088de29"
     }
   ],
   "2026-evi-xxviii-torveny": [
