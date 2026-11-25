@@ -931,7 +931,7 @@ gondoskodik.
 
 (2) Ha a szülő a 38. § (5) bekezdésében lefolytatott vizsgálat alapján több olyan gyermekéről is gondoskodik, akire tekintettel a gyermekek otthongondozási díjára való jogosultsága megállapítható lenne, számára – e feltételek fennállásának időtartama alatt – az (1) bekezdésben foglalt havi összeg másfélszeresében megállapított ellátást kell folyósítani.
 
-(3) A gyermekek otthongondozási díjának havi összege a más rendszeres pénzellátásban – ide nem értve a 39/B. § (5) bekezdés a) pontja szerinti rendszeres pénzellátásokat, ha a 39/B. § (5) bekezdés b) és c) pontjában meghatározott feltételek fennállnak, továbbá a szülő részére folyósított csecsemőgondozási díjat, gyermekgondozási díjat vagy gyermekgondozást segítő ellátást, ha azt nem a gyermekek otthongondozási díjára jogosító gyermekre tekintettel állapították meg, továbbá a gyermeknevelési támogatást – részesülő jogosult esetén az (1) vagy (2) bekezdés szerinti összegnek és a jogosult részére folyósított más rendszeres pénzellátás havi bruttó összegének a különbözete. Ha a különbözet az ezer forintot nem éri el, a jogosult részére ezer forint összegű ellátást kell megállapítani.
+(3)
 
 (4) A gyermekek otthongondozási díja folyósításának időtartama szolgálati időre jogosít. A gyermekek otthongondozási díjában részesülő személy – ide nem értve a Tbj. 37. §-a alapján nyugdíjjárulék fizetésére nem kötelezett személyt – az ellátás után nyugdíjjárulék fizetésére kötelezett.
 
@@ -941,7 +941,7 @@ gondoskodik.
   - aa) az iskolában, szakképző intézményben eltöltött idő a jogszabályban előírt, az iskolában, illetve a szakképző intézményben való kötelező tartózkodásra meghatározott időtartamot nem haladja meg,
   - ab) az óvoda vagy a nappali ellátást nyújtó szociális intézmény igénybevételének, illetve a felsőoktatási intézmény látogatási kötelezettségének időtartama átlagosan a napi 5 órát nem haladja meg, vagy
   - ac) a köznevelési, illetve a felsőoktatási intézmény látogatása, vagy a nappali ellátást nyújtó szociális intézmény igénybevétele csak a szülő rendszeres közreműködésével valósítható meg;
-- b) – a gyermeknevelési támogatás, valamint a nem a gyermekek otthongondozási díjára jogosító gyermekre tekintettel folyósított csecsemőgondozási díj, az örökbefogadói díj, gyermekgondozási díj, gyermekgondozást segítő ellátás, továbbá a tartós ápolást végzők időskori támogatása kivételével – rendszeres pénzellátásban részesül, és annak összege meghaladja a gyermekek otthongondozási díjának összegét, ide nem értve az (5) bekezdés szerinti esetet, valamint azt a táppénzt, amelyet a gyermekek otthongondozási díja folyósításának időtartama alatt végzett keresőtevékenységéből adódó biztosítási jogviszony alapján – keresőképtelenné válása esetén – folyósítanak;
+- b)
 - c) szakiskola, középiskola nappali rendszerű képzésének tanulója, illetve a doktori képzés kivételével felsőoktatási intézmény teljes idejű képzésben részt vevő hallgatója; vagy
 - d) keresőtevékenységet folytat és munkaideje – az otthon történő munkavégzés kivételével – a napi 4 órát meghaladja.
 
