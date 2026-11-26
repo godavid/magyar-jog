@@ -2160,6 +2160,11 @@
       "datum": "2026-10-01",
       "verzio": 75,
       "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
+    },
+    {
+      "datum": "2026-11-26",
+      "verzio": 81,
+      "sha": "a341c83b562a030ee70312a6cc11b3fae69b0461"
     }
   ],
   "2017-evi-cli-torveny-air": [
@@ -6265,6 +6270,11 @@
       "datum": "2026-11-20",
       "verzio": 95,
       "sha": "4bdf6acd6072060b10182312ba8f87c3fbdea8c8"
+    },
+    {
+      "datum": "2026-11-26",
+      "verzio": 102,
+      "sha": "a341c83b562a030ee70312a6cc11b3fae69b0461"
     }
   ],
   "2015-evi-cxliii-torveny-kbt": [
@@ -60252,6 +60262,11 @@
       "datum": "2026-10-01",
       "verzio": 94,
       "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
+    },
+    {
+      "datum": "2026-11-26",
+      "verzio": 95,
+      "sha": "a341c83b562a030ee70312a6cc11b3fae69b0461"
     }
   ],
   "2007-evi-cxxxix-torveny": [
@@ -97603,6 +97618,11 @@
       "datum": "2026-10-01",
       "verzio": 45,
       "sha": "fb30b1def6f21d0d3fb3a6de1fc7321aa4ac4f63"
+    },
+    {
+      "datum": "2026-11-26",
+      "verzio": 46,
+      "sha": "a341c83b562a030ee70312a6cc11b3fae69b0461"
     }
   ],
   "2013-evi-ccxxxvi-torveny": [
@@ -99397,6 +99417,11 @@
       "datum": "2026-11-16",
       "verzio": 60,
       "sha": "1d942c1203c866ccc0c646af79fb22534c76bfd3"
+    },
+    {
+      "datum": "2026-11-26",
+      "verzio": 61,
+      "sha": "a341c83b562a030ee70312a6cc11b3fae69b0461"
     }
   ],
   "2014-evi-xvii-torveny": [
@@ -101311,6 +101336,11 @@
       "datum": "2026-09-27",
       "verzio": 49,
       "sha": "6f08c7aad737f6a1eca774ca5e2fc445566feafc"
+    },
+    {
+      "datum": "2026-11-26",
+      "verzio": 50,
+      "sha": "a341c83b562a030ee70312a6cc11b3fae69b0461"
     }
   ],
   "2014-evi-lxxxix-torveny": [
