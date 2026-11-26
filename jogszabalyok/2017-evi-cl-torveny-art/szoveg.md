@@ -1157,6 +1157,11 @@ A kifizető a föld bérbeadásából (földjáradékból) származó jövedelem
 - d) a tulajdonjog, használati jog, vagyonkezelői jog átruházására irányuló szerződés esetén a szerződés, jog alapítása esetén a jogalapításról szóló szerződés, nyilatkozat széljegyre vételét, a széljegyzés napját, a szerző felet, természetes személy szerző fél esetén a szerző fél azonosító adatait, lakcímét, jogi személy szerző fél esetén a jogosult székhelyét, értesítési címét, több szerző fél esetén a szerző felek által megszerzett tulajdoni, jogosultsági hányadot, és
 - e) a telekalakítási vagy építési tilalom elrendelésének tényét, a tény bejegyzésének napját.
 
+(3) A földmérési és térinformatikai államigazgatási szerv negyedévente – kockázatelemzési, adóigazgatási, adóvégrehajtási eljárás lefolytatása céljából – díj-, költség- és térítésmentesen, elektronikusan feldolgozható formában, a tárgynegyedévet követő hónap tizenötödik napjáig adatot szolgáltat az állami adó- és vámhatóságnak az ingatlan-nyilvántartás tárgynegyedév utolsó napján érvényes és törölt adatairól. Az adatszolgáltatás tartalmazza az ingatlan-nyilvántartásban önálló ingatlanként nyilvántartott ingatlan esetén
+
+- a) az ingatlan-nyilvántartásról szóló 2021. évi C. törvény végrehajtásáról szóló 179/2023. (V. 15.) Korm. rendelet 23. § 1–16. pontja szerinti, 24. § (1) bekezdés 1–14. pontja és (2) bekezdése szerinti, 25. § (1) bekezdés 1–22. pontja, (2) bekezdés 1., 2. és 4–7. pontja, 22. pont a) és c) alpontja, 28–33. pontja, 40–44. pontja és (3) bekezdés 1–9. pontja szerinti adatait,
+- b) az ingatlan tulajdonosainak és a vagyoni értékű jog jogosultjainak az ingatlan-nyilvántartási adatokhoz hozzárendelt adószámát, természetes személy esetén – az összerendelési nyilvántartás igénybevételével – adóazonosító jelét.
+
 #### 84. § [A hitelintézet, pénzforgalmi szolgáltató adatszolgáltatása]
 
 (1) A pénzforgalmi számlát vezető pénzforgalmi szolgáltató – a cégjegyzékbe bejelentett pénzforgalmi számlára vonatkozó adatok kivételével – a pénzforgalmi számla megnyitását és megszüntetését annak időpontját követő hét napon belül a pénzforgalmi jelzőszám feltüntetésével közli az állami adó- és vámhatósággal.
@@ -1315,9 +1320,9 @@ Az idegenrendészeti, menekültügyi, állampolgársági ügyekben eljáró hat�
 
 #### 104. § [Pénzügyi intézmény, pénzforgalmi intézmény, befektetési vállalkozás, elektronikuspénz-kibocsátó intézmény adatszolgáltatása]
 
-(1) Ha az állami adó- és vámhatóság ellenőrzési eljárás, végrehajtási eljárás megindításához, lefolytatásához vagy bűnüldözési, nyomozó hatósági tevékenysége végzéséhez, továbbá a pénzügyi információs egységként működő hatóság feladatainak végzéséhez szükséges adatok iránti megkeresést vagy adatkérést elektronikus úton juttatja el az általa e célra működtetett elektronikus rendszeren keresztül a pénzügyi intézmény, a pénzforgalmi intézmény, a befektetési vállalkozás, és az elektronikuspénz-kibocsátó intézmény részére, a megkeresést vagy az adatkérést a pénzügyi intézmény, a pénzforgalmi intézmény, befektetési vállalkozás és az elektronikuspénz-kibocsátó intézmény elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban köteles teljesíteni.
+(1) Ha az állami adó- és vámhatóság kockázatelemzési eljárás, ellenőrzési eljárás, végrehajtási eljárás megindításához, lefolytatásához vagy bűnüldözési, nyomozó hatósági tevékenysége végzéséhez, továbbá a pénzügyi információs egységként működő hatóság feladatainak végzéséhez szükséges adatok iránti megkeresést vagy adatkérést elektronikus úton juttatja el az általa e célra működtetett elektronikus rendszeren keresztül a pénzügyi intézmény, a pénzforgalmi intézmény, a befektetési vállalkozás, és az elektronikuspénz-kibocsátó intézmény részére, a megkeresést vagy az adatkérést a pénzügyi intézmény, a pénzforgalmi intézmény, befektetési vállalkozás és az elektronikuspénz-kibocsátó intézmény elektronikus úton, az állami adó- és vámhatóság által meghatározott formátumban köteles teljesíteni.
 
-(2) Az (1) bekezdés szerinti megkeresések teljesítésére nyitva álló határidő a végrehajtási eljáráshoz szükséges megkeresések tekintetében nyolc nap, az ellenőrzési eljáráshoz szükséges megkeresések tekintetében tizenöt nap.
+(2) Az (1) bekezdés szerinti megkeresések teljesítésére nyitva álló határidő a végrehajtási eljáráshoz szükséges megkeresések tekintetében nyolc nap, a kockázatelemzési eljáráshoz, illetve az ellenőrzési eljáráshoz szükséges megkeresések tekintetében tizenöt nap.
 
 (3) Az (1) bekezdés szerinti elektronikus kapcsolattartásra köteles pénzügyi intézmény, pénzforgalmi intézmény, befektetési vállalkozás és elektronikuspénz-kibocsátó intézmény az ezen elektronikus kapcsolattartáshoz szükséges adatait köteles bejelenteni az állami adó- és vámhatóságnak.
 
@@ -2111,7 +2116,7 @@ Az adóhatóság az adókötelezettségek teljesítésével összefüggő kocká
 
 #### 137. § [Adatkérés kockázatelemzési eljárásban]
 
-Ha az adóhatóság a kockázatelemzés során a rendelkezésére álló adatok alapján az adózó vonatkozásában kockázatot tár fel, más hatóságoktól a kockázatelemzés alatt álló adózóval kapcsolatban az adózó adókötelezettségét érintő adatokat kérhet, amelyeket az adott adózóra vonatkozó további kockázatelemzési tevékenységéhez használhat fel. Ha az adóhatóság az adózót ellenőrzésre nem választja ki, úgy a kockázatelemzés lezárását követően az e § alapján beszerzett adatokat haladéktalanul törli.
+Ha az adóhatóság a kockázatelemzés során a rendelkezésére álló adatok alapján az adózó vonatkozásában kockázatot tár fel, más hatóságoktól, pénzügyi intézménytől, pénzforgalmi intézménytől, befektetési vállalkozástól, elektronikuspénz-kibocsátó intézménytől a kockázatelemzés alatt álló adózóval kapcsolatban az adózó adókötelezettségét érintő adatokat kérhet, amelyeket az adott adózóra vonatkozó további kockázatelemzési tevékenységéhez használhat fel. Ha az adóhatóság az adózót ellenőrzésre nem választja ki, úgy a kockázatelemzés lezárását követően az e § alapján beszerzett adatokat haladéktalanul törli.
 
 #### 138. § [A kockázatelemzési eljárást követő intézkedések]
 
@@ -3645,6 +3650,12 @@ Az állami adó- és vámhatóság a bevallási adatok alapján, a bevallási ha
 
 (2) Az állami adó- és vámhatóság nyolc napon belül kérelemre törli az adózót az e § szerinti közzétételi listáról, ha az adózó az előző negyedév során véglegessé vált határozatban előírt fizetési kötelezettségét maradéktalanul teljesíti.
 
+#### 263/A. § [Adóhiánnyal rendelkező adózókra vonatkozó különös közzétételi szabály]
+
+(1) Az állami adó- és vámhatóság negyedévenként – a negyedévet követő harminc napon belül – legfeljebb kettő évre közzéteszi a személyi jövedelemadó adónemben adóhiánnyal rendelkező adózók közzétételi listáján azon országgyűlési képviselő, európai parlamenti képviselő, miniszterelnök, miniszter, államtitkár, közigazgatási államtitkár, valamint a kormányzati igazgatásról szóló 2018. évi CXXV. törvény 3. § (5) bekezdése szerinti biztosi jogviszonyban álló személy nevét, az ellenőrzéssel lezárt időszakban betöltött, e § szerinti közzététel alapjául szolgáló tisztség, illetve tisztségek megnevezését és annak időtartamát, a személyi jövedelemadóban és az ahhoz kapcsolódó adónemekben megállapított adóhiány és jogkövetkezmény összegét, akinek a terhére az előző negyedév során véglegessé vált határozatban – a 263. §-tól eltérően – legalább ötmillió forint összegű adóhiányt állapított meg.
+
+(2) Az állami adó- és vámhatóság a közzétételtől számított kilencven nap elteltét követően akkor törli az adózót az e § szerinti közzétételi listáról, ha az adózó az (1) bekezdés szerinti határozatban előírt fizetési kötelezettségét maradéktalanul teljesíti.
+
 #### 264. § [Nagy összegű adótartozással rendelkező adózók közzététele]
 
 (1) Az állami adó- és vámhatóság negyedévenként – a negyedévet követő harminc napon belül – honlapján a nagy összegű adótartozással rendelkező adózók közzétételi listáján közzéteszi annak a vállalkozási tevékenységet végző természetes személynek, a csőd- vagy felszámolási eljárás vagy kényszertörlés alatt nem álló, vállalkozási tevékenységet végző jogi személynek vagy egyéb szervezetnek a nevét, elnevezését, székhelyét, telephelyét, adószámát, amelynek száznyolcvan napon keresztül folyamatosan fennálló, az állami adó- és vámhatóságnál nyilvántartott túlfizetéssel csökkentett adótartozása összességében számítva a százmillió forintot meghaladja.
@@ -4062,6 +4073,10 @@ E törvénynek az egyes adókötelezettségekről és egyes adótörvények mód
 (1) E törvénynek az egyes adótörvények adminisztrációt csökkentő és jogharmonizációs célú módosításáról szóló 2025. évi LXXXIII. törvénnyel (a továbbiakban: Módtv.14.) megállapított 2. melléklet I. rész B) Az egyes adóbevallások határideje alcím 3. pont 3.1 alpont 3.1.14. pontját a Módtv.14. hatálybalépését megelőző időszakra vonatkozó bejelentésekre és változásbejelentésekre is alkalmazni kell.
 
 (2) E törvénynek a Módtv.14.-gyel megállapított 207. § (3) bekezdését a hatálybalépését követően indult ellenőrzések során kell alkalmazni.
+
+#### 274/X. § [Átmeneti rendelkezés a közvagyon védelmét és a közbizalom helyreállítását szolgáló egyes intézkedésekről szóló 2026. évi LXXIV. törvényhez]
+
+E törvénynek a közvagyon védelmét és a közbizalom helyreállítását szolgáló egyes intézkedésekről szóló 2026. évi LXXIV. törvénnyel (a továbbiakban: Módtv.15.) megállapított 83. § (3) bekezdése alapján a földmérési és térinformatikai államigazgatási szerv a számítógépes ingatlan-nyilvántartási rendszer Módtv.15. hatálybalépése napján érvényes és törölt adatairól elektronikus úton első alkalommal a Módtv.15. hatálybalépését követő tizenöt napon belül szolgáltat adatot.
 
 #### 275. § [Az Európai Unió jogának való megfelelés]
 

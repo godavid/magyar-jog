@@ -1918,6 +1918,8 @@ van összefüggésben.
 
 (9) Nem jelenti a biztosítási titok sérelmét a Hpt. 164/B. § szerinti adattovábbítás.
 
+(10) Nem jelenti a biztosítási titok sérelmét a vagyonbiztosítási szerződés – így különösen a vagyontárgyakhoz, követelésekhez, vagyoni jogokhoz kapcsolódó biztosítási szerződések –, valamint a megtakarítási jellegű életbiztosítás – ideértve a befektetési egységhez kötött életbiztosítást és tradicionális életbiztosítást is – tekintetében az adókötelezettségek teljesítésével összefüggő kockázatok azonosítása, valamint az azonosított kockázatok fennállásának kizárása vagy megállapítása érdekében kockázatelemzést végző adóhatóság, vámhatóság részére – e szervnek a szolgáltatóhoz intézett adatkérése vagy írásbeli megkeresése alapján – történő adattovábbítás.
+
 139. § A biztosítási titok megtartásának kötelezettsége nem áll fenn abban az esetben, ha
 
 - a) a magyar bűnüldöző szerv – nemzetközi kötelezettségvállalás alapján külföldi bűnüldöző szerv írásbeli megkeresésének teljesítése céljából – írásban kér biztosítási titoknak minősülő adatot,

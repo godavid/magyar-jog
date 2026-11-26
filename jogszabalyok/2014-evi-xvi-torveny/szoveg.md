@@ -3517,7 +3517,7 @@ szemben.
 - f) a büntető-, valamint polgári ügyben, továbbá csőd-, felszámolási eljárás, illetve az önkormányzatok adósságrendezési eljárása keretében a bírósággal,
 - g) külön törvényben meghatározott feltételek teljesülése esetén a titkos információgyűjtésre felhatalmazott szervvel,
 - h) a főigazgató eseti engedélye alapján a törvényben meghatározott feladatkörében eljáró nemzetbiztonsági szolgálattal,
-- i) az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal,
+- i) az adókötelezettségek teljesítésével összefüggő kockázatok azonosítása, valamint az azonosított kockázatok fennállásának kizárása vagy megállapítása érdekében kockázatelemzést végző, illetve az adó-, vám- és társadalombiztosítási kötelezettség teljesítésének ellenőrzése, valamint az ilyen tartozást megállapító végrehajtható okirat végrehajtása érdekében folytatott eljárás keretében eljáró adóhatósággal, vámhatósággal,
 - j) a feladatkörében eljáró országgyűlési biztossal,
 - k) a Nemzeti Adatvédelmi és Információszabadság Hatósággal
 
